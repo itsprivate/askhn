@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://askhn.buzzing.cc</id>
+    <title>👋 Ask HN!</title>
+    <updated>2022-01-20T19:59:01.337Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Buzzing</name>
+        <email>hello@buzzing.cc</email>
+        <uri>https://askhn.buzzing.cc</uri>
+    </author>
+    <link rel="alternate" href="https://askhn.buzzing.cc"/>
+    <link rel="self" href="https://askhn.buzzing.cc/atom.xml"/>
+    <subtitle>用中文浏览Hacker News Ask HN 最新提问</subtitle>
+    <logo>http://example.com/image.png</logo>
+    <icon>https://askhn.buzzing.cc/favicon.ico</icon>
+    <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: 废除StackExchange以产生YoutTube的内容是道德的吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30010861</id>
+        <link href="https://news.ycombinator.com/item?id=30010861"/>
+        <updated>2022-01-20T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it ethical to scrap StackExchange to generate YoutTube content?]]></summary>
+        <author>
+            <name>Twisell</name>
+            <uri>https://news.ycombinator.com/user?id=Twisell</uri>
+        </author>
+    </entry>
+</feed>

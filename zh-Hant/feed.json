@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "👋 Ask HN!",
+    "home_page_url": "https://askhn.buzzing.cc",
+    "feed_url": "https://askhn.buzzing.cc/feed.json",
+    "description": "用中文浏览Hacker News Ask HN 最新提问",
+    "icon": "http://example.com/image.png",
+    "author": {
+        "name": "Buzzing",
+        "url": "https://askhn.buzzing.cc"
+    },
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=30010861",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30010861",
+            "title": "Ask HN: 廢除StackExchange以產生YoutTube的內容是道德的嗎？",
+            "summary": "Ask HN: Is it ethical to scrap StackExchange to generate YoutTube content?",
+            "date_modified": "2022-01-20T16:18:24.000Z",
+            "author": {
+                "name": "Twisell",
+                "url": "https://news.ycombinator.com/user?id=Twisell"
+            }
+        }
+    ]
+}
