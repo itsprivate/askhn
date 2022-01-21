@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-21T17:32:06.718Z</updated>
+    <updated>2022-01-21T17:41:50.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[反向链接搜索？]]></title>
+        <id>https://news.ycombinator.com/item?id=30026961</id>
+        <link href="https://news.ycombinator.com/item?id=30026961"/>
+        <updated>2022-01-21T17:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reverse Link Search?]]></summary>
+        <author>
+            <name>NAR8789</name>
+            <uri>https://news.ycombinator.com/user?id=NAR8789</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪里找人推销我的SaaS？]]></title>
         <id>https://news.ycombinator.com/item?id=30026801</id>
