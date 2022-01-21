@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-21T15:42:35.156Z</updated>
+    <updated>2022-01-21T16:45:00.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -16,7 +16,29 @@
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你如何管理你的SMS信息？]]></title>
+        <title type="html"><![CDATA[尋找一個C++音頻庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30025824</id>
+        <link href="https://news.ycombinator.com/item?id=30025824"/>
+        <updated>2022-01-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a C++ Audio Lib]]></summary>
+        <author>
+            <name>yair99dd</name>
+            <uri>https://news.ycombinator.com/user?id=yair99dd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何進行代碼審查？]]></title>
+        <id>https://news.ycombinator.com/item?id=30025532</id>
+        <link href="https://news.ycombinator.com/item?id=30025532"/>
+        <updated>2022-01-21T16:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you conduct code reviews?]]></summary>
+        <author>
+            <name>weavie</name>
+            <uri>https://news.ycombinator.com/user?id=weavie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何管理你的SMS信息？]]></title>
         <id>https://news.ycombinator.com/item?id=30024992</id>
         <link href="https://news.ycombinator.com/item?id=30024992"/>
         <updated>2022-01-21T15:38:00.000Z</updated>
@@ -27,7 +49,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你用什麼來訂購宣傳品？]]></title>
+        <title type="html"><![CDATA[你用什麼來訂購宣傳品？]]></title>
         <id>https://news.ycombinator.com/item?id=30024850</id>
         <link href="https://news.ycombinator.com/item?id=30024850"/>
         <updated>2022-01-21T15:29:54.000Z</updated>
@@ -38,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: HN的技術棧？]]></title>
+        <title type="html"><![CDATA[HN的技術棧？]]></title>
         <id>https://news.ycombinator.com/item?id=30022627</id>
         <link href="https://news.ycombinator.com/item?id=30022627"/>
         <updated>2022-01-21T12:42:08.000Z</updated>
@@ -49,7 +71,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 哪些是最符合審美的科技博客？]]></title>
+        <title type="html"><![CDATA[哪些是最符合審美的科技博客？]]></title>
         <id>https://news.ycombinator.com/item?id=30022461</id>
         <link href="https://news.ycombinator.com/item?id=30022461"/>
         <updated>2022-01-21T12:26:18.000Z</updated>
@@ -60,7 +82,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 機器學習和星座之間有什麼區別？]]></title>
+        <title type="html"><![CDATA[機器學習和星座之間有什麼區別？]]></title>
         <id>https://news.ycombinator.com/item?id=30022290</id>
         <link href="https://news.ycombinator.com/item?id=30022290"/>
         <updated>2022-01-21T12:01:00.000Z</updated>
@@ -71,7 +93,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 2022年，Ruby on rails值得學習嗎？]]></title>
+        <title type="html"><![CDATA[2022年，Ruby on rails值得學習嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30022185</id>
         <link href="https://news.ycombinator.com/item?id=30022185"/>
         <updated>2022-01-21T11:42:43.000Z</updated>
@@ -82,7 +104,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 是什麼讓一段代碼變得美麗？]]></title>
+        <title type="html"><![CDATA[是什麼讓一段代碼變得美麗？]]></title>
         <id>https://news.ycombinator.com/item?id=30022137</id>
         <link href="https://news.ycombinator.com/item?id=30022137"/>
         <updated>2022-01-21T11:35:32.000Z</updated>
@@ -93,7 +115,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 除了保羅-格雷厄姆之外，還有哪些偉大的散文作家？]]></title>
+        <title type="html"><![CDATA[除了保羅-格雷厄姆之外，還有哪些偉大的散文作家？]]></title>
         <id>https://news.ycombinator.com/item?id=30021993</id>
         <link href="https://news.ycombinator.com/item?id=30021993"/>
         <updated>2022-01-21T11:15:19.000Z</updated>
@@ -104,7 +126,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 架構設計決定是否包括在項目許可中？]]></title>
+        <title type="html"><![CDATA[架構設計決定是否包括在項目許可中？]]></title>
         <id>https://news.ycombinator.com/item?id=30021986</id>
         <link href="https://news.ycombinator.com/item?id=30021986"/>
         <updated>2022-01-21T11:14:24.000Z</updated>
@@ -115,7 +137,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 最佳來源(s)在Web3上]]></title>
+        <title type="html"><![CDATA[最佳來源(s)在Web3上]]></title>
         <id>https://news.ycombinator.com/item?id=30021597</id>
         <link href="https://news.ycombinator.com/item?id=30021597"/>
         <updated>2022-01-21T10:21:38.000Z</updated>
@@ -126,7 +148,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 人工智能是否適用於體育？你有例子嗎？]]></title>
+        <title type="html"><![CDATA[人工智能是否適用於體育？你有例子嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30021518</id>
         <link href="https://news.ycombinator.com/item?id=30021518"/>
         <updated>2022-01-21T10:12:06.000Z</updated>
@@ -137,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 昨天提交的捲曲材料發生了什麼？]]></title>
+        <title type="html"><![CDATA[昨天提交的捲曲材料發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30021441</id>
         <link href="https://news.ycombinator.com/item?id=30021441"/>
         <updated>2022-01-21T10:01:44.000Z</updated>
@@ -148,7 +170,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 是我用錯了還是HN的搜索引擎不好？]]></title>
+        <title type="html"><![CDATA[是我用錯了還是HN的搜索引擎不好？]]></title>
         <id>https://news.ycombinator.com/item?id=30020421</id>
         <link href="https://news.ycombinator.com/item?id=30020421"/>
         <updated>2022-01-21T07:46:43.000Z</updated>
@@ -159,7 +181,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 尋找自由插畫師/動畫師的最佳網站？]]></title>
+        <title type="html"><![CDATA[尋找自由插畫師/動畫師的最佳網站？]]></title>
         <id>https://news.ycombinator.com/item?id=30020139</id>
         <link href="https://news.ycombinator.com/item?id=30020139"/>
         <updated>2022-01-21T07:01:17.000Z</updated>
@@ -170,7 +192,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你的MVP有多少測試覆蓋率？]]></title>
+        <title type="html"><![CDATA[你的MVP有多少測試覆蓋率？]]></title>
         <id>https://news.ycombinator.com/item?id=30019979</id>
         <link href="https://news.ycombinator.com/item?id=30019979"/>
         <updated>2022-01-21T06:37:40.000Z</updated>
@@ -181,7 +203,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你的待命警報或鈴聲是什麼？]]></title>
+        <title type="html"><![CDATA[你的待命警報或鈴聲是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30019483</id>
         <link href="https://news.ycombinator.com/item?id=30019483"/>
         <updated>2022-01-21T05:20:49.000Z</updated>
@@ -192,7 +214,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 谷歌新聞是多麼有價值的資產？]]></title>
+        <title type="html"><![CDATA[谷歌新聞是多麼有價值的資產？]]></title>
         <id>https://news.ycombinator.com/item?id=30019291</id>
         <link href="https://news.ycombinator.com/item?id=30019291"/>
         <updated>2022-01-21T04:47:37.000Z</updated>
@@ -203,7 +225,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 家庭推薦算法？]]></title>
+        <title type="html"><![CDATA[家庭推薦算法？]]></title>
         <id>https://news.ycombinator.com/item?id=30019206</id>
         <link href="https://news.ycombinator.com/item?id=30019206"/>
         <updated>2022-01-21T04:34:16.000Z</updated>
@@ -214,7 +236,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 創業公司，你最近是如何招聘的？]]></title>
+        <title type="html"><![CDATA[創業公司，你最近是如何招聘的？]]></title>
         <id>https://news.ycombinator.com/item?id=30018766</id>
         <link href="https://news.ycombinator.com/item?id=30018766"/>
         <updated>2022-01-21T03:24:50.000Z</updated>
@@ -225,7 +247,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 是否有任何在線服務幫助你的孩子找到朋友？]]></title>
+        <title type="html"><![CDATA[是否有任何在線服務幫助你的孩子找到朋友？]]></title>
         <id>https://news.ycombinator.com/item?id=30018293</id>
         <link href="https://news.ycombinator.com/item?id=30018293"/>
         <updated>2022-01-21T02:03:15.000Z</updated>
@@ -236,7 +258,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 不合格的認證]]></title>
+        <title type="html"><![CDATA[不合格的認證]]></title>
         <id>https://news.ycombinator.com/item?id=30017947</id>
         <link href="https://news.ycombinator.com/item?id=30017947"/>
         <updated>2022-01-21T01:21:59.000Z</updated>
@@ -247,7 +269,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Python Whoosh相當於Crystal-lang或Go-lang？]]></title>
+        <title type="html"><![CDATA[Python Whoosh相當於Crystal-lang或Go-lang？]]></title>
         <id>https://news.ycombinator.com/item?id=30017845</id>
         <link href="https://news.ycombinator.com/item?id=30017845"/>
         <updated>2022-01-21T01:06:28.000Z</updated>
@@ -258,7 +280,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 任何致力於最佳Linux（棋盤）遊戲收集的repo網站]]></title>
+        <title type="html"><![CDATA[任何致力於最佳Linux（棋盤）遊戲收集的repo網站]]></title>
         <id>https://news.ycombinator.com/item?id=30016892</id>
         <link href="https://news.ycombinator.com/item?id=30016892"/>
         <updated>2022-01-20T23:25:25.000Z</updated>
@@ -269,7 +291,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 2022年的新企業應該使用哪個版本控制系統？]]></title>
+        <title type="html"><![CDATA[2022年的新企業應該使用哪個版本控制系統？]]></title>
         <id>https://news.ycombinator.com/item?id=30015693</id>
         <link href="https://news.ycombinator.com/item?id=30015693"/>
         <updated>2022-01-20T21:57:06.000Z</updated>
@@ -280,7 +302,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 我缺乏先見之明。如何應對？]]></title>
+        <title type="html"><![CDATA[我缺乏先見之明。如何應對？]]></title>
         <id>https://news.ycombinator.com/item?id=30015217</id>
         <link href="https://news.ycombinator.com/item?id=30015217"/>
         <updated>2022-01-20T21:20:53.000Z</updated>
@@ -291,7 +313,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你還在使用TIFF圖像格式嗎？]]></title>
+        <title type="html"><![CDATA[你還在使用TIFF圖像格式嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30014731</id>
         <link href="https://news.ycombinator.com/item?id=30014731"/>
         <updated>2022-01-20T20:50:17.000Z</updated>
@@ -302,7 +324,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 為什麼macOS中的任務控制在iPadOS中不能像這樣工作？]]></title>
+        <title type="html"><![CDATA[為什麼macOS中的任務控制在iPadOS中不能像這樣工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30014592</id>
         <link href="https://news.ycombinator.com/item?id=30014592"/>
         <updated>2022-01-20T20:41:47.000Z</updated>
@@ -313,7 +335,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你對無限制的假期有什麼看法？]]></title>
+        <title type="html"><![CDATA[你對無限制的假期有什麼看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30014465</id>
         <link href="https://news.ycombinator.com/item?id=30014465"/>
         <updated>2022-01-20T20:34:34.000Z</updated>
@@ -324,7 +346,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 軟件調試論文？]]></title>
+        <title type="html"><![CDATA[軟件調試論文？]]></title>
         <id>https://news.ycombinator.com/item?id=30014461</id>
         <link href="https://news.ycombinator.com/item?id=30014461"/>
         <updated>2022-01-20T20:34:10.000Z</updated>
@@ -335,7 +357,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 為什麼我們還能收到垃圾郵件的語音信箱？]]></title>
+        <title type="html"><![CDATA[為什麼我們還能收到垃圾郵件的語音信箱？]]></title>
         <id>https://news.ycombinator.com/item?id=30014450</id>
         <link href="https://news.ycombinator.com/item?id=30014450"/>
         <updated>2022-01-20T20:33:31.000Z</updated>
@@ -346,7 +368,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Galvanize是否已經完全清除了Hack Reactor品牌？]]></title>
+        <title type="html"><![CDATA[Galvanize是否已經完全清除了Hack Reactor品牌？]]></title>
         <id>https://news.ycombinator.com/item?id=30014381</id>
         <link href="https://news.ycombinator.com/item?id=30014381"/>
         <updated>2022-01-20T20:29:38.000Z</updated>
@@ -357,7 +379,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 籌集資金並僱用銷售人員，還是尋找第三個（銷售）聯合創始人？]]></title>
+        <title type="html"><![CDATA[籌集資金並僱用銷售人員，還是尋找第三個（銷售）聯合創始人？]]></title>
         <id>https://news.ycombinator.com/item?id=30014348</id>
         <link href="https://news.ycombinator.com/item?id=30014348"/>
         <updated>2022-01-20T20:27:40.000Z</updated>
@@ -368,7 +390,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 谷歌翻譯的替代方案？]]></title>
+        <title type="html"><![CDATA[谷歌翻譯的替代方案？]]></title>
         <id>https://news.ycombinator.com/item?id=30013189</id>
         <link href="https://news.ycombinator.com/item?id=30013189"/>
         <updated>2022-01-20T19:08:50.000Z</updated>
@@ -379,7 +401,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 科威德疫苗是手推車問題的一個實例嗎？]]></title>
+        <title type="html"><![CDATA[科威德疫苗是手推車問題的一個實例嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30013150</id>
         <link href="https://news.ycombinator.com/item?id=30013150"/>
         <updated>2022-01-20T19:06:19.000Z</updated>
@@ -390,7 +412,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 當應用程序不收集任何數據時的隱私政策]]></title>
+        <title type="html"><![CDATA[當應用程序不收集任何數據時的隱私政策]]></title>
         <id>https://news.ycombinator.com/item?id=30012243</id>
         <link href="https://news.ycombinator.com/item?id=30012243"/>
         <updated>2022-01-20T17:56:12.000Z</updated>
@@ -401,7 +423,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你目前在軟件工程方面的熱點是什麼？]]></title>
+        <title type="html"><![CDATA[你目前在軟件工程方面的熱點是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30011961</id>
         <link href="https://news.ycombinator.com/item?id=30011961"/>
         <updated>2022-01-20T17:34:44.000Z</updated>
@@ -412,7 +434,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 美國的民主是否正在崩潰？]]></title>
+        <title type="html"><![CDATA[美國的民主是否正在崩潰？]]></title>
         <id>https://news.ycombinator.com/item?id=30011933</id>
         <link href="https://news.ycombinator.com/item?id=30011933"/>
         <updated>2022-01-20T17:31:57.000Z</updated>
@@ -423,7 +445,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 為我的孩子們發送郵件，在未來可以訪問(]]></title>
+        <title type="html"><![CDATA[為我的孩子們發送郵件，在未來可以訪問(]]></title>
         <id>https://news.ycombinator.com/item?id=30011812</id>
         <link href="https://news.ycombinator.com/item?id=30011812"/>
         <updated>2022-01-20T17:24:06.000Z</updated>
@@ -434,7 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 閱讀技術書籍的最佳設備是什麼？]]></title>
+        <title type="html"><![CDATA[閱讀技術書籍的最佳設備是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30011348</id>
         <link href="https://news.ycombinator.com/item?id=30011348"/>
         <updated>2022-01-20T16:49:30.000Z</updated>
@@ -445,7 +467,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 創業時如何權衡財務結果？]]></title>
+        <title type="html"><![CDATA[創業時如何權衡財務結果？]]></title>
         <id>https://news.ycombinator.com/item?id=30010981</id>
         <link href="https://news.ycombinator.com/item?id=30010981"/>
         <updated>2022-01-20T16:24:59.000Z</updated>
@@ -456,7 +478,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 廢除StackExchange以產生YoutTube的內容是道德的嗎？]]></title>
+        <title type="html"><![CDATA[廢除StackExchange以產生YoutTube的內容是道德的嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30010861</id>
         <link href="https://news.ycombinator.com/item?id=30010861"/>
         <updated>2022-01-20T16:18:24.000Z</updated>
@@ -467,7 +489,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: TextExpander是否被認為是一種安全責任？]]></title>
+        <title type="html"><![CDATA[TextExpander是否被認為是一種安全責任？]]></title>
         <id>https://news.ycombinator.com/item?id=30010533</id>
         <link href="https://news.ycombinator.com/item?id=30010533"/>
         <updated>2022-01-20T15:58:35.000Z</updated>
@@ -478,7 +500,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你準備好出售老奶奶的銀製茶具和餐具了嗎？]]></title>
+        <title type="html"><![CDATA[你準備好出售老奶奶的銀製茶具和餐具了嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30009652</id>
         <link href="https://news.ycombinator.com/item?id=30009652"/>
         <updated>2022-01-20T14:58:22.000Z</updated>
@@ -489,7 +511,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 為什麼谷歌在我登錄的情況下會大大限制搜索結果？]]></title>
+        <title type="html"><![CDATA[為什麼谷歌在我登錄的情況下會大大限制搜索結果？]]></title>
         <id>https://news.ycombinator.com/item?id=30009578</id>
         <link href="https://news.ycombinator.com/item?id=30009578"/>
         <updated>2022-01-20T14:52:49.000Z</updated>
@@ -500,7 +522,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 如何用邊緣TPU從頭開始建立一個定製板？]]></title>
+        <title type="html"><![CDATA[如何用邊緣TPU從頭開始建立一個定製板？]]></title>
         <id>https://news.ycombinator.com/item?id=30008369</id>
         <link href="https://news.ycombinator.com/item?id=30008369"/>
         <updated>2022-01-20T13:05:51.000Z</updated>
@@ -511,7 +533,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 能夠處理 "非語義"（HN風格）的線程評論的刮削API？]]></title>
+        <title type="html"><![CDATA[能夠處理 "非語義"（HN風格）的線程評論的刮削API？]]></title>
         <id>https://news.ycombinator.com/item?id=30007889</id>
         <link href="https://news.ycombinator.com/item?id=30007889"/>
         <updated>2022-01-20T12:11:22.000Z</updated>
@@ -522,7 +544,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你的家庭網絡設置是什麼？]]></title>
+        <title type="html"><![CDATA[你的家庭網絡設置是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30007856</id>
         <link href="https://news.ycombinator.com/item?id=30007856"/>
         <updated>2022-01-20T12:08:10.000Z</updated>
@@ -533,7 +555,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 為什麼HN Top今天讀起來像小報的頭版？]]></title>
+        <title type="html"><![CDATA[為什麼HN Top今天讀起來像小報的頭版？]]></title>
         <id>https://news.ycombinator.com/item?id=30007178</id>
         <link href="https://news.ycombinator.com/item?id=30007178"/>
         <updated>2022-01-20T10:43:31.000Z</updated>
@@ -544,7 +566,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 請對我的產品登陸頁營銷進行點評]]></title>
+        <title type="html"><![CDATA[請對我的產品登陸頁營銷進行點評]]></title>
         <id>https://news.ycombinator.com/item?id=30007158</id>
         <link href="https://news.ycombinator.com/item?id=30007158"/>
         <updated>2022-01-20T10:40:02.000Z</updated>
@@ -555,7 +577,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 自定義域名的免費郵件服務 - G套件的替代品]]></title>
+        <title type="html"><![CDATA[自定義域名的免費郵件服務 - G套件的替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30006596</id>
         <link href="https://news.ycombinator.com/item?id=30006596"/>
         <updated>2022-01-20T09:14:40.000Z</updated>
@@ -566,7 +588,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 你曾經在嗑藥時編碼嗎？結果是什麼？]]></title>
+        <title type="html"><![CDATA[你曾經在嗑藥時編碼嗎？結果是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30006465</id>
         <link href="https://news.ycombinator.com/item?id=30006465"/>
         <updated>2022-01-20T08:53:02.000Z</updated>
@@ -577,7 +599,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: 測試驅動開發是否會產生更好的軟件？]]></title>
+        <title type="html"><![CDATA[測試驅動開發是否會產生更好的軟件？]]></title>
         <id>https://news.ycombinator.com/item?id=30005895</id>
         <link href="https://news.ycombinator.com/item?id=30005895"/>
         <updated>2022-01-20T07:33:55.000Z</updated>
