@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-23T15:42:07.567Z</updated>
+    <updated>2022-01-23T16:10:11.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否也覺得讀完一本技術書後，你什麼都沒保留住？]]></title>
+        <id>https://news.ycombinator.com/item?id=30047138</id>
+        <link href="https://news.ycombinator.com/item?id=30047138"/>
+        <updated>2022-01-23T15:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you also feel you retain nothing after reading a technical book?]]></summary>
+        <author>
+            <name>dondraper36</name>
+            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在圍棋的背景下，有哪些關於清潔架構的好資源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30047078</id>
+        <link href="https://news.ycombinator.com/item?id=30047078"/>
+        <updated>2022-01-23T15:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are good resources on clean architecture in the context of Go?]]></summary>
+        <author>
+            <name>dondraper36</name>
+            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼本科專業最適合專注於數學建模？]]></title>
         <id>https://news.ycombinator.com/item?id=30046860</id>
