@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-23T23:07:53.068Z</updated>
+    <updated>2022-01-23T23:27:01.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[飞机上的黑客。边离线边学习]]></title>
+        <id>https://news.ycombinator.com/item?id=30051617</id>
+        <link href="https://news.ycombinator.com/item?id=30051617"/>
+        <updated>2022-01-23T23:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hackers on a plane. learning while offline]]></summary>
+        <author>
+            <name>yair99dd</name>
+            <uri>https://news.ycombinator.com/user?id=yair99dd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何使用Markdown并完全热键化的电子邮件平台？]]></title>
         <id>https://news.ycombinator.com/item?id=30051422</id>
