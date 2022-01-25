@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-25T15:09:13.696Z</updated>
+    <updated>2022-01-25T15:31:00.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用我的名字/工作搜索的政治Twitter账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30072644</id>
+        <link href="https://news.ycombinator.com/item?id=30072644"/>
+        <updated>2022-01-25T15:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Political Twitter account using my name/job search]]></summary>
+        <author>
+            <name>makersmasher</name>
+            <uri>https://news.ycombinator.com/user?id=makersmasher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有人搬到/目前在加那利群岛？]]></title>
+        <id>https://news.ycombinator.com/item?id=30072629</id>
+        <link href="https://news.ycombinator.com/item?id=30072629"/>
+        <updated>2022-01-25T15:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone moved to/currently in the Canary Islands?]]></summary>
+        <author>
+            <name>labarilem</name>
+            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人们如何从Python注释中生成文档？]]></title>
         <id>https://news.ycombinator.com/item?id=30072545</id>
