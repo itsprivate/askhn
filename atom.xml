@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-25T14:34:55.907Z</updated>
+    <updated>2022-01-25T15:09:13.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人们如何从Python注释中生成文档？]]></title>
+        <id>https://news.ycombinator.com/item?id=30072545</id>
+        <link href="https://news.ycombinator.com/item?id=30072545"/>
+        <updated>2022-01-25T15:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do people generate documentation from Python comments?]]></summary>
+        <author>
+            <name>RPeres</name>
+            <uri>https://news.ycombinator.com/user?id=RPeres</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的公司API使用什么文件系统/平台？]]></title>
         <id>https://news.ycombinator.com/item?id=30072069</id>
