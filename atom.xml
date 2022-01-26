@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-26T18:10:16.737Z</updated>
+    <updated>2022-01-26T18:34:13.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支持文章的最佳解决方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=30089599</id>
+        <link href="https://news.ycombinator.com/item?id=30089599"/>
+        <updated>2022-01-26T18:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Solution for Support Articles?]]></summary>
+        <author>
+            <name>kashgoudarzi</name>
+            <uri>https://news.ycombinator.com/user?id=kashgoudarzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你推荐什么来代替鲍勃叔叔的《清洁建筑》？]]></title>
+        <id>https://news.ycombinator.com/item?id=30089134</id>
+        <link href="https://news.ycombinator.com/item?id=30089134"/>
+        <updated>2022-01-26T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you recommend instead of Clean Architecture by Uncle Bob?]]></summary>
+        <author>
+            <name>dondraper36</name>
+            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何才能成为网络知识分子？]]></title>
         <id>https://news.ycombinator.com/item?id=30088882</id>
