@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T23:09:55.003Z</updated>
+    <updated>2022-01-27T23:28:47.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有一个家庭电池系统吗？它是否符合GPL标准？]]></title>
+        <id>https://news.ycombinator.com/item?id=30108528</id>
+        <link href="https://news.ycombinator.com/item?id=30108528"/>
+        <updated>2022-01-27T23:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have a home battery system? Is it GPL compliant?]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[试图登录HN时出现奇怪的错误]]></title>
         <id>https://news.ycombinator.com/item?id=30108322</id>
