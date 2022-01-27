@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T22:49:28.651Z</updated>
+    <updated>2022-01-27T23:09:55.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[试图登录HN时出现奇怪的错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30108322</id>
+        <link href="https://news.ycombinator.com/item?id=30108322"/>
+        <updated>2022-01-27T23:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Strange error attempting to log in to HN]]></summary>
+        <author>
+            <name>soapdog</name>
+            <uri>https://news.ycombinator.com/user?id=soapdog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何转为兼职的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30108108</id>
+        <link href="https://news.ycombinator.com/item?id=30108108"/>
+        <updated>2022-01-27T22:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you switch to part time?]]></summary>
+        <author>
+            <name>throwaway1178</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway1178</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么好的SPAM邮件报告服务吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30108037</id>
