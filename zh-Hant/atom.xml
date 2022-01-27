@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T17:04:10.476Z</updated>
+    <updated>2022-01-27T17:32:59.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在哪裡可以提出關於哪個API有X功能的問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30103373</id>
+        <link href="https://news.ycombinator.com/item?id=30103373"/>
+        <updated>2022-01-27T17:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I ask questions about which API has feature X?]]></summary>
+        <author>
+            <name>lambdaba</name>
+            <uri>https://news.ycombinator.com/user?id=lambdaba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最有趣的用於驅動的內容]]></title>
         <id>https://news.ycombinator.com/item?id=30102868</id>
