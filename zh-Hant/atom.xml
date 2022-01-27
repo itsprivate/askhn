@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T14:27:27.257Z</updated>
+    <updated>2022-01-27T15:11:21.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在獨立的地址空間內有動態鏈接的庫的操作系統？]]></title>
+        <id>https://news.ycombinator.com/item?id=30101378</id>
+        <link href="https://news.ycombinator.com/item?id=30101378"/>
+        <updated>2022-01-27T15:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: OS-es with dynamically-linked libs in separate address spaces?]]></summary>
+        <author>
+            <name>yakubin</name>
+            <uri>https://news.ycombinator.com/user?id=yakubin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為開源工作的營銷、開發和佈道活動]]></title>
+        <id>https://news.ycombinator.com/item?id=30101292</id>
+        <link href="https://news.ycombinator.com/item?id=30101292"/>
+        <updated>2022-01-27T14:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Marketing, DevRel and Evangelism working for Open-source]]></summary>
+        <author>
+            <name>andreacavagna</name>
+            <uri>https://news.ycombinator.com/user?id=andreacavagna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從結構化數據中生成自然語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30101274</id>
+        <link href="https://news.ycombinator.com/item?id=30101274"/>
+        <updated>2022-01-27T14:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Natural language generation from structured data]]></summary>
+        <author>
+            <name>michele_f</name>
+            <uri>https://news.ycombinator.com/user?id=michele_f</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN上是否有現役/退役軍人？]]></title>
         <id>https://news.ycombinator.com/item?id=30100894</id>
