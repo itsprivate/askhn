@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T04:36:58.589Z</updated>
+    <updated>2022-01-27T05:26:56.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对公司人口统计学数据库感兴趣吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30096514</id>
+        <link href="https://news.ycombinator.com/item?id=30096514"/>
+        <updated>2022-01-27T05:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you be interested in a database of companies demographics?]]></summary>
+        <author>
+            <name>throwawaynay</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PWA超级应用/应用商店是否可行？]]></title>
         <id>https://news.ycombinator.com/item?id=30096235</id>
