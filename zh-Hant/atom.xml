@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-27T23:48:56.186Z</updated>
+    <updated>2022-01-28T00:28:25.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名BE工程師，學習FE網絡開發]]></title>
+        <id>https://news.ycombinator.com/item?id=30109038</id>
+        <link href="https://news.ycombinator.com/item?id=30109038"/>
+        <updated>2022-01-28T00:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learning FE web dev as a BE engineer]]></summary>
+        <author>
+            <name>fzingle</name>
+            <uri>https://news.ycombinator.com/user?id=fzingle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪種前端框架用於漸進式增強？]]></title>
+        <id>https://news.ycombinator.com/item?id=30108981</id>
+        <link href="https://news.ycombinator.com/item?id=30108981"/>
+        <updated>2022-01-28T00:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which front-end framework for progressive enhancements?]]></summary>
+        <author>
+            <name>iRomain</name>
+            <uri>https://news.ycombinator.com/user?id=iRomain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你用哪種語言/IDE來製作Windows的二進制文件（.exe）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30108970</id>
+        <link href="https://news.ycombinator.com/item?id=30108970"/>
+        <updated>2022-01-28T00:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which language/IDE you use to make binaries (.exe) for Windows?]]></summary>
+        <author>
+            <name>unpopularopp</name>
+            <uri>https://news.ycombinator.com/user?id=unpopularopp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司是否仍有99.99999%或類似的正常運行時間SLA或OKRs？]]></title>
         <id>https://news.ycombinator.com/item?id=30108687</id>
