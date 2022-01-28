@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-28T14:08:42.642Z</updated>
+    <updated>2022-01-28T14:26:40.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的团队是否使用特征标志？]]></title>
+        <id>https://news.ycombinator.com/item?id=30114856</id>
+        <link href="https://news.ycombinator.com/item?id=30114856"/>
+        <updated>2022-01-28T14:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your team use feature flags?]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何获得良好的睡眠]]></title>
+        <id>https://news.ycombinator.com/item?id=30114846</id>
+        <link href="https://news.ycombinator.com/item?id=30114846"/>
+        <updated>2022-01-28T14:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Get Good Sleep]]></summary>
+        <author>
+            <name>jcuenod</name>
+            <uri>https://news.ycombinator.com/user?id=jcuenod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stripe发行的卡的商户费用？]]></title>
         <id>https://news.ycombinator.com/item?id=30114595</id>
