@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-29T19:10:05.587Z</updated>
+    <updated>2022-01-29T19:23:48.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Safari只渲染頁面的一部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30129410</id>
+        <link href="https://news.ycombinator.com/item?id=30129410"/>
+        <updated>2022-01-29T19:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Safari only rendering part of pages]]></summary>
+        <author>
+            <name>replwoacause</name>
+            <uri>https://news.ycombinator.com/user?id=replwoacause</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3開發入門]]></title>
+        <id>https://news.ycombinator.com/item?id=30129394</id>
+        <link href="https://news.ycombinator.com/item?id=30129394"/>
+        <updated>2022-01-29T19:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Getting Started with Web3 Development]]></summary>
+        <author>
+            <name>lihaotan</name>
+            <uri>https://news.ycombinator.com/user?id=lihaotan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼BBC播放詹姆斯-伯克的 "連接"，而它是如此錯誤？]]></title>
         <id>https://news.ycombinator.com/item?id=30129273</id>
