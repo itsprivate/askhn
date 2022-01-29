@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-29T19:23:48.166Z</updated>
+    <updated>2022-01-29T20:09:51.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于平台的Authn和Authz？]]></title>
+        <id>https://news.ycombinator.com/item?id=30129853</id>
+        <link href="https://news.ycombinator.com/item?id=30129853"/>
+        <updated>2022-01-29T20:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Platform Based Authn and Authz?]]></summary>
+        <author>
+            <name>rodeomalone</name>
+            <uri>https://news.ycombinator.com/user?id=rodeomalone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safari只渲染页面的一部分]]></title>
         <id>https://news.ycombinator.com/item?id=30129410</id>
