@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-29T20:09:51.472Z</updated>
+    <updated>2022-01-29T20:44:02.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否为自己从系统管理员转而从事编程工作而感到高兴？]]></title>
+        <id>https://news.ycombinator.com/item?id=30130163</id>
+        <link href="https://news.ycombinator.com/item?id=30130163"/>
+        <updated>2022-01-29T20:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you happy that you switched from a sysadmin to a programming career?]]></summary>
+        <author>
+            <name>ethercell</name>
+            <uri>https://news.ycombinator.com/user?id=ethercell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你去哪里认识有趣的人（不是工程师）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30130142</id>
+        <link href="https://news.ycombinator.com/item?id=30130142"/>
+        <updated>2022-01-29T20:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you go to meet interesting people (not engineers)?]]></summary>
+        <author>
+            <name>goethes_kind</name>
+            <uri>https://news.ycombinator.com/user?id=goethes_kind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于平台的Authn和Authz？]]></title>
         <id>https://news.ycombinator.com/item?id=30129853</id>
