@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-30T06:32:52.179Z</updated>
+    <updated>2022-01-30T06:51:16.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的團隊是如何進行代碼審查的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30134656</id>
+        <link href="https://news.ycombinator.com/item?id=30134656"/>
+        <updated>2022-01-30T06:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does your team do code reviews?]]></summary>
+        <author>
+            <name>roflchoppa</name>
+            <uri>https://news.ycombinator.com/user?id=roflchoppa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何免費為你的軟件做廣告]]></title>
         <id>https://news.ycombinator.com/item?id=30134595</id>
