@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-30T14:49:25.521Z</updated>
+    <updated>2022-01-30T15:08:57.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我無法出售的IT故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30137763</id>
+        <link href="https://news.ycombinator.com/item?id=30137763"/>
+        <updated>2022-01-30T15:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: IT stories I cant sell]]></summary>
+        <author>
+            <name>Goleniewski</name>
+            <uri>https://news.ycombinator.com/user?id=Goleniewski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，你對WebSocket遊戲的解決方案會是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30137503</id>
