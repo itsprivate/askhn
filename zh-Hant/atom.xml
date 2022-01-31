@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-31T17:50:13.703Z</updated>
+    <updated>2022-01-31T18:10:33.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰在做全平臺代碼共享？]]></title>
+        <id>https://news.ycombinator.com/item?id=30151472</id>
+        <link href="https://news.ycombinator.com/item?id=30151472"/>
+        <updated>2022-01-31T18:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who does omni-platform code sharing?]]></summary>
+        <author>
+            <name>jconley</name>
+            <uri>https://news.ycombinator.com/user?id=jconley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼在加載圖片時文字會跳來跳去？這是一個錯誤還是一個特點？]]></title>
+        <id>https://news.ycombinator.com/item?id=30151191</id>
+        <link href="https://news.ycombinator.com/item?id=30151191"/>
+        <updated>2022-01-31T17:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does text jump around during images load? Is it a bug or a feature?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[閒置的首次購房者在做什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30151141</id>
