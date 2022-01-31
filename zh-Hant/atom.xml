@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-01-31T08:34:32.080Z</updated>
+    <updated>2022-01-31T08:50:56.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有沒有寫過一份 "不做 "的清單？結果如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30145905</id>
+        <link href="https://news.ycombinator.com/item?id=30145905"/>
+        <updated>2022-01-31T08:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you ever written a not-to-do list? How did it work out?]]></summary>
+        <author>
+            <name>mettamage</name>
+            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDPR對加載字體的處罰對網站所有者意味著什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30145872</id>
+        <link href="https://news.ycombinator.com/item?id=30145872"/>
+        <updated>2022-01-31T08:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does the GDPR penalty for loading fonts mean for website owners?]]></summary>
+        <author>
+            <name>emschlr</name>
+            <uri>https://news.ycombinator.com/user?id=emschlr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於一個數據工程師來說，製作網絡應用的最短路徑是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30145780</id>
