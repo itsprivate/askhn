@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-01T18:11:09.351Z</updated>
+    <updated>2022-02-01T18:33:50.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们中有人真的在构建Dapp吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30166920</id>
+        <link href="https://news.ycombinator.com/item?id=30166920"/>
+        <updated>2022-02-01T18:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are any of you actually building Dapps?]]></summary>
+        <author>
+            <name>mvkel</name>
+            <uri>https://news.ycombinator.com/user?id=mvkel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什么来驱动静态网站的搜索？]]></title>
         <id>https://news.ycombinator.com/item?id=30166549</id>
