@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-01T11:07:28.977Z</updated>
+    <updated>2022-02-01T11:34:32.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用任何工具来显示你的组织内的指标？]]></title>
+        <id>https://news.ycombinator.com/item?id=30161189</id>
+        <link href="https://news.ycombinator.com/item?id=30161189"/>
+        <updated>2022-02-01T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use any tools to display metrics within your organization?]]></summary>
+        <author>
+            <name>m88m</name>
+            <uri>https://news.ycombinator.com/user?id=m88m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDPR可能意味着我们不能在美国请求任何第三方服务？]]></title>
         <id>https://news.ycombinator.com/item?id=30160953</id>
