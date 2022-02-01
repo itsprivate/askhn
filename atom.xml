@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-01T12:44:42.283Z</updated>
+    <updated>2022-02-01T13:37:13.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Wordle变得如此流行？]]></title>
+        <id>https://news.ycombinator.com/item?id=30162093</id>
+        <link href="https://news.ycombinator.com/item?id=30162093"/>
+        <updated>2022-02-01T13:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Wordle getting so popular?]]></summary>
+        <author>
+            <name>only4here</name>
+            <uri>https://news.ycombinator.com/user?id=only4here</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何创建一个自给自足的家？]]></title>
+        <id>https://news.ycombinator.com/item?id=30162083</id>
+        <link href="https://news.ycombinator.com/item?id=30162083"/>
+        <updated>2022-02-01T13:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to create a self sufficient home?]]></summary>
+        <author>
+            <name>matthewfcarlson</name>
+            <uri>https://news.ycombinator.com/user?id=matthewfcarlson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch和图形数据库的共生关系]]></title>
         <id>https://news.ycombinator.com/item?id=30161620</id>
