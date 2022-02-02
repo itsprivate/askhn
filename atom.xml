@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-02T03:49:10.882Z</updated>
+    <updated>2022-02-02T06:10:59.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么微软不用C#来重写《Minecraft》？]]></title>
+        <id>https://news.ycombinator.com/item?id=30174322</id>
+        <link href="https://news.ycombinator.com/item?id=30174322"/>
+        <updated>2022-02-02T06:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why didn't Microsoft use C# to rewrite Minecraft?]]></summary>
+        <author>
+            <name>nikolqy</name>
+            <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能让谷歌修复他们报告的我的IP地址的地理定位？]]></title>
         <id>https://news.ycombinator.com/item?id=30173400</id>
