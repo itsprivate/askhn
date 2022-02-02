@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-02T11:25:31.995Z</updated>
+    <updated>2022-02-02T11:34:00.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[启动数据仓库环境的选择？]]></title>
+        <id>https://news.ycombinator.com/item?id=30176185</id>
+        <link href="https://news.ycombinator.com/item?id=30176185"/>
+        <updated>2022-02-02T11:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Options for starting a data warehousing environment?]]></summary>
+        <author>
+            <name>JonoBB</name>
+            <uri>https://news.ycombinator.com/user?id=JonoBB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么GCP没有像AWS/Azure那样被使用？]]></title>
         <id>https://news.ycombinator.com/item?id=30176141</id>
