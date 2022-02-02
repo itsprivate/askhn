@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-02T07:08:49.667Z</updated>
+    <updated>2022-02-02T08:10:47.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪项功能会让你从谷歌搜索中转换出来？]]></title>
+        <id>https://news.ycombinator.com/item?id=30174910</id>
+        <link href="https://news.ycombinator.com/item?id=30174910"/>
+        <updated>2022-02-02T07:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which feature would make you switch away from Google search?]]></summary>
+        <author>
+            <name>thesunkid</name>
+            <uri>https://news.ycombinator.com/user?id=thesunkid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人还在使用LightTable吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30174885</id>
+        <link href="https://news.ycombinator.com/item?id=30174885"/>
+        <updated>2022-02-02T07:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone still using LightTable?]]></summary>
+        <author>
+            <name>marto1</name>
+            <uri>https://news.ycombinator.com/user?id=marto1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能将我的omnibar匹配 "修剪 "到我想要的最长的subURL？]]></title>
         <id>https://news.ycombinator.com/item?id=30174627</id>
