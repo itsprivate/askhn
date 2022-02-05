@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-05T14:34:16.607Z</updated>
+    <updated>2022-02-05T15:26:16.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的私人公司數據的替代資源是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30221797</id>
+        <link href="https://news.ycombinator.com/item?id=30221797"/>
+        <updated>2022-02-05T15:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your favourite alternative resource for private company data?]]></summary>
+        <author>
+            <name>Mishweinerman</name>
+            <uri>https://news.ycombinator.com/user?id=Mishweinerman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們可以憎恨生命嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30221790</id>
+        <link href="https://news.ycombinator.com/item?id=30221790"/>
+        <updated>2022-02-05T15:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are we allowed to hate life?]]></summary>
+        <author>
+            <name>fleurjs</name>
+            <uri>https://news.ycombinator.com/user?id=fleurjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰瞭解Fedora 35中的Pipewire/Wireplumber？需要幫助]]></title>
         <id>https://news.ycombinator.com/item?id=30221325</id>
