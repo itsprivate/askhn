@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-05T17:49:25.051Z</updated>
+    <updated>2022-02-05T18:08:13.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Ubuntu軟件中心會有這麼多的錯誤？]]></title>
+        <id>https://news.ycombinator.com/item?id=30223771</id>
+        <link href="https://news.ycombinator.com/item?id=30223771"/>
+        <updated>2022-02-05T18:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the Ubuntu Software Center so buggy?]]></summary>
+        <author>
+            <name>legrande</name>
+            <uri>https://news.ycombinator.com/user?id=legrande</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何記錄完整的HTTP請求]]></title>
+        <id>https://news.ycombinator.com/item?id=30223766</id>
+        <link href="https://news.ycombinator.com/item?id=30223766"/>
+        <updated>2022-02-05T18:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to log full HTTP requests]]></summary>
+        <author>
+            <name>eloff</name>
+            <uri>https://news.ycombinator.com/user?id=eloff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有人關心數據質量？]]></title>
+        <id>https://news.ycombinator.com/item?id=30223738</id>
+        <link href="https://news.ycombinator.com/item?id=30223738"/>
+        <updated>2022-02-05T18:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why no one care about data quality?]]></summary>
+        <author>
+            <name>kozkozkoz</name>
+            <uri>https://news.ycombinator.com/user?id=kozkozkoz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於電子郵件的谷歌工作區的最佳託管替代方案？]]></title>
         <id>https://news.ycombinator.com/item?id=30223538</id>
