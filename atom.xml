@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-05T17:24:45.498Z</updated>
+    <updated>2022-02-05T17:34:12.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你讨厌但无法替代的软件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30223425</id>
+        <link href="https://news.ycombinator.com/item?id=30223425"/>
+        <updated>2022-02-05T17:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software you hate but can't replace?]]></summary>
+        <author>
+            <name>andrecarini</name>
+            <uri>https://news.ycombinator.com/user?id=andrecarini</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果苹果将时间机器与iCloud整合，你会使用它吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30223422</id>
+        <link href="https://news.ycombinator.com/item?id=30223422"/>
+        <updated>2022-02-05T17:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If Apple integrated Time Machine with iCloud, would you use it?]]></summary>
+        <author>
+            <name>BugsJustFindMe</name>
+            <uri>https://news.ycombinator.com/user?id=BugsJustFindMe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何改善云游戏的WiFi？]]></title>
         <id>https://news.ycombinator.com/item?id=30223225</id>
