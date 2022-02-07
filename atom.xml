@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-07T20:08:20.026Z</updated>
+    <updated>2022-02-07T20:25:28.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有哪些反复出现的网络开发的痛苦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30250426</id>
+        <link href="https://news.ycombinator.com/item?id=30250426"/>
+        <updated>2022-02-07T20:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some recurring web development pains that you've had?]]></summary>
+        <author>
+            <name>techling</name>
+            <uri>https://news.ycombinator.com/user?id=techling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们可以在网络上使用移动应用程序的权限模式吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30250190</id>
