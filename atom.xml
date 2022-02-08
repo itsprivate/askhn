@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-08T17:02:22.400Z</updated>
+    <updated>2022-02-08T17:37:45.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN上有可能出现Sybil攻击[1]吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30261475</id>
+        <link href="https://news.ycombinator.com/item?id=30261475"/>
+        <updated>2022-02-08T17:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is a Sybil attack[1] possible on HN?]]></summary>
+        <author>
+            <name>AlexanderTheGr8</name>
+            <uri>https://news.ycombinator.com/user?id=AlexanderTheGr8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于工作场所导师的最佳做法的提示]]></title>
         <id>https://news.ycombinator.com/item?id=30260748</id>
