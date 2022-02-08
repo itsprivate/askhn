@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-08T09:49:04.767Z</updated>
+    <updated>2022-02-08T10:09:01.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你喜欢的 "全栈式 "解决方案是什么，为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30256613</id>
+        <link href="https://news.ycombinator.com/item?id=30256613"/>
+        <updated>2022-02-08T09:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your preferred “full-stack in a box” solution and why?]]></summary>
+        <author>
+            <name>mbrodersen</name>
+            <uri>https://news.ycombinator.com/user?id=mbrodersen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用户编写自定义解析器的最简单方法是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30256599</id>
+        <link href="https://news.ycombinator.com/item?id=30256599"/>
+        <updated>2022-02-08T09:54:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the simplest way for users to write custom parsers?]]></summary>
+        <author>
+            <name>isaac21259</name>
+            <uri>https://news.ycombinator.com/user?id=isaac21259</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在什么时候，你对公司的价值会停滞/下降？]]></title>
         <id>https://news.ycombinator.com/item?id=30256516</id>
