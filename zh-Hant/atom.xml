@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-08T09:10:04.474Z</updated>
+    <updated>2022-02-08T09:49:04.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在什麼時候，你對公司的價值會停滯/下降？]]></title>
+        <id>https://news.ycombinator.com/item?id=30256516</id>
+        <link href="https://news.ycombinator.com/item?id=30256516"/>
+        <updated>2022-02-08T09:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: At what point does your value to a company stagnate/decline?]]></summary>
+        <author>
+            <name>evaluator</name>
+            <uri>https://news.ycombinator.com/user?id=evaluator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS的想法。API的SDK生成（OpenAPI / gRPC）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30256506</id>
+        <link href="https://news.ycombinator.com/item?id=30256506"/>
+        <updated>2022-02-08T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SaaS Idea: SDK Generation for API's (OpenAPI / gRPC)]]></summary>
+        <author>
+            <name>TeeWEE</name>
+            <uri>https://news.ycombinator.com/user?id=TeeWEE</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果可以的話，你會用人工智能的CEO來取代人類的CEO嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30256220</id>
