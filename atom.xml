@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-09T13:31:02.472Z</updated>
+    <updated>2022-02-09T15:09:49.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何在会议中有效地做笔记？]]></title>
+        <id>https://news.ycombinator.com/item?id=30273293</id>
+        <link href="https://news.ycombinator.com/item?id=30273293"/>
+        <updated>2022-02-09T14:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you effectively take notes in meetings?]]></summary>
+        <author>
+            <name>dfsegoat</name>
+            <uri>https://news.ycombinator.com/user?id=dfsegoat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上传存储？]]></title>
+        <id>https://news.ycombinator.com/item?id=30273147</id>
+        <link href="https://news.ycombinator.com/item?id=30273147"/>
+        <updated>2022-02-09T14:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Upload Storage?]]></summary>
+        <author>
+            <name>3000</name>
+            <uri>https://news.ycombinator.com/user?id=3000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[录制浏览会话？]]></title>
+        <id>https://news.ycombinator.com/item?id=30273059</id>
+        <link href="https://news.ycombinator.com/item?id=30273059"/>
+        <updated>2022-02-09T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recording a Browsing Session?]]></summary>
+        <author>
+            <name>krishadi</name>
+            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分布式/远程团队中同步会议的最佳实践？]]></title>
         <id>https://news.ycombinator.com/item?id=30272213</id>
