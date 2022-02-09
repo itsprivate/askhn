@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-09T04:36:52.062Z</updated>
+    <updated>2022-02-09T04:54:26.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[接觸到數以百萬計的開發者]]></title>
+        <id>https://news.ycombinator.com/item?id=30268874</id>
+        <link href="https://news.ycombinator.com/item?id=30268874"/>
+        <updated>2022-02-09T04:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reaching Out to Millions of Developers]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰在加密貨幣公司工作，覺得這都是一個騙局？]]></title>
         <id>https://news.ycombinator.com/item?id=30268807</id>
