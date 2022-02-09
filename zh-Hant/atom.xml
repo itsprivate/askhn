@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-09T08:11:01.466Z</updated>
+    <updated>2022-02-09T08:33:20.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的微型圖書館是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30270210</id>
+        <link href="https://news.ycombinator.com/item?id=30270210"/>
+        <updated>2022-02-09T08:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s your favourite micro library?]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在HN的頭版，你能期待多少流量？]]></title>
         <id>https://news.ycombinator.com/item?id=30270175</id>
