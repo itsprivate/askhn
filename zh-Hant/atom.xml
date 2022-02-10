@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T01:41:03.855Z</updated>
+    <updated>2022-02-10T02:18:35.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VR的長期影響？]]></title>
+        <id>https://news.ycombinator.com/item?id=30281611</id>
+        <link href="https://news.ycombinator.com/item?id=30281611"/>
+        <updated>2022-02-10T02:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Long-Term Effects of VR?]]></summary>
+        <author>
+            <name>digitcatphd</name>
+            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於設計面試的建議？]]></title>
+        <id>https://news.ycombinator.com/item?id=30281449</id>
+        <link href="https://news.ycombinator.com/item?id=30281449"/>
+        <updated>2022-02-10T01:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on Designing an Interview?]]></summary>
+        <author>
+            <name>wlpu</name>
+            <uri>https://news.ycombinator.com/user?id=wlpu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你使用哪種寬屏液晶顯示器，為什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30281426</id>
+        <link href="https://news.ycombinator.com/item?id=30281426"/>
+        <updated>2022-02-10T01:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which widescreen LCD do you use and why?]]></summary>
+        <author>
+            <name>sys_64738</name>
+            <uri>https://news.ycombinator.com/user?id=sys_64738</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何入侵你的健康？]]></title>
         <id>https://news.ycombinator.com/item?id=30281025</id>
@@ -10980,17 +11013,6 @@
         <author>
             <name>bytebln</name>
             <uri>https://news.ycombinator.com/user?id=bytebln</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[測試驅動開發是否會產生更好的軟件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30005895</id>
-        <link href="https://news.ycombinator.com/item?id=30005895"/>
-        <updated>2022-01-20T07:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does test driven development produce better software?]]></summary>
-        <author>
-            <name>wizardofmysore</name>
-            <uri>https://news.ycombinator.com/user?id=wizardofmysore</uri>
         </author>
     </entry>
 </feed>
