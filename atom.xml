@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T16:43:25.842Z</updated>
+    <updated>2022-02-10T17:00:46.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全意识培训]]></title>
+        <id>https://news.ycombinator.com/item?id=30288999</id>
+        <link href="https://news.ycombinator.com/item?id=30288999"/>
+        <updated>2022-02-10T16:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Security Awareness Training]]></summary>
+        <author>
+            <name>phunel</name>
+            <uri>https://news.ycombinator.com/user?id=phunel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你对Apache Kafka有什么大问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30288796</id>
+        <link href="https://news.ycombinator.com/item?id=30288796"/>
+        <updated>2022-02-10T16:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What big problems with Apache Kafka do you have?]]></summary>
+        <author>
+            <name>sneaky_zeppeli</name>
+            <uri>https://news.ycombinator.com/user?id=sneaky_zeppeli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘经理，现在哪种类型的工程师最难找？]]></title>
         <id>https://news.ycombinator.com/item?id=30288609</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>vaporup</name>
             <uri>https://news.ycombinator.com/user?id=vaporup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何致力于最佳Linux（棋盘）游戏收集的repo网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30016892</id>
-        <link href="https://news.ycombinator.com/item?id=30016892"/>
-        <updated>2022-01-20T23:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any repo site dedicated to best Linux (board) games collection]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年的新企业应该使用哪个版本控制系统？]]></title>
-        <id>https://news.ycombinator.com/item?id=30015693</id>
-        <link href="https://news.ycombinator.com/item?id=30015693"/>
-        <updated>2022-01-20T21:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which version control system should a new business in 2022 use?]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
         </author>
     </entry>
 </feed>

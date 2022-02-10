@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Feb 2022 16:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安全意识培训]]></title>
+            <link>https://news.ycombinator.com/item?id=30288999</link>
+            <guid>https://news.ycombinator.com/item?id=30288999</guid>
+            <pubDate>Thu, 10 Feb 2022 16:56:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Security Awareness Training]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你对Apache Kafka有什么大问题？]]></title>
+            <link>https://news.ycombinator.com/item?id=30288796</link>
+            <guid>https://news.ycombinator.com/item?id=30288796</guid>
+            <pubDate>Thu, 10 Feb 2022 16:43:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: What big problems with Apache Kafka do you have?]]></description>
+        </item>
         <item>
             <title><![CDATA[招聘经理，现在哪种类型的工程师最难找？]]></title>
             <link>https://news.ycombinator.com/item?id=30288609</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30017845</guid>
             <pubDate>Fri, 21 Jan 2022 01:06:28 GMT</pubDate>
             <description><![CDATA[Ask HN: Python Whoosh equivalent for Crystal-lang or Go-lang?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[任何致力于最佳Linux（棋盘）游戏收集的repo网站]]></title>
-            <link>https://news.ycombinator.com/item?id=30016892</link>
-            <guid>https://news.ycombinator.com/item?id=30016892</guid>
-            <pubDate>Thu, 20 Jan 2022 23:25:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any repo site dedicated to best Linux (board) games collection]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年的新企业应该使用哪个版本控制系统？]]></title>
-            <link>https://news.ycombinator.com/item?id=30015693</link>
-            <guid>https://news.ycombinator.com/item?id=30015693</guid>
-            <pubDate>Thu, 20 Jan 2022 21:57:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which version control system should a new business in 2022 use?]]></description>
         </item>
     </channel>
 </rss>
