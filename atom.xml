@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T17:15:00.093Z</updated>
+    <updated>2022-02-10T17:30:54.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在流行的域名是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30289419</id>
+        <link href="https://news.ycombinator.com/item?id=30289419"/>
+        <updated>2022-02-10T17:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Domains that are popular now?]]></summary>
+        <author>
+            <name>krishadi</name>
+            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在如此多的设置下，你是如何在软件研发中找到（再次）快乐的呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30289171</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jawns</name>
             <uri>https://news.ycombinator.com/user?id=jawns</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不合格的认证]]></title>
-        <id>https://news.ycombinator.com/item?id=30017947</id>
-        <link href="https://news.ycombinator.com/item?id=30017947"/>
-        <updated>2022-01-21T01:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Failing Certifications]]></summary>
-        <author>
-            <name>podoco</name>
-            <uri>https://news.ycombinator.com/user?id=podoco</uri>
         </author>
     </entry>
 </feed>
