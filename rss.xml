@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为游戏创建后端服务器的最快方法是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30282774</link>
+            <guid>https://news.ycombinator.com/item?id=30282774</guid>
+            <pubDate>Thu, 10 Feb 2022 05:31:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the quickest way to create back end server for games]]></description>
+        </item>
         <item>
             <title><![CDATA[在工程面试中如何评估低自我的个性？]]></title>
             <link>https://news.ycombinator.com/item?id=30282578</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30007889</guid>
             <pubDate>Thu, 20 Jan 2022 12:11:22 GMT</pubDate>
             <description><![CDATA[Ask HN: Scraping API that can handle “unsemantic” (HN-style) threaded comments?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的家庭网络设置是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30007856</link>
-            <guid>https://news.ycombinator.com/item?id=30007856</guid>
-            <pubDate>Thu, 20 Jan 2022 12:08:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your home networking setup?]]></description>
         </item>
     </channel>
 </rss>
