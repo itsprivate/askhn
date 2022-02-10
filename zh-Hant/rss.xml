@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的 "我不關心這是否成功 "的項目是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30283264</link>
+            <guid>https://news.ycombinator.com/item?id=30283264</guid>
+            <pubDate>Thu, 10 Feb 2022 07:13:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your “I don't care if this succeeds” project?]]></description>
+        </item>
         <item>
             <title><![CDATA[為遊戲創建後端服務器的最快方法是什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=30282774</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30008369</guid>
             <pubDate>Thu, 20 Jan 2022 13:05:51 GMT</pubDate>
             <description><![CDATA[Ask HN: How to build a customized board from scratch with edge TPU?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[能夠處理 "非語義"（HN風格）的線程評論的刮削API？]]></title>
-            <link>https://news.ycombinator.com/item?id=30007889</link>
-            <guid>https://news.ycombinator.com/item?id=30007889</guid>
-            <pubDate>Thu, 20 Jan 2022 12:11:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Scraping API that can handle “unsemantic” (HN-style) threaded comments?]]></description>
         </item>
     </channel>
 </rss>
