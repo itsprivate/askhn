@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T04:53:24.090Z</updated>
+    <updated>2022-02-10T05:09:24.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在工程面试中如何评估低自我的个性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30282578</id>
+        <link href="https://news.ycombinator.com/item?id=30282578"/>
+        <updated>2022-02-10T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to assess low ego personality during an engineering interview?]]></summary>
+        <author>
+            <name>quantisan</name>
+            <uri>https://news.ycombinator.com/user?id=quantisan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子商务网站的税收效率]]></title>
         <id>https://news.ycombinator.com/item?id=30282555</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gmemstr</name>
             <uri>https://news.ycombinator.com/user?id=gmemstr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么HN Top今天读起来像小报的头版？]]></title>
-        <id>https://news.ycombinator.com/item?id=30007178</id>
-        <link href="https://news.ycombinator.com/item?id=30007178"/>
-        <updated>2022-01-20T10:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does HN Top read like a tabloid front page today?]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
         </author>
     </entry>
 </feed>
