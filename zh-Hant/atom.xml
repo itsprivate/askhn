@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T02:18:35.254Z</updated>
+    <updated>2022-02-10T03:28:32.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你已經發誓不再使用微軟了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30282048</id>
+        <link href="https://news.ycombinator.com/item?id=30282048"/>
+        <updated>2022-02-10T03:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you Sworn off Microsoft?]]></summary>
+        <author>
+            <name>meesterdude</name>
+            <uri>https://news.ycombinator.com/user?id=meesterdude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VR的長期影響？]]></title>
         <id>https://news.ycombinator.com/item?id=30281611</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>andreinwald</name>
             <uri>https://news.ycombinator.com/user?id=andreinwald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你曾經在嗑藥時編碼嗎？結果是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30006465</id>
-        <link href="https://news.ycombinator.com/item?id=30006465"/>
-        <updated>2022-01-20T08:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever coded while being high? What was the result?]]></summary>
-        <author>
-            <name>bytebln</name>
-            <uri>https://news.ycombinator.com/user?id=bytebln</uri>
         </author>
     </entry>
 </feed>
