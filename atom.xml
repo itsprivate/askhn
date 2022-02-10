@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T09:08:47.549Z</updated>
+    <updated>2022-02-10T09:28:30.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有谁不相信GitHub中的搜索？]]></title>
+        <id>https://news.ycombinator.com/item?id=30283913</id>
+        <link href="https://news.ycombinator.com/item?id=30283913"/>
+        <updated>2022-02-10T09:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who else does not trust the search in GitHub?]]></summary>
+        <author>
+            <name>WolfOliver</name>
+            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的关机和开机过程是什么样子的？]]></title>
         <id>https://news.ycombinator.com/item?id=30283771</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>didip</name>
             <uri>https://news.ycombinator.com/user?id=didip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[废除StackExchange以产生YoutTube的内容是道德的吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30010861</id>
-        <link href="https://news.ycombinator.com/item?id=30010861"/>
-        <updated>2022-01-20T16:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it ethical to scrap StackExchange to generate YoutTube content?]]></summary>
-        <author>
-            <name>Twisell</name>
-            <uri>https://news.ycombinator.com/user?id=Twisell</uri>
         </author>
     </entry>
 </feed>
