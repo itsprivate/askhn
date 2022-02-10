@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T04:36:45.585Z</updated>
+    <updated>2022-02-10T04:53:24.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电子商务网站的税收效率]]></title>
+        <id>https://news.ycombinator.com/item?id=30282555</id>
+        <link href="https://news.ycombinator.com/item?id=30282555"/>
+        <updated>2022-02-10T04:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tax Efficiency for E-commerce Site]]></summary>
+        <author>
+            <name>ojstella</name>
+            <uri>https://news.ycombinator.com/user?id=ojstella</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何发表简短的未来主义故事？]]></title>
         <id>https://news.ycombinator.com/item?id=30282428</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请对我的产品登陆页营销进行点评]]></title>
-        <id>https://news.ycombinator.com/item?id=30007158</id>
-        <link href="https://news.ycombinator.com/item?id=30007158"/>
-        <updated>2022-01-20T10:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pls critique my product landing page marketing]]></summary>
-        <author>
-            <name>papaver-somnamb</name>
-            <uri>https://news.ycombinator.com/user?id=papaver-somnamb</uri>
         </author>
     </entry>
 </feed>
