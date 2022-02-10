@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T11:25:55.983Z</updated>
+    <updated>2022-02-10T12:12:36.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼CryptoCurrency在這裡被如此痛恨？]]></title>
+        <id>https://news.ycombinator.com/item?id=30285015</id>
+        <link href="https://news.ycombinator.com/item?id=30285015"/>
+        <updated>2022-02-10T12:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is CryptoCurrency so hated here?]]></summary>
+        <author>
+            <name>two_poles_here</name>
+            <uri>https://news.ycombinator.com/user?id=two_poles_here</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否擔心 "現在收穫，以後解密 "的攻擊？]]></title>
+        <id>https://news.ycombinator.com/item?id=30285010</id>
+        <link href="https://news.ycombinator.com/item?id=30285010"/>
+        <updated>2022-02-10T12:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you concerned about 'harvest now, decrypt later' attacks?]]></summary>
+        <author>
+            <name>OJFord</name>
+            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該如何在雲中存儲重要文件（身份證等）？]]></title>
         <id>https://news.ycombinator.com/item?id=30284716</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>butz</name>
             <uri>https://news.ycombinator.com/user?id=butz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你目前在軟件工程方面的熱點是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30011961</id>
-        <link href="https://news.ycombinator.com/item?id=30011961"/>
-        <updated>2022-01-20T17:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s your current hot take in software engineering?]]></summary>
-        <author>
-            <name>jreed91</name>
-            <uri>https://news.ycombinator.com/user?id=jreed91</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國的民主是否正在崩潰？]]></title>
-        <id>https://news.ycombinator.com/item?id=30011933</id>
-        <link href="https://news.ycombinator.com/item?id=30011933"/>
-        <updated>2022-01-20T17:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is American Democracy Collapsing?]]></summary>
-        <author>
-            <name>Method-X</name>
-            <uri>https://news.ycombinator.com/user?id=Method-X</uri>
         </author>
     </entry>
 </feed>
