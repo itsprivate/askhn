@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T10:31:02.296Z</updated>
+    <updated>2022-02-10T11:25:55.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我应该如何在云中存储重要文件（身份证等）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30284716</id>
+        <link href="https://news.ycombinator.com/item?id=30284716"/>
+        <updated>2022-02-10T11:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should I store important documents (IDs, etc.) in the cloud?]]></summary>
+        <author>
+            <name>iLoveOncall</name>
+            <uri>https://news.ycombinator.com/user?id=iLoveOncall</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您推荐哪些关于传递价值的书籍？]]></title>
         <id>https://news.ycombinator.com/item?id=30284416</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Method-X</name>
             <uri>https://news.ycombinator.com/user?id=Method-X</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为我的孩子们发送邮件，在未来可以访问(]]></title>
-        <id>https://news.ycombinator.com/item?id=30011812</id>
-        <link href="https://news.ycombinator.com/item?id=30011812"/>
-        <updated>2022-01-20T17:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Sending mails for my children accessible in the future (]]></summary>
-        <author>
-            <name>TrailMixRaisin</name>
-            <uri>https://news.ycombinator.com/user?id=TrailMixRaisin</uri>
         </author>
     </entry>
 </feed>
