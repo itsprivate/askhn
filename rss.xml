@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最好的面试经历是怎样的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30283534</link>
+            <guid>https://news.ycombinator.com/item?id=30283534</guid>
+            <pubDate>Thu, 10 Feb 2022 08:08:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: What was your best interviewing experience like?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的 "我不关心这是否成功 "的项目是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30283264</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30009578</guid>
             <pubDate>Thu, 20 Jan 2022 14:52:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Why does Google greatly limit search results if I am logged in?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何用边缘TPU从头开始建立一个定制板？]]></title>
-            <link>https://news.ycombinator.com/item?id=30008369</link>
-            <guid>https://news.ycombinator.com/item?id=30008369</guid>
-            <pubDate>Thu, 20 Jan 2022 13:05:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to build a customized board from scratch with edge TPU?]]></description>
         </item>
     </channel>
 </rss>
