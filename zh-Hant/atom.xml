@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T19:07:03.542Z</updated>
+    <updated>2022-02-10T21:09:46.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的IDE有哪些超能力？使你成為更好的開發者的技巧？]]></title>
+        <id>https://news.ycombinator.com/item?id=30292528</id>
+        <link href="https://news.ycombinator.com/item?id=30292528"/>
+        <updated>2022-02-10T21:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your IDE superpowers? Tips that make you a better developer?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否曾經更換過個人電子郵件供應商？]]></title>
         <id>https://news.ycombinator.com/item?id=30290877</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>KerryJones</name>
             <uri>https://news.ycombinator.com/user?id=KerryJones</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌新聞是多麼有價值的資產？]]></title>
-        <id>https://news.ycombinator.com/item?id=30019291</id>
-        <link href="https://news.ycombinator.com/item?id=30019291"/>
-        <updated>2022-01-21T04:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How valuable an asset is Google News?]]></summary>
-        <author>
-            <name>mostertoaster</name>
-            <uri>https://news.ycombinator.com/user?id=mostertoaster</uri>
         </author>
     </entry>
 </feed>
