@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T12:43:48.797Z</updated>
+    <updated>2022-02-10T14:27:37.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為那些編碼緩慢但擅長構思的開發人員提供工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30286317</id>
+        <link href="https://news.ycombinator.com/item?id=30286317"/>
+        <updated>2022-02-10T14:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Jobs for devs who are slow coders but great at conceptualizing?]]></summary>
+        <author>
+            <name>giantg2</name>
+            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動畫架構圖工具的指示]]></title>
+        <id>https://news.ycombinator.com/item?id=30286132</id>
+        <link href="https://news.ycombinator.com/item?id=30286132"/>
+        <updated>2022-02-10T14:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Indication of animated architecture diagram tool]]></summary>
+        <author>
+            <name>iwantfucku</name>
+            <uri>https://news.ycombinator.com/user?id=iwantfucku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜歡這個網站上發佈的超簡約主義博客嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30285130</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>needsalesadvice</name>
             <uri>https://news.ycombinator.com/user?id=needsalesadvice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌翻譯的替代方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=30013189</id>
-        <link href="https://news.ycombinator.com/item?id=30013189"/>
-        <updated>2022-01-20T19:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternative to Google Translate?]]></summary>
-        <author>
-            <name>ewuhic</name>
-            <uri>https://news.ycombinator.com/user?id=ewuhic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科威德疫苗是手推車問題的一個實例嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30013150</id>
-        <link href="https://news.ycombinator.com/item?id=30013150"/>
-        <updated>2022-01-20T19:06:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Covid vaccines an instance of the trolley problem?]]></summary>
-        <author>
-            <name>low_tech_love</name>
-            <uri>https://news.ycombinator.com/user?id=low_tech_love</uri>
         </author>
     </entry>
 </feed>
