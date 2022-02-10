@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Feb 2022 17:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在如此多的設置下，你是如何在軟件研發中找到（再次）快樂的呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30289171</link>
+            <guid>https://news.ycombinator.com/item?id=30289171</guid>
+            <pubDate>Thu, 10 Feb 2022 17:05:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you find (again) joy in software dev with so much setup?]]></description>
+        </item>
         <item>
             <title><![CDATA[安全意識培訓]]></title>
             <link>https://news.ycombinator.com/item?id=30288999</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30017947</guid>
             <pubDate>Fri, 21 Jan 2022 01:21:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Failing Certifications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python Whoosh相當於Crystal-lang或Go-lang？]]></title>
-            <link>https://news.ycombinator.com/item?id=30017845</link>
-            <guid>https://news.ycombinator.com/item?id=30017845</guid>
-            <pubDate>Fri, 21 Jan 2022 01:06:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Python Whoosh equivalent for Crystal-lang or Go-lang?]]></description>
         </item>
     </channel>
 </rss>
