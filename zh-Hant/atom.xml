@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T22:26:26.290Z</updated>
+    <updated>2022-02-10T22:35:31.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的M1是否變得遲鈍了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30293601</id>
+        <link href="https://news.ycombinator.com/item?id=30293601"/>
+        <updated>2022-02-10T22:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is your M1 getting sluggish?]]></summary>
+        <author>
+            <name>kderbyma</name>
+            <uri>https://news.ycombinator.com/user?id=kderbyma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以把我已經離開的公司有爭議地寫進我的簡歷嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30293393</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ChaitanyaSai</name>
             <uri>https://news.ycombinator.com/user?id=ChaitanyaSai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的MVP有多少測試覆蓋率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30019979</id>
-        <link href="https://news.ycombinator.com/item?id=30019979"/>
-        <updated>2022-01-21T06:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much test coverage did your MVP have?]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>
