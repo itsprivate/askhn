@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T03:28:32.508Z</updated>
+    <updated>2022-02-10T04:36:45.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何发表简短的未来主义故事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30282428</id>
+        <link href="https://news.ycombinator.com/item?id=30282428"/>
+        <updated>2022-02-10T04:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to publish a short futuristic story?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你已经发誓不再使用微软了吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30282048</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>papaver-somnamb</name>
             <uri>https://news.ycombinator.com/user?id=papaver-somnamb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定义域名的免费邮件服务 - G套件的替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30006596</id>
-        <link href="https://news.ycombinator.com/item?id=30006596"/>
-        <updated>2022-01-20T09:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Free mail service for custom domains - G Suite alternative]]></summary>
-        <author>
-            <name>andreinwald</name>
-            <uri>https://news.ycombinator.com/user?id=andreinwald</uri>
         </author>
     </entry>
 </feed>
