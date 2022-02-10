@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T08:32:14.564Z</updated>
+    <updated>2022-02-10T08:43:00.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的加密货币SaaS产品是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30283684</id>
+        <link href="https://news.ycombinator.com/item?id=30283684"/>
+        <updated>2022-02-10T08:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite crypto SaaS products?]]></summary>
+        <author>
+            <name>catsarebetter</name>
+            <uri>https://news.ycombinator.com/user?id=catsarebetter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最好的面试经历是怎样的？]]></title>
         <id>https://news.ycombinator.com/item?id=30283534</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sigmaprimus</name>
             <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么谷歌在我登录的情况下会大大限制搜索结果？]]></title>
-        <id>https://news.ycombinator.com/item?id=30009578</id>
-        <link href="https://news.ycombinator.com/item?id=30009578"/>
-        <updated>2022-01-20T14:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does Google greatly limit search results if I am logged in?]]></summary>
-        <author>
-            <name>Jimmc414</name>
-            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
         </author>
     </entry>
 </feed>
