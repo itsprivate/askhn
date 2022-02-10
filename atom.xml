@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T14:50:16.503Z</updated>
+    <updated>2022-02-10T15:09:57.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何监控个人VPS的安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=30287013</id>
+        <link href="https://news.ycombinator.com/item?id=30287013"/>
+        <updated>2022-02-10T15:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to monitor the security of a personal VPS?]]></summary>
+        <author>
+            <name>hgl</name>
+            <uri>https://news.ycombinator.com/user?id=hgl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪个网站有科技公司的工程团队规模数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=30286828</id>
+        <link href="https://news.ycombinator.com/item?id=30286828"/>
+        <updated>2022-02-10T14:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any website that has engineering team size data of tech companies?]]></summary>
+        <author>
+            <name>johndfsgdgdfg</name>
+            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你目前的项目是使用现成的授权还是自建的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30286788</id>
+        <link href="https://news.ycombinator.com/item?id=30286788"/>
+        <updated>2022-02-10T14:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your current project use off the shelf auth or homegrown?]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[选择远程工作是否影响到向上的流动性？]]></title>
         <id>https://news.ycombinator.com/item?id=30286558</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>realseannewman</name>
             <uri>https://news.ycombinator.com/user?id=realseannewman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件调试论文？]]></title>
-        <id>https://news.ycombinator.com/item?id=30014461</id>
-        <link href="https://news.ycombinator.com/item?id=30014461"/>
-        <updated>2022-01-20T20:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Software Debugging Papers?]]></summary>
-        <author>
-            <name>tayllan</name>
-            <uri>https://news.ycombinator.com/user?id=tayllan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们还能收到垃圾邮件的语音信箱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30014450</id>
-        <link href="https://news.ycombinator.com/item?id=30014450"/>
-        <updated>2022-01-20T20:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do we still get Spam Voicemail]]></summary>
-        <author>
-            <name>friendlydog</name>
-            <uri>https://news.ycombinator.com/user?id=friendlydog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galvanize是否已经完全清除了Hack Reactor品牌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30014381</id>
-        <link href="https://news.ycombinator.com/item?id=30014381"/>
-        <updated>2022-01-20T20:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Galvanize completely gutted the Hack Reactor brand?]]></summary>
-        <author>
-            <name>legerdemain</name>
-            <uri>https://news.ycombinator.com/user?id=legerdemain</uri>
         </author>
     </entry>
 </feed>
