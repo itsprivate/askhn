@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T10:10:14.423Z</updated>
+    <updated>2022-02-10T10:31:02.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您推荐哪些关于传递价值的书籍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30284416</id>
+        <link href="https://news.ycombinator.com/item?id=30284416"/>
+        <updated>2022-02-10T10:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What books do you recommend on delivering value?]]></summary>
+        <author>
+            <name>cauliflower99</name>
+            <uri>https://news.ycombinator.com/user?id=cauliflower99</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赞比亚和非洲其他国家的最佳支付平台？]]></title>
         <id>https://news.ycombinator.com/item?id=30284236</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>TrailMixRaisin</name>
             <uri>https://news.ycombinator.com/user?id=TrailMixRaisin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阅读技术书籍的最佳设备是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30011348</id>
-        <link href="https://news.ycombinator.com/item?id=30011348"/>
-        <updated>2022-01-20T16:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best device for reading technical books?]]></summary>
-        <author>
-            <name>tyre</name>
-            <uri>https://news.ycombinator.com/user?id=tyre</uri>
         </author>
     </entry>
 </feed>
