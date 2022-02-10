@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T16:13:11.039Z</updated>
+    <updated>2022-02-10T16:43:25.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[招聘經理，現在哪種類型的工程師最難找？]]></title>
+        <id>https://news.ycombinator.com/item?id=30288609</id>
+        <link href="https://news.ycombinator.com/item?id=30288609"/>
+        <updated>2022-02-10T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hiring Managers, which type of Engineer is hardest to find nowadays?]]></summary>
+        <author>
+            <name>causehealth101</name>
+            <uri>https://news.ycombinator.com/user?id=causehealth101</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在紐約市尋找角色]]></title>
+        <id>https://news.ycombinator.com/item?id=30288567</id>
+        <link href="https://news.ycombinator.com/item?id=30288567"/>
+        <updated>2022-02-10T16:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for Roles in NYC]]></summary>
+        <author>
+            <name>redlion</name>
+            <uri>https://news.ycombinator.com/user?id=redlion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們來討論一下Python類型的提示準則]]></title>
         <id>https://news.ycombinator.com/item?id=30288000</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>tomrod</name>
             <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我缺乏先見之明。如何應對？]]></title>
-        <id>https://news.ycombinator.com/item?id=30015217</id>
-        <link href="https://news.ycombinator.com/item?id=30015217"/>
-        <updated>2022-01-20T21:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I lack foresight. How to cope?]]></summary>
-        <author>
-            <name>huntedman</name>
-            <uri>https://news.ycombinator.com/user?id=huntedman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你還在使用TIFF圖像格式嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30014731</id>
-        <link href="https://news.ycombinator.com/item?id=30014731"/>
-        <updated>2022-01-20T20:50:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you still use TIFF image format?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
