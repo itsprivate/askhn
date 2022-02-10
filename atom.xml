@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-10T17:49:25.915Z</updated>
+    <updated>2022-02-10T18:09:36.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN是否有可能为第三方客户实施OAuth2？]]></title>
+        <id>https://news.ycombinator.com/item?id=30290095</id>
+        <link href="https://news.ycombinator.com/item?id=30290095"/>
+        <updated>2022-02-10T18:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any chance of HN implementing OAuth2 for 3rd-party clients?]]></summary>
+        <author>
+            <name>anderspitman</name>
+            <uri>https://news.ycombinator.com/user?id=anderspitman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天的人工智能足以防止狗感到孤独吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30289787</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>digitcatphd</name>
             <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业公司，你最近是如何招聘的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30018766</id>
-        <link href="https://news.ycombinator.com/item?id=30018766"/>
-        <updated>2022-01-21T03:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bootstrapped startups,how are you hiring these days?]]></summary>
-        <author>
-            <name>make_it_sure</name>
-            <uri>https://news.ycombinator.com/user?id=make_it_sure</uri>
         </author>
     </entry>
 </feed>
