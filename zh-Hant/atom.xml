@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T15:41:06.479Z</updated>
+    <updated>2022-02-11T16:38:38.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你從你的成功項目中學到了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30303394</id>
+        <link href="https://news.ycombinator.com/item?id=30303394"/>
+        <updated>2022-02-11T16:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What did you learn from your successful projects?]]></summary>
+        <author>
+            <name>launchiterate</name>
+            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你們是如何與控股公司合作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30303157</id>
+        <link href="https://news.ycombinator.com/item?id=30303157"/>
+        <updated>2022-02-11T16:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you work with holding companies?]]></summary>
+        <author>
+            <name>sirspacey</name>
+            <uri>https://news.ycombinator.com/user?id=sirspacey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有沒有其他像SQLite那樣的單盤文件的數據庫存在？]]></title>
+        <id>https://news.ycombinator.com/item?id=30303129</id>
+        <link href="https://news.ycombinator.com/item?id=30303129"/>
+        <updated>2022-02-11T16:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any other databases on single disk file like SQLite exist?]]></summary>
+        <author>
+            <name>cliffordfajardo</name>
+            <uri>https://news.ycombinator.com/user?id=cliffordfajardo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股權是否已經從員工轉移到了風險投資公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30302828</id>
+        <link href="https://news.ycombinator.com/item?id=30302828"/>
+        <updated>2022-02-11T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has equity shifted from employees to VCs?]]></summary>
+        <author>
+            <name>segah</name>
+            <uri>https://news.ycombinator.com/user?id=segah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是最差的軟件？]]></title>
         <id>https://news.ycombinator.com/item?id=30302548</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>guptat59</name>
             <uri>https://news.ycombinator.com/user?id=guptat59</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的性生活是怎樣的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30029931</id>
-        <link href="https://news.ycombinator.com/item?id=30029931"/>
-        <updated>2022-01-21T21:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s your sex life like?]]></summary>
-        <author>
-            <name>achenet</name>
-            <uri>https://news.ycombinator.com/user?id=achenet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌驅動器的替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30029064</id>
-        <link href="https://news.ycombinator.com/item?id=30029064"/>
-        <updated>2022-01-21T19:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternatives to Google Drive?]]></summary>
-        <author>
-            <name>wolpoli</name>
-            <uri>https://news.ycombinator.com/user?id=wolpoli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何將公司的筆記本電腦運送給國外的遠程團隊成員？]]></title>
-        <id>https://news.ycombinator.com/item?id=30028891</id>
-        <link href="https://news.ycombinator.com/item?id=30028891"/>
-        <updated>2022-01-21T19:39:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to ship company laptops to remote team members abroad?]]></summary>
-        <author>
-            <name>rkapsoro</name>
-            <uri>https://news.ycombinator.com/user?id=rkapsoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否發現火狐瀏覽器有很多毛病？]]></title>
-        <id>https://news.ycombinator.com/item?id=30028778</id>
-        <link href="https://news.ycombinator.com/item?id=30028778"/>
-        <updated>2022-01-21T19:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you finding Firefox quite buggy?]]></summary>
-        <author>
-            <name>lbj</name>
-            <uri>https://news.ycombinator.com/user?id=lbj</uri>
         </author>
     </entry>
 </feed>
