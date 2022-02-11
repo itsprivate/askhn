@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T19:07:46.303Z</updated>
+    <updated>2022-02-11T19:22:40.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一名SW工程师，如何从雇员迁移到自由职业者？]]></title>
+        <id>https://news.ycombinator.com/item?id=30305712</id>
+        <link href="https://news.ycombinator.com/item?id=30305712"/>
+        <updated>2022-02-11T19:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to migrate from employee to freelancer as a SW engineer?]]></summary>
+        <author>
+            <name>throwcean</name>
+            <uri>https://news.ycombinator.com/user?id=throwcean</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家工作时，你是如何保持专注的？]]></title>
         <id>https://news.ycombinator.com/item?id=30305533</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>adawg4</name>
             <uri>https://news.ycombinator.com/user?id=adawg4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的MRR与举重的比例是多少？(美元对磅数)]]></title>
-        <id>https://news.ycombinator.com/item?id=30033408</id>
-        <link href="https://news.ycombinator.com/item?id=30033408"/>
-        <updated>2022-01-22T04:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your MRR to Deadlift ratio? (dollars to lbs)]]></summary>
-        <author>
-            <name>zhoujeffrey8</name>
-            <uri>https://news.ycombinator.com/user?id=zhoujeffrey8</uri>
         </author>
     </entry>
 </feed>
