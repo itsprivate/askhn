@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T19:22:40.232Z</updated>
+    <updated>2022-02-11T20:29:10.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄乌战争对软件业的影响？]]></title>
+        <id>https://news.ycombinator.com/item?id=30306403</id>
+        <link href="https://news.ycombinator.com/item?id=30306403"/>
+        <updated>2022-02-11T20:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Consequences of the Russia-Ukraine War in the software industry?]]></summary>
+        <author>
+            <name>erkanerol</name>
+            <uri>https://news.ycombinator.com/user?id=erkanerol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名SW工程师，如何从雇员迁移到自由职业者？]]></title>
         <id>https://news.ycombinator.com/item?id=30305712</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>readonthegoapp</name>
             <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在2022年的最大目标是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30033419</id>
-        <link href="https://news.ycombinator.com/item?id=30033419"/>
-        <updated>2022-01-22T04:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your biggest goals for 2022?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
