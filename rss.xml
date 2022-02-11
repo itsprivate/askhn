@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Feb 2022 14:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 15:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是最差的软件？]]></title>
+            <link>https://news.ycombinator.com/item?id=30302548</link>
+            <guid>https://news.ycombinator.com/item?id=30302548</guid>
+            <pubDate>Fri, 11 Feb 2022 15:31:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Is the Worst Software?]]></description>
+        </item>
         <item>
             <title><![CDATA[您推荐哪些浏览器扩展？]]></title>
             <link>https://news.ycombinator.com/item?id=30302011</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30028778</guid>
             <pubDate>Fri, 21 Jan 2022 19:30:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Are you finding Firefox quite buggy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的公司是否支付了生活费用的增长？]]></title>
-            <link>https://news.ycombinator.com/item?id=30028672</link>
-            <guid>https://news.ycombinator.com/item?id=30028672</guid>
-            <pubDate>Fri, 21 Jan 2022 19:23:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is your company paying cost of living increases?]]></description>
         </item>
     </channel>
 </rss>

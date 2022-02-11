@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T14:49:06.758Z</updated>
+    <updated>2022-02-11T15:41:06.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是最差的軟件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30302548</id>
+        <link href="https://news.ycombinator.com/item?id=30302548"/>
+        <updated>2022-02-11T15:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Is the Worst Software?]]></summary>
+        <author>
+            <name>seereadhack</name>
+            <uri>https://news.ycombinator.com/user?id=seereadhack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您推薦哪些瀏覽器擴展？]]></title>
         <id>https://news.ycombinator.com/item?id=30302011</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lbj</name>
             <uri>https://news.ycombinator.com/user?id=lbj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司是否支付了生活費用的增長？]]></title>
-        <id>https://news.ycombinator.com/item?id=30028672</id>
-        <link href="https://news.ycombinator.com/item?id=30028672"/>
-        <updated>2022-01-21T19:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your company paying cost of living increases?]]></summary>
-        <author>
-            <name>mapmap</name>
-            <uri>https://news.ycombinator.com/user?id=mapmap</uri>
         </author>
     </entry>
 </feed>
