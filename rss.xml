@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有AST意识的模板程序/片段？]]></title>
+            <link>https://news.ycombinator.com/item?id=30297706</link>
+            <guid>https://news.ycombinator.com/item?id=30297706</guid>
+            <pubDate>Fri, 11 Feb 2022 06:17:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are there AST aware templating programs / snippets?]]></description>
+        </item>
         <item>
             <title><![CDATA[你会持有两份全职的远程工作吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30297589</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30026078</guid>
             <pubDate>Fri, 21 Jan 2022 16:45:57 GMT</pubDate>
             <description><![CDATA[Ask HN: What Alternative Careers Are Software Developers Pursuing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寻找一个C++音频库]]></title>
-            <link>https://news.ycombinator.com/item?id=30025824</link>
-            <guid>https://news.ycombinator.com/item?id=30025824</guid>
-            <pubDate>Fri, 21 Jan 2022 16:30:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Looking for a C++ Audio Lib]]></description>
         </item>
     </channel>
 </rss>

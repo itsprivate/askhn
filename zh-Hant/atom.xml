@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T06:11:28.536Z</updated>
+    <updated>2022-02-11T06:34:32.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有AST意識的模板程序/片段？]]></title>
+        <id>https://news.ycombinator.com/item?id=30297706</id>
+        <link href="https://news.ycombinator.com/item?id=30297706"/>
+        <updated>2022-02-11T06:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there AST aware templating programs / snippets?]]></summary>
+        <author>
+            <name>vaughands</name>
+            <uri>https://news.ycombinator.com/user?id=vaughands</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會持有兩份全職的遠程工作嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30297589</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gj0</name>
             <uri>https://news.ycombinator.com/user?id=gj0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找一個C++音頻庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30025824</id>
-        <link href="https://news.ycombinator.com/item?id=30025824"/>
-        <updated>2022-01-21T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a C++ Audio Lib]]></summary>
-        <author>
-            <name>yair99dd</name>
-            <uri>https://news.ycombinator.com/user?id=yair99dd</uri>
         </author>
     </entry>
 </feed>
