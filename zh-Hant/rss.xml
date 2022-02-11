@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Feb 2022 22:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 22:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何從倦怠中恢復？]]></title>
+            <link>https://news.ycombinator.com/item?id=30307837</link>
+            <guid>https://news.ycombinator.com/item?id=30307837</guid>
+            <pubDate>Fri, 11 Feb 2022 22:36:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you recover from burnout?]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客新聞對科技來說，就像X對Y一樣？]]></title>
             <link>https://news.ycombinator.com/item?id=30307778</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30035243</guid>
             <pubDate>Sat, 22 Jan 2022 09:52:21 GMT</pubDate>
             <description><![CDATA[Ask HN: Software Engineers, how do you want to be interviewed?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[除了工作或自由職業者，你會如何用代碼賺錢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30035081</link>
-            <guid>https://news.ycombinator.com/item?id=30035081</guid>
-            <pubDate>Sat, 22 Jan 2022 09:21:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Besides a job or freelancing, how would you make money with code?]]></description>
         </item>
     </channel>
 </rss>
