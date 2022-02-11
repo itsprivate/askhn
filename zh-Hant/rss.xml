@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你會持有兩份全職的遠程工作嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30297589</link>
+            <guid>https://news.ycombinator.com/item?id=30297589</guid>
+            <pubDate>Fri, 11 Feb 2022 05:54:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would you hold two full-time remote jobs?]]></description>
+        </item>
         <item>
             <title><![CDATA[在UEFI設置中，我怎麼會收到Slack的通知？]]></title>
             <link>https://news.ycombinator.com/item?id=30297296</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30025824</guid>
             <pubDate>Fri, 21 Jan 2022 16:30:00 GMT</pubDate>
             <description><![CDATA[Ask HN: Looking for a C++ Audio Lib]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何進行代碼審查？]]></title>
-            <link>https://news.ycombinator.com/item?id=30025532</link>
-            <guid>https://news.ycombinator.com/item?id=30025532</guid>
-            <pubDate>Fri, 21 Jan 2022 16:12:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you conduct code reviews?]]></description>
         </item>
     </channel>
 </rss>
