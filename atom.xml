@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T14:09:09.215Z</updated>
+    <updated>2022-02-11T14:49:06.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您推荐哪些浏览器扩展？]]></title>
+        <id>https://news.ycombinator.com/item?id=30302011</id>
+        <link href="https://news.ycombinator.com/item?id=30302011"/>
+        <updated>2022-02-11T14:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What browser extensions do you recommend?]]></summary>
+        <author>
+            <name>JadoJodo</name>
+            <uri>https://news.ycombinator.com/user?id=JadoJodo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[即使你喜欢远程工作，最困难的事情是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30301521</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mapmap</name>
             <uri>https://news.ycombinator.com/user?id=mapmap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构成Web 3.0的特点/技术是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30028651</id>
-        <link href="https://news.ycombinator.com/item?id=30028651"/>
-        <updated>2022-01-21T19:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the features/technologies that make up Web 3.0?]]></summary>
-        <author>
-            <name>larryfreeman</name>
-            <uri>https://news.ycombinator.com/user?id=larryfreeman</uri>
         </author>
     </entry>
 </feed>
