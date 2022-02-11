@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T07:49:03.063Z</updated>
+    <updated>2022-02-11T09:37:15.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望看到哪些SaaS产品的开源版本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30299223</id>
+        <link href="https://news.ycombinator.com/item?id=30299223"/>
+        <updated>2022-02-11T09:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which open source versions of SaaS products would you like to see?]]></summary>
+        <author>
+            <name>udl</name>
+            <uri>https://news.ycombinator.com/user?id=udl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对RISC-V的发展有何看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30298232</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>readonthegoapp</name>
             <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你正在处理的有趣的问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30026150</id>
-        <link href="https://news.ycombinator.com/item?id=30026150"/>
-        <updated>2022-01-21T16:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Interesting Problems You Are Working On?]]></summary>
-        <author>
-            <name>gj0</name>
-            <uri>https://news.ycombinator.com/user?id=gj0</uri>
         </author>
     </entry>
 </feed>
