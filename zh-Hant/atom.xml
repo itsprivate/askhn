@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T03:09:09.986Z</updated>
+    <updated>2022-02-11T03:28:41.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該如何處理我未使用的1G網絡？]]></title>
+        <id>https://news.ycombinator.com/item?id=30296501</id>
+        <link href="https://news.ycombinator.com/item?id=30296501"/>
+        <updated>2022-02-11T03:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I do with my unused 1Gig internet?]]></summary>
+        <author>
+            <name>kirillzubovsky</name>
+            <uri>https://news.ycombinator.com/user?id=kirillzubovsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為初創企業招聘工程師的最佳方式？]]></title>
         <id>https://news.ycombinator.com/item?id=30296234</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>megamix</name>
             <uri>https://news.ycombinator.com/user?id=megamix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年，Ruby on rails值得學習嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30022185</id>
-        <link href="https://news.ycombinator.com/item?id=30022185"/>
-        <updated>2022-01-21T11:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Ruby on rails worth it to learn in 2022?]]></summary>
-        <author>
-            <name>ahmaman</name>
-            <uri>https://news.ycombinator.com/user?id=ahmaman</uri>
         </author>
     </entry>
 </feed>
