@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T22:49:08.898Z</updated>
+    <updated>2022-02-11T23:27:39.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[憲章》要7100美元來使我的新家可以使用。什麼原因？]]></title>
+        <id>https://news.ycombinator.com/item?id=30308234</id>
+        <link href="https://news.ycombinator.com/item?id=30308234"/>
+        <updated>2022-02-11T23:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Charter wants $7100 to make my new home serviceable. What gives?]]></summary>
+        <author>
+            <name>kfrzcode</name>
+            <uri>https://news.ycombinator.com/user?id=kfrzcode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何從倦怠中恢復？]]></title>
         <id>https://news.ycombinator.com/item?id=30307837</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cleanyourroom</name>
             <uri>https://news.ycombinator.com/user?id=cleanyourroom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件工程師，你想如何接受面試？]]></title>
-        <id>https://news.ycombinator.com/item?id=30035243</id>
-        <link href="https://news.ycombinator.com/item?id=30035243"/>
-        <updated>2022-01-22T09:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Software Engineers, how do you want to be interviewed?]]></summary>
-        <author>
-            <name>nurbo</name>
-            <uri>https://news.ycombinator.com/user?id=nurbo</uri>
         </author>
     </entry>
 </feed>
