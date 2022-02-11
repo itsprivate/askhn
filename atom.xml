@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T13:19:10.411Z</updated>
+    <updated>2022-02-11T13:35:12.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于一个家庭来说，最好但最简单的托管NextCloud的方式是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30301174</id>
+        <link href="https://news.ycombinator.com/item?id=30301174"/>
+        <updated>2022-02-11T13:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best but the simplest way to host NextCloud for a family?]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个非OCR服务来创建手写笔记的数字副本？]]></title>
         <id>https://news.ycombinator.com/item?id=30300916</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>dennisy</name>
             <uri>https://news.ycombinator.com/user?id=dennisy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人以建立桌面应用程序为生？]]></title>
-        <id>https://news.ycombinator.com/item?id=30027925</id>
-        <link href="https://news.ycombinator.com/item?id=30027925"/>
-        <updated>2022-01-21T18:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone making a living building desktop applications?]]></summary>
-        <author>
-            <name>jventura</name>
-            <uri>https://news.ycombinator.com/user?id=jventura</uri>
         </author>
     </entry>
 </feed>
