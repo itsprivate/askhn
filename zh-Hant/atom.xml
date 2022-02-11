@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T04:36:16.787Z</updated>
+    <updated>2022-02-11T05:08:42.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用的 "最佳 "跨平臺磁盤加密軟件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30297188</id>
+        <link href="https://news.ycombinator.com/item?id=30297188"/>
+        <updated>2022-02-11T04:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: "Best” cross-platform disk encryption software to use?]]></summary>
+        <author>
+            <name>berkut</name>
+            <uri>https://news.ycombinator.com/user?id=berkut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜歡的文章聚合器？]]></title>
         <id>https://news.ycombinator.com/item?id=30296889</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mmsimanga</name>
             <uri>https://news.ycombinator.com/user?id=mmsimanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼來訂購宣傳品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30024850</id>
-        <link href="https://news.ycombinator.com/item?id=30024850"/>
-        <updated>2022-01-21T15:29:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use to order swag?]]></summary>
-        <author>
-            <name>nyellin</name>
-            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
         </author>
     </entry>
 </feed>
