@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-11T06:34:32.698Z</updated>
+    <updated>2022-02-11T07:49:03.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对RISC-V的发展有何看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30298232</id>
+        <link href="https://news.ycombinator.com/item?id=30298232"/>
+        <updated>2022-02-11T07:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think about RISC-V development?]]></summary>
+        <author>
+            <name>Eatcats</name>
+            <uri>https://news.ycombinator.com/user?id=Eatcats</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有AST意识的模板程序/片段？]]></title>
         <id>https://news.ycombinator.com/item?id=30297706</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=30026150"/>
         <updated>2022-01-21T16:51:07.000Z</updated>
         <summary type="html"><![CDATA[Ask HN: Interesting Problems You Are Working On?]]></summary>
-        <author>
-            <name>gj0</name>
-            <uri>https://news.ycombinator.com/user?id=gj0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件开发人员在追求什么其他职业？]]></title>
-        <id>https://news.ycombinator.com/item?id=30026078</id>
-        <link href="https://news.ycombinator.com/item?id=30026078"/>
-        <updated>2022-01-21T16:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Alternative Careers Are Software Developers Pursuing?]]></summary>
         <author>
             <name>gj0</name>
             <uri>https://news.ycombinator.com/user?id=gj0</uri>
