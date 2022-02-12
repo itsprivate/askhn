@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Feb 2022 16:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 16:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯入侵乌克兰会加速火星的殖民化吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30313962</link>
+            <guid>https://news.ycombinator.com/item?id=30313962</guid>
+            <pubDate>Sat, 12 Feb 2022 16:27:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would Russia invading Ukraine accelerate colonization of Mars?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何获得O-1签证的？]]></title>
             <link>https://news.ycombinator.com/item?id=30313725</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30037141</guid>
             <pubDate>Sat, 22 Jan 2022 14:52:39 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you celebrate feature releases as a remote only company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今天有哪些网络应用使用WASM？]]></title>
-            <link>https://news.ycombinator.com/item?id=30036575</link>
-            <guid>https://news.ycombinator.com/item?id=30036575</guid>
-            <pubDate>Sat, 22 Jan 2022 13:49:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: What web apps use WASM today?]]></description>
         </item>
     </channel>
 </rss>
