@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T21:49:18.807Z</updated>
+    <updated>2022-02-12T22:11:43.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼一定要有戰爭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30316860</id>
+        <link href="https://news.ycombinator.com/item?id=30316860"/>
+        <updated>2022-02-12T21:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why must there be war?]]></summary>
+        <author>
+            <name>gizmore</name>
+            <uri>https://news.ycombinator.com/user?id=gizmore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不在空氣中存在疫苗的建築物中接種疫苗？]]></title>
         <id>https://news.ycombinator.com/item?id=30316808</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gr33ndata</name>
             <uri>https://news.ycombinator.com/user?id=gr33ndata</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使我的iMac不那麼令人分心？]]></title>
-        <id>https://news.ycombinator.com/item?id=30043764</id>
-        <link href="https://news.ycombinator.com/item?id=30043764"/>
-        <updated>2022-01-23T04:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make my iMac less distracting?]]></summary>
-        <author>
-            <name>tomcat27</name>
-            <uri>https://news.ycombinator.com/user?id=tomcat27</uri>
         </author>
     </entry>
 </feed>
