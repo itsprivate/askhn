@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T22:11:43.047Z</updated>
+    <updated>2022-02-12T23:08:41.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前端有什么新的和时髦的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30317223</id>
+        <link href="https://news.ycombinator.com/item?id=30317223"/>
+        <updated>2022-02-12T22:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's new and funky in front end?]]></summary>
+        <author>
+            <name>lastairnomad</name>
+            <uri>https://news.ycombinator.com/user?id=lastairnomad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你希望有什么产品存在？]]></title>
+        <id>https://news.ycombinator.com/item?id=30317180</id>
+        <link href="https://news.ycombinator.com/item?id=30317180"/>
+        <updated>2022-02-12T22:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What product do you wish existed?]]></summary>
+        <author>
+            <name>MathCodeLove</name>
+            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么一定要有战争？]]></title>
         <id>https://news.ycombinator.com/item?id=30316860</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>lazyweb</name>
             <uri>https://news.ycombinator.com/user?id=lazyweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变你生活的最重要的一件小事是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30044729</id>
-        <link href="https://news.ycombinator.com/item?id=30044729"/>
-        <updated>2022-01-23T09:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most significant small thing that changed your life?]]></summary>
-        <author>
-            <name>Obertr</name>
-            <uri>https://news.ycombinator.com/user?id=Obertr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你要重塑数据生态系统，你会选择什么语言？]]></title>
-        <id>https://news.ycombinator.com/item?id=30044678</id>
-        <link href="https://news.ycombinator.com/item?id=30044678"/>
-        <updated>2022-01-23T08:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What language will you pick if you are to reinvent the data ecosystem?]]></summary>
-        <author>
-            <name>gr33ndata</name>
-            <uri>https://news.ycombinator.com/user?id=gr33ndata</uri>
         </author>
     </entry>
 </feed>
