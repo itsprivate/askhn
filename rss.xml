@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Feb 2022 19:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 19:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Calladev.com发生了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30315386</link>
+            <guid>https://news.ycombinator.com/item?id=30315386</guid>
+            <pubDate>Sat, 12 Feb 2022 19:11:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened with Calladev.com?]]></description>
+        </item>
         <item>
             <title><![CDATA[alternativeto.net是否被认为是一个可靠的来源？]]></title>
             <link>https://news.ycombinator.com/item?id=30315232</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30041835</guid>
             <pubDate>Sat, 22 Jan 2022 23:19:51 GMT</pubDate>
             <description><![CDATA[Ask HN: What's the best books for startup enterpreneurs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux移动版的现状？]]></title>
-            <link>https://news.ycombinator.com/item?id=30041248</link>
-            <guid>https://news.ycombinator.com/item?id=30041248</guid>
-            <pubDate>Sat, 22 Jan 2022 22:02:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: State of Linux Mobile?]]></description>
         </item>
     </channel>
 </rss>
