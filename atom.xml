@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T18:32:08.943Z</updated>
+    <updated>2022-02-12T18:50:39.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gmail的垃圾邮件对其他人也失去了控制吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30315116</id>
+        <link href="https://news.ycombinator.com/item?id=30315116"/>
+        <updated>2022-02-12T18:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Gmail spam out of control for everyone else too?]]></summary>
+        <author>
+            <name>agency</name>
+            <uri>https://news.ycombinator.com/user?id=agency</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你在一个软件开发者工会，你会为之奋斗什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30314980</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>quambene</name>
             <uri>https://news.ycombinator.com/user?id=quambene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人告诉你的最好的建议是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30040980</id>
-        <link href="https://news.ycombinator.com/item?id=30040980"/>
-        <updated>2022-01-22T21:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best piece of advice someone has told you?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
