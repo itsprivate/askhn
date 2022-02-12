@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T17:49:24.067Z</updated>
+    <updated>2022-02-12T18:10:04.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打擊臉譜網的克隆騙子]]></title>
+        <id>https://news.ycombinator.com/item?id=30314720</id>
+        <link href="https://news.ycombinator.com/item?id=30314720"/>
+        <updated>2022-02-12T17:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Fighting Facebook Clone Scammers]]></summary>
+        <author>
+            <name>rdtwo</name>
+            <uri>https://news.ycombinator.com/user?id=rdtwo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在使用Twirp進行內部服務溝通嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30314715</id>
+        <link href="https://news.ycombinator.com/item?id=30314715"/>
+        <updated>2022-02-12T17:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you using Twirp for internal service communication?]]></summary>
+        <author>
+            <name>disintegrator</name>
+            <uri>https://news.ycombinator.com/user?id=disintegrator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速WordPress主機所需的最佳VPS是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30314698</id>
+        <link href="https://news.ycombinator.com/item?id=30314698"/>
+        <updated>2022-02-12T17:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s optimal VPS required for fast WordPress hosting?]]></summary>
+        <author>
+            <name>4444</name>
+            <uri>https://news.ycombinator.com/user?id=4444</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[說服別人與你做用戶訪談的策略？]]></title>
         <id>https://news.ycombinator.com/item?id=30314576</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>robrenaud</name>
             <uri>https://news.ycombinator.com/user?id=robrenaud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有哪些與DDIA一樣基本的書籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30039717</id>
-        <link href="https://news.ycombinator.com/item?id=30039717"/>
-        <updated>2022-01-22T19:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some other books as fundamental as DDIA?]]></summary>
-        <author>
-            <name>dondraper36</name>
-            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼針對移動應用的自我託管CI/CD建議嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30039548</id>
-        <link href="https://news.ycombinator.com/item?id=30039548"/>
-        <updated>2022-01-22T18:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any self hosted CI/CD for mobile apps suggestions?]]></summary>
-        <author>
-            <name>mateioprea</name>
-            <uri>https://news.ycombinator.com/user?id=mateioprea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會避開有計算機情節/專家的電影嗎？如果是的話，為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30039324</id>
-        <link href="https://news.ycombinator.com/item?id=30039324"/>
-        <updated>2022-01-22T18:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you avoid movies with computer plots/experts? And if so, why?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
