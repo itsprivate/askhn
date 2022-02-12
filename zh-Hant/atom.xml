@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T19:50:29.832Z</updated>
+    <updated>2022-02-12T20:36:23.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MVP是初創企業應該建立的第一件事嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30316086</id>
+        <link href="https://news.ycombinator.com/item?id=30316086"/>
+        <updated>2022-02-12T20:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is an MVP the first thing a startup should build?]]></summary>
+        <author>
+            <name>MaknMoreGtnLess</name>
+            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何使用電子郵件別名？]]></title>
         <id>https://news.ycombinator.com/item?id=30315666</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Victerius</name>
             <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何/在哪裡學習實用電氣/電子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30042350</id>
-        <link href="https://news.ycombinator.com/item?id=30042350"/>
-        <updated>2022-01-23T00:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How / where to learn practical electrical / electronics?]]></summary>
-        <author>
-            <name>duxup</name>
-            <uri>https://news.ycombinator.com/user?id=duxup</uri>
         </author>
     </entry>
 </feed>
