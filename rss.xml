@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Feb 2022 18:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 18:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果你在一个软件开发者工会，你会为之奋斗什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30314980</link>
+            <guid>https://news.ycombinator.com/item?id=30314980</guid>
+            <pubDate>Sat, 12 Feb 2022 18:26:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: If you were in a software developers' union, what would you fight for?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何将我的代码库的依赖关系图可视化？]]></title>
+            <link>https://news.ycombinator.com/item?id=30314853</link>
+            <guid>https://news.ycombinator.com/item?id=30314853</guid>
+            <pubDate>Sat, 12 Feb 2022 18:11:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to visualize the dependency graphs of my codebase?]]></description>
+        </item>
         <item>
             <title><![CDATA[打击脸谱网的克隆骗子]]></title>
             <link>https://news.ycombinator.com/item?id=30314720</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30040980</guid>
             <pubDate>Sat, 22 Jan 2022 21:26:25 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the best piece of advice someone has told you?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare是否停机？]]></title>
-            <link>https://news.ycombinator.com/item?id=30040530</link>
-            <guid>https://news.ycombinator.com/item?id=30040530</guid>
-            <pubDate>Sat, 22 Jan 2022 20:30:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Cloudflare Down?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为休息一年多的CS/Mathy SWE推荐MOOC课程]]></title>
-            <link>https://news.ycombinator.com/item?id=30040447</link>
-            <guid>https://news.ycombinator.com/item?id=30040447</guid>
-            <pubDate>Sat, 22 Jan 2022 20:17:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Recommended MOOC courses for CS/Mathy SWE taking a year+ off]]></description>
         </item>
     </channel>
 </rss>
