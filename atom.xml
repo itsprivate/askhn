@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T18:50:39.236Z</updated>
+    <updated>2022-02-12T19:06:21.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[alternativeto.net是否被认为是一个可靠的来源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30315232</id>
+        <link href="https://news.ycombinator.com/item?id=30315232"/>
+        <updated>2022-02-12T18:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is alternativeto.net considered as a reliable source?]]></summary>
+        <author>
+            <name>nile-crocodile</name>
+            <uri>https://news.ycombinator.com/user?id=nile-crocodile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmail的垃圾邮件对其他人也失去了控制吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30315116</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Grae</name>
             <uri>https://news.ycombinator.com/user?id=Grae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在欧洲使用哪种网络分析软件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30041156</id>
-        <link href="https://news.ycombinator.com/item?id=30041156"/>
-        <updated>2022-01-22T21:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which web analytics software are you using in Europe?]]></summary>
-        <author>
-            <name>quambene</name>
-            <uri>https://news.ycombinator.com/user?id=quambene</uri>
         </author>
     </entry>
 </feed>
