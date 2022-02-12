@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T16:58:35.148Z</updated>
+    <updated>2022-02-12T17:27:41.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼項目正在解決處理器垃圾郵件的問題嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30314322</id>
+        <link href="https://news.ycombinator.com/item?id=30314322"/>
+        <updated>2022-02-12T17:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any projects that are tackling processor spam?]]></summary>
+        <author>
+            <name>NWoodsman</name>
+            <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器擴展的創造者，你如何為多個瀏覽器寫作？]]></title>
         <id>https://news.ycombinator.com/item?id=30314053</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些你喜歡的紀錄片？]]></title>
-        <id>https://news.ycombinator.com/item?id=30037713</id>
-        <link href="https://news.ycombinator.com/item?id=30037713"/>
-        <updated>2022-01-22T15:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some documentaries you’ve enjoyed?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
         </author>
     </entry>
 </feed>
