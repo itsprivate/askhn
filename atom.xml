@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T19:22:54.519Z</updated>
+    <updated>2022-02-12T19:50:29.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何使用电子邮件别名？]]></title>
+        <id>https://news.ycombinator.com/item?id=30315666</id>
+        <link href="https://news.ycombinator.com/item?id=30315666"/>
+        <updated>2022-02-12T19:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you use email aliases?]]></summary>
+        <author>
+            <name>alxthm</name>
+            <uri>https://news.ycombinator.com/user?id=alxthm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calladev.com发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30315386</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>duxup</name>
             <uri>https://news.ycombinator.com/user?id=duxup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对初创企业的企业家来说，有什么好书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30041835</id>
-        <link href="https://news.ycombinator.com/item?id=30041835"/>
-        <updated>2022-01-22T23:19:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best books for startup enterpreneurs?]]></summary>
-        <author>
-            <name>jbesomi</name>
-            <uri>https://news.ycombinator.com/user?id=jbesomi</uri>
         </author>
     </entry>
 </feed>
