@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Feb 2022 23:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 23:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[早期编程语言的哪些特点出人意料地存留了下来？]]></title>
+            <link>https://news.ycombinator.com/item?id=30317414</link>
+            <guid>https://news.ycombinator.com/item?id=30317414</guid>
+            <pubDate>Sat, 12 Feb 2022 23:27:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which features of early programming languages surprisingly survived?]]></description>
+        </item>
         <item>
             <title><![CDATA[前端有什么新的和时髦的？]]></title>
             <link>https://news.ycombinator.com/item?id=30317223</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30045588</guid>
             <pubDate>Sun, 23 Jan 2022 12:12:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Have anyone had success with projector-based work station?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Wordpress迁移到更简单/更优雅的东西的最佳方法？]]></title>
-            <link>https://news.ycombinator.com/item?id=30045034</link>
-            <guid>https://news.ycombinator.com/item?id=30045034</guid>
-            <pubDate>Sun, 23 Jan 2022 10:15:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best way to migrate from Wordpress to something simpler/more elegant?]]></description>
         </item>
     </channel>
 </rss>
