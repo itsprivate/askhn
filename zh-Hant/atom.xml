@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T19:21:52.363Z</updated>
+    <updated>2022-02-13T19:49:29.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建造一架經過幾十年低度維護仍能保持良好音質的鋼琴？]]></title>
+        <id>https://news.ycombinator.com/item?id=30324891</id>
+        <link href="https://news.ycombinator.com/item?id=30324891"/>
+        <updated>2022-02-13T19:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to build a piano that sounds good after decades of low maintenance?]]></summary>
+        <author>
+            <name>JabavuAdams</name>
+            <uri>https://news.ycombinator.com/user?id=JabavuAdams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為不是膠水的工作說話？]]></title>
         <id>https://news.ycombinator.com/item?id=30324581</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>throwaway44r8</name>
             <uri>https://news.ycombinator.com/user?id=throwaway44r8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡或桌面應用程序的無干擾體驗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30052710</id>
-        <link href="https://news.ycombinator.com/item?id=30052710"/>
-        <updated>2022-01-24T01:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Web or Desktop App for distraction free experience?]]></summary>
-        <author>
-            <name>makstaks</name>
-            <uri>https://news.ycombinator.com/user?id=makstaks</uri>
         </author>
     </entry>
 </feed>
