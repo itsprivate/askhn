@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T03:09:25.673Z</updated>
+    <updated>2022-02-13T04:10:07.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何调和你的纸质和数字笔记？]]></title>
+        <id>https://news.ycombinator.com/item?id=30319019</id>
+        <link href="https://news.ycombinator.com/item?id=30319019"/>
+        <updated>2022-02-13T03:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you reconcile your paper and digital notes?]]></summary>
+        <author>
+            <name>mangala_murti</name>
+            <uri>https://news.ycombinator.com/user?id=mangala_murti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在一个记事本应用程序中寻找什么功能？]]></title>
         <id>https://news.ycombinator.com/item?id=30318689</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mettamage</name>
             <uri>https://news.ycombinator.com/user?id=mettamage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对SMTP发送服务的建议]]></title>
-        <id>https://news.ycombinator.com/item?id=30046840</id>
-        <link href="https://news.ycombinator.com/item?id=30046840"/>
-        <updated>2022-01-23T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for an SMTP Sending Service]]></summary>
-        <author>
-            <name>BrandoElFollito</name>
-            <uri>https://news.ycombinator.com/user?id=BrandoElFollito</uri>
         </author>
     </entry>
 </feed>
