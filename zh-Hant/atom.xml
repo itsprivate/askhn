@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T15:39:53.524Z</updated>
+    <updated>2022-02-13T16:11:14.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有多少次低估了自己？]]></title>
+        <id>https://news.ycombinator.com/item?id=30322680</id>
+        <link href="https://news.ycombinator.com/item?id=30322680"/>
+        <updated>2022-02-13T16:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How often do you underestimate yourself?]]></summary>
+        <author>
+            <name>adawg4</name>
+            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帳戶已被永久地從Reddit暫停。]]></title>
+        <id>https://news.ycombinator.com/item?id=30322513</id>
+        <link href="https://news.ycombinator.com/item?id=30322513"/>
+        <updated>2022-02-13T15:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Account has been permanently suspended from Reddit]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YC按比例的側面信]]></title>
         <id>https://news.ycombinator.com/item?id=30322302</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>rhlnr</name>
             <uri>https://news.ycombinator.com/user?id=rhlnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何開始業餘天文學的學習？]]></title>
-        <id>https://news.ycombinator.com/item?id=30049395</id>
-        <link href="https://news.ycombinator.com/item?id=30049395"/>
-        <updated>2022-01-23T19:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get started in amateur astronomy?]]></summary>
-        <author>
-            <name>furrowedbrow</name>
-            <uri>https://news.ycombinator.com/user?id=furrowedbrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果提交一個故事需要花費1個因果關係呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30049392</id>
-        <link href="https://news.ycombinator.com/item?id=30049392"/>
-        <updated>2022-01-23T19:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What if submitting a story cost 1 karma?]]></summary>
-        <author>
-            <name>karmakaze</name>
-            <uri>https://news.ycombinator.com/user?id=karmakaze</uri>
         </author>
     </entry>
 </feed>
