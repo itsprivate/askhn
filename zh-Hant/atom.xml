@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T18:09:32.054Z</updated>
+    <updated>2022-02-13T18:43:18.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[養動物是無家可歸者有的好的藥物成癮療法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30324227</id>
+        <link href="https://news.ycombinator.com/item?id=30324227"/>
+        <updated>2022-02-13T18:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Raising animals a good drug addiction cure the homeless have?]]></summary>
+        <author>
+            <name>MaknMoreGtnLess</name>
+            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的軟件是由你的設計演變而來，還是相反？]]></title>
         <id>https://news.ycombinator.com/item?id=30323767</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>walrus01</name>
             <uri>https://news.ycombinator.com/user?id=walrus01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源應用程序如何在沒有云費用的情況下支持協作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30052186</id>
-        <link href="https://news.ycombinator.com/item?id=30052186"/>
-        <updated>2022-01-24T00:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can open source apps support collaboration without cloud fees?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
