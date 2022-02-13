@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T19:49:29.279Z</updated>
+    <updated>2022-02-13T20:10:27.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[很難找到USB C 5 Gbps和10 Gbps電纜？]]></title>
+        <id>https://news.ycombinator.com/item?id=30325055</id>
+        <link href="https://news.ycombinator.com/item?id=30325055"/>
+        <updated>2022-02-13T20:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hard to find USB C 5 Gbps and 10 Gbps cables?]]></summary>
+        <author>
+            <name>dihydro</name>
+            <uri>https://news.ycombinator.com/user?id=dihydro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2032年的脆弱性研究？]]></title>
+        <id>https://news.ycombinator.com/item?id=30324988</id>
+        <link href="https://news.ycombinator.com/item?id=30324988"/>
+        <updated>2022-02-13T19:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Vulnerability Research in 2032?]]></summary>
+        <author>
+            <name>badrabbit</name>
+            <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建造一架經過幾十年低度維護仍能保持良好音質的鋼琴？]]></title>
         <id>https://news.ycombinator.com/item?id=30324891</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pipeline_peak</name>
             <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些項目值得更多的捐贈？]]></title>
-        <id>https://news.ycombinator.com/item?id=30053009</id>
-        <link href="https://news.ycombinator.com/item?id=30053009"/>
-        <updated>2022-01-24T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which projects deserve more donations?]]></summary>
-        <author>
-            <name>manx</name>
-            <uri>https://news.ycombinator.com/user?id=manx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在貴國，獲得Covid測試有多容易？]]></title>
-        <id>https://news.ycombinator.com/item?id=30052724</id>
-        <link href="https://news.ycombinator.com/item?id=30052724"/>
-        <updated>2022-01-24T01:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How easy is it to get Covid tests in your country?]]></summary>
-        <author>
-            <name>throwaway44r8</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway44r8</uri>
         </author>
     </entry>
 </feed>
