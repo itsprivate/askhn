@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T23:09:00.311Z</updated>
+    <updated>2022-02-13T23:49:24.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否擁有我的登錄/密碼的版權？]]></title>
+        <id>https://news.ycombinator.com/item?id=30326734</id>
+        <link href="https://news.ycombinator.com/item?id=30326734"/>
+        <updated>2022-02-13T23:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do I own the copyright on my logon/password]]></summary>
+        <author>
+            <name>Berniek</name>
+            <uri>https://news.ycombinator.com/user?id=Berniek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果加州處於緊急狀態，為什麼超級碗會在洛杉磯舉行？]]></title>
         <id>https://news.ycombinator.com/item?id=30326453</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>adam_ellsworth</name>
             <uri>https://news.ycombinator.com/user?id=adam_ellsworth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何對學習上癮？]]></title>
-        <id>https://news.ycombinator.com/item?id=30053248</id>
-        <link href="https://news.ycombinator.com/item?id=30053248"/>
-        <updated>2022-01-24T03:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Get Addicted to Studying?]]></summary>
-        <author>
-            <name>tomcat27</name>
-            <uri>https://news.ycombinator.com/user?id=tomcat27</uri>
         </author>
     </entry>
 </feed>
