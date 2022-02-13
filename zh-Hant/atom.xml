@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T16:58:35.913Z</updated>
+    <updated>2022-02-13T17:27:11.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即將進行的工程經理和工程總監的面試]]></title>
+        <id>https://news.ycombinator.com/item?id=30323369</id>
+        <link href="https://news.ycombinator.com/item?id=30323369"/>
+        <updated>2022-02-13T17:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Upcoming interview with Engineering manager and Engineering Director]]></summary>
+        <author>
+            <name>2bor-2n</name>
+            <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼會讓你快樂？]]></title>
+        <id>https://news.ycombinator.com/item?id=30323344</id>
+        <link href="https://news.ycombinator.com/item?id=30323344"/>
+        <updated>2022-02-13T17:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would make you happy?]]></summary>
+        <author>
+            <name>blunte</name>
+            <uri>https://news.ycombinator.com/user?id=blunte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在SQL數據庫中實現數據可視化的工具？]]></title>
         <id>https://news.ycombinator.com/item?id=30323131</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>yair99dd</name>
             <uri>https://news.ycombinator.com/user?id=yair99dd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何使用Markdown並完全熱鍵化的電子郵件平臺？]]></title>
-        <id>https://news.ycombinator.com/item?id=30051422</id>
-        <link href="https://news.ycombinator.com/item?id=30051422"/>
-        <updated>2022-01-23T22:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any email platform that uses Markdown and is fully hot-keyed out?]]></summary>
-        <author>
-            <name>taurusnoises</name>
-            <uri>https://news.ycombinator.com/user?id=taurusnoises</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全棧工程師的技術側項目想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30050968</id>
-        <link href="https://news.ycombinator.com/item?id=30050968"/>
-        <updated>2022-01-23T22:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Technical side project ideas for full stack engineers?]]></summary>
-        <author>
-            <name>aronowb14</name>
-            <uri>https://news.ycombinator.com/user?id=aronowb14</uri>
         </author>
     </entry>
 </feed>
