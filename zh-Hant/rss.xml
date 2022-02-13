@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Feb 2022 17:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 17:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[討論編程語言內部的書籍，感覺很舒服？]]></title>
+            <link>https://news.ycombinator.com/item?id=30323495</link>
+            <guid>https://news.ycombinator.com/item?id=30323495</guid>
+            <pubDate>Sun, 13 Feb 2022 17:28:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Books to feel comfortable discussing internals of programming languages?]]></description>
+        </item>
         <item>
             <title><![CDATA[即將進行的工程經理和工程總監的面試]]></title>
             <link>https://news.ycombinator.com/item?id=30323369</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30051782</guid>
             <pubDate>Sun, 23 Jan 2022 23:31:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Where are you going to find long-form content online these days?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[飛機上的黑客。邊離線邊學習]]></title>
-            <link>https://news.ycombinator.com/item?id=30051617</link>
-            <guid>https://news.ycombinator.com/item?id=30051617</guid>
-            <pubDate>Sun, 23 Jan 2022 23:13:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Hackers on a plane. learning while offline]]></description>
         </item>
     </channel>
 </rss>
