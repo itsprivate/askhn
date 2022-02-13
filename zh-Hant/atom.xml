@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-12T23:35:29.118Z</updated>
+    <updated>2022-02-13T00:30:32.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在蘋果Silicon M1上運行多個虛擬機？]]></title>
+        <id>https://news.ycombinator.com/item?id=30317631</id>
+        <link href="https://news.ycombinator.com/item?id=30317631"/>
+        <updated>2022-02-12T23:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you run multiple VMs on Apple Silicon M1?]]></summary>
+        <author>
+            <name>tkiolp4</name>
+            <uri>https://news.ycombinator.com/user?id=tkiolp4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何處理非網絡環境中的 "暫存服務器"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30317608</id>
+        <link href="https://news.ycombinator.com/item?id=30317608"/>
+        <updated>2022-02-12T23:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you handle “staging servers” in non-web environments?]]></summary>
+        <author>
+            <name>101008</name>
+            <uri>https://news.ycombinator.com/user?id=101008</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對我的Three.js/CSS介紹有什麼看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30317594</id>
+        <link href="https://news.ycombinator.com/item?id=30317594"/>
+        <updated>2022-02-12T23:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thoughts on my Three.js / CSS intro?]]></summary>
+        <author>
+            <name>mistermeenr</name>
+            <uri>https://news.ycombinator.com/user?id=mistermeenr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[早期編程語言的哪些特點出人意料地存留了下來？]]></title>
         <id>https://news.ycombinator.com/item?id=30317414</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>kirso</name>
             <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否應該使用React？]]></title>
-        <id>https://news.ycombinator.com/item?id=30046364</id>
-        <link href="https://news.ycombinator.com/item?id=30046364"/>
-        <updated>2022-01-23T14:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I even bother with React?]]></summary>
-        <author>
-            <name>kirso</name>
-            <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼谷歌產品在iOS上不斷出現故障？]]></title>
-        <id>https://news.ycombinator.com/item?id=30046180</id>
-        <link href="https://news.ycombinator.com/item?id=30046180"/>
-        <updated>2022-01-23T14:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are Google products constantly broken on iOS?]]></summary>
-        <author>
-            <name>siva7</name>
-            <uri>https://news.ycombinator.com/user?id=siva7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人在使用基於投影儀的工作站方面取得了成功嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30045588</id>
-        <link href="https://news.ycombinator.com/item?id=30045588"/>
-        <updated>2022-01-23T12:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have anyone had success with projector-based work station?]]></summary>
-        <author>
-            <name>archibaldJ</name>
-            <uri>https://news.ycombinator.com/user?id=archibaldJ</uri>
         </author>
     </entry>
 </feed>

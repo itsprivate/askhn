@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Feb 2022 23:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 00:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在苹果Silicon M1上运行多个虚拟机？]]></title>
+            <link>https://news.ycombinator.com/item?id=30317631</link>
+            <guid>https://news.ycombinator.com/item?id=30317631</guid>
+            <pubDate>Sat, 12 Feb 2022 23:57:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you run multiple VMs on Apple Silicon M1?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何处理非网络环境中的 "暂存服务器"？]]></title>
+            <link>https://news.ycombinator.com/item?id=30317608</link>
+            <guid>https://news.ycombinator.com/item?id=30317608</guid>
+            <pubDate>Sat, 12 Feb 2022 23:54:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you handle “staging servers” in non-web environments?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对我的Three.js/CSS介绍有什么看法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30317594</link>
+            <guid>https://news.ycombinator.com/item?id=30317594</guid>
+            <pubDate>Sat, 12 Feb 2022 23:52:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Thoughts on my Three.js / CSS intro?]]></description>
+        </item>
         <item>
             <title><![CDATA[早期编程语言的哪些特点出人意料地存留了下来？]]></title>
             <link>https://news.ycombinator.com/item?id=30317414</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30046407</guid>
             <pubDate>Sun, 23 Jan 2022 14:35:30 GMT</pubDate>
             <description><![CDATA[Ask HN: What are less known resources to read about or train critical-thinking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是否应该使用React？]]></title>
-            <link>https://news.ycombinator.com/item?id=30046364</link>
-            <guid>https://news.ycombinator.com/item?id=30046364</guid>
-            <pubDate>Sun, 23 Jan 2022 14:28:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I even bother with React?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么谷歌产品在iOS上不断出现故障？]]></title>
-            <link>https://news.ycombinator.com/item?id=30046180</link>
-            <guid>https://news.ycombinator.com/item?id=30046180</guid>
-            <pubDate>Sun, 23 Jan 2022 14:02:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why are Google products constantly broken on iOS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人在使用基于投影仪的工作站方面取得了成功吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30045588</link>
-            <guid>https://news.ycombinator.com/item?id=30045588</guid>
-            <pubDate>Sun, 23 Jan 2022 12:12:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have anyone had success with projector-based work station?]]></description>
         </item>
     </channel>
 </rss>
