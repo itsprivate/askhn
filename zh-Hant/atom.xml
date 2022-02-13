@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T17:34:46.813Z</updated>
+    <updated>2022-02-13T18:09:32.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的軟件是由你的設計演變而來，還是相反？]]></title>
+        <id>https://news.ycombinator.com/item?id=30323767</id>
+        <link href="https://news.ycombinator.com/item?id=30323767"/>
+        <updated>2022-02-13T17:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your software evolve out of your design, or is it the other way?]]></summary>
+        <author>
+            <name>_448</name>
+            <uri>https://news.ycombinator.com/user?id=_448</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[討論編程語言內部的書籍，感覺很舒服？]]></title>
         <id>https://news.ycombinator.com/item?id=30323495</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如今，你在哪裡可以找到長篇小說的內容？]]></title>
-        <id>https://news.ycombinator.com/item?id=30051782</id>
-        <link href="https://news.ycombinator.com/item?id=30051782"/>
-        <updated>2022-01-23T23:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are you going to find long-form content online these days?]]></summary>
-        <author>
-            <name>nrs26</name>
-            <uri>https://news.ycombinator.com/user?id=nrs26</uri>
         </author>
     </entry>
 </feed>
