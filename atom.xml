@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T05:26:15.254Z</updated>
+    <updated>2022-02-14T08:49:12.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用你的Raspberry Pi做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30329724</id>
+        <link href="https://news.ycombinator.com/item?id=30329724"/>
+        <updated>2022-02-14T08:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do with your Raspberry Pi?]]></summary>
+        <author>
+            <name>TheGabornator</name>
+            <uri>https://news.ycombinator.com/user?id=TheGabornator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter "再次 "瘫痪了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30329682</id>
+        <link href="https://news.ycombinator.com/item?id=30329682"/>
+        <updated>2022-02-14T08:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Twitter Down “Again”?]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币能解决什么现实问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30329114</id>
+        <link href="https://news.ycombinator.com/item?id=30329114"/>
+        <updated>2022-02-14T07:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What real world problem does cryptocurrency solve?]]></summary>
+        <author>
+            <name>lowkeyokay</name>
+            <uri>https://news.ycombinator.com/user?id=lowkeyokay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[访问山景城时有哪些事情可做？]]></title>
         <id>https://news.ycombinator.com/item?id=30328621</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>_under_scores_</name>
             <uri>https://news.ycombinator.com/user?id=_under_scores_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Git中，如何在树中的任意位置 "插入 "一个blob？]]></title>
-        <id>https://news.ycombinator.com/item?id=30055020</id>
-        <link href="https://news.ycombinator.com/item?id=30055020"/>
-        <updated>2022-01-24T08:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: In Git, how do you “insert” a blob at an arbitrary position in a tree?]]></summary>
-        <author>
-            <name>asimpletune</name>
-            <uri>https://news.ycombinator.com/user?id=asimpletune</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为第三次世界大战即将到来吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30054825</id>
-        <link href="https://news.ycombinator.com/item?id=30054825"/>
-        <updated>2022-01-24T08:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Think the WW3 Is Coming?]]></summary>
-        <author>
-            <name>cryptography</name>
-            <uri>https://news.ycombinator.com/user?id=cryptography</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G套件遗留问题尚未收到更改通知]]></title>
-        <id>https://news.ycombinator.com/item?id=30054609</id>
-        <link href="https://news.ycombinator.com/item?id=30054609"/>
-        <updated>2022-01-24T07:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: G Suite Legacy yet to receive notification of change]]></summary>
-        <author>
-            <name>isUserAMonkey</name>
-            <uri>https://news.ycombinator.com/user?id=isUserAMonkey</uri>
         </author>
     </entry>
 </feed>
