@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T15:30:42.349Z</updated>
+    <updated>2022-02-14T15:49:09.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在自然免疫之後，接種疫苗對預防感染的好處？]]></title>
+        <id>https://news.ycombinator.com/item?id=30333293</id>
+        <link href="https://news.ycombinator.com/item?id=30333293"/>
+        <updated>2022-02-14T15:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Benefit of vaccination in preventing infection, after natural immunity?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你從養狗中受益了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30333284</id>
+        <link href="https://news.ycombinator.com/item?id=30333284"/>
+        <updated>2022-02-14T15:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did you benefit from getting a dog?]]></summary>
+        <author>
+            <name>kcindric</name>
+            <uri>https://news.ycombinator.com/user?id=kcindric</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼HN不讓你在沒有URL的情況下提交後添加帖子文本？]]></title>
         <id>https://news.ycombinator.com/item?id=30333019</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>dwg465</name>
             <uri>https://news.ycombinator.com/user?id=dwg465</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國在烏克蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=30059025</id>
-        <link href="https://news.ycombinator.com/item?id=30059025"/>
-        <updated>2022-01-24T15:44:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: US in Ukraine]]></summary>
-        <author>
-            <name>thepra</name>
-            <uri>https://news.ycombinator.com/user?id=thepra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通過Android上的Chrome/Firefox瀏覽器提取最多的數據？]]></title>
-        <id>https://news.ycombinator.com/item?id=30058076</id>
-        <link href="https://news.ycombinator.com/item?id=30058076"/>
-        <updated>2022-01-24T14:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to extract the most data via Chrome/Firefox browser on Android?]]></summary>
-        <author>
-            <name>kappuchino</name>
-            <uri>https://news.ycombinator.com/user?id=kappuchino</uri>
         </author>
     </entry>
 </feed>
