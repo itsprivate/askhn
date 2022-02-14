@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T17:49:59.190Z</updated>
+    <updated>2022-02-14T18:10:29.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼火狐瀏覽器正在失去市場佔有率？]]></title>
+        <id>https://news.ycombinator.com/item?id=30335455</id>
+        <link href="https://news.ycombinator.com/item?id=30335455"/>
+        <updated>2022-02-14T18:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Firefox losing marketshare?]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現在人們都在使用哪些Node.js數據庫庫？]]></title>
+        <id>https://news.ycombinator.com/item?id=30335271</id>
+        <link href="https://news.ycombinator.com/item?id=30335271"/>
+        <updated>2022-02-14T17:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Node.js database libraries are people using these days?]]></summary>
+        <author>
+            <name>brundolf</name>
+            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal的交易量何時達到5億美元/年？]]></title>
         <id>https://news.ycombinator.com/item?id=30335018</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>firstfewshells</name>
             <uri>https://news.ycombinator.com/user?id=firstfewshells</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否有可能進行遠程工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30062598</id>
-        <link href="https://news.ycombinator.com/item?id=30062598"/>
-        <updated>2022-01-24T19:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is It Possible for Me to Work Remotely?]]></summary>
-        <author>
-            <name>OulaX</name>
-            <uri>https://news.ycombinator.com/user?id=OulaX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何從跟蹤基礎設施中拔出插頭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30062514</id>
-        <link href="https://news.ycombinator.com/item?id=30062514"/>
-        <updated>2022-01-24T19:18:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you unplug from tracking infrastructure?]]></summary>
-        <author>
-            <name>alestainer</name>
-            <uri>https://news.ycombinator.com/user?id=alestainer</uri>
         </author>
     </entry>
 </feed>
