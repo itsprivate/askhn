@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T02:38:52.315Z</updated>
+    <updated>2022-02-14T04:53:52.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有一種手動內存管理的非併發Go（Golang）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30328423</id>
+        <link href="https://news.ycombinator.com/item?id=30328423"/>
+        <updated>2022-02-14T04:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a manually memory managed non concurrent Go (Golang)?]]></summary>
+        <author>
+            <name>apatheticonion</name>
+            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人在評論中使用下一個鏈接嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30327728</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>stereoradonc</name>
             <uri>https://news.ycombinator.com/user?id=stereoradonc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail賬戶安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30051054</id>
-        <link href="https://news.ycombinator.com/item?id=30051054"/>
-        <updated>2022-01-23T22:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Gmail account security]]></summary>
-        <author>
-            <name>caseyf7</name>
-            <uri>https://news.ycombinator.com/user?id=caseyf7</uri>
         </author>
     </entry>
 </feed>
