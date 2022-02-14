@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T18:10:29.934Z</updated>
+    <updated>2022-02-14T18:32:53.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰有關於PoS區塊鏈中礦工選擇的好解釋？]]></title>
+        <id>https://news.ycombinator.com/item?id=30335647</id>
+        <link href="https://news.ycombinator.com/item?id=30335647"/>
+        <updated>2022-02-14T18:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone have a good explainer on miner selection in PoS blockchains?]]></summary>
+        <author>
+            <name>jedberg</name>
+            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼火狐瀏覽器正在失去市場佔有率？]]></title>
         <id>https://news.ycombinator.com/item?id=30335455</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>anm89</name>
             <uri>https://news.ycombinator.com/user?id=anm89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何開始你的傳統非技術業務的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30062631</id>
-        <link href="https://news.ycombinator.com/item?id=30062631"/>
-        <updated>2022-01-24T19:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you start your traditional non-tech business?]]></summary>
-        <author>
-            <name>firstfewshells</name>
-            <uri>https://news.ycombinator.com/user?id=firstfewshells</uri>
         </author>
     </entry>
 </feed>
