@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T19:23:51.107Z</updated>
+    <updated>2022-02-14T20:10:11.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有10年經驗的軟件開發人員，你還喜歡什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30337308</id>
+        <link href="https://news.ycombinator.com/item?id=30337308"/>
+        <updated>2022-02-14T19:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software devs with 10 years experience, what do you still love about it?]]></summary>
+        <author>
+            <name>sergiotapia</name>
+            <uri>https://news.ycombinator.com/user?id=sergiotapia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StartEngine的意義何在？]]></title>
+        <id>https://news.ycombinator.com/item?id=30337284</id>
+        <link href="https://news.ycombinator.com/item?id=30337284"/>
+        <updated>2022-02-14T19:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the point of StartEngine?]]></summary>
+        <author>
+            <name>Atallapr</name>
+            <uri>https://news.ycombinator.com/user?id=Atallapr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替換GIF的WebM或WebP？]]></title>
         <id>https://news.ycombinator.com/item?id=30336891</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>northstar702</name>
             <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有人允許網站 "發送通知"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30063447</id>
-        <link href="https://news.ycombinator.com/item?id=30063447"/>
-        <updated>2022-01-24T20:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anybody allow websites to “Send Notifications”?]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們應該在歐洲的什麼地方合併？]]></title>
-        <id>https://news.ycombinator.com/item?id=30063436</id>
-        <link href="https://news.ycombinator.com/item?id=30063436"/>
-        <updated>2022-01-24T20:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where within Europe should we incorporate?]]></summary>
-        <author>
-            <name>jpdpeters</name>
-            <uri>https://news.ycombinator.com/user?id=jpdpeters</uri>
         </author>
     </entry>
 </feed>
