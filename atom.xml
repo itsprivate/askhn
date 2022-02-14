@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T09:09:21.019Z</updated>
+    <updated>2022-02-14T09:49:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当你的洞察力（及愿景）让你感到害怕时，你会怎么做？]]></title>
+        <id>https://news.ycombinator.com/item?id=30330088</id>
+        <link href="https://news.ycombinator.com/item?id=30330088"/>
+        <updated>2022-02-14T09:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do when your insight (& vision) scares you?]]></summary>
+        <author>
+            <name>throwaway834768</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway834768</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为科技界的年龄歧视是一件坏事/没有道理吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30329853</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>schappim</name>
             <uri>https://news.ycombinator.com/user?id=schappim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有关于授权的好书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30056185</id>
-        <link href="https://news.ycombinator.com/item?id=30056185"/>
-        <updated>2022-01-24T11:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Good Books on Delegation?]]></summary>
-        <author>
-            <name>peterjuras</name>
-            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
         </author>
     </entry>
 </feed>
