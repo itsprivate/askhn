@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T22:28:39.941Z</updated>
+    <updated>2022-02-14T22:48:50.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在個人生產力方面有什麼有用的系統？]]></title>
+        <id>https://news.ycombinator.com/item?id=30339408</id>
+        <link href="https://news.ycombinator.com/item?id=30339408"/>
+        <updated>2022-02-14T22:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What useful system do you have in place for personal productivity]]></summary>
+        <author>
+            <name>krm01</name>
+            <uri>https://news.ycombinator.com/user?id=krm01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自述文件和入門的改進]]></title>
         <id>https://news.ycombinator.com/item?id=30339207</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>roter</name>
             <uri>https://news.ycombinator.com/user?id=roter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於管理KVM的用戶界面的建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30064546</id>
-        <link href="https://news.ycombinator.com/item?id=30064546"/>
-        <updated>2022-01-24T21:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Suggestions for UI for Managing KVM?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
