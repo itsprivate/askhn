@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-13T23:49:24.341Z</updated>
+    <updated>2022-02-14T01:35:47.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一份详尽的外科手术清单？]]></title>
+        <id>https://news.ycombinator.com/item?id=30327283</id>
+        <link href="https://news.ycombinator.com/item?id=30327283"/>
+        <updated>2022-02-14T00:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there an exhaustive list of surgical procedures?]]></summary>
+        <author>
+            <name>JabavuAdams</name>
+            <uri>https://news.ycombinator.com/user?id=JabavuAdams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是否拥有我的登录/密码的版权？]]></title>
         <id>https://news.ycombinator.com/item?id=30326734</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你是一个前端开发人员时，你如何面试PM？]]></title>
-        <id>https://news.ycombinator.com/item?id=30053498</id>
-        <link href="https://news.ycombinator.com/item?id=30053498"/>
-        <updated>2022-01-24T03:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you interview for PM when you're a Front end dev?]]></summary>
-        <author>
-            <name>adam_ellsworth</name>
-            <uri>https://news.ycombinator.com/user?id=adam_ellsworth</uri>
         </author>
     </entry>
 </feed>
