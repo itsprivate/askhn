@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T15:49:09.271Z</updated>
+    <updated>2022-02-14T16:11:27.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建生產型移動應用程序的團隊，你們的發佈流程是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30333524</id>
+        <link href="https://news.ycombinator.com/item?id=30333524"/>
+        <updated>2022-02-14T15:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Teams building production mobile apps, what's your release process?]]></summary>
+        <author>
+            <name>okbye</name>
+            <uri>https://news.ycombinator.com/user?id=okbye</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在自然免疫之後，接種疫苗對預防感染的好處？]]></title>
         <id>https://news.ycombinator.com/item?id=30333293</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們需要一個黑客的權利法案嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30059367</id>
-        <link href="https://news.ycombinator.com/item?id=30059367"/>
-        <updated>2022-01-24T16:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we need a Hacker's Bill of Rights?]]></summary>
-        <author>
-            <name>dwg465</name>
-            <uri>https://news.ycombinator.com/user?id=dwg465</uri>
         </author>
     </entry>
 </feed>
