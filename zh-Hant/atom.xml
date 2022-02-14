@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T18:32:53.489Z</updated>
+    <updated>2022-02-14T18:50:35.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找一個解決方案來管理許多SaaS的訪問？]]></title>
+        <id>https://news.ycombinator.com/item?id=30336311</id>
+        <link href="https://news.ycombinator.com/item?id=30336311"/>
+        <updated>2022-02-14T18:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a solution to manage access to many SaaS?]]></summary>
+        <author>
+            <name>gajus</name>
+            <uri>https://news.ycombinator.com/user?id=gajus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰有關於PoS區塊鏈中礦工選擇的好解釋？]]></title>
         <id>https://news.ycombinator.com/item?id=30335647</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>adawg4</name>
             <uri>https://news.ycombinator.com/user?id=adawg4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯在烏克蘭的最終目標是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30062753</id>
-        <link href="https://news.ycombinator.com/item?id=30062753"/>
-        <updated>2022-01-24T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Russia's Endgame in Ukraine?]]></summary>
-        <author>
-            <name>anm89</name>
-            <uri>https://news.ycombinator.com/user?id=anm89</uri>
         </author>
     </entry>
 </feed>
