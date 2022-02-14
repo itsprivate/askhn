@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T21:09:52.759Z</updated>
+    <updated>2022-02-14T21:49:14.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用新的笔记本电脑做的第一件事是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30338818</id>
+        <link href="https://news.ycombinator.com/item?id=30338818"/>
+        <updated>2022-02-14T21:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the first things you do with a new laptop?]]></summary>
+        <author>
+            <name>niclo</name>
+            <uri>https://news.ycombinator.com/user?id=niclo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把反应性的任务变成主动性的任务？]]></title>
         <id>https://news.ycombinator.com/item?id=30338128</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ragnar48h</name>
             <uri>https://news.ycombinator.com/user?id=ragnar48h</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的创业公司的文档堆栈是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30063670</id>
-        <link href="https://news.ycombinator.com/item?id=30063670"/>
-        <updated>2022-01-24T20:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your startup's documentation stack?]]></summary>
-        <author>
-            <name>thisisdallas</name>
-            <uri>https://news.ycombinator.com/user?id=thisisdallas</uri>
         </author>
     </entry>
 </feed>
