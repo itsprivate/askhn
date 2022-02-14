@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Feb 2022 04:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 05:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[訪問山景城時有哪些事情可做？]]></title>
+            <link>https://news.ycombinator.com/item?id=30328621</link>
+            <guid>https://news.ycombinator.com/item?id=30328621</guid>
+            <pubDate>Mon, 14 Feb 2022 05:15:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are some things to do when visiting Mountain View?]]></description>
+        </item>
         <item>
             <title><![CDATA[有沒有一種手動內存管理的非併發Go（Golang）？]]></title>
             <link>https://news.ycombinator.com/item?id=30328423</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30054609</guid>
             <pubDate>Mon, 24 Jan 2022 07:41:31 GMT</pubDate>
             <description><![CDATA[Ask HN: G Suite Legacy yet to receive notification of change]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你推薦哪種CMS用於開闢博客？]]></title>
-            <link>https://news.ycombinator.com/item?id=30054468</link>
-            <guid>https://news.ycombinator.com/item?id=30054468</guid>
-            <pubDate>Mon, 24 Jan 2022 07:10:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which CMS do you recommend for starting up a blog?]]></description>
         </item>
     </channel>
 </rss>
