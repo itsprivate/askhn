@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Feb 2022 15:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 15:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼HN不讓你在沒有URL的情況下提交後添加帖子文本？]]></title>
+            <link>https://news.ycombinator.com/item?id=30333019</link>
+            <guid>https://news.ycombinator.com/item?id=30333019</guid>
+            <pubDate>Mon, 14 Feb 2022 15:19:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't HN let you add post text after a submission without a URL?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最簡單的跨設備同步書籤的方法是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30332964</link>
+            <guid>https://news.ycombinator.com/item?id=30332964</guid>
+            <pubDate>Mon, 14 Feb 2022 15:15:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the simplest way to sync bookmarks across devices?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何創建一個簡單的數據庫程序]]></title>
             <link>https://news.ycombinator.com/item?id=30332703</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30058076</guid>
             <pubDate>Mon, 24 Jan 2022 14:37:14 GMT</pubDate>
             <description><![CDATA[Ask HN: How to extract the most data via Chrome/Firefox browser on Android?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰從工程師轉為專利代理人/律師的職業？]]></title>
-            <link>https://news.ycombinator.com/item?id=30058057</link>
-            <guid>https://news.ycombinator.com/item?id=30058057</guid>
-            <pubDate>Mon, 24 Jan 2022 14:36:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who has changed careers from engineer to patent agent/lawyer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TeXmacs能不能在你打字的時候不斷向Overleaf輸出和輸入？]]></title>
-            <link>https://news.ycombinator.com/item?id=30057792</link>
-            <guid>https://news.ycombinator.com/item?id=30057792</guid>
-            <pubDate>Mon, 24 Jan 2022 14:15:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: Could TeXmacs export and import to/from Overleaf constantly as you type?]]></description>
         </item>
     </channel>
 </rss>

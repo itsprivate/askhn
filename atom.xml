@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T15:09:35.345Z</updated>
+    <updated>2022-02-14T15:30:42.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN不让你在没有URL的情况下提交后添加帖子文本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30333019</id>
+        <link href="https://news.ycombinator.com/item?id=30333019"/>
+        <updated>2022-02-14T15:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't HN let you add post text after a submission without a URL?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最简单的跨设备同步书签的方法是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30332964</id>
+        <link href="https://news.ycombinator.com/item?id=30332964"/>
+        <updated>2022-02-14T15:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the simplest way to sync bookmarks across devices?]]></summary>
+        <author>
+            <name>sp6677</name>
+            <uri>https://news.ycombinator.com/user?id=sp6677</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何创建一个简单的数据库程序]]></title>
         <id>https://news.ycombinator.com/item?id=30332703</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>kappuchino</name>
             <uri>https://news.ycombinator.com/user?id=kappuchino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁从工程师转为专利代理人/律师的职业？]]></title>
-        <id>https://news.ycombinator.com/item?id=30058057</id>
-        <link href="https://news.ycombinator.com/item?id=30058057"/>
-        <updated>2022-01-24T14:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who has changed careers from engineer to patent agent/lawyer?]]></summary>
-        <author>
-            <name>cybernoodles</name>
-            <uri>https://news.ycombinator.com/user?id=cybernoodles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeXmacs能不能在你打字的时候不断向Overleaf输出和输入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30057792</id>
-        <link href="https://news.ycombinator.com/item?id=30057792"/>
-        <updated>2022-01-24T14:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could TeXmacs export and import to/from Overleaf constantly as you type?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
