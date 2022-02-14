@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T17:36:16.371Z</updated>
+    <updated>2022-02-14T17:49:59.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PayPal的交易量何时达到5亿美元/年？]]></title>
+        <id>https://news.ycombinator.com/item?id=30335018</id>
+        <link href="https://news.ycombinator.com/item?id=30335018"/>
+        <updated>2022-02-14T17:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When did PayPal reach $500M/yr in trasaction volume?]]></summary>
+        <author>
+            <name>XnoiVeX</name>
+            <uri>https://news.ycombinator.com/user?id=XnoiVeX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致寻找生物技术工作的HN人]]></title>
         <id>https://news.ycombinator.com/item?id=30334961</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>alestainer</name>
             <uri>https://news.ycombinator.com/user?id=alestainer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么阻止了一个不是订阅的平板电脑CAD应用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30062437</id>
-        <link href="https://news.ycombinator.com/item?id=30062437"/>
-        <updated>2022-01-24T19:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is stopping a tablet CAD app that isn’t a subscription?]]></summary>
-        <author>
-            <name>Otternonsenz</name>
-            <uri>https://news.ycombinator.com/user?id=Otternonsenz</uri>
         </author>
     </entry>
 </feed>
