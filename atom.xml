@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T16:41:51.414Z</updated>
+    <updated>2022-02-14T17:10:12.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尝试捕捉块是懒惰的吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30334495</id>
+        <link href="https://news.ycombinator.com/item?id=30334495"/>
+        <updated>2022-02-14T17:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are try catch blocks lazy?]]></summary>
+        <author>
+            <name>999900000999</name>
+            <uri>https://news.ycombinator.com/user?id=999900000999</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诺顿网络钓鱼骗局是如何通过Gmail垃圾邮件过滤器的？]]></title>
         <id>https://news.ycombinator.com/item?id=30334025</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tekno45</name>
             <uri>https://news.ycombinator.com/user?id=tekno45</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在这个周期的面试经历如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30060244</id>
-        <link href="https://news.ycombinator.com/item?id=30060244"/>
-        <updated>2022-01-24T16:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How was your interviewing experience this cycle?]]></summary>
-        <author>
-            <name>aditya_rs</name>
-            <uri>https://news.ycombinator.com/user?id=aditya_rs</uri>
         </author>
     </entry>
 </feed>
