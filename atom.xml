@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-14T10:10:01.976Z</updated>
+    <updated>2022-02-14T12:13:42.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最自豪的一个开放源码软件项目是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30331032</id>
+        <link href="https://news.ycombinator.com/item?id=30331032"/>
+        <updated>2022-02-14T12:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the one OSS project that you're most proud of?]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该使用哪种技术来创建XR原型？]]></title>
         <id>https://news.ycombinator.com/item?id=30330241</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>stereoradonc</name>
             <uri>https://news.ycombinator.com/user?id=stereoradonc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移动应用程序的低代码工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30056815</id>
-        <link href="https://news.ycombinator.com/item?id=30056815"/>
-        <updated>2022-01-24T12:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Low code tool for mobile apps]]></summary>
-        <author>
-            <name>sagarjs</name>
-            <uri>https://news.ycombinator.com/user?id=sagarjs</uri>
         </author>
     </entry>
 </feed>
