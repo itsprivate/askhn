@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T08:10:38.610Z</updated>
+    <updated>2022-02-15T09:09:41.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果俄羅斯入侵烏克蘭，你期望世界如何改變？]]></title>
+        <id>https://news.ycombinator.com/item?id=30344220</id>
+        <link href="https://news.ycombinator.com/item?id=30344220"/>
+        <updated>2022-02-15T09:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you expect the world to change if Russia invades Ukraine?]]></summary>
+        <author>
+            <name>joitfdvbv</name>
+            <uri>https://news.ycombinator.com/user?id=joitfdvbv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些新聞簡報值得付費？]]></title>
         <id>https://news.ycombinator.com/item?id=30343880</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>nikochiko</name>
             <uri>https://news.ycombinator.com/user?id=nikochiko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你認為什麼是 "壞 "代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30070653</id>
-        <link href="https://news.ycombinator.com/item?id=30070653"/>
-        <updated>2022-01-25T11:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you consider as “bad” code?]]></summary>
-        <author>
-            <name>JZN666</name>
-            <uri>https://news.ycombinator.com/user?id=JZN666</uri>
         </author>
     </entry>
 </feed>
