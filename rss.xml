@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Feb 2022 03:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[抛开制表符与空格不谈，单行语句周围的大括号呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30342770</link>
+            <guid>https://news.ycombinator.com/item?id=30342770</guid>
+            <pubDate>Tue, 15 Feb 2022 04:26:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Forget tabs vs. spaces, what about braces around single line statements?]]></description>
+        </item>
         <item>
             <title><![CDATA[流行程序的秘密选项或命令？]]></title>
             <link>https://news.ycombinator.com/item?id=30342501</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30069264</guid>
             <pubDate>Tue, 25 Jan 2022 07:44:43 GMT</pubDate>
             <description><![CDATA[Ask HN: How is your startup handling customer support?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非软件项目的开源项目管理？]]></title>
-            <link>https://news.ycombinator.com/item?id=30068659</link>
-            <guid>https://news.ycombinator.com/item?id=30068659</guid>
-            <pubDate>Tue, 25 Jan 2022 05:59:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Open-source project management for non-software projects?]]></description>
         </item>
     </channel>
 </rss>

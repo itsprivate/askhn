@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T03:49:08.819Z</updated>
+    <updated>2022-02-15T04:36:56.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拋開製表符與空格不談，單行語句周圍的大括號呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30342770</id>
+        <link href="https://news.ycombinator.com/item?id=30342770"/>
+        <updated>2022-02-15T04:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Forget tabs vs. spaces, what about braces around single line statements?]]></summary>
+        <author>
+            <name>melissalobos</name>
+            <uri>https://news.ycombinator.com/user?id=melissalobos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流行程序的秘密選項或命令？]]></title>
         <id>https://news.ycombinator.com/item?id=30342501</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cloudking</name>
             <uri>https://news.ycombinator.com/user?id=cloudking</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非軟件項目的開源項目管理？]]></title>
-        <id>https://news.ycombinator.com/item?id=30068659</id>
-        <link href="https://news.ycombinator.com/item?id=30068659"/>
-        <updated>2022-01-25T05:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Open-source project management for non-software projects?]]></summary>
-        <author>
-            <name>gwbrooks</name>
-            <uri>https://news.ycombinator.com/user?id=gwbrooks</uri>
         </author>
     </entry>
 </feed>
