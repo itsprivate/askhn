@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T04:53:50.449Z</updated>
+    <updated>2022-02-15T05:49:14.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰從物聯網市場中獲利？]]></title>
+        <id>https://news.ycombinator.com/item?id=30343176</id>
+        <link href="https://news.ycombinator.com/item?id=30343176"/>
+        <updated>2022-02-15T05:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Profits from IoT Market?]]></summary>
+        <author>
+            <name>didip</name>
+            <uri>https://news.ycombinator.com/user?id=didip</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與潛在的團隊面談]]></title>
+        <id>https://news.ycombinator.com/item?id=30342959</id>
+        <link href="https://news.ycombinator.com/item?id=30342959"/>
+        <updated>2022-02-15T04:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Interview with Potential Team]]></summary>
+        <author>
+            <name>2bor-2n</name>
+            <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公眾對CDX的訪問（或其不雅點）？(第二部分)]]></title>
         <id>https://news.ycombinator.com/item?id=30342905</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>lmaaq314</name>
             <uri>https://news.ycombinator.com/user?id=lmaaq314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何以CS的第二學士學位在技術領域有所突破]]></title>
-        <id>https://news.ycombinator.com/item?id=30069817</id>
-        <link href="https://news.ycombinator.com/item?id=30069817"/>
-        <updated>2022-01-25T09:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to break in tech field with second bachelors in CS]]></summary>
-        <author>
-            <name>FatFire</name>
-            <uri>https://news.ycombinator.com/user?id=FatFire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何記住的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30069387</id>
-        <link href="https://news.ycombinator.com/item?id=30069387"/>
-        <updated>2022-01-25T08:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Do You Remember?]]></summary>
-        <author>
-            <name>conor_f</name>
-            <uri>https://news.ycombinator.com/user?id=conor_f</uri>
         </author>
     </entry>
 </feed>
