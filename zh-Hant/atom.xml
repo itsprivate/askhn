@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T02:30:32.858Z</updated>
+    <updated>2022-02-15T03:09:10.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我必須使用兩個滑塊（系統+應用程序）來調整2022年的音量？]]></title>
+        <id>https://news.ycombinator.com/item?id=30342151</id>
+        <link href="https://news.ycombinator.com/item?id=30342151"/>
+        <updated>2022-02-15T03:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do I have to use two sliders (system+app) to adjust volume in 2022?]]></summary>
+        <author>
+            <name>RomanPushkin</name>
+            <uri>https://news.ycombinator.com/user?id=RomanPushkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪裡可以找到關於微積分概念的高質量書面解釋？]]></title>
         <id>https://news.ycombinator.com/item?id=30341834</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為最初的學習和無組織/相關的任務做筆記]]></title>
-        <id>https://news.ycombinator.com/item?id=30067260</id>
-        <link href="https://news.ycombinator.com/item?id=30067260"/>
-        <updated>2022-01-25T02:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Note taking for initial learning and disorganized/related tasks]]></summary>
-        <author>
-            <name>labanna</name>
-            <uri>https://news.ycombinator.com/user?id=labanna</uri>
         </author>
     </entry>
 </feed>
