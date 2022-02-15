@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T11:24:55.380Z</updated>
+    <updated>2022-02-15T13:03:11.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最好的付费电子邮件供应商，有很好的支持？]]></title>
+        <id>https://news.ycombinator.com/item?id=30345016</id>
+        <link href="https://news.ycombinator.com/item?id=30345016"/>
+        <updated>2022-02-15T11:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best paid email provider with great support?]]></summary>
+        <author>
+            <name>pdevr</name>
+            <uri>https://news.ycombinator.com/user?id=pdevr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何最大限度地利用大学的时间？]]></title>
         <id>https://news.ycombinator.com/item?id=30345059</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>RPeres</name>
             <uri>https://news.ycombinator.com/user?id=RPeres</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司API使用什么文件系统/平台？]]></title>
-        <id>https://news.ycombinator.com/item?id=30072069</id>
-        <link href="https://news.ycombinator.com/item?id=30072069"/>
-        <updated>2022-01-25T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What documentation system/platform do you use for your company API]]></summary>
-        <author>
-            <name>TeeWEE</name>
-            <uri>https://news.ycombinator.com/user?id=TeeWEE</uri>
         </author>
     </entry>
 </feed>
