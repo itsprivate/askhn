@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T01:51:26.790Z</updated>
+    <updated>2022-02-15T02:30:32.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在哪里可以找到关于微积分概念的高质量书面解释？]]></title>
+        <id>https://news.ycombinator.com/item?id=30341834</id>
+        <link href="https://news.ycombinator.com/item?id=30341834"/>
+        <updated>2022-02-15T02:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I find quality, written explanations of Calculus concepts?]]></summary>
+        <author>
+            <name>Alekhine</name>
+            <uri>https://news.ycombinator.com/user?id=Alekhine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习和实现解析器（编译器）的良好资源]]></title>
+        <id>https://news.ycombinator.com/item?id=30341823</id>
+        <link href="https://news.ycombinator.com/item?id=30341823"/>
+        <updated>2022-02-15T02:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good Resources to Learn and Implement a Parser (Compiler)]]></summary>
+        <author>
+            <name>LeSUTHU</name>
+            <uri>https://news.ycombinator.com/user?id=LeSUTHU</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么办法可以在整天编码时避免背痛？]]></title>
+        <id>https://news.ycombinator.com/item?id=30341594</id>
+        <link href="https://news.ycombinator.com/item?id=30341594"/>
+        <updated>2022-02-15T01:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any way to avoid backpain while coding all day long?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每周团队社交时间的想法(远程)]]></title>
         <id>https://news.ycombinator.com/item?id=30341067</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>labanna</name>
             <uri>https://news.ycombinator.com/user?id=labanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你见过的最具成本效益的复合型网络应用程序是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30067210</id>
-        <link href="https://news.ycombinator.com/item?id=30067210"/>
-        <updated>2022-01-25T02:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most cost-efficient COMPLEX web app you have seen?]]></summary>
-        <author>
-            <name>mrwnmonm</name>
-            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人们（浪费他们的时间）互相憎恨？]]></title>
-        <id>https://news.ycombinator.com/item?id=30066842</id>
-        <link href="https://news.ycombinator.com/item?id=30066842"/>
-        <updated>2022-01-25T01:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do people (waste their time) hating each other?]]></summary>
-        <author>
-            <name>37</name>
-            <uri>https://news.ycombinator.com/user?id=37</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为科技公司寻找内部招聘人员]]></title>
-        <id>https://news.ycombinator.com/item?id=30066547</id>
-        <link href="https://news.ycombinator.com/item?id=30066547"/>
-        <updated>2022-01-25T01:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Find In-house Recruiters for tech companies]]></summary>
-        <author>
-            <name>qwert12345887</name>
-            <uri>https://news.ycombinator.com/user?id=qwert12345887</uri>
         </author>
     </entry>
 </feed>
