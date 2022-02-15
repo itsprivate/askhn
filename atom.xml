@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T19:07:41.602Z</updated>
+    <updated>2022-02-15T19:50:00.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN是否变得更像一个 "回声室"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30351509</id>
+        <link href="https://news.ycombinator.com/item?id=30351509"/>
+        <updated>2022-02-15T19:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is HN becoming more of an “echo chamber”?]]></summary>
+        <author>
+            <name>alasr</name>
+            <uri>https://news.ycombinator.com/user?id=alasr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以跟踪HN用户的服务或工具？]]></title>
         <id>https://news.ycombinator.com/item?id=30350814</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>spacesarebetter</name>
             <uri>https://news.ycombinator.com/user?id=spacesarebetter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的奖金价值下降了多少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30080182</id>
-        <link href="https://news.ycombinator.com/item?id=30080182"/>
-        <updated>2022-01-26T00:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much did your bonuses decline in value?]]></summary>
-        <author>
-            <name>political12345</name>
-            <uri>https://news.ycombinator.com/user?id=political12345</uri>
         </author>
     </entry>
 </feed>
