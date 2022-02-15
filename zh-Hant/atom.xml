@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T13:03:11.707Z</updated>
+    <updated>2022-02-15T13:30:35.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與不在同一個國家的人一起開公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30345929</id>
+        <link href="https://news.ycombinator.com/item?id=30345929"/>
+        <updated>2022-02-15T13:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Starting a company with people that are not in the same country?]]></summary>
+        <author>
+            <name>Bhurn00985</name>
+            <uri>https://news.ycombinator.com/user?id=Bhurn00985</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人喜歡在開放空間工作嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30345859</id>
+        <link href="https://news.ycombinator.com/item?id=30345859"/>
+        <updated>2022-02-15T13:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone like to work in open space?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最好的付費電子郵件供應商，有很好的支持？]]></title>
         <id>https://news.ycombinator.com/item?id=30345016</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>makersmasher</name>
             <uri>https://news.ycombinator.com/user?id=makersmasher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有人搬到/目前在加那利群島？]]></title>
-        <id>https://news.ycombinator.com/item?id=30072629</id>
-        <link href="https://news.ycombinator.com/item?id=30072629"/>
-        <updated>2022-01-25T15:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone moved to/currently in the Canary Islands?]]></summary>
-        <author>
-            <name>labarilem</name>
-            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們如何從Python註釋中生成文檔？]]></title>
-        <id>https://news.ycombinator.com/item?id=30072545</id>
-        <link href="https://news.ycombinator.com/item?id=30072545"/>
-        <updated>2022-01-25T15:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do people generate documentation from Python comments?]]></summary>
-        <author>
-            <name>RPeres</name>
-            <uri>https://news.ycombinator.com/user?id=RPeres</uri>
         </author>
     </entry>
 </feed>
