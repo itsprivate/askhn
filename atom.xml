@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T04:36:56.713Z</updated>
+    <updated>2022-02-15T04:53:50.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公众对CDX的访问（或其不雅点）？(第二部分)]]></title>
+        <id>https://news.ycombinator.com/item?id=30342905</id>
+        <link href="https://news.ycombinator.com/item?id=30342905"/>
+        <updated>2022-02-15T04:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Public access to CDXs (or their indecies)? (Part 2)]]></summary>
+        <author>
+            <name>cinquemb</name>
+            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抛开制表符与空格不谈，单行语句周围的大括号呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30342770</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>conor_f</name>
             <uri>https://news.ycombinator.com/user?id=conor_f</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的创业公司是如何处理客户支持的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30069264</id>
-        <link href="https://news.ycombinator.com/item?id=30069264"/>
-        <updated>2022-01-25T07:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is your startup handling customer support?]]></summary>
-        <author>
-            <name>cloudking</name>
-            <uri>https://news.ycombinator.com/user?id=cloudking</uri>
         </author>
     </entry>
 </feed>
