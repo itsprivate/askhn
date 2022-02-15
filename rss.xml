@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Feb 2022 17:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么大学没有为想成为独立开发者的人设置专业？]]></title>
+            <link>https://news.ycombinator.com/item?id=30349635</link>
+            <guid>https://news.ycombinator.com/item?id=30349635</guid>
+            <pubDate>Tue, 15 Feb 2022 17:29:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why don't universities have majors for people who want to be indie devs?]]></description>
+        </item>
         <item>
             <title><![CDATA[你为什么不成立自己的公司？]]></title>
             <link>https://news.ycombinator.com/item?id=30349323</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30077252</guid>
             <pubDate>Tue, 25 Jan 2022 20:03:59 GMT</pubDate>
             <description><![CDATA[Ask HN: How can I learn time-series analysis in C#?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[垃圾邮件的突破（Gmail）]]></title>
-            <link>https://news.ycombinator.com/item?id=30076816</link>
-            <guid>https://news.ycombinator.com/item?id=30076816</guid>
-            <pubDate>Tue, 25 Jan 2022 19:33:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Spam Breaking Through (Gmail)]]></description>
         </item>
     </channel>
 </rss>
