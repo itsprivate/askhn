@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-15T14:08:50.390Z</updated>
+    <updated>2022-02-15T14:26:54.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何在订阅经济中保持稳定？]]></title>
+        <id>https://news.ycombinator.com/item?id=30346735</id>
+        <link href="https://news.ycombinator.com/item?id=30346735"/>
+        <updated>2022-02-15T14:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you stay afloat in the subscription economy?]]></summary>
+        <author>
+            <name>JadoJodo</name>
+            <uri>https://news.ycombinator.com/user?id=JadoJodo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端工程师 "的日子是否已经屈指可数？]]></title>
         <id>https://news.ycombinator.com/item?id=30346552</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>feraligators</name>
             <uri>https://news.ycombinator.com/user?id=feraligators</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于许可的变化，对本地开发的Docker有哪些选择？]]></title>
-        <id>https://news.ycombinator.com/item?id=30072908</id>
-        <link href="https://news.ycombinator.com/item?id=30072908"/>
-        <updated>2022-01-25T15:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are options to Docker for local dev due to the licensing changes?]]></summary>
-        <author>
-            <name>sidcool</name>
-            <uri>https://news.ycombinator.com/user?id=sidcool</uri>
         </author>
     </entry>
 </feed>

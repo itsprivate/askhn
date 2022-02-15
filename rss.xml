@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Feb 2022 14:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 14:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何在订阅经济中保持稳定？]]></title>
+            <link>https://news.ycombinator.com/item?id=30346735</link>
+            <guid>https://news.ycombinator.com/item?id=30346735</guid>
+            <pubDate>Tue, 15 Feb 2022 14:20:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you stay afloat in the subscription economy?]]></description>
+        </item>
         <item>
             <title><![CDATA[前端工程师 "的日子是否已经屈指可数？]]></title>
             <link>https://news.ycombinator.com/item?id=30346552</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30073066</guid>
             <pubDate>Tue, 25 Jan 2022 15:44:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Who has moved from the U.S. to Europe?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于许可的变化，对本地开发的Docker有哪些选择？]]></title>
-            <link>https://news.ycombinator.com/item?id=30072908</link>
-            <guid>https://news.ycombinator.com/item?id=30072908</guid>
-            <pubDate>Tue, 25 Jan 2022 15:33:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are options to Docker for local dev due to the licensing changes?]]></description>
         </item>
     </channel>
 </rss>
