@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Feb 2022 18:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 19:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我可以跟踪HN用户的服务或工具？]]></title>
+            <link>https://news.ycombinator.com/item?id=30350814</link>
+            <guid>https://news.ycombinator.com/item?id=30350814</guid>
+            <pubDate>Tue, 15 Feb 2022 18:43:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Service or tool where I can follow HN-ers?]]></description>
+        </item>
         <item>
             <title><![CDATA[Spotify怎么会充斥着这么多的垃圾邮件？]]></title>
             <link>https://news.ycombinator.com/item?id=30350754</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30080182</guid>
             <pubDate>Wed, 26 Jan 2022 00:39:49 GMT</pubDate>
             <description><![CDATA[Ask HN: How much did your bonuses decline in value?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪些语言的部署和本身也是独立的可执行文件？]]></title>
-            <link>https://news.ycombinator.com/item?id=30079799</link>
-            <guid>https://news.ycombinator.com/item?id=30079799</guid>
-            <pubDate>Tue, 25 Jan 2022 23:49:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: What languages deploy and are also themselves standalone executables?]]></description>
         </item>
     </channel>
 </rss>
