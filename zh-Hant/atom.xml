@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-16T10:31:21.617Z</updated>
+    <updated>2022-02-16T11:39:53.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您推薦2022年閱讀哪些書籍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30358326</id>
+        <link href="https://news.ycombinator.com/item?id=30358326"/>
+        <updated>2022-02-16T10:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Books Do You Recommend Reading for 2022?]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[確定數據庫中數據語義類型的工具/研究？]]></title>
         <id>https://news.ycombinator.com/item?id=30357826</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>asah</name>
             <uri>https://news.ycombinator.com/user?id=asah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在社交媒體上找到要解決的問題？(尋找商業創意)]]></title>
-        <id>https://news.ycombinator.com/item?id=30083859</id>
-        <link href="https://news.ycombinator.com/item?id=30083859"/>
-        <updated>2022-01-26T10:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find problems to solve on social media?(to find business ideas)]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>
