@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-16T19:36:57.371Z</updated>
+    <updated>2022-02-16T20:53:00.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你喜欢什么与SWE/IT/CS完全无关的爱好？]]></title>
+        <id>https://news.ycombinator.com/item?id=30365038</id>
+        <link href="https://news.ycombinator.com/item?id=30365038"/>
+        <updated>2022-02-16T20:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What hobby do you enjoy that's not at all related to SWE/IT/CS?]]></summary>
+        <author>
+            <name>Victerius</name>
+            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我如何在我的工作中参与到更新的技术栈和项目中？]]></title>
+        <id>https://news.ycombinator.com/item?id=30364637</id>
+        <link href="https://news.ycombinator.com/item?id=30364637"/>
+        <updated>2022-02-16T19:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I get involved in newer tech stack and projects at my job]]></summary>
+        <author>
+            <name>nus07</name>
+            <uri>https://news.ycombinator.com/user?id=nus07</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outco与面试Kickstart的对比？]]></title>
+        <id>https://news.ycombinator.com/item?id=30364445</id>
+        <link href="https://news.ycombinator.com/item?id=30364445"/>
+        <updated>2022-02-16T19:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Outco versus Interview Kickstart?]]></summary>
+        <author>
+            <name>ss108</name>
+            <uri>https://news.ycombinator.com/user?id=ss108</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么与企业安全相关的好博客或资源吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30364226</id>
+        <link href="https://news.ycombinator.com/item?id=30364226"/>
+        <updated>2022-02-16T19:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any good blogs or resources related to enterprise security?]]></summary>
+        <author>
+            <name>alex-wallish</name>
+            <uri>https://news.ycombinator.com/user?id=alex-wallish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你准备好应对经济衰退了吗？你会如何准备呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30363938</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些高薪的工作可以替代软件开发人员？]]></title>
-        <id>https://news.ycombinator.com/item?id=30090751</id>
-        <link href="https://news.ycombinator.com/item?id=30090751"/>
-        <updated>2022-01-26T19:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some well-paying alternative jobs to being a software developer]]></summary>
-        <author>
-            <name>cwitty88</name>
-            <uri>https://news.ycombinator.com/user?id=cwitty88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上可负担得起的地方都有10G不计费的光纤家庭互联网？]]></title>
-        <id>https://news.ycombinator.com/item?id=30090539</id>
-        <link href="https://news.ycombinator.com/item?id=30090539"/>
-        <updated>2022-01-26T19:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Affordable places in the world with 10G unmetered fiber home Internet?]]></summary>
-        <author>
-            <name>lostmsu</name>
-            <uri>https://news.ycombinator.com/user?id=lostmsu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这里有人从事硅设计/验证工作吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30090012</id>
-        <link href="https://news.ycombinator.com/item?id=30090012"/>
-        <updated>2022-01-26T18:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone here work in silicon design/verification?]]></summary>
-        <author>
-            <name>novask</name>
-            <uri>https://news.ycombinator.com/user?id=novask</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有办法识别被网站访问者的ISP封锁的网站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30089878</id>
-        <link href="https://news.ycombinator.com/item?id=30089878"/>
-        <updated>2022-01-26T18:45:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a way to identify sites blocked by the website visitor's ISP?]]></summary>
-        <author>
-            <name>suramya_tomar</name>
-            <uri>https://news.ycombinator.com/user?id=suramya_tomar</uri>
         </author>
     </entry>
 </feed>
