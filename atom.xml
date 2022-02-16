@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-16T16:09:50.430Z</updated>
+    <updated>2022-02-16T17:15:42.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN上有一个黑条？]]></title>
+        <id>https://news.ycombinator.com/item?id=30362149</id>
+        <link href="https://news.ycombinator.com/item?id=30362149"/>
+        <updated>2022-02-16T16:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there a black bar on HN?]]></summary>
+        <author>
+            <name>garritfra</name>
+            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在投资初创企业？(2022年2月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30361811</id>
+        <link href="https://news.ycombinator.com/item?id=30361811"/>
+        <updated>2022-02-16T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who's Investing in Startups? (February 2022)]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一种CMS，可以简单地从Word中粘贴图片？]]></title>
+        <id>https://news.ycombinator.com/item?id=30361410</id>
+        <link href="https://news.ycombinator.com/item?id=30361410"/>
+        <updated>2022-02-16T15:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a CMS in which you can simply paste images from Word?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源搜索引擎建议。你会为数据文件付费吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30361385</id>
+        <link href="https://news.ycombinator.com/item?id=30361385"/>
+        <updated>2022-02-16T15:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Open Source search engine proposal. Would you pay for data files?]]></summary>
+        <author>
+            <name>fxtentacle</name>
+            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能克服对冒险的恐惧？]]></title>
         <id>https://news.ycombinator.com/item?id=30361318</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>thealig</name>
             <uri>https://news.ycombinator.com/user?id=thealig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像素提示对中日韩字体的作用是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30087875</id>
-        <link href="https://news.ycombinator.com/item?id=30087875"/>
-        <updated>2022-01-26T16:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does pixel hinting work for CJK fonts?]]></summary>
-        <author>
-            <name>thot_experiment</name>
-            <uri>https://news.ycombinator.com/user?id=thot_experiment</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你将如何准备应对未来的类似科维德的疾病？]]></title>
-        <id>https://news.ycombinator.com/item?id=30087102</id>
-        <link href="https://news.ycombinator.com/item?id=30087102"/>
-        <updated>2022-01-26T16:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How will you prepare for a Covid-like disease in the future?]]></summary>
-        <author>
-            <name>tarunupaday</name>
-            <uri>https://news.ycombinator.com/user?id=tarunupaday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比较一些PL解释器速度的最佳实用方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30087027</id>
-        <link href="https://news.ycombinator.com/item?id=30087027"/>
-        <updated>2022-01-26T15:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best practical method to compare the speed some PL interpreters]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们需要在这里担心俄罗斯的巨魔农场吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30086865</id>
-        <link href="https://news.ycombinator.com/item?id=30086865"/>
-        <updated>2022-01-26T15:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we need to worry about Russian troll farms here?]]></summary>
-        <author>
-            <name>tombert</name>
-            <uri>https://news.ycombinator.com/user?id=tombert</uri>
         </author>
     </entry>
 </feed>
