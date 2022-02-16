@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-16T13:52:56.071Z</updated>
+    <updated>2022-02-16T15:01:51.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個CS專業的學生被卡住了。有什麼出路嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30359627</id>
+        <link href="https://news.ycombinator.com/item?id=30359627"/>
+        <updated>2022-02-16T13:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Stuck as a CS Major. Is there a way out?]]></summary>
+        <author>
+            <name>hardcorenobody</name>
+            <uri>https://news.ycombinator.com/user?id=hardcorenobody</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們不能為製藥公司使用bug賞金？]]></title>
         <id>https://news.ycombinator.com/item?id=30359433</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>aayushagg28</name>
             <uri>https://news.ycombinator.com/user?id=aayushagg28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有創業公司的創始人處理過情緒問題/創傷後應激障礙？]]></title>
-        <id>https://news.ycombinator.com/item?id=30084508</id>
-        <link href="https://news.ycombinator.com/item?id=30084508"/>
-        <updated>2022-01-26T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any startup founders that have dealt with emotional problems / PTSD?]]></summary>
-        <author>
-            <name>zadler</name>
-            <uri>https://news.ycombinator.com/user?id=zadler</uri>
         </author>
     </entry>
 </feed>
