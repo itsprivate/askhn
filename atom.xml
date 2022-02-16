@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-16T20:53:00.306Z</updated>
+    <updated>2022-02-16T22:02:04.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[钉板归档对你有用吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30365253</id>
+        <link href="https://news.ycombinator.com/item?id=30365253"/>
+        <updated>2022-02-16T20:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Pinboard Archiving Working for You?]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜欢什么与SWE/IT/CS完全无关的爱好？]]></title>
         <id>https://news.ycombinator.com/item?id=30365038</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hickimsedenolan</name>
             <uri>https://news.ycombinator.com/user?id=hickimsedenolan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否尝试过将成功的业务复制到另一种语言/国家？]]></title>
-        <id>https://news.ycombinator.com/item?id=30091243</id>
-        <link href="https://news.ycombinator.com/item?id=30091243"/>
-        <updated>2022-01-26T20:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you tried copying successful business to another language/country?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>
