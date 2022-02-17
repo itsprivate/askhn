@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T19:53:39.542Z</updated>
+    <updated>2022-02-17T20:33:00.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最好的服務是大聲讀出網上的文章？]]></title>
+        <id>https://news.ycombinator.com/item?id=30378156</id>
+        <link href="https://news.ycombinator.com/item?id=30378156"/>
+        <updated>2022-02-17T20:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best service which reads online articles out loud?]]></summary>
+        <author>
+            <name>joshfarrant</name>
+            <uri>https://news.ycombinator.com/user?id=joshfarrant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會如何解決技術招聘的問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30377717</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試圖登錄HN時出現奇怪的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30108322</id>
-        <link href="https://news.ycombinator.com/item?id=30108322"/>
-        <updated>2022-01-27T23:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Strange error attempting to log in to HN]]></summary>
-        <author>
-            <name>soapdog</name>
-            <uri>https://news.ycombinator.com/user?id=soapdog</uri>
         </author>
     </entry>
 </feed>
