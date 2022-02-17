@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T10:13:31.482Z</updated>
+    <updated>2022-02-17T11:12:01.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何管理你的公司知識庫？]]></title>
+        <id>https://news.ycombinator.com/item?id=30371723</id>
+        <link href="https://news.ycombinator.com/item?id=30371723"/>
+        <updated>2022-02-17T10:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you manage your companies knowledge base?]]></summary>
+        <author>
+            <name>hifikuno</name>
+            <uri>https://news.ycombinator.com/user?id=hifikuno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人類的語境轉換技巧]]></title>
         <id>https://news.ycombinator.com/item?id=30371335</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>fben</name>
             <uri>https://news.ycombinator.com/user?id=fben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否會有一個基於ARM的PC的標準架構？]]></title>
-        <id>https://news.ycombinator.com/item?id=30099282</id>
-        <link href="https://news.ycombinator.com/item?id=30099282"/>
-        <updated>2022-01-27T11:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will there be a standard architecture for ARM based PC’s?]]></summary>
-        <author>
-            <name>gfykvfyxgc</name>
-            <uri>https://news.ycombinator.com/user?id=gfykvfyxgc</uri>
         </author>
     </entry>
 </feed>
