@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T20:53:25.562Z</updated>
+    <updated>2022-02-17T21:15:34.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Page Plus、Net10等现在是Verizon。其他MVNOs是否使用该网络？]]></title>
+        <id>https://news.ycombinator.com/item?id=30378537</id>
+        <link href="https://news.ycombinator.com/item?id=30378537"/>
+        <updated>2022-02-17T20:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Page Plus, Net10, etc. are now Verizon. Do other MVNOs use the network?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术销售的笔记框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30378453</id>
+        <link href="https://news.ycombinator.com/item?id=30378453"/>
+        <updated>2022-02-17T20:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Note-taking framework for technical sales]]></summary>
+        <author>
+            <name>anoojb</name>
+            <uri>https://news.ycombinator.com/user?id=anoojb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么MS Teams这么慢，开发人员是否在性能较差的机器上测试Teams？]]></title>
         <id>https://news.ycombinator.com/item?id=30378306</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>iRomain</name>
             <uri>https://news.ycombinator.com/user?id=iRomain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用哪种语言/IDE来制作Windows的二进制文件（.exe）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30108970</id>
-        <link href="https://news.ycombinator.com/item?id=30108970"/>
-        <updated>2022-01-28T00:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which language/IDE you use to make binaries (.exe) for Windows?]]></summary>
-        <author>
-            <name>unpopularopp</name>
-            <uri>https://news.ycombinator.com/user?id=unpopularopp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司是否仍有99.99999%或类似的正常运行时间SLA或OKRs？]]></title>
-        <id>https://news.ycombinator.com/item?id=30108687</id>
-        <link href="https://news.ycombinator.com/item?id=30108687"/>
-        <updated>2022-01-27T23:41:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do companies still have 99.99999%, or similar, uptime SLAs or OKRs?]]></summary>
-        <author>
-            <name>lopatin</name>
-            <uri>https://news.ycombinator.com/user?id=lopatin</uri>
         </author>
     </entry>
 </feed>
