@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T13:34:36.692Z</updated>
+    <updated>2022-02-17T13:53:32.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該為我的父母尋找什麼樣的Windows電腦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30372872</id>
+        <link href="https://news.ycombinator.com/item?id=30372872"/>
+        <updated>2022-02-17T13:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I look for in a Windows PC for my parents?]]></summary>
+        <author>
+            <name>waylandsmithers</name>
+            <uri>https://news.ycombinator.com/user?id=waylandsmithers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找自由職業者移動應用程序開發人員的最佳地點？]]></title>
         <id>https://news.ycombinator.com/item?id=30372777</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pingsl</name>
             <uri>https://news.ycombinator.com/user?id=pingsl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有在網上尋找聯合創始人的成功故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30100763</id>
-        <link href="https://news.ycombinator.com/item?id=30100763"/>
-        <updated>2022-01-27T14:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any successful stories of finding co-founders online?]]></summary>
-        <author>
-            <name>aristofun</name>
-            <uri>https://news.ycombinator.com/user?id=aristofun</uri>
         </author>
     </entry>
 </feed>
