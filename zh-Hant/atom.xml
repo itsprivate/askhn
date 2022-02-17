@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T09:15:12.792Z</updated>
+    <updated>2022-02-17T09:32:38.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開啟攝像頭後，視頻通話效果最好。你同意嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30371111</id>
+        <link href="https://news.ycombinator.com/item?id=30371111"/>
+        <updated>2022-02-17T09:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Video calls are most effective with camera turned on. You agree?]]></summary>
+        <author>
+            <name>_bax</name>
+            <uri>https://news.ycombinator.com/user?id=_bax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在招聘哪些角色/技能時遇到了困難？]]></title>
         <id>https://news.ycombinator.com/item?id=30370753</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lbriner</name>
             <uri>https://news.ycombinator.com/user?id=lbriner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼痴迷於做筆記？]]></title>
-        <id>https://news.ycombinator.com/item?id=30098219</id>
-        <link href="https://news.ycombinator.com/item?id=30098219"/>
-        <updated>2022-01-27T09:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why the Obsession with Note Taking?]]></summary>
-        <author>
-            <name>dmje</name>
-            <uri>https://news.ycombinator.com/user?id=dmje</uri>
         </author>
     </entry>
 </feed>
