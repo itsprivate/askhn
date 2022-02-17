@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T18:56:45.404Z</updated>
+    <updated>2022-02-17T19:13:42.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你還在使用 "曝光通知 "嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30377154</id>
+        <link href="https://news.ycombinator.com/item?id=30377154"/>
+        <updated>2022-02-17T19:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you still use Exposure Notifications?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最優雅的API開發棧？]]></title>
+        <id>https://news.ycombinator.com/item?id=30377045</id>
+        <link href="https://news.ycombinator.com/item?id=30377045"/>
+        <updated>2022-02-17T18:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Most elegant API development stack?]]></summary>
+        <author>
+            <name>blunte</name>
+            <uri>https://news.ycombinator.com/user?id=blunte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戴口罩是否影響你的讀唇術？]]></title>
         <id>https://news.ycombinator.com/item?id=30376872</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>rococode</name>
             <uri>https://news.ycombinator.com/user?id=rococode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們從未在網絡瀏覽器中看到創新？]]></title>
-        <id>https://news.ycombinator.com/item?id=30107257</id>
-        <link href="https://news.ycombinator.com/item?id=30107257"/>
-        <updated>2022-01-27T21:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do we never see inovation in web browsers?]]></summary>
-        <author>
-            <name>frogperson</name>
-            <uri>https://news.ycombinator.com/user?id=frogperson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼老派MS的人要發佈源代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30106751</id>
-        <link href="https://news.ycombinator.com/item?id=30106751"/>
-        <updated>2022-01-27T21:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did the old school MS guys release source?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
