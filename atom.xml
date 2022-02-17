@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T05:29:58.684Z</updated>
+    <updated>2022-02-17T07:53:29.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什么来记录（作为一种服务）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30370524</id>
+        <link href="https://news.ycombinator.com/item?id=30370524"/>
+        <updated>2022-02-17T07:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use for logging (as a service)?]]></summary>
+        <author>
+            <name>richardfey</name>
+            <uri>https://news.ycombinator.com/user?id=richardfey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当试图检查电子邮件是否能送达时得到黑名单]]></title>
+        <id>https://news.ycombinator.com/item?id=30370412</id>
+        <link href="https://news.ycombinator.com/item?id=30370412"/>
+        <updated>2022-02-17T07:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Getting blacklist when trying to check if email can deliver]]></summary>
+        <author>
+            <name>lechuhuuha</name>
+            <uri>https://news.ycombinator.com/user?id=lechuhuuha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望你的IDE有什么功能？]]></title>
         <id>https://news.ycombinator.com/item?id=30369781</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>NicoJuicy</name>
             <uri>https://news.ycombinator.com/user?id=NicoJuicy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去电影院/电影院对你来说有变化吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30097528</id>
-        <link href="https://news.ycombinator.com/item?id=30097528"/>
-        <updated>2022-01-27T07:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has going to the cinema/movie theatre changed for you?]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对付费新闻订阅的建议]]></title>
-        <id>https://news.ycombinator.com/item?id=30097312</id>
-        <link href="https://news.ycombinator.com/item?id=30097312"/>
-        <updated>2022-01-27T07:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Suggestion for Paid News Subscriptions]]></summary>
-        <author>
-            <name>tesseract2</name>
-            <uri>https://news.ycombinator.com/user?id=tesseract2</uri>
         </author>
     </entry>
 </feed>
