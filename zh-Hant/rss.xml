@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Feb 2022 21:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼搜索在Hacker News的底部？]]></title>
+            <link>https://news.ycombinator.com/item?id=30378725</link>
+            <guid>https://news.ycombinator.com/item?id=30378725</guid>
+            <pubDate>Thu, 17 Feb 2022 21:11:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is the search at the bottom of the Hacker News?]]></description>
+        </item>
         <item>
             <title><![CDATA[Page Plus、Net10等現在是Verizon。其他MVNOs是否使用該網絡？]]></title>
             <link>https://news.ycombinator.com/item?id=30378537</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30109038</guid>
             <pubDate>Fri, 28 Jan 2022 00:21:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Learning FE web dev as a BE engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪種前端框架用於漸進式增強？]]></title>
-            <link>https://news.ycombinator.com/item?id=30108981</link>
-            <guid>https://news.ycombinator.com/item?id=30108981</guid>
-            <pubDate>Fri, 28 Jan 2022 00:14:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which front-end framework for progressive enhancements?]]></description>
         </item>
     </channel>
 </rss>

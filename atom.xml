@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T21:15:34.359Z</updated>
+    <updated>2022-02-17T21:31:56.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么搜索在Hacker News的底部？]]></title>
+        <id>https://news.ycombinator.com/item?id=30378725</id>
+        <link href="https://news.ycombinator.com/item?id=30378725"/>
+        <updated>2022-02-17T21:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the search at the bottom of the Hacker News?]]></summary>
+        <author>
+            <name>danielyaa5</name>
+            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Page Plus、Net10等现在是Verizon。其他MVNOs是否使用该网络？]]></title>
         <id>https://news.ycombinator.com/item?id=30378537</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>fzingle</name>
             <uri>https://news.ycombinator.com/user?id=fzingle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪种前端框架用于渐进式增强？]]></title>
-        <id>https://news.ycombinator.com/item?id=30108981</id>
-        <link href="https://news.ycombinator.com/item?id=30108981"/>
-        <updated>2022-01-28T00:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which front-end framework for progressive enhancements?]]></summary>
-        <author>
-            <name>iRomain</name>
-            <uri>https://news.ycombinator.com/user?id=iRomain</uri>
         </author>
     </entry>
 </feed>
