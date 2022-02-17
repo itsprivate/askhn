@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T19:38:54.500Z</updated>
+    <updated>2022-02-17T19:53:39.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會如何解決技術招聘的問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30377717</id>
+        <link href="https://news.ycombinator.com/item?id=30377717"/>
+        <updated>2022-02-17T19:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you fix tech recruiting?]]></summary>
+        <author>
+            <name>throwawaynay</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客新聞是一個 "社區 "嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30377601</id>
+        <link href="https://news.ycombinator.com/item?id=30377601"/>
+        <updated>2022-02-17T19:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Hacker News a “Community?”]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有沒有上過一個算法交易課程？]]></title>
         <id>https://news.ycombinator.com/item?id=30377478</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>soapdog</name>
             <uri>https://news.ycombinator.com/user?id=soapdog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何轉為兼職的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30108108</id>
-        <link href="https://news.ycombinator.com/item?id=30108108"/>
-        <updated>2022-01-27T22:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you switch to part time?]]></summary>
-        <author>
-            <name>throwaway1178</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway1178</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的SPAM郵件報告服務嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30108037</id>
-        <link href="https://news.ycombinator.com/item?id=30108037"/>
-        <updated>2022-01-27T22:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good SPAM email reporting services?]]></summary>
-        <author>
-            <name>sebastien_b</name>
-            <uri>https://news.ycombinator.com/user?id=sebastien_b</uri>
         </author>
     </entry>
 </feed>
