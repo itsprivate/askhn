@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T09:41:13.920Z</updated>
+    <updated>2022-02-17T10:13:31.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人类的语境转换技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30371335</id>
+        <link href="https://news.ycombinator.com/item?id=30371335"/>
+        <updated>2022-02-17T09:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Context Switching Tips for Humans]]></summary>
+        <author>
+            <name>new23d</name>
+            <uri>https://news.ycombinator.com/user?id=new23d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活捷径]]></title>
         <id>https://news.ycombinator.com/item?id=30371064</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gfykvfyxgc</name>
             <uri>https://news.ycombinator.com/user?id=gfykvfyxgc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些工具可用于专有软件许可？]]></title>
-        <id>https://news.ycombinator.com/item?id=30098665</id>
-        <link href="https://news.ycombinator.com/item?id=30098665"/>
-        <updated>2022-01-27T10:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools are available for proprietary software licensing?]]></summary>
-        <author>
-            <name>MarkurSens</name>
-            <uri>https://news.ycombinator.com/user?id=MarkurSens</uri>
         </author>
     </entry>
 </feed>

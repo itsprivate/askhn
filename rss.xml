@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人类的语境转换技巧]]></title>
+            <link>https://news.ycombinator.com/item?id=30371335</link>
+            <guid>https://news.ycombinator.com/item?id=30371335</guid>
+            <pubDate>Thu, 17 Feb 2022 09:52:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Context Switching Tips for Humans]]></description>
+        </item>
         <item>
             <title><![CDATA[生活捷径]]></title>
             <link>https://news.ycombinator.com/item?id=30371064</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30099282</guid>
             <pubDate>Thu, 27 Jan 2022 11:44:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Will there be a standard architecture for ARM based PC’s?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有哪些工具可用于专有软件许可？]]></title>
-            <link>https://news.ycombinator.com/item?id=30098665</link>
-            <guid>https://news.ycombinator.com/item?id=30098665</guid>
-            <pubDate>Thu, 27 Jan 2022 10:29:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: What tools are available for proprietary software licensing?]]></description>
         </item>
     </channel>
 </rss>
