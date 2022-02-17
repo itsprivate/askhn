@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Feb 2022 20:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 20:53:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼MS Teams這麼慢，開發人員是否在性能較差的機器上測試Teams？]]></title>
+            <link>https://news.ycombinator.com/item?id=30378306</link>
+            <guid>https://news.ycombinator.com/item?id=30378306</guid>
+            <pubDate>Thu, 17 Feb 2022 20:35:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is MS Teams so slow, do devs test Teams on less powerful machines?]]></description>
+        </item>
         <item>
             <title><![CDATA[最好的服務是大聲讀出網上的文章？]]></title>
             <link>https://news.ycombinator.com/item?id=30378156</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30108687</guid>
             <pubDate>Thu, 27 Jan 2022 23:41:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Do companies still have 99.99999%, or similar, uptime SLAs or OKRs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有一個家庭電池系統嗎？它是否符合GPL標準？]]></title>
-            <link>https://news.ycombinator.com/item?id=30108528</link>
-            <guid>https://news.ycombinator.com/item?id=30108528</guid>
-            <pubDate>Thu, 27 Jan 2022 23:26:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have a home battery system? Is it GPL compliant?]]></description>
         </item>
     </channel>
 </rss>
