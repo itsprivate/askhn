@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T17:06:15.549Z</updated>
+    <updated>2022-02-17T17:36:28.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VS代码的良好替代品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30375989</id>
+        <link href="https://news.ycombinator.com/item?id=30375989"/>
+        <updated>2022-02-17T17:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good Alternatives to VS Code?]]></summary>
+        <author>
+            <name>ahmaman</name>
+            <uri>https://news.ycombinator.com/user?id=ahmaman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comixology网站已经消失了，还有谁会怀念它？]]></title>
         <id>https://news.ycombinator.com/item?id=30375440</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪个云计算创业项目最适合以企业为中心的创业公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30105786</id>
-        <link href="https://news.ycombinator.com/item?id=30105786"/>
-        <updated>2022-01-27T20:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which cloud startup program is best for enterprise focused startup?]]></summary>
-        <author>
-            <name>greenail</name>
-            <uri>https://news.ycombinator.com/user?id=greenail</uri>
         </author>
     </entry>
 </feed>
