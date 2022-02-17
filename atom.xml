@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T16:15:34.159Z</updated>
+    <updated>2022-02-17T16:48:40.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎么知道你所解决的问题对人们很重要？]]></title>
+        <id>https://news.ycombinator.com/item?id=30374956</id>
+        <link href="https://news.ycombinator.com/item?id=30374956"/>
+        <updated>2022-02-17T16:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you know the problem you're solving matters to people?]]></summary>
+        <author>
+            <name>amac</name>
+            <uri>https://news.ycombinator.com/user?id=amac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为什么要相信密码管理器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30374896</id>
+        <link href="https://news.ycombinator.com/item?id=30374896"/>
+        <updated>2022-02-17T16:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why should I trust password managers?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空对象模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30374855</id>
+        <link href="https://news.ycombinator.com/item?id=30374855"/>
+        <updated>2022-02-17T16:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Null Object Pattern]]></summary>
+        <author>
+            <name>breckenedge</name>
+            <uri>https://news.ycombinator.com/user?id=breckenedge</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在一个远程公司辞职？]]></title>
+        <id>https://news.ycombinator.com/item?id=30374820</id>
+        <link href="https://news.ycombinator.com/item?id=30374820"/>
+        <updated>2022-02-17T16:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Do You Quit at a Remote Company?]]></summary>
+        <author>
+            <name>tren-hard</name>
+            <uri>https://news.ycombinator.com/user?id=tren-hard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当动机被耗尽/恢复时，什么是有成效的活动？]]></title>
         <id>https://news.ycombinator.com/item?id=30374427</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>fullstackchris</name>
             <uri>https://news.ycombinator.com/user?id=fullstackchris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以提出关于哪个API有X功能的问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30103373</id>
-        <link href="https://news.ycombinator.com/item?id=30103373"/>
-        <updated>2022-01-27T17:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I ask questions about which API has feature X?]]></summary>
-        <author>
-            <name>lambdaba</name>
-            <uri>https://news.ycombinator.com/user?id=lambdaba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最有趣的用于驱动的内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30102868</id>
-        <link href="https://news.ycombinator.com/item?id=30102868"/>
-        <updated>2022-01-27T16:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Most interesting used drive content]]></summary>
-        <author>
-            <name>cmusfan</name>
-            <uri>https://news.ycombinator.com/user?id=cmusfan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客声称拥有所有权，然后删除了我有5万用户的Facebook页面]]></title>
-        <id>https://news.ycombinator.com/item?id=30102240</id>
-        <link href="https://news.ycombinator.com/item?id=30102240"/>
-        <updated>2022-01-27T16:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hacker claimed ownership and then deleted my Facebook Page of 50k users]]></summary>
-        <author>
-            <name>metalised</name>
-            <uri>https://news.ycombinator.com/user?id=metalised</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于软件专利的好的（或任何）指南？]]></title>
-        <id>https://news.ycombinator.com/item?id=30102091</id>
-        <link href="https://news.ycombinator.com/item?id=30102091"/>
-        <updated>2022-01-27T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good (or any) guides on software patents?]]></summary>
-        <author>
-            <name>algo_trader</name>
-            <uri>https://news.ycombinator.com/user?id=algo_trader</uri>
         </author>
     </entry>
 </feed>
