@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[生活捷径]]></title>
+            <link>https://news.ycombinator.com/item?id=30371064</link>
+            <guid>https://news.ycombinator.com/item?id=30371064</guid>
+            <pubDate>Thu, 17 Feb 2022 09:13:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Life Shortcuts]]></description>
+        </item>
         <item>
             <title><![CDATA[开启摄像头后，视频通话效果最好。你同意吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30371111</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30098665</guid>
             <pubDate>Thu, 27 Jan 2022 10:29:35 GMT</pubDate>
             <description><![CDATA[Ask HN: What tools are available for proprietary software licensing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小公司如何进行招聘？]]></title>
-            <link>https://news.ycombinator.com/item?id=30098607</link>
-            <guid>https://news.ycombinator.com/item?id=30098607</guid>
-            <pubDate>Thu, 27 Jan 2022 10:23:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do small companies do recruitment?]]></description>
         </item>
     </channel>
 </rss>
