@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T01:07:05.890Z</updated>
+    <updated>2022-02-17T01:39:31.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[长时间工作时，如何最大限度地提高情绪和精力？]]></title>
+        <id>https://news.ycombinator.com/item?id=30368338</id>
+        <link href="https://news.ycombinator.com/item?id=30368338"/>
+        <updated>2022-02-17T01:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to maximize mood and energy when working long hours?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何充分利用你的高中经历？]]></title>
         <id>https://news.ycombinator.com/item?id=30367943</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pkdpic</name>
             <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星网络安全是怎样的？VPN？HTTPS？]]></title>
-        <id>https://news.ycombinator.com/item?id=30095213</id>
-        <link href="https://news.ycombinator.com/item?id=30095213"/>
-        <updated>2022-01-27T02:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Satellite Network Security Like? VPN? HTTPS?]]></summary>
-        <author>
-            <name>mikercampbell</name>
-            <uri>https://news.ycombinator.com/user?id=mikercampbell</uri>
         </author>
     </entry>
 </feed>
