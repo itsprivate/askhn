@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T18:15:36.320Z</updated>
+    <updated>2022-02-17T18:56:45.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戴口罩是否影響你的讀唇術？]]></title>
+        <id>https://news.ycombinator.com/item?id=30376872</id>
+        <link href="https://news.ycombinator.com/item?id=30376872"/>
+        <updated>2022-02-17T18:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has mask wearing affected your lip-reading?]]></summary>
+        <author>
+            <name>ghastmaster</name>
+            <uri>https://news.ycombinator.com/user?id=ghastmaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我們取消所有的稅收，只徵收消費稅，會怎麼樣？]]></title>
         <id>https://news.ycombinator.com/item?id=30376482</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在IT界，誰的壓力最大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30106750</id>
-        <link href="https://news.ycombinator.com/item?id=30106750"/>
-        <updated>2022-01-27T21:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is the most stressed out in IT?]]></summary>
-        <author>
-            <name>adamconnelly</name>
-            <uri>https://news.ycombinator.com/user?id=adamconnelly</uri>
         </author>
     </entry>
 </feed>
