@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T02:56:44.268Z</updated>
+    <updated>2022-02-17T03:34:36.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你不認為DuckDuckGo的名字應該改變嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30369151</id>
+        <link href="https://news.ycombinator.com/item?id=30369151"/>
+        <updated>2022-02-17T03:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Don't you think DuckDuckGo's name should change?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你們是如何保持你們的簡歷更新的？]]></title>
         <id>https://news.ycombinator.com/item?id=30368997</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>anonmamwsm</name>
             <uri>https://news.ycombinator.com/user?id=anonmamwsm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對公司人口統計學數據庫感興趣嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30096514</id>
-        <link href="https://news.ycombinator.com/item?id=30096514"/>
-        <updated>2022-01-27T05:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you be interested in a database of companies demographics?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>
