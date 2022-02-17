@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T05:13:20.143Z</updated>
+    <updated>2022-02-17T05:29:58.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望你的IDE有什麼功能？]]></title>
+        <id>https://news.ycombinator.com/item?id=30369781</id>
+        <link href="https://news.ycombinator.com/item?id=30369781"/>
+        <updated>2022-02-17T05:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s features do you wish your IDE had?]]></summary>
+        <author>
+            <name>koopuluri</name>
+            <uri>https://news.ycombinator.com/user?id=koopuluri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼每個人都一直建議青少年找一個女朋友？]]></title>
         <id>https://news.ycombinator.com/item?id=30369651</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tesseract2</name>
             <uri>https://news.ycombinator.com/user?id=tesseract2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何定義一個企業家？]]></title>
-        <id>https://news.ycombinator.com/item?id=30097046</id>
-        <link href="https://news.ycombinator.com/item?id=30097046"/>
-        <updated>2022-01-27T06:45:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you define an entrepreneur?]]></summary>
-        <author>
-            <name>xoptions</name>
-            <uri>https://news.ycombinator.com/user?id=xoptions</uri>
         </author>
     </entry>
 </feed>
