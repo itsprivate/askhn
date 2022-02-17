@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T11:12:01.440Z</updated>
+    <updated>2022-02-17T11:38:10.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有多少人用代碼做夢或在睡眠中找到解決問題的方法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30371994</id>
+        <link href="https://news.ycombinator.com/item?id=30371994"/>
+        <updated>2022-02-17T11:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many of you dream in code or find solution to a problem in sleep?]]></summary>
+        <author>
+            <name>_448</name>
+            <uri>https://news.ycombinator.com/user?id=_448</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何管理你的公司知識庫？]]></title>
         <id>https://news.ycombinator.com/item?id=30371723</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>AnonC</name>
             <uri>https://news.ycombinator.com/user?id=AnonC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在這種情況下需要MVP嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30099581</id>
-        <link href="https://news.ycombinator.com/item?id=30099581"/>
-        <updated>2022-01-27T12:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the MVP required in this case?]]></summary>
-        <author>
-            <name>fben</name>
-            <uri>https://news.ycombinator.com/user?id=fben</uri>
         </author>
     </entry>
 </feed>
