@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-17T13:53:32.372Z</updated>
+    <updated>2022-02-17T14:13:20.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼HN不以某種方式提醒用戶有新的回覆？]]></title>
+        <id>https://news.ycombinator.com/item?id=30373171</id>
+        <link href="https://news.ycombinator.com/item?id=30373171"/>
+        <updated>2022-02-17T14:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't HN alert users in some manner to new replies?]]></summary>
+        <author>
+            <name>warrenm</name>
+            <uri>https://news.ycombinator.com/user?id=warrenm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChiliZ/Socios - 有效的加密貨幣業務，還是另一個龐氏騙局？]]></title>
+        <id>https://news.ycombinator.com/item?id=30373109</id>
+        <link href="https://news.ycombinator.com/item?id=30373109"/>
+        <updated>2022-02-17T14:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ChiliZ/Socios – valid crypto business, or another ponzi scheme?]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的YC申請會通過WhatsApp給我打電話嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30373086</id>
+        <link href="https://news.ycombinator.com/item?id=30373086"/>
+        <updated>2022-02-17T14:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will I be called via WhatsApp for my YC application?]]></summary>
+        <author>
+            <name>Anonymous4272</name>
+            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該為我的父母尋找什麼樣的Windows電腦？]]></title>
         <id>https://news.ycombinator.com/item?id=30372872</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>andreacavagna</name>
             <uri>https://news.ycombinator.com/user?id=andreacavagna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從結構化數據中生成自然語言]]></title>
-        <id>https://news.ycombinator.com/item?id=30101274</id>
-        <link href="https://news.ycombinator.com/item?id=30101274"/>
-        <updated>2022-01-27T14:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Natural language generation from structured data]]></summary>
-        <author>
-            <name>michele_f</name>
-            <uri>https://news.ycombinator.com/user?id=michele_f</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN上是否有現役/退役軍人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30100894</id>
-        <link href="https://news.ycombinator.com/item?id=30100894"/>
-        <updated>2022-01-27T14:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there current/former military service members on HN?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與Apache Pulsar相比，你是否更支持Apache Kafka？為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30100844</id>
-        <link href="https://news.ycombinator.com/item?id=30100844"/>
-        <updated>2022-01-27T14:20:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you support Apache Kafka more than Apache Pulsar? Why?]]></summary>
-        <author>
-            <name>pingsl</name>
-            <uri>https://news.ycombinator.com/user?id=pingsl</uri>
         </author>
     </entry>
 </feed>

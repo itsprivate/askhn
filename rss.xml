@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Feb 2022 13:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 14:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么HN不以某种方式提醒用户有新的回复？]]></title>
+            <link>https://news.ycombinator.com/item?id=30373171</link>
+            <guid>https://news.ycombinator.com/item?id=30373171</guid>
+            <pubDate>Thu, 17 Feb 2022 14:08:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't HN alert users in some manner to new replies?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ChiliZ/Socios - 有效的加密货币业务，还是另一个庞氏骗局？]]></title>
+            <link>https://news.ycombinator.com/item?id=30373109</link>
+            <guid>https://news.ycombinator.com/item?id=30373109</guid>
+            <pubDate>Thu, 17 Feb 2022 14:03:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: ChiliZ/Socios – valid crypto business, or another ponzi scheme?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的YC申请会通过WhatsApp给我打电话吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30373086</link>
+            <guid>https://news.ycombinator.com/item?id=30373086</guid>
+            <pubDate>Thu, 17 Feb 2022 14:00:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will I be called via WhatsApp for my YC application?]]></description>
+        </item>
         <item>
             <title><![CDATA[我应该为我的父母寻找什么样的Windows电脑？]]></title>
             <link>https://news.ycombinator.com/item?id=30372872</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30101292</guid>
             <pubDate>Thu, 27 Jan 2022 14:56:17 GMT</pubDate>
             <description><![CDATA[Ask HN: Marketing, DevRel and Evangelism working for Open-source]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从结构化数据中生成自然语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30101274</link>
-            <guid>https://news.ycombinator.com/item?id=30101274</guid>
-            <pubDate>Thu, 27 Jan 2022 14:54:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Natural language generation from structured data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN上是否有现役/退役军人？]]></title>
-            <link>https://news.ycombinator.com/item?id=30100894</link>
-            <guid>https://news.ycombinator.com/item?id=30100894</guid>
-            <pubDate>Thu, 27 Jan 2022 14:24:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are there current/former military service members on HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与Apache Pulsar相比，你是否更支持Apache Kafka？为什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30100844</link>
-            <guid>https://news.ycombinator.com/item?id=30100844</guid>
-            <pubDate>Thu, 27 Jan 2022 14:20:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you support Apache Kafka more than Apache Pulsar? Why?]]></description>
         </item>
     </channel>
 </rss>
