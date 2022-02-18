@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T22:34:17.616Z</updated>
+    <updated>2022-02-18T23:13:51.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当你得知某人的证书被泄露时，该怎么办？]]></title>
+        <id>https://news.ycombinator.com/item?id=30392253</id>
+        <link href="https://news.ycombinator.com/item?id=30392253"/>
+        <updated>2022-02-18T22:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do when you learn someone's credentials have leaked?]]></summary>
+        <author>
+            <name>southerntofu</name>
+            <uri>https://news.ycombinator.com/user?id=southerntofu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一个Linux项目在逐字逐句地再现macOS的桌面环境？]]></title>
+        <id>https://news.ycombinator.com/item?id=30392215</id>
+        <link href="https://news.ycombinator.com/item?id=30392215"/>
+        <updated>2022-02-18T22:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a Linux project recreating the macOS desktop env verbatim?]]></summary>
+        <author>
+            <name>apatheticonion</name>
+            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何解释身为人类而非昆虫的幸运？]]></title>
         <id>https://news.ycombinator.com/item?id=30391945</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>banjoartist</name>
             <uri>https://news.ycombinator.com/user?id=banjoartist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么工具来创建项目的公共路线图？]]></title>
-        <id>https://news.ycombinator.com/item?id=30117559</id>
-        <link href="https://news.ycombinator.com/item?id=30117559"/>
-        <updated>2022-01-28T17:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools do you use to create project's public roadmap?]]></summary>
-        <author>
-            <name>ewuhic</name>
-            <uri>https://news.ycombinator.com/user?id=ewuhic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你订阅的最好的付费新闻简报是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30117289</id>
-        <link href="https://news.ycombinator.com/item?id=30117289"/>
-        <updated>2022-01-28T16:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best paid newsletters you are subscribed to?]]></summary>
-        <author>
-            <name>Obertr</name>
-            <uri>https://news.ycombinator.com/user?id=Obertr</uri>
         </author>
     </entry>
 </feed>
