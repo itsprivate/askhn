@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T14:31:28.720Z</updated>
+    <updated>2022-02-18T14:54:52.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从开发人员到应用安全工程师？]]></title>
+        <id>https://news.ycombinator.com/item?id=30386214</id>
+        <link href="https://news.ycombinator.com/item?id=30386214"/>
+        <updated>2022-02-18T14:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: From Developer to Appsec Engineer?]]></summary>
+        <author>
+            <name>desertbug</name>
+            <uri>https://news.ycombinator.com/user?id=desertbug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何合法地翻译材料，让更多的人可以使用？]]></title>
         <id>https://news.ycombinator.com/item?id=30385966</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否可以聘请专业的webdev来检查我的业余网站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30113065</id>
-        <link href="https://news.ycombinator.com/item?id=30113065"/>
-        <updated>2022-01-28T10:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to hire a professional webdev to check my amateur site?]]></summary>
-        <author>
-            <name>swidi</name>
-            <uri>https://news.ycombinator.com/user?id=swidi</uri>
         </author>
     </entry>
 </feed>
