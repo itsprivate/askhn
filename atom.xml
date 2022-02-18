@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T00:37:29.326Z</updated>
+    <updated>2022-02-18T01:54:56.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么浏览器必须定期刷新？]]></title>
+        <id>https://news.ycombinator.com/item?id=30381144</id>
+        <link href="https://news.ycombinator.com/item?id=30381144"/>
+        <updated>2022-02-18T01:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do browsers have to be refreshed periodically?]]></summary>
+        <author>
+            <name>eishtmo</name>
+            <uri>https://news.ycombinator.com/user?id=eishtmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(为了好玩)如果`sudo rm -rf /`不起作用怎么办？]]></title>
+        <id>https://news.ycombinator.com/item?id=30380690</id>
+        <link href="https://news.ycombinator.com/item?id=30380690"/>
+        <updated>2022-02-18T00:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: (For Fun) What if `sudo rm -rf /` doesn't work?]]></summary>
+        <author>
+            <name>bdcollins18</name>
+            <uri>https://news.ycombinator.com/user?id=bdcollins18</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉动银行交易到CSV的简单方法？]]></title>
         <id>https://news.ycombinator.com/item?id=30380785</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>hidden-spyder</name>
             <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在HN上发表我写的东西，是否会被人诟病？]]></title>
-        <id>https://news.ycombinator.com/item?id=30109840</id>
-        <link href="https://news.ycombinator.com/item?id=30109840"/>
-        <updated>2022-01-28T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it frowned upon to post things on HN that I’ve written?]]></summary>
-        <author>
-            <name>andrewseanryan</name>
-            <uri>https://news.ycombinator.com/user?id=andrewseanryan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E2E 加密信息应用，不泄露电话号码？]]></title>
-        <id>https://news.ycombinator.com/item?id=30109626</id>
-        <link href="https://news.ycombinator.com/item?id=30109626"/>
-        <updated>2022-01-28T01:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: E2E Encrypted Messaging App that doesn't reveal phone number?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>

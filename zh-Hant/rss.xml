@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 18 Feb 2022 00:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼瀏覽器必須定期刷新？]]></title>
+            <link>https://news.ycombinator.com/item?id=30381144</link>
+            <guid>https://news.ycombinator.com/item?id=30381144</guid>
+            <pubDate>Fri, 18 Feb 2022 01:32:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do browsers have to be refreshed periodically?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[(為了好玩)如果`sudo rm -rf /`不起作用怎麼辦？]]></title>
+            <link>https://news.ycombinator.com/item?id=30380690</link>
+            <guid>https://news.ycombinator.com/item?id=30380690</guid>
+            <pubDate>Fri, 18 Feb 2022 00:20:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: (For Fun) What if `sudo rm -rf /` doesn't work?]]></description>
+        </item>
         <item>
             <title><![CDATA[拉動銀行交易到CSV的簡單方法？]]></title>
             <link>https://news.ycombinator.com/item?id=30380785</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30110326</guid>
             <pubDate>Fri, 28 Jan 2022 03:14:42 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is there no 2FA option on HN? Would you add it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在HN上發表我寫的東西，是否會被人詬病？]]></title>
-            <link>https://news.ycombinator.com/item?id=30109840</link>
-            <guid>https://news.ycombinator.com/item?id=30109840</guid>
-            <pubDate>Fri, 28 Jan 2022 02:00:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it frowned upon to post things on HN that I’ve written?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[E2E 加密信息應用，不洩露電話號碼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30109626</link>
-            <guid>https://news.ycombinator.com/item?id=30109626</guid>
-            <pubDate>Fri, 28 Jan 2022 01:28:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: E2E Encrypted Messaging App that doesn't reveal phone number?]]></description>
         </item>
     </channel>
 </rss>
