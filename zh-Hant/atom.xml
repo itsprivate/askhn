@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T23:13:51.446Z</updated>
+    <updated>2022-02-18T23:53:38.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最好的水星銀行替代產品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30392787</id>
+        <link href="https://news.ycombinator.com/item?id=30392787"/>
+        <updated>2022-02-18T23:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Mercury Bank Alternatives?]]></summary>
+        <author>
+            <name>bkovacev</name>
+            <uri>https://news.ycombinator.com/user?id=bkovacev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當你得知某人的證書被洩露時，該怎麼辦？]]></title>
         <id>https://news.ycombinator.com/item?id=30392253</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>openknot</name>
             <uri>https://news.ycombinator.com/user?id=openknot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費的谷歌應用程序/G-Suite/谷歌工作區終於要消失了]]></title>
-        <id>https://news.ycombinator.com/item?id=30117576</id>
-        <link href="https://news.ycombinator.com/item?id=30117576"/>
-        <updated>2022-01-28T17:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Free Google Apps/ G-Suite/ Google Workspace is finally going away]]></summary>
-        <author>
-            <name>banjoartist</name>
-            <uri>https://news.ycombinator.com/user?id=banjoartist</uri>
         </author>
     </entry>
 </feed>
