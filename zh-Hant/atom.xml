@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T21:13:37.322Z</updated>
+    <updated>2022-02-18T21:39:30.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何為你的第一家創業公司找到合適的導師？]]></title>
+        <id>https://news.ycombinator.com/item?id=30391410</id>
+        <link href="https://news.ycombinator.com/item?id=30391410"/>
+        <updated>2022-02-18T21:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find right mentor(s) for your first startup?]]></summary>
+        <author>
+            <name>riksucks</name>
+            <uri>https://news.ycombinator.com/user?id=riksucks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰首先提出了1年的經驗重複X次？]]></title>
         <id>https://news.ycombinator.com/item?id=30391061</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Frajedo</name>
             <uri>https://news.ycombinator.com/user?id=Frajedo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們能不能把新評論的HN積分計數器減少到0？]]></title>
-        <id>https://news.ycombinator.com/item?id=30116972</id>
-        <link href="https://news.ycombinator.com/item?id=30116972"/>
-        <updated>2022-01-28T16:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could we decrease the HN points counter to 0 for new comments?]]></summary>
-        <author>
-            <name>gjsman-1000</name>
-            <uri>https://news.ycombinator.com/user?id=gjsman-1000</uri>
         </author>
     </entry>
 </feed>
