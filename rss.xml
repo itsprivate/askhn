@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 18 Feb 2022 01:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我应该在数据库与应用程序层保留多少逻辑？]]></title>
+            <link>https://news.ycombinator.com/item?id=30381806</link>
+            <guid>https://news.ycombinator.com/item?id=30381806</guid>
+            <pubDate>Fri, 18 Feb 2022 03:23:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: How much logic should I keep at the database vs. app layer?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我开始了一份新的工作，我很害怕]]></title>
+            <link>https://news.ycombinator.com/item?id=30381766</link>
+            <guid>https://news.ycombinator.com/item?id=30381766</guid>
+            <pubDate>Fri, 18 Feb 2022 03:17:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: I started a new job and I'm scared]]></description>
+        </item>
+        <item>
+            <title><![CDATA[闯入SWE]]></title>
+            <link>https://news.ycombinator.com/item?id=30381742</link>
+            <guid>https://news.ycombinator.com/item?id=30381742</guid>
+            <pubDate>Fri, 18 Feb 2022 03:13:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Breaking into SWE]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么浏览器必须定期刷新？]]></title>
             <link>https://news.ycombinator.com/item?id=30381144</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30110754</guid>
             <pubDate>Fri, 28 Jan 2022 04:39:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Horrible YC startup employment experience, should I speak up?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[宣布你愿意雇用的人的种族和性别可以吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30110668</link>
-            <guid>https://news.ycombinator.com/item?id=30110668</guid>
-            <pubDate>Fri, 28 Jan 2022 04:19:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it ok to announce the race and gender of who you're willing to hire?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[包容性的招聘做法]]></title>
-            <link>https://news.ycombinator.com/item?id=30110518</link>
-            <guid>https://news.ycombinator.com/item?id=30110518</guid>
-            <pubDate>Fri, 28 Jan 2022 03:50:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Inclusive Hiring Practices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么HN上没有2FA选项？你会添加它吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30110326</link>
-            <guid>https://news.ycombinator.com/item?id=30110326</guid>
-            <pubDate>Fri, 28 Jan 2022 03:14:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is there no 2FA option on HN? Would you add it?]]></description>
         </item>
     </channel>
 </rss>
