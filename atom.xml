@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T06:15:54.770Z</updated>
+    <updated>2022-02-18T07:53:19.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何测试无代码的应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30383089</id>
+        <link href="https://news.ycombinator.com/item?id=30383089"/>
+        <updated>2022-02-18T07:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you test no-code apps?]]></summary>
+        <author>
+            <name>WolfOliver</name>
+            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我没有静态IP，如何确保我的AWS实例的SSH访问？]]></title>
         <id>https://news.ycombinator.com/item?id=30382568</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纳斯达克的波动是否使初创企业的生活变得困难？]]></title>
-        <id>https://news.ycombinator.com/item?id=30111046</id>
-        <link href="https://news.ycombinator.com/item?id=30111046"/>
-        <updated>2022-01-28T05:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Nasdaq volatility make life difficult for startups?]]></summary>
-        <author>
-            <name>MichaelMoser123</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
         </author>
     </entry>
 </feed>
