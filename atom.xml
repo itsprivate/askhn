@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T17:34:07.419Z</updated>
+    <updated>2022-02-18T17:53:40.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何开始成为一名软件工程承包商？]]></title>
+        <id>https://news.ycombinator.com/item?id=30388687</id>
+        <link href="https://news.ycombinator.com/item?id=30388687"/>
+        <updated>2022-02-18T17:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I start off as a software engineering contractor?]]></summary>
+        <author>
+            <name>parakalan</name>
+            <uri>https://news.ycombinator.com/user?id=parakalan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年的远程工作中，什么有效果，什么没有效果？]]></title>
         <id>https://news.ycombinator.com/item?id=30388470</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>msgi</name>
             <uri>https://news.ycombinator.com/user?id=msgi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Windows] 其他进程能否从浏览器内部读取任意数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30115526</id>
-        <link href="https://news.ycombinator.com/item?id=30115526"/>
-        <updated>2022-01-28T15:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: [Windows] Can other processes read arbitrary data from inside a browser]]></summary>
-        <author>
-            <name>bunnythefifth</name>
-            <uri>https://news.ycombinator.com/user?id=bunnythefifth</uri>
         </author>
     </entry>
 </feed>
