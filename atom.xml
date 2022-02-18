@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T22:14:37.049Z</updated>
+    <updated>2022-02-18T22:34:17.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何解释身为人类而非昆虫的幸运？]]></title>
+        <id>https://news.ycombinator.com/item?id=30391945</id>
+        <link href="https://news.ycombinator.com/item?id=30391945"/>
+        <updated>2022-02-18T22:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to explain the luck of being a human and not an insect?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些公司重视高质量的代码？]]></title>
         <id>https://news.ycombinator.com/item?id=30391640</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Obertr</name>
             <uri>https://news.ycombinator.com/user?id=Obertr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们能不能不要指责错误的事情？]]></title>
-        <id>https://news.ycombinator.com/item?id=30117264</id>
-        <link href="https://news.ycombinator.com/item?id=30117264"/>
-        <updated>2022-01-28T16:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can we stop blaming the wrong things, please?]]></summary>
-        <author>
-            <name>mikewarot</name>
-            <uri>https://news.ycombinator.com/user?id=mikewarot</uri>
         </author>
     </entry>
 </feed>
