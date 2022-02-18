@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T12:50:57.585Z</updated>
+    <updated>2022-02-18T13:42:00.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[風險投資公司對國防相關的初創企業是否有興趣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30385479</id>
+        <link href="https://news.ycombinator.com/item?id=30385479"/>
+        <updated>2022-02-18T13:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there VC appetite for defense related startups]]></summary>
+        <author>
+            <name>throwawaydef</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaydef</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國科技公司的遠程員工，你的工作強度有多大？]]></title>
         <id>https://news.ycombinator.com/item?id=30385009</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>widforss</name>
             <uri>https://news.ycombinator.com/user?id=widforss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼新的M1 Pro 14 "需要這麼長時間才能交付？]]></title>
-        <id>https://news.ycombinator.com/item?id=30111962</id>
-        <link href="https://news.ycombinator.com/item?id=30111962"/>
-        <updated>2022-01-28T08:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the new M1 Pro 14“ taking so long to deliver]]></summary>
-        <author>
-            <name>kaladin_1</name>
-            <uri>https://news.ycombinator.com/user?id=kaladin_1</uri>
         </author>
     </entry>
 </feed>
