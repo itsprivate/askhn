@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 18 Feb 2022 03:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果我沒有靜態IP，如何確保我的AWS實例的SSH訪問？]]></title>
+            <link>https://news.ycombinator.com/item?id=30382568</link>
+            <guid>https://news.ycombinator.com/item?id=30382568</guid>
+            <pubDate>Fri, 18 Feb 2022 05:58:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can I secure my AWS instance's SSH access if I have no static IP?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HN的人是否會使用discord服務器來談論HN？]]></title>
+            <link>https://news.ycombinator.com/item?id=30382536</link>
+            <guid>https://news.ycombinator.com/item?id=30382536</guid>
+            <pubDate>Fri, 18 Feb 2022 05:51:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would HN folks use a discord server to talk about HN?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有針對律師的IDE？]]></title>
             <link>https://news.ycombinator.com/item?id=30381835</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30111046</guid>
             <pubDate>Fri, 28 Jan 2022 05:44:29 GMT</pubDate>
             <description><![CDATA[Ask HN: Does Nasdaq volatility make life difficult for startups?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何進入域名炒作行業？]]></title>
-            <link>https://news.ycombinator.com/item?id=30110969</link>
-            <guid>https://news.ycombinator.com/item?id=30110969</guid>
-            <pubDate>Fri, 28 Jan 2022 05:28:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to get into the domain flipping business?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何增加你的通訊訂戶的？我仍然停留在130個]]></title>
-            <link>https://news.ycombinator.com/item?id=30110841</link>
-            <guid>https://news.ycombinator.com/item?id=30110841</guid>
-            <pubDate>Fri, 28 Jan 2022 04:57:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: How did you grow your newsletter subscribers? I'm still stuck at 130]]></description>
         </item>
     </channel>
 </rss>

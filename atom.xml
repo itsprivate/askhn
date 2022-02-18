@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T03:43:49.337Z</updated>
+    <updated>2022-02-18T06:15:54.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我没有静态IP，如何确保我的AWS实例的SSH访问？]]></title>
+        <id>https://news.ycombinator.com/item?id=30382568</id>
+        <link href="https://news.ycombinator.com/item?id=30382568"/>
+        <updated>2022-02-18T05:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I secure my AWS instance's SSH access if I have no static IP?]]></summary>
+        <author>
+            <name>gkrishna</name>
+            <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN的人是否会使用discord服务器来谈论HN？]]></title>
+        <id>https://news.ycombinator.com/item?id=30382536</id>
+        <link href="https://news.ycombinator.com/item?id=30382536"/>
+        <updated>2022-02-18T05:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would HN folks use a discord server to talk about HN?]]></summary>
+        <author>
+            <name>fumar</name>
+            <uri>https://news.ycombinator.com/user?id=fumar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有针对律师的IDE？]]></title>
         <id>https://news.ycombinator.com/item?id=30381835</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>MichaelMoser123</name>
             <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何进入域名炒作行业？]]></title>
-        <id>https://news.ycombinator.com/item?id=30110969</id>
-        <link href="https://news.ycombinator.com/item?id=30110969"/>
-        <updated>2022-01-28T05:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get into the domain flipping business?]]></summary>
-        <author>
-            <name>hoerzu</name>
-            <uri>https://news.ycombinator.com/user?id=hoerzu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何增加你的通讯订户的？我仍然停留在130个]]></title>
-        <id>https://news.ycombinator.com/item?id=30110841</id>
-        <link href="https://news.ycombinator.com/item?id=30110841"/>
-        <updated>2022-01-28T04:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you grow your newsletter subscribers? I'm still stuck at 130]]></summary>
-        <author>
-            <name>harshalachavan7</name>
-            <uri>https://news.ycombinator.com/user?id=harshalachavan7</uri>
         </author>
     </entry>
 </feed>
