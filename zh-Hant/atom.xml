@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T17:18:34.965Z</updated>
+    <updated>2022-02-18T17:34:07.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的遠程工作中，什麼有效果，什麼沒有效果？]]></title>
+        <id>https://news.ycombinator.com/item?id=30388470</id>
+        <link href="https://news.ycombinator.com/item?id=30388470"/>
+        <updated>2022-02-18T17:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What has and has not worked for remote work in 2022?]]></summary>
+        <author>
+            <name>mpoon</name>
+            <uri>https://news.ycombinator.com/user?id=mpoon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哥斯達黎加的工資披露法是否影響到遠程工作機會？]]></title>
         <id>https://news.ycombinator.com/item?id=30388333</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bunnythefifth</name>
             <uri>https://news.ycombinator.com/user?id=bunnythefifth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監測HTTPS證書的發放？]]></title>
-        <id>https://news.ycombinator.com/item?id=30115236</id>
-        <link href="https://news.ycombinator.com/item?id=30115236"/>
-        <updated>2022-01-28T14:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Monitoring for HTTPS Certificate Issuance?]]></summary>
-        <author>
-            <name>mawise</name>
-            <uri>https://news.ycombinator.com/user?id=mawise</uri>
         </author>
     </entry>
 </feed>
