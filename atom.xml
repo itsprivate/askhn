@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T19:38:25.073Z</updated>
+    <updated>2022-02-18T19:53:30.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[目前的加密货币市场与互联网繁荣/泡沫相比如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30390153</id>
+        <link href="https://news.ycombinator.com/item?id=30390153"/>
+        <updated>2022-02-18T19:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does current crypto market compare with dotcom boom/bubble]]></summary>
+        <author>
+            <name>cheeseblubber</name>
+            <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何应对？]]></title>
         <id>https://news.ycombinator.com/item?id=30390010</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>throwawayafsp</name>
             <uri>https://news.ycombinator.com/user?id=throwawayafsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们要如何处理我们被俘的系统？]]></title>
-        <id>https://news.ycombinator.com/item?id=30116313</id>
-        <link href="https://news.ycombinator.com/item?id=30116313"/>
-        <updated>2022-01-28T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are we going to do about our captured systems?]]></summary>
-        <author>
-            <name>loceng</name>
-            <uri>https://news.ycombinator.com/user?id=loceng</uri>
         </author>
     </entry>
 </feed>
