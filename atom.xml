@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-18T17:05:01.716Z</updated>
+    <updated>2022-02-18T17:18:34.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哥斯达黎加的工资披露法是否影响到远程工作机会？]]></title>
+        <id>https://news.ycombinator.com/item?id=30388333</id>
+        <link href="https://news.ycombinator.com/item?id=30388333"/>
+        <updated>2022-02-18T17:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are CO salary disclosure laws affecting remote work opportunities?]]></summary>
+        <author>
+            <name>71a54xd</name>
+            <uri>https://news.ycombinator.com/user?id=71a54xd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你会为用户定义的数据使用什么数据库？]]></title>
         <id>https://news.ycombinator.com/item?id=30388014</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mawise</name>
             <uri>https://news.ycombinator.com/user?id=mawise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只在初创企业与大公司工作的FOMO现象]]></title>
-        <id>https://news.ycombinator.com/item?id=30115078</id>
-        <link href="https://news.ycombinator.com/item?id=30115078"/>
-        <updated>2022-01-28T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: FOMO by working in startups only vs. Big companies]]></summary>
-        <author>
-            <name>NalNezumi</name>
-            <uri>https://news.ycombinator.com/user?id=NalNezumi</uri>
         </author>
     </entry>
 </feed>
