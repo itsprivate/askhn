@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T22:53:14.179Z</updated>
+    <updated>2022-02-19T23:33:02.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果谷歌拥有数十年的专业知识，为什么谷歌的搜索产品会很糟糕？]]></title>
+        <id>https://news.ycombinator.com/item?id=30401526</id>
+        <link href="https://news.ycombinator.com/item?id=30401526"/>
+        <updated>2022-02-19T23:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are Google's search products bad if Google has decades of Know-how?]]></summary>
+        <author>
+            <name>mrkramer</name>
+            <uri>https://news.ycombinator.com/user?id=mrkramer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stripe Atlas vs. Capbase vs. Firstbase vs. Angellist Stack Vs.]]></title>
         <id>https://news.ycombinator.com/item?id=30401265</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>crlssn</name>
             <uri>https://news.ycombinator.com/user?id=crlssn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请告诉我你的桌下踏板解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30126866</id>
-        <link href="https://news.ycombinator.com/item?id=30126866"/>
-        <updated>2022-01-29T15:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pleas tell me about your under desk pedaling solution]]></summary>
-        <author>
-            <name>kleer001</name>
-            <uri>https://news.ycombinator.com/user?id=kleer001</uri>
         </author>
     </entry>
 </feed>
