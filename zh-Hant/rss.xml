@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Feb 2022 21:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 21:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最喜歡的小說書是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30400572</link>
+            <guid>https://news.ycombinator.com/item?id=30400572</guid>
+            <pubDate>Sat, 19 Feb 2022 21:12:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your favorite fiction book?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼谷歌/應用商店的搜索會同時顯示廣告和真實結果？]]></title>
             <link>https://news.ycombinator.com/item?id=30400440</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30125766</guid>
             <pubDate>Sat, 29 Jan 2022 12:32:38 GMT</pubDate>
             <description><![CDATA[Ask HN: When is the subscription model appropriate?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[嘿，iOS應用程序是否符合規定？]]></title>
-            <link>https://news.ycombinator.com/item?id=30125557</link>
-            <guid>https://news.ycombinator.com/item?id=30125557</guid>
-            <pubDate>Sat, 29 Jan 2022 11:35:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Hey iOS App Compliant?]]></description>
         </item>
     </channel>
 </rss>

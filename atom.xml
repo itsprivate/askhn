@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T21:13:20.122Z</updated>
+    <updated>2022-02-19T21:30:14.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的小说书是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30400572</id>
+        <link href="https://news.ycombinator.com/item?id=30400572"/>
+        <updated>2022-02-19T21:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your favorite fiction book?]]></summary>
+        <author>
+            <name>zerojames</name>
+            <uri>https://news.ycombinator.com/user?id=zerojames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么谷歌/应用商店的搜索会同时显示广告和真实结果？]]></title>
         <id>https://news.ycombinator.com/item?id=30400440</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>shrvtv</name>
             <uri>https://news.ycombinator.com/user?id=shrvtv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘿，iOS应用程序是否符合规定？]]></title>
-        <id>https://news.ycombinator.com/item?id=30125557</id>
-        <link href="https://news.ycombinator.com/item?id=30125557"/>
-        <updated>2022-01-29T11:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Hey iOS App Compliant?]]></summary>
-        <author>
-            <name>glaive123</name>
-            <uri>https://news.ycombinator.com/user?id=glaive123</uri>
         </author>
     </entry>
 </feed>
