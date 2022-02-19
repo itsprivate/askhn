@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T08:15:00.899Z</updated>
+    <updated>2022-02-19T08:36:07.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方對俄羅斯的進攻性網絡攻擊能力是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30395294</id>
+        <link href="https://news.ycombinator.com/item?id=30395294"/>
+        <updated>2022-02-19T08:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the West's offesive cyber attack capabilities toward Russia?]]></summary>
+        <author>
+            <name>noduerme</name>
+            <uri>https://news.ycombinator.com/user?id=noduerme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何再一次變得無聊？]]></title>
         <id>https://news.ycombinator.com/item?id=30395205</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>manuelabeledo</name>
             <uri>https://news.ycombinator.com/user?id=manuelabeledo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳銷售線索生成服務？]]></title>
-        <id>https://news.ycombinator.com/item?id=30118417</id>
-        <link href="https://news.ycombinator.com/item?id=30118417"/>
-        <updated>2022-01-28T18:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Lead Generation Service?]]></summary>
-        <author>
-            <name>tlin14</name>
-            <uri>https://news.ycombinator.com/user?id=tlin14</uri>
         </author>
     </entry>
 </feed>
