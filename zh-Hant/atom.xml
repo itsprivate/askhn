@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T19:38:14.274Z</updated>
+    <updated>2022-02-19T20:14:23.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否注意到Facebook在網絡上進行了更積極的廣告宣傳？]]></title>
+        <id>https://news.ycombinator.com/item?id=30399986</id>
+        <link href="https://news.ycombinator.com/item?id=30399986"/>
+        <updated>2022-02-19T19:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did you noticed a more aggressive ad campaign for Facebook on the web?]]></summary>
+        <author>
+            <name>zinekeller</name>
+            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[產品經理和數據科學家應該如何一起工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30399771</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>julienreszka</name>
             <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[問一個潛在的聯合創始人最重要的問題是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30124899</id>
-        <link href="https://news.ycombinator.com/item?id=30124899"/>
-        <updated>2022-01-29T08:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the most important questions to ask a potential cofounder?]]></summary>
-        <author>
-            <name>ilmoi</name>
-            <uri>https://news.ycombinator.com/user?id=ilmoi</uri>
         </author>
     </entry>
 </feed>
