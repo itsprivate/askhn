@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T20:34:08.901Z</updated>
+    <updated>2022-02-19T21:13:20.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么谷歌/应用商店的搜索会同时显示广告和真实结果？]]></title>
+        <id>https://news.ycombinator.com/item?id=30400440</id>
+        <link href="https://news.ycombinator.com/item?id=30400440"/>
+        <updated>2022-02-19T20:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Google/App Store search show ads AND the real result together?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戒掉咖啡因？之前和之后的轶事]]></title>
         <id>https://news.ycombinator.com/item?id=30400121</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>glaive123</name>
             <uri>https://news.ycombinator.com/user?id=glaive123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网/手机成瘾正在摧毁我]]></title>
-        <id>https://news.ycombinator.com/item?id=30125126</id>
-        <link href="https://news.ycombinator.com/item?id=30125126"/>
-        <updated>2022-01-29T09:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Internet / Mobile addiction is destroying me]]></summary>
-        <author>
-            <name>throwaway638494</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway638494</uri>
         </author>
     </entry>
 </feed>
