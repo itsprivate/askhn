@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T23:33:03.090Z</updated>
+    <updated>2022-02-19T23:40:45.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用GPT-3使狗說話，同時考慮到它們的情緒？]]></title>
+        <id>https://news.ycombinator.com/item?id=30401584</id>
+        <link href="https://news.ycombinator.com/item?id=30401584"/>
+        <updated>2022-02-19T23:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Use GPT-3 to make dogs talk while taking into account their mood?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果谷歌擁有數十年的專業知識，為什麼谷歌的搜索產品會很糟糕？]]></title>
         <id>https://news.ycombinator.com/item?id=30401526</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mrbonner</name>
             <uri>https://news.ycombinator.com/user?id=mrbonner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用1Gb/s和10TB存儲的被動收入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30127673</id>
-        <link href="https://news.ycombinator.com/item?id=30127673"/>
-        <updated>2022-01-29T16:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Passive income with 1 Gb/s and 10 TB storage?]]></summary>
-        <author>
-            <name>crlssn</name>
-            <uri>https://news.ycombinator.com/user?id=crlssn</uri>
         </author>
     </entry>
 </feed>
