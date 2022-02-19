@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T10:13:32.819Z</updated>
+    <updated>2022-02-19T10:35:16.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于技术创始人来说，有哪些好的人力资源资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30395938</id>
+        <link href="https://news.ycombinator.com/item?id=30395938"/>
+        <updated>2022-02-19T10:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good HR resources for technical founders?]]></summary>
+        <author>
+            <name>hicycivicz</name>
+            <uri>https://news.ycombinator.com/user?id=hicycivicz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人使用Edge AI或TinyML工具进行实际开发？]]></title>
         <id>https://news.ycombinator.com/item?id=30395849</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>0x008</name>
             <uri>https://news.ycombinator.com/user?id=0x008</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的会计开放源码库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30120298</id>
-        <link href="https://news.ycombinator.com/item?id=30120298"/>
-        <updated>2022-01-28T21:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: New open source libraries for accounting?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
