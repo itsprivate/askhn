@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 17:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推荐哪些书籍来学习半导体行业？]]></title>
+            <link>https://news.ycombinator.com/item?id=30398930</link>
+            <guid>https://news.ycombinator.com/item?id=30398930</guid>
+            <pubDate>Sat, 19 Feb 2022 17:48:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What books are recommended to learn re semiconductors industry?]]></description>
+        </item>
         <item>
             <title><![CDATA[对于HN节制的实际运作，用户应该知道什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30398541</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30124327</guid>
             <pubDate>Sat, 29 Jan 2022 06:45:13 GMT</pubDate>
             <description><![CDATA[Ask HN: User-script manager users, which one do you use?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在电脑和手机之间同步uBlock origin自定义过滤器？]]></title>
-            <link>https://news.ycombinator.com/item?id=30124290</link>
-            <guid>https://news.ycombinator.com/item?id=30124290</guid>
-            <pubDate>Sat, 29 Jan 2022 06:38:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to sync uBlock origin custom filters between PC and phone?]]></description>
         </item>
     </channel>
 </rss>
