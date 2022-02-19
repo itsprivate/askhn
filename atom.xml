@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T15:14:15.647Z</updated>
+    <updated>2022-02-19T16:16:33.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你将如何在一个大型企业中实施服务网状结构？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398106</id>
+        <link href="https://news.ycombinator.com/item?id=30398106"/>
+        <updated>2022-02-19T16:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you implement service mesh in a large enterprise?]]></summary>
+        <author>
+            <name>digitalsanctum</name>
+            <uri>https://news.ycombinator.com/user?id=digitalsanctum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在周末停止思考工作和软件工程的问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398085</id>
+        <link href="https://news.ycombinator.com/item?id=30398085"/>
+        <updated>2022-02-19T16:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to stop thinking about work and software engineering on the weekend?]]></summary>
+        <author>
+            <name>dondraper36</name>
+            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新兴机甲师的最佳第一语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30398057</id>
+        <link href="https://news.ycombinator.com/item?id=30398057"/>
+        <updated>2022-02-19T16:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best first language for a budding MechE]]></summary>
+        <author>
+            <name>GlenTheMachine</name>
+            <uri>https://news.ycombinator.com/user?id=GlenTheMachine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你试过Meta的VR工作吗？它是否比其他替代品更好？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398053</id>
+        <link href="https://news.ycombinator.com/item?id=30398053"/>
+        <updated>2022-02-19T16:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you tried Meta's VR for work? Is it better than other alternatives?]]></summary>
+        <author>
+            <name>gkrishna</name>
+            <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些社会科学模型的预测是最准确的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398017</id>
+        <link href="https://news.ycombinator.com/item?id=30398017"/>
+        <updated>2022-02-19T15:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which social science models are making the most accurate predictions?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收益前的创业公司的Pitch deck中应该包括什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30397529</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有建立模型的代码平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30122731</id>
-        <link href="https://news.ycombinator.com/item?id=30122731"/>
-        <updated>2022-01-29T01:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: No code platform for building models]]></summary>
-        <author>
-            <name>m0nhawk</name>
-            <uri>https://news.ycombinator.com/user?id=m0nhawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人读过《软件设计的灵活性》吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30122342</id>
-        <link href="https://news.ycombinator.com/item?id=30122342"/>
-        <updated>2022-01-29T00:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone read Software Design for Flexibility?]]></summary>
-        <author>
-            <name>joaogui1</name>
-            <uri>https://news.ycombinator.com/user?id=joaogui1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无服务器/云功能如何在下面工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30121690</id>
-        <link href="https://news.ycombinator.com/item?id=30121690"/>
-        <updated>2022-01-28T23:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do serverless/cloud functions work underneath?]]></summary>
-        <author>
-            <name>quantumOctopus</name>
-            <uri>https://news.ycombinator.com/user?id=quantumOctopus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoC{1,2}是一种敲诈吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30121653</id>
-        <link href="https://news.ycombinator.com/item?id=30121653"/>
-        <updated>2022-01-28T22:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is SoC{1,2} a racket?]]></summary>
-        <author>
-            <name>ironmagma</name>
-            <uri>https://news.ycombinator.com/user?id=ironmagma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这很讽刺，不是吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30121506</id>
-        <link href="https://news.ycombinator.com/item?id=30121506"/>
-        <updated>2022-01-28T22:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: It’s Ironic Isn’t It?]]></summary>
-        <author>
-            <name>datarage</name>
-            <uri>https://news.ycombinator.com/user?id=datarage</uri>
         </author>
     </entry>
 </feed>
