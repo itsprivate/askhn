@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T16:16:33.211Z</updated>
+    <updated>2022-02-19T16:46:11.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的公司是異步的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398310</id>
+        <link href="https://news.ycombinator.com/item?id=30398310"/>
+        <updated>2022-02-19T16:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Your Company Async?]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何安排與你的伴侶的生活？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398297</id>
+        <link href="https://news.ycombinator.com/item?id=30398297"/>
+        <updated>2022-02-19T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you organize life with your partner?]]></summary>
+        <author>
+            <name>mellifluousbox</name>
+            <uri>https://news.ycombinator.com/user?id=mellifluousbox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你將如何在一個大型企業中實施服務網狀結構？]]></title>
         <id>https://news.ycombinator.com/item?id=30398106</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>mr_o47</name>
             <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[項目與產品]]></title>
-        <id>https://news.ycombinator.com/item?id=30122862</id>
-        <link href="https://news.ycombinator.com/item?id=30122862"/>
-        <updated>2022-01-29T01:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Projects vs. Products]]></summary>
-        <author>
-            <name>arsecott</name>
-            <uri>https://news.ycombinator.com/user?id=arsecott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有內置RFID的SD卡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30122803</id>
-        <link href="https://news.ycombinator.com/item?id=30122803"/>
-        <updated>2022-01-29T01:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any SD cards with built in RFID?]]></summary>
-        <author>
-            <name>giantg2</name>
-            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
         </author>
     </entry>
 </feed>

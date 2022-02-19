@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Feb 2022 16:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 16:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的公司是异步的吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30398310</link>
+            <guid>https://news.ycombinator.com/item?id=30398310</guid>
+            <pubDate>Sat, 19 Feb 2022 16:31:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Your Company Async?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何安排与你的伴侣的生活？]]></title>
+            <link>https://news.ycombinator.com/item?id=30398297</link>
+            <guid>https://news.ycombinator.com/item?id=30398297</guid>
+            <pubDate>Sat, 19 Feb 2022 16:30:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you organize life with your partner?]]></description>
+        </item>
         <item>
             <title><![CDATA[你将如何在一个大型企业中实施服务网状结构？]]></title>
             <link>https://news.ycombinator.com/item?id=30398106</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30123708</guid>
             <pubDate>Sat, 29 Jan 2022 04:10:47 GMT</pubDate>
             <description><![CDATA[Ask HN: What can i expect when interviewing for DevOps roles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[项目与产品]]></title>
-            <link>https://news.ycombinator.com/item?id=30122862</link>
-            <guid>https://news.ycombinator.com/item?id=30122862</guid>
-            <pubDate>Sat, 29 Jan 2022 01:35:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Projects vs. Products]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有内置RFID的SD卡？]]></title>
-            <link>https://news.ycombinator.com/item?id=30122803</link>
-            <guid>https://news.ycombinator.com/item?id=30122803</guid>
-            <pubDate>Sat, 29 Jan 2022 01:27:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any SD cards with built in RFID?]]></description>
         </item>
     </channel>
 </rss>
