@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T08:45:46.619Z</updated>
+    <updated>2022-02-19T10:13:32.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人使用Edge AI或TinyML工具進行實際開發？]]></title>
+        <id>https://news.ycombinator.com/item?id=30395849</id>
+        <link href="https://news.ycombinator.com/item?id=30395849"/>
+        <updated>2022-02-19T10:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using Edge AI or TinyML tools for real world development?]]></summary>
+        <author>
+            <name>throwaway_hello</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway_hello</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯和烏克蘭之間的戰爭將對世界意味著什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30395406</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[許多招聘人員在2021年給你寫信]]></title>
-        <id>https://news.ycombinator.com/item?id=30119607</id>
-        <link href="https://news.ycombinator.com/item?id=30119607"/>
-        <updated>2022-01-28T20:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Many Recruiters Wrote to you in 2021]]></summary>
-        <author>
-            <name>foosamu</name>
-            <uri>https://news.ycombinator.com/user?id=foosamu</uri>
         </author>
     </entry>
 </feed>
