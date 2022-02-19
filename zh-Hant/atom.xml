@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T17:53:08.990Z</updated>
+    <updated>2022-02-19T19:11:58.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你關注的最好奇的人是誰？]]></title>
+        <id>https://news.ycombinator.com/item?id=30399527</id>
+        <link href="https://news.ycombinator.com/item?id=30399527"/>
+        <updated>2022-02-19T18:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is the most curious person you follow?]]></summary>
+        <author>
+            <name>sandes</name>
+            <uri>https://news.ycombinator.com/user?id=sandes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何轉入深度技術領域？]]></title>
+        <id>https://news.ycombinator.com/item?id=30399458</id>
+        <link href="https://news.ycombinator.com/item?id=30399458"/>
+        <updated>2022-02-19T18:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Move into Deep Tech?]]></summary>
+        <author>
+            <name>bckr</name>
+            <uri>https://news.ycombinator.com/user?id=bckr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推薦哪些書籍來學習半導體行業？]]></title>
         <id>https://news.ycombinator.com/item?id=30398930</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何安排你的待辦事項清單的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30124490</id>
-        <link href="https://news.ycombinator.com/item?id=30124490"/>
-        <updated>2022-01-29T07:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you structure your to-do lists?]]></summary>
-        <author>
-            <name>peterjuras</name>
-            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用戶-腳本管理器用戶，你用的是哪一個？]]></title>
-        <id>https://news.ycombinator.com/item?id=30124327</id>
-        <link href="https://news.ycombinator.com/item?id=30124327"/>
-        <updated>2022-01-29T06:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: User-script manager users, which one do you use?]]></summary>
-        <author>
-            <name>hidden-spyder</name>
-            <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
         </author>
     </entry>
 </feed>
