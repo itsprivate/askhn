@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Feb 2022 22:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 22:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[C# reloadOnChange=true使Linux上的啟動速度降低了2.2秒。為什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30401122</link>
+            <guid>https://news.ycombinator.com/item?id=30401122</guid>
+            <pubDate>Sat, 19 Feb 2022 22:28:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: C# reloadOnChange=true slows down startup on Linux by 2.2 seconds. Why?]]></description>
+        </item>
         <item>
             <title><![CDATA[產品管理是否需要MBA？]]></title>
             <link>https://news.ycombinator.com/item?id=30400981</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30126653</guid>
             <pubDate>Sat, 29 Jan 2022 14:44:28 GMT</pubDate>
             <description><![CDATA[Ask HN: Could you recommend a training?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阻止從廣告多/煩人的網站發帖]]></title>
-            <link>https://news.ycombinator.com/item?id=30125856</link>
-            <guid>https://news.ycombinator.com/item?id=30125856</guid>
-            <pubDate>Sat, 29 Jan 2022 12:48:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Block posting from websites that are heavy/annoying ads]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T22:14:56.577Z</updated>
+    <updated>2022-02-19T22:33:21.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C# reloadOnChange=true使Linux上的启动速度降低了2.2秒。为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30401122</id>
+        <link href="https://news.ycombinator.com/item?id=30401122"/>
+        <updated>2022-02-19T22:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: C# reloadOnChange=true slows down startup on Linux by 2.2 seconds. Why?]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品管理是否需要MBA？]]></title>
         <id>https://news.ycombinator.com/item?id=30400981</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bekantan</name>
             <uri>https://news.ycombinator.com/user?id=bekantan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阻止从广告多/烦人的网站发帖]]></title>
-        <id>https://news.ycombinator.com/item?id=30125856</id>
-        <link href="https://news.ycombinator.com/item?id=30125856"/>
-        <updated>2022-01-29T12:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Block posting from websites that are heavy/annoying ads]]></summary>
-        <author>
-            <name>crecker</name>
-            <uri>https://news.ycombinator.com/user?id=crecker</uri>
         </author>
     </entry>
 </feed>
