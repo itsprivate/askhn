@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T10:35:16.813Z</updated>
+    <updated>2022-02-19T11:38:33.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有可能删除你所有的互联网数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=30396288</id>
+        <link href="https://news.ycombinator.com/item?id=30396288"/>
+        <updated>2022-02-19T11:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to erase all of your internet data?]]></summary>
+        <author>
+            <name>lazyPirate</name>
+            <uri>https://news.ycombinator.com/user?id=lazyPirate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于技术创始人来说，有哪些好的人力资源资源？]]></title>
         <id>https://news.ycombinator.com/item?id=30395938</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>armagon</name>
             <uri>https://news.ycombinator.com/user?id=armagon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为分析而存储时间序列的最佳数据库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30120530</id>
-        <link href="https://news.ycombinator.com/item?id=30120530"/>
-        <updated>2022-01-28T21:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best database to store time series for analysis?]]></summary>
-        <author>
-            <name>0x008</name>
-            <uri>https://news.ycombinator.com/user?id=0x008</uri>
         </author>
     </entry>
 </feed>
