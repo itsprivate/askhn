@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-19T19:11:58.929Z</updated>
+    <updated>2022-02-19T19:38:14.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[產品經理和數據科學家應該如何一起工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30399771</id>
+        <link href="https://news.ycombinator.com/item?id=30399771"/>
+        <updated>2022-02-19T19:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should Product managers and data scientists work together?]]></summary>
+        <author>
+            <name>BPreminger</name>
+            <uri>https://news.ycombinator.com/user?id=BPreminger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你關注的最好奇的人是誰？]]></title>
         <id>https://news.ycombinator.com/item?id=30399527</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ilmoi</name>
             <uri>https://news.ycombinator.com/user?id=ilmoi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的課程可以讓職員工程師轉為工程總監嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30124660</id>
-        <link href="https://news.ycombinator.com/item?id=30124660"/>
-        <updated>2022-01-29T08:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Good course for s/staff engineer turned director of engineering?]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>
