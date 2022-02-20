@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T20:13:47.927Z</updated>
+    <updated>2022-02-20T20:32:49.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於macOS的CLI日誌工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30408984</id>
+        <link href="https://news.ycombinator.com/item?id=30408984"/>
+        <updated>2022-02-20T20:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: CLI Journaling Tool for macOS]]></summary>
+        <author>
+            <name>7174n6</name>
+            <uri>https://news.ycombinator.com/user?id=7174n6</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼時候是轉到小公司的好時機？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408889</id>
+        <link href="https://news.ycombinator.com/item?id=30408889"/>
+        <updated>2022-02-20T20:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When is a good time to move to a smaller company?]]></summary>
+        <author>
+            <name>websap</name>
+            <uri>https://news.ycombinator.com/user?id=websap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Unity的UI設計這麼難？]]></title>
         <id>https://news.ycombinator.com/item?id=30408868</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>erikbye</name>
             <uri>https://news.ycombinator.com/user?id=erikbye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘人員會對檢測可能辭職的開發人員感興趣嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30135629</id>
-        <link href="https://news.ycombinator.com/item?id=30135629"/>
-        <updated>2022-01-30T10:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would recruiters be interested in detecting devs who are likely to quit?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking.com對不同的用戶顯示不同的價格]]></title>
-        <id>https://news.ycombinator.com/item?id=30135467</id>
-        <link href="https://news.ycombinator.com/item?id=30135467"/>
-        <updated>2022-01-30T09:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Booking.com shows different price for different users]]></summary>
-        <author>
-            <name>powerapple</name>
-            <uri>https://news.ycombinator.com/user?id=powerapple</uri>
         </author>
     </entry>
 </feed>
