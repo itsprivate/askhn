@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T06:12:55.385Z</updated>
+    <updated>2022-02-20T06:35:09.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有关于Wordle的帖子是怎么回事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30403657</id>
+        <link href="https://news.ycombinator.com/item?id=30403657"/>
+        <updated>2022-02-20T06:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is up with all the Wordle posts?]]></summary>
+        <author>
+            <name>figassis</name>
+            <uri>https://news.ycombinator.com/user?id=figassis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的脖子怎么样了？]]></title>
         <id>https://news.ycombinator.com/item?id=30403555</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>replwoacause</name>
             <uri>https://news.ycombinator.com/user?id=replwoacause</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3开发入门]]></title>
-        <id>https://news.ycombinator.com/item?id=30129394</id>
-        <link href="https://news.ycombinator.com/item?id=30129394"/>
-        <updated>2022-01-29T19:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Getting Started with Web3 Development]]></summary>
-        <author>
-            <name>lihaotan</name>
-            <uri>https://news.ycombinator.com/user?id=lihaotan</uri>
         </author>
     </entry>
 </feed>
