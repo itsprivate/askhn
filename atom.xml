@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T11:28:59.756Z</updated>
+    <updated>2022-02-20T12:16:00.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们公司的代码提交率是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405021</id>
+        <link href="https://news.ycombinator.com/item?id=30405021"/>
+        <updated>2022-02-20T11:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Code commit % rate at your company?]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么没有小型安卓手机？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405011</id>
+        <link href="https://news.ycombinator.com/item?id=30405011"/>
+        <updated>2022-02-20T11:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there no small Android phone?]]></summary>
+        <author>
+            <name>fxtentacle</name>
+            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于家庭实验室的短深度机架式服务器推荐]]></title>
         <id>https://news.ycombinator.com/item?id=30404909</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>debaserab2</name>
             <uri>https://news.ycombinator.com/user?id=debaserab2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[类似于Grep的全文搜索工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30130255</id>
-        <link href="https://news.ycombinator.com/item?id=30130255"/>
-        <updated>2022-01-29T20:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Grep like tools for full text search?]]></summary>
-        <author>
-            <name>joiguru</name>
-            <uri>https://news.ycombinator.com/user?id=joiguru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否为自己从系统管理员转而从事编程工作而感到高兴？]]></title>
-        <id>https://news.ycombinator.com/item?id=30130163</id>
-        <link href="https://news.ycombinator.com/item?id=30130163"/>
-        <updated>2022-01-29T20:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you happy that you switched from a sysadmin to a programming career?]]></summary>
-        <author>
-            <name>ethercell</name>
-            <uri>https://news.ycombinator.com/user?id=ethercell</uri>
         </author>
     </entry>
 </feed>
