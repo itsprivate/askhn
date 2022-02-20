@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T02:52:13.582Z</updated>
+    <updated>2022-02-20T04:56:02.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像Web3这样的东西是否阻碍了创新？]]></title>
+        <id>https://news.ycombinator.com/item?id=30403258</id>
+        <link href="https://news.ycombinator.com/item?id=30403258"/>
+        <updated>2022-02-20T04:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are things like Web3 holding back innovation?]]></summary>
+        <author>
+            <name>jusonchan81</name>
+            <uri>https://news.ycombinator.com/user?id=jusonchan81</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该退出大学吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30402564</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>labrador</name>
             <uri>https://news.ycombinator.com/user?id=labrador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用哪种虚拟机协调器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30128865</id>
-        <link href="https://news.ycombinator.com/item?id=30128865"/>
-        <updated>2022-01-29T18:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which VM orchestrator do you use?]]></summary>
-        <author>
-            <name>kosolam</name>
-            <uri>https://news.ycombinator.com/user?id=kosolam</uri>
         </author>
     </entry>
 </feed>
