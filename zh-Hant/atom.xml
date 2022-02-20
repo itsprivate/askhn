@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T13:52:32.440Z</updated>
+    <updated>2022-02-20T14:29:15.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推薦一個傳記]]></title>
+        <id>https://news.ycombinator.com/item?id=30405924</id>
+        <link href="https://news.ycombinator.com/item?id=30405924"/>
+        <updated>2022-02-20T14:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommend a Biography]]></summary>
+        <author>
+            <name>cinoob</name>
+            <uri>https://news.ycombinator.com/user?id=cinoob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在工作中獲得有意義的經驗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405851</id>
+        <link href="https://news.ycombinator.com/item?id=30405851"/>
+        <updated>2022-02-20T14:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to gain a meaningful experience at work?]]></summary>
+        <author>
+            <name>kartoshechka</name>
+            <uri>https://news.ycombinator.com/user?id=kartoshechka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自定義路由器來檢測被破壞的設備]]></title>
         <id>https://news.ycombinator.com/item?id=30405638</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>adawg4</name>
             <uri>https://news.ycombinator.com/user?id=adawg4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的設計生涯的一個高峰期，我討厭我的生活]]></title>
-        <id>https://news.ycombinator.com/item?id=30132560</id>
-        <link href="https://news.ycombinator.com/item?id=30132560"/>
-        <updated>2022-01-30T01:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: At a peak of my dev career, I hate my life]]></summary>
-        <author>
-            <name>tenonyx</name>
-            <uri>https://news.ycombinator.com/user?id=tenonyx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這種行為現象有什麼名稱嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30132432</id>
-        <link href="https://news.ycombinator.com/item?id=30132432"/>
-        <updated>2022-01-30T00:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a name for this behavioral phenomenon?]]></summary>
-        <author>
-            <name>eeegnu</name>
-            <uri>https://news.ycombinator.com/user?id=eeegnu</uri>
         </author>
     </entry>
 </feed>
