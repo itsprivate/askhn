@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T19:52:01.688Z</updated>
+    <updated>2022-02-20T20:13:47.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Unity的UI設計這麼難？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408868</id>
+        <link href="https://news.ycombinator.com/item?id=30408868"/>
+        <updated>2022-02-20T20:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is UI design in Unity so hard?]]></summary>
+        <author>
+            <name>41209</name>
+            <uri>https://news.ycombinator.com/user?id=41209</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該如何開始學習現代編程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408819</id>
+        <link href="https://news.ycombinator.com/item?id=30408819"/>
+        <updated>2022-02-20T20:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should I get started learning modern programming?]]></summary>
+        <author>
+            <name>FollowingTheDao</name>
+            <uri>https://news.ycombinator.com/user?id=FollowingTheDao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國初創企業的最佳銀行？]]></title>
         <id>https://news.ycombinator.com/item?id=30408592</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>powerapple</name>
             <uri>https://news.ycombinator.com/user?id=powerapple</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個正式的記憶模型需要什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30135349</id>
-        <link href="https://news.ycombinator.com/item?id=30135349"/>
-        <updated>2022-01-30T09:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does a formal memory model entail?]]></summary>
-        <author>
-            <name>thingsgoup</name>
-            <uri>https://news.ycombinator.com/user?id=thingsgoup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他人是否總是有太多的副業在進行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30135244</id>
-        <link href="https://news.ycombinator.com/item?id=30135244"/>
-        <updated>2022-01-30T09:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does everybody else always have too many side projects going on?]]></summary>
-        <author>
-            <name>Risse</name>
-            <uri>https://news.ycombinator.com/user?id=Risse</uri>
         </author>
     </entry>
 </feed>
