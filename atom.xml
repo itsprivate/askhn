@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T14:29:14.977Z</updated>
+    <updated>2022-02-20T15:12:19.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网站在超宽屏幕上看起来是什么样子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30406106</id>
+        <link href="https://news.ycombinator.com/item?id=30406106"/>
+        <updated>2022-02-20T14:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do websites look like on super ultra wide screens?]]></summary>
+        <author>
+            <name>dustinmoris</name>
+            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐一个传记]]></title>
         <id>https://news.ycombinator.com/item?id=30405924</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>magicjosh</name>
             <uri>https://news.ycombinator.com/user?id=magicjosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些经常出现的问题人们可能不认为是问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30132606</id>
-        <link href="https://news.ycombinator.com/item?id=30132606"/>
-        <updated>2022-01-30T01:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some frequent problems one might not see as problems?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
