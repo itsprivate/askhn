@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T17:13:17.119Z</updated>
+    <updated>2022-02-20T18:14:24.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳的Gmail替代品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30407648</id>
+        <link href="https://news.ycombinator.com/item?id=30407648"/>
+        <updated>2022-02-20T17:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Gmail Alternative?]]></summary>
+        <author>
+            <name>reissbaker</name>
+            <uri>https://news.ycombinator.com/user?id=reissbaker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去很容易，但现在很难的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30407547</id>
+        <link href="https://news.ycombinator.com/item?id=30407547"/>
+        <updated>2022-02-20T17:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thing that used to be easy, but are now hard]]></summary>
+        <author>
+            <name>BiteCode_dev</name>
+            <uri>https://news.ycombinator.com/user?id=BiteCode_dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的个人图书馆有多大？]]></title>
         <id>https://news.ycombinator.com/item?id=30407162</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>rasulkireev</name>
             <uri>https://news.ycombinator.com/user?id=rasulkireev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不寻常的代码格式化风格的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30133705</id>
-        <link href="https://news.ycombinator.com/item?id=30133705"/>
-        <updated>2022-01-30T03:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Examples of Unusual Code Formatting Styles?]]></summary>
-        <author>
-            <name>happyrock</name>
-            <uri>https://news.ycombinator.com/user?id=happyrock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何对抗YouTube视频博客的大流行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30133555</id>
-        <link href="https://news.ycombinator.com/item?id=30133555"/>
-        <updated>2022-01-30T03:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you fight pandemic of YouTube vlogging?]]></summary>
-        <author>
-            <name>ytdisease</name>
-            <uri>https://news.ycombinator.com/user?id=ytdisease</uri>
         </author>
     </entry>
 </feed>
