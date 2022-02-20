@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Feb 2022 09:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 10:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[好的賬戶接管回收流程的例子？]]></title>
+            <link>https://news.ycombinator.com/item?id=30404687</link>
+            <guid>https://news.ycombinator.com/item?id=30404687</guid>
+            <pubDate>Sun, 20 Feb 2022 10:25:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Example of good account takeover recovery flow?]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌是否在私人窗口/其他瀏覽器中進行個性化搜索？]]></title>
             <link>https://news.ycombinator.com/item?id=30404382</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30130142</guid>
             <pubDate>Sat, 29 Jan 2022 20:36:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Where do you go to meet interesting people (not engineers)?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於平臺的Authn和Authz？]]></title>
-            <link>https://news.ycombinator.com/item?id=30129853</link>
-            <guid>https://news.ycombinator.com/item?id=30129853</guid>
-            <pubDate>Sat, 29 Jan 2022 20:05:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: Platform Based Authn and Authz?]]></description>
         </item>
     </channel>
 </rss>

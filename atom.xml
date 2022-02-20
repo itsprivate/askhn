@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T09:30:26.732Z</updated>
+    <updated>2022-02-20T10:33:22.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的账户接管回收流程的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30404687</id>
+        <link href="https://news.ycombinator.com/item?id=30404687"/>
+        <updated>2022-02-20T10:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Example of good account takeover recovery flow?]]></summary>
+        <author>
+            <name>jpgvm</name>
+            <uri>https://news.ycombinator.com/user?id=jpgvm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌是否在私人窗口/其他浏览器中进行个性化搜索？]]></title>
         <id>https://news.ycombinator.com/item?id=30404382</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>goethes_kind</name>
             <uri>https://news.ycombinator.com/user?id=goethes_kind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于平台的Authn和Authz？]]></title>
-        <id>https://news.ycombinator.com/item?id=30129853</id>
-        <link href="https://news.ycombinator.com/item?id=30129853"/>
-        <updated>2022-01-29T20:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Platform Based Authn and Authz?]]></summary>
-        <author>
-            <name>rodeomalone</name>
-            <uri>https://news.ycombinator.com/user?id=rodeomalone</uri>
         </author>
     </entry>
 </feed>
