@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T18:37:24.053Z</updated>
+    <updated>2022-02-20T18:48:25.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你擁有一本字典嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408121</id>
+        <link href="https://news.ycombinator.com/item?id=30408121"/>
+        <updated>2022-02-20T18:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Own a Dictionary?]]></summary>
+        <author>
+            <name>zerojames</name>
+            <uri>https://news.ycombinator.com/user?id=zerojames</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你們有這種感覺嗎？如果是這樣，你們是如何走出低谷的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408085</id>
+        <link href="https://news.ycombinator.com/item?id=30408085"/>
+        <updated>2022-02-20T18:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you guys ever feel like this? If so, how do you get out of the slump?]]></summary>
+        <author>
+            <name>maze_roller</name>
+            <uri>https://news.ycombinator.com/user?id=maze_roller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的語言的殺手級應用/庫是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30407831</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的團隊是如何進行代碼審查的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30134656</id>
-        <link href="https://news.ycombinator.com/item?id=30134656"/>
-        <updated>2022-01-30T06:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does your team do code reviews?]]></summary>
-        <author>
-            <name>roflchoppa</name>
-            <uri>https://news.ycombinator.com/user?id=roflchoppa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何免費為你的軟件做廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30134595</id>
-        <link href="https://news.ycombinator.com/item?id=30134595"/>
-        <updated>2022-01-30T06:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to advertise your software for free]]></summary>
-        <author>
-            <name>akmittal</name>
-            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
         </author>
     </entry>
 </feed>
