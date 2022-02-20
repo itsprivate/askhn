@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T04:56:02.744Z</updated>
+    <updated>2022-02-20T06:12:55.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的脖子怎麼樣了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30403555</id>
+        <link href="https://news.ycombinator.com/item?id=30403555"/>
+        <updated>2022-02-20T05:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Is Your Neck?]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像Web3這樣的東西是否阻礙了創新？]]></title>
         <id>https://news.ycombinator.com/item?id=30403258</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lihaotan</name>
             <uri>https://news.ycombinator.com/user?id=lihaotan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼BBC播放詹姆斯-伯克的 "連接"，而它是如此錯誤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30129273</id>
-        <link href="https://news.ycombinator.com/item?id=30129273"/>
-        <updated>2022-01-29T19:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did BBC broadcast James Burke's “Connections” when it's so wrong?]]></summary>
-        <author>
-            <name>labrador</name>
-            <uri>https://news.ycombinator.com/user?id=labrador</uri>
         </author>
     </entry>
 </feed>
