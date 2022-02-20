@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T13:20:06.913Z</updated>
+    <updated>2022-02-20T13:52:32.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自定義路由器來檢測被破壞的設備]]></title>
+        <id>https://news.ycombinator.com/item?id=30405638</id>
+        <link href="https://news.ycombinator.com/item?id=30405638"/>
+        <updated>2022-02-20T13:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Custom router to detect compromoised device]]></summary>
+        <author>
+            <name>midnight_toker</name>
+            <uri>https://news.ycombinator.com/user?id=midnight_toker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN上的烏克蘭和俄羅斯朋友，你們感覺如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30405350</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>eeegnu</name>
             <uri>https://news.ycombinator.com/user?id=eeegnu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[批評線上去了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30132410</id>
-        <link href="https://news.ycombinator.com/item?id=30132410"/>
-        <updated>2022-01-30T00:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Criticisms of Line Goes Up?]]></summary>
-        <author>
-            <name>kev_dot_dev</name>
-            <uri>https://news.ycombinator.com/user?id=kev_dot_dev</uri>
         </author>
     </entry>
 </feed>
