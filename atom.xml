@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-20T10:33:22.063Z</updated>
+    <updated>2022-02-20T11:28:59.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于家庭实验室的短深度机架式服务器推荐]]></title>
+        <id>https://news.ycombinator.com/item?id=30404909</id>
+        <link href="https://news.ycombinator.com/item?id=30404909"/>
+        <updated>2022-02-20T11:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Short-depth rack server for home lab recommendation]]></summary>
+        <author>
+            <name>alex_suzuki</name>
+            <uri>https://news.ycombinator.com/user?id=alex_suzuki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好的账户接管回收流程的例子？]]></title>
         <id>https://news.ycombinator.com/item?id=30404687</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ethercell</name>
             <uri>https://news.ycombinator.com/user?id=ethercell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你去哪里认识有趣的人（不是工程师）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30130142</id>
-        <link href="https://news.ycombinator.com/item?id=30130142"/>
-        <updated>2022-01-29T20:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you go to meet interesting people (not engineers)?]]></summary>
-        <author>
-            <name>goethes_kind</name>
-            <uri>https://news.ycombinator.com/user?id=goethes_kind</uri>
         </author>
     </entry>
 </feed>
