@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 19:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 19:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安卓用户如何确定苹果AirTag是否在跟踪他们？]]></title>
+            <link>https://news.ycombinator.com/item?id=30419731</link>
+            <guid>https://news.ycombinator.com/item?id=30419731</guid>
+            <pubDate>Mon, 21 Feb 2022 19:42:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: How does an Android user determine if Apple AirTag is tracking them?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你最近是否收到越来越多的垃圾邮件？]]></title>
+            <link>https://news.ycombinator.com/item?id=30419604</link>
+            <guid>https://news.ycombinator.com/item?id=30419604</guid>
+            <pubDate>Mon, 21 Feb 2022 19:27:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are you receiving increased email spam recently?]]></description>
+        </item>
         <item>
             <title><![CDATA[在Rust/Java中，你理想的IDE体验是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30419592</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30147061</guid>
             <pubDate>Mon, 31 Jan 2022 12:03:21 GMT</pubDate>
             <description><![CDATA[Ask HN: Are counterfactual models reliable science?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何将所有的2FA改为新号码？]]></title>
-            <link>https://news.ycombinator.com/item?id=30146929</link>
-            <guid>https://news.ycombinator.com/item?id=30146929</guid>
-            <pubDate>Mon, 31 Jan 2022 11:35:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you change all your 2FA to new number?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub和Bitbucket结束对CLI密码认证的支持 - 现在怎么办？]]></title>
-            <link>https://news.ycombinator.com/item?id=30146516</link>
-            <guid>https://news.ycombinator.com/item?id=30146516</guid>
-            <pubDate>Mon, 31 Jan 2022 10:23:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?]]></description>
         </item>
     </channel>
 </rss>
