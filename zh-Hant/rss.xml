@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 13:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 13:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何管理法律文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30415724</link>
+            <guid>https://news.ycombinator.com/item?id=30415724</guid>
+            <pubDate>Mon, 21 Feb 2022 13:38:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you manage legal documents]]></description>
+        </item>
         <item>
             <title><![CDATA[我是否應該購買在中國實際存在過的二手筆記本？]]></title>
             <link>https://news.ycombinator.com/item?id=30415563</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30141152</guid>
             <pubDate>Sun, 30 Jan 2022 21:12:53 GMT</pubDate>
             <description><![CDATA[Ask HN: What kind of tests do you write for your side projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何才能在Node.js中獲得乾淨的遷移解決方案？]]></title>
-            <link>https://news.ycombinator.com/item?id=30141066</link>
-            <guid>https://news.ycombinator.com/item?id=30141066</guid>
-            <pubDate>Sun, 30 Jan 2022 21:04:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I get clean solution for migrations in Node.js?]]></description>
         </item>
     </channel>
 </rss>
