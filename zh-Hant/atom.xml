@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T22:12:59.423Z</updated>
+    <updated>2022-02-21T22:32:41.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Twitter應用程序需要正確設置時間才能工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30421548</id>
+        <link href="https://news.ycombinator.com/item?id=30421548"/>
+        <updated>2022-02-21T22:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why the Twitter app needs the time set correctly to work?]]></summary>
+        <author>
+            <name>hosa</name>
+            <uri>https://news.ycombinator.com/user?id=hosa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare用於託管代碼文件？]]></title>
         <id>https://news.ycombinator.com/item?id=30421225</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Blip-A</name>
             <uri>https://news.ycombinator.com/user?id=Blip-A</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在哪裡進行網上虛擬活動？]]></title>
-        <id>https://news.ycombinator.com/item?id=30149838</id>
-        <link href="https://news.ycombinator.com/item?id=30149838"/>
-        <updated>2022-01-31T16:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you hang out virtually online?]]></summary>
-        <author>
-            <name>codemonkeysh</name>
-            <uri>https://news.ycombinator.com/user?id=codemonkeysh</uri>
         </author>
     </entry>
 </feed>
