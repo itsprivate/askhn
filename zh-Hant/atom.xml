@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T15:18:02.743Z</updated>
+    <updated>2022-02-21T15:36:34.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的應用程序是私有的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30416898</id>
+        <link href="https://news.ycombinator.com/item?id=30416898"/>
+        <updated>2022-02-21T15:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Your App Private?]]></summary>
+        <author>
+            <name>prithsr</name>
+            <uri>https://news.ycombinator.com/user?id=prithsr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[還有人懷念TouchID嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30416792</id>
+        <link href="https://news.ycombinator.com/item?id=30416792"/>
+        <updated>2022-02-21T15:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone else miss TouchID?]]></summary>
+        <author>
+            <name>devstein</name>
+            <uri>https://news.ycombinator.com/user?id=devstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[錄製的結對編程課程？]]></title>
         <id>https://news.ycombinator.com/item?id=30416625</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>t8y</name>
             <uri>https://news.ycombinator.com/user?id=t8y</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alexa倒下了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30143764</id>
-        <link href="https://news.ycombinator.com/item?id=30143764"/>
-        <updated>2022-01-31T02:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Alexa Down?]]></summary>
-        <author>
-            <name>errcorrectcode</name>
-            <uri>https://news.ycombinator.com/user?id=errcorrectcode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪裡可以買到質量好的傢俱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30143641</id>
-        <link href="https://news.ycombinator.com/item?id=30143641"/>
-        <updated>2022-01-31T02:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to buy good quality furniture?]]></summary>
-        <author>
-            <name>starwind</name>
-            <uri>https://news.ycombinator.com/user?id=starwind</uri>
         </author>
     </entry>
 </feed>
