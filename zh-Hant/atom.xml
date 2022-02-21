@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T19:52:55.676Z</updated>
+    <updated>2022-02-21T20:14:52.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你正在從事什麼令人興奮的工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30419926</id>
+        <link href="https://news.ycombinator.com/item?id=30419926"/>
+        <updated>2022-02-21T20:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is something exciting you're working on?]]></summary>
+        <author>
+            <name>Link-</name>
+            <uri>https://news.ycombinator.com/user?id=Link-</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地球上的什麼事件會讓你認真考慮搬到火星上去？]]></title>
+        <id>https://news.ycombinator.com/item?id=30419895</id>
+        <link href="https://news.ycombinator.com/item?id=30419895"/>
+        <updated>2022-02-21T20:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What event on Earth would make you seriously consider moving to Mars?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓用戶如何確定蘋果AirTag是否在跟蹤他們？]]></title>
         <id>https://news.ycombinator.com/item?id=30419731</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>idontwantthis</name>
             <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何讓我的應用程序通過play store的審查？]]></title>
-        <id>https://news.ycombinator.com/item?id=30148002</id>
-        <link href="https://news.ycombinator.com/item?id=30148002"/>
-        <updated>2022-01-31T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I get my app past the play store review?]]></summary>
-        <author>
-            <name>lecarore</name>
-            <uri>https://news.ycombinator.com/user?id=lecarore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反事實模型是可靠的科學嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30147061</id>
-        <link href="https://news.ycombinator.com/item?id=30147061"/>
-        <updated>2022-01-31T12:03:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are counterfactual models reliable science?]]></summary>
-        <author>
-            <name>yosito</name>
-            <uri>https://news.ycombinator.com/user?id=yosito</uri>
         </author>
     </entry>
 </feed>
