@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作为一名开发人员，你是否阅读过《编程》书籍？]]></title>
+            <link>https://news.ycombinator.com/item?id=30411914</link>
+            <guid>https://news.ycombinator.com/item?id=30411914</guid>
+            <pubDate>Mon, 21 Feb 2022 04:13:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: As a developer, do you read Programming books?]]></description>
+        </item>
         <item>
             <title><![CDATA[用5000美元开始科技生活的最佳国家？]]></title>
             <link>https://news.ycombinator.com/item?id=30411890</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30138861</guid>
             <pubDate>Sun, 30 Jan 2022 17:07:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Web3 – Worth Learning?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有人利用GDPR来推翻自动化的禁令？]]></title>
-            <link>https://news.ycombinator.com/item?id=30138669</link>
-            <guid>https://news.ycombinator.com/item?id=30138669</guid>
-            <pubDate>Sun, 30 Jan 2022 16:47:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Has anyone leveraged GDPR to overturn automated bans?]]></description>
         </item>
     </channel>
 </rss>

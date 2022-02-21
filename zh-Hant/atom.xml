@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T04:14:59.974Z</updated>
+    <updated>2022-02-21T04:40:37.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名開發人員，你是否閱讀過《編程》書籍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30411914</id>
+        <link href="https://news.ycombinator.com/item?id=30411914"/>
+        <updated>2022-02-21T04:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a developer, do you read Programming books?]]></summary>
+        <author>
+            <name>developerrocks</name>
+            <uri>https://news.ycombinator.com/user?id=developerrocks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用5000美元開始科技生活的最佳國家？]]></title>
         <id>https://news.ycombinator.com/item?id=30411890</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ihvck</name>
             <uri>https://news.ycombinator.com/user?id=ihvck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有人利用GDPR來推翻自動化的禁令？]]></title>
-        <id>https://news.ycombinator.com/item?id=30138669</id>
-        <link href="https://news.ycombinator.com/item?id=30138669"/>
-        <updated>2022-01-30T16:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone leveraged GDPR to overturn automated bans?]]></summary>
-        <author>
-            <name>ndmrs</name>
-            <uri>https://news.ycombinator.com/user?id=ndmrs</uri>
         </author>
     </entry>
 </feed>
