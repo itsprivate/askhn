@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T14:55:15.585Z</updated>
+    <updated>2022-02-21T15:18:02.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[錄製的結對編程課程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30416625</id>
+        <link href="https://news.ycombinator.com/item?id=30416625"/>
+        <updated>2022-02-21T15:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recorded Pair Programming Sessions?]]></summary>
+        <author>
+            <name>shinryuu</name>
+            <uri>https://news.ycombinator.com/user?id=shinryuu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你願意為之付費的新網絡服務理念？]]></title>
+        <id>https://news.ycombinator.com/item?id=30416562</id>
+        <link href="https://news.ycombinator.com/item?id=30416562"/>
+        <updated>2022-02-21T14:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: New web service idea that you would pay for?]]></summary>
+        <author>
+            <name>andreinwald</name>
+            <uri>https://news.ycombinator.com/user?id=andreinwald</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React的替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30416040</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>starwind</name>
             <uri>https://news.ycombinator.com/user?id=starwind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些工作頭銜或角色在10年前並不存在？]]></title>
-        <id>https://news.ycombinator.com/item?id=30142078</id>
-        <link href="https://news.ycombinator.com/item?id=30142078"/>
-        <updated>2022-01-30T22:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What job titles or roles didn't exist 10 years ago?]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習x86彙編的好資源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30142046</id>
-        <link href="https://news.ycombinator.com/item?id=30142046"/>
-        <updated>2022-01-30T22:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good resources for learning x86 assembly?]]></summary>
-        <author>
-            <name>Svetlitski</name>
-            <uri>https://news.ycombinator.com/user?id=Svetlitski</uri>
         </author>
     </entry>
 </feed>
