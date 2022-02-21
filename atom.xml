@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T20:14:51.914Z</updated>
+    <updated>2022-02-21T20:53:23.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Notion, Linear的设计风格叫什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30420378</id>
+        <link href="https://news.ycombinator.com/item?id=30420378"/>
+        <updated>2022-02-21T20:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the design style of Notion, Linear called?]]></summary>
+        <author>
+            <name>genieyclo</name>
+            <uri>https://news.ycombinator.com/user?id=genieyclo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你正在从事什么令人兴奋的工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30419926</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>digitcatphd</name>
             <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[01/31/22来了 你的公司在为Docker Desktop付费吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30148287</id>
-        <link href="https://news.ycombinator.com/item?id=30148287"/>
-        <updated>2022-01-31T14:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: 01/31/22 is here Is your company paying for Docker Desktop?]]></summary>
-        <author>
-            <name>idontwantthis</name>
-            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
         </author>
     </entry>
 </feed>
