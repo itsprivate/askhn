@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你能从Pinboard的支持中得到回复吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30412986</link>
+            <guid>https://news.ycombinator.com/item?id=30412986</guid>
+            <pubDate>Mon, 21 Feb 2022 07:47:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you get replies from Pinboard's support?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何记录你的微服务？]]></title>
             <link>https://news.ycombinator.com/item?id=30412175</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30139615</guid>
             <pubDate>Sun, 30 Jan 2022 18:21:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Why does the Segway look so uncool?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学习网络和网站的资源]]></title>
-            <link>https://news.ycombinator.com/item?id=30139032</link>
-            <guid>https://news.ycombinator.com/item?id=30139032</guid>
-            <pubDate>Sun, 30 Jan 2022 17:24:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Resources for learning about the web and websites]]></description>
         </item>
     </channel>
 </rss>
