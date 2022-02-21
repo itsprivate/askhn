@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T07:53:21.402Z</updated>
+    <updated>2022-02-21T09:32:56.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在科技的黃金時代，什麼是更好的（又稱暴躁線）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30413629</id>
+        <link href="https://news.ycombinator.com/item?id=30413629"/>
+        <updated>2022-02-21T09:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was better in the golden age of tech (a.k.a. the grumpy thread)]]></summary>
+        <author>
+            <name>rixed</name>
+            <uri>https://news.ycombinator.com/user?id=rixed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能從Pinboard的支持中得到回覆嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30412986</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>eeegnu</name>
             <uri>https://news.ycombinator.com/user?id=eeegnu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼賽格威看起來這麼不酷？]]></title>
-        <id>https://news.ycombinator.com/item?id=30139615</id>
-        <link href="https://news.ycombinator.com/item?id=30139615"/>
-        <updated>2022-01-30T18:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does the Segway look so uncool?]]></summary>
-        <author>
-            <name>Mockapapella</name>
-            <uri>https://news.ycombinator.com/user?id=Mockapapella</uri>
         </author>
     </entry>
 </feed>
