@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T20:53:23.295Z</updated>
+    <updated>2022-02-21T21:37:03.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[媒介的cookie通知是否合法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30420805</id>
+        <link href="https://news.ycombinator.com/item?id=30420805"/>
+        <updated>2022-02-21T21:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is medium's cookie notice legal?]]></summary>
+        <author>
+            <name>throwaway9992</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway9992</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion, Linear的设计风格叫什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30420378</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>napsternxg</name>
             <uri>https://news.ycombinator.com/user?id=napsternxg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[循环付款将如何在加密货币中运作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30148548</id>
-        <link href="https://news.ycombinator.com/item?id=30148548"/>
-        <updated>2022-01-31T14:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How will recurring payments work in Crypto?]]></summary>
-        <author>
-            <name>digitcatphd</name>
-            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
         </author>
     </entry>
 </feed>
