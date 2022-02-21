@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T12:18:51.980Z</updated>
+    <updated>2022-02-21T13:35:48.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否应该购买在中国实际存在过的二手笔记本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30415563</id>
+        <link href="https://news.ycombinator.com/item?id=30415563"/>
+        <updated>2022-02-21T13:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I buy a used Notebook that has physically been in China?]]></summary>
+        <author>
+            <name>noaccesstomy</name>
+            <uri>https://news.ycombinator.com/user?id=noaccesstomy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你戴渐进式眼镜吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30414780</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firebase分析是Play Store中的一个排名因素吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30140909</id>
-        <link href="https://news.ycombinator.com/item?id=30140909"/>
-        <updated>2022-01-30T20:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Firebase Analytics a ranking factor in the Play Store?]]></summary>
-        <author>
-            <name>davidkuennen</name>
-            <uri>https://news.ycombinator.com/user?id=davidkuennen</uri>
         </author>
     </entry>
 </feed>
