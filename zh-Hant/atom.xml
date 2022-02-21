@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T11:52:45.398Z</updated>
+    <updated>2022-02-21T12:18:52.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你戴漸進式眼鏡嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30414780</id>
+        <link href="https://news.ycombinator.com/item?id=30414780"/>
+        <updated>2022-02-21T11:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you wear progressive glasses?]]></summary>
+        <author>
+            <name>FreeHugs</name>
+            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼辦法可以替代？]]></title>
         <id>https://news.ycombinator.com/item?id=30414590</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>davidkuennen</name>
             <uri>https://news.ycombinator.com/user?id=davidkuennen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify與蘋果音樂？]]></title>
-        <id>https://news.ycombinator.com/item?id=30140658</id>
-        <link href="https://news.ycombinator.com/item?id=30140658"/>
-        <updated>2022-01-30T20:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Spotify vs Apple Music?]]></summary>
-        <author>
-            <name>_august</name>
-            <uri>https://news.ycombinator.com/user?id=_august</uri>
         </author>
     </entry>
 </feed>
