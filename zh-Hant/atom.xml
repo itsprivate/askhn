@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T17:52:49.554Z</updated>
+    <updated>2022-02-21T18:15:38.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[團隊在不定期/自發/頻繁的會議中使用哪些應用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30418781</id>
+        <link href="https://news.ycombinator.com/item?id=30418781"/>
+        <updated>2022-02-21T18:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What apps are teams using for irregular/spontaneous/frequent meetings?]]></summary>
+        <author>
+            <name>vyrotek</name>
+            <uri>https://news.ycombinator.com/user?id=vyrotek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[計算機什麼時候對你來說變得 "足夠快 "了？]]></title>
         <id>https://news.ycombinator.com/item?id=30418445</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pelcg</name>
             <uri>https://news.ycombinator.com/user?id=pelcg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有沒有寫過一份 "不做 "的清單？結果如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30145905</id>
-        <link href="https://news.ycombinator.com/item?id=30145905"/>
-        <updated>2022-01-31T08:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever written a not-to-do list? How did it work out?]]></summary>
-        <author>
-            <name>mettamage</name>
-            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
         </author>
     </entry>
 </feed>
