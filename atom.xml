@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T22:32:41.197Z</updated>
+    <updated>2022-02-21T23:13:55.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对乔丹-彼得森的看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30421840</id>
+        <link href="https://news.ycombinator.com/item?id=30421840"/>
+        <updated>2022-02-21T22:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Opinions on Jordan Peterson?]]></summary>
+        <author>
+            <name>sigmaprimus</name>
+            <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远程工作是否正在扼杀你的网络？]]></title>
+        <id>https://news.ycombinator.com/item?id=30421782</id>
+        <link href="https://news.ycombinator.com/item?id=30421782"/>
+        <updated>2022-02-21T22:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is remote work killing your network?]]></summary>
+        <author>
+            <name>71a54xd</name>
+            <uri>https://news.ycombinator.com/user?id=71a54xd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Twitter应用程序需要正确设置时间才能工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30421548</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T正在为FaceTime做准备？]]></title>
-        <id>https://news.ycombinator.com/item?id=30150776</id>
-        <link href="https://news.ycombinator.com/item?id=30150776"/>
-        <updated>2022-01-31T17:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: AT&T Charing for FaceTime?]]></summary>
-        <author>
-            <name>ada1981</name>
-            <uri>https://news.ycombinator.com/user?id=ada1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何使用电子邮件别名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30150420</id>
-        <link href="https://news.ycombinator.com/item?id=30150420"/>
-        <updated>2022-01-31T17:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you use email aliases?]]></summary>
-        <author>
-            <name>Blip-A</name>
-            <uri>https://news.ycombinator.com/user?id=Blip-A</uri>
         </author>
     </entry>
 </feed>
