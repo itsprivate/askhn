@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T15:36:34.739Z</updated>
+    <updated>2022-02-21T16:49:05.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼才算得上是 "技術 "方面的工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30417449</id>
+        <link href="https://news.ycombinator.com/item?id=30417449"/>
+        <updated>2022-02-21T16:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Counts as a Job in 'Technology'?]]></summary>
+        <author>
+            <name>q_andrew</name>
+            <uri>https://news.ycombinator.com/user?id=q_andrew</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪裡可以找到項目經理的職位？]]></title>
+        <id>https://news.ycombinator.com/item?id=30417442</id>
+        <link href="https://news.ycombinator.com/item?id=30417442"/>
+        <updated>2022-02-21T16:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to find Project Manager positions?]]></summary>
+        <author>
+            <name>atdrummond</name>
+            <uri>https://news.ycombinator.com/user?id=atdrummond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的應用程序是私有的嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30416898</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>emschlr</name>
             <uri>https://news.ycombinator.com/user?id=emschlr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於一個數據工程師來說，製作網絡應用的最短路徑是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30145780</id>
-        <link href="https://news.ycombinator.com/item?id=30145780"/>
-        <updated>2022-01-31T08:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the shortest path to making web apps for a data engineer?]]></summary>
-        <author>
-            <name>metabro</name>
-            <uri>https://news.ycombinator.com/user?id=metabro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼蘋果公司隱瞞AppleCare+的費用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30145233</id>
-        <link href="https://news.ycombinator.com/item?id=30145233"/>
-        <updated>2022-01-31T06:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does Apple hide how much AppleCare+ costs?]]></summary>
-        <author>
-            <name>t8y</name>
-            <uri>https://news.ycombinator.com/user?id=t8y</uri>
         </author>
     </entry>
 </feed>
