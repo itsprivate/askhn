@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 14:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 14:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[React的替代品？]]></title>
+            <link>https://news.ycombinator.com/item?id=30416040</link>
+            <guid>https://news.ycombinator.com/item?id=30416040</guid>
+            <pubDate>Mon, 21 Feb 2022 14:11:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: React Alternatives?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在播客中使用ML来压制Lex Fridman的声音？]]></title>
+            <link>https://news.ycombinator.com/item?id=30415850</link>
+            <guid>https://news.ycombinator.com/item?id=30415850</guid>
+            <pubDate>Mon, 21 Feb 2022 13:52:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Using ML to silence Lex Fridman voice on podcasts?]]></description>
+        </item>
         <item>
             <title><![CDATA[Ask HN的页面坏了吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30416063</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30142046</guid>
             <pubDate>Sun, 30 Jan 2022 22:47:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Good resources for learning x86 assembly?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个男人依靠妻子的稳定收入来追求独立开发可以吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30141727</link>
-            <guid>https://news.ycombinator.com/item?id=30141727</guid>
-            <pubDate>Sun, 30 Jan 2022 22:14:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Ok for a man to depend on his wife’s stable income to pursue indie dev?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FHE能否解决PoW的能源问题？]]></title>
-            <link>https://news.ycombinator.com/item?id=30141562</link>
-            <guid>https://news.ycombinator.com/item?id=30141562</guid>
-            <pubDate>Sun, 30 Jan 2022 21:57:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can FHE solve the PoW energy problem?]]></description>
         </item>
     </channel>
 </rss>
