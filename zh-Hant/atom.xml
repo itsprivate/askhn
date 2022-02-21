@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T01:47:37.346Z</updated>
+    <updated>2022-02-21T02:22:17.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪裡找到你的技術（或非技術）聯合創始人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30411111</id>
+        <link href="https://news.ycombinator.com/item?id=30411111"/>
+        <updated>2022-02-21T01:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where did you find your technical (or non-technical) co-founder?]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什麼搜索引擎來預訂酒店和尋找好玩的地方？]]></title>
         <id>https://news.ycombinator.com/item?id=30410846</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Goleniewski</name>
             <uri>https://news.ycombinator.com/user?id=Goleniewski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年，你對WebSocket遊戲的解決方案會是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30137503</id>
-        <link href="https://news.ycombinator.com/item?id=30137503"/>
-        <updated>2022-01-30T14:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would be your go to solution for WebSocket games in 2022?]]></summary>
-        <author>
-            <name>hwers</name>
-            <uri>https://news.ycombinator.com/user?id=hwers</uri>
         </author>
     </entry>
 </feed>
