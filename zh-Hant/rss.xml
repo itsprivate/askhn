@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Feb 2022 18:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 19:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Rust/Java中，你理想的IDE體驗是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30419592</link>
+            <guid>https://news.ycombinator.com/item?id=30419592</guid>
+            <pubDate>Mon, 21 Feb 2022 19:26:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: What would be your ideal IDE experience be in Rust/Java?]]></description>
+        </item>
         <item>
             <title><![CDATA[定製的HN活動饋送到你的郵箱？]]></title>
             <link>https://news.ycombinator.com/item?id=30419208</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30146516</guid>
             <pubDate>Mon, 31 Jan 2022 10:23:37 GMT</pubDate>
             <description><![CDATA[Ask HN: GitHub and Bitbucket end support for password auth for CLI - Now what?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯和烏克蘭部隊有可能拒絕作戰嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30146370</link>
-            <guid>https://news.ycombinator.com/item?id=30146370</guid>
-            <pubDate>Mon, 31 Jan 2022 10:00:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Could it be possible for Russian and Ukrainian Troops to refuse combat?]]></description>
         </item>
     </channel>
 </rss>

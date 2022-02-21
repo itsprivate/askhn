@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-21T18:55:06.919Z</updated>
+    <updated>2022-02-21T19:38:30.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Rust/Java中，你理想的IDE体验是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30419592</id>
+        <link href="https://news.ycombinator.com/item?id=30419592"/>
+        <updated>2022-02-21T19:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would be your ideal IDE experience be in Rust/Java?]]></summary>
+        <author>
+            <name>vyomkeshj</name>
+            <uri>https://news.ycombinator.com/user?id=vyomkeshj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[定制的HN活动馈送到你的邮箱？]]></title>
         <id>https://news.ycombinator.com/item?id=30419208</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>weezee</name>
             <uri>https://news.ycombinator.com/user?id=weezee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯和乌克兰部队有可能拒绝作战吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30146370</id>
-        <link href="https://news.ycombinator.com/item?id=30146370"/>
-        <updated>2022-01-31T10:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could it be possible for Russian and Ukrainian Troops to refuse combat?]]></summary>
-        <author>
-            <name>choletentent</name>
-            <uri>https://news.ycombinator.com/user?id=choletentent</uri>
         </author>
     </entry>
 </feed>
