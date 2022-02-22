@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T20:18:20.022Z</updated>
+    <updated>2022-02-22T20:53:58.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[夫妇们避免生孩子是因为他们会害怕自己的死亡吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30433414</id>
+        <link href="https://news.ycombinator.com/item?id=30433414"/>
+        <updated>2022-02-22T20:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do couples avoid having children because they will fear their own death?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于网络刮削和数据分析的指导意见]]></title>
         <id>https://news.ycombinator.com/item?id=30432820</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>underpeak</name>
             <uri>https://news.ycombinator.com/user?id=underpeak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我跳上自留地的浪潮是否犯了一个错误？]]></title>
-        <id>https://news.ycombinator.com/item?id=30161578</id>
-        <link href="https://news.ycombinator.com/item?id=30161578"/>
-        <updated>2022-02-01T12:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did I make a mistake jumping on the homestead bandwagon?]]></summary>
-        <author>
-            <name>sigmaprimus</name>
-            <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
         </author>
     </entry>
 </feed>
