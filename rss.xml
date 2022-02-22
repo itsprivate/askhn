@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 17:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我如何删除我的HN账户？]]></title>
+            <link>https://news.ycombinator.com/item?id=30430789</link>
+            <guid>https://news.ycombinator.com/item?id=30430789</guid>
+            <pubDate>Tue, 22 Feb 2022 17:34:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I delete my HN account?]]></description>
+        </item>
         <item>
             <title><![CDATA[我刚刚让自己的恐慌症发作。我怎样才能停止这一切呢？]]></title>
             <link>https://news.ycombinator.com/item?id=30430553</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30160348</guid>
             <pubDate>Tue, 01 Feb 2022 09:30:19 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you do to jump start your brain in the morning?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何解释现代软件的马虎呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30160282</link>
-            <guid>https://news.ycombinator.com/item?id=30160282</guid>
-            <pubDate>Tue, 01 Feb 2022 09:20:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you explain the sloppiness of modern software?]]></description>
         </item>
     </channel>
 </rss>
