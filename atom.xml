@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T16:51:07.245Z</updated>
+    <updated>2022-02-22T17:06:09.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BitWarden主密码不再起作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30430349</id>
+        <link href="https://news.ycombinator.com/item?id=30430349"/>
+        <updated>2022-02-22T16:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: BitWarden Master Password No Longer Works]]></summary>
+        <author>
+            <name>rcconf</name>
+            <uri>https://news.ycombinator.com/user?id=rcconf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建视觉系统而不懂ML？]]></title>
+        <id>https://news.ycombinator.com/item?id=30430348</id>
+        <link href="https://news.ycombinator.com/item?id=30430348"/>
+        <updated>2022-02-22T16:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Building vision systems without knowing ML?]]></summary>
+        <author>
+            <name>mvoodarla</name>
+            <uri>https://news.ycombinator.com/user?id=mvoodarla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能否请你分享一下你的SaaS使用的是哪种SaaS？]]></title>
+        <id>https://news.ycombinator.com/item?id=30430334</id>
+        <link href="https://news.ycombinator.com/item?id=30430334"/>
+        <updated>2022-02-22T16:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could you please share which SaaS you are using for your SaaS?]]></summary>
+        <author>
+            <name>mrwnmonm</name>
+            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习如何编写游戏作弊器/mods的最受欢迎的资源]]></title>
         <id>https://news.ycombinator.com/item?id=30430068</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>jicea</name>
             <uri>https://news.ycombinator.com/user?id=jicea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polycam 3D重建背后的算法是什么？有吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30159245</id>
-        <link href="https://news.ycombinator.com/item?id=30159245"/>
-        <updated>2022-02-01T06:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the algorithm behind Polycam 3D reconstruction? Any one?]]></summary>
-        <author>
-            <name>starboyy</name>
-            <uri>https://news.ycombinator.com/user?id=starboyy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否担任高级职务，并在大流行后远离总部搬迁？]]></title>
-        <id>https://news.ycombinator.com/item?id=30158921</id>
-        <link href="https://news.ycombinator.com/item?id=30158921"/>
-        <updated>2022-02-01T05:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you in a senior role and relocated far from HQ since pandemic?]]></summary>
-        <author>
-            <name>xrd</name>
-            <uri>https://news.ycombinator.com/user?id=xrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何以低于Twilio的价格发送大量短信？]]></title>
-        <id>https://news.ycombinator.com/item?id=30158508</id>
-        <link href="https://news.ycombinator.com/item?id=30158508"/>
-        <updated>2022-02-01T04:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to send lots of SMS for less than Twilio?]]></summary>
-        <author>
-            <name>ShrigmaMale</name>
-            <uri>https://news.ycombinator.com/user?id=ShrigmaMale</uri>
         </author>
     </entry>
 </feed>
