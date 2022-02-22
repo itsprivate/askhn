@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T06:55:01.777Z</updated>
+    <updated>2022-02-22T08:16:20.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何知道一個問題是否足夠大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30425160</id>
+        <link href="https://news.ycombinator.com/item?id=30425160"/>
+        <updated>2022-02-22T07:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do know if a problem is big enough?]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習數字營銷的路線圖是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30423616</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kbrannigan</name>
             <uri>https://news.ycombinator.com/user?id=kbrannigan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你所見過的公司中最低效的事情是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30153697</id>
-        <link href="https://news.ycombinator.com/item?id=30153697"/>
-        <updated>2022-01-31T20:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most inefficient thing you have ever seen in a company?]]></summary>
-        <author>
-            <name>denysvitali</name>
-            <uri>https://news.ycombinator.com/user?id=denysvitali</uri>
         </author>
     </entry>
 </feed>
