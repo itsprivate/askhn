@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 15:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 16:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么最初的Slack帖子会从头版上掉下来？]]></title>
+            <link>https://news.ycombinator.com/item?id=30429517</link>
+            <guid>https://news.ycombinator.com/item?id=30429517</guid>
+            <pubDate>Tue, 22 Feb 2022 16:02:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Did the Original Slack Post Fall Off the Front Page?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果Stack Overflow关闭，会发生什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30429407</link>
+            <guid>https://news.ycombinator.com/item?id=30429407</guid>
+            <pubDate>Tue, 22 Feb 2022 15:52:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: What would happen if Stack Overflow shut down?]]></description>
+        </item>
         <item>
             <title><![CDATA[作为乌克兰危机的一部分，你的组织是否在为俄罗斯的黑客攻击做准备？]]></title>
             <link>https://news.ycombinator.com/item?id=30429249</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30157766</guid>
             <pubDate>Tue, 01 Feb 2022 02:11:00 GMT</pubDate>
             <description><![CDATA[Ask HN: Book comparing major programming languages at a technical level?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Galvanize是否已经完全清除了Hack Reactor品牌？]]></title>
-            <link>https://news.ycombinator.com/item?id=30157719</link>
-            <guid>https://news.ycombinator.com/item?id=30157719</guid>
-            <pubDate>Tue, 01 Feb 2022 02:03:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: Has Galvanize completely gutted the Hack Reactor brand?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[评估一个堆栈的最小可测试应用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30157708</link>
-            <guid>https://news.ycombinator.com/item?id=30157708</guid>
-            <pubDate>Tue, 01 Feb 2022 02:01:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Minimum testable application to evaluate a stack?]]></description>
         </item>
     </channel>
 </rss>

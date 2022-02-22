@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T15:49:50.160Z</updated>
+    <updated>2022-02-22T16:18:24.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么最初的Slack帖子会从头版上掉下来？]]></title>
+        <id>https://news.ycombinator.com/item?id=30429517</id>
+        <link href="https://news.ycombinator.com/item?id=30429517"/>
+        <updated>2022-02-22T16:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Did the Original Slack Post Fall Off the Front Page?]]></summary>
+        <author>
+            <name>doctoroctogon</name>
+            <uri>https://news.ycombinator.com/user?id=doctoroctogon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果Stack Overflow关闭，会发生什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30429407</id>
+        <link href="https://news.ycombinator.com/item?id=30429407"/>
+        <updated>2022-02-22T15:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would happen if Stack Overflow shut down?]]></summary>
+        <author>
+            <name>anondevvie</name>
+            <uri>https://news.ycombinator.com/user?id=anondevvie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为乌克兰危机的一部分，你的组织是否在为俄罗斯的黑客攻击做准备？]]></title>
         <id>https://news.ycombinator.com/item?id=30429249</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>da39a3ee</name>
             <uri>https://news.ycombinator.com/user?id=da39a3ee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galvanize是否已经完全清除了Hack Reactor品牌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30157719</id>
-        <link href="https://news.ycombinator.com/item?id=30157719"/>
-        <updated>2022-02-01T02:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Galvanize completely gutted the Hack Reactor brand?]]></summary>
-        <author>
-            <name>legerdemain</name>
-            <uri>https://news.ycombinator.com/user?id=legerdemain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[评估一个堆栈的最小可测试应用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30157708</id>
-        <link href="https://news.ycombinator.com/item?id=30157708"/>
-        <updated>2022-02-01T02:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Minimum testable application to evaluate a stack?]]></summary>
-        <author>
-            <name>uptownfunk</name>
-            <uri>https://news.ycombinator.com/user?id=uptownfunk</uri>
         </author>
     </entry>
 </feed>
