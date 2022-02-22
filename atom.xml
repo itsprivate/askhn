@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T19:53:49.318Z</updated>
+    <updated>2022-02-22T20:18:20.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于网络刮削和数据分析的指导意见]]></title>
+        <id>https://news.ycombinator.com/item?id=30432820</id>
+        <link href="https://news.ycombinator.com/item?id=30432820"/>
+        <updated>2022-02-22T19:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Guidance on Web Scraping and Data Analysis]]></summary>
+        <author>
+            <name>fractal618</name>
+            <uri>https://news.ycombinator.com/user?id=fractal618</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何远程帮助我年迈的祖母？]]></title>
         <id>https://news.ycombinator.com/item?id=30432517</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sigmaprimus</name>
             <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worlde、Flappy Bird等有什么不同？]]></title>
-        <id>https://news.ycombinator.com/item?id=30161303</id>
-        <link href="https://news.ycombinator.com/item?id=30161303"/>
-        <updated>2022-02-01T11:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's so different about Worlde, Flappy Bird etc.?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>

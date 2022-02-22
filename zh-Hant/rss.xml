@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 19:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 20:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於網絡刮削和數據分析的指導意見]]></title>
+            <link>https://news.ycombinator.com/item?id=30432820</link>
+            <guid>https://news.ycombinator.com/item?id=30432820</guid>
+            <pubDate>Tue, 22 Feb 2022 19:56:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Guidance on Web Scraping and Data Analysis]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何遠程幫助我年邁的祖母？]]></title>
             <link>https://news.ycombinator.com/item?id=30432517</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30161578</guid>
             <pubDate>Tue, 01 Feb 2022 12:26:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Did I make a mistake jumping on the homestead bandwagon?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Worlde、Flappy Bird等有什麼不同？]]></title>
-            <link>https://news.ycombinator.com/item?id=30161303</link>
-            <guid>https://news.ycombinator.com/item?id=30161303</guid>
-            <pubDate>Tue, 01 Feb 2022 11:45:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's so different about Worlde, Flappy Bird etc.?]]></description>
         </item>
     </channel>
 </rss>
