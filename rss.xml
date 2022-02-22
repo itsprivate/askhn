@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 20:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 21:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有谁在处理Disqus的垃圾邮件？]]></title>
+            <link>https://news.ycombinator.com/item?id=30433738</link>
+            <guid>https://news.ycombinator.com/item?id=30433738</guid>
+            <pubDate>Tue, 22 Feb 2022 21:02:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone else dealing with Disqus Spam?]]></description>
+        </item>
         <item>
             <title><![CDATA[夫妇们避免生孩子是因为他们会害怕自己的死亡吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30433414</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30162083</guid>
             <pubDate>Tue, 01 Feb 2022 13:30:41 GMT</pubDate>
             <description><![CDATA[Ask HN: How to create a self sufficient home?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PyTorch和图形数据库的共生关系]]></title>
-            <link>https://news.ycombinator.com/item?id=30161620</link>
-            <guid>https://news.ycombinator.com/item?id=30161620</guid>
-            <pubDate>Tue, 01 Feb 2022 12:31:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Cohabitation of PyTorch and a Graph DB]]></description>
         </item>
     </channel>
 </rss>
