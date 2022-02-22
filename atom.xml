@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T09:14:58.207Z</updated>
+    <updated>2022-02-22T10:15:24.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[树莓派（Linux）与ESP（RTOS）的物联网应用案例对比]]></title>
+        <id>https://news.ycombinator.com/item?id=30425969</id>
+        <link href="https://news.ycombinator.com/item?id=30425969"/>
+        <updated>2022-02-22T09:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Raspberry Pi (Linux) vs. ESP (RTOS) for IoT Use Cases]]></summary>
+        <author>
+            <name>michidk</name>
+            <uri>https://news.ycombinator.com/user?id=michidk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS应用在（不）插屏时将窗口保持在定义的空间内？]]></title>
+        <id>https://news.ycombinator.com/item?id=30425934</id>
+        <link href="https://news.ycombinator.com/item?id=30425934"/>
+        <updated>2022-02-22T09:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: macOS app to keep windows in defined spaces when (un)plugging screens?]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Wordle解决方案来测试形态共振的理论]]></title>
         <id>https://news.ycombinator.com/item?id=30425436</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[油还是鱼壳？]]></title>
-        <id>https://news.ycombinator.com/item?id=30154652</id>
-        <link href="https://news.ycombinator.com/item?id=30154652"/>
-        <updated>2022-01-31T21:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Oil or Fish Shell?]]></summary>
-        <author>
-            <name>jhoechtl</name>
-            <uri>https://news.ycombinator.com/user?id=jhoechtl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch的低延迟视频是如何工作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30154553</id>
-        <link href="https://news.ycombinator.com/item?id=30154553"/>
-        <updated>2022-01-31T21:20:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does Twitch's low latency video work?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>

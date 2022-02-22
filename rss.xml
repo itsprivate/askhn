@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[树莓派（Linux）与ESP（RTOS）的物联网应用案例对比]]></title>
+            <link>https://news.ycombinator.com/item?id=30425969</link>
+            <guid>https://news.ycombinator.com/item?id=30425969</guid>
+            <pubDate>Tue, 22 Feb 2022 09:59:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Raspberry Pi (Linux) vs. ESP (RTOS) for IoT Use Cases]]></description>
+        </item>
+        <item>
+            <title><![CDATA[macOS应用在（不）插屏时将窗口保持在定义的空间内？]]></title>
+            <link>https://news.ycombinator.com/item?id=30425934</link>
+            <guid>https://news.ycombinator.com/item?id=30425934</guid>
+            <pubDate>Tue, 22 Feb 2022 09:53:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: macOS app to keep windows in defined spaces when (un)plugging screens?]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Wordle解决方案来测试形态共振的理论]]></title>
             <link>https://news.ycombinator.com/item?id=30425436</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30155009</guid>
             <pubDate>Mon, 31 Jan 2022 21:49:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Why not automate addition of IAPs to an app? Would this be feasible?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[油还是鱼壳？]]></title>
-            <link>https://news.ycombinator.com/item?id=30154652</link>
-            <guid>https://news.ycombinator.com/item?id=30154652</guid>
-            <pubDate>Mon, 31 Jan 2022 21:26:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Oil or Fish Shell?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitch的低延迟视频是如何工作的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30154553</link>
-            <guid>https://news.ycombinator.com/item?id=30154553</guid>
-            <pubDate>Mon, 31 Jan 2022 21:20:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: How does Twitch's low latency video work?]]></description>
         </item>
     </channel>
 </rss>
