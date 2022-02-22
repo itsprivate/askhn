@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T05:29:04.860Z</updated>
+    <updated>2022-02-22T06:37:40.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建社區並在託管網絡應用程序時節約成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30424576</id>
+        <link href="https://news.ycombinator.com/item?id=30424576"/>
+        <updated>2022-02-22T06:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Communities for building and saving $$ when hosting web app]]></summary>
+        <author>
+            <name>umen</name>
+            <uri>https://news.ycombinator.com/user?id=umen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼方法可以檢測出在谷歌上進行了SEO優化的網站嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30424279</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>igammarays</name>
             <uri>https://news.ycombinator.com/user?id=igammarays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何幫助我的開發人員解決 "組合測試用例範圍蠕動 "問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30152847</id>
-        <link href="https://news.ycombinator.com/item?id=30152847"/>
-        <updated>2022-01-31T19:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I help my devs solve “combinatorial test case scope creep”?]]></summary>
-        <author>
-            <name>quacked</name>
-            <uri>https://news.ycombinator.com/user?id=quacked</uri>
         </author>
     </entry>
 </feed>

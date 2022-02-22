@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 06:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[构建社区并在托管网络应用程序时节约成本]]></title>
+            <link>https://news.ycombinator.com/item?id=30424576</link>
+            <guid>https://news.ycombinator.com/item?id=30424576</guid>
+            <pubDate>Tue, 22 Feb 2022 06:19:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Communities for building and saving $$ when hosting web app]]></description>
+        </item>
         <item>
             <title><![CDATA[有什么方法可以检测出在谷歌上进行了SEO优化的网站吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30424279</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30153087</guid>
             <pubDate>Mon, 31 Jan 2022 19:36:31 GMT</pubDate>
             <description><![CDATA[Ask HN: What's the largest serverless setup you've seen?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何帮助我的开发人员解决 "组合测试用例范围蠕动 "问题？]]></title>
-            <link>https://news.ycombinator.com/item?id=30152847</link>
-            <guid>https://news.ycombinator.com/item?id=30152847</guid>
-            <pubDate>Mon, 31 Jan 2022 19:23:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I help my devs solve “combinatorial test case scope creep”?]]></description>
         </item>
     </channel>
 </rss>
