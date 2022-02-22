@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T22:12:30.235Z</updated>
+    <updated>2022-02-22T22:32:14.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人用Git作为他们的博客吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30434660</id>
+        <link href="https://news.ycombinator.com/item?id=30434660"/>
+        <updated>2022-02-22T22:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone use Git as their blog?]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我通过电子邮件向ASC中的apply-to-YC发送邮件，并将内容设置为一个月后过期。]]></title>
         <id>https://news.ycombinator.com/item?id=30434404</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>abashore</name>
             <uri>https://news.ycombinator.com/user?id=abashore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Wordle变得如此流行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30162093</id>
-        <link href="https://news.ycombinator.com/item?id=30162093"/>
-        <updated>2022-02-01T13:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Wordle getting so popular?]]></summary>
-        <author>
-            <name>only4here</name>
-            <uri>https://news.ycombinator.com/user?id=only4here</uri>
         </author>
     </entry>
 </feed>
