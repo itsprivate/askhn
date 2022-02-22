@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 19:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 19:53:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我如何远程帮助我年迈的祖母？]]></title>
+            <link>https://news.ycombinator.com/item?id=30432517</link>
+            <guid>https://news.ycombinator.com/item?id=30432517</guid>
+            <pubDate>Tue, 22 Feb 2022 19:34:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I help my elderly grandmother remotely?]]></description>
+        </item>
         <item>
             <title><![CDATA[在扩大团队规模时要设置的非明显的产品/工程流程？]]></title>
             <link>https://news.ycombinator.com/item?id=30432374</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30161303</guid>
             <pubDate>Tue, 01 Feb 2022 11:45:53 GMT</pubDate>
             <description><![CDATA[Ask HN: What's so different about Worlde, Flappy Bird etc.?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否使用任何工具来显示你的组织内的指标？]]></title>
-            <link>https://news.ycombinator.com/item?id=30161189</link>
-            <guid>https://news.ycombinator.com/item?id=30161189</guid>
-            <pubDate>Tue, 01 Feb 2022 11:30:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you use any tools to display metrics within your organization?]]></description>
         </item>
     </channel>
 </rss>
