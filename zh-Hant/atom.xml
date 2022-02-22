@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T17:06:09.531Z</updated>
+    <updated>2022-02-22T17:22:38.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我剛剛讓自己的恐慌症發作。我怎樣才能停止這一切呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30430553</id>
+        <link href="https://news.ycombinator.com/item?id=30430553"/>
+        <updated>2022-02-22T17:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I just gave myself a panic attack. How do I stop this?]]></summary>
+        <author>
+            <name>lsiunsuex</name>
+            <uri>https://news.ycombinator.com/user?id=lsiunsuex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes是不依賴雲的唯一選擇嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30430537</id>
+        <link href="https://news.ycombinator.com/item?id=30430537"/>
+        <updated>2022-02-22T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Kubernetes the only alternative for being cloud agnostic?]]></summary>
+        <author>
+            <name>taylodl</name>
+            <uri>https://news.ycombinator.com/user?id=taylodl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有顧問，你怎麼能寫論文？]]></title>
+        <id>https://news.ycombinator.com/item?id=30430501</id>
+        <link href="https://news.ycombinator.com/item?id=30430501"/>
+        <updated>2022-02-22T17:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can you write a paper without an advisor?]]></summary>
+        <author>
+            <name>jonas_kgomo</name>
+            <uri>https://news.ycombinator.com/user?id=jonas_kgomo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitWarden主密碼不再起作用]]></title>
         <id>https://news.ycombinator.com/item?id=30430349</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>etamponi</name>
             <uri>https://news.ycombinator.com/user?id=etamponi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於文件的照片管理應用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30159936</id>
-        <link href="https://news.ycombinator.com/item?id=30159936"/>
-        <updated>2022-02-01T08:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: File-based photo management applications?]]></summary>
-        <author>
-            <name>ar0</name>
-            <uri>https://news.ycombinator.com/user?id=ar0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼LinkedIn的工作搜索引擎如此糟糕？]]></title>
-        <id>https://news.ycombinator.com/item?id=30159705</id>
-        <link href="https://news.ycombinator.com/item?id=30159705"/>
-        <updated>2022-02-01T07:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is LinkedIn job search engine so AWFUL?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否應該激勵HN用戶使用/訪問最新提交的資料？]]></title>
-        <id>https://news.ycombinator.com/item?id=30159462</id>
-        <link href="https://news.ycombinator.com/item?id=30159462"/>
-        <updated>2022-02-01T07:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should HN users be incentivized to use/visit newest submissions?]]></summary>
-        <author>
-            <name>jicea</name>
-            <uri>https://news.ycombinator.com/user?id=jicea</uri>
         </author>
     </entry>
 </feed>

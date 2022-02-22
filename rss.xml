@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 17:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我刚刚让自己的恐慌症发作。我怎样才能停止这一切呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30430553</link>
+            <guid>https://news.ycombinator.com/item?id=30430553</guid>
+            <pubDate>Tue, 22 Feb 2022 17:14:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: I just gave myself a panic attack. How do I stop this?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetes是不依赖云的唯一选择吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30430537</link>
+            <guid>https://news.ycombinator.com/item?id=30430537</guid>
+            <pubDate>Tue, 22 Feb 2022 17:13:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Kubernetes the only alternative for being cloud agnostic?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[没有顾问，你怎么能写论文？]]></title>
+            <link>https://news.ycombinator.com/item?id=30430501</link>
+            <guid>https://news.ycombinator.com/item?id=30430501</guid>
+            <pubDate>Tue, 22 Feb 2022 17:09:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can you write a paper without an advisor?]]></description>
+        </item>
         <item>
             <title><![CDATA[BitWarden主密码不再起作用]]></title>
             <link>https://news.ycombinator.com/item?id=30430349</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30160282</guid>
             <pubDate>Tue, 01 Feb 2022 09:20:07 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you explain the sloppiness of modern software?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于文件的照片管理应用程序？]]></title>
-            <link>https://news.ycombinator.com/item?id=30159936</link>
-            <guid>https://news.ycombinator.com/item?id=30159936</guid>
-            <pubDate>Tue, 01 Feb 2022 08:25:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: File-based photo management applications?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么LinkedIn的工作搜索引擎如此糟糕？]]></title>
-            <link>https://news.ycombinator.com/item?id=30159705</link>
-            <guid>https://news.ycombinator.com/item?id=30159705</guid>
-            <pubDate>Tue, 01 Feb 2022 07:47:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is LinkedIn job search engine so AWFUL?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否应该激励HN用户使用/访问最新提交的资料？]]></title>
-            <link>https://news.ycombinator.com/item?id=30159462</link>
-            <guid>https://news.ycombinator.com/item?id=30159462</guid>
-            <pubDate>Tue, 01 Feb 2022 07:03:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should HN users be incentivized to use/visit newest submissions?]]></description>
         </item>
     </channel>
 </rss>
