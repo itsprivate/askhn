@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T03:51:44.662Z</updated>
+    <updated>2022-02-22T05:29:04.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么方法可以检测出在谷歌上进行了SEO优化的网站吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30424279</id>
+        <link href="https://news.ycombinator.com/item?id=30424279"/>
+        <updated>2022-02-22T05:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any way to detect websites that are SEO-optimized on Google?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何提高开发效率？]]></title>
         <id>https://news.ycombinator.com/item?id=30423799</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>quacked</name>
             <uri>https://news.ycombinator.com/user?id=quacked</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是Windows/MacOS上最好的安全、用户友好的电子邮件应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30152401</id>
-        <link href="https://news.ycombinator.com/item?id=30152401"/>
-        <updated>2022-01-31T18:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the Best Secure, User-Friendly Email App for Windows/macOS?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
