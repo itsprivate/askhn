@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T00:36:23.552Z</updated>
+    <updated>2022-02-22T01:47:48.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Indiehacker像藝術家的社區？]]></title>
+        <id>https://news.ycombinator.com/item?id=30422766</id>
+        <link href="https://news.ycombinator.com/item?id=30422766"/>
+        <updated>2022-02-22T00:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Indiehacker Like Community for Artists?]]></summary>
+        <author>
+            <name>cgartner</name>
+            <uri>https://news.ycombinator.com/user?id=cgartner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在搜索特定擴展名的文件時，有哪些替代谷歌的方法？]]></title>
         <id>https://news.ycombinator.com/item?id=30422576</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>acadapter</name>
             <uri>https://news.ycombinator.com/user?id=acadapter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[閒置的首次購房者在做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30151141</id>
-        <link href="https://news.ycombinator.com/item?id=30151141"/>
-        <updated>2022-01-31T17:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are idling first-time home buyers doing?]]></summary>
-        <author>
-            <name>windows2020</name>
-            <uri>https://news.ycombinator.com/user?id=windows2020</uri>
         </author>
     </entry>
 </feed>
