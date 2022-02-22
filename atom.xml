@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T02:23:24.362Z</updated>
+    <updated>2022-02-22T02:50:51.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[过去的链接与我的提交有什么关系？]]></title>
+        <id>https://news.ycombinator.com/item?id=30423423</id>
+        <link href="https://news.ycombinator.com/item?id=30423423"/>
+        <updated>2022-02-22T02:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does the past link have to do with my submission?]]></summary>
+        <author>
+            <name>sigmaprimus</name>
+            <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你对关闭所有通知有什么看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30423420</id>
+        <link href="https://news.ycombinator.com/item?id=30423420"/>
+        <updated>2022-02-22T02:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your thoughts on turning all notifications off?]]></summary>
+        <author>
+            <name>kashnote</name>
+            <uri>https://news.ycombinator.com/user?id=kashnote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何学习组织和注意技能的？]]></title>
         <id>https://news.ycombinator.com/item?id=30418424</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>MarcelOlsz</name>
             <uri>https://news.ycombinator.com/user?id=MarcelOlsz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助寻找（再次）StackOverflow的链接:)]]></title>
-        <id>https://news.ycombinator.com/item?id=30151962</id>
-        <link href="https://news.ycombinator.com/item?id=30151962"/>
-        <updated>2022-01-31T18:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Help in finding (again) a StackOverflow link:)]]></summary>
-        <author>
-            <name>wgromit</name>
-            <uri>https://news.ycombinator.com/user?id=wgromit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在做全平台代码共享？]]></title>
-        <id>https://news.ycombinator.com/item?id=30151472</id>
-        <link href="https://news.ycombinator.com/item?id=30151472"/>
-        <updated>2022-01-31T18:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who does omni-platform code sharing?]]></summary>
-        <author>
-            <name>jconley</name>
-            <uri>https://news.ycombinator.com/user?id=jconley</uri>
         </author>
     </entry>
 </feed>

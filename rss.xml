@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[过去的链接与我的提交有什么关系？]]></title>
+            <link>https://news.ycombinator.com/item?id=30423423</link>
+            <guid>https://news.ycombinator.com/item?id=30423423</guid>
+            <pubDate>Tue, 22 Feb 2022 02:31:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: What does the past link have to do with my submission?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你对关闭所有通知有什么看法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30423420</link>
+            <guid>https://news.ycombinator.com/item?id=30423420</guid>
+            <pubDate>Tue, 22 Feb 2022 02:30:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are your thoughts on turning all notifications off?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何学习组织和注意技能的？]]></title>
             <link>https://news.ycombinator.com/item?id=30418424</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30152249</guid>
             <pubDate>Mon, 31 Jan 2022 18:46:53 GMT</pubDate>
             <description><![CDATA[Ask HN: You have 1 week to get as good as possible at Ruby. What do you do?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帮助寻找（再次）StackOverflow的链接:)]]></title>
-            <link>https://news.ycombinator.com/item?id=30151962</link>
-            <guid>https://news.ycombinator.com/item?id=30151962</guid>
-            <pubDate>Mon, 31 Jan 2022 18:30:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Help in finding (again) a StackOverflow link:)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁在做全平台代码共享？]]></title>
-            <link>https://news.ycombinator.com/item?id=30151472</link>
-            <guid>https://news.ycombinator.com/item?id=30151472</guid>
-            <pubDate>Mon, 31 Jan 2022 18:02:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who does omni-platform code sharing?]]></description>
         </item>
     </channel>
 </rss>
