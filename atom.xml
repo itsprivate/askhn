@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T15:20:42.832Z</updated>
+    <updated>2022-02-22T15:49:50.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为乌克兰危机的一部分，你的组织是否在为俄罗斯的黑客攻击做准备？]]></title>
+        <id>https://news.ycombinator.com/item?id=30429249</id>
+        <link href="https://news.ycombinator.com/item?id=30429249"/>
+        <updated>2022-02-22T15:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is your org preparing for Russian hacking as part of Ukrainian crisis?]]></summary>
+        <author>
+            <name>tiahura</name>
+            <uri>https://news.ycombinator.com/user?id=tiahura</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[难道只有我一个人对Twitter的长期使用感到困惑吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30428652</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>uptownfunk</name>
             <uri>https://news.ycombinator.com/user?id=uptownfunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Play阻止持续交付]]></title>
-        <id>https://news.ycombinator.com/item?id=30157464</id>
-        <link href="https://news.ycombinator.com/item?id=30157464"/>
-        <updated>2022-02-01T01:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google Play prevents continuous delivery]]></summary>
-        <author>
-            <name>quambene</name>
-            <uri>https://news.ycombinator.com/user?id=quambene</uri>
         </author>
     </entry>
 </feed>
