@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T19:27:50.152Z</updated>
+    <updated>2022-02-22T19:39:41.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在扩大团队规模时要设置的非明显的产品/工程流程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30432374</id>
+        <link href="https://news.ycombinator.com/item?id=30432374"/>
+        <updated>2022-02-22T19:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-obvious product/engineering processes to set up when scaling team?]]></summary>
+        <author>
+            <name>tiivik</name>
+            <uri>https://news.ycombinator.com/user?id=tiivik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序员的轻松灵活的副业？]]></title>
         <id>https://news.ycombinator.com/item?id=30432307</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>m88m</name>
             <uri>https://news.ycombinator.com/user?id=m88m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDPR可能意味着我们不能在美国请求任何第三方服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30160953</id>
-        <link href="https://news.ycombinator.com/item?id=30160953"/>
-        <updated>2022-02-01T10:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: GDPR might mean we cannot request any 3rd party service in the US?]]></summary>
-        <author>
-            <name>aliswe</name>
-            <uri>https://news.ycombinator.com/user?id=aliswe</uri>
         </author>
     </entry>
 </feed>
