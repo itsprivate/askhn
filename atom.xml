@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-22T01:47:47.979Z</updated>
+    <updated>2022-02-22T02:23:24.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何学习组织和注意技能的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30418424</id>
+        <link href="https://news.ycombinator.com/item?id=30418424"/>
+        <updated>2022-02-21T17:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you learn organizing and attention skills?]]></summary>
+        <author>
+            <name>anon_9867864</name>
+            <uri>https://news.ycombinator.com/user?id=anon_9867864</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indiehacker像艺术家的社区？]]></title>
         <id>https://news.ycombinator.com/item?id=30422766</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jconley</name>
             <uri>https://news.ycombinator.com/user?id=jconley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么在加载图片时文字会跳来跳去？这是一个错误还是一个特点？]]></title>
-        <id>https://news.ycombinator.com/item?id=30151191</id>
-        <link href="https://news.ycombinator.com/item?id=30151191"/>
-        <updated>2022-01-31T17:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does text jump around during images load? Is it a bug or a feature?]]></summary>
-        <author>
-            <name>acadapter</name>
-            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
         </author>
     </entry>
 </feed>

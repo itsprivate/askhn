@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Feb 2022 01:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何學習組織和注意技能的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30418424</link>
+            <guid>https://news.ycombinator.com/item?id=30418424</guid>
+            <pubDate>Mon, 21 Feb 2022 17:39:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: How did you learn organizing and attention skills?]]></description>
+        </item>
         <item>
             <title><![CDATA[Indiehacker像藝術家的社區？]]></title>
             <link>https://news.ycombinator.com/item?id=30422766</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30151472</guid>
             <pubDate>Mon, 31 Jan 2022 18:02:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Who does omni-platform code sharing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼在加載圖片時文字會跳來跳去？這是一個錯誤還是一個特點？]]></title>
-            <link>https://news.ycombinator.com/item?id=30151191</link>
-            <guid>https://news.ycombinator.com/item?id=30151191</guid>
-            <pubDate>Mon, 31 Jan 2022 17:47:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why does text jump around during images load? Is it a bug or a feature?]]></description>
         </item>
     </channel>
 </rss>
