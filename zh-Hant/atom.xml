@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T08:38:02.474Z</updated>
+    <updated>2022-02-23T08:47:15.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人對非遠程列表的工作委員會感興趣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30439046</id>
+        <link href="https://news.ycombinator.com/item?id=30439046"/>
+        <updated>2022-02-23T08:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would anyone be interested in a job board for non-remote listings?]]></summary>
+        <author>
+            <name>obaid</name>
+            <uri>https://news.ycombinator.com/user?id=obaid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何監測社會媒體和社區參與？]]></title>
         <id>https://news.ycombinator.com/item?id=30438922</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jjtheblunt</name>
             <uri>https://news.ycombinator.com/user?id=jjtheblunt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰被拉回辦公室了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30277497</id>
-        <link href="https://news.ycombinator.com/item?id=30277497"/>
-        <updated>2022-02-09T19:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who's getting pulled back into the office?]]></summary>
-        <author>
-            <name>brtkdotse</name>
-            <uri>https://news.ycombinator.com/user?id=brtkdotse</uri>
         </author>
     </entry>
 </feed>
