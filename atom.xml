@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T07:31:09.620Z</updated>
+    <updated>2022-02-23T07:53:21.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GDPR弹出窗口越来越多，我们应该怎么做？]]></title>
+        <id>https://news.ycombinator.com/item?id=30438663</id>
+        <link href="https://news.ycombinator.com/item?id=30438663"/>
+        <updated>2022-02-23T07:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: GDPR pop-ups are getting so annying, what should we do about it?]]></summary>
+        <author>
+            <name>smoqadam</name>
+            <uri>https://news.ycombinator.com/user?id=smoqadam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品中太多的错误和功能]]></title>
         <id>https://news.ycombinator.com/item?id=30438598</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baalimago</name>
             <uri>https://news.ycombinator.com/user?id=baalimago</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重视社会网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30276398</id>
-        <link href="https://news.ycombinator.com/item?id=30276398"/>
-        <updated>2022-02-09T18:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Valuing Social Networks]]></summary>
-        <author>
-            <name>quantified</name>
-            <uri>https://news.ycombinator.com/user?id=quantified</uri>
         </author>
     </entry>
 </feed>

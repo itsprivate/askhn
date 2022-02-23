@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 07:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GDPR弹出窗口越来越多，我们应该怎么做？]]></title>
+            <link>https://news.ycombinator.com/item?id=30438663</link>
+            <guid>https://news.ycombinator.com/item?id=30438663</guid>
+            <pubDate>Wed, 23 Feb 2022 07:38:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: GDPR pop-ups are getting so annying, what should we do about it?]]></description>
+        </item>
         <item>
             <title><![CDATA[产品中太多的错误和功能]]></title>
             <link>https://news.ycombinator.com/item?id=30438598</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30276534</guid>
             <pubDate>Wed, 09 Feb 2022 18:41:41 GMT</pubDate>
             <description><![CDATA[Ask HN: How to deal with un-agile agile development?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重视社会网络]]></title>
-            <link>https://news.ycombinator.com/item?id=30276398</link>
-            <guid>https://news.ycombinator.com/item?id=30276398</guid>
-            <pubDate>Wed, 09 Feb 2022 18:33:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Valuing Social Networks]]></description>
         </item>
     </channel>
 </rss>
