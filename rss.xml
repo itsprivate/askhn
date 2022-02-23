@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有谁对大规模的服务器发送事件有经验？]]></title>
+            <link>https://news.ycombinator.com/item?id=30439578</link>
+            <guid>https://news.ycombinator.com/item?id=30439578</guid>
+            <pubDate>Wed, 23 Feb 2022 10:08:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any one with experience with Server Sent Event at scale?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[去哪里学习决策的知识]]></title>
+            <link>https://news.ycombinator.com/item?id=30439504</link>
+            <guid>https://news.ycombinator.com/item?id=30439504</guid>
+            <pubDate>Wed, 23 Feb 2022 09:57:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to go to learn about decison making]]></description>
+        </item>
         <item>
             <title><![CDATA[德国CamelCase?]]></title>
             <link>https://news.ycombinator.com/item?id=30439138</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30278631</guid>
             <pubDate>Wed, 09 Feb 2022 21:19:51 GMT</pubDate>
             <description><![CDATA[Ask HN: Whats the tech stack that top-tier hackers use for staying undetectable?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub的流量页面关闭了吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30278104</link>
-            <guid>https://news.ycombinator.com/item?id=30278104</guid>
-            <pubDate>Wed, 09 Feb 2022 20:34:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is GitHub traffic page down?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你2021年阅读清单中的好书？]]></title>
-            <link>https://news.ycombinator.com/item?id=30277713</link>
-            <guid>https://news.ycombinator.com/item?id=30277713</guid>
-            <pubDate>Wed, 09 Feb 2022 20:06:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Great Books from your 2021 Reading List?]]></description>
         </item>
     </channel>
 </rss>

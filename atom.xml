@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T09:13:48.585Z</updated>
+    <updated>2022-02-23T10:14:19.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁对大规模的服务器发送事件有经验？]]></title>
+        <id>https://news.ycombinator.com/item?id=30439578</id>
+        <link href="https://news.ycombinator.com/item?id=30439578"/>
+        <updated>2022-02-23T10:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any one with experience with Server Sent Event at scale?]]></summary>
+        <author>
+            <name>iraldir</name>
+            <uri>https://news.ycombinator.com/user?id=iraldir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去哪里学习决策的知识]]></title>
+        <id>https://news.ycombinator.com/item?id=30439504</id>
+        <link href="https://news.ycombinator.com/item?id=30439504"/>
+        <updated>2022-02-23T09:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to go to learn about decison making]]></summary>
+        <author>
+            <name>navyad</name>
+            <uri>https://news.ycombinator.com/user?id=navyad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国CamelCase?]]></title>
         <id>https://news.ycombinator.com/item?id=30439138</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pancakeswapme</name>
             <uri>https://news.ycombinator.com/user?id=pancakeswapme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的流量页面关闭了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30278104</id>
-        <link href="https://news.ycombinator.com/item?id=30278104"/>
-        <updated>2022-02-09T20:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is GitHub traffic page down?]]></summary>
-        <author>
-            <name>java-man</name>
-            <uri>https://news.ycombinator.com/user?id=java-man</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你2021年阅读清单中的好书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30277713</id>
-        <link href="https://news.ycombinator.com/item?id=30277713"/>
-        <updated>2022-02-09T20:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Great Books from your 2021 Reading List?]]></summary>
-        <author>
-            <name>eezurr</name>
-            <uri>https://news.ycombinator.com/user?id=eezurr</uri>
         </author>
     </entry>
 </feed>
