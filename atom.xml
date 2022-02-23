@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T02:05:15.261Z</updated>
+    <updated>2022-02-23T02:35:11.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚的创始人签证]]></title>
+        <id>https://news.ycombinator.com/item?id=30436836</id>
+        <link href="https://news.ycombinator.com/item?id=30436836"/>
+        <updated>2022-02-23T02:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Founder Visas for Australia]]></summary>
+        <author>
+            <name>solresol</name>
+            <uri>https://news.ycombinator.com/user?id=solresol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为你的用户提供一个小型的电子邮件账户？]]></title>
         <id>https://news.ycombinator.com/item?id=30436549</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC是否投资于赌博业的初创公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273617</id>
-        <link href="https://news.ycombinator.com/item?id=30273617"/>
-        <updated>2022-02-09T15:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does YC invest in gambling startups?]]></summary>
-        <author>
-            <name>alex-wallish</name>
-            <uri>https://news.ycombinator.com/user?id=alex-wallish</uri>
         </author>
     </entry>
 </feed>
