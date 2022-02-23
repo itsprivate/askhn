@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德国CamelCase?]]></title>
+            <link>https://news.ycombinator.com/item?id=30439138</link>
+            <guid>https://news.ycombinator.com/item?id=30439138</guid>
+            <pubDate>Wed, 23 Feb 2022 08:56:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: German CamelCase?]]></description>
+        </item>
         <item>
             <title><![CDATA[有没有人对非远程列表的工作委员会感兴趣？]]></title>
             <link>https://news.ycombinator.com/item?id=30439046</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30277713</guid>
             <pubDate>Wed, 09 Feb 2022 20:06:20 GMT</pubDate>
             <description><![CDATA[Ask HN: Great Books from your 2021 Reading List?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是macOS上launchctl中的com.vix.cron？]]></title>
-            <link>https://news.ycombinator.com/item?id=30277525</link>
-            <guid>https://news.ycombinator.com/item?id=30277525</guid>
-            <pubDate>Wed, 09 Feb 2022 19:52:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is com.vix.cron in launchctl on macOS?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T08:47:15.208Z</updated>
+    <updated>2022-02-23T09:13:48.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国CamelCase?]]></title>
+        <id>https://news.ycombinator.com/item?id=30439138</id>
+        <link href="https://news.ycombinator.com/item?id=30439138"/>
+        <updated>2022-02-23T08:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: German CamelCase?]]></summary>
+        <author>
+            <name>alcover</name>
+            <uri>https://news.ycombinator.com/user?id=alcover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人对非远程列表的工作委员会感兴趣？]]></title>
         <id>https://news.ycombinator.com/item?id=30439046</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eezurr</name>
             <uri>https://news.ycombinator.com/user?id=eezurr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是macOS上launchctl中的com.vix.cron？]]></title>
-        <id>https://news.ycombinator.com/item?id=30277525</id>
-        <link href="https://news.ycombinator.com/item?id=30277525"/>
-        <updated>2022-02-09T19:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is com.vix.cron in launchctl on macOS?]]></summary>
-        <author>
-            <name>jjtheblunt</name>
-            <uri>https://news.ycombinator.com/user?id=jjtheblunt</uri>
         </author>
     </entry>
 </feed>
