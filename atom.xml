@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T08:13:47.389Z</updated>
+    <updated>2022-02-23T08:38:02.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何监测社会媒体和社区参与？]]></title>
+        <id>https://news.ycombinator.com/item?id=30438922</id>
+        <link href="https://news.ycombinator.com/item?id=30438922"/>
+        <updated>2022-02-23T08:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you monitor social media and community engagement?]]></summary>
+        <author>
+            <name>nyellin</name>
+            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果可以起诉一个复制macOS "外观和感觉 "的操作系统项目吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30438905</id>
+        <link href="https://news.ycombinator.com/item?id=30438905"/>
+        <updated>2022-02-23T08:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can Apple sue an OS project replicating macOS's “look and feel”?]]></summary>
+        <author>
+            <name>apatheticonion</name>
+            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在没有启用2FA的情况下，使用Bitwarden是否安全？]]></title>
         <id>https://news.ycombinator.com/item?id=30438805</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>brtkdotse</name>
             <uri>https://news.ycombinator.com/user?id=brtkdotse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邮件用户代理的状况有那么悲哀吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30275629</id>
-        <link href="https://news.ycombinator.com/item?id=30275629"/>
-        <updated>2022-02-09T17:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the state of mail user agents that sad?]]></summary>
-        <author>
-            <name>s5806533</name>
-            <uri>https://news.ycombinator.com/user?id=s5806533</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[需要有人在移动端重塑Stumble upon的形象]]></title>
-        <id>https://news.ycombinator.com/item?id=30277223</id>
-        <link href="https://news.ycombinator.com/item?id=30277223"/>
-        <updated>2022-02-09T19:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Someone needs to reinvent stumble upon for mobile]]></summary>
-        <author>
-            <name>shisisms</name>
-            <uri>https://news.ycombinator.com/user?id=shisisms</uri>
         </author>
     </entry>
 </feed>
