@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T06:38:00.327Z</updated>
+    <updated>2022-02-23T06:56:12.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那么，摩尔定律到底死了没有？]]></title>
+        <id>https://news.ycombinator.com/item?id=30438381</id>
+        <link href="https://news.ycombinator.com/item?id=30438381"/>
+        <updated>2022-02-23T06:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: So, did Moore's Law die or not?]]></summary>
+        <author>
+            <name>uejfiweun</name>
+            <uri>https://news.ycombinator.com/user?id=uejfiweun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whois公司以广告驱动的商业模式启动一个项目]]></title>
         <id>https://news.ycombinator.com/item?id=30438304</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不是一个有竞争力的人，这对我的职业生涯会有什么影响？]]></title>
-        <id>https://news.ycombinator.com/item?id=30275825</id>
-        <link href="https://news.ycombinator.com/item?id=30275825"/>
-        <updated>2022-02-09T18:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I am not a competitive guy, how will it affect my career?]]></summary>
-        <author>
-            <name>throwaway1183</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway1183</uri>
         </author>
     </entry>
 </feed>
