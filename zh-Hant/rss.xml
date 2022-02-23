@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 00:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為你的用戶提供一個小型的電子郵件賬戶？]]></title>
+            <link>https://news.ycombinator.com/item?id=30436549</link>
+            <guid>https://news.ycombinator.com/item?id=30436549</guid>
+            <pubDate>Wed, 23 Feb 2022 01:48:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Provide a small email account to your users?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼沒有更多的軟件項目使用BitTorrent進行下載？]]></title>
+            <link>https://news.ycombinator.com/item?id=30436367</link>
+            <guid>https://news.ycombinator.com/item?id=30436367</guid>
+            <pubDate>Wed, 23 Feb 2022 01:22:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why don't more software projects use BitTorrent for downloads?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果TDD如此偉大，為什麼它在業界如此不常見？]]></title>
+            <link>https://news.ycombinator.com/item?id=30436311</link>
+            <guid>https://news.ycombinator.com/item?id=30436311</guid>
+            <pubDate>Wed, 23 Feb 2022 01:16:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: If TDD is so great, why is it so uncommon in the industry?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亞馬遜是否在分發被惡意軟件侵襲的筆記本電腦？]]></title>
+            <link>https://news.ycombinator.com/item?id=30436147</link>
+            <guid>https://news.ycombinator.com/item?id=30436147</guid>
+            <pubDate>Wed, 23 Feb 2022 00:56:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Amazon distributing malware infested laptops?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[運營中的彼得原則？]]></title>
+            <link>https://news.ycombinator.com/item?id=30436105</link>
+            <guid>https://news.ycombinator.com/item?id=30436105</guid>
+            <pubDate>Wed, 23 Feb 2022 00:51:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Operational Peter Principle?]]></description>
+        </item>
         <item>
             <title><![CDATA[Elixir/Phoenix LiveView會比React SPA更好地被抓取嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30435563</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30273617</guid>
             <pubDate>Wed, 09 Feb 2022 15:21:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Does YC invest in gambling startups?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每40秒就提交一份材料......你是否關注 "新 "頁面？]]></title>
-            <link>https://news.ycombinator.com/item?id=30273595</link>
-            <guid>https://news.ycombinator.com/item?id=30273595</guid>
-            <pubDate>Wed, 09 Feb 2022 15:19:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: A submission every 40 seconds ... do you follow the “New” page?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何在會議中有效地做筆記？]]></title>
-            <link>https://news.ycombinator.com/item?id=30273293</link>
-            <guid>https://news.ycombinator.com/item?id=30273293</guid>
-            <pubDate>Wed, 09 Feb 2022 14:55:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you effectively take notes in meetings?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上傳存儲？]]></title>
-            <link>https://news.ycombinator.com/item?id=30273147</link>
-            <guid>https://news.ycombinator.com/item?id=30273147</guid>
-            <pubDate>Wed, 09 Feb 2022 14:43:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Upload Storage?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[錄製瀏覽會話？]]></title>
-            <link>https://news.ycombinator.com/item?id=30273059</link>
-            <guid>https://news.ycombinator.com/item?id=30273059</guid>
-            <pubDate>Wed, 09 Feb 2022 14:35:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Recording a Browsing Session?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分佈式/遠程團隊中同步會議的最佳實踐？]]></title>
-            <link>https://news.ycombinator.com/item?id=30272213</link>
-            <guid>https://news.ycombinator.com/item?id=30272213</guid>
-            <pubDate>Wed, 09 Feb 2022 13:13:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best practices for synchronous meetings in distributed/remote teams?]]></description>
         </item>
     </channel>
 </rss>

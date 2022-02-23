@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T00:40:56.148Z</updated>
+    <updated>2022-02-23T02:05:15.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為你的用戶提供一個小型的電子郵件賬戶？]]></title>
+        <id>https://news.ycombinator.com/item?id=30436549</id>
+        <link href="https://news.ycombinator.com/item?id=30436549"/>
+        <updated>2022-02-23T01:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Provide a small email account to your users?]]></summary>
+        <author>
+            <name>101008</name>
+            <uri>https://news.ycombinator.com/user?id=101008</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有更多的軟件項目使用BitTorrent進行下載？]]></title>
+        <id>https://news.ycombinator.com/item?id=30436367</id>
+        <link href="https://news.ycombinator.com/item?id=30436367"/>
+        <updated>2022-02-23T01:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't more software projects use BitTorrent for downloads?]]></summary>
+        <author>
+            <name>nerdponx</name>
+            <uri>https://news.ycombinator.com/user?id=nerdponx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果TDD如此偉大，為什麼它在業界如此不常見？]]></title>
+        <id>https://news.ycombinator.com/item?id=30436311</id>
+        <link href="https://news.ycombinator.com/item?id=30436311"/>
+        <updated>2022-02-23T01:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If TDD is so great, why is it so uncommon in the industry?]]></summary>
+        <author>
+            <name>nso95</name>
+            <uri>https://news.ycombinator.com/user?id=nso95</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜是否在分發被惡意軟件侵襲的筆記本電腦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30436147</id>
+        <link href="https://news.ycombinator.com/item?id=30436147"/>
+        <updated>2022-02-23T00:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Amazon distributing malware infested laptops?]]></summary>
+        <author>
+            <name>mattymf</name>
+            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運營中的彼得原則？]]></title>
+        <id>https://news.ycombinator.com/item?id=30436105</id>
+        <link href="https://news.ycombinator.com/item?id=30436105"/>
+        <updated>2022-02-23T00:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Operational Peter Principle?]]></summary>
+        <author>
+            <name>newobj</name>
+            <uri>https://news.ycombinator.com/user?id=newobj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elixir/Phoenix LiveView會比React SPA更好地被抓取嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30435563</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>alex-wallish</name>
             <uri>https://news.ycombinator.com/user?id=alex-wallish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每40秒就提交一份材料......你是否關注 "新 "頁面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273595</id>
-        <link href="https://news.ycombinator.com/item?id=30273595"/>
-        <updated>2022-02-09T15:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A submission every 40 seconds ... do you follow the “New” page?]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在會議中有效地做筆記？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273293</id>
-        <link href="https://news.ycombinator.com/item?id=30273293"/>
-        <updated>2022-02-09T14:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you effectively take notes in meetings?]]></summary>
-        <author>
-            <name>dfsegoat</name>
-            <uri>https://news.ycombinator.com/user?id=dfsegoat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上傳存儲？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273147</id>
-        <link href="https://news.ycombinator.com/item?id=30273147"/>
-        <updated>2022-02-09T14:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Upload Storage?]]></summary>
-        <author>
-            <name>3000</name>
-            <uri>https://news.ycombinator.com/user?id=3000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錄製瀏覽會話？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273059</id>
-        <link href="https://news.ycombinator.com/item?id=30273059"/>
-        <updated>2022-02-09T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recording a Browsing Session?]]></summary>
-        <author>
-            <name>krishadi</name>
-            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分佈式/遠程團隊中同步會議的最佳實踐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30272213</id>
-        <link href="https://news.ycombinator.com/item?id=30272213"/>
-        <updated>2022-02-09T13:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best practices for synchronous meetings in distributed/remote teams?]]></summary>
-        <author>
-            <name>mactavish88</name>
-            <uri>https://news.ycombinator.com/user?id=mactavish88</uri>
         </author>
     </entry>
 </feed>
