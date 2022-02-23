@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T10:14:19.427Z</updated>
+    <updated>2022-02-23T11:30:01.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么 "星链 "没有建立在太阳能无人机上？]]></title>
+        <id>https://news.ycombinator.com/item?id=30439911</id>
+        <link href="https://news.ycombinator.com/item?id=30439911"/>
+        <updated>2022-02-23T11:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Isn't Starlink Built on Solar Powered Drones?]]></summary>
+        <author>
+            <name>raphaelj</name>
+            <uri>https://news.ycombinator.com/user?id=raphaelj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁对大规模的服务器发送事件有经验？]]></title>
         <id>https://news.ycombinator.com/item?id=30439578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ichaib</name>
             <uri>https://news.ycombinator.com/user?id=ichaib</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顶级黑客用来保持不被发现的技术栈是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30278631</id>
-        <link href="https://news.ycombinator.com/item?id=30278631"/>
-        <updated>2022-02-09T21:19:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Whats the tech stack that top-tier hackers use for staying undetectable?]]></summary>
-        <author>
-            <name>pancakeswapme</name>
-            <uri>https://news.ycombinator.com/user?id=pancakeswapme</uri>
         </author>
     </entry>
 </feed>

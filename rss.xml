@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 11:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么 "星链 "没有建立在太阳能无人机上？]]></title>
+            <link>https://news.ycombinator.com/item?id=30439911</link>
+            <guid>https://news.ycombinator.com/item?id=30439911</guid>
+            <pubDate>Wed, 23 Feb 2022 11:11:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Isn't Starlink Built on Solar Powered Drones?]]></description>
+        </item>
         <item>
             <title><![CDATA[有谁对大规模的服务器发送事件有经验？]]></title>
             <link>https://news.ycombinator.com/item?id=30439578</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30278802</guid>
             <pubDate>Wed, 09 Feb 2022 21:31:32 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some useful growth hacking techniques for tech recruitment?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[顶级黑客用来保持不被发现的技术栈是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30278631</link>
-            <guid>https://news.ycombinator.com/item?id=30278631</guid>
-            <pubDate>Wed, 09 Feb 2022 21:19:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Whats the tech stack that top-tier hackers use for staying undetectable?]]></description>
         </item>
     </channel>
 </rss>
