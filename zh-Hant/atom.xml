@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T22:51:54.852Z</updated>
+    <updated>2022-02-23T23:34:23.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找一個收集零星信息的網絡應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30447933</id>
+        <link href="https://news.ycombinator.com/item?id=30447933"/>
+        <updated>2022-02-23T23:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a web app for collecting small bits of information]]></summary>
+        <author>
+            <name>racing_stripes</name>
+            <uri>https://news.ycombinator.com/user?id=racing_stripes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對滴滴出行有什麼看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30447646</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MrsPeaches</name>
             <uri>https://news.ycombinator.com/user?id=MrsPeaches</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有誰不相信GitHub中的搜索？]]></title>
-        <id>https://news.ycombinator.com/item?id=30283913</id>
-        <link href="https://news.ycombinator.com/item?id=30283913"/>
-        <updated>2022-02-10T09:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who else does not trust the search in GitHub?]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>
