@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 19:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我不知道文本編輯的快捷方式。我應該學習Vim/Emacs/My IDE嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30445418</link>
+            <guid>https://news.ycombinator.com/item?id=30445418</guid>
+            <pubDate>Wed, 23 Feb 2022 19:45:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: I don't know text editing shortcuts. Should I learn Vim/Emacs/My IDE?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尋找開發人員來從事API的後方工程工作]]></title>
+            <link>https://news.ycombinator.com/item?id=30445310</link>
+            <guid>https://news.ycombinator.com/item?id=30445310</guid>
+            <pubDate>Wed, 23 Feb 2022 19:38:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Find developers to work on API back-engineering]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何擴展一個多租戶應用程序，每個租戶使用一個數據庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30445302</link>
+            <guid>https://news.ycombinator.com/item?id=30445302</guid>
+            <pubDate>Wed, 23 Feb 2022 19:38:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to scale a multi tenant app that uses a db per tenant]]></description>
+        </item>
+        <item>
+            <title><![CDATA[作為一個單獨的創始人，你如何克服動力不足的問題？]]></title>
+            <link>https://news.ycombinator.com/item?id=30445287</link>
+            <guid>https://news.ycombinator.com/item?id=30445287</guid>
+            <pubDate>Wed, 23 Feb 2022 19:36:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: How as a solo founder you overcome the demotivation?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何建立應用內貨幣的支付集成]]></title>
             <link>https://news.ycombinator.com/item?id=30444827</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30282428</guid>
             <pubDate>Thu, 10 Feb 2022 04:22:57 GMT</pubDate>
             <description><![CDATA[Ask HN: How to publish a short futuristic story?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你已經發誓不再使用微軟了嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30282048</link>
-            <guid>https://news.ycombinator.com/item?id=30282048</guid>
-            <pubDate>Thu, 10 Feb 2022 03:19:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you Sworn off Microsoft?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VR的長期影響？]]></title>
-            <link>https://news.ycombinator.com/item?id=30281611</link>
-            <guid>https://news.ycombinator.com/item?id=30281611</guid>
-            <pubDate>Thu, 10 Feb 2022 02:06:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: Long-Term Effects of VR?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於設計面試的建議？]]></title>
-            <link>https://news.ycombinator.com/item?id=30281449</link>
-            <guid>https://news.ycombinator.com/item?id=30281449</guid>
-            <pubDate>Thu, 10 Feb 2022 01:42:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Advice on Designing an Interview?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你使用哪種寬屏液晶顯示器，為什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30281426</link>
-            <guid>https://news.ycombinator.com/item?id=30281426</guid>
-            <pubDate>Thu, 10 Feb 2022 01:39:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which widescreen LCD do you use and why?]]></description>
         </item>
     </channel>
 </rss>

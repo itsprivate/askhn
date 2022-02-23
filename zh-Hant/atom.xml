@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T19:13:53.984Z</updated>
+    <updated>2022-02-23T19:53:24.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不知道文本編輯的快捷方式。我應該學習Vim/Emacs/My IDE嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30445418</id>
+        <link href="https://news.ycombinator.com/item?id=30445418"/>
+        <updated>2022-02-23T19:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I don't know text editing shortcuts. Should I learn Vim/Emacs/My IDE?]]></summary>
+        <author>
+            <name>skwee357</name>
+            <uri>https://news.ycombinator.com/user?id=skwee357</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找開發人員來從事API的後方工程工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30445310</id>
+        <link href="https://news.ycombinator.com/item?id=30445310"/>
+        <updated>2022-02-23T19:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Find developers to work on API back-engineering]]></summary>
+        <author>
+            <name>simonpurdon10</name>
+            <uri>https://news.ycombinator.com/user?id=simonpurdon10</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何擴展一個多租戶應用程序，每個租戶使用一個數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30445302</id>
+        <link href="https://news.ycombinator.com/item?id=30445302"/>
+        <updated>2022-02-23T19:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to scale a multi tenant app that uses a db per tenant]]></summary>
+        <author>
+            <name>aszen</name>
+            <uri>https://news.ycombinator.com/user?id=aszen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一個單獨的創始人，你如何克服動力不足的問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30445287</id>
+        <link href="https://news.ycombinator.com/item?id=30445287"/>
+        <updated>2022-02-23T19:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How as a solo founder you overcome the demotivation?]]></summary>
+        <author>
+            <name>thescribbblr</name>
+            <uri>https://news.ycombinator.com/user?id=thescribbblr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建立應用內貨幣的支付集成]]></title>
         <id>https://news.ycombinator.com/item?id=30444827</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你已經發誓不再使用微軟了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30282048</id>
-        <link href="https://news.ycombinator.com/item?id=30282048"/>
-        <updated>2022-02-10T03:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you Sworn off Microsoft?]]></summary>
-        <author>
-            <name>meesterdude</name>
-            <uri>https://news.ycombinator.com/user?id=meesterdude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VR的長期影響？]]></title>
-        <id>https://news.ycombinator.com/item?id=30281611</id>
-        <link href="https://news.ycombinator.com/item?id=30281611"/>
-        <updated>2022-02-10T02:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Long-Term Effects of VR?]]></summary>
-        <author>
-            <name>digitcatphd</name>
-            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於設計面試的建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30281449</id>
-        <link href="https://news.ycombinator.com/item?id=30281449"/>
-        <updated>2022-02-10T01:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice on Designing an Interview?]]></summary>
-        <author>
-            <name>wlpu</name>
-            <uri>https://news.ycombinator.com/user?id=wlpu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用哪種寬屏液晶顯示器，為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30281426</id>
-        <link href="https://news.ycombinator.com/item?id=30281426"/>
-        <updated>2022-02-10T01:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which widescreen LCD do you use and why?]]></summary>
-        <author>
-            <name>sys_64738</name>
-            <uri>https://news.ycombinator.com/user?id=sys_64738</uri>
         </author>
     </entry>
 </feed>
