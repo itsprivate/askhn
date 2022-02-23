@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T03:15:20.252Z</updated>
+    <updated>2022-02-23T05:13:04.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你从哪里获得非技术新闻？]]></title>
+        <id>https://news.ycombinator.com/item?id=30437845</id>
+        <link href="https://news.ycombinator.com/item?id=30437845"/>
+        <updated>2022-02-23T04:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you get your non-tech news from?]]></summary>
+        <author>
+            <name>bonhasgone</name>
+            <uri>https://news.ycombinator.com/user?id=bonhasgone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望别人为你建立什么网络服务？]]></title>
         <id>https://news.ycombinator.com/item?id=30437020</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>equityloanq</name>
             <uri>https://news.ycombinator.com/user?id=equityloanq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么方法可以反编译iOS并搜索变量名吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30274011</id>
-        <link href="https://news.ycombinator.com/item?id=30274011"/>
-        <updated>2022-02-09T15:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a way to decompile iOS and search variable names?]]></summary>
-        <author>
-            <name>axg11</name>
-            <uri>https://news.ycombinator.com/user?id=axg11</uri>
         </author>
     </entry>
 </feed>
