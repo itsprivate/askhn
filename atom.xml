@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T19:53:24.322Z</updated>
+    <updated>2022-02-23T20:42:11.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在Facebook的目标定位已经回到了2014年，你在做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30446030</id>
+        <link href="https://news.ycombinator.com/item?id=30446030"/>
+        <updated>2022-02-23T20:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you doing now that Facebook’s targeting has gone back to 2014?]]></summary>
+        <author>
+            <name>hownottowrite</name>
+            <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不知道文本编辑的快捷方式。我应该学习Vim/Emacs/My IDE吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30445418</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ojstella</name>
             <uri>https://news.ycombinator.com/user?id=ojstella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何发表简短的未来主义故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30282428</id>
-        <link href="https://news.ycombinator.com/item?id=30282428"/>
-        <updated>2022-02-10T04:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to publish a short futuristic story?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
