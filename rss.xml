@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Feb 2022 21:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 21:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Reddit正在变得越来越笨吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30446727</link>
+            <guid>https://news.ycombinator.com/item?id=30446727</guid>
+            <pubDate>Wed, 23 Feb 2022 21:29:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Reddit Becoming Dumber?]]></description>
+        </item>
         <item>
             <title><![CDATA[阅读和理解财务报告的课程/书籍/教程？]]></title>
             <link>https://news.ycombinator.com/item?id=30446693</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30283264</guid>
             <pubDate>Thu, 10 Feb 2022 07:13:29 GMT</pubDate>
             <description><![CDATA[Ask HN: What is your “I don't care if this succeeds” project?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为游戏创建后端服务器的最快方法是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30282774</link>
-            <guid>https://news.ycombinator.com/item?id=30282774</guid>
-            <pubDate>Thu, 10 Feb 2022 05:31:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the quickest way to create back end server for games]]></description>
         </item>
     </channel>
 </rss>
