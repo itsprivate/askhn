@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T02:35:11.956Z</updated>
+    <updated>2022-02-23T03:15:20.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望别人为你建立什么网络服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=30437020</id>
+        <link href="https://news.ycombinator.com/item?id=30437020"/>
+        <updated>2022-02-23T02:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What web service did you wish other people build for you?]]></summary>
+        <author>
+            <name>fnaith</name>
+            <uri>https://news.ycombinator.com/user?id=fnaith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澳大利亚的创始人签证]]></title>
         <id>https://news.ycombinator.com/item?id=30436836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>axg11</name>
             <uri>https://news.ycombinator.com/user?id=axg11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么SpaceX想从德克萨斯州而不是佛罗里达州发射星际飞船？]]></title>
-        <id>https://news.ycombinator.com/item?id=30273856</id>
-        <link href="https://news.ycombinator.com/item?id=30273856"/>
-        <updated>2022-02-09T15:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does SpaceX want to launch Starship from Texas instead of Florida?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
