@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T23:42:24.468Z</updated>
+    <updated>2022-02-24T23:53:23.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[需要您帮助确定我的企业的市场价值]]></title>
+        <id>https://news.ycombinator.com/item?id=30461909</id>
+        <link href="https://news.ycombinator.com/item?id=30461909"/>
+        <updated>2022-02-24T23:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Need your help determining the market value of my business]]></summary>
+        <author>
+            <name>alexstoica</name>
+            <uri>https://news.ycombinator.com/user?id=alexstoica</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对一个现场视频处理项目的建议]]></title>
         <id>https://news.ycombinator.com/item?id=30461825</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JadoJodo</name>
             <uri>https://news.ycombinator.com/user?id=JadoJodo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即使你喜欢远程工作，最困难的事情是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30301521</id>
-        <link href="https://news.ycombinator.com/item?id=30301521"/>
-        <updated>2022-02-11T13:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the hardest thing about remote work, even if you like it?]]></summary>
-        <author>
-            <name>j4yav</name>
-            <uri>https://news.ycombinator.com/user?id=j4yav</uri>
         </author>
     </entry>
 </feed>
