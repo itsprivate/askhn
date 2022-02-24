@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T12:54:16.723Z</updated>
+    <updated>2022-02-24T13:20:20.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么5G的推广在美国有这么多问题，而在欧洲却没有？]]></title>
+        <id>https://news.ycombinator.com/item?id=30454229</id>
+        <link href="https://news.ycombinator.com/item?id=30454229"/>
+        <updated>2022-02-24T13:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the 5G rollout so problematic in the States but not Europe?]]></summary>
+        <author>
+            <name>jb1991</name>
+            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌是否正在逐步淘汰Authenticator/TOTP？]]></title>
+        <id>https://news.ycombinator.com/item?id=30454104</id>
+        <link href="https://news.ycombinator.com/item?id=30454104"/>
+        <updated>2022-02-24T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Google phasing out Authenticator/TOTP?]]></summary>
+        <author>
+            <name>prometheon1</name>
+            <uri>https://news.ycombinator.com/user?id=prometheon1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京可能已经建立了空头头寸，不是吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30453822</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kderbyma</name>
             <uri>https://news.ycombinator.com/user?id=kderbyma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以把我已经离开的公司有争议地写进我的简历吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30293393</id>
-        <link href="https://news.ycombinator.com/item?id=30293393"/>
-        <updated>2022-02-10T22:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I put a company I’ve left contentiously into my resume?]]></summary>
-        <author>
-            <name>exitoxic</name>
-            <uri>https://news.ycombinator.com/user?id=exitoxic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的IDE有哪些超能力？使你成为更好的开发者的技巧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30292528</id>
-        <link href="https://news.ycombinator.com/item?id=30292528"/>
-        <updated>2022-02-10T21:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your IDE superpowers? Tips that make you a better developer?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
