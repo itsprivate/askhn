@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T09:54:21.476Z</updated>
+    <updated>2022-02-24T10:14:28.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在烏克蘭發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30452861</id>
+        <link href="https://news.ycombinator.com/item?id=30452861"/>
+        <updated>2022-02-24T09:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What  is going on in Ukraine?]]></summary>
+        <author>
+            <name>dudus</name>
+            <uri>https://news.ycombinator.com/user?id=dudus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你向我推薦哪種單一的左手鍵盤？]]></title>
+        <id>https://news.ycombinator.com/item?id=30452783</id>
+        <link href="https://news.ycombinator.com/item?id=30452783"/>
+        <updated>2022-02-24T09:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What single left handed keyboard do you recommend me?]]></summary>
+        <author>
+            <name>alvperez82</name>
+            <uri>https://news.ycombinator.com/user?id=alvperez82</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人對可通過短信操作的普通手機應用程序的API感興趣嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30452819</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>akudha</name>
             <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全意識培訓]]></title>
-        <id>https://news.ycombinator.com/item?id=30288999</id>
-        <link href="https://news.ycombinator.com/item?id=30288999"/>
-        <updated>2022-02-10T16:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Security Awareness Training]]></summary>
-        <author>
-            <name>phunel</name>
-            <uri>https://news.ycombinator.com/user?id=phunel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對Apache Kafka有什麼大問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30288796</id>
-        <link href="https://news.ycombinator.com/item?id=30288796"/>
-        <updated>2022-02-10T16:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What big problems with Apache Kafka do you have?]]></summary>
-        <author>
-            <name>sneaky_zeppeli</name>
-            <uri>https://news.ycombinator.com/user?id=sneaky_zeppeli</uri>
         </author>
     </entry>
 </feed>

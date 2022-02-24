@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在烏克蘭發生了什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30452861</link>
+            <guid>https://news.ycombinator.com/item?id=30452861</guid>
+            <pubDate>Thu, 24 Feb 2022 09:49:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: What  is going on in Ukraine?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你向我推薦哪種單一的左手鍵盤？]]></title>
+            <link>https://news.ycombinator.com/item?id=30452783</link>
+            <guid>https://news.ycombinator.com/item?id=30452783</guid>
+            <pubDate>Thu, 24 Feb 2022 09:41:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: What single left handed keyboard do you recommend me?]]></description>
+        </item>
         <item>
             <title><![CDATA[有人對可通過短信操作的普通手機應用程序的API感興趣嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30452819</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30289171</guid>
             <pubDate>Thu, 10 Feb 2022 17:05:50 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you find (again) joy in software dev with so much setup?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安全意識培訓]]></title>
-            <link>https://news.ycombinator.com/item?id=30288999</link>
-            <guid>https://news.ycombinator.com/item?id=30288999</guid>
-            <pubDate>Thu, 10 Feb 2022 16:56:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Security Awareness Training]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你對Apache Kafka有什麼大問題？]]></title>
-            <link>https://news.ycombinator.com/item?id=30288796</link>
-            <guid>https://news.ycombinator.com/item?id=30288796</guid>
-            <pubDate>Thu, 10 Feb 2022 16:43:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: What big problems with Apache Kafka do you have?]]></description>
         </item>
     </channel>
 </rss>
