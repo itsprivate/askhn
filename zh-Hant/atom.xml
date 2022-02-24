@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T03:41:33.112Z</updated>
+    <updated>2022-02-24T04:14:21.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼工作聊天軟件沒有最小字符的帖子要求？]]></title>
+        <id>https://news.ycombinator.com/item?id=30450070</id>
+        <link href="https://news.ycombinator.com/item?id=30450070"/>
+        <updated>2022-02-24T03:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don’t work chat apps have min character post requirement?]]></summary>
+        <author>
+            <name>tiffanyh</name>
+            <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有人有一個好辦法來檢查烏克蘭的互聯網可用性？]]></title>
         <id>https://news.ycombinator.com/item?id=30449874</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iLoveOncall</name>
             <uri>https://news.ycombinator.com/user?id=iLoveOncall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您推薦哪些關於傳遞價值的書籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30284416</id>
-        <link href="https://news.ycombinator.com/item?id=30284416"/>
-        <updated>2022-02-10T10:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What books do you recommend on delivering value?]]></summary>
-        <author>
-            <name>cauliflower99</name>
-            <uri>https://news.ycombinator.com/user?id=cauliflower99</uri>
         </author>
     </entry>
 </feed>
