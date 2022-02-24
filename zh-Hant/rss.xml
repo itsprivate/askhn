@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有人對可通過短信操作的普通手機應用程序的API感興趣嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30452819</link>
+            <guid>https://news.ycombinator.com/item?id=30452819</guid>
+            <pubDate>Thu, 24 Feb 2022 09:45:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone interested in API to common phone apps operatable by SMS?]]></description>
+        </item>
         <item>
             <title><![CDATA[HOIC/LOIC的現代替代品？]]></title>
             <link>https://news.ycombinator.com/item?id=30452496</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30288796</guid>
             <pubDate>Thu, 10 Feb 2022 16:43:38 GMT</pubDate>
             <description><![CDATA[Ask HN: What big problems with Apache Kafka do you have?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[招聘經理，現在哪種類型的工程師最難找？]]></title>
-            <link>https://news.ycombinator.com/item?id=30288609</link>
-            <guid>https://news.ycombinator.com/item?id=30288609</guid>
-            <pubDate>Thu, 10 Feb 2022 16:32:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Hiring Managers, which type of Engineer is hardest to find nowadays?]]></description>
         </item>
     </channel>
 </rss>

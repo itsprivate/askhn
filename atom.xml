@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T09:13:38.062Z</updated>
+    <updated>2022-02-24T09:54:21.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人对可通过短信操作的普通手机应用程序的API感兴趣吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30452819</id>
+        <link href="https://news.ycombinator.com/item?id=30452819"/>
+        <updated>2022-02-24T09:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone interested in API to common phone apps operatable by SMS?]]></summary>
+        <author>
+            <name>dhruvkar</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvkar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOIC/LOIC的现代替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30452496</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sneaky_zeppeli</name>
             <uri>https://news.ycombinator.com/user?id=sneaky_zeppeli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘经理，现在哪种类型的工程师最难找？]]></title>
-        <id>https://news.ycombinator.com/item?id=30288609</id>
-        <link href="https://news.ycombinator.com/item?id=30288609"/>
-        <updated>2022-02-10T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hiring Managers, which type of Engineer is hardest to find nowadays?]]></summary>
-        <author>
-            <name>causehealth101</name>
-            <uri>https://news.ycombinator.com/user?id=causehealth101</uri>
         </author>
     </entry>
 </feed>
