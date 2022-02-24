@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T04:14:21.416Z</updated>
+    <updated>2022-02-24T04:57:32.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在不等待30天的情況下刪除一個Facebook賬戶？]]></title>
+        <id>https://news.ycombinator.com/item?id=30450370</id>
+        <link href="https://news.ycombinator.com/item?id=30450370"/>
+        <updated>2022-02-24T04:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I delete a Facebook account without waiting 30 days?]]></summary>
+        <author>
+            <name>throwawaylksdjf</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaylksdjf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您如何幫助受烏克蘭戰爭影響的員工？]]></title>
+        <id>https://news.ycombinator.com/item?id=30450365</id>
+        <link href="https://news.ycombinator.com/item?id=30450365"/>
+        <updated>2022-02-24T04:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you helping employees affected by the war in Ukraine?]]></summary>
+        <author>
+            <name>hodgesrm</name>
+            <uri>https://news.ycombinator.com/user?id=hodgesrm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼工作聊天軟件沒有最小字符的帖子要求？]]></title>
         <id>https://news.ycombinator.com/item?id=30450070</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>two_poles_here</name>
             <uri>https://news.ycombinator.com/user?id=two_poles_here</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否擔心 "現在收穫，以後解密 "的攻擊？]]></title>
-        <id>https://news.ycombinator.com/item?id=30285010</id>
-        <link href="https://news.ycombinator.com/item?id=30285010"/>
-        <updated>2022-02-10T12:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you concerned about 'harvest now, decrypt later' attacks?]]></summary>
-        <author>
-            <name>OJFord</name>
-            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該如何在雲中存儲重要文件（身份證等）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30284716</id>
-        <link href="https://news.ycombinator.com/item?id=30284716"/>
-        <updated>2022-02-10T11:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How should I store important documents (IDs, etc.) in the cloud?]]></summary>
-        <author>
-            <name>iLoveOncall</name>
-            <uri>https://news.ycombinator.com/user?id=iLoveOncall</uri>
         </author>
     </entry>
 </feed>
