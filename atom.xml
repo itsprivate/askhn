@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T05:31:25.455Z</updated>
+    <updated>2022-02-24T07:38:08.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你建议建造+使用什么键盘？]]></title>
+        <id>https://news.ycombinator.com/item?id=30451779</id>
+        <link href="https://news.ycombinator.com/item?id=30451779"/>
+        <updated>2022-02-24T07:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What keyboard do you recommend build+use?]]></summary>
+        <author>
+            <name>irjustin</name>
+            <uri>https://news.ycombinator.com/user?id=irjustin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯是否正在取缔kyivpost.com？]]></title>
         <id>https://news.ycombinator.com/item?id=30450626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iwantfucku</name>
             <uri>https://news.ycombinator.com/user?id=iwantfucku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜欢这个网站上发布的超简约主义博客吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30285130</id>
-        <link href="https://news.ycombinator.com/item?id=30285130"/>
-        <updated>2022-02-10T12:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you like the hyper-minimalist blogs posted on this site?]]></summary>
-        <author>
-            <name>snjy7</name>
-            <uri>https://news.ycombinator.com/user?id=snjy7</uri>
         </author>
     </entry>
 </feed>
