@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T21:54:22.777Z</updated>
+    <updated>2022-02-24T22:14:18.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp的隱私灰色地帶是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30460912</id>
+        <link href="https://news.ycombinator.com/item?id=30460912"/>
+        <updated>2022-02-24T22:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are WhatsApp's privacy gray areas?]]></summary>
+        <author>
+            <name>luxpir</name>
+            <uri>https://news.ycombinator.com/user?id=luxpir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯會不會被從互聯網上 "拔掉插頭"？]]></title>
         <id>https://news.ycombinator.com/item?id=30460631</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Gustomaximus</name>
             <uri>https://news.ycombinator.com/user?id=Gustomaximus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該把我的所有醫療記錄交給我的僱主嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30299412</id>
-        <link href="https://news.ycombinator.com/item?id=30299412"/>
-        <updated>2022-02-11T09:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I give my employer all my medical records?]]></summary>
-        <author>
-            <name>brogrammer2018</name>
-            <uri>https://news.ycombinator.com/user?id=brogrammer2018</uri>
         </author>
     </entry>
 </feed>
