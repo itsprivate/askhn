@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T20:41:59.026Z</updated>
+    <updated>2022-02-24T21:32:24.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在烏克蘭生活和遠程工作的感覺如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30460487</id>
+        <link href="https://news.ycombinator.com/item?id=30460487"/>
+        <updated>2022-02-24T21:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is it like living in Ukraine and working remotely?]]></summary>
+        <author>
+            <name>m00dy</name>
+            <uri>https://news.ycombinator.com/user?id=m00dy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你對Salesforce的收購有什麼看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30460381</id>
+        <link href="https://news.ycombinator.com/item?id=30460381"/>
+        <updated>2022-02-24T21:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think about Salesforce's acquisitions?]]></summary>
+        <author>
+            <name>momofuku</name>
+            <uri>https://news.ycombinator.com/user?id=momofuku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你對Salesforce的收購有何看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30460352</id>
+        <link href="https://news.ycombinator.com/item?id=30460352"/>
+        <updated>2022-02-24T21:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think about Salesforce acquisitions?]]></summary>
+        <author>
+            <name>momofuku</name>
+            <uri>https://news.ycombinator.com/user?id=momofuku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個長期的非官方開發者，我如何為SWE工作進行水平設置？]]></title>
         <id>https://news.ycombinator.com/item?id=30459958</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>udl</name>
             <uri>https://news.ycombinator.com/user?id=udl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對RISC-V的發展有何看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30298232</id>
-        <link href="https://news.ycombinator.com/item?id=30298232"/>
-        <updated>2022-02-11T07:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think about RISC-V development?]]></summary>
-        <author>
-            <name>Eatcats</name>
-            <uri>https://news.ycombinator.com/user?id=Eatcats</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有AST意識的模板程序/片段？]]></title>
-        <id>https://news.ycombinator.com/item?id=30297706</id>
-        <link href="https://news.ycombinator.com/item?id=30297706"/>
-        <updated>2022-02-11T06:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there AST aware templating programs / snippets?]]></summary>
-        <author>
-            <name>vaughands</name>
-            <uri>https://news.ycombinator.com/user?id=vaughands</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會持有兩份全職的遠程工作嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30297589</id>
-        <link href="https://news.ycombinator.com/item?id=30297589"/>
-        <updated>2022-02-11T05:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you hold two full-time remote jobs?]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
