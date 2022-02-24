@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T13:20:20.384Z</updated>
+    <updated>2022-02-24T13:36:58.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[動畫已經成為營銷網站的必修課了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30454324</id>
+        <link href="https://news.ycombinator.com/item?id=30454324"/>
+        <updated>2022-02-24T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has animation become obligatory for a marketing website?]]></summary>
+        <author>
+            <name>AndrewSwift</name>
+            <uri>https://news.ycombinator.com/user?id=AndrewSwift</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼5G的推廣在美國有這麼多問題，而在歐洲卻沒有？]]></title>
         <id>https://news.ycombinator.com/item?id=30454229</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tomazio</name>
             <uri>https://news.ycombinator.com/user?id=tomazio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的M1是否變得遲鈍了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30293601</id>
-        <link href="https://news.ycombinator.com/item?id=30293601"/>
-        <updated>2022-02-10T22:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your M1 getting sluggish?]]></summary>
-        <author>
-            <name>kderbyma</name>
-            <uri>https://news.ycombinator.com/user?id=kderbyma</uri>
         </author>
     </entry>
 </feed>
