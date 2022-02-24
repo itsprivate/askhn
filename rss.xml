@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Downtector是一个可靠和有用的停电信息来源吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30458710</link>
+            <guid>https://news.ycombinator.com/item?id=30458710</guid>
+            <pubDate>Thu, 24 Feb 2022 18:56:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Downtector a reliable and useful source of outage information?]]></description>
+        </item>
         <item>
             <title><![CDATA[本地文件上的远程Unix CLI？]]></title>
             <link>https://news.ycombinator.com/item?id=30456452</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30296763</guid>
             <pubDate>Fri, 11 Feb 2022 03:59:01 GMT</pubDate>
             <description><![CDATA[Ask HN: What's going to replace Facebook as the quintessential social media app?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在1Password被彻底攻破的那一天会发生什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30296708</link>
-            <guid>https://news.ycombinator.com/item?id=30296708</guid>
-            <pubDate>Fri, 11 Feb 2022 03:51:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: What will happen the day 1Password is thoroughly breached?]]></description>
         </item>
     </channel>
 </rss>

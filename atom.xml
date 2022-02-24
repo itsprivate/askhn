@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T16:52:29.735Z</updated>
+    <updated>2022-02-24T19:12:15.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Downtector是一个可靠和有用的停电信息来源吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30458710</id>
+        <link href="https://news.ycombinator.com/item?id=30458710"/>
+        <updated>2022-02-24T18:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Downtector a reliable and useful source of outage information?]]></summary>
+        <author>
+            <name>jmartens</name>
+            <uri>https://news.ycombinator.com/user?id=jmartens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本地文件上的远程Unix CLI？]]></title>
         <id>https://news.ycombinator.com/item?id=30456452</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sss111</name>
             <uri>https://news.ycombinator.com/user?id=sss111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在1Password被彻底攻破的那一天会发生什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30296708</id>
-        <link href="https://news.ycombinator.com/item?id=30296708"/>
-        <updated>2022-02-11T03:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What will happen the day 1Password is thoroughly breached?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
