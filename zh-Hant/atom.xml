@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-23T23:34:23.446Z</updated>
+    <updated>2022-02-24T03:41:33.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人有一個好辦法來檢查烏克蘭的互聯網可用性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30449874</id>
+        <link href="https://news.ycombinator.com/item?id=30449874"/>
+        <updated>2022-02-24T03:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone have a good way to check on internet availability in Ukraine]]></summary>
+        <author>
+            <name>oseibonsu</name>
+            <uri>https://news.ycombinator.com/user?id=oseibonsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找一個收集零星信息的網絡應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30447933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cauliflower99</name>
             <uri>https://news.ycombinator.com/user?id=cauliflower99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贊比亞和非洲其他國家的最佳支付平臺？]]></title>
-        <id>https://news.ycombinator.com/item?id=30284236</id>
-        <link href="https://news.ycombinator.com/item?id=30284236"/>
-        <updated>2022-02-10T09:54:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best payments platform for Zambia and other countries in Africa?]]></summary>
-        <author>
-            <name>MrsPeaches</name>
-            <uri>https://news.ycombinator.com/user?id=MrsPeaches</uri>
         </author>
     </entry>
 </feed>
