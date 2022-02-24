@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Feb 2022 14:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 14:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在开放源代码许可证中加入非商业条款]]></title>
+            <link>https://news.ycombinator.com/item?id=30454986</link>
+            <guid>https://news.ycombinator.com/item?id=30454986</guid>
+            <pubDate>Thu, 24 Feb 2022 14:20:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Adding non-commercial clause to opens source license]]></description>
+        </item>
         <item>
             <title><![CDATA[如何将一个列表扩展到一个知识平台]]></title>
             <link>https://news.ycombinator.com/item?id=30454657</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30295583</guid>
             <pubDate>Fri, 11 Feb 2022 01:27:33 GMT</pubDate>
             <description><![CDATA[Ask HN: How to Make Knowledge Transfer and Documentation Better?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贵公司是否做在线编码任务（DevOps角色）？]]></title>
-            <link>https://news.ycombinator.com/item?id=30295182</link>
-            <guid>https://news.ycombinator.com/item?id=30295182</guid>
-            <pubDate>Fri, 11 Feb 2022 00:40:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does your company do online coding assignment (DevOps Roles)]]></description>
         </item>
     </channel>
 </rss>
