@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T20:14:22.081Z</updated>
+    <updated>2022-02-24T20:41:59.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個長期的非官方開發者，我如何為SWE工作進行水平設置？]]></title>
+        <id>https://news.ycombinator.com/item?id=30459958</id>
+        <link href="https://news.ycombinator.com/item?id=30459958"/>
+        <updated>2022-02-24T20:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a long-time unofficial developer, how do I level set for SWE jobs?]]></summary>
+        <author>
+            <name>throwawaytuary</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaytuary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[問：俄羅斯能不能加入北約，然後我們就結束了？]]></title>
         <id>https://news.ycombinator.com/item?id=30459523</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在UEFI設置中，我怎麼會收到Slack的通知？]]></title>
-        <id>https://news.ycombinator.com/item?id=30297296</id>
-        <link href="https://news.ycombinator.com/item?id=30297296"/>
-        <updated>2022-02-11T05:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did I get a Slack notification while in UEFI Settings?]]></summary>
-        <author>
-            <name>geocrasher</name>
-            <uri>https://news.ycombinator.com/user?id=geocrasher</uri>
         </author>
     </entry>
 </feed>
