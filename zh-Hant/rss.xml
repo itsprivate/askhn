@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 16:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本地文件上的遠程Unix CLI？]]></title>
+            <link>https://news.ycombinator.com/item?id=30456452</link>
+            <guid>https://news.ycombinator.com/item?id=30456452</guid>
+            <pubDate>Thu, 24 Feb 2022 16:17:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Remote Unix CLI on local files?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何禁用Windows 10虛擬桌面自動切換到打開的應用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30456378</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30296708</guid>
             <pubDate>Fri, 11 Feb 2022 03:51:32 GMT</pubDate>
             <description><![CDATA[Ask HN: What will happen the day 1Password is thoroughly breached?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我應該如何處理我未使用的1G網絡？]]></title>
-            <link>https://news.ycombinator.com/item?id=30296501</link>
-            <guid>https://news.ycombinator.com/item?id=30296501</guid>
-            <pubDate>Fri, 11 Feb 2022 03:23:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: What should I do with my unused 1Gig internet?]]></description>
         </item>
     </channel>
 </rss>
