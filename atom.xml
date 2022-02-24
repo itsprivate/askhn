@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T12:19:13.257Z</updated>
+    <updated>2022-02-24T12:54:16.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京可能已经建立了空头头寸，不是吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30453822</id>
+        <link href="https://news.ycombinator.com/item?id=30453822"/>
+        <updated>2022-02-24T12:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Putin could’ve built up short positions, couldn’t he?]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个生活在俄罗斯的人，我怎样才能为互联网关闭做好准备？]]></title>
         <id>https://news.ycombinator.com/item?id=30453713</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否曾经更换过个人电子邮件供应商？]]></title>
-        <id>https://news.ycombinator.com/item?id=30290877</id>
-        <link href="https://news.ycombinator.com/item?id=30290877"/>
-        <updated>2022-02-10T19:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever switched personal email providers?]]></summary>
-        <author>
-            <name>pageandrew</name>
-            <uri>https://news.ycombinator.com/user?id=pageandrew</uri>
         </author>
     </entry>
 </feed>
