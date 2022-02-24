@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T11:30:06.447Z</updated>
+    <updated>2022-02-24T12:19:13.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個生活在俄羅斯的人，我怎樣才能為互聯網關閉做好準備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30453713</id>
+        <link href="https://news.ycombinator.com/item?id=30453713"/>
+        <updated>2022-02-24T11:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As someone living in Russia, how can I prepare for Internet shutdowns?]]></summary>
+        <author>
+            <name>exizt88</name>
+            <uri>https://news.ycombinator.com/user?id=exizt88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains是俄語嗎？使用起來是否安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=30453689</id>
+        <link href="https://news.ycombinator.com/item?id=30453689"/>
+        <updated>2022-02-24T11:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is JetBrains Russian? Is it safe to use?]]></summary>
+        <author>
+            <name>AndyJames</name>
+            <uri>https://news.ycombinator.com/user?id=AndyJames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些科技實體將成為對俄羅斯制裁的一部分？]]></title>
         <id>https://news.ycombinator.com/item?id=30453425</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pageandrew</name>
             <uri>https://news.ycombinator.com/user?id=pageandrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN是否有可能為第三方客戶實施OAuth2？]]></title>
-        <id>https://news.ycombinator.com/item?id=30290095</id>
-        <link href="https://news.ycombinator.com/item?id=30290095"/>
-        <updated>2022-02-10T18:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any chance of HN implementing OAuth2 for 3rd-party clients?]]></summary>
-        <author>
-            <name>anderspitman</name>
-            <uri>https://news.ycombinator.com/user?id=anderspitman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天的人工智能足以防止狗感到孤獨嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30289787</id>
-        <link href="https://news.ycombinator.com/item?id=30289787"/>
-        <updated>2022-02-10T17:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is today's AI good enough to prevent dogs from feeling lonely?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
