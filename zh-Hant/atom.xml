@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T07:38:08.209Z</updated>
+    <updated>2022-02-24T07:52:05.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何用於建造電器和工具原型的網站？]]></title>
+        <id>https://news.ycombinator.com/item?id=30451838</id>
+        <link href="https://news.ycombinator.com/item?id=30451838"/>
+        <updated>2022-02-24T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any sites for building appliance and tool prototypes?]]></summary>
+        <author>
+            <name>ksajadi</name>
+            <uri>https://news.ycombinator.com/user?id=ksajadi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果俄羅斯切斷海底光纜怎麼辦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30451806</id>
+        <link href="https://news.ycombinator.com/item?id=30451806"/>
+        <updated>2022-02-24T07:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What if Russia cuts undersea optic cables?]]></summary>
+        <author>
+            <name>fanick</name>
+            <uri>https://news.ycombinator.com/user?id=fanick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你建議建造+使用什麼鍵盤？]]></title>
         <id>https://news.ycombinator.com/item?id=30451779</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mitchelI</name>
             <uri>https://news.ycombinator.com/user?id=mitchelI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為那些編碼緩慢但擅長構思的開發人員提供工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30286317</id>
-        <link href="https://news.ycombinator.com/item?id=30286317"/>
-        <updated>2022-02-10T14:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Jobs for devs who are slow coders but great at conceptualizing?]]></summary>
-        <author>
-            <name>giantg2</name>
-            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動畫架構圖工具的指示]]></title>
-        <id>https://news.ycombinator.com/item?id=30286132</id>
-        <link href="https://news.ycombinator.com/item?id=30286132"/>
-        <updated>2022-02-10T14:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Indication of animated architecture diagram tool]]></summary>
-        <author>
-            <name>iwantfucku</name>
-            <uri>https://news.ycombinator.com/user?id=iwantfucku</uri>
         </author>
     </entry>
 </feed>
