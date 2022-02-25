@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T09:32:47.624Z</updated>
+    <updated>2022-02-25T09:53:32.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼西方不利用社交媒體來擴大反戰信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465420</id>
+        <link href="https://news.ycombinator.com/item?id=30465420"/>
+        <updated>2022-02-25T09:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the West not using social media to amplify anti-war messaging?]]></summary>
+        <author>
+            <name>rosndo</name>
+            <uri>https://news.ycombinator.com/user?id=rosndo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何跟蹤代碼實驗/尖峰/副業項目的？]]></title>
         <id>https://news.ycombinator.com/item?id=30465293</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway14454</name>
             <uri>https://news.ycombinator.com/user?id=throwaway14454</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞對科技來說，就像X對Y一樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30307778</id>
-        <link href="https://news.ycombinator.com/item?id=30307778"/>
-        <updated>2022-02-11T22:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hacker News is for tech, as X is for Y?]]></summary>
-        <author>
-            <name>going_ham</name>
-            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
         </author>
     </entry>
 </feed>
