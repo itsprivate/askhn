@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T13:36:34.369Z</updated>
+    <updated>2022-02-25T13:52:33.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何向我们的俄罗斯开发人员支付报酬？]]></title>
+        <id>https://news.ycombinator.com/item?id=30467110</id>
+        <link href="https://news.ycombinator.com/item?id=30467110"/>
+        <updated>2022-02-25T13:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I pay our Russian devs?]]></summary>
+        <author>
+            <name>quack01</name>
+            <uri>https://news.ycombinator.com/user?id=quack01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌没有完全收录github.com的问题？]]></title>
         <id>https://news.ycombinator.com/item?id=30466961</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shivekkhurana</name>
             <uri>https://news.ycombinator.com/user?id=shivekkhurana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模式感知的部分关系型数据库副本与记录的子集]]></title>
-        <id>https://news.ycombinator.com/item?id=30312258</id>
-        <link href="https://news.ycombinator.com/item?id=30312258"/>
-        <updated>2022-02-12T12:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Schema aware partial relational database copy with subset of records]]></summary>
-        <author>
-            <name>omair_inam</name>
-            <uri>https://news.ycombinator.com/user?id=omair_inam</uri>
         </author>
     </entry>
 </feed>
