@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T19:56:33.531Z</updated>
+    <updated>2022-02-25T20:15:37.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要學習什麼才能成為一個有用的黑客來保衛我的國家？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471631</id>
+        <link href="https://news.ycombinator.com/item?id=30471631"/>
+        <updated>2022-02-25T19:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do I need to learn to be useful as a hacker to defend my country?]]></summary>
+        <author>
+            <name>axiosgunnar</name>
+            <uri>https://news.ycombinator.com/user?id=axiosgunnar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在啟示錄中保持技術運行？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471557</id>
+        <link href="https://news.ycombinator.com/item?id=30471557"/>
+        <updated>2022-02-25T19:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to keep tech running in the apocalypse?]]></summary>
+        <author>
+            <name>armagon</name>
+            <uri>https://news.ycombinator.com/user?id=armagon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否以 "通過 "的方式審查代碼？]]></title>
         <id>https://news.ycombinator.com/item?id=30471497</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lastairnomad</name>
             <uri>https://news.ycombinator.com/user?id=lastairnomad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望有什麼產品存在？]]></title>
-        <id>https://news.ycombinator.com/item?id=30317180</id>
-        <link href="https://news.ycombinator.com/item?id=30317180"/>
-        <updated>2022-02-12T22:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What product do you wish existed?]]></summary>
-        <author>
-            <name>MathCodeLove</name>
-            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼一定要有戰爭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30316860</id>
-        <link href="https://news.ycombinator.com/item?id=30316860"/>
-        <updated>2022-02-12T21:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why must there be war?]]></summary>
-        <author>
-            <name>gizmore</name>
-            <uri>https://news.ycombinator.com/user?id=gizmore</uri>
         </author>
     </entry>
 </feed>
