@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你們公司是如何發佈軟件的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30464648</link>
+            <guid>https://news.ycombinator.com/item?id=30464648</guid>
+            <pubDate>Fri, 25 Feb 2022 07:45:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: How does your company release software?]]></description>
+        </item>
         <item>
             <title><![CDATA[del.icio.us風格的域名是否完全不被接受？]]></title>
             <link>https://news.ycombinator.com/item?id=30464169</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30306403</guid>
             <pubDate>Fri, 11 Feb 2022 20:09:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Consequences of the Russia-Ukraine War in the software industry?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作為一名SW工程師，如何從僱員遷移到自由職業者？]]></title>
-            <link>https://news.ycombinator.com/item?id=30305712</link>
-            <guid>https://news.ycombinator.com/item?id=30305712</guid>
-            <pubDate>Fri, 11 Feb 2022 19:11:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to migrate from employee to freelancer as a SW engineer?]]></description>
         </item>
     </channel>
 </rss>
