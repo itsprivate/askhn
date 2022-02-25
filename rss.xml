@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 16:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 17:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在不久的将来，对非macOS的笔记本电脑有什么乐观的看法吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30469292</link>
+            <guid>https://news.ycombinator.com/item?id=30469292</guid>
+            <pubDate>Fri, 25 Feb 2022 16:53:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there any optimism for non-macOS laptops in the near future?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[开发者可以做些什么来帮助核聚变？]]></title>
+            <link>https://news.ycombinator.com/item?id=30469186</link>
+            <guid>https://news.ycombinator.com/item?id=30469186</guid>
+            <pubDate>Fri, 25 Feb 2022 16:43:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What can a developer do to help with Nuclear Fusion?]]></description>
+        </item>
         <item>
             <title><![CDATA[这里有谁有好的材料来学习如何从头开始画素描？]]></title>
             <link>https://news.ycombinator.com/item?id=30469036</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30314853</guid>
             <pubDate>Sat, 12 Feb 2022 18:11:42 GMT</pubDate>
             <description><![CDATA[Ask HN: How to visualize the dependency graphs of my codebase?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[打击脸谱网的克隆骗子]]></title>
-            <link>https://news.ycombinator.com/item?id=30314720</link>
-            <guid>https://news.ycombinator.com/item?id=30314720</guid>
-            <pubDate>Sat, 12 Feb 2022 17:53:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Fighting Facebook Clone Scammers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在使用Twirp进行内部服务沟通吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30314715</link>
-            <guid>https://news.ycombinator.com/item?id=30314715</guid>
-            <pubDate>Sat, 12 Feb 2022 17:52:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are you using Twirp for internal service communication?]]></description>
         </item>
     </channel>
 </rss>

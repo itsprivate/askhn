@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T16:52:27.384Z</updated>
+    <updated>2022-02-25T17:05:47.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在不久的將來，對非macOS的筆記本電腦有什麼樂觀的看法嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30469292</id>
+        <link href="https://news.ycombinator.com/item?id=30469292"/>
+        <updated>2022-02-25T16:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any optimism for non-macOS laptops in the near future?]]></summary>
+        <author>
+            <name>DashAnimal</name>
+            <uri>https://news.ycombinator.com/user?id=DashAnimal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發者可以做些什麼來幫助核聚變？]]></title>
+        <id>https://news.ycombinator.com/item?id=30469186</id>
+        <link href="https://news.ycombinator.com/item?id=30469186"/>
+        <updated>2022-02-25T16:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What can a developer do to help with Nuclear Fusion?]]></summary>
+        <author>
+            <name>aswinmohanme</name>
+            <uri>https://news.ycombinator.com/user?id=aswinmohanme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這裡有誰有好的材料來學習如何從頭開始畫素描？]]></title>
         <id>https://news.ycombinator.com/item?id=30469036</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>toto007</name>
             <uri>https://news.ycombinator.com/user?id=toto007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打擊臉譜網的克隆騙子]]></title>
-        <id>https://news.ycombinator.com/item?id=30314720</id>
-        <link href="https://news.ycombinator.com/item?id=30314720"/>
-        <updated>2022-02-12T17:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fighting Facebook Clone Scammers]]></summary>
-        <author>
-            <name>rdtwo</name>
-            <uri>https://news.ycombinator.com/user?id=rdtwo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在使用Twirp進行內部服務溝通嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30314715</id>
-        <link href="https://news.ycombinator.com/item?id=30314715"/>
-        <updated>2022-02-12T17:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you using Twirp for internal service communication?]]></summary>
-        <author>
-            <name>disintegrator</name>
-            <uri>https://news.ycombinator.com/user?id=disintegrator</uri>
         </author>
     </entry>
 </feed>
