@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T00:39:33.787Z</updated>
+    <updated>2022-02-25T01:58:12.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何不关心一个项目的成功？]]></title>
+        <id>https://news.ycombinator.com/item?id=30462454</id>
+        <link href="https://news.ycombinator.com/item?id=30462454"/>
+        <updated>2022-02-25T00:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to not care about a project's success?]]></summary>
+        <author>
+            <name>ThrownAway2022</name>
+            <uri>https://news.ycombinator.com/user?id=ThrownAway2022</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于这是第一次大规模的网络战争，想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30462384</id>
+        <link href="https://news.ycombinator.com/item?id=30462384"/>
+        <updated>2022-02-25T00:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As this is the first major large scale cyber-war, thoughts?]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在做什么工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30462256</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sirspacey</name>
             <uri>https://news.ycombinator.com/user?id=sirspacey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有其他像SQLite那样的单盘文件的数据库存在？]]></title>
-        <id>https://news.ycombinator.com/item?id=30303129</id>
-        <link href="https://news.ycombinator.com/item?id=30303129"/>
-        <updated>2022-02-11T16:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any other databases on single disk file like SQLite exist?]]></summary>
-        <author>
-            <name>cliffordfajardo</name>
-            <uri>https://news.ycombinator.com/user?id=cliffordfajardo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股权是否已经从员工转移到了风险投资公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30302828</id>
-        <link href="https://news.ycombinator.com/item?id=30302828"/>
-        <updated>2022-02-11T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has equity shifted from employees to VCs?]]></summary>
-        <author>
-            <name>segah</name>
-            <uri>https://news.ycombinator.com/user?id=segah</uri>
         </author>
     </entry>
 </feed>
