@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T02:35:07.918Z</updated>
+    <updated>2022-02-25T02:56:02.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网络上第二个最文明的地方是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30463156</id>
+        <link href="https://news.ycombinator.com/item?id=30463156"/>
+        <updated>2022-02-25T02:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the second most civilized place on the web?]]></summary>
+        <author>
+            <name>tomcam</name>
+            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在半导体芯片生产中，什么可以取代霓虹灯？]]></title>
         <id>https://news.ycombinator.com/item?id=30462838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>soheil</name>
             <uri>https://news.ycombinator.com/user?id=soheil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你从你的成功项目中学到了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30303394</id>
-        <link href="https://news.ycombinator.com/item?id=30303394"/>
-        <updated>2022-02-11T16:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did you learn from your successful projects?]]></summary>
-        <author>
-            <name>launchiterate</name>
-            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
         </author>
     </entry>
 </feed>
