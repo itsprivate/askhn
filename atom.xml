@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T20:15:37.015Z</updated>
+    <updated>2022-02-25T20:53:32.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有哪些关于乌克兰的现场新闻报道的常用来源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30472081</id>
+        <link href="https://news.ycombinator.com/item?id=30472081"/>
+        <updated>2022-02-25T20:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your go-to sources for live news coverage of Ukraine]]></summary>
+        <author>
+            <name>hbarka</name>
+            <uri>https://news.ycombinator.com/user?id=hbarka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要学习什么才能成为一个有用的黑客来保卫我的国家？]]></title>
         <id>https://news.ycombinator.com/item?id=30471631</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aniijbod</name>
             <uri>https://news.ycombinator.com/user?id=aniijbod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端有什么新的和时髦的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30317223</id>
-        <link href="https://news.ycombinator.com/item?id=30317223"/>
-        <updated>2022-02-12T22:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's new and funky in front end?]]></summary>
-        <author>
-            <name>lastairnomad</name>
-            <uri>https://news.ycombinator.com/user?id=lastairnomad</uri>
         </author>
     </entry>
 </feed>
