@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T19:39:28.866Z</updated>
+    <updated>2022-02-25T19:56:33.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否以 "通過 "的方式審查代碼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471497</id>
+        <link href="https://news.ycombinator.com/item?id=30471497"/>
+        <updated>2022-02-25T19:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you review code in “passes”?]]></summary>
+        <author>
+            <name>kaycebasques</name>
+            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對香水評論的堆棧排名的看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471491</id>
+        <link href="https://news.ycombinator.com/item?id=30471491"/>
+        <updated>2022-02-25T19:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thoughts on Stack Ranking for Perf Reviews?]]></summary>
+        <author>
+            <name>tasoeur</name>
+            <uri>https://news.ycombinator.com/user?id=tasoeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何寫好一份工作描述--你發現的有用資源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471350</id>
+        <link href="https://news.ycombinator.com/item?id=30471350"/>
+        <updated>2022-02-25T19:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to write a good job description – useful resources you've found?]]></summary>
+        <author>
+            <name>hammock</name>
+            <uri>https://news.ycombinator.com/user?id=hammock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們怎麼知道俄羅斯人沒有影響到HN？]]></title>
         <id>https://news.ycombinator.com/item?id=30471249</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>gizmore</name>
             <uri>https://news.ycombinator.com/user?id=gizmore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼不在空氣中存在疫苗的建築物中接種疫苗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30316808</id>
-        <link href="https://news.ycombinator.com/item?id=30316808"/>
-        <updated>2022-02-12T21:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why not have vaccinated buildings where the vaccine is in the air?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你不想做管理，有什麼可能的職業軌跡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30316390</id>
-        <link href="https://news.ycombinator.com/item?id=30316390"/>
-        <updated>2022-02-12T20:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What're possible career trajectories if you don't want to manage?]]></summary>
-        <author>
-            <name>gavinray</name>
-            <uri>https://news.ycombinator.com/user?id=gavinray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVP是初創企業應該建立的第一件事嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30316086</id>
-        <link href="https://news.ycombinator.com/item?id=30316086"/>
-        <updated>2022-02-12T20:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is an MVP the first thing a startup should build?]]></summary>
-        <author>
-            <name>MaknMoreGtnLess</name>
-            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
         </author>
     </entry>
 </feed>
