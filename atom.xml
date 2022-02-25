@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T14:15:05.872Z</updated>
+    <updated>2022-02-25T14:52:32.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于向C#过渡的建议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30467742</id>
+        <link href="https://news.ycombinator.com/item?id=30467742"/>
+        <updated>2022-02-25T14:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on Transitioning to C#?]]></summary>
+        <author>
+            <name>smorgusofborg</name>
+            <uri>https://news.ycombinator.com/user?id=smorgusofborg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于理解数控技术背后的数学的书]]></title>
+        <id>https://news.ycombinator.com/item?id=30467635</id>
+        <link href="https://news.ycombinator.com/item?id=30467635"/>
+        <updated>2022-02-25T14:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Book about understanding mathematics behind CNC]]></summary>
+        <author>
+            <name>tbt43p</name>
+            <uri>https://news.ycombinator.com/user?id=tbt43p</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何获得高中的实习机会？]]></title>
         <id>https://news.ycombinator.com/item?id=30467335</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>atylerrice</name>
             <uri>https://news.ycombinator.com/user?id=atylerrice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有强迫症，患有极度拖延症，请帮助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30313215</id>
-        <link href="https://news.ycombinator.com/item?id=30313215"/>
-        <updated>2022-02-12T14:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have OCD, suffering from extreme procrastination, please help?]]></summary>
-        <author>
-            <name>nerdyadventurer</name>
-            <uri>https://news.ycombinator.com/user?id=nerdyadventurer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的网页上出现巨大的HN反馈后，亚马逊关闭了我的账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30313169</id>
-        <link href="https://news.ycombinator.com/item?id=30313169"/>
-        <updated>2022-02-12T14:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: After great HN feedback on my web page Amazon closed my account]]></summary>
-        <author>
-            <name>moasda</name>
-            <uri>https://news.ycombinator.com/user?id=moasda</uri>
         </author>
     </entry>
 </feed>
