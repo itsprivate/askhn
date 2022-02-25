@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T18:16:20.167Z</updated>
+    <updated>2022-02-25T18:39:42.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會推薦大家閱讀哪一本關於談判的書？]]></title>
+        <id>https://news.ycombinator.com/item?id=30470399</id>
+        <link href="https://news.ycombinator.com/item?id=30470399"/>
+        <updated>2022-02-25T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is one book you would recommend everyone to read on Negotiation?]]></summary>
+        <author>
+            <name>jayeshgopalan</name>
+            <uri>https://news.ycombinator.com/user?id=jayeshgopalan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網狀網絡移動聊天應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30470068</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nile-crocodile</name>
             <uri>https://news.ycombinator.com/user?id=nile-crocodile</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail的垃圾郵件對其他人也失去了控制嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30315116</id>
-        <link href="https://news.ycombinator.com/item?id=30315116"/>
-        <updated>2022-02-12T18:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Gmail spam out of control for everyone else too?]]></summary>
-        <author>
-            <name>agency</name>
-            <uri>https://news.ycombinator.com/user?id=agency</uri>
         </author>
     </entry>
 </feed>
