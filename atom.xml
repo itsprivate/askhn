@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T09:14:33.079Z</updated>
+    <updated>2022-02-25T09:32:47.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何跟踪代码实验/尖峰/副业项目的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465293</id>
+        <link href="https://news.ycombinator.com/item?id=30465293"/>
+        <updated>2022-02-25T09:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you keep track of code experiments/spikes/side projects?]]></summary>
+        <author>
+            <name>elcapitan</name>
+            <uri>https://news.ycombinator.com/user?id=elcapitan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何扩展我们的CI/CD流程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465241</id>
+        <link href="https://news.ycombinator.com/item?id=30465241"/>
+        <updated>2022-02-25T09:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to scale our ci/CD process?]]></summary>
+        <author>
+            <name>shlosky</name>
+            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果有一天跨大西洋的海底电缆被切断了，会发生什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465195</id>
+        <link href="https://news.ycombinator.com/item?id=30465195"/>
+        <updated>2022-02-25T09:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens if the transatlantic undersea cables are severed one day?]]></summary>
+        <author>
+            <name>truckerbill</name>
+            <uri>https://news.ycombinator.com/user?id=truckerbill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在我看来，TikTok、Twitter等的趋势性内容完全不对头。]]></title>
         <id>https://news.ycombinator.com/item?id=30465096</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>going_ham</name>
             <uri>https://news.ycombinator.com/user?id=going_ham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么要把动物带到火星上，增加那里发生大流行病的风险？]]></title>
-        <id>https://news.ycombinator.com/item?id=30307706</id>
-        <link href="https://news.ycombinator.com/item?id=30307706"/>
-        <updated>2022-02-11T22:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why take animals to Mars and increase the risk of a pandemic there?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我会收到来自最近拨打的区号的劫持电话？]]></title>
-        <id>https://news.ycombinator.com/item?id=30307425</id>
-        <link href="https://news.ycombinator.com/item?id=30307425"/>
-        <updated>2022-02-11T21:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do I get robocalls from recently-called area codes?]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何处理邮件焦虑症的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30307247</id>
-        <link href="https://news.ycombinator.com/item?id=30307247"/>
-        <updated>2022-02-11T21:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with mail anxiety?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>
