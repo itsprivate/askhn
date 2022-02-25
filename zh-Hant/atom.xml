@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T18:57:44.474Z</updated>
+    <updated>2022-02-25T19:39:28.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們怎麼知道俄羅斯人沒有影響到HN？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471249</id>
+        <link href="https://news.ycombinator.com/item?id=30471249"/>
+        <updated>2022-02-25T19:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do we know Russians aren't influencing HN?]]></summary>
+        <author>
+            <name>dmarchand90</name>
+            <uri>https://news.ycombinator.com/user?id=dmarchand90</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該如何幫助烏克蘭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30471154</id>
+        <link href="https://news.ycombinator.com/item?id=30471154"/>
+        <updated>2022-02-25T19:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should I Help Ukraine?]]></summary>
+        <author>
+            <name>userland_tech</name>
+            <uri>https://news.ycombinator.com/user?id=userland_tech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活在西方的俄羅斯人和烏克蘭人，你們相處得如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30470621</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MaknMoreGtnLess</name>
             <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何使用電子郵件別名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30315666</id>
-        <link href="https://news.ycombinator.com/item?id=30315666"/>
-        <updated>2022-02-12T19:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you use email aliases?]]></summary>
-        <author>
-            <name>alxthm</name>
-            <uri>https://news.ycombinator.com/user?id=alxthm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calladev.com發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30315386</id>
-        <link href="https://news.ycombinator.com/item?id=30315386"/>
-        <updated>2022-02-12T19:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened with Calladev.com?]]></summary>
-        <author>
-            <name>nile-crocodile</name>
-            <uri>https://news.ycombinator.com/user?id=nile-crocodile</uri>
         </author>
     </entry>
 </feed>
