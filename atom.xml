@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-24T23:53:23.183Z</updated>
+    <updated>2022-02-25T00:39:33.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在做什么工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30462256</id>
+        <link href="https://news.ycombinator.com/item?id=30462256"/>
+        <updated>2022-02-25T00:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you working on?]]></summary>
+        <author>
+            <name>g4zj</name>
+            <uri>https://news.ycombinator.com/user?id=g4zj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[切尔诺贝利反应堆在漏水吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30462223</id>
+        <link href="https://news.ycombinator.com/item?id=30462223"/>
+        <updated>2022-02-25T00:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the Chernobyl Reactor Leaking?]]></summary>
+        <author>
+            <name>prakhar897</name>
+            <uri>https://news.ycombinator.com/user?id=prakhar897</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[需要您帮助确定我的企业的市场价值]]></title>
         <id>https://news.ycombinator.com/item?id=30461909</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>segah</name>
             <uri>https://news.ycombinator.com/user?id=segah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是最差的软件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30302548</id>
-        <link href="https://news.ycombinator.com/item?id=30302548"/>
-        <updated>2022-02-11T15:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Is the Worst Software?]]></summary>
-        <author>
-            <name>seereadhack</name>
-            <uri>https://news.ycombinator.com/user?id=seereadhack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您推荐哪些浏览器扩展？]]></title>
-        <id>https://news.ycombinator.com/item?id=30302011</id>
-        <link href="https://news.ycombinator.com/item?id=30302011"/>
-        <updated>2022-02-11T14:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What browser extensions do you recommend?]]></summary>
-        <author>
-            <name>JadoJodo</name>
-            <uri>https://news.ycombinator.com/user?id=JadoJodo</uri>
         </author>
     </entry>
 </feed>
