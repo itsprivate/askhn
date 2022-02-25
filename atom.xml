@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T09:53:32.376Z</updated>
+    <updated>2022-02-25T10:35:36.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是科技博客的最佳盈利方式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465656</id>
+        <link href="https://news.ycombinator.com/item?id=30465656"/>
+        <updated>2022-02-25T10:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best way to monetize a tech blog?]]></summary>
+        <author>
+            <name>codingspot</name>
+            <uri>https://news.ycombinator.com/user?id=codingspot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么西方不利用社交媒体来扩大反战信息？]]></title>
         <id>https://news.ycombinator.com/item?id=30465420</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kfrzcode</name>
             <uri>https://news.ycombinator.com/user?id=kfrzcode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何从倦怠中恢复？]]></title>
-        <id>https://news.ycombinator.com/item?id=30307837</id>
-        <link href="https://news.ycombinator.com/item?id=30307837"/>
-        <updated>2022-02-11T22:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you recover from burnout?]]></summary>
-        <author>
-            <name>throwaway14454</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway14454</uri>
         </author>
     </entry>
 </feed>
