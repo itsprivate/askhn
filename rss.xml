@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 15:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 15:54:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么乌克兰不攻击俄罗斯？]]></title>
+            <link>https://news.ycombinator.com/item?id=30468462</link>
+            <guid>https://news.ycombinator.com/item?id=30468462</guid>
+            <pubDate>Fri, 25 Feb 2022 15:44:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't Ukraine attack Russia?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么现在网络更好了，因为我们到处都有cookie政策的弹出窗口？]]></title>
             <link>https://news.ycombinator.com/item?id=30468373</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30314521</guid>
             <pubDate>Sat, 12 Feb 2022 17:31:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Easiest EU Visa to Get]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么项目正在解决处理器垃圾邮件的问题吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30314322</link>
-            <guid>https://news.ycombinator.com/item?id=30314322</guid>
-            <pubDate>Sat, 12 Feb 2022 17:09:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any projects that are tackling processor spam?]]></description>
         </item>
     </channel>
 </rss>

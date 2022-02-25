@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T15:47:41.855Z</updated>
+    <updated>2022-02-25T15:54:01.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么乌克兰不攻击俄罗斯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30468462</id>
+        <link href="https://news.ycombinator.com/item?id=30468462"/>
+        <updated>2022-02-25T15:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't Ukraine attack Russia?]]></summary>
+        <author>
+            <name>satellite2</name>
+            <uri>https://news.ycombinator.com/user?id=satellite2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么现在网络更好了，因为我们到处都有cookie政策的弹出窗口？]]></title>
         <id>https://news.ycombinator.com/item?id=30468373</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>999900000999</name>
             <uri>https://news.ycombinator.com/user?id=999900000999</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么项目正在解决处理器垃圾邮件的问题吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30314322</id>
-        <link href="https://news.ycombinator.com/item?id=30314322"/>
-        <updated>2022-02-12T17:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any projects that are tackling processor spam?]]></summary>
-        <author>
-            <name>NWoodsman</name>
-            <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
         </author>
     </entry>
 </feed>
