@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T15:54:01.618Z</updated>
+    <updated>2022-02-25T16:15:58.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么办法可以隐藏来自特定域名的所有帖子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30468694</id>
+        <link href="https://news.ycombinator.com/item?id=30468694"/>
+        <updated>2022-02-25T16:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any way to hide all posts from specific domains?]]></summary>
+        <author>
+            <name>kkoncevicius</name>
+            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯客户被禁运了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30468602</id>
+        <link href="https://news.ycombinator.com/item?id=30468602"/>
+        <updated>2022-02-25T15:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Russian customers under embargo?]]></summary>
+        <author>
+            <name>novaleaf</name>
+            <uri>https://news.ycombinator.com/user?id=novaleaf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么乌克兰不攻击俄罗斯？]]></title>
         <id>https://news.ycombinator.com/item?id=30468462</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>4444</name>
             <uri>https://news.ycombinator.com/user?id=4444</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[说服别人与你做用户访谈的策略？]]></title>
-        <id>https://news.ycombinator.com/item?id=30314576</id>
-        <link href="https://news.ycombinator.com/item?id=30314576"/>
-        <updated>2022-02-12T17:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Strategy to persuade someone do a user interview with you?]]></summary>
-        <author>
-            <name>shkurski_</name>
-            <uri>https://news.ycombinator.com/user?id=shkurski_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最容易获得的欧盟签证]]></title>
-        <id>https://news.ycombinator.com/item?id=30314521</id>
-        <link href="https://news.ycombinator.com/item?id=30314521"/>
-        <updated>2022-02-12T17:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Easiest EU Visa to Get]]></summary>
-        <author>
-            <name>999900000999</name>
-            <uri>https://news.ycombinator.com/user?id=999900000999</uri>
         </author>
     </entry>
 </feed>
