@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 20:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 21:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在B2B SaaS中安全地存储API密钥的最佳实践]]></title>
+            <link>https://news.ycombinator.com/item?id=30472344</link>
+            <guid>https://news.ycombinator.com/item?id=30472344</guid>
+            <pubDate>Fri, 25 Feb 2022 21:01:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best practice for storing API keys securely in a B2B SaaS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[作为一个开发商，如何准备应对重大的经济衰退？]]></title>
+            <link>https://news.ycombinator.com/item?id=30472247</link>
+            <guid>https://news.ycombinator.com/item?id=30472247</guid>
+            <pubDate>Fri, 25 Feb 2022 20:54:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to prepare for a major downturn as a developer?]]></description>
+        </item>
         <item>
             <title><![CDATA[你有哪些关于乌克兰的现场新闻报道的常用来源？]]></title>
             <link>https://news.ycombinator.com/item?id=30472081</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30317608</guid>
             <pubDate>Sat, 12 Feb 2022 23:54:04 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you handle “staging servers” in non-web environments?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对我的Three.js/CSS介绍有什么看法？]]></title>
-            <link>https://news.ycombinator.com/item?id=30317594</link>
-            <guid>https://news.ycombinator.com/item?id=30317594</guid>
-            <pubDate>Sat, 12 Feb 2022 23:52:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Thoughts on my Three.js / CSS intro?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[早期编程语言的哪些特点出人意料地存留了下来？]]></title>
-            <link>https://news.ycombinator.com/item?id=30317414</link>
-            <guid>https://news.ycombinator.com/item?id=30317414</guid>
-            <pubDate>Sat, 12 Feb 2022 23:27:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which features of early programming languages surprisingly survived?]]></description>
         </item>
     </channel>
 </rss>

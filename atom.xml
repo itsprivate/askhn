@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T20:53:32.944Z</updated>
+    <updated>2022-02-25T21:11:57.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在B2B SaaS中安全地存储API密钥的最佳实践]]></title>
+        <id>https://news.ycombinator.com/item?id=30472344</id>
+        <link href="https://news.ycombinator.com/item?id=30472344"/>
+        <updated>2022-02-25T21:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best practice for storing API keys securely in a B2B SaaS]]></summary>
+        <author>
+            <name>securityquest</name>
+            <uri>https://news.ycombinator.com/user?id=securityquest</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个开发商，如何准备应对重大的经济衰退？]]></title>
+        <id>https://news.ycombinator.com/item?id=30472247</id>
+        <link href="https://news.ycombinator.com/item?id=30472247"/>
+        <updated>2022-02-25T20:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to prepare for a major downturn as a developer?]]></summary>
+        <author>
+            <name>MagicAndi</name>
+            <uri>https://news.ycombinator.com/user?id=MagicAndi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有哪些关于乌克兰的现场新闻报道的常用来源？]]></title>
         <id>https://news.ycombinator.com/item?id=30472081</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>101008</name>
             <uri>https://news.ycombinator.com/user?id=101008</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对我的Three.js/CSS介绍有什么看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30317594</id>
-        <link href="https://news.ycombinator.com/item?id=30317594"/>
-        <updated>2022-02-12T23:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on my Three.js / CSS intro?]]></summary>
-        <author>
-            <name>mistermeenr</name>
-            <uri>https://news.ycombinator.com/user?id=mistermeenr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早期编程语言的哪些特点出人意料地存留了下来？]]></title>
-        <id>https://news.ycombinator.com/item?id=30317414</id>
-        <link href="https://news.ycombinator.com/item?id=30317414"/>
-        <updated>2022-02-12T23:27:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which features of early programming languages surprisingly survived?]]></summary>
-        <author>
-            <name>aniijbod</name>
-            <uri>https://news.ycombinator.com/user?id=aniijbod</uri>
         </author>
     </entry>
 </feed>
