@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T07:52:41.684Z</updated>
+    <updated>2022-02-25T09:14:33.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在我看来，TikTok、Twitter等的趋势性内容完全不对头。]]></title>
+        <id>https://news.ycombinator.com/item?id=30465096</id>
+        <link href="https://news.ycombinator.com/item?id=30465096"/>
+        <updated>2022-02-25T08:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Trending Content on TikTok, Twitter etc. looks completely off to me]]></summary>
+        <author>
+            <name>endymi0n</name>
+            <uri>https://news.ycombinator.com/user?id=endymi0n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你们公司是如何发布软件的？]]></title>
         <id>https://news.ycombinator.com/item?id=30464648</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄乌战争对软件业的影响？]]></title>
-        <id>https://news.ycombinator.com/item?id=30306403</id>
-        <link href="https://news.ycombinator.com/item?id=30306403"/>
-        <updated>2022-02-11T20:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Consequences of the Russia-Ukraine War in the software industry?]]></summary>
-        <author>
-            <name>erkanerol</name>
-            <uri>https://news.ycombinator.com/user?id=erkanerol</uri>
         </author>
     </entry>
 </feed>
