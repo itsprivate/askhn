@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T04:15:27.526Z</updated>
+    <updated>2022-02-25T04:56:50.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用什麼產品進行產品驗證/產品市場適應性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30463814</id>
+        <link href="https://news.ycombinator.com/item?id=30463814"/>
+        <updated>2022-02-25T04:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What products to use for product validation/product market fit?]]></summary>
+        <author>
+            <name>samichattha</name>
+            <uri>https://news.ycombinator.com/user?id=samichattha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最適合10歲孩子閱讀的關於科學主題的有趣書籍？]]></title>
         <id>https://news.ycombinator.com/item?id=30463633</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>laurex</name>
             <uri>https://news.ycombinator.com/user?id=laurex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的程序員是誰？]]></title>
-        <id>https://news.ycombinator.com/item?id=30303873</id>
-        <link href="https://news.ycombinator.com/item?id=30303873"/>
-        <updated>2022-02-11T17:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is your favorite programmer?]]></summary>
-        <author>
-            <name>mufusus</name>
-            <uri>https://news.ycombinator.com/user?id=mufusus</uri>
         </author>
     </entry>
 </feed>
