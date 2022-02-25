@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T17:05:47.243Z</updated>
+    <updated>2022-02-25T17:21:31.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何为你的创业公司找到投资者的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30469412</id>
+        <link href="https://news.ycombinator.com/item?id=30469412"/>
+        <updated>2022-02-25T17:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you find investors for your startup?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在不久的将来，对非macOS的笔记本电脑有什么乐观的看法吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30469292</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>halestock</name>
             <uri>https://news.ycombinator.com/user?id=halestock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将我的代码库的依赖关系图可视化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30314853</id>
-        <link href="https://news.ycombinator.com/item?id=30314853"/>
-        <updated>2022-02-12T18:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to visualize the dependency graphs of my codebase?]]></summary>
-        <author>
-            <name>toto007</name>
-            <uri>https://news.ycombinator.com/user?id=toto007</uri>
         </author>
     </entry>
 </feed>
