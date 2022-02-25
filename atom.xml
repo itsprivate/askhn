@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T17:21:31.664Z</updated>
+    <updated>2022-02-25T18:16:20.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网状网络移动聊天应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30470068</id>
+        <link href="https://news.ycombinator.com/item?id=30470068"/>
+        <updated>2022-02-25T17:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mesh networking mobile chat apps]]></summary>
+        <author>
+            <name>miohtama</name>
+            <uri>https://news.ycombinator.com/user?id=miohtama</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何为你的创业公司找到投资者的？]]></title>
         <id>https://news.ycombinator.com/item?id=30469412</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>agency</name>
             <uri>https://news.ycombinator.com/user?id=agency</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你在一个软件开发者工会，你会为之奋斗什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30314980</id>
-        <link href="https://news.ycombinator.com/item?id=30314980"/>
-        <updated>2022-02-12T18:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you were in a software developers' union, what would you fight for?]]></summary>
-        <author>
-            <name>halestock</name>
-            <uri>https://news.ycombinator.com/user?id=halestock</uri>
         </author>
     </entry>
 </feed>
