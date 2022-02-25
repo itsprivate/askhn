@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[del.icio.us風格的域名是否完全不被接受？]]></title>
+            <link>https://news.ycombinator.com/item?id=30464169</link>
+            <guid>https://news.ycombinator.com/item?id=30464169</guid>
+            <pubDate>Fri, 25 Feb 2022 06:12:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are del.icio.us style domain names not accepted at all?]]></description>
+        </item>
         <item>
             <title><![CDATA[當Postgres和SQLite提供JSON類型時，MongoDB是否過時了？]]></title>
             <link>https://news.ycombinator.com/item?id=30464075</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30305712</guid>
             <pubDate>Fri, 11 Feb 2022 19:11:09 GMT</pubDate>
             <description><![CDATA[Ask HN: How to migrate from employee to freelancer as a SW engineer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在家工作時，你是如何保持專注的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30305533</link>
-            <guid>https://news.ycombinator.com/item?id=30305533</guid>
-            <pubDate>Fri, 11 Feb 2022 18:55:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you stay focused when working at home?]]></description>
         </item>
     </channel>
 </rss>

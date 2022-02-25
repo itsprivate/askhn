@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T05:53:18.117Z</updated>
+    <updated>2022-02-25T06:38:42.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[del.icio.us風格的域名是否完全不被接受？]]></title>
+        <id>https://news.ycombinator.com/item?id=30464169</id>
+        <link href="https://news.ycombinator.com/item?id=30464169"/>
+        <updated>2022-02-25T06:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are del.icio.us style domain names not accepted at all?]]></summary>
+        <author>
+            <name>noctis</name>
+            <uri>https://news.ycombinator.com/user?id=noctis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當Postgres和SQLite提供JSON類型時，MongoDB是否過時了？]]></title>
         <id>https://news.ycombinator.com/item?id=30464075</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwcean</name>
             <uri>https://news.ycombinator.com/user?id=throwcean</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在家工作時，你是如何保持專注的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30305533</id>
-        <link href="https://news.ycombinator.com/item?id=30305533"/>
-        <updated>2022-02-11T18:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you stay focused when working at home?]]></summary>
-        <author>
-            <name>throwaway25625</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway25625</uri>
         </author>
     </entry>
 </feed>
