@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Feb 2022 12:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 13:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌沒有完全收錄github.com的問題？]]></title>
+            <link>https://news.ycombinator.com/item?id=30466961</link>
+            <guid>https://news.ycombinator.com/item?id=30466961</guid>
+            <pubDate>Fri, 25 Feb 2022 13:24:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Google not completely indexing github.com issues?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的團隊是否使用功能標誌進行A/B測試？]]></title>
+            <link>https://news.ycombinator.com/item?id=30466914</link>
+            <guid>https://news.ycombinator.com/item?id=30466914</guid>
+            <pubDate>Fri, 25 Feb 2022 13:18:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does your team use feature flags for A/B testing?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你是由DST Global資助的，你今天是否會感到羞愧？]]></title>
             <link>https://news.ycombinator.com/item?id=30466280</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30312258</guid>
             <pubDate>Sat, 12 Feb 2022 12:24:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Schema aware partial relational database copy with subset of records]]></description>
-        </item>
-        <item>
-            <title><![CDATA[下一步是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30310575</link>
-            <guid>https://news.ycombinator.com/item?id=30310575</guid>
-            <pubDate>Sat, 12 Feb 2022 07:00:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: What’s Next?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何評估你應該在哪個項目想法上下功夫？]]></title>
-            <link>https://news.ycombinator.com/item?id=30309950</link>
-            <guid>https://news.ycombinator.com/item?id=30309950</guid>
-            <pubDate>Sat, 12 Feb 2022 04:28:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to evaluate which project idea should you work upon?]]></description>
         </item>
     </channel>
 </rss>
