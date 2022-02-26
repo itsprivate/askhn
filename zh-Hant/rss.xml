@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Feb 2022 13:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 13:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最喜歡的遊戲是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30477328</link>
+            <guid>https://news.ycombinator.com/item?id=30477328</guid>
+            <pubDate>Sat, 26 Feb 2022 13:24:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are you favourite games?]]></description>
+        </item>
         <item>
             <title><![CDATA[公共和免費使用的API可以玩嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30477129</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30322741</guid>
             <pubDate>Sun, 13 Feb 2022 16:15:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Why can't profs get grants for engineering (rather than research)?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對社會和技術的發展方向感到幻滅]]></title>
-            <link>https://news.ycombinator.com/item?id=30321888</link>
-            <guid>https://news.ycombinator.com/item?id=30321888</guid>
-            <pubDate>Sun, 13 Feb 2022 14:21:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Disillusioned with the Direction of Society and Technology]]></description>
         </item>
     </channel>
 </rss>
