@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T13:53:31.703Z</updated>
+    <updated>2022-02-26T14:52:15.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果俄罗斯被禁入SWIFT，它将如何反映在加密货币上？]]></title>
+        <id>https://news.ycombinator.com/item?id=30477892</id>
+        <link href="https://news.ycombinator.com/item?id=30477892"/>
+        <updated>2022-02-26T14:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If Russia gets banned from SWIFT, how it would reflect on crypto?]]></summary>
+        <author>
+            <name>sarusso</name>
+            <uri>https://news.ycombinator.com/user?id=sarusso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在乌克兰发生的事情上，我们能做什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30477410</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dyml</name>
             <uri>https://news.ycombinator.com/user?id=dyml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在不换工作的情况下每年多赚5万美元以上？]]></title>
-        <id>https://news.ycombinator.com/item?id=30322965</id>
-        <link href="https://news.ycombinator.com/item?id=30322965"/>
-        <updated>2022-02-13T16:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make an extra $50k+ per year without changing jobs?]]></summary>
-        <author>
-            <name>ryanSrich</name>
-            <uri>https://news.ycombinator.com/user?id=ryanSrich</uri>
         </author>
     </entry>
 </feed>
