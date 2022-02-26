@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T15:36:50.657Z</updated>
+    <updated>2022-02-26T16:48:40.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有可能將俄羅斯從互聯網上切斷？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478838</id>
+        <link href="https://news.ycombinator.com/item?id=30478838"/>
+        <updated>2022-02-26T16:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to cut Russia from the internet?]]></summary>
+        <author>
+            <name>emreb</name>
+            <uri>https://news.ycombinator.com/user?id=emreb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何聯繫GitHub產品經理？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478789</id>
+        <link href="https://news.ycombinator.com/item?id=30478789"/>
+        <updated>2022-02-26T16:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to contact GitHub product managers?]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub仍然是一個理想的工作場所嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478768</id>
+        <link href="https://news.ycombinator.com/item?id=30478768"/>
+        <updated>2022-02-26T16:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is GitHub still a desirable place to work?]]></summary>
+        <author>
+            <name>mcrittenden</name>
+            <uri>https://news.ycombinator.com/user?id=mcrittenden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的公司是如何處理治理問題的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478749</id>
+        <link href="https://news.ycombinator.com/item?id=30478749"/>
+        <updated>2022-02-26T16:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does your company deal with governance?]]></summary>
+        <author>
+            <name>africa-toto</name>
+            <uri>https://news.ycombinator.com/user?id=africa-toto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追蹤分析？]]></title>
         <id>https://news.ycombinator.com/item?id=30478305</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>SMAAART</name>
             <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免在20多歲時出現職業停滯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30324391</id>
-        <link href="https://news.ycombinator.com/item?id=30324391"/>
-        <updated>2022-02-13T18:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to avoid career stagnation in my 20s?]]></summary>
-        <author>
-            <name>rschachte</name>
-            <uri>https://news.ycombinator.com/user?id=rschachte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[養動物是無家可歸者有的好的藥物成癮療法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30324227</id>
-        <link href="https://news.ycombinator.com/item?id=30324227"/>
-        <updated>2022-02-13T18:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Raising animals a good drug addiction cure the homeless have?]]></summary>
-        <author>
-            <name>MaknMoreGtnLess</name>
-            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的軟件是由你的設計演變而來，還是相反？]]></title>
-        <id>https://news.ycombinator.com/item?id=30323767</id>
-        <link href="https://news.ycombinator.com/item?id=30323767"/>
-        <updated>2022-02-13T17:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does your software evolve out of your design, or is it the other way?]]></summary>
-        <author>
-            <name>_448</name>
-            <uri>https://news.ycombinator.com/user?id=_448</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[討論編程語言內部的書籍，感覺很舒服？]]></title>
-        <id>https://news.ycombinator.com/item?id=30323495</id>
-        <link href="https://news.ycombinator.com/item?id=30323495"/>
-        <updated>2022-02-13T17:28:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books to feel comfortable discussing internals of programming languages?]]></summary>
-        <author>
-            <name>dondraper36</name>
-            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
         </author>
     </entry>
 </feed>
