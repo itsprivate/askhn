@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T12:48:03.808Z</updated>
+    <updated>2022-02-26T13:07:13.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公共和免費使用的API可以玩嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30477129</id>
+        <link href="https://news.ycombinator.com/item?id=30477129"/>
+        <updated>2022-02-26T12:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Public and free-to-use APIs to play with?]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何獲得GitHub Readme的下載，並轉換為PDF文件]]></title>
         <id>https://news.ycombinator.com/item?id=30476961</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>morpheos137</name>
             <uri>https://news.ycombinator.com/user?id=morpheos137</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有多少次低估了自己？]]></title>
-        <id>https://news.ycombinator.com/item?id=30322680</id>
-        <link href="https://news.ycombinator.com/item?id=30322680"/>
-        <updated>2022-02-13T16:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How often do you underestimate yourself?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
