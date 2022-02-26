@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T18:56:09.645Z</updated>
+    <updated>2022-02-26T19:26:03.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何看待 "军龄男性 "这一说法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30480844</id>
+        <link href="https://news.ycombinator.com/item?id=30480844"/>
+        <updated>2022-02-26T19:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think of the expression “military aged male”?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰不能向欧盟暂时出租/出售边境土地]]></title>
         <id>https://news.ycombinator.com/item?id=30480445</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dihydro</name>
             <uri>https://news.ycombinator.com/user?id=dihydro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2032年的脆弱性研究？]]></title>
-        <id>https://news.ycombinator.com/item?id=30324988</id>
-        <link href="https://news.ycombinator.com/item?id=30324988"/>
-        <updated>2022-02-13T19:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Vulnerability Research in 2032?]]></summary>
-        <author>
-            <name>badrabbit</name>
-            <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
         </author>
     </entry>
 </feed>
