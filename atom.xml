@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T15:12:02.327Z</updated>
+    <updated>2022-02-26T15:36:50.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[追踪分析？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478305</id>
+        <link href="https://news.ycombinator.com/item?id=30478305"/>
+        <updated>2022-02-26T15:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Keep Track of Analytics?]]></summary>
+        <author>
+            <name>klausthaler</name>
+            <uri>https://news.ycombinator.com/user?id=klausthaler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否应该禁止所有政治家使用Twitter？]]></title>
+        <id>https://news.ycombinator.com/item?id=30478199</id>
+        <link href="https://news.ycombinator.com/item?id=30478199"/>
+        <updated>2022-02-26T15:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should all politicians be banned from Twitter?]]></summary>
+        <author>
+            <name>farqws</name>
+            <uri>https://news.ycombinator.com/user?id=farqws</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[处理公司流程的技巧？]]></title>
         <id>https://news.ycombinator.com/item?id=30478077</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dondraper36</name>
             <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将进行的工程经理和工程总监的面试]]></title>
-        <id>https://news.ycombinator.com/item?id=30323369</id>
-        <link href="https://news.ycombinator.com/item?id=30323369"/>
-        <updated>2022-02-13T17:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Upcoming interview with Engineering manager and Engineering Director]]></summary>
-        <author>
-            <name>2bor-2n</name>
-            <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么会让你快乐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30323344</id>
-        <link href="https://news.ycombinator.com/item?id=30323344"/>
-        <updated>2022-02-13T17:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would make you happy?]]></summary>
-        <author>
-            <name>blunte</name>
-            <uri>https://news.ycombinator.com/user?id=blunte</uri>
         </author>
     </entry>
 </feed>
