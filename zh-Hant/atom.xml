@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T21:13:56.934Z</updated>
+    <updated>2022-02-26T21:30:27.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼你要用一種小眾語言為你的愛好項目編程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30482060</id>
+        <link href="https://news.ycombinator.com/item?id=30482060"/>
+        <updated>2022-02-26T21:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are you programming your hobby projects in a niche language?]]></summary>
+        <author>
+            <name>Decabytes</name>
+            <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭平民戰鬥人員的城市戰爭手冊]]></title>
         <id>https://news.ycombinator.com/item?id=30481969</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密貨幣能解決什麼現實問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30329114</id>
-        <link href="https://news.ycombinator.com/item?id=30329114"/>
-        <updated>2022-02-14T07:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What real world problem does cryptocurrency solve?]]></summary>
-        <author>
-            <name>lowkeyokay</name>
-            <uri>https://news.ycombinator.com/user?id=lowkeyokay</uri>
         </author>
     </entry>
 </feed>
