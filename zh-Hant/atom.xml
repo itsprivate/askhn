@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T23:33:54.786Z</updated>
+    <updated>2022-02-26T23:52:02.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡戰聽起來是不是比實際情況更糟糕？是否應該創造另一個術語？]]></title>
+        <id>https://news.ycombinator.com/item?id=30483346</id>
+        <link href="https://news.ycombinator.com/item?id=30483346"/>
+        <updated>2022-02-26T23:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does cyberwarfare sound worse than it is? Should another term be coined?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以用48GB的內存做什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30482976</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway834768</name>
             <uri>https://news.ycombinator.com/user?id=throwaway834768</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你認為科技界的年齡歧視是一件壞事/沒有道理嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30329853</id>
-        <link href="https://news.ycombinator.com/item?id=30329853"/>
-        <updated>2022-02-14T09:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you consider ageism in tech to be a bad thing/unjustified?Why?]]></summary>
-        <author>
-            <name>throwawaynay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
         </author>
     </entry>
 </feed>
