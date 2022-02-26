@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T20:13:42.709Z</updated>
+    <updated>2022-02-26T21:13:56.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭平民戰鬥人員的城市戰爭手冊]]></title>
+        <id>https://news.ycombinator.com/item?id=30481969</id>
+        <link href="https://news.ycombinator.com/item?id=30481969"/>
+        <updated>2022-02-26T21:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Urban warfare manual for Ukranian civilian combatants]]></summary>
+        <author>
+            <name>pr8dan</name>
+            <uri>https://news.ycombinator.com/user?id=pr8dan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的戰鬥錄像都在哪裡？]]></title>
+        <id>https://news.ycombinator.com/item?id=30481951</id>
+        <link href="https://news.ycombinator.com/item?id=30481951"/>
+        <updated>2022-02-26T21:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where is all the video footage of fighting in Ukraine]]></summary>
+        <author>
+            <name>uhtred</name>
+            <uri>https://news.ycombinator.com/user?id=uhtred</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何管理備份的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30481935</id>
+        <link href="https://news.ycombinator.com/item?id=30481935"/>
+        <updated>2022-02-26T21:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you manage backups?]]></summary>
+        <author>
+            <name>JonathanBuchh</name>
+            <uri>https://news.ycombinator.com/user?id=JonathanBuchh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些書可以激發你對計算機科學的雄心？]]></title>
+        <id>https://news.ycombinator.com/item?id=30481900</id>
+        <link href="https://news.ycombinator.com/item?id=30481900"/>
+        <updated>2022-02-26T20:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some books to fuel your ambition towards computer science?]]></summary>
+        <author>
+            <name>dummywaquestion</name>
+            <uri>https://news.ycombinator.com/user?id=dummywaquestion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turing.com和Toptal。合法嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30481341</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>lowkeyokay</name>
             <uri>https://news.ycombinator.com/user?id=lowkeyokay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[訪問山景城時有哪些事情可做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30328621</id>
-        <link href="https://news.ycombinator.com/item?id=30328621"/>
-        <updated>2022-02-14T05:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some things to do when visiting Mountain View?]]></summary>
-        <author>
-            <name>ianbutler</name>
-            <uri>https://news.ycombinator.com/user?id=ianbutler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有一種手動內存管理的非併發Go（Golang）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30328423</id>
-        <link href="https://news.ycombinator.com/item?id=30328423"/>
-        <updated>2022-02-14T04:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a manually memory managed non concurrent Go (Golang)?]]></summary>
-        <author>
-            <name>apatheticonion</name>
-            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人在評論中使用下一個鏈接嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30327728</id>
-        <link href="https://news.ycombinator.com/item?id=30327728"/>
-        <updated>2022-02-14T02:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone use the next link on comments?]]></summary>
-        <author>
-            <name>whoisjohnkid</name>
-            <uri>https://news.ycombinator.com/user?id=whoisjohnkid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您認為網絡框架的未來是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30327623</id>
-        <link href="https://news.ycombinator.com/item?id=30327623"/>
-        <updated>2022-02-14T01:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you believe is the future of web frameworks?]]></summary>
-        <author>
-            <name>kindofajsdev</name>
-            <uri>https://news.ycombinator.com/user?id=kindofajsdev</uri>
         </author>
     </entry>
 </feed>
