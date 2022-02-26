@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Feb 2022 21:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 21:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[uBlock会隐藏你的Gmail内容吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30482238</link>
+            <guid>https://news.ycombinator.com/item?id=30482238</guid>
+            <pubDate>Sat, 26 Feb 2022 21:40:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does uBlock hide the content of your Gmail?]]></description>
+        </item>
         <item>
             <title><![CDATA[Facebook的元空间想法会不会和谷歌眼镜有同样的命运？]]></title>
             <link>https://news.ycombinator.com/item?id=30482152</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30329762</guid>
             <pubDate>Mon, 14 Feb 2022 08:47:58 GMT</pubDate>
             <description><![CDATA[Ask HN: What made your business take off that you wish you'd done much earlier?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你用你的Raspberry Pi做什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30329724</link>
-            <guid>https://news.ycombinator.com/item?id=30329724</guid>
-            <pubDate>Mon, 14 Feb 2022 08:43:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you do with your Raspberry Pi?]]></description>
         </item>
     </channel>
 </rss>

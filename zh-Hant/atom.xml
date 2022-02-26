@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T21:38:10.129Z</updated>
+    <updated>2022-02-26T21:53:48.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[uBlock會隱藏你的Gmail內容嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30482238</id>
+        <link href="https://news.ycombinator.com/item?id=30482238"/>
+        <updated>2022-02-26T21:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does uBlock hide the content of your Gmail?]]></summary>
+        <author>
+            <name>dezmou</name>
+            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook的元空間想法會不會和谷歌眼鏡有同樣的命運？]]></title>
         <id>https://news.ycombinator.com/item?id=30482152</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>greatatuin</name>
             <uri>https://news.ycombinator.com/user?id=greatatuin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用你的Raspberry Pi做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30329724</id>
-        <link href="https://news.ycombinator.com/item?id=30329724"/>
-        <updated>2022-02-14T08:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do with your Raspberry Pi?]]></summary>
-        <author>
-            <name>TheGabornator</name>
-            <uri>https://news.ycombinator.com/user?id=TheGabornator</uri>
         </author>
     </entry>
 </feed>
