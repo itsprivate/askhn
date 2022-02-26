@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T19:37:42.023Z</updated>
+    <updated>2022-02-26T19:53:27.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該為當地的親和團體使用什麼信息傳遞工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=30481111</id>
+        <link href="https://news.ycombinator.com/item?id=30481111"/>
+        <updated>2022-02-26T19:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What messaging tool should I use for a local affinity group?]]></summary>
+        <author>
+            <name>subpixel</name>
+            <uri>https://news.ycombinator.com/user?id=subpixel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼迪士尼不收購樂高？]]></title>
         <id>https://news.ycombinator.com/item?id=30480903</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JabavuAdams</name>
             <uri>https://news.ycombinator.com/user?id=JabavuAdams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否擁有我的登錄/密碼的版權？]]></title>
-        <id>https://news.ycombinator.com/item?id=30326734</id>
-        <link href="https://news.ycombinator.com/item?id=30326734"/>
-        <updated>2022-02-13T23:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do I own the copyright on my logon/password]]></summary>
-        <author>
-            <name>Berniek</name>
-            <uri>https://news.ycombinator.com/user?id=Berniek</uri>
         </author>
     </entry>
 </feed>
