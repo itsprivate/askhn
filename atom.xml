@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T21:53:48.138Z</updated>
+    <updated>2022-02-26T23:33:54.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以用48GB的内存做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30482976</id>
+        <link href="https://news.ycombinator.com/item?id=30482976"/>
+        <updated>2022-02-26T23:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What can I do with 48GB of RAM?]]></summary>
+        <author>
+            <name>zaptheimpaler</name>
+            <uri>https://news.ycombinator.com/user?id=zaptheimpaler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[uBlock会隐藏你的Gmail内容吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30482238</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么让你的企业起飞，而你希望你能更早地完成？]]></title>
-        <id>https://news.ycombinator.com/item?id=30329762</id>
-        <link href="https://news.ycombinator.com/item?id=30329762"/>
-        <updated>2022-02-14T08:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What made your business take off that you wish you'd done much earlier?]]></summary>
-        <author>
-            <name>greatatuin</name>
-            <uri>https://news.ycombinator.com/user?id=greatatuin</uri>
         </author>
     </entry>
 </feed>

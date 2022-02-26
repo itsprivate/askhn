@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Feb 2022 21:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 23:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我可以用48GB的内存做什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30482976</link>
+            <guid>https://news.ycombinator.com/item?id=30482976</guid>
+            <pubDate>Sat, 26 Feb 2022 23:10:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: What can I do with 48GB of RAM?]]></description>
+        </item>
         <item>
             <title><![CDATA[uBlock会隐藏你的Gmail内容吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30482238</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30329853</guid>
             <pubDate>Mon, 14 Feb 2022 09:01:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you consider ageism in tech to be a bad thing/unjustified?Why?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让你的企业起飞，而你希望你能更早地完成？]]></title>
-            <link>https://news.ycombinator.com/item?id=30329762</link>
-            <guid>https://news.ycombinator.com/item?id=30329762</guid>
-            <pubDate>Mon, 14 Feb 2022 08:47:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: What made your business take off that you wish you'd done much earlier?]]></description>
         </item>
     </channel>
 </rss>
