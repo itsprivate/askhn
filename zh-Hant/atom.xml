@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T17:31:58.105Z</updated>
+    <updated>2022-02-26T18:05:49.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我們將供暖溫度降低3°，我們在歐盟可以節省多少天然氣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30479688</id>
+        <link href="https://news.ycombinator.com/item?id=30479688"/>
+        <updated>2022-02-26T17:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much gas we could save in EU if we reduce our heating temp by 3°?]]></summary>
+        <author>
+            <name>ciccionamente</name>
+            <uri>https://news.ycombinator.com/user?id=ciccionamente</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是支持5G的最佳 "開放式 "手機？]]></title>
         <id>https://news.ycombinator.com/item?id=30479470</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JabavuAdams</name>
             <uri>https://news.ycombinator.com/user?id=JabavuAdams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為不是膠水的工作說話？]]></title>
-        <id>https://news.ycombinator.com/item?id=30324581</id>
-        <link href="https://news.ycombinator.com/item?id=30324581"/>
-        <updated>2022-02-13T19:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Words for work that isn't glue?]]></summary>
-        <author>
-            <name>bckr</name>
-            <uri>https://news.ycombinator.com/user?id=bckr</uri>
         </author>
     </entry>
 </feed>
