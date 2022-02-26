@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T16:48:40.204Z</updated>
+    <updated>2022-02-26T17:31:58.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是支持5G的最佳 "开放式 "手机？]]></title>
+        <id>https://news.ycombinator.com/item?id=30479470</id>
+        <link href="https://news.ycombinator.com/item?id=30479470"/>
+        <updated>2022-02-26T17:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best “open” phone that supports 5G?]]></summary>
+        <author>
+            <name>smoyer</name>
+            <uri>https://news.ycombinator.com/user?id=smoyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有可能将俄罗斯从互联网上切断？]]></title>
         <id>https://news.ycombinator.com/item?id=30478838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bckr</name>
             <uri>https://news.ycombinator.com/user?id=bckr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专门为初创企业制定商业战略的最佳书籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30324525</id>
-        <link href="https://news.ycombinator.com/item?id=30324525"/>
-        <updated>2022-02-13T19:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best books for developing a business strategy specifically for startups?]]></summary>
-        <author>
-            <name>SMAAART</name>
-            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
         </author>
     </entry>
 </feed>
