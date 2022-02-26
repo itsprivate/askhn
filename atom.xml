@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T09:51:52.935Z</updated>
+    <updated>2022-02-26T10:12:51.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什么阻止了普京向乌克兰发送核弹？]]></title>
+        <id>https://news.ycombinator.com/item?id=30476418</id>
+        <link href="https://news.ycombinator.com/item?id=30476418"/>
+        <updated>2022-02-26T09:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is preventing Putin to send a nuke to Ukraine?]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么不在Kickstarter上暗杀普京？]]></title>
         <id>https://news.ycombinator.com/item?id=30476294</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davnicwil</name>
             <uri>https://news.ycombinator.com/user?id=davnicwil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的学习策略是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30321632</id>
-        <link href="https://news.ycombinator.com/item?id=30321632"/>
-        <updated>2022-02-13T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Your Learning Strategy?]]></summary>
-        <author>
-            <name>iamlucaswolf</name>
-            <uri>https://news.ycombinator.com/user?id=iamlucaswolf</uri>
         </author>
     </entry>
 </feed>
