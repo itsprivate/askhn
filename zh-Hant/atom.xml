@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-26T06:38:13.235Z</updated>
+    <updated>2022-02-26T08:45:43.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[條紋還是槳葉？]]></title>
+        <id>https://news.ycombinator.com/item?id=30476127</id>
+        <link href="https://news.ycombinator.com/item?id=30476127"/>
+        <updated>2022-02-26T08:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Stripe or Paddle?]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果普京殺了澤倫斯基，誰來接管烏克蘭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30476126</id>
+        <link href="https://news.ycombinator.com/item?id=30476126"/>
+        <updated>2022-02-26T08:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who takes over in Ukraine if Putin kills Zelensky?]]></summary>
+        <author>
+            <name>yosito</name>
+            <uri>https://news.ycombinator.com/user?id=yosito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與HN相似的社區，不那麼憤世嫉俗？]]></title>
         <id>https://news.ycombinator.com/item?id=30475577</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hunvreus</name>
             <uri>https://news.ycombinator.com/user?id=hunvreus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube是不是突然開始向你推薦更多的短視頻了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30321054</id>
-        <link href="https://news.ycombinator.com/item?id=30321054"/>
-        <updated>2022-02-13T11:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did YouTube start recommending more short videos to you out of nowhere?]]></summary>
-        <author>
-            <name>shrvtv</name>
-            <uri>https://news.ycombinator.com/user?id=shrvtv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建CRUD應用程序的最簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30320837</id>
-        <link href="https://news.ycombinator.com/item?id=30320837"/>
-        <updated>2022-02-13T10:50:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Easiest way to build a CRUD app]]></summary>
-        <author>
-            <name>mouzogu</name>
-            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
         </author>
     </entry>
 </feed>

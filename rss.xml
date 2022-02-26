@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Feb 2022 06:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 08:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[条纹还是桨叶？]]></title>
+            <link>https://news.ycombinator.com/item?id=30476127</link>
+            <guid>https://news.ycombinator.com/item?id=30476127</guid>
+            <pubDate>Sat, 26 Feb 2022 08:41:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Stripe or Paddle?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果普京杀了泽伦斯基，谁来接管乌克兰？]]></title>
+            <link>https://news.ycombinator.com/item?id=30476126</link>
+            <guid>https://news.ycombinator.com/item?id=30476126</guid>
+            <pubDate>Sat, 26 Feb 2022 08:40:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who takes over in Ukraine if Putin kills Zelensky?]]></description>
+        </item>
         <item>
             <title><![CDATA[与HN相似的社区，不那么愤世嫉俗？]]></title>
             <link>https://news.ycombinator.com/item?id=30475577</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30321342</guid>
             <pubDate>Sun, 13 Feb 2022 12:40:36 GMT</pubDate>
             <description><![CDATA[Ask HN: What's your recommended video conference room setup in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube是不是突然开始向你推荐更多的短视频了？]]></title>
-            <link>https://news.ycombinator.com/item?id=30321054</link>
-            <guid>https://news.ycombinator.com/item?id=30321054</guid>
-            <pubDate>Sun, 13 Feb 2022 11:42:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Did YouTube start recommending more short videos to you out of nowhere?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[构建CRUD应用程序的最简单方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30320837</link>
-            <guid>https://news.ycombinator.com/item?id=30320837</guid>
-            <pubDate>Sun, 13 Feb 2022 10:50:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Easiest way to build a CRUD app]]></description>
         </item>
     </channel>
 </rss>
