@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-25T23:13:25.506Z</updated>
+    <updated>2022-02-26T02:53:28.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為早期創業公司的創始人/CEO/CTO獲得綠卡]]></title>
+        <id>https://news.ycombinator.com/item?id=30474792</id>
+        <link href="https://news.ycombinator.com/item?id=30474792"/>
+        <updated>2022-02-26T02:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Green Card as a founder/CEO/CTO of early stage startup]]></summary>
+        <author>
+            <name>coolmints</name>
+            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用代碼操縱顏色的資源]]></title>
         <id>https://news.ycombinator.com/item?id=30473467</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>crossroadsguy</name>
             <uri>https://news.ycombinator.com/user?id=crossroadsguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融技術創始人，您在銀行業務提供商那裡的經驗如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30319125</id>
-        <link href="https://news.ycombinator.com/item?id=30319125"/>
-        <updated>2022-02-13T04:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fintech founders, how's the experience with your Banking provider been?]]></summary>
-        <author>
-            <name>lgtm</name>
-            <uri>https://news.ycombinator.com/user?id=lgtm</uri>
         </author>
     </entry>
 </feed>
