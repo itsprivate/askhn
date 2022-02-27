@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T16:15:27.809Z</updated>
+    <updated>2022-02-27T16:47:49.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什么技术来做菜谱和烹饪？]]></title>
+        <id>https://news.ycombinator.com/item?id=30489713</id>
+        <link href="https://news.ycombinator.com/item?id=30489713"/>
+        <updated>2022-02-27T16:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What tech do you use for recipes and cooking?]]></summary>
+        <author>
+            <name>vinni2</name>
+            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐的地缘政治学书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30489673</id>
+        <link href="https://news.ycombinator.com/item?id=30489673"/>
+        <updated>2022-02-27T16:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended Books on Geopolitics]]></summary>
+        <author>
+            <name>mrleinad</name>
+            <uri>https://news.ycombinator.com/user?id=mrleinad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是最安全的服务器操作系统？为什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30489651</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>monroewalker</name>
             <uri>https://news.ycombinator.com/user?id=monroewalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些远程工作的梦想没有实现？]]></title>
-        <id>https://news.ycombinator.com/item?id=30336527</id>
-        <link href="https://news.ycombinator.com/item?id=30336527"/>
-        <updated>2022-02-14T18:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What remote work dreams didn't come true for you?]]></summary>
-        <author>
-            <name>lastofthemojito</name>
-            <uri>https://news.ycombinator.com/user?id=lastofthemojito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找一个解决方案来管理许多SaaS的访问？]]></title>
-        <id>https://news.ycombinator.com/item?id=30336311</id>
-        <link href="https://news.ycombinator.com/item?id=30336311"/>
-        <updated>2022-02-14T18:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a solution to manage access to many SaaS?]]></summary>
-        <author>
-            <name>gajus</name>
-            <uri>https://news.ycombinator.com/user?id=gajus</uri>
         </author>
     </entry>
 </feed>
