@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T15:36:36.676Z</updated>
+    <updated>2022-02-27T16:15:27.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是最安全的服务器操作系统？为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30489651</id>
+        <link href="https://news.ycombinator.com/item?id=30489651"/>
+        <updated>2022-02-27T16:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the most secure OS for servers? Why?]]></summary>
+        <author>
+            <name>brightball</name>
+            <uri>https://news.ycombinator.com/user?id=brightball</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有机硅是如何合成/制造的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30489586</id>
+        <link href="https://news.ycombinator.com/item?id=30489586"/>
+        <updated>2022-02-27T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is Silicone synthesized / manufactured?]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么好的科学史书籍推荐吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30489142</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gajus</name>
             <uri>https://news.ycombinator.com/user?id=gajus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁有关于PoS区块链中矿工选择的好解释？]]></title>
-        <id>https://news.ycombinator.com/item?id=30335647</id>
-        <link href="https://news.ycombinator.com/item?id=30335647"/>
-        <updated>2022-02-14T18:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone have a good explainer on miner selection in PoS blockchains?]]></summary>
-        <author>
-            <name>jedberg</name>
-            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么火狐浏览器正在失去市场占有率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30335455</id>
-        <link href="https://news.ycombinator.com/item?id=30335455"/>
-        <updated>2022-02-14T18:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Firefox losing marketshare?]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
