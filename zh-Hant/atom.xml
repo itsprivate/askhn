@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T12:19:00.124Z</updated>
+    <updated>2022-02-27T12:47:48.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何學會欣賞數學之美的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30487799</id>
+        <link href="https://news.ycombinator.com/item?id=30487799"/>
+        <updated>2022-02-27T12:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you learn to appreciate the beauty of mathematics?]]></summary>
+        <author>
+            <name>VieEnCode</name>
+            <uri>https://news.ycombinator.com/user?id=VieEnCode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道有哪些好的資源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30487768</id>
+        <link href="https://news.ycombinator.com/item?id=30487768"/>
+        <updated>2022-02-27T12:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some great resources you know of?]]></summary>
+        <author>
+            <name>realDaffodil</name>
+            <uri>https://news.ycombinator.com/user?id=realDaffodil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[到目前為止，哪本書對你的影響最深？改變了你]]></title>
         <id>https://news.ycombinator.com/item?id=30487467</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>999900000999</name>
             <uri>https://news.ycombinator.com/user?id=999900000999</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[諾頓網絡釣魚騙局是如何通過Gmail垃圾郵件過濾器的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30334025</id>
-        <link href="https://news.ycombinator.com/item?id=30334025"/>
-        <updated>2022-02-14T16:34:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do Norton phishing scams get through Gmail spam filters?]]></summary>
-        <author>
-            <name>gxqoz</name>
-            <uri>https://news.ycombinator.com/user?id=gxqoz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是性價比最高的VR？]]></title>
-        <id>https://news.ycombinator.com/item?id=30333800</id>
-        <link href="https://news.ycombinator.com/item?id=30333800"/>
-        <updated>2022-02-14T16:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best value for the money VR?]]></summary>
-        <author>
-            <name>zriha</name>
-            <uri>https://news.ycombinator.com/user?id=zriha</uri>
         </author>
     </entry>
 </feed>
