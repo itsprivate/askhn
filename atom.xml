@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T14:53:53.651Z</updated>
+    <updated>2022-02-27T15:36:36.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么好的科学史书籍推荐吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30489142</id>
+        <link href="https://news.ycombinator.com/item?id=30489142"/>
+        <updated>2022-02-27T15:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any recommendation for a good History of Science book?]]></summary>
+        <author>
+            <name>mariedavid</name>
+            <uri>https://news.ycombinator.com/user?id=mariedavid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么好办法可以阻止俄罗斯用户使用我的服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=30489105</id>
+        <link href="https://news.ycombinator.com/item?id=30489105"/>
+        <updated>2022-02-27T15:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is a good way to block Russian users from using my services?]]></summary>
+        <author>
+            <name>tuangeek</name>
+            <uri>https://news.ycombinator.com/user?id=tuangeek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要求被采访者讨论Apache Kafka]]></title>
         <id>https://news.ycombinator.com/item?id=30488850</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在人们都在使用哪些Node.js数据库库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30335271</id>
-        <link href="https://news.ycombinator.com/item?id=30335271"/>
-        <updated>2022-02-14T17:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Node.js database libraries are people using these days?]]></summary>
-        <author>
-            <name>brundolf</name>
-            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal的交易量何时达到5亿美元/年？]]></title>
-        <id>https://news.ycombinator.com/item?id=30335018</id>
-        <link href="https://news.ycombinator.com/item?id=30335018"/>
-        <updated>2022-02-14T17:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When did PayPal reach $500M/yr in trasaction volume?]]></summary>
-        <author>
-            <name>XnoiVeX</name>
-            <uri>https://news.ycombinator.com/user?id=XnoiVeX</uri>
         </author>
     </entry>
 </feed>
