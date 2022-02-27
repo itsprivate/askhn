@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 05:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在数学和/或CS方面对你有帮助的那本书]]></title>
+            <link>https://news.ycombinator.com/item?id=30485544</link>
+            <guid>https://news.ycombinator.com/item?id=30485544</guid>
+            <pubDate>Sun, 27 Feb 2022 04:55:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: The book that did it for you in Math and/or CS]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年发生核战争的可能性有多大？]]></title>
             <link>https://news.ycombinator.com/item?id=30484781</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30331396</guid>
             <pubDate>Mon, 14 Feb 2022 12:51:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Have you ever sold a domain-name? How was your experience selling it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无代码 "和 "无服务器 "的术语是否具有误导性？]]></title>
-            <link>https://news.ycombinator.com/item?id=30331082</link>
-            <guid>https://news.ycombinator.com/item?id=30331082</guid>
-            <pubDate>Mon, 14 Feb 2022 12:16:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are “no-code” and “serverless” terms misleading?]]></description>
         </item>
     </channel>
 </rss>
