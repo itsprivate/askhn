@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T06:37:11.738Z</updated>
+    <updated>2022-02-27T07:13:40.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[主权债务发行人会不会使俄罗斯的储备变得毫无价值？]]></title>
+        <id>https://news.ycombinator.com/item?id=30486077</id>
+        <link href="https://news.ycombinator.com/item?id=30486077"/>
+        <updated>2022-02-27T07:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could sovereign debt issuers render Russian reserves worthless?]]></summary>
+        <author>
+            <name>asplake</name>
+            <uri>https://news.ycombinator.com/user?id=asplake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能成为一个不依赖语言的程序员吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30485907</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>retep_kram</name>
             <uri>https://news.ycombinator.com/user?id=retep_kram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以按域名TLD过滤提交的信息吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30331893</id>
-        <link href="https://news.ycombinator.com/item?id=30331893"/>
-        <updated>2022-02-14T13:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I filter submissions by domain TLD?]]></summary>
-        <author>
-            <name>thiht</name>
-            <uri>https://news.ycombinator.com/user?id=thiht</uri>
         </author>
     </entry>
 </feed>
