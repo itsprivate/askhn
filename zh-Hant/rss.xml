@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 07:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 08:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鑑於SPFS，俄羅斯會關心SWIFT嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30486421</link>
+            <guid>https://news.ycombinator.com/item?id=30486421</guid>
+            <pubDate>Sun, 27 Feb 2022 08:25:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Given SPFS, would Russia care about SWIFT?]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube是否禁用了RSS訂閱？]]></title>
             <link>https://news.ycombinator.com/item?id=30486239</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30332703</guid>
             <pubDate>Mon, 14 Feb 2022 14:56:23 GMT</pubDate>
             <description><![CDATA[Ask HN: How to create a simple database program]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼現在的電影原聲帶中，令人難忘的旋律不太常見？]]></title>
-            <link>https://news.ycombinator.com/item?id=30332637</link>
-            <guid>https://news.ycombinator.com/item?id=30332637</guid>
-            <pubDate>Mon, 14 Feb 2022 14:50:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why are memorable melodies less common nowadays in movie soundtracks?]]></description>
         </item>
     </channel>
 </rss>
