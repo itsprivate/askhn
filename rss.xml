@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 00:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 01:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有可能切断俄罗斯的互联网吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30484009</link>
+            <guid>https://news.ycombinator.com/item?id=30484009</guid>
+            <pubDate>Sun, 27 Feb 2022 00:46:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it possible to cut Russia off the internet?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的前端和后端团队的合作情况如何？]]></title>
             <link>https://news.ycombinator.com/item?id=30483662</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30330241</guid>
             <pubDate>Mon, 14 Feb 2022 10:04:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Which tech should I use for creating XR Prototypes?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何量化开放源代码的贡献？]]></title>
-            <link>https://news.ycombinator.com/item?id=30330168</link>
-            <guid>https://news.ycombinator.com/item?id=30330168</guid>
-            <pubDate>Mon, 14 Feb 2022 09:52:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to quantify open source contributions?]]></description>
         </item>
     </channel>
 </rss>
