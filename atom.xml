@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T01:59:54.464Z</updated>
+    <updated>2022-02-27T02:32:51.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么网站上的字体这么小？]]></title>
+        <id>https://news.ycombinator.com/item?id=30484656</id>
+        <link href="https://news.ycombinator.com/item?id=30484656"/>
+        <updated>2022-02-27T02:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are fonts on websites so small?]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能切断俄罗斯的互联网吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30484009</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>philonoist</name>
             <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该使用哪种技术来创建XR原型？]]></title>
-        <id>https://news.ycombinator.com/item?id=30330241</id>
-        <link href="https://news.ycombinator.com/item?id=30330241"/>
-        <updated>2022-02-14T10:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which tech should I use for creating XR Prototypes?]]></summary>
-        <author>
-            <name>a_mengascini</name>
-            <uri>https://news.ycombinator.com/user?id=a_mengascini</uri>
         </author>
     </entry>
 </feed>
