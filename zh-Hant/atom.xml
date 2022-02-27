@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T21:15:08.218Z</updated>
+    <updated>2022-02-27T21:31:53.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對AWS面試過程和Assoc領導原則有什麼更新嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30492640</id>
+        <link href="https://news.ycombinator.com/item?id=30492640"/>
+        <updated>2022-02-27T21:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any updates to AWS interviewing process and assoc leadership principles?]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[衝突是否讓你意識到]]></title>
         <id>https://news.ycombinator.com/item?id=30492494</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在個人生產力方面有什麼有用的系統？]]></title>
-        <id>https://news.ycombinator.com/item?id=30339408</id>
-        <link href="https://news.ycombinator.com/item?id=30339408"/>
-        <updated>2022-02-14T22:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What useful system do you have in place for personal productivity]]></summary>
-        <author>
-            <name>krm01</name>
-            <uri>https://news.ycombinator.com/user?id=krm01</uri>
         </author>
     </entry>
 </feed>
