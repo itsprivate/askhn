@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T21:31:53.985Z</updated>
+    <updated>2022-02-27T21:41:53.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在不久的將來，制裁將如何影響俄羅斯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30492771</id>
+        <link href="https://news.ycombinator.com/item?id=30492771"/>
+        <updated>2022-02-27T21:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are sanctions going to affect Russia in the immediate future?]]></summary>
+        <author>
+            <name>aspyct</name>
+            <uri>https://news.ycombinator.com/user?id=aspyct</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對AWS面試過程和Assoc領導原則有什麼更新嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30492640</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>version_five</name>
             <uri>https://news.ycombinator.com/user?id=version_five</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大流行病是否應對元氣大傷負責？]]></title>
-        <id>https://news.ycombinator.com/item?id=30340128</id>
-        <link href="https://news.ycombinator.com/item?id=30340128"/>
-        <updated>2022-02-14T23:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the pandemic responsible for the metaverse?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
