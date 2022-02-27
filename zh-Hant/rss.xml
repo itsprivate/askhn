@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 08:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 10:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有一份俄羅斯寡頭擁有的企業名單/地圖？]]></title>
+            <link>https://news.ycombinator.com/item?id=30486851</link>
+            <guid>https://news.ycombinator.com/item?id=30486851</guid>
+            <pubDate>Sun, 27 Feb 2022 10:02:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a list/map of business owned by Russian oligarchs?]]></description>
+        </item>
         <item>
             <title><![CDATA[鑑於SPFS，俄羅斯會關心SWIFT嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30486421</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30332964</guid>
             <pubDate>Mon, 14 Feb 2022 15:15:44 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the simplest way to sync bookmarks across devices?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何創建一個簡單的數據庫程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30332703</link>
-            <guid>https://news.ycombinator.com/item?id=30332703</guid>
-            <pubDate>Mon, 14 Feb 2022 14:56:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to create a simple database program]]></description>
         </item>
     </channel>
 </rss>
