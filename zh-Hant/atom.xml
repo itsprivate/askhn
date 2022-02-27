@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T14:37:28.056Z</updated>
+    <updated>2022-02-27T14:53:53.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[要求被採訪者討論Apache Kafka]]></title>
+        <id>https://news.ycombinator.com/item?id=30488850</id>
+        <link href="https://news.ycombinator.com/item?id=30488850"/>
+        <updated>2022-02-27T14:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Request for interviewee to discuss Apache Kafka]]></summary>
+        <author>
+            <name>FailMore</name>
+            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭大使館能否為美國黑客加入網絡戰線提供便利？]]></title>
         <id>https://news.ycombinator.com/item?id=30488722</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>XnoiVeX</name>
             <uri>https://news.ycombinator.com/user?id=XnoiVeX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[致尋找生物技術工作的HN人]]></title>
-        <id>https://news.ycombinator.com/item?id=30334961</id>
-        <link href="https://news.ycombinator.com/item?id=30334961"/>
-        <updated>2022-02-14T17:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: To HN people searching for biotech jobs]]></summary>
-        <author>
-            <name>tima101</name>
-            <uri>https://news.ycombinator.com/user?id=tima101</uri>
         </author>
     </entry>
 </feed>

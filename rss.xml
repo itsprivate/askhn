@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 14:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[要求被采访者讨论Apache Kafka]]></title>
+            <link>https://news.ycombinator.com/item?id=30488850</link>
+            <guid>https://news.ycombinator.com/item?id=30488850</guid>
+            <pubDate>Sun, 27 Feb 2022 14:40:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Request for interviewee to discuss Apache Kafka]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰大使馆能否为美国黑客加入网络战线提供便利？]]></title>
             <link>https://news.ycombinator.com/item?id=30488722</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30335018</guid>
             <pubDate>Mon, 14 Feb 2022 17:36:31 GMT</pubDate>
             <description><![CDATA[Ask HN: When did PayPal reach $500M/yr in trasaction volume?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[致寻找生物技术工作的HN人]]></title>
-            <link>https://news.ycombinator.com/item?id=30334961</link>
-            <guid>https://news.ycombinator.com/item?id=30334961</guid>
-            <pubDate>Mon, 14 Feb 2022 17:32:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: To HN people searching for biotech jobs]]></description>
         </item>
     </channel>
 </rss>
