@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T07:37:41.622Z</updated>
+    <updated>2022-02-27T07:53:36.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube是否禁用了RSS订阅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30486239</id>
+        <link href="https://news.ycombinator.com/item?id=30486239"/>
+        <updated>2022-02-27T07:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did YouTube disable RSS feeds?]]></summary>
+        <author>
+            <name>rubenbe</name>
+            <uri>https://news.ycombinator.com/user?id=rubenbe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对生活在国外的俄罗斯国民施加多大的压力是合适的？]]></title>
         <id>https://news.ycombinator.com/item?id=30486111</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近的计算机黑客行为定罪和就业能力]]></title>
-        <id>https://news.ycombinator.com/item?id=30332534</id>
-        <link href="https://news.ycombinator.com/item?id=30332534"/>
-        <updated>2022-02-14T14:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recent computer hacking convictions and employability]]></summary>
-        <author>
-            <name>dk79XuL9</name>
-            <uri>https://news.ycombinator.com/user?id=dk79XuL9</uri>
         </author>
     </entry>
 </feed>
