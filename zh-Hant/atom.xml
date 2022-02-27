@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T18:38:15.729Z</updated>
+    <updated>2022-02-27T19:53:40.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個普通人可以做什麼來支持烏克蘭的平民？]]></title>
+        <id>https://news.ycombinator.com/item?id=30491833</id>
+        <link href="https://news.ycombinator.com/item?id=30491833"/>
+        <updated>2022-02-27T19:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anything an ordinary person can do to support civilians in the Ukraine?]]></summary>
+        <author>
+            <name>_jae_</name>
+            <uri>https://news.ycombinator.com/user?id=_jae_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互聯網上的巨魔活動是否有變化？]]></title>
         <id>https://news.ycombinator.com/item?id=30490913</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Atallapr</name>
             <uri>https://news.ycombinator.com/user?id=Atallapr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[替換GIF的WebM或WebP？]]></title>
-        <id>https://news.ycombinator.com/item?id=30336891</id>
-        <link href="https://news.ycombinator.com/item?id=30336891"/>
-        <updated>2022-02-14T19:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: WebM or WebP for GIF Replacements?]]></summary>
-        <author>
-            <name>dangayle</name>
-            <uri>https://news.ycombinator.com/user?id=dangayle</uri>
         </author>
     </entry>
 </feed>
