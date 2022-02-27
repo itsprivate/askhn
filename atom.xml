@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T05:29:54.055Z</updated>
+    <updated>2022-02-27T06:37:11.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有可能成为一个不依赖语言的程序员吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30485907</id>
+        <link href="https://news.ycombinator.com/item?id=30485907"/>
+        <updated>2022-02-27T06:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to become a language agnostic programmer?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于后端开发的最佳内容]]></title>
+        <id>https://news.ycombinator.com/item?id=30485861</id>
+        <link href="https://news.ycombinator.com/item?id=30485861"/>
+        <updated>2022-02-27T06:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best content on back end development]]></summary>
+        <author>
+            <name>_appub</name>
+            <uri>https://news.ycombinator.com/user?id=_appub</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在数学和/或CS方面对你有帮助的那本书]]></title>
         <id>https://news.ycombinator.com/item?id=30485544</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>thiht</name>
             <uri>https://news.ycombinator.com/user?id=thiht</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司使用的开源工具是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30331842</id>
-        <link href="https://news.ycombinator.com/item?id=30331842"/>
-        <updated>2022-02-14T13:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are open-source tools companies use?]]></summary>
-        <author>
-            <name>gehaxelt</name>
-            <uri>https://news.ycombinator.com/user?id=gehaxelt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有没有卖过一个域名？你的出售经验如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30331396</id>
-        <link href="https://news.ycombinator.com/item?id=30331396"/>
-        <updated>2022-02-14T12:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever sold a domain-name? How was your experience selling it?]]></summary>
-        <author>
-            <name>hammadn</name>
-            <uri>https://news.ycombinator.com/user?id=hammadn</uri>
         </author>
     </entry>
 </feed>
