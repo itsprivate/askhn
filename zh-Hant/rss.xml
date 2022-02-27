@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Feb 2022 10:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 11:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub 倉庫的網絡圖不工作了]]></title>
+            <link>https://news.ycombinator.com/item?id=30487280</link>
+            <guid>https://news.ycombinator.com/item?id=30487280</guid>
+            <pubDate>Sun, 27 Feb 2022 11:22:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: GitHub repository's Network graph is not working]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有關於Tor的物理實現的良好描述？]]></title>
             <link>https://news.ycombinator.com/item?id=30486998</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30333284</guid>
             <pubDate>Mon, 14 Feb 2022 15:39:43 GMT</pubDate>
             <description><![CDATA[Ask HN: Did you benefit from getting a dog?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼HN不讓你在沒有URL的情況下提交後添加帖子文本？]]></title>
-            <link>https://news.ycombinator.com/item?id=30333019</link>
-            <guid>https://news.ycombinator.com/item?id=30333019</guid>
-            <pubDate>Mon, 14 Feb 2022 15:19:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why doesn't HN let you add post text after a submission without a URL?]]></description>
         </item>
     </channel>
 </rss>
