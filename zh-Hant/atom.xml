@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T20:15:19.823Z</updated>
+    <updated>2022-02-28T20:36:19.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[敏捷軟件流程相關的產品名稱中是否允許使用 "Agile"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30504707</id>
+        <link href="https://news.ycombinator.com/item?id=30504707"/>
+        <updated>2022-02-28T20:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is “Agile” permitted in agile software process related product names?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能自動解碼字符串的軟件名稱？]]></title>
+        <id>https://news.ycombinator.com/item?id=30504627</id>
+        <link href="https://news.ycombinator.com/item?id=30504627"/>
+        <updated>2022-02-28T20:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Name of software that auto-decodes strings?]]></summary>
+        <author>
+            <name>vedantroy</name>
+            <uri>https://news.ycombinator.com/user?id=vedantroy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在蘋果應用商店中，允許和不允許的邊界在哪裡？]]></title>
         <id>https://news.ycombinator.com/item?id=30504303</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>kamrani</name>
             <uri>https://news.ycombinator.com/user?id=kamrani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有辦法讓我確保我永遠無法在HN上進行降票？]]></title>
-        <id>https://news.ycombinator.com/item?id=30354137</id>
-        <link href="https://news.ycombinator.com/item?id=30354137"/>
-        <updated>2022-02-15T23:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a way for me to ensure I'm never able to downvote on HN?]]></summary>
-        <author>
-            <name>qzx_pierri</name>
-            <uri>https://news.ycombinator.com/user?id=qzx_pierri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有多少人從他們的桌面上使用網絡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30353800</id>
-        <link href="https://news.ycombinator.com/item?id=30353800"/>
-        <updated>2022-02-15T22:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many people use the web from their desktops?]]></summary>
-        <author>
-            <name>Graffur</name>
-            <uri>https://news.ycombinator.com/user?id=Graffur</uri>
         </author>
     </entry>
 </feed>
