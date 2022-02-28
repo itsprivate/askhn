@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T15:40:46.046Z</updated>
+    <updated>2022-02-28T16:21:24.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何判斷一個員工是否應該被留用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30501321</id>
+        <link href="https://news.ycombinator.com/item?id=30501321"/>
+        <updated>2022-02-28T15:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you judge if an employee should be retained?]]></summary>
+        <author>
+            <name>cauliflower99</name>
+            <uri>https://news.ycombinator.com/user?id=cauliflower99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是唯一一個有AWS問題的人嗎？(主要是SQS)]]></title>
+        <id>https://news.ycombinator.com/item?id=30500985</id>
+        <link href="https://news.ycombinator.com/item?id=30500985"/>
+        <updated>2022-02-28T15:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I the only one having AWS issues? (SQS mostly)]]></summary>
+        <author>
+            <name>cx42net</name>
+            <uri>https://news.ycombinator.com/user?id=cx42net</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互聯網是如何改變軟件開發的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30500908</id>
+        <link href="https://news.ycombinator.com/item?id=30500908"/>
+        <updated>2022-02-28T15:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How has internet changed software development?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們一直把付費文章上調到頭版？]]></title>
+        <id>https://news.ycombinator.com/item?id=30500885</id>
+        <link href="https://news.ycombinator.com/item?id=30500885"/>
+        <updated>2022-02-28T15:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do we keep upvoting paywalled articles to the front page?]]></summary>
+        <author>
+            <name>baby</name>
+            <uri>https://news.ycombinator.com/user?id=baby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在歐洲發生戰爭的時候，你如何完成工作呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30500810</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>Bhurn00985</name>
             <uri>https://news.ycombinator.com/user?id=Bhurn00985</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人喜歡在開放空間工作嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30345859</id>
-        <link href="https://news.ycombinator.com/item?id=30345859"/>
-        <updated>2022-02-15T13:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone like to work in open space?]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的付費電子郵件供應商，有很好的支持？]]></title>
-        <id>https://news.ycombinator.com/item?id=30345016</id>
-        <link href="https://news.ycombinator.com/item?id=30345016"/>
-        <updated>2022-02-15T11:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best paid email provider with great support?]]></summary>
-        <author>
-            <name>pdevr</name>
-            <uri>https://news.ycombinator.com/user?id=pdevr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何最大限度地利用大學的時間？]]></title>
-        <id>https://news.ycombinator.com/item?id=30345059</id>
-        <link href="https://news.ycombinator.com/item?id=30345059"/>
-        <updated>2022-02-15T11:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make the most out of time at university?]]></summary>
-        <author>
-            <name>Claude_Shannon</name>
-            <uri>https://news.ycombinator.com/user?id=Claude_Shannon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[請為博弈論的簡明介紹提出建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30344963</id>
-        <link href="https://news.ycombinator.com/item?id=30344963"/>
-        <updated>2022-02-15T10:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Suggestions please for concise introductions to game theory]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
