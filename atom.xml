@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T19:53:15.804Z</updated>
+    <updated>2022-02-28T20:15:19.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在苹果应用商店中，允许和不允许的边界在哪里？]]></title>
+        <id>https://news.ycombinator.com/item?id=30504303</id>
+        <link href="https://news.ycombinator.com/item?id=30504303"/>
+        <updated>2022-02-28T19:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where is the border between allowed and disallowed in Apple appstore?]]></summary>
+        <author>
+            <name>cosmorocket</name>
+            <uri>https://news.ycombinator.com/user?id=cosmorocket</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对HN旗帜动态的科学研究]]></title>
         <id>https://news.ycombinator.com/item?id=30495916</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Graffur</name>
             <uri>https://news.ycombinator.com/user?id=Graffur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为副业筹款，还是先做全职？]]></title>
-        <id>https://news.ycombinator.com/item?id=30353340</id>
-        <link href="https://news.ycombinator.com/item?id=30353340"/>
-        <updated>2022-02-15T21:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fundraise for a side-project, or go full-time first?]]></summary>
-        <author>
-            <name>bluepnume</name>
-            <uri>https://news.ycombinator.com/user?id=bluepnume</uri>
         </author>
     </entry>
 </feed>
