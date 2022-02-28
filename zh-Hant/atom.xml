@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T14:56:00.769Z</updated>
+    <updated>2022-02-28T15:40:46.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在歐洲發生戰爭的時候，你如何完成工作呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30500810</id>
+        <link href="https://news.ycombinator.com/item?id=30500810"/>
+        <updated>2022-02-28T15:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you get work done while there is a war in Europe?]]></summary>
+        <author>
+            <name>chinathrow</name>
+            <uri>https://news.ycombinator.com/user?id=chinathrow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰是匿名者？]]></title>
+        <id>https://news.ycombinator.com/item?id=30500429</id>
+        <link href="https://news.ycombinator.com/item?id=30500429"/>
+        <updated>2022-02-28T14:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Are Anonymous?]]></summary>
+        <author>
+            <name>kertoip_1</name>
+            <uri>https://news.ycombinator.com/user?id=kertoip_1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[經得起時間考驗的單人創作]]></title>
         <id>https://news.ycombinator.com/item?id=30500188</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>gjvc</name>
             <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的頂級域名發佈，所有好名字都被佔用]]></title>
-        <id>https://news.ycombinator.com/item?id=30344922</id>
-        <link href="https://news.ycombinator.com/item?id=30344922"/>
-        <updated>2022-02-15T10:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: New TLD released, all good names taken]]></summary>
-        <author>
-            <name>mdrzn</name>
-            <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDrive/Dropbox使用什麼版本系統？]]></title>
-        <id>https://news.ycombinator.com/item?id=30344673</id>
-        <link href="https://news.ycombinator.com/item?id=30344673"/>
-        <updated>2022-02-15T10:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What versioning system do GDrive/Dropbox use?]]></summary>
-        <author>
-            <name>adrianomartins</name>
-            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
         </author>
     </entry>
 </feed>
