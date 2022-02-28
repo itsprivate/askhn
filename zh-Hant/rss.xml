@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 14:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄羅斯黑客，情況如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=30498999</link>
+            <guid>https://news.ycombinator.com/item?id=30498999</guid>
+            <pubDate>Mon, 28 Feb 2022 12:10:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: Russian hackers, how are things?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[M1 Mac版的Linux]]></title>
+            <link>https://news.ycombinator.com/item?id=30498975</link>
+            <guid>https://news.ycombinator.com/item?id=30498975</guid>
+            <pubDate>Mon, 28 Feb 2022 12:06:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Linux for M1 Mac]]></description>
+        </item>
+        <item>
+            <title><![CDATA[莫斯科交易所]]></title>
+            <link>https://news.ycombinator.com/item?id=30498740</link>
+            <guid>https://news.ycombinator.com/item?id=30498740</guid>
+            <pubDate>Mon, 28 Feb 2022 11:30:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Moscow Exchange]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通用（非AWS/Azure專用）解決方案架構師的書籍/教程]]></title>
+            <link>https://news.ycombinator.com/item?id=30498149</link>
+            <guid>https://news.ycombinator.com/item?id=30498149</guid>
+            <pubDate>Mon, 28 Feb 2022 09:49:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: Books/Tutorials for generic(NOT AWS/Azure specific) Solution Architect]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當你從SWE轉變為SWE-管理時，你應該閱讀的書籍]]></title>
+            <link>https://news.ycombinator.com/item?id=30497703</link>
+            <guid>https://news.ycombinator.com/item?id=30497703</guid>
+            <pubDate>Mon, 28 Feb 2022 08:37:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Books you should read when you transform from SWE into SWE-Management]]></description>
+        </item>
+        <item>
+            <title><![CDATA[託管你自己的Postgres實例的技巧]]></title>
+            <link>https://news.ycombinator.com/item?id=30497574</link>
+            <guid>https://news.ycombinator.com/item?id=30497574</guid>
+            <pubDate>Mon, 28 Feb 2022 08:15:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Tips on hosting your own Postgres instance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為了對俄烏戰爭有一個更客觀的看法，你讀什麼書？]]></title>
+            <link>https://news.ycombinator.com/item?id=30496908</link>
+            <guid>https://news.ycombinator.com/item?id=30496908</guid>
+            <pubDate>Mon, 28 Feb 2022 06:12:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you read for a more objective view on the Russia-Ukraine war?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果普京消失了，俄羅斯會怎麼樣？]]></title>
             <link>https://news.ycombinator.com/item?id=30495686</link>
@@ -4162,55 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30344402</guid>
             <pubDate>Tue, 15 Feb 2022 09:30:53 GMT</pubDate>
             <description><![CDATA[Ask HN: How much time should be spent on an MVP project?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什麼讓omnisharp這麼慢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30344301</link>
-            <guid>https://news.ycombinator.com/item?id=30344301</guid>
-            <pubDate>Tue, 15 Feb 2022 09:14:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: What makes omnisharp so slow?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果俄羅斯入侵烏克蘭，你期望世界如何改變？]]></title>
-            <link>https://news.ycombinator.com/item?id=30344220</link>
-            <guid>https://news.ycombinator.com/item?id=30344220</guid>
-            <pubDate>Tue, 15 Feb 2022 09:02:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you expect the world to change if Russia invades Ukraine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪些新聞簡報值得付費？]]></title>
-            <link>https://news.ycombinator.com/item?id=30343880</link>
-            <guid>https://news.ycombinator.com/item?id=30343880</guid>
-            <pubDate>Tue, 15 Feb 2022 07:59:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: What newsletters are worth paying for?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰從物聯網市場中獲利？]]></title>
-            <link>https://news.ycombinator.com/item?id=30343176</link>
-            <guid>https://news.ycombinator.com/item?id=30343176</guid>
-            <pubDate>Tue, 15 Feb 2022 05:31:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who Profits from IoT Market?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[與潛在的團隊面談]]></title>
-            <link>https://news.ycombinator.com/item?id=30342959</link>
-            <guid>https://news.ycombinator.com/item?id=30342959</guid>
-            <pubDate>Tue, 15 Feb 2022 04:57:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Interview with Potential Team]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公眾對CDX的訪問（或其不雅點）？(第二部分)]]></title>
-            <link>https://news.ycombinator.com/item?id=30342905</link>
-            <guid>https://news.ycombinator.com/item?id=30342905</guid>
-            <pubDate>Tue, 15 Feb 2022 04:46:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Public access to CDXs (or their indecies)? (Part 2)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拋開製表符與空格不談，單行語句周圍的大括號呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30342770</link>
-            <guid>https://news.ycombinator.com/item?id=30342770</guid>
-            <pubDate>Tue, 15 Feb 2022 04:26:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Forget tabs vs. spaces, what about braces around single line statements?]]></description>
         </item>
     </channel>
 </rss>
