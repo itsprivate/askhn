@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Feb 2022 00:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果普京消失了，俄罗斯会怎么样？]]></title>
+            <link>https://news.ycombinator.com/item?id=30495686</link>
+            <guid>https://news.ycombinator.com/item?id=30495686</guid>
+            <pubDate>Mon, 28 Feb 2022 02:40:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: What happens to Russia if Putin disappears?]]></description>
+        </item>
         <item>
             <link>https://news.ycombinator.com/item?id=30494363</link>
             <guid>https://news.ycombinator.com/item?id=30494363</guid>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30342770</guid>
             <pubDate>Tue, 15 Feb 2022 04:26:01 GMT</pubDate>
             <description><![CDATA[Ask HN: Forget tabs vs. spaces, what about braces around single line statements?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流行程序的秘密选项或命令？]]></title>
-            <link>https://news.ycombinator.com/item?id=30342501</link>
-            <guid>https://news.ycombinator.com/item?id=30342501</guid>
-            <pubDate>Tue, 15 Feb 2022 03:43:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Secret options or commands for popular programs?]]></description>
         </item>
     </channel>
 </rss>
