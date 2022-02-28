@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T22:53:24.276Z</updated>
+    <updated>2022-02-28T23:15:31.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何離開科技的圍牆花園？]]></title>
+        <id>https://news.ycombinator.com/item?id=30506446</id>
+        <link href="https://news.ycombinator.com/item?id=30506446"/>
+        <updated>2022-02-28T23:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Leave Tech Walled Gardens?]]></summary>
+        <author>
+            <name>tomrod</name>
+            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盔甲和頭盔建議]]></title>
         <id>https://news.ycombinator.com/item?id=30506001</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>linkdd</name>
             <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的企業的經濟護城河是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30355458</id>
-        <link href="https://news.ycombinator.com/item?id=30355458"/>
-        <updated>2022-02-16T01:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your business' economic moat?]]></summary>
-        <author>
-            <name>AdamJMarsh</name>
-            <uri>https://news.ycombinator.com/user?id=AdamJMarsh</uri>
         </author>
     </entry>
 </feed>
