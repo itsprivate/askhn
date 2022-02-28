@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T16:21:24.579Z</updated>
+    <updated>2022-02-28T16:52:48.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁会对基于文本的工作面试平台感兴趣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30501840</id>
+        <link href="https://news.ycombinator.com/item?id=30501840"/>
+        <updated>2022-02-28T16:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who would be interested in a platform for text based job interviews]]></summary>
+        <author>
+            <name>wnm</name>
+            <uri>https://news.ycombinator.com/user?id=wnm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只是在互联网上的数据库作为唯一的后端？]]></title>
+        <id>https://news.ycombinator.com/item?id=30501699</id>
+        <link href="https://news.ycombinator.com/item?id=30501699"/>
+        <updated>2022-02-28T16:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Just database over the internet as the only backend?]]></summary>
+        <author>
+            <name>wg0</name>
+            <uri>https://news.ycombinator.com/user?id=wg0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在我们的SaaS中提供基于url的审计的最佳SEO API？]]></title>
+        <id>https://news.ycombinator.com/item?id=30499062</id>
+        <link href="https://news.ycombinator.com/item?id=30499062"/>
+        <updated>2022-02-28T12:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best SEO API to offer url based audit in our SaaS?]]></summary>
+        <author>
+            <name>ochysp</name>
+            <uri>https://news.ycombinator.com/user?id=ochysp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何才能在不需要眼镜的情况下看清屏幕？]]></title>
+        <id>https://news.ycombinator.com/item?id=30496238</id>
+        <link href="https://news.ycombinator.com/item?id=30496238"/>
+        <updated>2022-02-28T03:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I see my screens without needing glasses]]></summary>
+        <author>
+            <name>danhab99</name>
+            <uri>https://news.ycombinator.com/user?id=danhab99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的ToDo的设置/应用/策略是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30496055</id>
+        <link href="https://news.ycombinator.com/item?id=30496055"/>
+        <updated>2022-02-28T03:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whats your ToDo's setup/apps/strategies?]]></summary>
+        <author>
+            <name>devracca</name>
+            <uri>https://news.ycombinator.com/user?id=devracca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何判断一个员工是否应该被留用？]]></title>
         <id>https://news.ycombinator.com/item?id=30501321</id>
@@ -6557,61 +6612,6 @@
         <author>
             <name>matt_heimer</name>
             <uri>https://news.ycombinator.com/user?id=matt_heimer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过喜欢/转发对推文的回复进行排序的用户脚本？]]></title>
-        <id>https://news.ycombinator.com/item?id=30347180</id>
-        <link href="https://news.ycombinator.com/item?id=30347180"/>
-        <updated>2022-02-15T14:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Userscript to sort replies to a tweet by likes/retweets?]]></summary>
-        <author>
-            <name>hidden-spyder</name>
-            <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们应该拥有我们支付的免费东西吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30345201</id>
-        <link href="https://news.ycombinator.com/item?id=30345201"/>
-        <updated>2022-02-15T11:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should we own the free stuff we pay for?]]></summary>
-        <author>
-            <name>magusd</name>
-            <uri>https://news.ycombinator.com/user?id=magusd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在订阅经济中保持稳定？]]></title>
-        <id>https://news.ycombinator.com/item?id=30346735</id>
-        <link href="https://news.ycombinator.com/item?id=30346735"/>
-        <updated>2022-02-15T14:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you stay afloat in the subscription economy?]]></summary>
-        <author>
-            <name>JadoJodo</name>
-            <uri>https://news.ycombinator.com/user?id=JadoJodo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端工程师 "的日子是否已经屈指可数？]]></title>
-        <id>https://news.ycombinator.com/item?id=30346552</id>
-        <link href="https://news.ycombinator.com/item?id=30346552"/>
-        <updated>2022-02-15T14:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are the days of the “front end engineer” numbered?]]></summary>
-        <author>
-            <name>ramesh31</name>
-            <uri>https://news.ycombinator.com/user?id=ramesh31</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与不在同一个国家的人一起开公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30345929</id>
-        <link href="https://news.ycombinator.com/item?id=30345929"/>
-        <updated>2022-02-15T13:10:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Starting a company with people that are not in the same country?]]></summary>
-        <author>
-            <name>Bhurn00985</name>
-            <uri>https://news.ycombinator.com/user?id=Bhurn00985</uri>
         </author>
     </entry>
 </feed>
