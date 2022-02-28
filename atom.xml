@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T20:36:19.295Z</updated>
+    <updated>2022-02-28T21:13:15.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对Prisma（ORM）有什么看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30504920</id>
+        <link href="https://news.ycombinator.com/item?id=30504920"/>
+        <updated>2022-02-28T20:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your thoughts on Prisma (ORM)]]></summary>
+        <author>
+            <name>unavailableuser</name>
+            <uri>https://news.ycombinator.com/user?id=unavailableuser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敏捷软件流程相关的产品名称中是否允许使用 "Agile"？]]></title>
         <id>https://news.ycombinator.com/item?id=30504707</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bt3</name>
             <uri>https://news.ycombinator.com/user?id=bt3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你还没有启用支付功能，这叫发射吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30354601</id>
-        <link href="https://news.ycombinator.com/item?id=30354601"/>
-        <updated>2022-02-15T23:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it called a launch if you still haven't enabled payment?]]></summary>
-        <author>
-            <name>kamrani</name>
-            <uri>https://news.ycombinator.com/user?id=kamrani</uri>
         </author>
     </entry>
 </feed>
