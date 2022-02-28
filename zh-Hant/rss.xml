@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Feb 2022 19:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 19:53:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對HN旗幟動態的科學研究]]></title>
+            <link>https://news.ycombinator.com/item?id=30495916</link>
+            <guid>https://news.ycombinator.com/item?id=30495916</guid>
+            <pubDate>Mon, 28 Feb 2022 03:10:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Scientific Study of HN flag dynamics]]></description>
+        </item>
         <item>
             <title><![CDATA[我已經收到了一封 "停止 "信。該怎麼做？]]></title>
             <link>https://news.ycombinator.com/item?id=30503983</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30353340</guid>
             <pubDate>Tue, 15 Feb 2022 21:56:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Fundraise for a side-project, or go full-time first?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大多數建議只在一段時間內有幫助，直到有太多的人遵循它？]]></title>
-            <link>https://news.ycombinator.com/item?id=30353048</link>
-            <guid>https://news.ycombinator.com/item?id=30353048</guid>
-            <pubDate>Tue, 15 Feb 2022 21:33:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is most advice only helpful for a while until too many people follow it?]]></description>
         </item>
     </channel>
 </rss>
