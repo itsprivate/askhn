@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T17:07:27.689Z</updated>
+    <updated>2022-02-28T17:26:15.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分享你與壞打印機的恐怖故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30502244</id>
+        <link href="https://news.ycombinator.com/item?id=30502244"/>
+        <updated>2022-02-28T17:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Share your horror stories with bad printers]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我想花1-2小時/天關注烏克蘭戰爭新聞。我應該關注什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30502038</id>
+        <link href="https://news.ycombinator.com/item?id=30502038"/>
+        <updated>2022-02-28T16:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I want to spend 1-2h/day on Ukraine war news. What should I follow?]]></summary>
+        <author>
+            <name>throwaway231943</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway231943</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不能從非async函數中使用await？]]></title>
         <id>https://news.ycombinator.com/item?id=30502067</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>p0d</name>
             <uri>https://news.ycombinator.com/user?id=p0d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何學習Linux調試？]]></title>
-        <id>https://news.ycombinator.com/item?id=30348540</id>
-        <link href="https://news.ycombinator.com/item?id=30348540"/>
-        <updated>2022-02-15T16:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Learn Linux Debugging?]]></summary>
-        <author>
-            <name>phlipski</name>
-            <uri>https://news.ycombinator.com/user?id=phlipski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保護你的源代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30348538</id>
-        <link href="https://news.ycombinator.com/item?id=30348538"/>
-        <updated>2022-02-15T16:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you protect your source code?]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
         </author>
     </entry>
 </feed>

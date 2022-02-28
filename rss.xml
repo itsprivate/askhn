@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分享你与坏打印机的恐怖故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30502244</link>
+            <guid>https://news.ycombinator.com/item?id=30502244</guid>
+            <pubDate>Mon, 28 Feb 2022 17:14:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Share your horror stories with bad printers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我想花1-2小时/天关注乌克兰战争新闻。我应该关注什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30502038</link>
+            <guid>https://news.ycombinator.com/item?id=30502038</guid>
+            <pubDate>Mon, 28 Feb 2022 16:55:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: I want to spend 1-2h/day on Ukraine war news. What should I follow?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么不能从非async函数中使用await？]]></title>
             <link>https://news.ycombinator.com/item?id=30502067</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30348628</guid>
             <pubDate>Tue, 15 Feb 2022 16:27:51 GMT</pubDate>
             <description><![CDATA[Ask HN: How would you give 8B people a unique identity which wasn't naff?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何学习Linux调试？]]></title>
-            <link>https://news.ycombinator.com/item?id=30348540</link>
-            <guid>https://news.ycombinator.com/item?id=30348540</guid>
-            <pubDate>Tue, 15 Feb 2022 16:23:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to Learn Linux Debugging?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何保护你的源代码？]]></title>
-            <link>https://news.ycombinator.com/item?id=30348538</link>
-            <guid>https://news.ycombinator.com/item?id=30348538</guid>
-            <pubDate>Tue, 15 Feb 2022 16:23:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you protect your source code?]]></description>
         </item>
     </channel>
 </rss>
