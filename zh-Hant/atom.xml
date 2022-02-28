@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T14:25:07.629Z</updated>
+    <updated>2022-02-28T14:56:00.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[經得起時間考驗的單人創作]]></title>
+        <id>https://news.ycombinator.com/item?id=30500188</id>
+        <link href="https://news.ycombinator.com/item?id=30500188"/>
+        <updated>2022-02-28T14:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Single person creations that have stood the test of time]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從俄羅斯入侵烏克蘭的角度看美國的槍支管制]]></title>
+        <id>https://news.ycombinator.com/item?id=30499929</id>
+        <link href="https://news.ycombinator.com/item?id=30499929"/>
+        <updated>2022-02-28T14:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Gun control in US in light of Russian invasion of Ukraine]]></summary>
+        <author>
+            <name>baremetal</name>
+            <uri>https://news.ycombinator.com/user?id=baremetal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯黑客，情況如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30498999</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>adrianomartins</name>
             <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矯形椅墊？]]></title>
-        <id>https://news.ycombinator.com/item?id=30344421</id>
-        <link href="https://news.ycombinator.com/item?id=30344421"/>
-        <updated>2022-02-15T09:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Orthopedic Seat Pad?]]></summary>
-        <author>
-            <name>pabo</name>
-            <uri>https://news.ycombinator.com/user?id=pabo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一個MVP項目上應該花多少時間？]]></title>
-        <id>https://news.ycombinator.com/item?id=30344402</id>
-        <link href="https://news.ycombinator.com/item?id=30344402"/>
-        <updated>2022-02-15T09:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much time should be spent on an MVP project?]]></summary>
-        <author>
-            <name>pictur</name>
-            <uri>https://news.ycombinator.com/user?id=pictur</uri>
         </author>
     </entry>
 </feed>
