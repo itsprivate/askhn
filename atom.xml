@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-27T23:16:58.515Z</updated>
+    <updated>2022-02-28T00:40:36.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,49 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://news.ycombinator.com/item?id=30494363</id>
+        <link href="https://news.ycombinator.com/item?id=30494363"/>
+        <updated>2022-02-28T00:11:45.000Z</updated>
+        <author>
+            <name>samarthr1</name>
+            <uri>https://news.ycombinator.com/user?id=samarthr1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有条件地开放创业公司的资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30494335</id>
+        <link href="https://news.ycombinator.com/item?id=30494335"/>
+        <updated>2022-02-28T00:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Conditionally open sourcing a startup?]]></summary>
+        <author>
+            <name>mosr</name>
+            <uri>https://news.ycombinator.com/user?id=mosr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何创办自己的技术咨询公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30494241</id>
+        <link href="https://news.ycombinator.com/item?id=30494241"/>
+        <updated>2022-02-27T23:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you start your own tech consulting company]]></summary>
+        <author>
+            <name>mr_o47</name>
+            <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的帮助]]></title>
+        <id>https://news.ycombinator.com/item?id=30494221</id>
+        <link href="https://news.ycombinator.com/item?id=30494221"/>
+        <updated>2022-02-27T23:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ukraine Help]]></summary>
+        <author>
+            <name>morphle</name>
+            <uri>https://news.ycombinator.com/user?id=morphle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的团队或工作是否像一个不正常的家庭？]]></title>
         <id>https://news.ycombinator.com/item?id=30493692</id>
@@ -6569,50 +6612,6 @@
         <author>
             <name>solarmist</name>
             <uri>https://news.ycombinator.com/user?id=solarmist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[货币政策/经济学阅读列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30342412</id>
-        <link href="https://news.ycombinator.com/item?id=30342412"/>
-        <updated>2022-02-15T03:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Monetary Policy / Economics Reading List]]></summary>
-        <author>
-            <name>mancerayder</name>
-            <uri>https://news.ycombinator.com/user?id=mancerayder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我必须使用两个滑块（系统+应用程序）来调整2022年的音量？]]></title>
-        <id>https://news.ycombinator.com/item?id=30342151</id>
-        <link href="https://news.ycombinator.com/item?id=30342151"/>
-        <updated>2022-02-15T03:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do I have to use two sliders (system+app) to adjust volume in 2022?]]></summary>
-        <author>
-            <name>RomanPushkin</name>
-            <uri>https://news.ycombinator.com/user?id=RomanPushkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以找到关于微积分概念的高质量书面解释？]]></title>
-        <id>https://news.ycombinator.com/item?id=30341834</id>
-        <link href="https://news.ycombinator.com/item?id=30341834"/>
-        <updated>2022-02-15T02:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I find quality, written explanations of Calculus concepts?]]></summary>
-        <author>
-            <name>Alekhine</name>
-            <uri>https://news.ycombinator.com/user?id=Alekhine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习和实现解析器（编译器）的良好资源]]></title>
-        <id>https://news.ycombinator.com/item?id=30341823</id>
-        <link href="https://news.ycombinator.com/item?id=30341823"/>
-        <updated>2022-02-15T02:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good Resources to Learn and Implement a Parser (Compiler)]]></summary>
-        <author>
-            <name>LeSUTHU</name>
-            <uri>https://news.ycombinator.com/user?id=LeSUTHU</uri>
         </author>
     </entry>
 </feed>
