@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T17:26:15.186Z</updated>
+    <updated>2022-02-28T17:43:15.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[坐長途飛機的項目想法？(11小時)]]></title>
+        <id>https://news.ycombinator.com/item?id=30502509</id>
+        <link href="https://news.ycombinator.com/item?id=30502509"/>
+        <updated>2022-02-28T17:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Project ideas for a long plane ride? (11 hrs)]]></summary>
+        <author>
+            <name>Aaronstotle</name>
+            <uri>https://news.ycombinator.com/user?id=Aaronstotle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對Ansible感到好奇，但又害怕或受阻於起步階段？]]></title>
+        <id>https://news.ycombinator.com/item?id=30502417</id>
+        <link href="https://news.ycombinator.com/item?id=30502417"/>
+        <updated>2022-02-28T17:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Curious about Ansible but afraid or blocked on getting started?]]></summary>
+        <author>
+            <name>MaknMoreGtnLess</name>
+            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該為實時聊天應用程序使用時間序列數據庫嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30502412</id>
+        <link href="https://news.ycombinator.com/item?id=30502412"/>
+        <updated>2022-02-28T17:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I use time-series DB for real-time chat app?]]></summary>
+        <author>
+            <name>tiffanyh</name>
+            <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享你與壞打印機的恐怖故事]]></title>
         <id>https://news.ycombinator.com/item?id=30502244</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>curious-mind</name>
             <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當你不知道從哪裡開始時，如何研究一個應用程序的想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30349317</id>
-        <link href="https://news.ycombinator.com/item?id=30349317"/>
-        <updated>2022-02-15T17:11:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to research an app idea when you have no idea of where to begin?]]></summary>
-        <author>
-            <name>justforreading</name>
-            <uri>https://news.ycombinator.com/user?id=justforreading</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬克-安德森這樣說是什麼意思？]]></title>
-        <id>https://news.ycombinator.com/item?id=30349266</id>
-        <link href="https://news.ycombinator.com/item?id=30349266"/>
-        <updated>2022-02-15T17:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did Marc Andreessen mean by this?]]></summary>
-        <author>
-            <name>labrador</name>
-            <uri>https://news.ycombinator.com/user?id=labrador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你將如何給8B人一個獨特的身份，而不是胡鬧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30348628</id>
-        <link href="https://news.ycombinator.com/item?id=30348628"/>
-        <updated>2022-02-15T16:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you give 8B people a unique identity which wasn't naff?]]></summary>
-        <author>
-            <name>p0d</name>
-            <uri>https://news.ycombinator.com/user?id=p0d</uri>
         </author>
     </entry>
 </feed>
