@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T17:43:15.543Z</updated>
+    <updated>2022-02-28T17:53:05.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何将声音可视化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30502650</id>
+        <link href="https://news.ycombinator.com/item?id=30502650"/>
+        <updated>2022-02-28T17:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Visualize Sound?]]></summary>
+        <author>
+            <name>rishikeshs</name>
+            <uri>https://news.ycombinator.com/user?id=rishikeshs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坐长途飞机的项目想法？(11小时)]]></title>
         <id>https://news.ycombinator.com/item?id=30502509</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你为什么不成立自己的公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30349323</id>
-        <link href="https://news.ycombinator.com/item?id=30349323"/>
-        <updated>2022-02-15T17:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't you starting your own company?]]></summary>
-        <author>
-            <name>curious-mind</name>
-            <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
         </author>
     </entry>
 </feed>
