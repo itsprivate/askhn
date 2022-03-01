@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T09:33:47.476Z</updated>
+    <updated>2022-03-01T10:36:28.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移動是跨平臺應用程序的未來嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30512160</id>
+        <link href="https://news.ycombinator.com/item?id=30512160"/>
+        <updated>2022-03-01T10:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is mobile the future of cross platform apps?]]></summary>
+        <author>
+            <name>udbhavs</name>
+            <uri>https://news.ycombinator.com/user?id=udbhavs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何通過音頻瞭解烏克蘭戰爭的情況？]]></title>
         <id>https://news.ycombinator.com/item?id=30511648</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一種CMS，可以簡單地從Word中粘貼圖片？]]></title>
-        <id>https://news.ycombinator.com/item?id=30361410</id>
-        <link href="https://news.ycombinator.com/item?id=30361410"/>
-        <updated>2022-02-16T15:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a CMS in which you can simply paste images from Word?]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
