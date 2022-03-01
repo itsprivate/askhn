@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T21:39:03.093Z</updated>
+    <updated>2022-03-01T22:13:52.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果可能在俄羅斯禁用所有手機嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30520636</id>
+        <link href="https://news.ycombinator.com/item?id=30520636"/>
+        <updated>2022-03-01T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could Apple disable all phones in Russia?]]></summary>
+        <author>
+            <name>arisAlexis</name>
+            <uri>https://news.ycombinator.com/user?id=arisAlexis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們能否停止與俄羅斯電信公司的對接，作為反戰的抗議？]]></title>
+        <id>https://news.ycombinator.com/item?id=30520590</id>
+        <link href="https://news.ycombinator.com/item?id=30520590"/>
+        <updated>2022-03-01T21:56:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can we stop peering with Russian telcos as an anti-war protest?]]></summary>
+        <author>
+            <name>rimutaka</name>
+            <uri>https://news.ycombinator.com/user?id=rimutaka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些最好的增長/病毒循環？]]></title>
         <id>https://news.ycombinator.com/item?id=30520324</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>_bax</name>
             <uri>https://news.ycombinator.com/user?id=_bax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在招聘哪些角色/技能時遇到了困難？]]></title>
-        <id>https://news.ycombinator.com/item?id=30370753</id>
-        <link href="https://news.ycombinator.com/item?id=30370753"/>
-        <updated>2022-02-17T08:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Roles/Skills Do You Struggle to Hire For?]]></summary>
-        <author>
-            <name>rio517</name>
-            <uri>https://news.ycombinator.com/user?id=rio517</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼來記錄（作為一種服務）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30370524</id>
-        <link href="https://news.ycombinator.com/item?id=30370524"/>
-        <updated>2022-02-17T07:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use for logging (as a service)?]]></summary>
-        <author>
-            <name>richardfey</name>
-            <uri>https://news.ycombinator.com/user?id=richardfey</uri>
         </author>
     </entry>
 </feed>
