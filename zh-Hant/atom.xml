@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T08:37:22.670Z</updated>
+    <updated>2022-03-01T08:54:22.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何幫助制止戰爭]]></title>
+        <id>https://news.ycombinator.com/item?id=30511338</id>
+        <link href="https://news.ycombinator.com/item?id=30511338"/>
+        <updated>2022-03-01T08:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Help Stop the War]]></summary>
+        <author>
+            <name>miohtama</name>
+            <uri>https://news.ycombinator.com/user?id=miohtama</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向俄羅斯人提供免費的VPN會比制裁更有效嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30511308</id>
+        <link href="https://news.ycombinator.com/item?id=30511308"/>
+        <updated>2022-03-01T08:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would providing Russians with free VPN be more effective than sanctions?]]></summary>
+        <author>
+            <name>5ESS</name>
+            <uri>https://news.ycombinator.com/user?id=5ESS</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人有pyvm-3.0.tar.bz2嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30511113</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>mathverse</name>
             <uri>https://news.ycombinator.com/user?id=mathverse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼人們為自己的基因感到驕傲，即使他們沒有選擇這些基因？]]></title>
-        <id>https://news.ycombinator.com/item?id=30361146</id>
-        <link href="https://news.ycombinator.com/item?id=30361146"/>
-        <updated>2022-02-16T15:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are people proud of their genes even though they didn’t pick them?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些是macOS必備的應用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30361138</id>
-        <link href="https://news.ycombinator.com/item?id=30361138"/>
-        <updated>2022-02-16T15:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some must-have apps for macOS?]]></summary>
-        <author>
-            <name>jerrygoyal</name>
-            <uri>https://news.ycombinator.com/user?id=jerrygoyal</uri>
         </author>
     </entry>
 </feed>
