@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T07:38:32.369Z</updated>
+    <updated>2022-03-01T08:17:23.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程工作、无代码、网络3...下一步是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30511002</id>
+        <link href="https://news.ycombinator.com/item?id=30511002"/>
+        <updated>2022-03-01T07:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Remote work, no-code, web 3... what's next?]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有可能在区块链上建立反恐共识吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30510973</id>
+        <link href="https://news.ycombinator.com/item?id=30510973"/>
+        <updated>2022-03-01T07:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to create counter-terrorist consensus on blockchain?]]></summary>
+        <author>
+            <name>marius_k</name>
+            <uri>https://news.ycombinator.com/user?id=marius_k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像Lex Fridman的播客？]]></title>
         <id>https://news.ycombinator.com/item?id=30510842</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>bigpurple</name>
             <uri>https://news.ycombinator.com/user?id=bigpurple</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在美国开发者的远程工作搜索是怎样的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30360924</id>
-        <link href="https://news.ycombinator.com/item?id=30360924"/>
-        <updated>2022-02-16T15:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the remote job search like for US developers nowadays?]]></summary>
-        <author>
-            <name>ramesh31</name>
-            <uri>https://news.ycombinator.com/user?id=ramesh31</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么对葡萄牙沃达丰公司受到的攻击的辩论如此之少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30360532</id>
-        <link href="https://news.ycombinator.com/item?id=30360532"/>
-        <updated>2022-02-16T14:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there so little debate about the attack on Vodafone Portugal?]]></summary>
-        <author>
-            <name>oger</name>
-            <uri>https://news.ycombinator.com/user?id=oger</uri>
         </author>
     </entry>
 </feed>
