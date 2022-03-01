@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T04:58:45.621Z</updated>
+    <updated>2022-03-01T05:29:40.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于UBC如何设计程序的MOOC]]></title>
+        <id>https://news.ycombinator.com/item?id=30509913</id>
+        <link href="https://news.ycombinator.com/item?id=30509913"/>
+        <updated>2022-03-01T05:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: MOOC Based on How to Design Programs by UBC]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由于环球银行间金融电信协会(SWIFT)关闭，俄罗斯人用它来转移资金，加密货币的价值正在上升？]]></title>
         <id>https://news.ycombinator.com/item?id=30509683</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>throwaway34135</name>
             <uri>https://news.ycombinator.com/user?id=throwaway34135</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您推荐2022年阅读哪些书籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30358326</id>
-        <link href="https://news.ycombinator.com/item?id=30358326"/>
-        <updated>2022-02-16T10:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Books Do You Recommend Reading for 2022?]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
