@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T17:45:26.676Z</updated>
+    <updated>2022-03-01T17:56:00.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你也只看HN的頭條新聞和用戶評論嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30517295</id>
+        <link href="https://news.ycombinator.com/item?id=30517295"/>
+        <updated>2022-03-01T17:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you also only read HN headlines and user comments?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你為什麼喜歡編程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30517221</id>
+        <link href="https://news.ycombinator.com/item?id=30517221"/>
+        <updated>2022-03-01T17:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you love programming?]]></summary>
+        <author>
+            <name>s3arch</name>
+            <uri>https://news.ycombinator.com/user?id=s3arch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namecheap的替代方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=30517193</id>
+        <link href="https://news.ycombinator.com/item?id=30517193"/>
+        <updated>2022-03-01T17:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternative to Namecheap?]]></summary>
+        <author>
+            <name>pcdoodle</name>
+            <uri>https://news.ycombinator.com/user?id=pcdoodle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰想合作？]]></title>
         <id>https://news.ycombinator.com/item?id=30517159</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>zikohh</name>
             <uri>https://news.ycombinator.com/user?id=zikohh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在小公司中，誰來決定購買SaaS產品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30367129</id>
-        <link href="https://news.ycombinator.com/item?id=30367129"/>
-        <updated>2022-02-16T23:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who takes the decision about buying a SaaS product in small companies?]]></summary>
-        <author>
-            <name>kamrani</name>
-            <uri>https://news.ycombinator.com/user?id=kamrani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享您為產品開發收集數據的經驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30367013</id>
-        <link href="https://news.ycombinator.com/item?id=30367013"/>
-        <updated>2022-02-16T22:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share your experience gathering data for product development]]></summary>
-        <author>
-            <name>zharkyn</name>
-            <uri>https://news.ycombinator.com/user?id=zharkyn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在人們用什麼來做文獻網站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30366886</id>
-        <link href="https://news.ycombinator.com/item?id=30366886"/>
-        <updated>2022-02-16T22:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do people use for documentation sites these days?]]></summary>
-        <author>
-            <name>brundolf</name>
-            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
         </author>
     </entry>
 </feed>

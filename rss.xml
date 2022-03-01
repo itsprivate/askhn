@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你也只看HN的头条新闻和用户评论吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30517295</link>
+            <guid>https://news.ycombinator.com/item?id=30517295</guid>
+            <pubDate>Tue, 01 Mar 2022 17:46:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you also only read HN headlines and user comments?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你为什么喜欢编程？]]></title>
+            <link>https://news.ycombinator.com/item?id=30517221</link>
+            <guid>https://news.ycombinator.com/item?id=30517221</guid>
+            <pubDate>Tue, 01 Mar 2022 17:41:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do you love programming?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Namecheap的替代方案？]]></title>
+            <link>https://news.ycombinator.com/item?id=30517193</link>
+            <guid>https://news.ycombinator.com/item?id=30517193</guid>
+            <pubDate>Tue, 01 Mar 2022 17:39:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Alternative to Namecheap?]]></description>
+        </item>
         <item>
             <title><![CDATA[谁想合作？]]></title>
             <link>https://news.ycombinator.com/item?id=30517159</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30367155</guid>
             <pubDate>Wed, 16 Feb 2022 23:12:28 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there Python package that can read environment variables]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在小公司中，谁来决定购买SaaS产品？]]></title>
-            <link>https://news.ycombinator.com/item?id=30367129</link>
-            <guid>https://news.ycombinator.com/item?id=30367129</guid>
-            <pubDate>Wed, 16 Feb 2022 23:10:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who takes the decision about buying a SaaS product in small companies?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分享您为产品开发收集数据的经验]]></title>
-            <link>https://news.ycombinator.com/item?id=30367013</link>
-            <guid>https://news.ycombinator.com/item?id=30367013</guid>
-            <pubDate>Wed, 16 Feb 2022 22:57:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Share your experience gathering data for product development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[现在人们用什么来做文献网站？]]></title>
-            <link>https://news.ycombinator.com/item?id=30366886</link>
-            <guid>https://news.ycombinator.com/item?id=30366886</guid>
-            <pubDate>Wed, 16 Feb 2022 22:46:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do people use for documentation sites these days?]]></description>
         </item>
     </channel>
 </rss>
