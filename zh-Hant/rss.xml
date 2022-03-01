@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 18:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在做什麼？(2022年3月)]]></title>
+            <link>https://news.ycombinator.com/item?id=30517525</link>
+            <guid>https://news.ycombinator.com/item?id=30517525</guid>
+            <pubDate>Tue, 01 Mar 2022 18:02:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Are You Up To? (March 2022)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HN是否應該要求/鼓勵招聘信息有一個工資範圍？]]></title>
+            <link>https://news.ycombinator.com/item?id=30517434</link>
+            <guid>https://news.ycombinator.com/item?id=30517434</guid>
+            <pubDate>Tue, 01 Mar 2022 17:55:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should HN require/encourage job postings to have a salary range?]]></description>
+        </item>
         <item>
             <title><![CDATA[你也只看HN的頭條新聞和用戶評論嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30517295</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30367430</guid>
             <pubDate>Wed, 16 Feb 2022 23:41:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you know a service that has streamlined Trademark registration in US?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰擁有最多的書籤？]]></title>
-            <link>https://news.ycombinator.com/item?id=30367204</link>
-            <guid>https://news.ycombinator.com/item?id=30367204</guid>
-            <pubDate>Wed, 16 Feb 2022 23:18:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who Has the Most Bookmarks?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有可以讀取環境變量的Python包？]]></title>
-            <link>https://news.ycombinator.com/item?id=30367155</link>
-            <guid>https://news.ycombinator.com/item?id=30367155</guid>
-            <pubDate>Wed, 16 Feb 2022 23:12:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there Python package that can read environment variables]]></description>
         </item>
     </channel>
 </rss>

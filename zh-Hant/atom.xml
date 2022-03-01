@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T17:56:00.883Z</updated>
+    <updated>2022-03-01T18:16:15.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在做什麼？(2022年3月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30517525</id>
+        <link href="https://news.ycombinator.com/item?id=30517525"/>
+        <updated>2022-03-01T18:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Are You Up To? (March 2022)]]></summary>
+        <author>
+            <name>david927</name>
+            <uri>https://news.ycombinator.com/user?id=david927</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN是否應該要求/鼓勵招聘信息有一個工資範圍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30517434</id>
+        <link href="https://news.ycombinator.com/item?id=30517434"/>
+        <updated>2022-03-01T17:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should HN require/encourage job postings to have a salary range?]]></summary>
+        <author>
+            <name>spaetzleesser</name>
+            <uri>https://news.ycombinator.com/user?id=spaetzleesser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你也只看HN的頭條新聞和用戶評論嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30517295</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>trdmrk</name>
             <uri>https://news.ycombinator.com/user?id=trdmrk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰擁有最多的書籤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30367204</id>
-        <link href="https://news.ycombinator.com/item?id=30367204"/>
-        <updated>2022-02-16T23:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Has the Most Bookmarks?]]></summary>
-        <author>
-            <name>tconfrey</name>
-            <uri>https://news.ycombinator.com/user?id=tconfrey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有可以讀取環境變量的Python包？]]></title>
-        <id>https://news.ycombinator.com/item?id=30367155</id>
-        <link href="https://news.ycombinator.com/item?id=30367155"/>
-        <updated>2022-02-16T23:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there Python package that can read environment variables]]></summary>
-        <author>
-            <name>zikohh</name>
-            <uri>https://news.ycombinator.com/user?id=zikohh</uri>
         </author>
     </entry>
 </feed>
