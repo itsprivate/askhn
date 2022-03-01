@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-02-28T23:15:31.376Z</updated>
+    <updated>2022-03-01T00:39:14.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎么能既支持自由又反对加密货币呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30507359</id>
+        <link href="https://news.ycombinator.com/item?id=30507359"/>
+        <updated>2022-03-01T00:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can you be pro freedom and anti crypto?]]></summary>
+        <author>
+            <name>yourabstraction</name>
+            <uri>https://news.ycombinator.com/user?id=yourabstraction</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果出现长时间的网络中断，你会安装哪些应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30507155</id>
+        <link href="https://news.ycombinator.com/item?id=30507155"/>
+        <updated>2022-03-01T00:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What apps would you install if there was an extended internet outage?]]></summary>
+        <author>
+            <name>traverseda</name>
+            <uri>https://news.ycombinator.com/user?id=traverseda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何离开科技的围墙花园？]]></title>
         <id>https://news.ycombinator.com/item?id=30506446</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>dougSF70</name>
             <uri>https://news.ycombinator.com/user?id=dougSF70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何获得政府软件工程工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30355991</id>
-        <link href="https://news.ycombinator.com/item?id=30355991"/>
-        <updated>2022-02-16T03:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get government software engineering job?]]></summary>
-        <author>
-            <name>carlgreene</name>
-            <uri>https://news.ycombinator.com/user?id=carlgreene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否对TailwindCSS有误解？]]></title>
-        <id>https://news.ycombinator.com/item?id=30355757</id>
-        <link href="https://news.ycombinator.com/item?id=30355757"/>
-        <updated>2022-02-16T02:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I Misunderstanding TailwindCSS?]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
