@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁想合作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30517159</link>
+            <guid>https://news.ycombinator.com/item?id=30517159</guid>
+            <pubDate>Tue, 01 Mar 2022 17:36:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who Wants to Collaborate?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在俄罗斯为家人建立自己的VPN]]></title>
             <link>https://news.ycombinator.com/item?id=30516604</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30366886</guid>
             <pubDate>Wed, 16 Feb 2022 22:46:19 GMT</pubDate>
             <description><![CDATA[Ask HN: What do people use for documentation sites these days?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有人尝试过只用HN数据做股票预测？]]></title>
-            <link>https://news.ycombinator.com/item?id=30366388</link>
-            <guid>https://news.ycombinator.com/item?id=30366388</guid>
-            <pubDate>Wed, 16 Feb 2022 22:03:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Has anyone tried to do stock predictions using only HN data?]]></description>
         </item>
     </channel>
 </rss>
