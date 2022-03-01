@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 01 Mar 2022 21:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 21:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有哪些最好的增長/病毒循環？]]></title>
+            <link>https://news.ycombinator.com/item?id=30520324</link>
+            <guid>https://news.ycombinator.com/item?id=30520324</guid>
+            <pubDate>Tue, 01 Mar 2022 21:34:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are some of the best growth/viral loops?]]></description>
+        </item>
         <item>
             <title><![CDATA[有可能切斷俄羅斯與互聯網其他地區的聯繫嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30520210</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30370524</guid>
             <pubDate>Thu, 17 Feb 2022 07:46:43 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you use for logging (as a service)?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當試圖檢查電子郵件是否能送達時得到黑名單]]></title>
-            <link>https://news.ycombinator.com/item?id=30370412</link>
-            <guid>https://news.ycombinator.com/item?id=30370412</guid>
-            <pubDate>Thu, 17 Feb 2022 07:23:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Getting blacklist when trying to check if email can deliver]]></description>
         </item>
     </channel>
 </rss>
