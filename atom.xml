@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T04:42:12.063Z</updated>
+    <updated>2022-03-01T04:58:45.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由于环球银行间金融电信协会(SWIFT)关闭，俄罗斯人用它来转移资金，加密货币的价值正在上升？]]></title>
+        <id>https://news.ycombinator.com/item?id=30509683</id>
+        <link href="https://news.ycombinator.com/item?id=30509683"/>
+        <updated>2022-03-01T04:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are crypto values rising bc SWIFT-cutoff Russians use it to move money?]]></summary>
+        <author>
+            <name>ManuelKiessling</name>
+            <uri>https://news.ycombinator.com/user?id=ManuelKiessling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们怎么会知道俄罗斯互联网巨头是否在这里活动？]]></title>
         <id>https://news.ycombinator.com/item?id=30509628</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[确定数据库中数据语义类型的工具/研究？]]></title>
-        <id>https://news.ycombinator.com/item?id=30357826</id>
-        <link href="https://news.ycombinator.com/item?id=30357826"/>
-        <updated>2022-02-16T09:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tools/research to identify semantic types of data in databases?]]></summary>
-        <author>
-            <name>ibegtin</name>
-            <uri>https://news.ycombinator.com/user?id=ibegtin</uri>
         </author>
     </entry>
 </feed>
