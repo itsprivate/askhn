@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T18:56:39.331Z</updated>
+    <updated>2022-03-01T19:15:03.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何将M1 MacBook Air连接到iMac？]]></title>
+        <id>https://news.ycombinator.com/item?id=30518300</id>
+        <link href="https://news.ycombinator.com/item?id=30518300"/>
+        <updated>2022-03-01T18:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you connect your M1 MacBook Air to your iMac?]]></summary>
+        <author>
+            <name>launchiterate</name>
+            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理不那么完美的FOSS项目？]]></title>
         <id>https://news.ycombinator.com/item?id=30518251</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>arikr</name>
             <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何充分利用你的高中经历？]]></title>
-        <id>https://news.ycombinator.com/item?id=30367943</id>
-        <link href="https://news.ycombinator.com/item?id=30367943"/>
-        <updated>2022-02-17T00:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make the most of your high school experience?]]></summary>
-        <author>
-            <name>JonathanBuchh</name>
-            <uri>https://news.ycombinator.com/user?id=JonathanBuchh</uri>
         </author>
     </entry>
 </feed>
