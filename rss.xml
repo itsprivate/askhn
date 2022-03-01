@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 01 Mar 2022 06:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 07:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的HN是什么样子的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30510697</link>
+            <guid>https://news.ycombinator.com/item?id=30510697</guid>
+            <pubDate>Tue, 01 Mar 2022 07:14:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: What does your HN look like?]]></description>
+        </item>
         <item>
             <title><![CDATA[我是否应该重构/重写我的个人项目（几乎没有人使用）？]]></title>
             <link>https://news.ycombinator.com/item?id=30510329</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30359627</guid>
             <pubDate>Wed, 16 Feb 2022 13:24:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Stuck as a CS Major. Is there a way out?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么我们不能为制药公司使用bug赏金？]]></title>
-            <link>https://news.ycombinator.com/item?id=30359433</link>
-            <guid>https://news.ycombinator.com/item?id=30359433</guid>
-            <pubDate>Wed, 16 Feb 2022 13:01:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why can't we use bug bounties for pharmaceuticals company?]]></description>
         </item>
     </channel>
 </rss>
