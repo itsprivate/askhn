@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T03:37:51.141Z</updated>
+    <updated>2022-03-01T04:42:12.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們怎麼會知道俄羅斯互聯網巨頭是否在這裡活動？]]></title>
+        <id>https://news.ycombinator.com/item?id=30509628</id>
+        <link href="https://news.ycombinator.com/item?id=30509628"/>
+        <updated>2022-03-01T04:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would we know if Russian Internet trolls are active here?]]></summary>
+        <author>
+            <name>hn2017</name>
+            <uri>https://news.ycombinator.com/user?id=hn2017</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以烏克蘭為基地和/或附屬的初創企業？]]></title>
         <id>https://news.ycombinator.com/item?id=30509019</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ibegtin</name>
             <uri>https://news.ycombinator.com/user?id=ibegtin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是否應該接受 "軟盤圖標 "作為默認的保存符號？]]></title>
-        <id>https://news.ycombinator.com/item?id=30357695</id>
-        <link href="https://news.ycombinator.com/item?id=30357695"/>
-        <updated>2022-02-16T08:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should we accept the “floppy disk icon” as the default save symbol?]]></summary>
-        <author>
-            <name>acadapter</name>
-            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
         </author>
     </entry>
 </feed>
