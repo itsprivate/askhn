@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T10:36:28.982Z</updated>
+    <updated>2022-03-01T11:29:43.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰知道有多少烏克蘭人選擇逃往歐洲而不是逃往俄羅斯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30512716</id>
+        <link href="https://news.ycombinator.com/item?id=30512716"/>
+        <updated>2022-03-01T11:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who knows how many Ukrainians chose to flee to Europe vs flee to Russia?]]></summary>
+        <author>
+            <name>Procedural</name>
+            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移動是跨平臺應用程序的未來嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30512160</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>garritfra</name>
             <uri>https://news.ycombinator.com/user?id=garritfra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在投資初創企業？(2022年2月)]]></title>
-        <id>https://news.ycombinator.com/item?id=30361811</id>
-        <link href="https://news.ycombinator.com/item?id=30361811"/>
-        <updated>2022-02-16T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who's Investing in Startups? (February 2022)]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
