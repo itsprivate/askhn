@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T05:52:31.609Z</updated>
+    <updated>2022-03-01T06:39:37.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否应该重构/重写我的个人项目（几乎没有人使用）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30510329</id>
+        <link href="https://news.ycombinator.com/item?id=30510329"/>
+        <updated>2022-03-01T06:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I refactor/rewrite my personal project(that barely anybody uses)]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selenium测试人员是否在技术团队中提供实际价值？]]></title>
+        <id>https://news.ycombinator.com/item?id=30510309</id>
+        <link href="https://news.ycombinator.com/item?id=30510309"/>
+        <updated>2022-03-01T06:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do Selenium testers provide actual value in tech teams?]]></summary>
+        <author>
+            <name>alg0rith</name>
+            <uri>https://news.ycombinator.com/user?id=alg0rith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么没有个人车辆的车顶广告？]]></title>
         <id>https://news.ycombinator.com/item?id=30510110</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>aphroz</name>
             <uri>https://news.ycombinator.com/user?id=aphroz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚得到一些3090卡，你有什么有利可图的项目可以建议吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30359195</id>
-        <link href="https://news.ycombinator.com/item?id=30359195"/>
-        <updated>2022-02-16T12:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Just got some 3090 cards, any profitable project you can suggest?]]></summary>
-        <author>
-            <name>max93</name>
-            <uri>https://news.ycombinator.com/user?id=max93</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人联系我担任高级职位，但我没有，我是不是把自己夸大了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30359100</id>
-        <link href="https://news.ycombinator.com/item?id=30359100"/>
-        <updated>2022-02-16T12:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Contacted for senior roles but I'm not, am I overselling myself?(I'm 22)]]></summary>
-        <author>
-            <name>FrenchDevRemote</name>
-            <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
         </author>
     </entry>
 </feed>
