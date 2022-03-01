@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T05:29:40.739Z</updated>
+    <updated>2022-03-01T05:52:31.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有個人車輛的車頂廣告？]]></title>
+        <id>https://news.ycombinator.com/item?id=30510110</id>
+        <link href="https://news.ycombinator.com/item?id=30510110"/>
+        <updated>2022-03-01T05:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there no cartop advertising for personal vehicles?]]></summary>
+        <author>
+            <name>wbsun</name>
+            <uri>https://news.ycombinator.com/user?id=wbsun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於UBC如何設計程序的MOOC]]></title>
         <id>https://news.ycombinator.com/item?id=30509913</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>FrenchDevRemote</name>
             <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是實際編程貨幣化的最佳方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30358555</id>
-        <link href="https://news.ycombinator.com/item?id=30358555"/>
-        <updated>2022-02-16T11:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best way to monetize actual programming?]]></summary>
-        <author>
-            <name>throwaway34135</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway34135</uri>
         </author>
     </entry>
 </feed>
