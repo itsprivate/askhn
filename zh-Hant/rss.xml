@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[今天有些網站無法從一些ASN上訪問？]]></title>
+            <link>https://news.ycombinator.com/item?id=30522983</link>
+            <guid>https://news.ycombinator.com/item?id=30522983</guid>
+            <pubDate>Wed, 02 Mar 2022 02:36:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Some websites inaccessible from some ASNs today?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[非工程師的版本控制？]]></title>
+            <link>https://news.ycombinator.com/item?id=30522845</link>
+            <guid>https://news.ycombinator.com/item?id=30522845</guid>
+            <pubDate>Wed, 02 Mar 2022 02:12:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Version Control for Non-Engineers?]]></description>
+        </item>
         <item>
             <title><![CDATA[有哪些有史以來最好的API被設計出來了？]]></title>
             <link>https://news.ycombinator.com/item?id=30522700</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30374296</guid>
             <pubDate>Thu, 17 Feb 2022 15:45:28 GMT</pubDate>
             <description><![CDATA[Ask HN: What keeps you motivated to keep going?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何進行談判？]]></title>
-            <link>https://news.ycombinator.com/item?id=30374279</link>
-            <guid>https://news.ycombinator.com/item?id=30374279</guid>
-            <pubDate>Thu, 17 Feb 2022 15:44:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to Proceed Negotiation?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼HN不以某種方式提醒用戶有新的回覆？]]></title>
-            <link>https://news.ycombinator.com/item?id=30373171</link>
-            <guid>https://news.ycombinator.com/item?id=30373171</guid>
-            <pubDate>Thu, 17 Feb 2022 14:08:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why doesn't HN alert users in some manner to new replies?]]></description>
         </item>
     </channel>
 </rss>
