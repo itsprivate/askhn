@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 20:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 20:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼不舉行HN聚會？]]></title>
+            <link>https://news.ycombinator.com/item?id=30532633</link>
+            <guid>https://news.ycombinator.com/item?id=30532633</guid>
+            <pubDate>Wed, 02 Mar 2022 20:28:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why not have HN meetups?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何在工作中燃燒卡路里？]]></title>
+            <link>https://news.ycombinator.com/item?id=30532423</link>
+            <guid>https://news.ycombinator.com/item?id=30532423</guid>
+            <pubDate>Wed, 02 Mar 2022 20:15:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you burn calories while on working?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在使用什麼瀏覽器擴展？]]></title>
             <link>https://news.ycombinator.com/item?id=30532209</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30383089</guid>
             <pubDate>Fri, 18 Feb 2022 07:36:32 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you test no-code apps?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我沒有靜態IP，如何確保我的AWS實例的SSH訪問？]]></title>
-            <link>https://news.ycombinator.com/item?id=30382568</link>
-            <guid>https://news.ycombinator.com/item?id=30382568</guid>
-            <pubDate>Fri, 18 Feb 2022 05:58:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I secure my AWS instance's SSH access if I have no static IP?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN的人是否會使用discord服務器來談論HN？]]></title>
-            <link>https://news.ycombinator.com/item?id=30382536</link>
-            <guid>https://news.ycombinator.com/item?id=30382536</guid>
-            <pubDate>Fri, 18 Feb 2022 05:51:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Would HN folks use a discord server to talk about HN?]]></description>
         </item>
     </channel>
 </rss>
