@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T07:38:44.031Z</updated>
+    <updated>2022-03-02T08:55:57.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為個人項目提供小預算的廣告？]]></title>
+        <id>https://news.ycombinator.com/item?id=30525225</id>
+        <link href="https://news.ycombinator.com/item?id=30525225"/>
+        <updated>2022-03-02T08:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ads with small budget for personal project?]]></summary>
+        <author>
+            <name>kioleanu</name>
+            <uri>https://news.ycombinator.com/user?id=kioleanu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能幫我從谷歌地圖上刪除空襲的標記嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30524637</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>causehealth101</name>
             <uri>https://news.ycombinator.com/user?id=causehealth101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[框架筆記本電腦是否是筆測試的理想選擇？]]></title>
-        <id>https://news.ycombinator.com/item?id=30375194</id>
-        <link href="https://news.ycombinator.com/item?id=30375194"/>
-        <updated>2022-02-17T16:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would the Framework laptop be ideal for pen testing?]]></summary>
-        <author>
-            <name>brightball</name>
-            <uri>https://news.ycombinator.com/user?id=brightball</uri>
         </author>
     </entry>
 </feed>
