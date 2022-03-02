@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T03:51:57.372Z</updated>
+    <updated>2022-03-02T04:14:13.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何设计一个好的技术面试测试（带回家或现场）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30523462</id>
+        <link href="https://news.ycombinator.com/item?id=30523462"/>
+        <updated>2022-03-02T03:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to design a good technical interview test (take home or live)]]></summary>
+        <author>
+            <name>bilkoo</name>
+            <uri>https://news.ycombinator.com/user?id=bilkoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是做一个低激情的项目好呢，还是什么都不做好呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30523328</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tren-hard</name>
             <uri>https://news.ycombinator.com/user?id=tren-hard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当动机被耗尽/恢复时，什么是有成效的活动？]]></title>
-        <id>https://news.ycombinator.com/item?id=30374427</id>
-        <link href="https://news.ycombinator.com/item?id=30374427"/>
-        <updated>2022-02-17T15:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are productive activities when motivation is drained/recovering?]]></summary>
-        <author>
-            <name>mattwilsonn888</name>
-            <uri>https://news.ycombinator.com/user?id=mattwilsonn888</uri>
         </author>
     </entry>
 </feed>
