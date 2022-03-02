@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T11:13:41.187Z</updated>
+    <updated>2022-03-02T11:30:16.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程桌面和SSH终端SaaS]]></title>
+        <id>https://news.ycombinator.com/item?id=30526091</id>
+        <link href="https://news.ycombinator.com/item?id=30526091"/>
+        <updated>2022-03-02T11:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Remote desktop and SSH terminal SaaS]]></summary>
+        <author>
+            <name>provetza</name>
+            <uri>https://news.ycombinator.com/user?id=provetza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在我的情况下，你会用50'000欧元做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30526068</id>
+        <link href="https://news.ycombinator.com/item?id=30526068"/>
+        <updated>2022-03-02T11:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would you do with 50'000 Euro in my situation?]]></summary>
+        <author>
+            <name>2-718-281-828</name>
+            <uri>https://news.ycombinator.com/user?id=2-718-281-828</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何应对可能的核威胁？]]></title>
         <id>https://news.ycombinator.com/item?id=30526022</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ahmaman</name>
             <uri>https://news.ycombinator.com/user?id=ahmaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comixology网站已经消失了，还有谁会怀念它？]]></title>
-        <id>https://news.ycombinator.com/item?id=30375440</id>
-        <link href="https://news.ycombinator.com/item?id=30375440"/>
-        <updated>2022-02-17T16:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Comixology Site is gone, anybody else will miss it?]]></summary>
-        <author>
-            <name>anon2020dot00</name>
-            <uri>https://news.ycombinator.com/user?id=anon2020dot00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的SaaS被用于实施金融犯罪。我应该怎么做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30375393</id>
-        <link href="https://news.ycombinator.com/item?id=30375393"/>
-        <updated>2022-02-17T16:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: My SaaS was used to commit a financial crime. What should I do?]]></summary>
-        <author>
-            <name>cuz-reasons</name>
-            <uri>https://news.ycombinator.com/user?id=cuz-reasons</uri>
         </author>
     </entry>
 </feed>
