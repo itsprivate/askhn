@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T17:37:22.791Z</updated>
+    <updated>2022-03-02T17:52:34.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为软件工程师，我可以在乌克兰危机中发挥作用吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30530219</id>
+        <link href="https://news.ycombinator.com/item?id=30530219"/>
+        <updated>2022-03-02T17:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I be useful in the Ukraine crisis as software engineer?]]></summary>
+        <author>
+            <name>doompling</name>
+            <uri>https://news.ycombinator.com/user?id=doompling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全的域名注册商？]]></title>
         <id>https://news.ycombinator.com/item?id=30529926</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>valzam</name>
             <uri>https://news.ycombinator.com/user?id=valzam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAANG的人们，你们的同事和管理层是否阅读过HN对公司的提及？]]></title>
-        <id>https://news.ycombinator.com/item?id=30379130</id>
-        <link href="https://news.ycombinator.com/item?id=30379130"/>
-        <updated>2022-02-17T21:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: People of FAANG, do your coworkers and mgmt read HN mentions of company?]]></summary>
-        <author>
-            <name>RicoElectrico</name>
-            <uri>https://news.ycombinator.com/user?id=RicoElectrico</uri>
         </author>
     </entry>
 </feed>
