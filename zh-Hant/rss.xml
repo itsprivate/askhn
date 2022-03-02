@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 20:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 21:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在家庭網絡中實現地理圍欄？]]></title>
+            <link>https://news.ycombinator.com/item?id=30533049</link>
+            <guid>https://news.ycombinator.com/item?id=30533049</guid>
+            <pubDate>Wed, 02 Mar 2022 20:58:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to implement geofencing in home network?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼不舉行HN聚會？]]></title>
             <link>https://news.ycombinator.com/item?id=30532633</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30384880</guid>
             <pubDate>Fri, 18 Feb 2022 12:28:32 GMT</pubDate>
             <description><![CDATA[Ask HN: How much would you pay to fix one of your “bad” mutations?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何測試無代碼的應用程序？]]></title>
-            <link>https://news.ycombinator.com/item?id=30383089</link>
-            <guid>https://news.ycombinator.com/item?id=30383089</guid>
-            <pubDate>Fri, 18 Feb 2022 07:36:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you test no-code apps?]]></description>
         </item>
     </channel>
 </rss>
