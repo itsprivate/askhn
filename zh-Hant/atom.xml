@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T18:57:44.155Z</updated>
+    <updated>2022-03-02T19:28:29.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的極簡主義的例子是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30531497</id>
+        <link href="https://news.ycombinator.com/item?id=30531497"/>
+        <updated>2022-03-02T19:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite examples of minimalism?]]></summary>
+        <author>
+            <name>launchiterate</name>
+            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我的adless網站會收到來自googleads.g.doubleclick.net的推薦信息？]]></title>
         <id>https://news.ycombinator.com/item?id=30531090</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lostwhitewalker</name>
             <uri>https://news.ycombinator.com/user?id=lostwhitewalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闖入SWE]]></title>
-        <id>https://news.ycombinator.com/item?id=30381742</id>
-        <link href="https://news.ycombinator.com/item?id=30381742"/>
-        <updated>2022-02-18T03:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Breaking into SWE]]></summary>
-        <author>
-            <name>legerdemain</name>
-            <uri>https://news.ycombinator.com/user?id=legerdemain</uri>
         </author>
     </entry>
 </feed>
