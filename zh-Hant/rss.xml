@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 19:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 19:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你認為核大決戰是可信的嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30531824</link>
+            <guid>https://news.ycombinator.com/item?id=30531824</guid>
+            <pubDate>Wed, 02 Mar 2022 19:36:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you think nuclear armageddon is plausible?]]></description>
+        </item>
         <item>
             <title><![CDATA[你最喜歡的極簡主義的例子是什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=30531497</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30381806</guid>
             <pubDate>Fri, 18 Feb 2022 03:23:41 GMT</pubDate>
             <description><![CDATA[Ask HN: How much logic should I keep at the database vs. app layer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我開始了一份新的工作，我很害怕]]></title>
-            <link>https://news.ycombinator.com/item?id=30381766</link>
-            <guid>https://news.ycombinator.com/item?id=30381766</guid>
-            <pubDate>Fri, 18 Feb 2022 03:17:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: I started a new job and I'm scared]]></description>
         </item>
     </channel>
 </rss>

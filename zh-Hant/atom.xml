@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T19:28:29.491Z</updated>
+    <updated>2022-03-02T19:55:18.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你認為核大決戰是可信的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30531824</id>
+        <link href="https://news.ycombinator.com/item?id=30531824"/>
+        <updated>2022-03-02T19:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you think nuclear armageddon is plausible?]]></summary>
+        <author>
+            <name>mysecretaccount</name>
+            <uri>https://news.ycombinator.com/user?id=mysecretaccount</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的極簡主義的例子是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30531497</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cliffordfajardo</name>
             <uri>https://news.ycombinator.com/user?id=cliffordfajardo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我開始了一份新的工作，我很害怕]]></title>
-        <id>https://news.ycombinator.com/item?id=30381766</id>
-        <link href="https://news.ycombinator.com/item?id=30381766"/>
-        <updated>2022-02-18T03:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I started a new job and I'm scared]]></summary>
-        <author>
-            <name>lostwhitewalker</name>
-            <uri>https://news.ycombinator.com/user?id=lostwhitewalker</uri>
         </author>
     </entry>
 </feed>
