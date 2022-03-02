@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-01T23:34:00.948Z</updated>
+    <updated>2022-03-02T00:40:38.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁在寻找SaaS服务？(2022年3月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30521750</id>
+        <link href="https://news.ycombinator.com/item?id=30521750"/>
+        <updated>2022-03-01T23:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is looking for a SaaS service? (March 2022)]]></summary>
+        <author>
+            <name>zakokor</name>
+            <uri>https://news.ycombinator.com/user?id=zakokor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁想合作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30521735</id>
+        <link href="https://news.ycombinator.com/item?id=30521735"/>
+        <updated>2022-03-01T23:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Wants to Collaborate?]]></summary>
+        <author>
+            <name>cloudsec9</name>
+            <uri>https://news.ycombinator.com/user?id=cloudsec9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否觉得你曾经 "渠道基建"？]]></title>
         <id>https://news.ycombinator.com/item?id=30521461</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>_448</name>
             <uri>https://news.ycombinator.com/user?id=_448</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理你的公司知识库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30371723</id>
-        <link href="https://news.ycombinator.com/item?id=30371723"/>
-        <updated>2022-02-17T10:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your companies knowledge base?]]></summary>
-        <author>
-            <name>hifikuno</name>
-            <uri>https://news.ycombinator.com/user?id=hifikuno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类的语境转换技巧]]></title>
-        <id>https://news.ycombinator.com/item?id=30371335</id>
-        <link href="https://news.ycombinator.com/item?id=30371335"/>
-        <updated>2022-02-17T09:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Context Switching Tips for Humans]]></summary>
-        <author>
-            <name>new23d</name>
-            <uri>https://news.ycombinator.com/user?id=new23d</uri>
         </author>
     </entry>
 </feed>
