@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T04:14:13.430Z</updated>
+    <updated>2022-03-02T07:38:44.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能幫我從谷歌地圖上刪除空襲的標記嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30524637</id>
+        <link href="https://news.ycombinator.com/item?id=30524637"/>
+        <updated>2022-03-02T07:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you help me remove the marks for the airstrikes from Google Maps?]]></summary>
+        <author>
+            <name>wzyoi</name>
+            <uri>https://news.ycombinator.com/user?id=wzyoi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你準備好迎接偉大的離線事件了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30524530</id>
+        <link href="https://news.ycombinator.com/item?id=30524530"/>
+        <updated>2022-03-02T06:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are You Ready for the Great Offline Event?]]></summary>
+        <author>
+            <name>oraoraoraoraora</name>
+            <uri>https://news.ycombinator.com/user?id=oraoraoraoraora</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網站對俄羅斯進行地理圍欄會有幫助嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30524333</id>
+        <link href="https://news.ycombinator.com/item?id=30524333"/>
+        <updated>2022-03-02T06:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would it be helpful for websites to geofence Russia?]]></summary>
+        <author>
+            <name>Renaud</name>
+            <uri>https://news.ycombinator.com/user?id=Renaud</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消費者是否會用到10Gbit互聯網？]]></title>
+        <id>https://news.ycombinator.com/item?id=30524152</id>
+        <link href="https://news.ycombinator.com/item?id=30524152"/>
+        <updated>2022-03-02T05:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will consumers ever have a use for 10Gbit internet]]></summary>
+        <author>
+            <name>Gigachad</name>
+            <uri>https://news.ycombinator.com/user?id=Gigachad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何設計一個好的技術面試測試（帶回家或現場）。]]></title>
         <id>https://news.ycombinator.com/item?id=30523462</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>brightball</name>
             <uri>https://news.ycombinator.com/user?id=brightball</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你怎麼知道你所解決的問題對人們很重要？]]></title>
-        <id>https://news.ycombinator.com/item?id=30374956</id>
-        <link href="https://news.ycombinator.com/item?id=30374956"/>
-        <updated>2022-02-17T16:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you know the problem you're solving matters to people?]]></summary>
-        <author>
-            <name>amac</name>
-            <uri>https://news.ycombinator.com/user?id=amac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為什麼要相信密碼管理器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30374896</id>
-        <link href="https://news.ycombinator.com/item?id=30374896"/>
-        <updated>2022-02-17T16:27:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why should I trust password managers?]]></summary>
-        <author>
-            <name>acadapter</name>
-            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空對象模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30374855</id>
-        <link href="https://news.ycombinator.com/item?id=30374855"/>
-        <updated>2022-02-17T16:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Null Object Pattern]]></summary>
-        <author>
-            <name>breckenedge</name>
-            <uri>https://news.ycombinator.com/user?id=breckenedge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一個遠程公司辭職？]]></title>
-        <id>https://news.ycombinator.com/item?id=30374820</id>
-        <link href="https://news.ycombinator.com/item?id=30374820"/>
-        <updated>2022-02-17T16:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Do You Quit at a Remote Company?]]></summary>
-        <author>
-            <name>tren-hard</name>
-            <uri>https://news.ycombinator.com/user?id=tren-hard</uri>
         </author>
     </entry>
 </feed>
