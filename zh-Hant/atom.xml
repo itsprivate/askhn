@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T14:34:11.315Z</updated>
+    <updated>2022-03-02T15:15:36.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科技初創企業如何幫助烏克蘭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30528114</id>
+        <link href="https://news.ycombinator.com/item?id=30528114"/>
+        <updated>2022-03-02T15:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can tech startups help Ukraine?]]></summary>
+        <author>
+            <name>afeiszli</name>
+            <uri>https://news.ycombinator.com/user?id=afeiszli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼美國沒有因為與伊拉克的戰爭而受到制裁？]]></title>
         <id>https://news.ycombinator.com/item?id=30527361</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>anoojb</name>
             <uri>https://news.ycombinator.com/user?id=anoojb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼MS Teams這麼慢，開發人員是否在性能較差的機器上測試Teams？]]></title>
-        <id>https://news.ycombinator.com/item?id=30378306</id>
-        <link href="https://news.ycombinator.com/item?id=30378306"/>
-        <updated>2022-02-17T20:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is MS Teams so slow, do devs test Teams on less powerful machines?]]></summary>
-        <author>
-            <name>mmsimanga</name>
-            <uri>https://news.ycombinator.com/user?id=mmsimanga</uri>
         </author>
     </entry>
 </feed>
