@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 21:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 21:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[说实话，你一天要工作多少个小时？]]></title>
+            <link>https://news.ycombinator.com/item?id=30533414</link>
+            <guid>https://news.ycombinator.com/item?id=30533414</guid>
+            <pubDate>Wed, 02 Mar 2022 21:26:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Let's be honest, how many hours do you work in a day?]]></description>
+        </item>
         <item>
             <title><![CDATA[还有人经常忘记他们注册的是哪个SSO服务吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30533170</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30385479</guid>
             <pubDate>Fri, 18 Feb 2022 13:34:17 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there VC appetite for defense related startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国科技公司的远程员工，你的工作强度有多大？]]></title>
-            <link>https://news.ycombinator.com/item?id=30385009</link>
-            <guid>https://news.ycombinator.com/item?id=30385009</guid>
-            <pubDate>Fri, 18 Feb 2022 12:41:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Remote workers in US tech companies, how much do you work?]]></description>
         </item>
     </channel>
 </rss>
