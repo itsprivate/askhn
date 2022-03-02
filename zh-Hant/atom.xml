@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T10:14:39.942Z</updated>
+    <updated>2022-03-02T11:13:41.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何應對可能的核威脅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30526022</id>
+        <link href="https://news.ycombinator.com/item?id=30526022"/>
+        <updated>2022-03-02T11:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you cope with possible nuclear threat?]]></summary>
+        <author>
+            <name>kcindric</name>
+            <uri>https://news.ycombinator.com/user?id=kcindric</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼在HN上不能右鍵保存頁面？(在一個/項目中)]]></title>
+        <id>https://news.ycombinator.com/item?id=30525971</id>
+        <link href="https://news.ycombinator.com/item?id=30525971"/>
+        <updated>2022-03-02T10:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't you right-click save page on HN? (in a /item)]]></summary>
+        <author>
+            <name>mezod</name>
+            <uri>https://news.ycombinator.com/user?id=mezod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能破解一個多比特錢包嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30525620</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>cuz-reasons</name>
             <uri>https://news.ycombinator.com/user?id=cuz-reasons</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對開放元氣的想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30375337</id>
-        <link href="https://news.ycombinator.com/item?id=30375337"/>
-        <updated>2022-02-17T16:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on making metaverse open source?]]></summary>
-        <author>
-            <name>johndavid9991</name>
-            <uri>https://news.ycombinator.com/user?id=johndavid9991</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程經理到集成電路角色]]></title>
-        <id>https://news.ycombinator.com/item?id=30375318</id>
-        <link href="https://news.ycombinator.com/item?id=30375318"/>
-        <updated>2022-02-17T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Engineering Manager to IC Role]]></summary>
-        <author>
-            <name>Gigacore</name>
-            <uri>https://news.ycombinator.com/user?id=Gigacore</uri>
         </author>
     </entry>
 </feed>
