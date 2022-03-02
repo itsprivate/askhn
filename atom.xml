@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T18:40:09.082Z</updated>
+    <updated>2022-03-02T18:57:44.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我的adless网站会收到来自googleads.g.doubleclick.net的推荐信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30531090</id>
+        <link href="https://news.ycombinator.com/item?id=30531090"/>
+        <updated>2022-03-02T18:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is my adless site getting referals from googleads.g.doubleclick.net?]]></summary>
+        <author>
+            <name>anderspitman</name>
+            <uri>https://news.ycombinator.com/user?id=anderspitman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联合国的谴责意味着什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30530848</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>legerdemain</name>
             <uri>https://news.ycombinator.com/user?id=legerdemain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么浏览器必须定期刷新？]]></title>
-        <id>https://news.ycombinator.com/item?id=30381144</id>
-        <link href="https://news.ycombinator.com/item?id=30381144"/>
-        <updated>2022-02-18T01:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do browsers have to be refreshed periodically?]]></summary>
-        <author>
-            <name>eishtmo</name>
-            <uri>https://news.ycombinator.com/user?id=eishtmo</uri>
         </author>
     </entry>
 </feed>

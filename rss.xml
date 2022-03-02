@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 18:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 18:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么我的adless网站会收到来自googleads.g.doubleclick.net的推荐信息？]]></title>
+            <link>https://news.ycombinator.com/item?id=30531090</link>
+            <guid>https://news.ycombinator.com/item?id=30531090</guid>
+            <pubDate>Wed, 02 Mar 2022 18:44:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is my adless site getting referals from googleads.g.doubleclick.net?]]></description>
+        </item>
         <item>
             <title><![CDATA[联合国的谴责意味着什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30530848</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30381742</guid>
             <pubDate>Fri, 18 Feb 2022 03:13:02 GMT</pubDate>
             <description><![CDATA[Ask HN: Breaking into SWE]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么浏览器必须定期刷新？]]></title>
-            <link>https://news.ycombinator.com/item?id=30381144</link>
-            <guid>https://news.ycombinator.com/item?id=30381144</guid>
-            <pubDate>Fri, 18 Feb 2022 01:32:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do browsers have to be refreshed periodically?]]></description>
         </item>
     </channel>
 </rss>
