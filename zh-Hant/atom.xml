@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T11:30:16.219Z</updated>
+    <updated>2022-03-02T11:54:37.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否僱傭了一個私人助理作為程序員？]]></title>
+        <id>https://news.ycombinator.com/item?id=30526119</id>
+        <link href="https://news.ycombinator.com/item?id=30526119"/>
+        <updated>2022-03-02T11:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you hired a personal assistant as a programmer?]]></summary>
+        <author>
+            <name>throwex</name>
+            <uri>https://news.ycombinator.com/user?id=throwex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遠程桌面和SSH終端SaaS]]></title>
         <id>https://news.ycombinator.com/item?id=30526091</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>newkevinarcher</name>
             <uri>https://news.ycombinator.com/user?id=newkevinarcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS代碼的良好替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30375989</id>
-        <link href="https://news.ycombinator.com/item?id=30375989"/>
-        <updated>2022-02-17T17:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good Alternatives to VS Code?]]></summary>
-        <author>
-            <name>ahmaman</name>
-            <uri>https://news.ycombinator.com/user?id=ahmaman</uri>
         </author>
     </entry>
 </feed>

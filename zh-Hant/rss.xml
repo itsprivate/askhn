@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否僱傭了一個私人助理作為程序員？]]></title>
+            <link>https://news.ycombinator.com/item?id=30526119</link>
+            <guid>https://news.ycombinator.com/item?id=30526119</guid>
+            <pubDate>Wed, 02 Mar 2022 11:26:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have you hired a personal assistant as a programmer?]]></description>
+        </item>
         <item>
             <title><![CDATA[遠程桌面和SSH終端SaaS]]></title>
             <link>https://news.ycombinator.com/item?id=30526091</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30375938</guid>
             <pubDate>Thu, 17 Feb 2022 17:27:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Did this is a scam app? What are your thoughts on this?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VS代碼的良好替代品？]]></title>
-            <link>https://news.ycombinator.com/item?id=30375989</link>
-            <guid>https://news.ycombinator.com/item?id=30375989</guid>
-            <pubDate>Thu, 17 Feb 2022 17:31:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Good Alternatives to VS Code?]]></description>
         </item>
     </channel>
 </rss>
