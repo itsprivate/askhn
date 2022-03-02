@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-02T16:20:24.365Z</updated>
+    <updated>2022-03-02T17:37:22.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全的域名注册商？]]></title>
+        <id>https://news.ycombinator.com/item?id=30529926</id>
+        <link href="https://news.ycombinator.com/item?id=30529926"/>
+        <updated>2022-03-02T17:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Secure Domain Name Registrars?]]></summary>
+        <author>
+            <name>mattymf</name>
+            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的童年中，你最喜欢的5个记忆是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30528751</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>RicoElectrico</name>
             <uri>https://news.ycombinator.com/user?id=RicoElectrico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么搜索在Hacker News的底部？]]></title>
-        <id>https://news.ycombinator.com/item?id=30378725</id>
-        <link href="https://news.ycombinator.com/item?id=30378725"/>
-        <updated>2022-02-17T21:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the search at the bottom of the Hacker News?]]></summary>
-        <author>
-            <name>danielyaa5</name>
-            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
         </author>
     </entry>
 </feed>
