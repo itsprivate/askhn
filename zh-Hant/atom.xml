@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T02:12:41.791Z</updated>
+    <updated>2022-03-03T03:36:10.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否應該告訴招聘經理一個無禮的面試官和未來的同行]]></title>
+        <id>https://news.ycombinator.com/item?id=30536803</id>
+        <link href="https://news.ycombinator.com/item?id=30536803"/>
+        <updated>2022-03-03T03:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I tell hiring manager about a rude interviewer and future peer]]></summary>
+        <author>
+            <name>nus07</name>
+            <uri>https://news.ycombinator.com/user?id=nus07</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯國內是如何看待烏克蘭戰爭的？]]></title>
         <id>https://news.ycombinator.com/item?id=30536143</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>12345temp</name>
             <uri>https://news.ycombinator.com/user?id=12345temp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年，你還在使用防病毒軟件嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30388013</id>
-        <link href="https://news.ycombinator.com/item?id=30388013"/>
-        <updated>2022-02-18T16:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you still use Antivirus in 2022?]]></summary>
-        <author>
-            <name>tcgv</name>
-            <uri>https://news.ycombinator.com/user?id=tcgv</uri>
         </author>
     </entry>
 </feed>
