@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T20:56:41.868Z</updated>
+    <updated>2022-03-03T21:16:33.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在哪里可以找到有关第二轮谈判的信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30547015</id>
+        <link href="https://news.ycombinator.com/item?id=30547015"/>
+        <updated>2022-03-03T21:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I find info about the 2nd round of negoations?]]></summary>
+        <author>
+            <name>csee</name>
+            <uri>https://news.ycombinator.com/user?id=csee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于应急通信的移动应用程序？]]></title>
         <id>https://news.ycombinator.com/item?id=30546775</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>marto1</name>
             <uri>https://news.ycombinator.com/user?id=marto1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解决能源危机？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398498</id>
-        <link href="https://news.ycombinator.com/item?id=30398498"/>
-        <updated>2022-02-19T16:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Solve the Energy Crisis?]]></summary>
-        <author>
-            <name>pengwing</name>
-            <uri>https://news.ycombinator.com/user?id=pengwing</uri>
         </author>
     </entry>
 </feed>
