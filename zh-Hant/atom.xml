@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T12:55:29.186Z</updated>
+    <updated>2022-03-03T13:21:58.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[著名的大學輟學生是如何在輟學的情況下學習CS的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30540381</id>
+        <link href="https://news.ycombinator.com/item?id=30540381"/>
+        <updated>2022-03-03T13:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did famous college drop-outs learn CS despite dropping out?]]></summary>
+        <author>
+            <name>jonathan-kosgei</name>
+            <uri>https://news.ycombinator.com/user?id=jonathan-kosgei</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有適用於iPhone的彭博社B-Unit應用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30540229</id>
+        <link href="https://news.ycombinator.com/item?id=30540229"/>
+        <updated>2022-03-03T12:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there no Bloomberg B-Unit app for iPhones?]]></summary>
+        <author>
+            <name>kowloop</name>
+            <uri>https://news.ycombinator.com/user?id=kowloop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人們如何為可能的核威脅做準備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30540204</id>
+        <link href="https://news.ycombinator.com/item?id=30540204"/>
+        <updated>2022-03-03T12:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does one prepare for a possible nuclear threat?]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個俄羅斯人，你有哪些離開的選擇？]]></title>
         <id>https://news.ycombinator.com/item?id=30540141</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>southerntofu</name>
             <uri>https://news.ycombinator.com/user?id=southerntofu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一個Linux項目在逐字逐句地再現macOS的桌面環境？]]></title>
-        <id>https://news.ycombinator.com/item?id=30392215</id>
-        <link href="https://news.ycombinator.com/item?id=30392215"/>
-        <updated>2022-02-18T22:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a Linux project recreating the macOS desktop env verbatim?]]></summary>
-        <author>
-            <name>apatheticonion</name>
-            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解釋身為人類而非昆蟲的幸運？]]></title>
-        <id>https://news.ycombinator.com/item?id=30391945</id>
-        <link href="https://news.ycombinator.com/item?id=30391945"/>
-        <updated>2022-02-18T22:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to explain the luck of being a human and not an insect?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些公司重視高質量的代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30391640</id>
-        <link href="https://news.ycombinator.com/item?id=30391640"/>
-        <updated>2022-02-18T21:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some companies that value quality code?]]></summary>
-        <author>
-            <name>curiousEagle</name>
-            <uri>https://news.ycombinator.com/user?id=curiousEagle</uri>
         </author>
     </entry>
 </feed>
