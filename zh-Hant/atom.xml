@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T14:31:45.242Z</updated>
+    <updated>2022-03-03T14:54:33.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[直接民主國家會不會不那麼願意與俄羅斯對抗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30541583</id>
+        <link href="https://news.ycombinator.com/item?id=30541583"/>
+        <updated>2022-03-03T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would direct democracies have been less willing to confront Russia?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何對矢量圖像進行版權保護？]]></title>
         <id>https://news.ycombinator.com/item?id=30541352</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>NithurM</name>
             <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知道最近在HN上有一個關於Ubuntu Mono的帖子的鏈接]]></title>
-        <id>https://news.ycombinator.com/item?id=30392938</id>
-        <link href="https://news.ycombinator.com/item?id=30392938"/>
-        <updated>2022-02-19T00:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Know the link to a post on Ubuntu Mono recently on HN]]></summary>
-        <author>
-            <name>mrassili</name>
-            <uri>https://news.ycombinator.com/user?id=mrassili</uri>
         </author>
     </entry>
 </feed>
