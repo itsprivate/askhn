@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 03 Mar 2022 19:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 19:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自我託管的開源IP安全攝像機？]]></title>
+            <link>https://news.ycombinator.com/item?id=30545652</link>
+            <guid>https://news.ycombinator.com/item?id=30545652</guid>
+            <pubDate>Thu, 03 Mar 2022 19:36:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Self-hosted open source IP security cameras?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否使用PostgreSQL的Percona分佈？它對你的作用如何？]]></title>
             <link>https://news.ycombinator.com/item?id=30545142</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30398297</guid>
             <pubDate>Sat, 19 Feb 2022 16:30:27 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you organize life with your partner?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你將如何在一個大型企業中實施服務網狀結構？]]></title>
-            <link>https://news.ycombinator.com/item?id=30398106</link>
-            <guid>https://news.ycombinator.com/item?id=30398106</guid>
-            <pubDate>Sat, 19 Feb 2022 16:07:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How would you implement service mesh in a large enterprise?]]></description>
         </item>
     </channel>
 </rss>

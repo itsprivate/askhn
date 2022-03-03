@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T19:15:14.316Z</updated>
+    <updated>2022-03-03T19:57:17.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自我托管的开源IP安全摄像机？]]></title>
+        <id>https://news.ycombinator.com/item?id=30545652</id>
+        <link href="https://news.ycombinator.com/item?id=30545652"/>
+        <updated>2022-03-03T19:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Self-hosted open source IP security cameras?]]></summary>
+        <author>
+            <name>DietaryNonsense</name>
+            <uri>https://news.ycombinator.com/user?id=DietaryNonsense</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用PostgreSQL的Percona分布？它对你的作用如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30545142</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mellifluousbox</name>
             <uri>https://news.ycombinator.com/user?id=mellifluousbox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你将如何在一个大型企业中实施服务网状结构？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398106</id>
-        <link href="https://news.ycombinator.com/item?id=30398106"/>
-        <updated>2022-02-19T16:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you implement service mesh in a large enterprise?]]></summary>
-        <author>
-            <name>digitalsanctum</name>
-            <uri>https://news.ycombinator.com/user?id=digitalsanctum</uri>
         </author>
     </entry>
 </feed>
