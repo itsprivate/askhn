@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T09:51:48.075Z</updated>
+    <updated>2022-03-03T10:13:16.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[问HN：Zelensky在哪里？为什么不为人知？]]></title>
+        <id>https://news.ycombinator.com/item?id=30539080</id>
+        <link href="https://news.ycombinator.com/item?id=30539080"/>
+        <updated>2022-03-03T09:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ask HN: Where is Zelensky? Why is it unknown?]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些公司在招聘亲临现场的团队？]]></title>
         <id>https://news.ycombinator.com/item?id=30539040</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cheeseblubber</name>
             <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何应对？]]></title>
-        <id>https://news.ycombinator.com/item?id=30390010</id>
-        <link href="https://news.ycombinator.com/item?id=30390010"/>
-        <updated>2022-02-18T19:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Do You Cope?]]></summary>
-        <author>
-            <name>pinephoneguy</name>
-            <uri>https://news.ycombinator.com/user?id=pinephoneguy</uri>
         </author>
     </entry>
 </feed>
