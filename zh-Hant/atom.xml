@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T19:57:17.219Z</updated>
+    <updated>2022-03-03T20:36:10.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能黑掉愛情？]]></title>
+        <id>https://news.ycombinator.com/item?id=30546466</id>
+        <link href="https://news.ycombinator.com/item?id=30546466"/>
+        <updated>2022-03-03T20:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I hack love?]]></summary>
+        <author>
+            <name>throwawayiay</name>
+            <uri>https://news.ycombinator.com/user?id=throwawayiay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如今，應該如何為核戰爭做準備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30546328</id>
+        <link href="https://news.ycombinator.com/item?id=30546328"/>
+        <updated>2022-03-03T20:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should one prepare for nuclear war nowadays?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自我託管的開源IP安全攝像機？]]></title>
         <id>https://news.ycombinator.com/item?id=30545652</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>samstave</name>
             <uri>https://news.ycombinator.com/user?id=samstave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司是異步的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398310</id>
-        <link href="https://news.ycombinator.com/item?id=30398310"/>
-        <updated>2022-02-19T16:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Your Company Async?]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何安排與你的伴侶的生活？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398297</id>
-        <link href="https://news.ycombinator.com/item?id=30398297"/>
-        <updated>2022-02-19T16:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you organize life with your partner?]]></summary>
-        <author>
-            <name>mellifluousbox</name>
-            <uri>https://news.ycombinator.com/user?id=mellifluousbox</uri>
         </author>
     </entry>
 </feed>
