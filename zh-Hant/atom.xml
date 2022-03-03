@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T08:14:51.859Z</updated>
+    <updated>2022-03-03T08:36:09.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是一個數字囤積者嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30538486</id>
+        <link href="https://news.ycombinator.com/item?id=30538486"/>
+        <updated>2022-03-03T08:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you a digital hoarder?]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你認為哪些古老的CS書籍在今天仍有意義？]]></title>
         <id>https://news.ycombinator.com/item?id=30538301</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>alpha_squared</name>
             <uri>https://news.ycombinator.com/user?id=alpha_squared</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年2月22日下午2點22分發射的時區是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30389099</id>
-        <link href="https://news.ycombinator.com/item?id=30389099"/>
-        <updated>2022-02-18T18:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Timezone for Launch 2:22PM on 02.22.2022?]]></summary>
-        <author>
-            <name>yonz</name>
-            <uri>https://news.ycombinator.com/user?id=yonz</uri>
         </author>
     </entry>
 </feed>
