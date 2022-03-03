@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 03 Mar 2022 18:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 19:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否使用PostgreSQL的Percona分布？它对你的作用如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=30545142</link>
+            <guid>https://news.ycombinator.com/item?id=30545142</guid>
+            <pubDate>Thu, 03 Mar 2022 18:57:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you use Percona Distribution of PostgreSQL? How's it working for you?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[后来重新签署股权文件有什么坏处吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30544934</link>
+            <guid>https://news.ycombinator.com/item?id=30544934</guid>
+            <pubDate>Thu, 03 Mar 2022 18:43:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there any downside to re-signing equity paperwork later?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript是否已准备好进行严肃而富有成效的开发？]]></title>
+            <link>https://news.ycombinator.com/item?id=30544892</link>
+            <guid>https://news.ycombinator.com/item?id=30544892</guid>
+            <pubDate>Thu, 03 Mar 2022 18:40:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is TypeScript ready for serious and productive development?]]></description>
+        </item>
         <item>
             <title><![CDATA[我是否可以回应一个旧的 "询问HN"？]]></title>
             <link>https://news.ycombinator.com/item?id=30544433</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30398106</guid>
             <pubDate>Sat, 19 Feb 2022 16:07:51 GMT</pubDate>
             <description><![CDATA[Ask HN: How would you implement service mesh in a large enterprise?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在周末停止思考工作和软件工程的问题？]]></title>
-            <link>https://news.ycombinator.com/item?id=30398085</link>
-            <guid>https://news.ycombinator.com/item?id=30398085</guid>
-            <pubDate>Sat, 19 Feb 2022 16:05:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to stop thinking about work and software engineering on the weekend?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新兴机甲师的最佳第一语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30398057</link>
-            <guid>https://news.ycombinator.com/item?id=30398057</guid>
-            <pubDate>Sat, 19 Feb 2022 16:01:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best first language for a budding MechE]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你试过Meta的VR工作吗？它是否比其他替代品更好？]]></title>
-            <link>https://news.ycombinator.com/item?id=30398053</link>
-            <guid>https://news.ycombinator.com/item?id=30398053</guid>
-            <pubDate>Sat, 19 Feb 2022 16:00:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you tried Meta's VR for work? Is it better than other alternatives?]]></description>
         </item>
     </channel>
 </rss>

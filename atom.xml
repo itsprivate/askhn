@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T18:40:31.077Z</updated>
+    <updated>2022-03-03T19:15:14.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用PostgreSQL的Percona分布？它对你的作用如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30545142</id>
+        <link href="https://news.ycombinator.com/item?id=30545142"/>
+        <updated>2022-03-03T18:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use Percona Distribution of PostgreSQL? How's it working for you?]]></summary>
+        <author>
+            <name>MaknMoreGtnLess</name>
+            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[后来重新签署股权文件有什么坏处吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30544934</id>
+        <link href="https://news.ycombinator.com/item?id=30544934"/>
+        <updated>2022-03-03T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any downside to re-signing equity paperwork later?]]></summary>
+        <author>
+            <name>owenversteeg</name>
+            <uri>https://news.ycombinator.com/user?id=owenversteeg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript是否已准备好进行严肃而富有成效的开发？]]></title>
+        <id>https://news.ycombinator.com/item?id=30544892</id>
+        <link href="https://news.ycombinator.com/item?id=30544892"/>
+        <updated>2022-03-03T18:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is TypeScript ready for serious and productive development?]]></summary>
+        <author>
+            <name>victor871129</name>
+            <uri>https://news.ycombinator.com/user?id=victor871129</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是否可以回应一个旧的 "询问HN"？]]></title>
         <id>https://news.ycombinator.com/item?id=30544433</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>digitalsanctum</name>
             <uri>https://news.ycombinator.com/user?id=digitalsanctum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在周末停止思考工作和软件工程的问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398085</id>
-        <link href="https://news.ycombinator.com/item?id=30398085"/>
-        <updated>2022-02-19T16:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to stop thinking about work and software engineering on the weekend?]]></summary>
-        <author>
-            <name>dondraper36</name>
-            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新兴机甲师的最佳第一语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30398057</id>
-        <link href="https://news.ycombinator.com/item?id=30398057"/>
-        <updated>2022-02-19T16:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best first language for a budding MechE]]></summary>
-        <author>
-            <name>GlenTheMachine</name>
-            <uri>https://news.ycombinator.com/user?id=GlenTheMachine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你试过Meta的VR工作吗？它是否比其他替代品更好？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398053</id>
-        <link href="https://news.ycombinator.com/item?id=30398053"/>
-        <updated>2022-02-19T16:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you tried Meta's VR for work? Is it better than other alternatives?]]></summary>
-        <author>
-            <name>gkrishna</name>
-            <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
         </author>
     </entry>
 </feed>
