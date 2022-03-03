@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T11:14:32.728Z</updated>
+    <updated>2022-03-03T11:40:42.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否参加过用户体验研究或产品研究？]]></title>
+        <id>https://news.ycombinator.com/item?id=30539599</id>
+        <link href="https://news.ycombinator.com/item?id=30539599"/>
+        <updated>2022-03-03T11:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you participate in UX studies or product research?]]></summary>
+        <author>
+            <name>Mike_Jordan</name>
+            <uri>https://news.ycombinator.com/user?id=Mike_Jordan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻求自由职业项目的程序员团队。下一步去哪里？]]></title>
+        <id>https://news.ycombinator.com/item?id=30539551</id>
+        <link href="https://news.ycombinator.com/item?id=30539551"/>
+        <updated>2022-03-03T11:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Team of programmers seeking freelance projects. Where to next?]]></summary>
+        <author>
+            <name>psikomanjak</name>
+            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何修复你的个人C？关于散热膏的建议？]]></title>
         <id>https://news.ycombinator.com/item?id=30539480</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接受Meta公司的实习职位是明智的吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30391055</id>
-        <link href="https://news.ycombinator.com/item?id=30391055"/>
-        <updated>2022-02-18T21:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it wise to accept an intern position at Meta?]]></summary>
-        <author>
-            <name>throwaway192384</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway192384</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你目前是否有一个副业项目，并以此赚钱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30391053</id>
-        <link href="https://news.ycombinator.com/item?id=30391053"/>
-        <updated>2022-02-18T21:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you currently have a side project that you make money with?]]></summary>
-        <author>
-            <name>curious-mind</name>
-            <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
         </author>
     </entry>
 </feed>
