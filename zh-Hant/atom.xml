@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T05:00:34.878Z</updated>
+    <updated>2022-03-03T05:30:48.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於首次創辦人僱用遠程候選人的建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30537473</id>
+        <link href="https://news.ycombinator.com/item?id=30537473"/>
+        <updated>2022-03-03T05:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on hiring remote candidates for first time founder]]></summary>
+        <author>
+            <name>gkrishna</name>
+            <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您在網站上使用了即時聊天小工具嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30537236</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>shadowRAMM</name>
             <uri>https://news.ycombinator.com/user?id=shadowRAMM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何開始成為一名軟件工程承包商？]]></title>
-        <id>https://news.ycombinator.com/item?id=30388687</id>
-        <link href="https://news.ycombinator.com/item?id=30388687"/>
-        <updated>2022-02-18T17:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I start off as a software engineering contractor?]]></summary>
-        <author>
-            <name>parakalan</name>
-            <uri>https://news.ycombinator.com/user?id=parakalan</uri>
         </author>
     </entry>
 </feed>
