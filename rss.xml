@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你使用什么BPM解决方案？]]></title>
+            <link>https://news.ycombinator.com/item?id=30536887</link>
+            <guid>https://news.ycombinator.com/item?id=30536887</guid>
+            <pubDate>Thu, 03 Mar 2022 03:41:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What BPM solution do you use?]]></description>
+        </item>
         <item>
             <title><![CDATA[我是否应该告诉招聘经理一个无礼的面试官和未来的同行]]></title>
             <link>https://news.ycombinator.com/item?id=30536803</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30388333</guid>
             <pubDate>Fri, 18 Feb 2022 17:11:39 GMT</pubDate>
             <description><![CDATA[Ask HN: Are CO salary disclosure laws affecting remote work opportunities?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你会为用户定义的数据使用什么数据库？]]></title>
-            <link>https://news.ycombinator.com/item?id=30388014</link>
-            <guid>https://news.ycombinator.com/item?id=30388014</guid>
-            <pubDate>Fri, 18 Feb 2022 16:46:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Database Would You Use for User Defined Data?]]></description>
         </item>
     </channel>
 </rss>
