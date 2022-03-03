@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T11:40:42.998Z</updated>
+    <updated>2022-03-03T12:21:49.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們沒有看到許多視頻託管公司採用peertube或P2P？]]></title>
+        <id>https://news.ycombinator.com/item?id=30539791</id>
+        <link href="https://news.ycombinator.com/item?id=30539791"/>
+        <updated>2022-03-03T11:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't we see many video hosting companies adopt peertube or P2P?]]></summary>
+        <author>
+            <name>arunharidas</name>
+            <uri>https://news.ycombinator.com/user?id=arunharidas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否參加過用戶體驗研究或產品研究？]]></title>
         <id>https://news.ycombinator.com/item?id=30539599</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>riksucks</name>
             <uri>https://news.ycombinator.com/user?id=riksucks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰首先提出了1年的經驗重複X次？]]></title>
-        <id>https://news.ycombinator.com/item?id=30391061</id>
-        <link href="https://news.ycombinator.com/item?id=30391061"/>
-        <updated>2022-02-18T21:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who first came up with 1 year of experience repeated X times?]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
