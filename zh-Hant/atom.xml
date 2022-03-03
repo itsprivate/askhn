@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T21:16:33.173Z</updated>
+    <updated>2022-03-03T22:16:54.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是Android上最好的RSS閱讀器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30547593</id>
+        <link href="https://news.ycombinator.com/item?id=30547593"/>
+        <updated>2022-03-03T21:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best RSS feed reader on Android?]]></summary>
+        <author>
+            <name>ahmedfromtunis</name>
+            <uri>https://news.ycombinator.com/user?id=ahmedfromtunis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些API有最好的開發者體驗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30547355</id>
+        <link href="https://news.ycombinator.com/item?id=30547355"/>
+        <updated>2022-03-03T21:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which APIs have the best developer experience?]]></summary>
+        <author>
+            <name>rahul_agarwal</name>
+            <uri>https://news.ycombinator.com/user?id=rahul_agarwal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪裡可以找到有關第二輪談判的信息？]]></title>
         <id>https://news.ycombinator.com/item?id=30547015</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>dekervin</name>
             <uri>https://news.ycombinator.com/user?id=dekervin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何計劃為你的數字自我傳遞維護？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398533</id>
-        <link href="https://news.ycombinator.com/item?id=30398533"/>
-        <updated>2022-02-19T17:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you plan passing on maintenance for your digital self?]]></summary>
-        <author>
-            <name>pavlo</name>
-            <uri>https://news.ycombinator.com/user?id=pavlo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unix終端有良好的用戶體驗嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398510</id>
-        <link href="https://news.ycombinator.com/item?id=30398510"/>
-        <updated>2022-02-19T16:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does the Unix terminal have good UX?]]></summary>
-        <author>
-            <name>marto1</name>
-            <uri>https://news.ycombinator.com/user?id=marto1</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 03 Mar 2022 21:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 22:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是Android上最好的RSS阅读器？]]></title>
+            <link>https://news.ycombinator.com/item?id=30547593</link>
+            <guid>https://news.ycombinator.com/item?id=30547593</guid>
+            <pubDate>Thu, 03 Mar 2022 21:57:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the best RSS feed reader on Android?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哪些API有最好的开发者体验？]]></title>
+            <link>https://news.ycombinator.com/item?id=30547355</link>
+            <guid>https://news.ycombinator.com/item?id=30547355</guid>
+            <pubDate>Thu, 03 Mar 2022 21:36:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which APIs have the best developer experience?]]></description>
+        </item>
         <item>
             <title><![CDATA[我在哪里可以找到有关第二轮谈判的信息？]]></title>
             <link>https://news.ycombinator.com/item?id=30547015</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30398541</guid>
             <pubDate>Sat, 19 Feb 2022 17:02:27 GMT</pubDate>
             <description><![CDATA[Ask HN: What should a user know about how HN moderation works in practice?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何计划为你的数字自我传递维护？]]></title>
-            <link>https://news.ycombinator.com/item?id=30398533</link>
-            <guid>https://news.ycombinator.com/item?id=30398533</guid>
-            <pubDate>Sat, 19 Feb 2022 17:01:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you plan passing on maintenance for your digital self?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unix终端有良好的用户体验吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30398510</link>
-            <guid>https://news.ycombinator.com/item?id=30398510</guid>
-            <pubDate>Sat, 19 Feb 2022 16:58:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does the Unix terminal have good UX?]]></description>
         </item>
     </channel>
 </rss>
