@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T13:21:58.375Z</updated>
+    <updated>2022-03-03T13:55:00.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些公司在招聘時有前期的工資範圍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30540900</id>
+        <link href="https://news.ycombinator.com/item?id=30540900"/>
+        <updated>2022-03-03T13:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What companies hire with upfront salary ranges?]]></summary>
+        <author>
+            <name>xrigau</name>
+            <uri>https://news.ycombinator.com/user?id=xrigau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[著名的大學輟學生是如何在輟學的情況下學習CS的？]]></title>
         <id>https://news.ycombinator.com/item?id=30540381</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bkovacev</name>
             <uri>https://news.ycombinator.com/user?id=bkovacev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當你得知某人的證書被洩露時，該怎麼辦？]]></title>
-        <id>https://news.ycombinator.com/item?id=30392253</id>
-        <link href="https://news.ycombinator.com/item?id=30392253"/>
-        <updated>2022-02-18T22:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What to do when you learn someone's credentials have leaked?]]></summary>
-        <author>
-            <name>southerntofu</name>
-            <uri>https://news.ycombinator.com/user?id=southerntofu</uri>
         </author>
     </entry>
 </feed>
