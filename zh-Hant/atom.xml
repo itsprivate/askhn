@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T15:15:42.413Z</updated>
+    <updated>2022-03-03T16:18:00.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於培養批判性思維的書籍推薦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30542411</id>
+        <link href="https://news.ycombinator.com/item?id=30542411"/>
+        <updated>2022-03-03T15:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Books recommendations on developing critical thinking?]]></summary>
+        <author>
+            <name>jackallis</name>
+            <uri>https://news.ycombinator.com/user?id=jackallis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保持儲蓄的最佳方式]]></title>
         <id>https://news.ycombinator.com/item?id=30542007</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>speedcoder</name>
             <uri>https://news.ycombinator.com/user?id=speedcoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本文中使用了哪些工具來生成圖表？]]></title>
-        <id>https://news.ycombinator.com/item?id=30394704</id>
-        <link href="https://news.ycombinator.com/item?id=30394704"/>
-        <updated>2022-02-19T05:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which tools are used to generate diagrams in this article?]]></summary>
-        <author>
-            <name>emschlr</name>
-            <uri>https://news.ycombinator.com/user?id=emschlr</uri>
         </author>
     </entry>
 </feed>
