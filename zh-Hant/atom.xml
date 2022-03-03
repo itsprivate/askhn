@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-03T14:15:33.503Z</updated>
+    <updated>2022-03-03T14:31:45.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何對矢量圖像進行版權保護？]]></title>
+        <id>https://news.ycombinator.com/item?id=30541352</id>
+        <link href="https://news.ycombinator.com/item?id=30541352"/>
+        <updated>2022-03-03T14:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Copyright a Vector Image?]]></summary>
+        <author>
+            <name>bobkrusty</name>
+            <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何組織偉大的書籤？]]></title>
         <id>https://news.ycombinator.com/item?id=30541185</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mrassili</name>
             <uri>https://news.ycombinator.com/user?id=mrassili</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何實現產品的審計跟蹤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30392926</id>
-        <link href="https://news.ycombinator.com/item?id=30392926"/>
-        <updated>2022-02-19T00:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you implement audit trail for a product?]]></summary>
-        <author>
-            <name>_448</name>
-            <uri>https://news.ycombinator.com/user?id=_448</uri>
         </author>
     </entry>
 </feed>
