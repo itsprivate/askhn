@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T20:46:33.327Z</updated>
+    <updated>2022-03-04T21:39:45.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[僱主命令我們返回辦公室的真正原因是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30560864</id>
+        <link href="https://news.ycombinator.com/item?id=30560864"/>
+        <updated>2022-03-04T21:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the real reason employers are ordering us to return to office?]]></summary>
+        <author>
+            <name>moneycantbuy</name>
+            <uri>https://news.ycombinator.com/user?id=moneycantbuy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waze的 "Arrive at "在Firefox中對你有用嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30559837</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bkovacev</name>
             <uri>https://news.ycombinator.com/user?id=bkovacev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你擁有一本字典嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30408121</id>
-        <link href="https://news.ycombinator.com/item?id=30408121"/>
-        <updated>2022-02-20T18:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Own a Dictionary?]]></summary>
-        <author>
-            <name>zerojames</name>
-            <uri>https://news.ycombinator.com/user?id=zerojames</uri>
         </author>
     </entry>
 </feed>
