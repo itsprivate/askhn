@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T15:17:23.528Z</updated>
+    <updated>2022-03-04T16:20:17.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何创建一个代理到一个被封锁的网站？]]></title>
+        <id>https://news.ycombinator.com/item?id=30556621</id>
+        <link href="https://news.ycombinator.com/item?id=30556621"/>
+        <updated>2022-03-04T16:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to create a proxy to a blocked site?]]></summary>
+        <author>
+            <name>dennisy</name>
+            <uri>https://news.ycombinator.com/user?id=dennisy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有关于制裁后减少僵尸农场的新数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=30556478</id>
+        <link href="https://news.ycombinator.com/item?id=30556478"/>
+        <updated>2022-03-04T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is There Emerging Data on Reduction of Bot Farms After Sanctions?]]></summary>
+        <author>
+            <name>trenning</name>
+            <uri>https://news.ycombinator.com/user?id=trenning</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的猫有多聪明？]]></title>
         <id>https://news.ycombinator.com/item?id=30555799</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>spark3k</name>
             <uri>https://news.ycombinator.com/user?id=spark3k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到最近推广我的网站的电子邮件分发名单？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405213</id>
-        <link href="https://news.ycombinator.com/item?id=30405213"/>
-        <updated>2022-02-20T12:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find the email distribution list that promoted my site recently?]]></summary>
-        <author>
-            <name>s-xyz</name>
-            <uri>https://news.ycombinator.com/user?id=s-xyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让我们为Bash建立Checkstyle？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405177</id>
-        <link href="https://news.ycombinator.com/item?id=30405177"/>
-        <updated>2022-02-20T12:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Let's build Checkstyle for Bash?]]></summary>
-        <author>
-            <name>a-t-0</name>
-            <uri>https://news.ycombinator.com/user?id=a-t-0</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 15:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 16:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何創建一個代理到一個被封鎖的網站？]]></title>
+            <link>https://news.ycombinator.com/item?id=30556621</link>
+            <guid>https://news.ycombinator.com/item?id=30556621</guid>
+            <pubDate>Fri, 04 Mar 2022 16:08:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to create a proxy to a blocked site?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否有關於制裁後減少殭屍農場的新數據？]]></title>
+            <link>https://news.ycombinator.com/item?id=30556478</link>
+            <guid>https://news.ycombinator.com/item?id=30556478</guid>
+            <pubDate>Fri, 04 Mar 2022 15:57:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is There Emerging Data on Reduction of Bot Farms After Sanctions?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的貓有多聰明？]]></title>
             <link>https://news.ycombinator.com/item?id=30555799</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30405350</guid>
             <pubDate>Sun, 20 Feb 2022 13:03:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Ukrainian and Russian friends on HN, how are you feeling?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何找到最近推廣我的網站的電子郵件分發名單？]]></title>
-            <link>https://news.ycombinator.com/item?id=30405213</link>
-            <guid>https://news.ycombinator.com/item?id=30405213</guid>
-            <pubDate>Sun, 20 Feb 2022 12:36:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to find the email distribution list that promoted my site recently?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓我們為Bash建立Checkstyle？]]></title>
-            <link>https://news.ycombinator.com/item?id=30405177</link>
-            <guid>https://news.ycombinator.com/item?id=30405177</guid>
-            <pubDate>Sun, 20 Feb 2022 12:29:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: Let's build Checkstyle for Bash?]]></description>
         </item>
     </channel>
 </rss>
