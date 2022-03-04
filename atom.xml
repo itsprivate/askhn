@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T18:40:43.583Z</updated>
+    <updated>2022-03-04T18:55:44.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么JSON如此迂腐？]]></title>
+        <id>https://news.ycombinator.com/item?id=30558583</id>
+        <link href="https://news.ycombinator.com/item?id=30558583"/>
+        <updated>2022-03-04T18:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is JSON so pedantic?]]></summary>
+        <author>
+            <name>thyrox</name>
+            <uri>https://news.ycombinator.com/user?id=thyrox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为DAO工作的好处？]]></title>
+        <id>https://news.ycombinator.com/item?id=30558579</id>
+        <link href="https://news.ycombinator.com/item?id=30558579"/>
+        <updated>2022-03-04T18:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Benefits of Working for a DAO?]]></summary>
+        <author>
+            <name>berkserbet</name>
+            <uri>https://news.ycombinator.com/user?id=berkserbet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["数量级"？]]></title>
         <id>https://news.ycombinator.com/item?id=30558521</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ta_u</name>
             <uri>https://news.ycombinator.com/user?id=ta_u</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳的Gmail替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30407648</id>
-        <link href="https://news.ycombinator.com/item?id=30407648"/>
-        <updated>2022-02-20T17:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Gmail Alternative?]]></summary>
-        <author>
-            <name>reissbaker</name>
-            <uri>https://news.ycombinator.com/user?id=reissbaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去很容易，但现在很难的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30407547</id>
-        <link href="https://news.ycombinator.com/item?id=30407547"/>
-        <updated>2022-02-20T17:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thing that used to be easy, but are now hard]]></summary>
-        <author>
-            <name>BiteCode_dev</name>
-            <uri>https://news.ycombinator.com/user?id=BiteCode_dev</uri>
         </author>
     </entry>
 </feed>

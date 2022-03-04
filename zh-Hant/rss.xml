@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 18:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 18:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼JSON如此迂腐？]]></title>
+            <link>https://news.ycombinator.com/item?id=30558583</link>
+            <guid>https://news.ycombinator.com/item?id=30558583</guid>
+            <pubDate>Fri, 04 Mar 2022 18:35:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is JSON so pedantic?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為DAO工作的好處？]]></title>
+            <link>https://news.ycombinator.com/item?id=30558579</link>
+            <guid>https://news.ycombinator.com/item?id=30558579</guid>
+            <pubDate>Fri, 04 Mar 2022 18:35:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: Benefits of Working for a DAO?]]></description>
+        </item>
         <item>
             <title><![CDATA["數量級"？]]></title>
             <link>https://news.ycombinator.com/item?id=30558521</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30407789</guid>
             <pubDate>Sun, 20 Feb 2022 18:10:27 GMT</pubDate>
             <description><![CDATA[Ask HN: Which things, that are now difficult, will become easy in near future?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最佳的Gmail替代品？]]></title>
-            <link>https://news.ycombinator.com/item?id=30407648</link>
-            <guid>https://news.ycombinator.com/item?id=30407648</guid>
-            <pubDate>Sun, 20 Feb 2022 17:59:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best Gmail Alternative?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[過去很容易，但現在很難的事情]]></title>
-            <link>https://news.ycombinator.com/item?id=30407547</link>
-            <guid>https://news.ycombinator.com/item?id=30407547</guid>
-            <pubDate>Sun, 20 Feb 2022 17:51:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Thing that used to be easy, but are now hard]]></description>
         </item>
     </channel>
 </rss>
