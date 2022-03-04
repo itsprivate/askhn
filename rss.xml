@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的猫有多聪明？]]></title>
+            <link>https://news.ycombinator.com/item?id=30555799</link>
+            <guid>https://news.ycombinator.com/item?id=30555799</guid>
+            <pubDate>Fri, 04 Mar 2022 15:04:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: How smart is your cat?]]></description>
+        </item>
         <item>
             <title><![CDATA[在家工作期间，你遇到的最大问题是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30555341</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30405177</guid>
             <pubDate>Sun, 20 Feb 2022 12:29:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Let's build Checkstyle for Bash?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你们公司的代码提交率是多少？]]></title>
-            <link>https://news.ycombinator.com/item?id=30405021</link>
-            <guid>https://news.ycombinator.com/item?id=30405021</guid>
-            <pubDate>Sun, 20 Feb 2022 11:52:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Code commit % rate at your company?]]></description>
         </item>
     </channel>
 </rss>

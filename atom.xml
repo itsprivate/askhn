@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T14:57:01.862Z</updated>
+    <updated>2022-03-04T15:17:23.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的猫有多聪明？]]></title>
+        <id>https://news.ycombinator.com/item?id=30555799</id>
+        <link href="https://news.ycombinator.com/item?id=30555799"/>
+        <updated>2022-03-04T15:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How smart is your cat?]]></summary>
+        <author>
+            <name>the-dude</name>
+            <uri>https://news.ycombinator.com/user?id=the-dude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家工作期间，你遇到的最大问题是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30555341</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>a-t-0</name>
             <uri>https://news.ycombinator.com/user?id=a-t-0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们公司的代码提交率是多少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405021</id>
-        <link href="https://news.ycombinator.com/item?id=30405021"/>
-        <updated>2022-02-20T11:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Code commit % rate at your company?]]></summary>
-        <author>
-            <name>lifeisstillgood</name>
-            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
         </author>
     </entry>
 </feed>
