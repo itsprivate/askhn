@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T05:14:58.009Z</updated>
+    <updated>2022-03-04T07:54:15.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在工作中使用bose QC45嗎？ 你有什麼印象？]]></title>
+        <id>https://news.ycombinator.com/item?id=30551768</id>
+        <link href="https://news.ycombinator.com/item?id=30551768"/>
+        <updated>2022-03-04T07:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using bose QC45 at work? whats your impression?]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你錯了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30550901</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戒掉咖啡因？之前和之後的軼事]]></title>
-        <id>https://news.ycombinator.com/item?id=30400121</id>
-        <link href="https://news.ycombinator.com/item?id=30400121"/>
-        <updated>2022-02-19T20:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Quit caffeine? Before and after anecdotes]]></summary>
-        <author>
-            <name>rubicon33</name>
-            <uri>https://news.ycombinator.com/user?id=rubicon33</uri>
         </author>
     </entry>
 </feed>
