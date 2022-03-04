@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T07:54:15.452Z</updated>
+    <updated>2022-03-04T10:38:16.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否在僱用來自烏克蘭的開發人員？]]></title>
+        <id>https://news.ycombinator.com/item?id=30552860</id>
+        <link href="https://news.ycombinator.com/item?id=30552860"/>
+        <updated>2022-03-04T10:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you hiring developers from Ukraine?]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[應該如何去學習JavaScript？]]></title>
+        <id>https://news.ycombinator.com/item?id=30552777</id>
+        <link href="https://news.ycombinator.com/item?id=30552777"/>
+        <updated>2022-03-04T10:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should one go about learning JavaScript?]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人在工作中使用bose QC45嗎？ 你有什麼印象？]]></title>
         <id>https://news.ycombinator.com/item?id=30551768</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>naikas82</name>
             <uri>https://news.ycombinator.com/user?id=naikas82</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的小說書是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30400572</id>
-        <link href="https://news.ycombinator.com/item?id=30400572"/>
-        <updated>2022-02-19T21:12:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your favorite fiction book?]]></summary>
-        <author>
-            <name>zerojames</name>
-            <uri>https://news.ycombinator.com/user?id=zerojames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼谷歌/應用商店的搜索會同時顯示廣告和真實結果？]]></title>
-        <id>https://news.ycombinator.com/item?id=30400440</id>
-        <link href="https://news.ycombinator.com/item?id=30400440"/>
-        <updated>2022-02-19T20:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do Google/App Store search show ads AND the real result together?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
