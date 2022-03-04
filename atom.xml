@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T18:55:44.784Z</updated>
+    <updated>2022-03-04T19:12:00.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你收到多少封冷淡的电子邮件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30558872</id>
+        <link href="https://news.ycombinator.com/item?id=30558872"/>
+        <updated>2022-03-04T19:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many cold emails do you get?]]></summary>
+        <author>
+            <name>bradj</name>
+            <uri>https://news.ycombinator.com/user?id=bradj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么JSON如此迂腐？]]></title>
         <id>https://news.ycombinator.com/item?id=30558583</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lquenti</name>
             <uri>https://news.ycombinator.com/user?id=lquenti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些事情，现在是困难的，在不久的将来会变得容易？]]></title>
-        <id>https://news.ycombinator.com/item?id=30407789</id>
-        <link href="https://news.ycombinator.com/item?id=30407789"/>
-        <updated>2022-02-20T18:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which things, that are now difficult, will become easy in near future?]]></summary>
-        <author>
-            <name>ta_u</name>
-            <uri>https://news.ycombinator.com/user?id=ta_u</uri>
         </author>
     </entry>
 </feed>
