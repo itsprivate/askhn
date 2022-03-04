@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T11:39:37.613Z</updated>
+    <updated>2022-03-04T12:22:20.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js开发人员应该尝试Rust吗？为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30553529</id>
+        <link href="https://news.ycombinator.com/item?id=30553529"/>
+        <updated>2022-03-04T12:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should a Node.js developer try Rust? Why?]]></summary>
+        <author>
+            <name>anandnair</name>
+            <uri>https://news.ycombinator.com/user?id=anandnair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人们还在使用Meetup吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30553511</id>
+        <link href="https://news.ycombinator.com/item?id=30553511"/>
+        <updated>2022-03-04T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do people still use Meetup?]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出生前与出生后是同一状态吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30553302</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>phillipseamore</name>
             <uri>https://news.ycombinator.com/user?id=phillipseamore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GPT-3使狗说话，同时考虑到它们的情绪？]]></title>
-        <id>https://news.ycombinator.com/item?id=30401584</id>
-        <link href="https://news.ycombinator.com/item?id=30401584"/>
-        <updated>2022-02-19T23:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Use GPT-3 to make dogs talk while taking into account their mood?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果谷歌拥有数十年的专业知识，为什么谷歌的搜索产品会很糟糕？]]></title>
-        <id>https://news.ycombinator.com/item?id=30401526</id>
-        <link href="https://news.ycombinator.com/item?id=30401526"/>
-        <updated>2022-02-19T23:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are Google's search products bad if Google has decades of Know-how?]]></summary>
-        <author>
-            <name>mrkramer</name>
-            <uri>https://news.ycombinator.com/user?id=mrkramer</uri>
         </author>
     </entry>
 </feed>
