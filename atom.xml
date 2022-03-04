@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T11:13:31.129Z</updated>
+    <updated>2022-03-04T11:39:37.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[出生前与出生后是同一状态吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30553302</id>
+        <link href="https://news.ycombinator.com/item?id=30553302"/>
+        <updated>2022-03-04T11:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is pre-birth the same state as post-life?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何处理安全调查问卷？]]></title>
         <id>https://news.ycombinator.com/item?id=30553086</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mrkramer</name>
             <uri>https://news.ycombinator.com/user?id=mrkramer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Atlas vs. Capbase vs. Firstbase vs. Angellist Stack Vs.]]></title>
-        <id>https://news.ycombinator.com/item?id=30401265</id>
-        <link href="https://news.ycombinator.com/item?id=30401265"/>
-        <updated>2022-02-19T22:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Stripe Atlas vs. Capbase vs. Firstbase vs. Angellist Stack Vs]]></summary>
-        <author>
-            <name>herval</name>
-            <uri>https://news.ycombinator.com/user?id=herval</uri>
         </author>
     </entry>
 </feed>
