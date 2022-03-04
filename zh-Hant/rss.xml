@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 21:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 22:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你們內部是否使用RFC？]]></title>
+            <link>https://news.ycombinator.com/item?id=30561117</link>
+            <guid>https://news.ycombinator.com/item?id=30561117</guid>
+            <pubDate>Fri, 04 Mar 2022 21:53:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you use RFCs internally?]]></description>
+        </item>
         <item>
             <title><![CDATA[C64比Amiga好是因為它更容易編程嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30561008</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30408889</guid>
             <pubDate>Sun, 20 Feb 2022 20:11:31 GMT</pubDate>
             <description><![CDATA[Ask HN: When is a good time to move to a smaller company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Unity的UI設計這麼難？]]></title>
-            <link>https://news.ycombinator.com/item?id=30408868</link>
-            <guid>https://news.ycombinator.com/item?id=30408868</guid>
-            <pubDate>Sun, 20 Feb 2022 20:08:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is UI design in Unity so hard?]]></description>
         </item>
     </channel>
 </rss>
