@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T22:13:21.535Z</updated>
+    <updated>2022-03-04T22:28:36.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于基于网络的Postgres CMS的建议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30561409</id>
+        <link href="https://news.ycombinator.com/item?id=30561409"/>
+        <updated>2022-03-04T22:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations for a web based CMS for Postgres?]]></summary>
+        <author>
+            <name>danhab99</name>
+            <uri>https://news.ycombinator.com/user?id=danhab99</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你们内部是否使用RFC？]]></title>
         <id>https://news.ycombinator.com/item?id=30561117</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>7174n6</name>
             <uri>https://news.ycombinator.com/user?id=7174n6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么时候是转到小公司的好时机？]]></title>
-        <id>https://news.ycombinator.com/item?id=30408889</id>
-        <link href="https://news.ycombinator.com/item?id=30408889"/>
-        <updated>2022-02-20T20:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When is a good time to move to a smaller company?]]></summary>
-        <author>
-            <name>websap</name>
-            <uri>https://news.ycombinator.com/user?id=websap</uri>
         </author>
     </entry>
 </feed>

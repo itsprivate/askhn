@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 22:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 22:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于基于网络的Postgres CMS的建议？]]></title>
+            <link>https://news.ycombinator.com/item?id=30561409</link>
+            <guid>https://news.ycombinator.com/item?id=30561409</guid>
+            <pubDate>Fri, 04 Mar 2022 22:23:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Recommendations for a web based CMS for Postgres?]]></description>
+        </item>
         <item>
             <title><![CDATA[你们内部是否使用RFC？]]></title>
             <link>https://news.ycombinator.com/item?id=30561117</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30408984</guid>
             <pubDate>Sun, 20 Feb 2022 20:26:22 GMT</pubDate>
             <description><![CDATA[Ask HN: CLI Journaling Tool for macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么时候是转到小公司的好时机？]]></title>
-            <link>https://news.ycombinator.com/item?id=30408889</link>
-            <guid>https://news.ycombinator.com/item?id=30408889</guid>
-            <pubDate>Sun, 20 Feb 2022 20:11:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: When is a good time to move to a smaller company?]]></description>
         </item>
     </channel>
 </rss>
