@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T20:31:32.919Z</updated>
+    <updated>2022-03-04T20:46:33.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Waze的 "Arrive at "在Firefox中對你有用嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30559837</id>
+        <link href="https://news.ycombinator.com/item?id=30559837"/>
+        <updated>2022-03-04T20:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Waze “Arrive at” work for you in Firefox?]]></summary>
+        <author>
+            <name>danuker</name>
+            <uri>https://news.ycombinator.com/user?id=danuker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育補助金--花在什麼地方？]]></title>
         <id>https://news.ycombinator.com/item?id=30559543</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>zerojames</name>
             <uri>https://news.ycombinator.com/user?id=zerojames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你們有這種感覺嗎？如果是這樣，你們是如何走出低谷的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30408085</id>
-        <link href="https://news.ycombinator.com/item?id=30408085"/>
-        <updated>2022-02-20T18:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you guys ever feel like this? If so, how do you get out of the slump?]]></summary>
-        <author>
-            <name>maze_roller</name>
-            <uri>https://news.ycombinator.com/user?id=maze_roller</uri>
         </author>
     </entry>
 </feed>
