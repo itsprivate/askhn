@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 13:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:56:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[這個伴侶翻譯語言的應用程序從哪裡得到它的數據集？]]></title>
+            <link>https://news.ycombinator.com/item?id=30554472</link>
+            <guid>https://news.ycombinator.com/item?id=30554472</guid>
+            <pubDate>Fri, 04 Mar 2022 13:34:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where does this mate translate language app get its dataset from?]]></description>
+        </item>
         <item>
             <title><![CDATA[你多長時間檢查一次HN？]]></title>
             <link>https://news.ycombinator.com/item?id=30554266</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30404382</guid>
             <pubDate>Sun, 20 Feb 2022 09:19:58 GMT</pubDate>
             <description><![CDATA[Ask HN: Is Google personalizing search in private windows/other browsers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[所有關於Wordle的帖子是怎麼回事？]]></title>
-            <link>https://news.ycombinator.com/item?id=30403657</link>
-            <guid>https://news.ycombinator.com/item?id=30403657</guid>
-            <pubDate>Sun, 20 Feb 2022 06:19:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is up with all the Wordle posts?]]></description>
         </item>
     </channel>
 </rss>

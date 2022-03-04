@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T13:39:06.972Z</updated>
+    <updated>2022-03-04T13:56:09.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这个伴侣翻译语言的应用程序从哪里得到它的数据集？]]></title>
+        <id>https://news.ycombinator.com/item?id=30554472</id>
+        <link href="https://news.ycombinator.com/item?id=30554472"/>
+        <updated>2022-03-04T13:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where does this mate translate language app get its dataset from?]]></summary>
+        <author>
+            <name>akudha</name>
+            <uri>https://news.ycombinator.com/user?id=akudha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你多长时间检查一次HN？]]></title>
         <id>https://news.ycombinator.com/item?id=30554266</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>throwawaynay</name>
             <uri>https://news.ycombinator.com/user?id=throwawaynay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有关于Wordle的帖子是怎么回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30403657</id>
-        <link href="https://news.ycombinator.com/item?id=30403657"/>
-        <updated>2022-02-20T06:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is up with all the Wordle posts?]]></summary>
-        <author>
-            <name>figassis</name>
-            <uri>https://news.ycombinator.com/user?id=figassis</uri>
         </author>
     </entry>
 </feed>
