@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T16:53:39.194Z</updated>
+    <updated>2022-03-04T17:43:54.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的局势是否会很快形成一场网络犯罪的风暴？]]></title>
+        <id>https://news.ycombinator.com/item?id=30557532</id>
+        <link href="https://news.ycombinator.com/item?id=30557532"/>
+        <updated>2022-03-04T17:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will the situation in Russia create a storm of cybercriminality soon?]]></summary>
+        <author>
+            <name>FrenchDevRemote</name>
+            <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果要求你建立一个现代数学教学大纲，你会包括什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30556820</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cinoob</name>
             <uri>https://news.ycombinator.com/user?id=cinoob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在工作中获得有意义的经验？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405851</id>
-        <link href="https://news.ycombinator.com/item?id=30405851"/>
-        <updated>2022-02-20T14:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to gain a meaningful experience at work?]]></summary>
-        <author>
-            <name>kartoshechka</name>
-            <uri>https://news.ycombinator.com/user?id=kartoshechka</uri>
         </author>
     </entry>
 </feed>
