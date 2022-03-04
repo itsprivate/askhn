@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T16:20:17.274Z</updated>
+    <updated>2022-03-04T16:53:39.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果要求你建立一个现代数学教学大纲，你会包括什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30556820</id>
+        <link href="https://news.ycombinator.com/item?id=30556820"/>
+        <updated>2022-03-04T16:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you were asked to build a modern math syllabus what will you include?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clearbit Reveal是如何计算出我的公司的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30556721</id>
+        <link href="https://news.ycombinator.com/item?id=30556721"/>
+        <updated>2022-03-04T16:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Clearbit Reveal figure out my company?]]></summary>
+        <author>
+            <name>hennief</name>
+            <uri>https://news.ycombinator.com/user?id=hennief</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何创建一个代理到一个被封锁的网站？]]></title>
         <id>https://news.ycombinator.com/item?id=30556621</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>kartoshechka</name>
             <uri>https://news.ycombinator.com/user?id=kartoshechka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定义路由器来检测被破坏的设备]]></title>
-        <id>https://news.ycombinator.com/item?id=30405638</id>
-        <link href="https://news.ycombinator.com/item?id=30405638"/>
-        <updated>2022-02-20T13:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Custom router to detect compromoised device]]></summary>
-        <author>
-            <name>midnight_toker</name>
-            <uri>https://news.ycombinator.com/user?id=midnight_toker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN上的乌克兰和俄罗斯朋友，你们感觉如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405350</id>
-        <link href="https://news.ycombinator.com/item?id=30405350"/>
-        <updated>2022-02-20T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ukrainian and Russian friends on HN, how are you feeling?]]></summary>
-        <author>
-            <name>spark3k</name>
-            <uri>https://news.ycombinator.com/user?id=spark3k</uri>
         </author>
     </entry>
 </feed>
