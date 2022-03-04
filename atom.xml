@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-04T17:43:54.074Z</updated>
+    <updated>2022-03-04T18:15:06.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何论证对乌克兰的入侵在绝对意义上是错误的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30558052</id>
+        <link href="https://news.ycombinator.com/item?id=30558052"/>
+        <updated>2022-03-04T17:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to argue that the invasion of Ukraine is wrong in an absolute sense?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯的局势是否会很快形成一场网络犯罪的风暴？]]></title>
         <id>https://news.ycombinator.com/item?id=30557532</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>dustinmoris</name>
             <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一个传记]]></title>
-        <id>https://news.ycombinator.com/item?id=30405924</id>
-        <link href="https://news.ycombinator.com/item?id=30405924"/>
-        <updated>2022-02-20T14:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommend a Biography]]></summary>
-        <author>
-            <name>cinoob</name>
-            <uri>https://news.ycombinator.com/user?id=cinoob</uri>
         </author>
     </entry>
 </feed>
