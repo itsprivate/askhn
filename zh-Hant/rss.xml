@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何處理安全調查問卷？]]></title>
+            <link>https://news.ycombinator.com/item?id=30553086</link>
+            <guid>https://news.ycombinator.com/item?id=30553086</guid>
+            <pubDate>Fri, 04 Mar 2022 10:58:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you deal with security questionnaires?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitHub的拉取請求是否受原始倉庫許可的約束？]]></title>
+            <link>https://news.ycombinator.com/item?id=30553078</link>
+            <guid>https://news.ycombinator.com/item?id=30553078</guid>
+            <pubDate>Fri, 04 Mar 2022 10:57:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are GitHub pull-requests governed by the original repository license?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否在僱用來自烏克蘭的開發人員？]]></title>
             <link>https://news.ycombinator.com/item?id=30552860</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30401265</guid>
             <pubDate>Sat, 19 Feb 2022 22:48:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Stripe Atlas vs. Capbase vs. Firstbase vs. Angellist Stack Vs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C# reloadOnChange=true使Linux上的啟動速度降低了2.2秒。為什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30401122</link>
-            <guid>https://news.ycombinator.com/item?id=30401122</guid>
-            <pubDate>Sat, 19 Feb 2022 22:28:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: C# reloadOnChange=true slows down startup on Linux by 2.2 seconds. Why?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[產品管理是否需要MBA？]]></title>
-            <link>https://news.ycombinator.com/item?id=30400981</link>
-            <guid>https://news.ycombinator.com/item?id=30400981</guid>
-            <pubDate>Sat, 19 Feb 2022 22:08:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is MBA Necessary for Product Management?]]></description>
         </item>
     </channel>
 </rss>
