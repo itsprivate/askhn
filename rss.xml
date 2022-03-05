@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 05 Mar 2022 06:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 06:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对整个代码库中的JavaScript对象使用情况进行深度追踪]]></title>
+            <link>https://news.ycombinator.com/item?id=30564911</link>
+            <guid>https://news.ycombinator.com/item?id=30564911</guid>
+            <pubDate>Sat, 05 Mar 2022 06:27:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Deep tracing of a JavaScript object usage across the codebase]]></description>
+        </item>
         <item>
             <title><![CDATA["新闻炸弹 "作为打击专制宣传的一种方式？]]></title>
             <link>https://news.ycombinator.com/item?id=30564774</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30412165</guid>
             <pubDate>Mon, 21 Feb 2022 05:06:56 GMT</pubDate>
             <description><![CDATA[Ask HN: How do I develop skills to comfort people and offer compassion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一名开发人员，你是否阅读过《编程》书籍？]]></title>
-            <link>https://news.ycombinator.com/item?id=30411914</link>
-            <guid>https://news.ycombinator.com/item?id=30411914</guid>
-            <pubDate>Mon, 21 Feb 2022 04:13:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: As a developer, do you read Programming books?]]></description>
         </item>
     </channel>
 </rss>
