@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T06:57:49.894Z</updated>
+    <updated>2022-03-05T08:37:28.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么crypto/Web3如此复杂？]]></title>
+        <id>https://news.ycombinator.com/item?id=30565519</id>
+        <link href="https://news.ycombinator.com/item?id=30565519"/>
+        <updated>2022-03-05T08:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is crypto/Web3 so complex?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找治疗脑瘤的顶级医疗专家的最佳途径？]]></title>
         <id>https://news.ycombinator.com/item?id=30565037</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rixed</name>
             <uri>https://news.ycombinator.com/user?id=rixed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能从Pinboard的支持中得到回复吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30412986</id>
-        <link href="https://news.ycombinator.com/item?id=30412986"/>
-        <updated>2022-02-21T07:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you get replies from Pinboard's support?]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
