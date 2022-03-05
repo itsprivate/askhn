@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T16:45:31.567Z</updated>
+    <updated>2022-03-05T17:02:10.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用這些信息可以解決Wordle問題和/或減少單詞列表嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30569209</id>
+        <link href="https://news.ycombinator.com/item?id=30569209"/>
+        <updated>2022-03-05T16:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can Wordle be solved and/or word list reduced using this info?]]></summary>
+        <author>
+            <name>aghilmort</name>
+            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰在做正確的數字醫療？]]></title>
         <id>https://news.ycombinator.com/item?id=30568848</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>atdrummond</name>
             <uri>https://news.ycombinator.com/user?id=atdrummond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的應用程序是私有的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30416898</id>
-        <link href="https://news.ycombinator.com/item?id=30416898"/>
-        <updated>2022-02-21T15:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Your App Private?]]></summary>
-        <author>
-            <name>prithsr</name>
-            <uri>https://news.ycombinator.com/user?id=prithsr</uri>
         </author>
     </entry>
 </feed>
