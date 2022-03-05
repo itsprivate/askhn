@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T14:14:03.609Z</updated>
+    <updated>2022-03-05T14:53:50.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些網站是作者在公開場合學習的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30567950</id>
+        <link href="https://news.ycombinator.com/item?id=30567950"/>
+        <updated>2022-03-05T14:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some examples of websites where the author learns in the open?]]></summary>
+        <author>
+            <name>pnorvx</name>
+            <uri>https://news.ycombinator.com/user?id=pnorvx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們如何能修復維基百科？]]></title>
         <id>https://news.ycombinator.com/item?id=30567593</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>farleykr</name>
             <uri>https://news.ycombinator.com/user?id=farleykr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在播客中使用ML來壓制Lex Fridman的聲音？]]></title>
-        <id>https://news.ycombinator.com/item?id=30415850</id>
-        <link href="https://news.ycombinator.com/item?id=30415850"/>
-        <updated>2022-02-21T13:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Using ML to silence Lex Fridman voice on podcasts?]]></summary>
-        <author>
-            <name>choletentent</name>
-            <uri>https://news.ycombinator.com/user?id=choletentent</uri>
         </author>
     </entry>
 </feed>
