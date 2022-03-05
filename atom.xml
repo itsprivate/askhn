@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T17:53:34.448Z</updated>
+    <updated>2022-03-05T18:15:05.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件RFP/开发要求的孩子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30570016</id>
+        <link href="https://news.ycombinator.com/item?id=30570016"/>
+        <updated>2022-03-05T18:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software RFP / Development Request for Kids?]]></summary>
+        <author>
+            <name>dashwehacct</name>
+            <uri>https://news.ycombinator.com/user?id=dashwehacct</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何iOS HN客户端具有基于关键词的过滤功能？]]></title>
         <id>https://news.ycombinator.com/item?id=30569834</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>spam-recently</name>
             <uri>https://news.ycombinator.com/user?id=spam-recently</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Rust/Java中，你理想的IDE体验是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30419592</id>
-        <link href="https://news.ycombinator.com/item?id=30419592"/>
-        <updated>2022-02-21T19:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would be your ideal IDE experience be in Rust/Java?]]></summary>
-        <author>
-            <name>vyomkeshj</name>
-            <uri>https://news.ycombinator.com/user?id=vyomkeshj</uri>
         </author>
     </entry>
 </feed>
