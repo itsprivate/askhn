@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 05 Mar 2022 08:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 09:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[前端网络的问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30565981</link>
+            <guid>https://news.ycombinator.com/item?id=30565981</guid>
+            <pubDate>Sat, 05 Mar 2022 09:39:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Problem with Front-End Web]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么crypto/Web3如此复杂？]]></title>
             <link>https://news.ycombinator.com/item?id=30565519</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30414590</guid>
             <pubDate>Mon, 21 Feb 2022 11:34:24 GMT</pubDate>
             <description><![CDATA[Ask HN: What’s Getting thing done alternative?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在科技的黄金时代，什么是更好的（又称暴躁线）？]]></title>
-            <link>https://news.ycombinator.com/item?id=30413629</link>
-            <guid>https://news.ycombinator.com/item?id=30413629</guid>
-            <pubDate>Mon, 21 Feb 2022 09:26:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: What was better in the golden age of tech (a.k.a. the grumpy thread)]]></description>
         </item>
     </channel>
 </rss>

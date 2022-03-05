@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T08:37:28.967Z</updated>
+    <updated>2022-03-05T09:54:07.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前端網絡的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30565981</id>
+        <link href="https://news.ycombinator.com/item?id=30565981"/>
+        <updated>2022-03-05T09:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Problem with Front-End Web]]></summary>
+        <author>
+            <name>mouzogu</name>
+            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼crypto/Web3如此複雜？]]></title>
         <id>https://news.ycombinator.com/item?id=30565519</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ai_ia</name>
             <uri>https://news.ycombinator.com/user?id=ai_ia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在科技的黃金時代，什麼是更好的（又稱暴躁線）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30413629</id>
-        <link href="https://news.ycombinator.com/item?id=30413629"/>
-        <updated>2022-02-21T09:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What was better in the golden age of tech (a.k.a. the grumpy thread)]]></summary>
-        <author>
-            <name>rixed</name>
-            <uri>https://news.ycombinator.com/user?id=rixed</uri>
         </author>
     </entry>
 </feed>
