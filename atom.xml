@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T17:02:10.786Z</updated>
+    <updated>2022-03-05T17:31:51.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对初创企业创始人移民律师事务所的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30569385</id>
+        <link href="https://news.ycombinator.com/item?id=30569385"/>
+        <updated>2022-03-05T17:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations for startup founder immigration law firm]]></summary>
+        <author>
+            <name>coolmints</name>
+            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用这些信息可以解决Wordle问题和/或减少单词列表吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30569209</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>q_andrew</name>
             <uri>https://news.ycombinator.com/user?id=q_andrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪里可以找到项目经理的职位？]]></title>
-        <id>https://news.ycombinator.com/item?id=30417442</id>
-        <link href="https://news.ycombinator.com/item?id=30417442"/>
-        <updated>2022-02-21T16:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to find Project Manager positions?]]></summary>
-        <author>
-            <name>atdrummond</name>
-            <uri>https://news.ycombinator.com/user?id=atdrummond</uri>
         </author>
     </entry>
 </feed>
