@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T13:52:46.706Z</updated>
+    <updated>2022-03-05T14:14:03.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們如何能修復維基百科？]]></title>
+        <id>https://news.ycombinator.com/item?id=30567593</id>
+        <link href="https://news.ycombinator.com/item?id=30567593"/>
+        <updated>2022-03-05T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can we fix Wikipedia?]]></summary>
+        <author>
+            <name>actuator</name>
+            <uri>https://news.ycombinator.com/user?id=actuator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您的中型公司用什麼來管理應用程序/服務？]]></title>
         <id>https://news.ycombinator.com/item?id=30567527</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>choletentent</name>
             <uri>https://news.ycombinator.com/user?id=choletentent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN的頁面壞了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30416063</id>
-        <link href="https://news.ycombinator.com/item?id=30416063"/>
-        <updated>2022-02-21T14:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the Ask HN page broken?]]></summary>
-        <author>
-            <name>Tipewryter</name>
-            <uri>https://news.ycombinator.com/user?id=Tipewryter</uri>
         </author>
     </entry>
 </feed>
