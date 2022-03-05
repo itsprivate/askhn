@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T05:30:21.990Z</updated>
+    <updated>2022-03-05T05:54:30.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Outline.com發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30564665</id>
+        <link href="https://news.ycombinator.com/item?id=30564665"/>
+        <updated>2022-03-05T05:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Outline.com?]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些安卓應用是你離不開的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30564628</id>
+        <link href="https://news.ycombinator.com/item?id=30564628"/>
+        <updated>2022-03-05T05:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the Android apps you can't live without?]]></summary>
+        <author>
+            <name>notkurt</name>
+            <uri>https://news.ycombinator.com/user?id=notkurt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圖片託管服務推薦？]]></title>
         <id>https://news.ycombinator.com/item?id=30564516</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>askhn2022</name>
             <uri>https://news.ycombinator.com/user?id=askhn2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在哪裡找到你的技術（或非技術）聯合創始人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30411111</id>
-        <link href="https://news.ycombinator.com/item?id=30411111"/>
-        <updated>2022-02-21T01:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where did you find your technical (or non-technical) co-founder?]]></summary>
-        <author>
-            <name>nnurmanov</name>
-            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼搜索引擎來預訂酒店和尋找好玩的地方？]]></title>
-        <id>https://news.ycombinator.com/item?id=30410846</id>
-        <link href="https://news.ycombinator.com/item?id=30410846"/>
-        <updated>2022-02-21T01:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What search engines do you use to book hotels and find fun places?]]></summary>
-        <author>
-            <name>crazypython</name>
-            <uri>https://news.ycombinator.com/user?id=crazypython</uri>
         </author>
     </entry>
 </feed>
