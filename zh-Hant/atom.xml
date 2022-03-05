@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T16:15:46.212Z</updated>
+    <updated>2022-03-05T16:45:31.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰在做正確的數字醫療？]]></title>
+        <id>https://news.ycombinator.com/item?id=30568848</id>
+        <link href="https://news.ycombinator.com/item?id=30568848"/>
+        <updated>2022-03-05T16:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is doing digital health care right?]]></summary>
+        <author>
+            <name>countfalafel</name>
+            <uri>https://news.ycombinator.com/user?id=countfalafel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼iOS應用程序如此巨大，終端用戶有什麼可以做的嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30568625</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>prithsr</name>
             <uri>https://news.ycombinator.com/user?id=prithsr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人懷念TouchID嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30416792</id>
-        <link href="https://news.ycombinator.com/item?id=30416792"/>
-        <updated>2022-02-21T15:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone else miss TouchID?]]></summary>
-        <author>
-            <name>devstein</name>
-            <uri>https://news.ycombinator.com/user?id=devstein</uri>
         </author>
     </entry>
 </feed>
