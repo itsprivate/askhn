@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T20:13:53.585Z</updated>
+    <updated>2022-03-05T20:33:04.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你幾乎沒有時間的情況下獲得軟件技能]]></title>
+        <id>https://news.ycombinator.com/item?id=30571491</id>
+        <link href="https://news.ycombinator.com/item?id=30571491"/>
+        <updated>2022-03-05T20:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Getting software skills when you have almost no time]]></summary>
+        <author>
+            <name>mxmpawn</name>
+            <uri>https://news.ycombinator.com/user?id=mxmpawn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你希望更多的人知道什麼產品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30571446</id>
+        <link href="https://news.ycombinator.com/item?id=30571446"/>
+        <updated>2022-03-05T20:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a product you wish more people knew about?]]></summary>
+        <author>
+            <name>nodoodles</name>
+            <uri>https://news.ycombinator.com/user?id=nodoodles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為我們受烏克蘭入侵影響的社區制定 "辛德勒的名單"？]]></title>
         <id>https://news.ycombinator.com/item?id=30571333</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>Link-</name>
             <uri>https://news.ycombinator.com/user?id=Link-</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球上的什麼事件會讓你認真考慮搬到火星上去？]]></title>
-        <id>https://news.ycombinator.com/item?id=30419895</id>
-        <link href="https://news.ycombinator.com/item?id=30419895"/>
-        <updated>2022-02-21T20:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What event on Earth would make you seriously consider moving to Mars?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓用戶如何確定蘋果AirTag是否在跟蹤他們？]]></title>
-        <id>https://news.ycombinator.com/item?id=30419731</id>
-        <link href="https://news.ycombinator.com/item?id=30419731"/>
-        <updated>2022-02-21T19:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does an Android user determine if Apple AirTag is tracking them?]]></summary>
-        <author>
-            <name>cryptorules</name>
-            <uri>https://news.ycombinator.com/user?id=cryptorules</uri>
         </author>
     </entry>
 </feed>
