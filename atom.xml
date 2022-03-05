@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T22:14:27.856Z</updated>
+    <updated>2022-03-05T22:41:52.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在这里的链接中加入archive.org怎么样？]]></title>
+        <id>https://news.ycombinator.com/item?id=30572656</id>
+        <link href="https://news.ycombinator.com/item?id=30572656"/>
+        <updated>2022-03-05T22:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What about adding archive.org to links here?]]></summary>
+        <author>
+            <name>funerr</name>
+            <uri>https://news.ycombinator.com/user?id=funerr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何获得测试版用户？]]></title>
         <id>https://news.ycombinator.com/item?id=30572391</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>brundolf</name>
             <uri>https://news.ycombinator.com/user?id=brundolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在没有正式教育/学位的情况下进入CS研究领域？]]></title>
-        <id>https://news.ycombinator.com/item?id=30421200</id>
-        <link href="https://news.ycombinator.com/item?id=30421200"/>
-        <updated>2022-02-21T22:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ways to break into CS research without a formal education/degree?]]></summary>
-        <author>
-            <name>cliffordfajardo</name>
-            <uri>https://news.ycombinator.com/user?id=cliffordfajardo</uri>
         </author>
     </entry>
 </feed>
