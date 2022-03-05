@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T10:45:05.102Z</updated>
+    <updated>2022-03-05T11:52:44.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有多少个2FA令牌？]]></title>
+        <id>https://news.ycombinator.com/item?id=30566604</id>
+        <link href="https://news.ycombinator.com/item?id=30566604"/>
+        <updated>2022-03-05T11:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many 2FA tokens do you have?]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要求被采访者讨论Apache Kafka]]></title>
+        <id>https://news.ycombinator.com/item?id=30566593</id>
+        <link href="https://news.ycombinator.com/item?id=30566593"/>
+        <updated>2022-03-05T11:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Request for interviewee to discuss Apache Kafka]]></summary>
+        <author>
+            <name>FailMore</name>
+            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯人是否阅读开放的互联网？]]></title>
         <id>https://news.ycombinator.com/item?id=30566252</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>maljacz</name>
             <uri>https://news.ycombinator.com/user?id=maljacz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否应该购买在中国实际存在过的二手笔记本？]]></title>
-        <id>https://news.ycombinator.com/item?id=30415563</id>
-        <link href="https://news.ycombinator.com/item?id=30415563"/>
-        <updated>2022-02-21T13:18:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I buy a used Notebook that has physically been in China?]]></summary>
-        <author>
-            <name>noaccesstomy</name>
-            <uri>https://news.ycombinator.com/user?id=noaccesstomy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你戴渐进式眼镜吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30414780</id>
-        <link href="https://news.ycombinator.com/item?id=30414780"/>
-        <updated>2022-02-21T11:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you wear progressive glasses?]]></summary>
-        <author>
-            <name>FreeHugs</name>
-            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
         </author>
     </entry>
 </feed>
