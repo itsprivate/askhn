@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 05 Mar 2022 20:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 20:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[收集隐私政策接受度的API]]></title>
+            <link>https://news.ycombinator.com/item?id=30571680</link>
+            <guid>https://news.ycombinator.com/item?id=30571680</guid>
+            <pubDate>Sat, 05 Mar 2022 20:45:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: API to collect the privacy policy acceptance]]></description>
+        </item>
         <item>
             <title><![CDATA[在你几乎没有时间的情况下获得软件技能]]></title>
             <link>https://news.ycombinator.com/item?id=30571491</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30420378</guid>
             <pubDate>Mon, 21 Feb 2022 20:45:22 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the design style of Notion, Linear called?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你正在从事什么令人兴奋的工作？]]></title>
-            <link>https://news.ycombinator.com/item?id=30419926</link>
-            <guid>https://news.ycombinator.com/item?id=30419926</guid>
-            <pubDate>Mon, 21 Feb 2022 20:04:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is something exciting you're working on?]]></description>
         </item>
     </channel>
 </rss>
