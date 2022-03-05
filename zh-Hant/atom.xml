@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-05T02:02:27.154Z</updated>
+    <updated>2022-03-05T03:42:29.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RPi的早期發展故事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30563943</id>
+        <link href="https://news.ycombinator.com/item?id=30563943"/>
+        <updated>2022-03-05T03:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Early Development Story of RPi?]]></summary>
+        <author>
+            <name>tooltower</name>
+            <uri>https://news.ycombinator.com/user?id=tooltower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你怎麼看元老院？[2022年3月]]]></title>
         <id>https://news.ycombinator.com/item?id=30563196</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gtirloni</name>
             <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個開發者，你是否曾經做過夢，在夢中看到並開發代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30410713</id>
-        <link href="https://news.ycombinator.com/item?id=30410713"/>
-        <updated>2022-02-21T00:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: As a developer do you ever have dreams where you see and develop code?]]></summary>
-        <author>
-            <name>AdamJMarsh</name>
-            <uri>https://news.ycombinator.com/user?id=AdamJMarsh</uri>
         </author>
     </entry>
 </feed>
