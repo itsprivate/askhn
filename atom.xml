@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T15:15:47.382Z</updated>
+    <updated>2022-03-06T15:43:50.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌从积极开发围棋中获得了什么直接利益？]]></title>
+        <id>https://news.ycombinator.com/item?id=30578244</id>
+        <link href="https://news.ycombinator.com/item?id=30578244"/>
+        <updated>2022-03-06T15:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What direct benefit does Google receive from actively developing Go?]]></summary>
+        <author>
+            <name>RapperWhoMadeIt</name>
+            <uri>https://news.ycombinator.com/user?id=RapperWhoMadeIt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
         <id>https://news.ycombinator.com/item?id=30577911</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>whyoh</name>
             <uri>https://news.ycombinator.com/user?id=whyoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何知道一个问题是否足够大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30425160</id>
-        <link href="https://news.ycombinator.com/item?id=30425160"/>
-        <updated>2022-02-22T07:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do know if a problem is big enough?]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
         </author>
     </entry>
 </feed>

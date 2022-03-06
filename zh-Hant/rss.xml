@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌從積極開發圍棋中獲得了什麼直接利益？]]></title>
+            <link>https://news.ycombinator.com/item?id=30578244</link>
+            <guid>https://news.ycombinator.com/item?id=30578244</guid>
+            <pubDate>Sun, 06 Mar 2022 15:39:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: What direct benefit does Google receive from actively developing Go?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼有人會選擇Haskell來開發應用程序？]]></title>
             <link>https://news.ycombinator.com/item?id=30577911</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30425409</guid>
             <pubDate>Tue, 22 Feb 2022 08:36:21 GMT</pubDate>
             <description><![CDATA[Ask HN: Can we ban Twitter links, please?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何知道一個問題是否足夠大？]]></title>
-            <link>https://news.ycombinator.com/item?id=30425160</link>
-            <guid>https://news.ycombinator.com/item?id=30425160</guid>
-            <pubDate>Tue, 22 Feb 2022 07:59:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do know if a problem is big enough?]]></description>
         </item>
     </channel>
 </rss>
