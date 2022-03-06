@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T17:17:00.880Z</updated>
+    <updated>2022-03-06T17:33:15.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼在線服務的默認語言會神秘地改變？]]></title>
+        <id>https://news.ycombinator.com/item?id=30579043</id>
+        <link href="https://news.ycombinator.com/item?id=30579043"/>
+        <updated>2022-03-06T17:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why default language is mysteriously changing on online services?]]></summary>
+        <author>
+            <name>Orfita</name>
+            <uri>https://news.ycombinator.com/user?id=Orfita</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有辦法存儲遇到的錯誤及其解決方案？]]></title>
         <id>https://news.ycombinator.com/item?id=30578991</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>pranavdotexe</name>
             <uri>https://news.ycombinator.com/user?id=pranavdotexe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樹莓派（Linux）與ESP（RTOS）的物聯網應用案例對比]]></title>
-        <id>https://news.ycombinator.com/item?id=30425969</id>
-        <link href="https://news.ycombinator.com/item?id=30425969"/>
-        <updated>2022-02-22T09:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Raspberry Pi (Linux) vs. ESP (RTOS) for IoT Use Cases]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
         </author>
     </entry>
 </feed>

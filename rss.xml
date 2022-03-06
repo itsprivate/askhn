@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 06 Mar 2022 17:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 17:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么在线服务的默认语言会神秘地改变？]]></title>
+            <link>https://news.ycombinator.com/item?id=30579043</link>
+            <guid>https://news.ycombinator.com/item?id=30579043</guid>
+            <pubDate>Sun, 06 Mar 2022 17:13:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why default language is mysteriously changing on online services?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有办法存储遇到的错误及其解决方案？]]></title>
             <link>https://news.ycombinator.com/item?id=30578991</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30427312</guid>
             <pubDate>Tue, 22 Feb 2022 12:53:20 GMT</pubDate>
             <description><![CDATA[Ask HN: Are there any public APIs of grocery delivery startups?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[树莓派（Linux）与ESP（RTOS）的物联网应用案例对比]]></title>
-            <link>https://news.ycombinator.com/item?id=30425969</link>
-            <guid>https://news.ycombinator.com/item?id=30425969</guid>
-            <pubDate>Tue, 22 Feb 2022 09:59:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Raspberry Pi (Linux) vs. ESP (RTOS) for IoT Use Cases]]></description>
         </item>
     </channel>
 </rss>
