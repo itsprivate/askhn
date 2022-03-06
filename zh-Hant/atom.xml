@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T04:56:49.995Z</updated>
+    <updated>2022-03-06T05:37:53.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何堅持資產？]]></title>
+        <id>https://news.ycombinator.com/item?id=30575274</id>
+        <link href="https://news.ycombinator.com/item?id=30575274"/>
+        <updated>2022-03-06T05:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Persist Assets?]]></summary>
+        <author>
+            <name>arthurofbabylon</name>
+            <uri>https://news.ycombinator.com/user?id=arthurofbabylon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些從網絡開發轉行的人，你們去了哪裡？]]></title>
         <id>https://news.ycombinator.com/item?id=30575119</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>kashnote</name>
             <uri>https://news.ycombinator.com/user?id=kashnote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何學習組織和注意技能的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30418424</id>
-        <link href="https://news.ycombinator.com/item?id=30418424"/>
-        <updated>2022-02-21T17:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you learn organizing and attention skills?]]></summary>
-        <author>
-            <name>anon_9867864</name>
-            <uri>https://news.ycombinator.com/user?id=anon_9867864</uri>
         </author>
     </entry>
 </feed>
