@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T07:31:29.340Z</updated>
+    <updated>2022-03-06T11:53:01.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯军事硬件对黑客攻击的脆弱性如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30576844</id>
+        <link href="https://news.ycombinator.com/item?id=30576844"/>
+        <updated>2022-03-06T11:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How vulnerable is Russian military hardware to hacking?]]></summary>
+        <author>
+            <name>0898</name>
+            <uri>https://news.ycombinator.com/user?id=0898</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要成为技术上合格的工程师需要什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30575579</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>JrisMoore</name>
             <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去的链接与我的提交有什么关系？]]></title>
-        <id>https://news.ycombinator.com/item?id=30423423</id>
-        <link href="https://news.ycombinator.com/item?id=30423423"/>
-        <updated>2022-02-22T02:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does the past link have to do with my submission?]]></summary>
-        <author>
-            <name>sigmaprimus</name>
-            <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
         </author>
     </entry>
 </feed>
