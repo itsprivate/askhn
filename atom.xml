@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T14:29:21.275Z</updated>
+    <updated>2022-03-06T15:15:47.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30577911</id>
+        <link href="https://news.ycombinator.com/item?id=30577911"/>
+        <updated>2022-03-06T14:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们在哪里可以看到核战争的模拟情况？]]></title>
+        <id>https://news.ycombinator.com/item?id=30577902</id>
+        <link href="https://news.ycombinator.com/item?id=30577902"/>
+        <updated>2022-03-06T14:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can we see simulations of a nuclear war?]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否将拉动和运行代码作为代码审查的一部分？]]></title>
         <id>https://news.ycombinator.com/item?id=30577735</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习数字营销的路线图是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30423616</id>
-        <link href="https://news.ycombinator.com/item?id=30423616"/>
-        <updated>2022-02-22T03:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the roadmap for learning digital marketing?]]></summary>
-        <author>
-            <name>rohitk164</name>
-            <uri>https://news.ycombinator.com/user?id=rohitk164</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建社区并在托管网络应用程序时节约成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30424576</id>
-        <link href="https://news.ycombinator.com/item?id=30424576"/>
-        <updated>2022-02-22T06:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Communities for building and saving $$ when hosting web app]]></summary>
-        <author>
-            <name>umen</name>
-            <uri>https://news.ycombinator.com/user?id=umen</uri>
         </author>
     </entry>
 </feed>

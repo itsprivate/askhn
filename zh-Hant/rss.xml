@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 06 Mar 2022 14:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 15:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼有人會選擇Haskell來開發應用程序？]]></title>
+            <link>https://news.ycombinator.com/item?id=30577911</link>
+            <guid>https://news.ycombinator.com/item?id=30577911</guid>
+            <pubDate>Sun, 06 Mar 2022 14:52:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們在哪裡可以看到核戰爭的模擬情況？]]></title>
+            <link>https://news.ycombinator.com/item?id=30577902</link>
+            <guid>https://news.ycombinator.com/item?id=30577902</guid>
+            <pubDate>Sun, 06 Mar 2022 14:51:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where can we see simulations of a nuclear war?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否將拉動和運行代碼作為代碼審查的一部分？]]></title>
             <link>https://news.ycombinator.com/item?id=30577735</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30425160</guid>
             <pubDate>Tue, 22 Feb 2022 07:59:15 GMT</pubDate>
             <description><![CDATA[Ask HN: How do know if a problem is big enough?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[學習數字營銷的路線圖是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30423616</link>
-            <guid>https://news.ycombinator.com/item?id=30423616</guid>
-            <pubDate>Tue, 22 Feb 2022 03:10:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the roadmap for learning digital marketing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[構建社區並在託管網絡應用程序時節約成本]]></title>
-            <link>https://news.ycombinator.com/item?id=30424576</link>
-            <guid>https://news.ycombinator.com/item?id=30424576</guid>
-            <pubDate>Tue, 22 Feb 2022 06:19:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Communities for building and saving $$ when hosting web app]]></description>
         </item>
     </channel>
 </rss>
