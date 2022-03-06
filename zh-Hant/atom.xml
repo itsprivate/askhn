@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T16:17:05.416Z</updated>
+    <updated>2022-03-06T17:17:00.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有辦法存儲遇到的錯誤及其解決方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=30578991</id>
+        <link href="https://news.ycombinator.com/item?id=30578991"/>
+        <updated>2022-03-06T17:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a way to store encountred errors and their solutions?]]></summary>
+        <author>
+            <name>zeynepevecen</name>
+            <uri>https://news.ycombinator.com/user?id=zeynepevecen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼Mac上的自動更正如此糟糕？]]></title>
+        <id>https://news.ycombinator.com/item?id=30578919</id>
+        <link href="https://news.ycombinator.com/item?id=30578919"/>
+        <updated>2022-03-06T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is autocorrect on Mac so bad?]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是 "維基"？]]></title>
         <id>https://news.ycombinator.com/item?id=30578394</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>michidk</name>
             <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS應用在（不）插屏時將窗口保持在定義的空間內？]]></title>
-        <id>https://news.ycombinator.com/item?id=30425934</id>
-        <link href="https://news.ycombinator.com/item?id=30425934"/>
-        <updated>2022-02-22T09:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: macOS app to keep windows in defined spaces when (un)plugging screens?]]></summary>
-        <author>
-            <name>adrianomartins</name>
-            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Wordle解決方案來測試形態共振的理論]]></title>
-        <id>https://news.ycombinator.com/item?id=30425436</id>
-        <link href="https://news.ycombinator.com/item?id=30425436"/>
-        <updated>2022-02-22T08:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Using Wordle solutions to test theories of morphic resonance]]></summary>
-        <author>
-            <name>parkersweb</name>
-            <uri>https://news.ycombinator.com/user?id=parkersweb</uri>
         </author>
     </entry>
 </feed>
