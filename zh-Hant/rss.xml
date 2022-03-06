@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 14:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否將拉動和運行代碼作為代碼審查的一部分？]]></title>
+            <link>https://news.ycombinator.com/item?id=30577735</link>
+            <guid>https://news.ycombinator.com/item?id=30577735</guid>
+            <pubDate>Sun, 06 Mar 2022 14:17:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you pull and run code as part of code review?]]></description>
+        </item>
         <item>
             <title><![CDATA[郵件應用程序，從自定義別名地址回覆]]></title>
             <link>https://news.ycombinator.com/item?id=30577013</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30424576</guid>
             <pubDate>Tue, 22 Feb 2022 06:19:57 GMT</pubDate>
             <description><![CDATA[Ask HN: Communities for building and saving $$ when hosting web app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什麼方法可以檢測出在谷歌上進行了SEO優化的網站嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30424279</link>
-            <guid>https://news.ycombinator.com/item?id=30424279</guid>
-            <pubDate>Tue, 22 Feb 2022 05:20:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there any way to detect websites that are SEO-optimized on Google?]]></description>
         </item>
     </channel>
 </rss>
