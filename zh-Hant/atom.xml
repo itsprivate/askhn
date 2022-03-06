@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T19:53:16.374Z</updated>
+    <updated>2022-03-06T20:14:05.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助我利用我的激情]]></title>
+        <id>https://news.ycombinator.com/item?id=30580608</id>
+        <link href="https://news.ycombinator.com/item?id=30580608"/>
+        <updated>2022-03-06T19:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Help me utilize my passion]]></summary>
+        <author>
+            <name>jason_slack</name>
+            <uri>https://news.ycombinator.com/user?id=jason_slack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯是下一個朝鮮嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30580539</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>recvonline</name>
             <uri>https://news.ycombinator.com/user?id=recvonline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的上一家公司在如何行使股份的問題上搪塞過去了]]></title>
-        <id>https://news.ycombinator.com/item?id=30428127</id>
-        <link href="https://news.ycombinator.com/item?id=30428127"/>
-        <updated>2022-02-22T14:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: My last company is stonewalling on how to exercise shares]]></summary>
-        <author>
-            <name>petechapman</name>
-            <uri>https://news.ycombinator.com/user?id=petechapman</uri>
         </author>
     </entry>
 </feed>
