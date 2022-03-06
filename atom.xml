@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T21:30:34.690Z</updated>
+    <updated>2022-03-06T21:38:58.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在乌克兰使用核武器难道不是一种软弱的表现吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30581445</id>
+        <link href="https://news.ycombinator.com/item?id=30581445"/>
+        <updated>2022-03-06T21:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Wouldn't using nuclear weapons in Ukraine be a sign of weakness?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一个网站可以让我去看工作 "清单 "的评论？]]></title>
         <id>https://news.ycombinator.com/item?id=30581415</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>doctoroctogon</name>
             <uri>https://news.ycombinator.com/user?id=doctoroctogon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果Stack Overflow关闭，会发生什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30429407</id>
-        <link href="https://news.ycombinator.com/item?id=30429407"/>
-        <updated>2022-02-22T15:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would happen if Stack Overflow shut down?]]></summary>
-        <author>
-            <name>anondevvie</name>
-            <uri>https://news.ycombinator.com/user?id=anondevvie</uri>
         </author>
     </entry>
 </feed>
