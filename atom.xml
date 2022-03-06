@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T05:37:53.488Z</updated>
+    <updated>2022-03-06T07:31:29.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[要成为技术上合格的工程师需要什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30575579</id>
+        <link href="https://news.ycombinator.com/item?id=30575579"/>
+        <updated>2022-03-06T06:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does it take to be technically competent engineer?]]></summary>
+        <author>
+            <name>going_ham</name>
+            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何坚持资产？]]></title>
         <id>https://news.ycombinator.com/item?id=30575274</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>sigmaprimus</name>
             <uri>https://news.ycombinator.com/user?id=sigmaprimus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对关闭所有通知有什么看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30423420</id>
-        <link href="https://news.ycombinator.com/item?id=30423420"/>
-        <updated>2022-02-22T02:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your thoughts on turning all notifications off?]]></summary>
-        <author>
-            <name>kashnote</name>
-            <uri>https://news.ycombinator.com/user?id=kashnote</uri>
         </author>
     </entry>
 </feed>
