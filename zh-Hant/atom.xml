@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T22:34:01.712Z</updated>
+    <updated>2022-03-06T23:15:27.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高級軟件工程師的素質]]></title>
+        <id>https://news.ycombinator.com/item?id=30582150</id>
+        <link href="https://news.ycombinator.com/item?id=30582150"/>
+        <updated>2022-03-06T23:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Qualities of a Senior Software Engineer]]></summary>
+        <author>
+            <name>loige</name>
+            <uri>https://news.ycombinator.com/user?id=loige</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於俄羅斯與烏克蘭的虛構場景--你會如何決定？]]></title>
         <id>https://news.ycombinator.com/item?id=30581911</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國的流感病例從38MM急劇下降到本季的不到2K？]]></title>
-        <id>https://news.ycombinator.com/item?id=30429827</id>
-        <link href="https://news.ycombinator.com/item?id=30429827"/>
-        <updated>2022-02-22T16:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did US flu cases plummet US from 38 MM to less than 2k this season?]]></summary>
-        <author>
-            <name>hammock</name>
-            <uri>https://news.ycombinator.com/user?id=hammock</uri>
         </author>
     </entry>
 </feed>
