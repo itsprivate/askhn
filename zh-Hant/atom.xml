@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T20:14:05.741Z</updated>
+    <updated>2022-03-06T20:52:52.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個人如何為戰爭做好心理準備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30581056</id>
+        <link href="https://news.ycombinator.com/item?id=30581056"/>
+        <updated>2022-03-06T20:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do a prepare mentally for war?]]></summary>
+        <author>
+            <name>kypro</name>
+            <uri>https://news.ycombinator.com/user?id=kypro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助我利用我的激情]]></title>
         <id>https://news.ycombinator.com/item?id=30580608</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tiahura</name>
             <uri>https://news.ycombinator.com/user?id=tiahura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[難道只有我一個人對Twitter的長期使用感到困惑嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30428652</id>
-        <link href="https://news.ycombinator.com/item?id=30428652"/>
-        <updated>2022-02-22T14:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I the only one baffled by the long term usage of Twitter?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
