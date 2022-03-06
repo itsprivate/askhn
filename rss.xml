@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 06 Mar 2022 23:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 23:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你从未真正理解过哪些概念？]]></title>
+            <link>https://news.ycombinator.com/item?id=30582221</link>
+            <guid>https://news.ycombinator.com/item?id=30582221</guid>
+            <pubDate>Sun, 06 Mar 2022 23:11:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What concepts have you never truly understood?]]></description>
+        </item>
         <item>
             <title><![CDATA[高级软件工程师的素质]]></title>
             <link>https://news.ycombinator.com/item?id=30582150</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30430068</guid>
             <pubDate>Tue, 22 Feb 2022 16:43:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Favorite resources for learning how to write game cheats/mods]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么A/B测试对小说来说是不可接受的，而对软件来说却是鼓励的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30430045</link>
-            <guid>https://news.ycombinator.com/item?id=30430045</guid>
-            <pubDate>Tue, 22 Feb 2022 16:41:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is A/B testing unacceptable for novels but encouraged for software?]]></description>
         </item>
     </channel>
 </rss>
