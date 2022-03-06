@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T20:52:52.183Z</updated>
+    <updated>2022-03-06T21:30:34.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一個網站可以讓我去看工作 "清單 "的評論？]]></title>
+        <id>https://news.ycombinator.com/item?id=30581415</id>
+        <link href="https://news.ycombinator.com/item?id=30581415"/>
+        <updated>2022-03-06T21:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a site I can go to see job 'listing' reviews?]]></summary>
+        <author>
+            <name>jawerty</name>
+            <uri>https://news.ycombinator.com/user?id=jawerty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個人如何為戰爭做好心理準備？]]></title>
         <id>https://news.ycombinator.com/item?id=30581056</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>anondevvie</name>
             <uri>https://news.ycombinator.com/user?id=anondevvie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為烏克蘭危機的一部分，你的組織是否在為俄羅斯的黑客攻擊做準備？]]></title>
-        <id>https://news.ycombinator.com/item?id=30429249</id>
-        <link href="https://news.ycombinator.com/item?id=30429249"/>
-        <updated>2022-02-22T15:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your org preparing for Russian hacking as part of Ukrainian crisis?]]></summary>
-        <author>
-            <name>tiahura</name>
-            <uri>https://news.ycombinator.com/user?id=tiahura</uri>
         </author>
     </entry>
 </feed>
