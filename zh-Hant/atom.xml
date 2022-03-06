@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T11:53:01.897Z</updated>
+    <updated>2022-03-06T12:18:44.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[郵件應用程序，從自定義別名地址回覆]]></title>
+        <id>https://news.ycombinator.com/item?id=30577013</id>
+        <link href="https://news.ycombinator.com/item?id=30577013"/>
+        <updated>2022-03-06T12:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mail app, respond from custom alias address]]></summary>
+        <author>
+            <name>mdrzn</name>
+            <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯軍事硬件對黑客攻擊的脆弱性如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30576844</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提高開發效率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30423799</id>
-        <link href="https://news.ycombinator.com/item?id=30423799"/>
-        <updated>2022-02-22T03:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Improve the Development Efficiency?]]></summary>
-        <author>
-            <name>JrisMoore</name>
-            <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
         </author>
     </entry>
 </feed>
