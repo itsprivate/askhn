@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T04:41:14.669Z</updated>
+    <updated>2022-03-06T04:56:49.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些從網絡開發轉行的人，你們去了哪裡？]]></title>
+        <id>https://news.ycombinator.com/item?id=30575119</id>
+        <link href="https://news.ycombinator.com/item?id=30575119"/>
+        <updated>2022-03-06T04:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Those who changed industries from web dev, where did you go?]]></summary>
+        <author>
+            <name>ilrwbwrkhv</name>
+            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到我的雲存儲供應商的網絡瓶頸？]]></title>
         <id>https://news.ycombinator.com/item?id=30575052</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>anon_9867864</name>
             <uri>https://news.ycombinator.com/user?id=anon_9867864</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indiehacker像藝術家的社區？]]></title>
-        <id>https://news.ycombinator.com/item?id=30422766</id>
-        <link href="https://news.ycombinator.com/item?id=30422766"/>
-        <updated>2022-02-22T00:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Indiehacker Like Community for Artists?]]></summary>
-        <author>
-            <name>cgartner</name>
-            <uri>https://news.ycombinator.com/user?id=cgartner</uri>
         </author>
     </entry>
 </feed>
