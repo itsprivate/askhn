@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T21:38:58.121Z</updated>
+    <updated>2022-03-06T22:34:01.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于俄罗斯与乌克兰的虚构场景--你会如何决定？]]></title>
+        <id>https://news.ycombinator.com/item?id=30581911</id>
+        <link href="https://news.ycombinator.com/item?id=30581911"/>
+        <updated>2022-03-06T22:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Fictional scenario based on Russia vs. Ukraine – how would you decide?]]></summary>
+        <author>
+            <name>firebaze</name>
+            <uri>https://news.ycombinator.com/user?id=firebaze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在乌克兰使用核武器难道不是一种软弱的表现吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30581445</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hammock</name>
             <uri>https://news.ycombinator.com/user?id=hammock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么最初的Slack帖子会从头版上掉下来？]]></title>
-        <id>https://news.ycombinator.com/item?id=30429517</id>
-        <link href="https://news.ycombinator.com/item?id=30429517"/>
-        <updated>2022-02-22T16:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Did the Original Slack Post Fall Off the Front Page?]]></summary>
-        <author>
-            <name>doctoroctogon</name>
-            <uri>https://news.ycombinator.com/user?id=doctoroctogon</uri>
         </author>
     </entry>
 </feed>
