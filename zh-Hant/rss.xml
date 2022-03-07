@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 07 Mar 2022 21:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 22:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我怎樣才能最好地利用2萬美元來實現一個創業想法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30593884</link>
+            <guid>https://news.ycombinator.com/item?id=30593884</guid>
+            <pubDate>Mon, 07 Mar 2022 22:01:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can I best utilize $20k towards a startup idea?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的個人日誌/活動報告的粒度如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=30593802</link>
+            <guid>https://news.ycombinator.com/item?id=30593802</guid>
+            <pubDate>Mon, 07 Mar 2022 21:55:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: How granular are your personal logs/activity reports?]]></description>
+        </item>
         <item>
             <title><![CDATA[對於大多數業餘愛好者來說，COMAL是為c64編程的最佳方式嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30593649</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30438905</guid>
             <pubDate>Wed, 23 Feb 2022 08:21:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Can Apple sue an OS project replicating macOS's “look and feel”?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在沒有啟用2FA的情況下，使用Bitwarden是否安全？]]></title>
-            <link>https://news.ycombinator.com/item?id=30438805</link>
-            <guid>https://news.ycombinator.com/item?id=30438805</guid>
-            <pubDate>Wed, 23 Feb 2022 08:08:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it safe to use Bitwarden without 2FA enabled?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GDPR彈出窗口越來越多，我們應該怎麼做？]]></title>
-            <link>https://news.ycombinator.com/item?id=30438663</link>
-            <guid>https://news.ycombinator.com/item?id=30438663</guid>
-            <pubDate>Wed, 23 Feb 2022 07:38:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: GDPR pop-ups are getting so annying, what should we do about it?]]></description>
         </item>
     </channel>
 </rss>

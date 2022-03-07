@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T21:54:49.677Z</updated>
+    <updated>2022-03-07T22:15:16.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能最好地利用2萬美元來實現一個創業想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30593884</id>
+        <link href="https://news.ycombinator.com/item?id=30593884"/>
+        <updated>2022-03-07T22:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I best utilize $20k towards a startup idea?]]></summary>
+        <author>
+            <name>me_me_mu_mu</name>
+            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的個人日誌/活動報告的粒度如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30593802</id>
+        <link href="https://news.ycombinator.com/item?id=30593802"/>
+        <updated>2022-03-07T21:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How granular are your personal logs/activity reports?]]></summary>
+        <author>
+            <name>lastofthemojito</name>
+            <uri>https://news.ycombinator.com/user?id=lastofthemojito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於大多數業餘愛好者來說，COMAL是為c64編程的最佳方式嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30593649</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>apatheticonion</name>
             <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有啟用2FA的情況下，使用Bitwarden是否安全？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438805</id>
-        <link href="https://news.ycombinator.com/item?id=30438805"/>
-        <updated>2022-02-23T08:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it safe to use Bitwarden without 2FA enabled?]]></summary>
-        <author>
-            <name>vhsdev</name>
-            <uri>https://news.ycombinator.com/user?id=vhsdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDPR彈出窗口越來越多，我們應該怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438663</id>
-        <link href="https://news.ycombinator.com/item?id=30438663"/>
-        <updated>2022-02-23T07:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: GDPR pop-ups are getting so annying, what should we do about it?]]></summary>
-        <author>
-            <name>smoqadam</name>
-            <uri>https://news.ycombinator.com/user?id=smoqadam</uri>
         </author>
     </entry>
 </feed>
