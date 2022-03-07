@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T04:42:27.865Z</updated>
+    <updated>2022-03-07T06:15:33.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們大多數的世界領導人可能有鉛中毒嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584592</id>
+        <link href="https://news.ycombinator.com/item?id=30584592"/>
+        <updated>2022-03-07T05:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is It Likely That Most of Our World Leaders Have Lead Poisoning?]]></summary>
+        <author>
+            <name>idontwantthis</name>
+            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN項目編號30581215是一個廣告嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30584180</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>dlivingston</name>
             <uri>https://news.ycombinator.com/user?id=dlivingston</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的喬-羅根播客的哪幾集？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430920</id>
-        <link href="https://news.ycombinator.com/item?id=30430920"/>
-        <updated>2022-02-22T17:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your favourite Joe Rogan Podcast episodes?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
