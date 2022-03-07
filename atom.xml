@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T13:20:41.496Z</updated>
+    <updated>2022-03-07T14:15:53.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN上的俄罗斯人对这场战争有什么看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30587831</id>
+        <link href="https://news.ycombinator.com/item?id=30587831"/>
+        <updated>2022-03-07T13:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do Russians on HN think about this war?]]></summary>
+        <author>
+            <name>sgallant</name>
+            <uri>https://news.ycombinator.com/user?id=sgallant</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是动态范围的优势？]]></title>
+        <id>https://news.ycombinator.com/item?id=30587581</id>
+        <link href="https://news.ycombinator.com/item?id=30587581"/>
+        <updated>2022-03-07T13:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are dynamical scope advantages?]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解NFT的资源]]></title>
+        <id>https://news.ycombinator.com/item?id=30587488</id>
+        <link href="https://news.ycombinator.com/item?id=30587488"/>
+        <updated>2022-03-07T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources to Learn About NFTs]]></summary>
+        <author>
+            <name>ss108</name>
+            <uri>https://news.ycombinator.com/user?id=ss108</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您对机器学习的碳排放有什么看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30587276</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>newobj</name>
             <uri>https://news.ycombinator.com/user?id=newobj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elixir/Phoenix LiveView会比React SPA更好地被抓取吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30435563</id>
-        <link href="https://news.ycombinator.com/item?id=30435563"/>
-        <updated>2022-02-22T23:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would an Elixir/Phoenix LiveView be crawled better than a React SPA?]]></summary>
-        <author>
-            <name>servytor</name>
-            <uri>https://news.ycombinator.com/user?id=servytor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于一个以FaaS为目标的语言，标准库的作用是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30435558</id>
-        <link href="https://news.ycombinator.com/item?id=30435558"/>
-        <updated>2022-02-22T23:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the role of a standard library for a language aimed at FaaS?]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与控制的高级开发人员合作]]></title>
-        <id>https://news.ycombinator.com/item?id=30435537</id>
-        <link href="https://news.ycombinator.com/item?id=30435537"/>
-        <updated>2022-02-22T23:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Working with Controlling Senior Devs]]></summary>
-        <author>
-            <name>baynoma</name>
-            <uri>https://news.ycombinator.com/user?id=baynoma</uri>
         </author>
     </entry>
 </feed>
