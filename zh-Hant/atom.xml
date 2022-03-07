@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T09:41:37.034Z</updated>
+    <updated>2022-03-07T10:35:45.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在編碼期間都聽/看/做什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30586058</id>
+        <link href="https://news.ycombinator.com/item?id=30586058"/>
+        <updated>2022-03-07T10:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you listen to/watch/do during coding?]]></summary>
+        <author>
+            <name>engyioneer</name>
+            <uri>https://news.ycombinator.com/user?id=engyioneer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[截至2022年3月，斯諾登如何能留在俄羅斯？]]></title>
         <id>https://news.ycombinator.com/item?id=30585650</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>GoRudy</name>
             <uri>https://news.ycombinator.com/user?id=GoRudy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夫婦們避免生孩子是因為他們會害怕自己的死亡嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30433414</id>
-        <link href="https://news.ycombinator.com/item?id=30433414"/>
-        <updated>2022-02-22T20:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do couples avoid having children because they will fear their own death?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
