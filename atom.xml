@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T10:47:22.910Z</updated>
+    <updated>2022-03-07T12:55:05.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否应该为网络战争 "征兵"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30586963</id>
+        <link href="https://news.ycombinator.com/item?id=30586963"/>
+        <updated>2022-03-07T12:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></summary>
+        <author>
+            <name>asah</name>
+            <uri>https://news.ycombinator.com/user?id=asah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何将一个硬件产品推向市场？]]></title>
         <id>https://news.ycombinator.com/item?id=30586175</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我通过电子邮件向ASC中的apply-to-YC发送邮件，并将内容设置为一个月后过期。]]></title>
-        <id>https://news.ycombinator.com/item?id=30434404</id>
-        <link href="https://news.ycombinator.com/item?id=30434404"/>
-        <updated>2022-02-22T21:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I emailed to apply-to-YC in ASC and set the content to expire in a month]]></summary>
-        <author>
-            <name>amts</name>
-            <uri>https://news.ycombinator.com/user?id=amts</uri>
         </author>
     </entry>
 </feed>

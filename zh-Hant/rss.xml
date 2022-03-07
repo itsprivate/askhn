@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 07 Mar 2022 10:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 12:55:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否應該為網絡戰爭 "徵兵"？]]></title>
+            <link>https://news.ycombinator.com/item?id=30586963</link>
+            <guid>https://news.ycombinator.com/item?id=30586963</guid>
+            <pubDate>Mon, 07 Mar 2022 12:28:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何將一個硬件產品推向市場？]]></title>
             <link>https://news.ycombinator.com/item?id=30586175</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30434660</guid>
             <pubDate>Tue, 22 Feb 2022 22:16:42 GMT</pubDate>
             <description><![CDATA[Ask HN: Does anyone use Git as their blog?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我通過電子郵件向ASC中的apply-to-YC發送郵件，並將內容設置為一個月後過期。]]></title>
-            <link>https://news.ycombinator.com/item?id=30434404</link>
-            <guid>https://news.ycombinator.com/item?id=30434404</guid>
-            <pubDate>Tue, 22 Feb 2022 21:51:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: I emailed to apply-to-YC in ASC and set the content to expire in a month]]></description>
         </item>
     </channel>
 </rss>
