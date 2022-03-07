@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T23:19:04.703Z</updated>
+    <updated>2022-03-07T23:32:41.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果终止了我的开发者账户的关联]]></title>
+        <id>https://news.ycombinator.com/item?id=30594674</id>
+        <link href="https://news.ycombinator.com/item?id=30594674"/>
+        <updated>2022-03-07T23:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Apple terminated my developer account for association]]></summary>
+        <author>
+            <name>Hadi_Asiaie</name>
+            <uri>https://news.ycombinator.com/user?id=Hadi_Asiaie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[版本管理备份]]></title>
         <id>https://news.ycombinator.com/item?id=30594331</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>iraldir</name>
             <uri>https://news.ycombinator.com/user?id=iraldir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去哪里学习决策的知识]]></title>
-        <id>https://news.ycombinator.com/item?id=30439504</id>
-        <link href="https://news.ycombinator.com/item?id=30439504"/>
-        <updated>2022-02-23T09:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to go to learn about decison making]]></summary>
-        <author>
-            <name>navyad</name>
-            <uri>https://news.ycombinator.com/user?id=navyad</uri>
         </author>
     </entry>
 </feed>
