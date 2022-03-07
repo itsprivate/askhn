@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T04:16:21.698Z</updated>
+    <updated>2022-03-07T04:42:27.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN项目编号30581215是一个广告吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584180</id>
+        <link href="https://news.ycombinator.com/item?id=30584180"/>
+        <updated>2022-03-07T04:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is HN item ID 30581215 an ad?]]></summary>
+        <author>
+            <name>Extropy_</name>
+            <uri>https://news.ycombinator.com/user?id=Extropy_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能靠自己成为一个好的程序员吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30584111</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>recvonline</name>
             <uri>https://news.ycombinator.com/user?id=recvonline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何删除我的HN账户？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430789</id>
-        <link href="https://news.ycombinator.com/item?id=30430789"/>
-        <updated>2022-02-22T17:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I delete my HN account?]]></summary>
-        <author>
-            <name>supernintendo</name>
-            <uri>https://news.ycombinator.com/user?id=supernintendo</uri>
         </author>
     </entry>
 </feed>
