@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T02:09:36.045Z</updated>
+    <updated>2022-03-07T03:53:00.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分布式团队建设的好活动有哪些？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584023</id>
+        <link href="https://news.ycombinator.com/item?id=30584023"/>
+        <updated>2022-03-07T03:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are good activities for distributed team building?]]></summary>
+        <author>
+            <name>viraptor</name>
+            <uri>https://news.ycombinator.com/user?id=viraptor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你将如何制作一条自动电话热线？]]></title>
+        <id>https://news.ycombinator.com/item?id=30583963</id>
+        <link href="https://news.ycombinator.com/item?id=30583963"/>
+        <updated>2022-03-07T03:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you make an automated telephone hotline?]]></summary>
+        <author>
+            <name>wombat-man</name>
+            <uri>https://news.ycombinator.com/user?id=wombat-man</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为国家安全局工作有帮助吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30583129</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>taylodl</name>
             <uri>https://news.ycombinator.com/user?id=taylodl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有顾问，你怎么能写论文？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430501</id>
-        <link href="https://news.ycombinator.com/item?id=30430501"/>
-        <updated>2022-02-22T17:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can you write a paper without an advisor?]]></summary>
-        <author>
-            <name>jonas_kgomo</name>
-            <uri>https://news.ycombinator.com/user?id=jonas_kgomo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitWarden主密码不再起作用]]></title>
-        <id>https://news.ycombinator.com/item?id=30430349</id>
-        <link href="https://news.ycombinator.com/item?id=30430349"/>
-        <updated>2022-02-22T16:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: BitWarden Master Password No Longer Works]]></summary>
-        <author>
-            <name>rcconf</name>
-            <uri>https://news.ycombinator.com/user?id=rcconf</uri>
         </author>
     </entry>
 </feed>
