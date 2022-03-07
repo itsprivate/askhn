@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T16:17:10.359Z</updated>
+    <updated>2022-03-07T16:56:43.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當manifest-v2日落時，你會繼續使用Chrome嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30589773</id>
+        <link href="https://news.ycombinator.com/item?id=30589773"/>
+        <updated>2022-03-07T16:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will you keep using Chrome when manifest-v2 is sunset?]]></summary>
+        <author>
+            <name>Raed667</name>
+            <uri>https://news.ycombinator.com/user?id=Raed667</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最便宜的技術堆積物規模？]]></title>
+        <id>https://news.ycombinator.com/item?id=30589550</id>
+        <link href="https://news.ycombinator.com/item?id=30589550"/>
+        <updated>2022-03-07T16:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cheapest Tech Stack to Scale?]]></summary>
+        <author>
+            <name>launchiterate</name>
+            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何克服完美主義的？]]></title>
         <id>https://news.ycombinator.com/item?id=30589374</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>fnaith</name>
             <uri>https://news.ycombinator.com/user?id=fnaith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亞的創始人簽證]]></title>
-        <id>https://news.ycombinator.com/item?id=30436836</id>
-        <link href="https://news.ycombinator.com/item?id=30436836"/>
-        <updated>2022-02-23T02:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Founder Visas for Australia]]></summary>
-        <author>
-            <name>solresol</name>
-            <uri>https://news.ycombinator.com/user?id=solresol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為你的用戶提供一個小型的電子郵件賬戶？]]></title>
-        <id>https://news.ycombinator.com/item?id=30436549</id>
-        <link href="https://news.ycombinator.com/item?id=30436549"/>
-        <updated>2022-02-23T01:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Provide a small email account to your users?]]></summary>
-        <author>
-            <name>101008</name>
-            <uri>https://news.ycombinator.com/user?id=101008</uri>
         </author>
     </entry>
 </feed>

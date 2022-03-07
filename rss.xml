@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 07 Mar 2022 16:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 16:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当manifest-v2日落时，你会继续使用Chrome吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30589773</link>
+            <guid>https://news.ycombinator.com/item?id=30589773</guid>
+            <pubDate>Mon, 07 Mar 2022 16:29:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will you keep using Chrome when manifest-v2 is sunset?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最便宜的技术堆积物规模？]]></title>
+            <link>https://news.ycombinator.com/item?id=30589550</link>
+            <guid>https://news.ycombinator.com/item?id=30589550</guid>
+            <pubDate>Mon, 07 Mar 2022 16:15:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Cheapest Tech Stack to Scale?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何克服完美主义的？]]></title>
             <link>https://news.ycombinator.com/item?id=30589374</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30437020</guid>
             <pubDate>Wed, 23 Feb 2022 02:53:35 GMT</pubDate>
             <description><![CDATA[Ask HN: What web service did you wish other people build for you?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚的创始人签证]]></title>
-            <link>https://news.ycombinator.com/item?id=30436836</link>
-            <guid>https://news.ycombinator.com/item?id=30436836</guid>
-            <pubDate>Wed, 23 Feb 2022 02:25:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Founder Visas for Australia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为你的用户提供一个小型的电子邮件账户？]]></title>
-            <link>https://news.ycombinator.com/item?id=30436549</link>
-            <guid>https://news.ycombinator.com/item?id=30436549</guid>
-            <pubDate>Wed, 23 Feb 2022 01:48:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Provide a small email account to your users?]]></description>
         </item>
     </channel>
 </rss>
