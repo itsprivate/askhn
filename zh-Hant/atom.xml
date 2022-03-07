@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T09:33:30.021Z</updated>
+    <updated>2022-03-07T09:41:37.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[截至2022年3月，斯諾登如何能留在俄羅斯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30585650</id>
+        <link href="https://news.ycombinator.com/item?id=30585650"/>
+        <updated>2022-03-07T09:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can Snowden stay in Russia as of March 2022?]]></summary>
+        <author>
+            <name>tmp76785289978</name>
+            <uri>https://news.ycombinator.com/user?id=tmp76785289978</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌會議的鏈接可以強制用火狐瀏覽器來操作嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30585763</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於網絡刮削和數據分析的指導意見]]></title>
-        <id>https://news.ycombinator.com/item?id=30432820</id>
-        <link href="https://news.ycombinator.com/item?id=30432820"/>
-        <updated>2022-02-22T19:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Guidance on Web Scraping and Data Analysis]]></summary>
-        <author>
-            <name>fractal618</name>
-            <uri>https://news.ycombinator.com/user?id=fractal618</uri>
         </author>
     </entry>
 </feed>
