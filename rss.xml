@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 07 Mar 2022 15:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 16:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何克服完美主义的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30589374</link>
+            <guid>https://news.ycombinator.com/item?id=30589374</guid>
+            <pubDate>Mon, 07 Mar 2022 16:02:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: How did you overcome perfectionism?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何处理在明知自己加入了开发部的情况下被分配到运营部的任务？]]></title>
             <link>https://news.ycombinator.com/item?id=30588576</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30436549</guid>
             <pubDate>Wed, 23 Feb 2022 01:48:22 GMT</pubDate>
             <description><![CDATA[Ask HN: Provide a small email account to your users?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有更多的软件项目使用BitTorrent进行下载？]]></title>
-            <link>https://news.ycombinator.com/item?id=30436367</link>
-            <guid>https://news.ycombinator.com/item?id=30436367</guid>
-            <pubDate>Wed, 23 Feb 2022 01:22:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why don't more software projects use BitTorrent for downloads?]]></description>
         </item>
     </channel>
 </rss>
