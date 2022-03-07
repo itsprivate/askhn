@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T22:15:16.045Z</updated>
+    <updated>2022-03-07T22:32:43.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[制裁主要是為了把俄羅斯變成一個真正的民主國家嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30594037</id>
+        <link href="https://news.ycombinator.com/item?id=30594037"/>
+        <updated>2022-03-07T22:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are the sanctions mostly about turning Russia into a true democracy?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能最好地利用2萬美元來實現一個創業想法？]]></title>
         <id>https://news.ycombinator.com/item?id=30593884</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>nyellin</name>
             <uri>https://news.ycombinator.com/user?id=nyellin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果可以起訴一個複製macOS "外觀和感覺 "的操作系統項目嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438905</id>
-        <link href="https://news.ycombinator.com/item?id=30438905"/>
-        <updated>2022-02-23T08:21:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can Apple sue an OS project replicating macOS's “look and feel”?]]></summary>
-        <author>
-            <name>apatheticonion</name>
-            <uri>https://news.ycombinator.com/user?id=apatheticonion</uri>
         </author>
     </entry>
 </feed>
