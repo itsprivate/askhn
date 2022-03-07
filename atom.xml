@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T03:53:00.842Z</updated>
+    <updated>2022-03-07T04:16:21.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有可能靠自己成为一个好的程序员吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584111</id>
+        <link href="https://news.ycombinator.com/item?id=30584111"/>
+        <updated>2022-03-07T04:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to become a good programmer by one's own?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否在贯彻你的新年决议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584100</id>
+        <link href="https://news.ycombinator.com/item?id=30584100"/>
+        <updated>2022-03-07T04:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you following through on your new year's resolution?]]></summary>
+        <author>
+            <name>ent101</name>
+            <uri>https://news.ycombinator.com/user?id=ent101</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分布式团队建设的好活动有哪些？]]></title>
         <id>https://news.ycombinator.com/item?id=30584023</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>supernintendo</name>
             <uri>https://news.ycombinator.com/user?id=supernintendo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚让自己的恐慌症发作。我怎样才能停止这一切呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430553</id>
-        <link href="https://news.ycombinator.com/item?id=30430553"/>
-        <updated>2022-02-22T17:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I just gave myself a panic attack. How do I stop this?]]></summary>
-        <author>
-            <name>lsiunsuex</name>
-            <uri>https://news.ycombinator.com/user?id=lsiunsuex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes是不依赖云的唯一选择吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430537</id>
-        <link href="https://news.ycombinator.com/item?id=30430537"/>
-        <updated>2022-02-22T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Kubernetes the only alternative for being cloud agnostic?]]></summary>
-        <author>
-            <name>taylodl</name>
-            <uri>https://news.ycombinator.com/user?id=taylodl</uri>
         </author>
     </entry>
 </feed>
