@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T14:15:53.505Z</updated>
+    <updated>2022-03-07T15:15:58.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理在明知自己加入了開發部的情況下被分配到運營部的任務？]]></title>
+        <id>https://news.ycombinator.com/item?id=30588576</id>
+        <link href="https://news.ycombinator.com/item?id=30588576"/>
+        <updated>2022-03-07T15:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you handle being assigned Ops tasks knowing you joined to do Dev?]]></summary>
+        <author>
+            <name>ahil95</name>
+            <uri>https://news.ycombinator.com/user?id=ahil95</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於音樂聆聽和發現習慣的調查（~5分鐘，18-65歲）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30588542</id>
+        <link href="https://news.ycombinator.com/item?id=30588542"/>
+        <updated>2022-03-07T14:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Survey on music listening and discovery habits (~5 min, 18-65 y/o)]]></summary>
+        <author>
+            <name>diibv</name>
+            <uri>https://news.ycombinator.com/user?id=diibv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在沒有旗幟的情況下看到排名靠前的HN故事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30588163</id>
+        <link href="https://news.ycombinator.com/item?id=30588163"/>
+        <updated>2022-03-07T14:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to see the top HN stories ranked without flags?]]></summary>
+        <author>
+            <name>ddlatham</name>
+            <uri>https://news.ycombinator.com/user?id=ddlatham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN上的俄羅斯人對這場戰爭有什麼看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30587831</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>nerdponx</name>
             <uri>https://news.ycombinator.com/user?id=nerdponx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果TDD如此偉大，為什麼它在業界如此不常見？]]></title>
-        <id>https://news.ycombinator.com/item?id=30436311</id>
-        <link href="https://news.ycombinator.com/item?id=30436311"/>
-        <updated>2022-02-23T01:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If TDD is so great, why is it so uncommon in the industry?]]></summary>
-        <author>
-            <name>nso95</name>
-            <uri>https://news.ycombinator.com/user?id=nso95</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜是否在分發被惡意軟件侵襲的筆記本電腦？]]></title>
-        <id>https://news.ycombinator.com/item?id=30436147</id>
-        <link href="https://news.ycombinator.com/item?id=30436147"/>
-        <updated>2022-02-23T00:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Amazon distributing malware infested laptops?]]></summary>
-        <author>
-            <name>mattymf</name>
-            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運營中的彼得原則？]]></title>
-        <id>https://news.ycombinator.com/item?id=30436105</id>
-        <link href="https://news.ycombinator.com/item?id=30436105"/>
-        <updated>2022-02-23T00:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Operational Peter Principle?]]></summary>
-        <author>
-            <name>newobj</name>
-            <uri>https://news.ycombinator.com/user?id=newobj</uri>
         </author>
     </entry>
 </feed>
