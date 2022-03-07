@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-06T23:33:01.919Z</updated>
+    <updated>2022-03-07T02:09:36.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為國家安全局工作有幫助嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30583129</id>
+        <link href="https://news.ycombinator.com/item?id=30583129"/>
+        <updated>2022-03-07T01:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would Working for the NSA Help?]]></summary>
+        <author>
+            <name>blunte</name>
+            <uri>https://news.ycombinator.com/user?id=blunte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何讓非技術性的創始人更瞭解自己？]]></title>
+        <id>https://news.ycombinator.com/item?id=30583046</id>
+        <link href="https://news.ycombinator.com/item?id=30583046"/>
+        <updated>2022-03-07T01:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to be more visible to non-technical founders?]]></summary>
+        <author>
+            <name>extra_ada</name>
+            <uri>https://news.ycombinator.com/user?id=extra_ada</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有工資在20萬美元以上的 "普通 "SWE工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30583030</id>
+        <link href="https://news.ycombinator.com/item?id=30583030"/>
+        <updated>2022-03-07T01:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there “regular” SWE jobs that pay $200k+?]]></summary>
+        <author>
+            <name>el_benhameen</name>
+            <uri>https://news.ycombinator.com/user?id=el_benhameen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你從未真正理解過哪些概念？]]></title>
         <id>https://news.ycombinator.com/item?id=30582221</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>rcconf</name>
             <uri>https://news.ycombinator.com/user?id=rcconf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建視覺系統而不懂ML？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430348</id>
-        <link href="https://news.ycombinator.com/item?id=30430348"/>
-        <updated>2022-02-22T16:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Building vision systems without knowing ML?]]></summary>
-        <author>
-            <name>mvoodarla</name>
-            <uri>https://news.ycombinator.com/user?id=mvoodarla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能否請你分享一下你的SaaS使用的是哪種SaaS？]]></title>
-        <id>https://news.ycombinator.com/item?id=30430334</id>
-        <link href="https://news.ycombinator.com/item?id=30430334"/>
-        <updated>2022-02-22T16:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could you please share which SaaS you are using for your SaaS?]]></summary>
-        <author>
-            <name>mrwnmonm</name>
-            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習如何編寫遊戲作弊器/mods的最受歡迎的資源]]></title>
-        <id>https://news.ycombinator.com/item?id=30430068</id>
-        <link href="https://news.ycombinator.com/item?id=30430068"/>
-        <updated>2022-02-22T16:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Favorite resources for learning how to write game cheats/mods]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
