@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T06:15:33.793Z</updated>
+    <updated>2022-03-07T06:38:35.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瑣事 "是什麼意思？]]></title>
+        <id>https://news.ycombinator.com/item?id=30584679</id>
+        <link href="https://news.ycombinator.com/item?id=30584679"/>
+        <updated>2022-03-07T06:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Does “Trivial” Mean?]]></summary>
+        <author>
+            <name>hahnchen</name>
+            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們大多數的世界領導人可能有鉛中毒嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30584592</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tiivik</name>
             <uri>https://news.ycombinator.com/user?id=tiivik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序員的輕鬆靈活的副業？]]></title>
-        <id>https://news.ycombinator.com/item?id=30432307</id>
-        <link href="https://news.ycombinator.com/item?id=30432307"/>
-        <updated>2022-02-22T19:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Easy and flexible side hustles for programmers?]]></summary>
-        <author>
-            <name>dlivingston</name>
-            <uri>https://news.ycombinator.com/user?id=dlivingston</uri>
         </author>
     </entry>
 </feed>
