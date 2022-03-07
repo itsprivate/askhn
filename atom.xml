@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T16:56:43.518Z</updated>
+    <updated>2022-03-07T17:10:25.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，监测你的基础设施的最佳解决方案是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30590090</id>
+        <link href="https://news.ycombinator.com/item?id=30590090"/>
+        <updated>2022-03-07T16:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best solution to monitor your infrastructure in 2022?]]></summary>
+        <author>
+            <name>misiti3780</name>
+            <uri>https://news.ycombinator.com/user?id=misiti3780</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当manifest-v2日落时，你会继续使用Chrome吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30589773</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bonhasgone</name>
             <uri>https://news.ycombinator.com/user?id=bonhasgone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望别人为你建立什么网络服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30437020</id>
-        <link href="https://news.ycombinator.com/item?id=30437020"/>
-        <updated>2022-02-23T02:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What web service did you wish other people build for you?]]></summary>
-        <author>
-            <name>fnaith</name>
-            <uri>https://news.ycombinator.com/user?id=fnaith</uri>
         </author>
     </entry>
 </feed>
