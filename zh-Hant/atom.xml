@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T21:18:29.586Z</updated>
+    <updated>2022-03-07T21:39:34.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國工人從加拿大創業公司獲得股票期權]]></title>
+        <id>https://news.ycombinator.com/item?id=30592365</id>
+        <link href="https://news.ycombinator.com/item?id=30592365"/>
+        <updated>2022-03-07T19:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: U.S. worker receiving stock options from Canadian startup]]></summary>
+        <author>
+            <name>throwaway489322</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway489322</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技術性越強的Standup更新，隊友的生產力越低？]]></title>
         <id>https://news.ycombinator.com/item?id=30592880</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>2bor-2n</name>
             <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有了顛覆性的產品，對大技術有什麼期待的騷擾？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438538</id>
-        <link href="https://news.ycombinator.com/item?id=30438538"/>
-        <updated>2022-02-23T07:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: With a disruptive product, what sorta harassment to expect from bigtech?]]></summary>
-        <author>
-            <name>throwawayjohn</name>
-            <uri>https://news.ycombinator.com/user?id=throwawayjohn</uri>
         </author>
     </entry>
 </feed>
