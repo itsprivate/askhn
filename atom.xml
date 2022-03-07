@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T17:10:25.589Z</updated>
+    <updated>2022-03-07T17:38:34.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么开源硬件还不是一个东西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30590582</id>
+        <link href="https://news.ycombinator.com/item?id=30590582"/>
+        <updated>2022-03-07T17:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn’t open source hardware a thing yet?]]></summary>
+        <author>
+            <name>DaniDaniel5005</name>
+            <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在你的网站上使用Adsense吗？你是如何征求同意的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30590572</id>
+        <link href="https://news.ycombinator.com/item?id=30590572"/>
+        <updated>2022-03-07T17:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use Adsense on your websites? How do you ask for consent?]]></summary>
+        <author>
+            <name>FreeHugs</name>
+            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能减少对虫子的愧疚感？]]></title>
+        <id>https://news.ycombinator.com/item?id=30590045</id>
+        <link href="https://news.ycombinator.com/item?id=30590045"/>
+        <updated>2022-03-07T16:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I feel less guilty about bugs?]]></summary>
+        <author>
+            <name>askhnthrow74</name>
+            <uri>https://news.ycombinator.com/user?id=askhnthrow74</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，监测你的基础设施的最佳解决方案是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30590090</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>xwowsersx</name>
             <uri>https://news.ycombinator.com/user?id=xwowsersx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专利软件的文件名扩展名是否有法律限制？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438196</id>
-        <link href="https://news.ycombinator.com/item?id=30438196"/>
-        <updated>2022-02-23T06:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there legal limits for filename extensions for proprietary software?]]></summary>
-        <author>
-            <name>xerox13ster</name>
-            <uri>https://news.ycombinator.com/user?id=xerox13ster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作推荐的不可更改的记录？]]></title>
-        <id>https://news.ycombinator.com/item?id=30438103</id>
-        <link href="https://news.ycombinator.com/item?id=30438103"/>
-        <updated>2022-02-23T05:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Immutable Record for Job Referrals?]]></summary>
-        <author>
-            <name>pbmango</name>
-            <uri>https://news.ycombinator.com/user?id=pbmango</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你从哪里获得非技术新闻？]]></title>
-        <id>https://news.ycombinator.com/item?id=30437845</id>
-        <link href="https://news.ycombinator.com/item?id=30437845"/>
-        <updated>2022-02-23T04:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you get your non-tech news from?]]></summary>
-        <author>
-            <name>bonhasgone</name>
-            <uri>https://news.ycombinator.com/user?id=bonhasgone</uri>
         </author>
     </entry>
 </feed>
