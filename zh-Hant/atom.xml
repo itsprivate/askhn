@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T21:39:34.373Z</updated>
+    <updated>2022-03-07T21:54:49.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於大多數業餘愛好者來說，COMAL是為c64編程的最佳方式嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30593649</id>
+        <link href="https://news.ycombinator.com/item?id=30593649"/>
+        <updated>2022-03-07T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Was COMAL the best way to program the c64 for most hobbyists?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國工人從加拿大創業公司獲得股票期權]]></title>
         <id>https://news.ycombinator.com/item?id=30592365</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>smoqadam</name>
             <uri>https://news.ycombinator.com/user?id=smoqadam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[產品中太多的錯誤和功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30438598</id>
-        <link href="https://news.ycombinator.com/item?id=30438598"/>
-        <updated>2022-02-23T07:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Too many bugs vs. features in a product]]></summary>
-        <author>
-            <name>2bor-2n</name>
-            <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
         </author>
     </entry>
 </feed>
