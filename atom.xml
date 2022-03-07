@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-07T08:16:44.437Z</updated>
+    <updated>2022-03-07T09:33:29.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌会议的链接可以强制用火狐浏览器来操作吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30585763</id>
+        <link href="https://news.ycombinator.com/item?id=30585763"/>
+        <updated>2022-03-07T09:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can links for Google meet be forced to opet with Firefox?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[e-yuan如何处理线下交易？]]></title>
         <id>https://news.ycombinator.com/item?id=30585247</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>fractal618</name>
             <uri>https://news.ycombinator.com/user?id=fractal618</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何远程帮助我年迈的祖母？]]></title>
-        <id>https://news.ycombinator.com/item?id=30432517</id>
-        <link href="https://news.ycombinator.com/item?id=30432517"/>
-        <updated>2022-02-22T19:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I help my elderly grandmother remotely?]]></summary>
-        <author>
-            <name>emptysongglass</name>
-            <uri>https://news.ycombinator.com/user?id=emptysongglass</uri>
         </author>
     </entry>
 </feed>
