@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T12:55:51.552Z</updated>
+    <updated>2022-03-08T13:24:01.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你所知道的創新的最佳例子是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30599414</id>
+        <link href="https://news.ycombinator.com/item?id=30599414"/>
+        <updated>2022-03-08T13:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best examples of innovation you know?]]></summary>
+        <author>
+            <name>aj_nikhil</name>
+            <uri>https://news.ycombinator.com/user?id=aj_nikhil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何應對氣候變化引起的抑鬱症？]]></title>
         <id>https://news.ycombinator.com/item?id=30599247</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在Facebook的目標定位已經回到了2014年，你在做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30446030</id>
-        <link href="https://news.ycombinator.com/item?id=30446030"/>
-        <updated>2022-02-23T20:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are you doing now that Facebook’s targeting has gone back to 2014?]]></summary>
-        <author>
-            <name>hownottowrite</name>
-            <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
         </author>
     </entry>
 </feed>
