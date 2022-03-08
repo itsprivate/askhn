@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在我已经能够安装Linux了，该如何学习呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30598294</link>
+            <guid>https://news.ycombinator.com/item?id=30598294</guid>
+            <pubDate>Tue, 08 Mar 2022 10:02:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I learn Linux now that I was able to install it?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么世界没有吸取二战的教训？]]></title>
             <link>https://news.ycombinator.com/item?id=30598221</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30445302</guid>
             <pubDate>Wed, 23 Feb 2022 19:38:02 GMT</pubDate>
             <description><![CDATA[Ask HN: How to scale a multi tenant app that uses a db per tenant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一个单独的创始人，你如何克服动力不足的问题？]]></title>
-            <link>https://news.ycombinator.com/item?id=30445287</link>
-            <guid>https://news.ycombinator.com/item?id=30445287</guid>
-            <pubDate>Wed, 23 Feb 2022 19:36:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: How as a solo founder you overcome the demotivation?]]></description>
         </item>
     </channel>
 </rss>

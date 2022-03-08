@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T09:56:44.515Z</updated>
+    <updated>2022-03-08T10:13:53.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在我已经能够安装Linux了，该如何学习呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30598294</id>
+        <link href="https://news.ycombinator.com/item?id=30598294"/>
+        <updated>2022-03-08T10:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I learn Linux now that I was able to install it?]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么世界没有吸取二战的教训？]]></title>
         <id>https://news.ycombinator.com/item?id=30598221</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>aszen</name>
             <uri>https://news.ycombinator.com/user?id=aszen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个单独的创始人，你如何克服动力不足的问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30445287</id>
-        <link href="https://news.ycombinator.com/item?id=30445287"/>
-        <updated>2022-02-23T19:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How as a solo founder you overcome the demotivation?]]></summary>
-        <author>
-            <name>thescribbblr</name>
-            <uri>https://news.ycombinator.com/user?id=thescribbblr</uri>
         </author>
     </entry>
 </feed>
