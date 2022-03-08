@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 08 Mar 2022 10:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 11:38:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[烏克蘭的戰爭將如何影響網絡開發市場？]]></title>
+            <link>https://news.ycombinator.com/item?id=30598791</link>
+            <guid>https://news.ycombinator.com/item?id=30598791</guid>
+            <pubDate>Tue, 08 Mar 2022 11:31:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: How will war in Ukraine impact the web development market?]]></description>
+        </item>
         <item>
             <title><![CDATA[現在我已經能夠安裝Linux了，該如何學習呢？]]></title>
             <link>https://news.ycombinator.com/item?id=30598294</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30445310</guid>
             <pubDate>Wed, 23 Feb 2022 19:38:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Find developers to work on API back-engineering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何擴展一個多租戶應用程序，每個租戶使用一個數據庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30445302</link>
-            <guid>https://news.ycombinator.com/item?id=30445302</guid>
-            <pubDate>Wed, 23 Feb 2022 19:38:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to scale a multi tenant app that uses a db per tenant]]></description>
         </item>
     </channel>
 </rss>

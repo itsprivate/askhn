@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T10:13:54.049Z</updated>
+    <updated>2022-03-08T11:38:10.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的戰爭將如何影響網絡開發市場？]]></title>
+        <id>https://news.ycombinator.com/item?id=30598791</id>
+        <link href="https://news.ycombinator.com/item?id=30598791"/>
+        <updated>2022-03-08T11:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How will war in Ukraine impact the web development market?]]></summary>
+        <author>
+            <name>g0ran</name>
+            <uri>https://news.ycombinator.com/user?id=g0ran</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在我已經能夠安裝Linux了，該如何學習呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30598294</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>simonpurdon10</name>
             <uri>https://news.ycombinator.com/user?id=simonpurdon10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何擴展一個多租戶應用程序，每個租戶使用一個數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30445302</id>
-        <link href="https://news.ycombinator.com/item?id=30445302"/>
-        <updated>2022-02-23T19:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to scale a multi tenant app that uses a db per tenant]]></summary>
-        <author>
-            <name>aszen</name>
-            <uri>https://news.ycombinator.com/user?id=aszen</uri>
         </author>
     </entry>
 </feed>
