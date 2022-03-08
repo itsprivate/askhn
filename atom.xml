@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T17:09:31.094Z</updated>
+    <updated>2022-03-08T17:28:30.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Slack / Spotify现在在稍旧的浏览器中停止工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30602564</id>
+        <link href="https://news.ycombinator.com/item?id=30602564"/>
+        <updated>2022-03-08T17:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has Slack / Spotify now stopped working in slightly older browsers?]]></summary>
+        <author>
+            <name>imsky</name>
+            <uri>https://news.ycombinator.com/user?id=imsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[延迟返回办公室的政策？]]></title>
         <id>https://news.ycombinator.com/item?id=30602253</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cyberCleve</name>
             <uri>https://news.ycombinator.com/user?id=cyberCleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在不等待30天的情况下删除一个Facebook账户？]]></title>
-        <id>https://news.ycombinator.com/item?id=30450370</id>
-        <link href="https://news.ycombinator.com/item?id=30450370"/>
-        <updated>2022-02-24T04:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I delete a Facebook account without waiting 30 days?]]></summary>
-        <author>
-            <name>throwawaylksdjf</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaylksdjf</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 08 Mar 2022 17:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 17:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Slack / Spotify现在在稍旧的浏览器中停止工作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30602564</link>
+            <guid>https://news.ycombinator.com/item?id=30602564</guid>
+            <pubDate>Tue, 08 Mar 2022 17:20:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why has Slack / Spotify now stopped working in slightly older browsers?]]></description>
+        </item>
         <item>
             <title><![CDATA[延迟返回办公室的政策？]]></title>
             <link>https://news.ycombinator.com/item?id=30602253</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30450626</guid>
             <pubDate>Thu, 24 Feb 2022 05:17:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Is Russia taking down kyivpost.com?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在不等待30天的情况下删除一个Facebook账户？]]></title>
-            <link>https://news.ycombinator.com/item?id=30450370</link>
-            <guid>https://news.ycombinator.com/item?id=30450370</guid>
-            <pubDate>Thu, 24 Feb 2022 04:43:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I delete a Facebook account without waiting 30 days?]]></description>
         </item>
     </channel>
 </rss>
