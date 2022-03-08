@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T13:54:03.285Z</updated>
+    <updated>2022-03-08T14:13:07.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你和你的團隊使用哪些遠程工作工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=30599944</id>
+        <link href="https://news.ycombinator.com/item?id=30599944"/>
+        <updated>2022-03-08T14:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What remote work tools do you use with your team?]]></summary>
+        <author>
+            <name>Trystans</name>
+            <uri>https://news.ycombinator.com/user?id=Trystans</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[既然俄羅斯需要手機信號塔，為什麼烏克蘭不摧毀它們？]]></title>
         <id>https://news.ycombinator.com/item?id=30599728</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Mahn</name>
             <uri>https://news.ycombinator.com/user?id=Mahn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[閱讀和理解財務報告的課程/書籍/教程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30446693</id>
-        <link href="https://news.ycombinator.com/item?id=30446693"/>
-        <updated>2022-02-23T21:26:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Course/Book/Tutorial to read and understand financial reports?]]></summary>
-        <author>
-            <name>JamesAdir</name>
-            <uri>https://news.ycombinator.com/user?id=JamesAdir</uri>
         </author>
     </entry>
 </feed>
