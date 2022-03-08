@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T14:13:07.079Z</updated>
+    <updated>2022-03-08T15:17:25.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么某些网站的图片在我放大后会变小？]]></title>
+        <id>https://news.ycombinator.com/item?id=30600480</id>
+        <link href="https://news.ycombinator.com/item?id=30600480"/>
+        <updated>2022-03-08T14:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do certain websites' images get smaller when I zoom in?]]></summary>
+        <author>
+            <name>cphoover</name>
+            <uri>https://news.ycombinator.com/user?id=cphoover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你和你的团队使用哪些远程工作工具？]]></title>
         <id>https://news.ycombinator.com/item?id=30599944</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>stocktech</name>
             <uri>https://news.ycombinator.com/user?id=stocktech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit正在变得越来越笨吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30446727</id>
-        <link href="https://news.ycombinator.com/item?id=30446727"/>
-        <updated>2022-02-23T21:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Reddit Becoming Dumber?]]></summary>
-        <author>
-            <name>Mahn</name>
-            <uri>https://news.ycombinator.com/user?id=Mahn</uri>
         </author>
     </entry>
 </feed>
