@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T17:42:56.207Z</updated>
+    <updated>2022-03-08T18:18:26.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登重复使用 "盟国 "和核灾难的可能性]]></title>
+        <id>https://news.ycombinator.com/item?id=30603270</id>
+        <link href="https://news.ycombinator.com/item?id=30603270"/>
+        <updated>2022-03-08T18:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Biden repeated use of “Allies” and probability of nuke disaster]]></summary>
+        <author>
+            <name>unpopularpeace</name>
+            <uri>https://news.ycombinator.com/user?id=unpopularpeace</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核冬天会对全球变暖产生长期的影响吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30602793</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>fanick</name>
             <uri>https://news.ycombinator.com/user?id=fanick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你建议建造+使用什么键盘？]]></title>
-        <id>https://news.ycombinator.com/item?id=30451779</id>
-        <link href="https://news.ycombinator.com/item?id=30451779"/>
-        <updated>2022-02-24T07:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What keyboard do you recommend build+use?]]></summary>
-        <author>
-            <name>irjustin</name>
-            <uri>https://news.ycombinator.com/user?id=irjustin</uri>
         </author>
     </entry>
 </feed>
