@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 08 Mar 2022 11:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 12:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Linus Torvalds GitHub页面是一个骗局吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30598898</link>
+            <guid>https://news.ycombinator.com/item?id=30598898</guid>
+            <pubDate>Tue, 08 Mar 2022 11:48:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Linus Torvalds GitHub page a scam?]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰的战争将如何影响网络开发市场？]]></title>
             <link>https://news.ycombinator.com/item?id=30598791</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30445418</guid>
             <pubDate>Wed, 23 Feb 2022 19:45:23 GMT</pubDate>
             <description><![CDATA[Ask HN: I don't know text editing shortcuts. Should I learn Vim/Emacs/My IDE?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寻找开发人员来从事API的后方工程工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30445310</link>
-            <guid>https://news.ycombinator.com/item?id=30445310</guid>
-            <pubDate>Wed, 23 Feb 2022 19:38:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Find developers to work on API back-engineering]]></description>
         </item>
     </channel>
 </rss>
