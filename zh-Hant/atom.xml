@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T07:31:11.253Z</updated>
+    <updated>2022-03-08T07:54:05.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何人或事物預測到俄羅斯對烏克蘭的入侵？]]></title>
+        <id>https://news.ycombinator.com/item?id=30597498</id>
+        <link href="https://news.ycombinator.com/item?id=30597498"/>
+        <updated>2022-03-08T07:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did any one or any thing predict the Russian invasion of Ukraine?]]></summary>
+        <author>
+            <name>readonthegoapp</name>
+            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼瑪麗-米克爾自2019年以來沒有發表過互聯網趨勢報告]]></title>
         <id>https://news.ycombinator.com/item?id=30597270</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>melenaboija</name>
             <uri>https://news.ycombinator.com/user?id=melenaboija</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何處理親人的死亡問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30443218</id>
-        <link href="https://news.ycombinator.com/item?id=30443218"/>
-        <updated>2022-02-23T16:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to deal with death of a loved one]]></summary>
-        <author>
-            <name>alexitosrv</name>
-            <uri>https://news.ycombinator.com/user?id=alexitosrv</uri>
         </author>
     </entry>
 </feed>
