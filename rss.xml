@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 08:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有没有人设法从dockerhub删除信用卡信息？]]></title>
+            <link>https://news.ycombinator.com/item?id=30597695</link>
+            <guid>https://news.ycombinator.com/item?id=30597695</guid>
+            <pubDate>Tue, 08 Mar 2022 08:13:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has anyone managed to get credit card details removed from dockerhub?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有任何人或事物预测到俄罗斯对乌克兰的入侵？]]></title>
             <link>https://news.ycombinator.com/item?id=30597498</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30444170</guid>
             <pubDate>Wed, 23 Feb 2022 18:04:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Is Jekyll on GitHub a good solution for hosting a website?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有使用谷歌套件而不是MS Office的专业经验吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30443541</link>
-            <guid>https://news.ycombinator.com/item?id=30443541</guid>
-            <pubDate>Wed, 23 Feb 2022 17:20:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Experience with Google Suite Instead of MS Office Professionally?]]></description>
         </item>
     </channel>
 </rss>
