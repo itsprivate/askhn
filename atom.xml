@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T18:18:26.827Z</updated>
+    <updated>2022-03-08T18:43:09.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[动荡年 "的投资策略？]]></title>
+        <id>https://news.ycombinator.com/item?id=30603717</id>
+        <link href="https://news.ycombinator.com/item?id=30603717"/>
+        <updated>2022-03-08T18:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: 'volatile year' Investment Strategies?]]></summary>
+        <author>
+            <name>gentleman11</name>
+            <uri>https://news.ycombinator.com/user?id=gentleman11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登重复使用 "盟国 "和核灾难的可能性]]></title>
         <id>https://news.ycombinator.com/item?id=30603270</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ksajadi</name>
             <uri>https://news.ycombinator.com/user?id=ksajadi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果俄罗斯切断海底光缆怎么办？]]></title>
-        <id>https://news.ycombinator.com/item?id=30451806</id>
-        <link href="https://news.ycombinator.com/item?id=30451806"/>
-        <updated>2022-02-24T07:35:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What if Russia cuts undersea optic cables?]]></summary>
-        <author>
-            <name>fanick</name>
-            <uri>https://news.ycombinator.com/user?id=fanick</uri>
         </author>
     </entry>
 </feed>
