@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-08T12:19:38.391Z</updated>
+    <updated>2022-03-08T12:55:51.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何应对气候变化引起的抑郁症？]]></title>
+        <id>https://news.ycombinator.com/item?id=30599247</id>
+        <link href="https://news.ycombinator.com/item?id=30599247"/>
+        <updated>2022-03-08T12:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with Climate Change induced depression?]]></summary>
+        <author>
+            <name>amar-laksh</name>
+            <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linus Torvalds GitHub页面是一个骗局吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30598898</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hownottowrite</name>
             <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不知道文本编辑的快捷方式。我应该学习Vim/Emacs/My IDE吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30445418</id>
-        <link href="https://news.ycombinator.com/item?id=30445418"/>
-        <updated>2022-02-23T19:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I don't know text editing shortcuts. Should I learn Vim/Emacs/My IDE?]]></summary>
-        <author>
-            <name>skwee357</name>
-            <uri>https://news.ycombinator.com/user?id=skwee357</uri>
         </author>
     </entry>
 </feed>
