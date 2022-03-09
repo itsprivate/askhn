@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-09T11:32:29.935Z</updated>
+    <updated>2022-03-09T11:56:45.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Namecheap拒绝制止一个新奇的网络钓鱼骗局。请帮助]]></title>
+        <id>https://news.ycombinator.com/item?id=30603615</id>
+        <link href="https://news.ycombinator.com/item?id=30603615"/>
+        <updated>2022-03-08T18:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Namecheap is refusing to halt a novel phishing scam. Please Help]]></summary>
+        <author>
+            <name>throwawaykwt01</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaykwt01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[购买优质性玩具的建议]]></title>
         <id>https://news.ycombinator.com/item?id=30604960</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>dinamic</name>
             <uri>https://news.ycombinator.com/user?id=dinamic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁在乌克兰或俄罗斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30452117</id>
-        <link href="https://news.ycombinator.com/item?id=30452117"/>
-        <updated>2022-02-24T08:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anybody in Ukraine or Russia?]]></summary>
-        <author>
-            <name>sanqui</name>
-            <uri>https://news.ycombinator.com/user?id=sanqui</uri>
         </author>
     </entry>
 </feed>
