@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T21:34:51.183Z</updated>
+    <updated>2022-03-10T21:55:12.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[找到最小的一组流媒体供应商的服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=30632933</id>
+        <link href="https://news.ycombinator.com/item?id=30632933"/>
+        <updated>2022-03-10T21:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Service to find minimal set of streaming providers?]]></summary>
+        <author>
+            <name>rlewkov</name>
+            <uri>https://news.ycombinator.com/user?id=rlewkov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[粉碎俄罗斯的经济崩溃世界经济的机会有多大？]]></title>
         <id>https://news.ycombinator.com/item?id=30632669</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>digitcatphd</name>
             <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌不值得信任的综合证据？]]></title>
-        <id>https://news.ycombinator.com/item?id=30475318</id>
-        <link href="https://news.ycombinator.com/item?id=30475318"/>
-        <updated>2022-02-26T05:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Consolidated Evidence of Google's Untrustworthiness?]]></summary>
-        <author>
-            <name>canadaduane</name>
-            <uri>https://news.ycombinator.com/user?id=canadaduane</uri>
         </author>
     </entry>
 </feed>
