@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T17:48:21.303Z</updated>
+    <updated>2022-03-10T18:16:18.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的 "分析学 "职业是什么样子的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30630065</id>
+        <link href="https://news.ycombinator.com/item?id=30630065"/>
+        <updated>2022-03-10T17:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does a career in 'analytics' look like in 2022?]]></summary>
+        <author>
+            <name>mattcristal</name>
+            <uri>https://news.ycombinator.com/user?id=mattcristal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在安卓上如何利用Dirty Pipe的漏洞？]]></title>
         <id>https://news.ycombinator.com/item?id=30629680</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>axiosgunnar</name>
             <uri>https://news.ycombinator.com/user?id=axiosgunnar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在启示录中保持技术运行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30471557</id>
-        <link href="https://news.ycombinator.com/item?id=30471557"/>
-        <updated>2022-02-25T19:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to keep tech running in the apocalypse?]]></summary>
-        <author>
-            <name>armagon</name>
-            <uri>https://news.ycombinator.com/user?id=armagon</uri>
         </author>
     </entry>
 </feed>
