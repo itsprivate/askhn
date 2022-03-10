@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T21:16:26.610Z</updated>
+    <updated>2022-03-10T21:34:51.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[粉碎俄罗斯的经济崩溃世界经济的机会有多大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30632669</id>
+        <link href="https://news.ycombinator.com/item?id=30632669"/>
+        <updated>2022-03-10T21:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the chance of crushing Russia's economy collapsing world economy?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的项目维护者--哪些项目处于危险之中？]]></title>
         <id>https://news.ycombinator.com/item?id=30632453</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>canadaduane</name>
             <uri>https://news.ycombinator.com/user?id=canadaduane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为早期创业公司的创始人/CEO/CTO获得绿卡]]></title>
-        <id>https://news.ycombinator.com/item?id=30474792</id>
-        <link href="https://news.ycombinator.com/item?id=30474792"/>
-        <updated>2022-02-26T02:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Green Card as a founder/CEO/CTO of early stage startup]]></summary>
-        <author>
-            <name>coolmints</name>
-            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
         </author>
     </entry>
 </feed>
