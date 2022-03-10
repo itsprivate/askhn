@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Mar 2022 17:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 17:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在安卓上如何利用Dirty Pipe的漏洞？]]></title>
+            <link>https://news.ycombinator.com/item?id=30629680</link>
+            <guid>https://news.ycombinator.com/item?id=30629680</guid>
+            <pubDate>Thu, 10 Mar 2022 17:32:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: How would the Dirty Pipe vulnerability be exploited on Android?]]></description>
+        </item>
         <item>
             <title><![CDATA[为员工提供的基本网络安全的最佳指南是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30629236</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30471557</guid>
             <pubDate>Fri, 25 Feb 2022 19:52:20 GMT</pubDate>
             <description><![CDATA[Ask HN: How to keep tech running in the apocalypse?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否以 "通过 "的方式审查代码？]]></title>
-            <link>https://news.ycombinator.com/item?id=30471497</link>
-            <guid>https://news.ycombinator.com/item?id=30471497</guid>
-            <pubDate>Fri, 25 Feb 2022 19:48:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you review code in “passes”?]]></description>
         </item>
     </channel>
 </rss>
