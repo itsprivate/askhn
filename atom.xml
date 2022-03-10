@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T20:17:14.137Z</updated>
+    <updated>2022-03-10T20:38:22.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何快速地将系统草图和二维图解制成动画？]]></title>
+        <id>https://news.ycombinator.com/item?id=30631993</id>
+        <link href="https://news.ycombinator.com/item?id=30631993"/>
+        <updated>2022-03-10T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to quickly animate system sketches and 2D diagrams?]]></summary>
+        <author>
+            <name>pbowyer</name>
+            <uri>https://news.ycombinator.com/user?id=pbowyer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有任何计算机架构可以与冯-诺伊曼的竞争？]]></title>
+        <id>https://news.ycombinator.com/item?id=30631879</id>
+        <link href="https://news.ycombinator.com/item?id=30631879"/>
+        <updated>2022-03-10T20:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are any computer architecture out there to compete with VonNeumann's?]]></summary>
+        <author>
+            <name>iamdvlpr</name>
+            <uri>https://news.ycombinator.com/user?id=iamdvlpr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在通货膨胀是一种风险，我们该如何处理现金？]]></title>
         <id>https://news.ycombinator.com/item?id=30631642</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>laurex</name>
             <uri>https://news.ycombinator.com/user?id=laurex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独立开发者跳过代码审查是因为它不好玩吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30473383</id>
-        <link href="https://news.ycombinator.com/item?id=30473383"/>
-        <updated>2022-02-25T22:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do indie devs skip code review because it is not fun?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么经过科学验证的提高注意力的技巧吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30473322</id>
-        <link href="https://news.ycombinator.com/item?id=30473322"/>
-        <updated>2022-02-25T22:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any scientifically proven techniques to boost concentration?]]></summary>
-        <author>
-            <name>amznbyebyebye</name>
-            <uri>https://news.ycombinator.com/user?id=amznbyebyebye</uri>
         </author>
     </entry>
 </feed>
