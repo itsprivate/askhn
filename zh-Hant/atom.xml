@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T09:35:45.110Z</updated>
+    <updated>2022-03-10T09:54:55.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Is There a CNN .Onion Instance?]]></title>
+        <id>https://news.ycombinator.com/item?id=30625023</id>
+        <link href="https://news.ycombinator.com/item?id=30625023"/>
+        <updated>2022-03-10T09:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Is There a CNN .Onion Instance?]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to think machine learning like a scientist?]]></title>
         <id>https://news.ycombinator.com/item?id=30623961</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於向C#過渡的建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30467742</id>
-        <link href="https://news.ycombinator.com/item?id=30467742"/>
-        <updated>2022-02-25T14:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice on Transitioning to C#?]]></summary>
-        <author>
-            <name>smorgusofborg</name>
-            <uri>https://news.ycombinator.com/user?id=smorgusofborg</uri>
         </author>
     </entry>
 </feed>
