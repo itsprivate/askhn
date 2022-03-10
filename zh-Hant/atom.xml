@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-10T19:14:06.998Z</updated>
+    <updated>2022-03-10T19:41:03.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有更多的第三方視網膜屏幕？]]></title>
+        <id>https://news.ycombinator.com/item?id=30631288</id>
+        <link href="https://news.ycombinator.com/item?id=30631288"/>
+        <updated>2022-03-10T19:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren’t there more third party retina screens?]]></summary>
+        <author>
+            <name>fideloper</name>
+            <uri>https://news.ycombinator.com/user?id=fideloper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創始工程師的工資是多少？]]></title>
         <id>https://news.ycombinator.com/item?id=30630980</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>securityquest</name>
             <uri>https://news.ycombinator.com/user?id=securityquest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個開發商，如何準備應對重大的經濟衰退？]]></title>
-        <id>https://news.ycombinator.com/item?id=30472247</id>
-        <link href="https://news.ycombinator.com/item?id=30472247"/>
-        <updated>2022-02-25T20:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to prepare for a major downturn as a developer?]]></summary>
-        <author>
-            <name>MagicAndi</name>
-            <uri>https://news.ycombinator.com/user?id=MagicAndi</uri>
         </author>
     </entry>
 </feed>

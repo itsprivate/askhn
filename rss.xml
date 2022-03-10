@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 10 Mar 2022 19:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 19:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么没有更多的第三方视网膜屏幕？]]></title>
+            <link>https://news.ycombinator.com/item?id=30631288</link>
+            <guid>https://news.ycombinator.com/item?id=30631288</guid>
+            <pubDate>Thu, 10 Mar 2022 19:26:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why aren’t there more third party retina screens?]]></description>
+        </item>
         <item>
             <title><![CDATA[创始工程师的工资是多少？]]></title>
             <link>https://news.ycombinator.com/item?id=30630980</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30472344</guid>
             <pubDate>Fri, 25 Feb 2022 21:01:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Best practice for storing API keys securely in a B2B SaaS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一个开发商，如何准备应对重大的经济衰退？]]></title>
-            <link>https://news.ycombinator.com/item?id=30472247</link>
-            <guid>https://news.ycombinator.com/item?id=30472247</guid>
-            <pubDate>Fri, 25 Feb 2022 20:54:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to prepare for a major downturn as a developer?]]></description>
         </item>
     </channel>
 </rss>
