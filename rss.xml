@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Mar 2022 16:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中立的DNS服务器？]]></title>
+            <link>https://news.ycombinator.com/item?id=30642577</link>
+            <guid>https://news.ycombinator.com/item?id=30642577</guid>
+            <pubDate>Fri, 11 Mar 2022 17:04:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: Neutral DNS Servers?]]></description>
+        </item>
         <item>
             <title><![CDATA[帮助我们解决API服务条款的可读性警告问题]]></title>
             <link>https://news.ycombinator.com/item?id=30642176</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30481900</guid>
             <pubDate>Sat, 26 Feb 2022 20:58:41 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some books to fuel your ambition towards computer science?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Turing.com和Toptal。合法吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30481341</link>
-            <guid>https://news.ycombinator.com/item?id=30481341</guid>
-            <pubDate>Sat, 26 Feb 2022 20:06:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Turing.com and Toptal. Legit?]]></description>
         </item>
     </channel>
 </rss>
