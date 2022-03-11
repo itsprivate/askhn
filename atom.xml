@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T18:40:42.435Z</updated>
+    <updated>2022-03-11T19:12:01.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌图书是否限制了书内搜索？]]></title>
+        <id>https://news.ycombinator.com/item?id=30644547</id>
+        <link href="https://news.ycombinator.com/item?id=30644547"/>
+        <updated>2022-03-11T19:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has Google Books restricted in-book search?]]></summary>
+        <author>
+            <name>gxqoz</name>
+            <uri>https://news.ycombinator.com/user?id=gxqoz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不对串音进行静音处理的视频聊天应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30643705</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>dezmou</name>
             <uri>https://news.ycombinator.com/user?id=dezmou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook的元空间想法会不会和谷歌眼镜有同样的命运？]]></title>
-        <id>https://news.ycombinator.com/item?id=30482152</id>
-        <link href="https://news.ycombinator.com/item?id=30482152"/>
-        <updated>2022-02-26T21:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will Facebook's metaverse idea have the same fate as Google glass?]]></summary>
-        <author>
-            <name>richardbarosky</name>
-            <uri>https://news.ycombinator.com/user?id=richardbarosky</uri>
         </author>
     </entry>
 </feed>
