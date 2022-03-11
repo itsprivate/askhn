@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T16:16:44.463Z</updated>
+    <updated>2022-03-11T16:52:14.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助我們解決API服務條款的可讀性警告問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30642176</id>
+        <link href="https://news.ycombinator.com/item?id=30642176"/>
+        <updated>2022-03-11T16:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Help us solve API Terms of service warnings readability]]></summary>
+        <author>
+            <name>midhem</name>
+            <uri>https://news.ycombinator.com/user?id=midhem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Web的更新是否保持了端到端的加密？如何保持？]]></title>
+        <id>https://news.ycombinator.com/item?id=30642045</id>
+        <link href="https://news.ycombinator.com/item?id=30642045"/>
+        <updated>2022-03-11T16:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does the update to WhatsApp Web maintain end to end encryption? How?]]></summary>
+        <author>
+            <name>mijoharas</name>
+            <uri>https://news.ycombinator.com/user?id=mijoharas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的公司應該如何發佈其開發者博客？]]></title>
+        <id>https://news.ycombinator.com/item?id=30641710</id>
+        <link href="https://news.ycombinator.com/item?id=30641710"/>
+        <updated>2022-03-11T16:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should my company publish its developer blog?]]></summary>
+        <author>
+            <name>brundolf</name>
+            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我們評估好/壞的象徵性白皮書，前三點是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30641462</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>OulaX</name>
             <uri>https://news.ycombinator.com/user?id=OulaX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該為當地的親和團體使用什麼信息傳遞工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30481111</id>
-        <link href="https://news.ycombinator.com/item?id=30481111"/>
-        <updated>2022-02-26T19:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What messaging tool should I use for a local affinity group?]]></summary>
-        <author>
-            <name>subpixel</name>
-            <uri>https://news.ycombinator.com/user?id=subpixel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼迪士尼不收購樂高？]]></title>
-        <id>https://news.ycombinator.com/item?id=30480903</id>
-        <link href="https://news.ycombinator.com/item?id=30480903"/>
-        <updated>2022-02-26T19:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why doesn't Disney buy Lego?]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe訂閱與Chargebee？選擇什麼，為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30480864</id>
-        <link href="https://news.ycombinator.com/item?id=30480864"/>
-        <updated>2022-02-26T19:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Stripe subscription vs. chargebee? What to choose and why?]]></summary>
-        <author>
-            <name>zaphodq42</name>
-            <uri>https://news.ycombinator.com/user?id=zaphodq42</uri>
         </author>
     </entry>
 </feed>

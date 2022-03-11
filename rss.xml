@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Mar 2022 16:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 16:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帮助我们解决API服务条款的可读性警告问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30642176</link>
+            <guid>https://news.ycombinator.com/item?id=30642176</guid>
+            <pubDate>Fri, 11 Mar 2022 16:42:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Help us solve API Terms of service warnings readability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp Web的更新是否保持了端到端的加密？如何保持？]]></title>
+            <link>https://news.ycombinator.com/item?id=30642045</link>
+            <guid>https://news.ycombinator.com/item?id=30642045</guid>
+            <pubDate>Fri, 11 Mar 2022 16:34:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does the update to WhatsApp Web maintain end to end encryption? How?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的公司应该如何发布其开发者博客？]]></title>
+            <link>https://news.ycombinator.com/item?id=30641710</link>
+            <guid>https://news.ycombinator.com/item?id=30641710</guid>
+            <pubDate>Fri, 11 Mar 2022 16:16:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: How should my company publish its developer blog?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果我们评估好/坏的象征性白皮书，前三点是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30641462</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30481341</guid>
             <pubDate>Sat, 26 Feb 2022 20:06:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Turing.com and Toptal. Legit?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我应该为当地的亲和团体使用什么信息传递工具？]]></title>
-            <link>https://news.ycombinator.com/item?id=30481111</link>
-            <guid>https://news.ycombinator.com/item?id=30481111</guid>
-            <pubDate>Sat, 26 Feb 2022 19:44:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: What messaging tool should I use for a local affinity group?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么迪士尼不收购乐高？]]></title>
-            <link>https://news.ycombinator.com/item?id=30480903</link>
-            <guid>https://news.ycombinator.com/item?id=30480903</guid>
-            <pubDate>Sat, 26 Feb 2022 19:26:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why doesn't Disney buy Lego?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stripe订阅与Chargebee？选择什么，为什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30480864</link>
-            <guid>https://news.ycombinator.com/item?id=30480864</guid>
-            <pubDate>Sat, 26 Feb 2022 19:23:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: Stripe subscription vs. chargebee? What to choose and why?]]></description>
         </item>
     </channel>
 </rss>
