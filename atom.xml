@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T22:42:56.686Z</updated>
+    <updated>2022-03-11T22:52:11.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn上优秀的 "关于 "部分的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30647034</id>
+        <link href="https://news.ycombinator.com/item?id=30647034"/>
+        <updated>2022-03-11T22:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of great About sections on LinkedIn?]]></summary>
+        <author>
+            <name>ammar_x</name>
+            <uri>https://news.ycombinator.com/user?id=ammar_x</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[给极客物理学家的书籍推荐？]]></title>
         <id>https://news.ycombinator.com/item?id=30646889</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>_appub</name>
             <uri>https://news.ycombinator.com/user?id=_appub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在数学和/或CS方面对你有帮助的那本书]]></title>
-        <id>https://news.ycombinator.com/item?id=30485544</id>
-        <link href="https://news.ycombinator.com/item?id=30485544"/>
-        <updated>2022-02-27T04:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: The book that did it for you in Math and/or CS]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
