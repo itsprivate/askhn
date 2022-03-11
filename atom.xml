@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T22:15:32.652Z</updated>
+    <updated>2022-03-11T22:42:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给极客物理学家的书籍推荐？]]></title>
+        <id>https://news.ycombinator.com/item?id=30646889</id>
+        <link href="https://news.ycombinator.com/item?id=30646889"/>
+        <updated>2022-03-11T22:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Books Recommendations for a Geek Physicist?]]></summary>
+        <author>
+            <name>BrandoElFollito</name>
+            <uri>https://news.ycombinator.com/user?id=BrandoElFollito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你什么时候告诉雇主离开（归属悬崖）？]]></title>
         <id>https://news.ycombinator.com/item?id=30646461</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年发生核战争的可能性有多大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30484781</id>
-        <link href="https://news.ycombinator.com/item?id=30484781"/>
-        <updated>2022-02-27T02:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the likelihood of nuclear war in 2022?]]></summary>
-        <author>
-            <name>RomanPushkin</name>
-            <uri>https://news.ycombinator.com/user?id=RomanPushkin</uri>
         </author>
     </entry>
 </feed>
