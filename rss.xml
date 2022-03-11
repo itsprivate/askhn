@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 11 Mar 2022 18:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 18:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不对串音进行静音处理的视频聊天应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30643705</link>
+            <guid>https://news.ycombinator.com/item?id=30643705</guid>
+            <pubDate>Fri, 11 Mar 2022 18:11:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Video chat apps that don't mute crosstalk]]></description>
+        </item>
         <item>
             <title><![CDATA[HN现在是一个政治平台吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30643673</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30482152</guid>
             <pubDate>Sat, 26 Feb 2022 21:30:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Will Facebook's metaverse idea have the same fate as Google glass?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么你要用一种小众语言为你的爱好项目编程？]]></title>
-            <link>https://news.ycombinator.com/item?id=30482060</link>
-            <guid>https://news.ycombinator.com/item?id=30482060</guid>
-            <pubDate>Sat, 26 Feb 2022 21:17:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why are you programming your hobby projects in a niche language?]]></description>
         </item>
     </channel>
 </rss>
