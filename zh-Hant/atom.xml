@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T20:51:57.360Z</updated>
+    <updated>2022-03-11T21:13:37.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[接受系統工程師的工作是否會讓你更難得到SWE的工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30646015</id>
+        <link href="https://news.ycombinator.com/item?id=30646015"/>
+        <updated>2022-03-11T21:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will accepting a systems engineer job make it harder to get a SWE one?]]></summary>
+        <author>
+            <name>propsyseng</name>
+            <uri>https://news.ycombinator.com/user?id=propsyseng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的主頁/起始頁是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30645793</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bryan_cooper</name>
             <uri>https://news.ycombinator.com/user?id=bryan_cooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡戰聽起來是不是比實際情況更糟糕？是否應該創造另一個術語？]]></title>
-        <id>https://news.ycombinator.com/item?id=30483346</id>
-        <link href="https://news.ycombinator.com/item?id=30483346"/>
-        <updated>2022-02-26T23:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does cyberwarfare sound worse than it is? Should another term be coined?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
