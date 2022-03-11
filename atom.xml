@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T17:54:04.276Z</updated>
+    <updated>2022-03-11T18:17:09.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN现在是一个政治平台吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30643673</id>
+        <link href="https://news.ycombinator.com/item?id=30643673"/>
+        <updated>2022-03-11T18:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is HN now a political platform?]]></summary>
+        <author>
+            <name>snird</name>
+            <uri>https://news.ycombinator.com/user?id=snird</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[难道不应该是hnmain { min-width: 720px; }？]]></title>
         <id>https://news.ycombinator.com/item?id=30643273</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Decabytes</name>
             <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰平民战斗人员的城市战争手册]]></title>
-        <id>https://news.ycombinator.com/item?id=30481969</id>
-        <link href="https://news.ycombinator.com/item?id=30481969"/>
-        <updated>2022-02-26T21:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Urban warfare manual for Ukranian civilian combatants]]></summary>
-        <author>
-            <name>pr8dan</name>
-            <uri>https://news.ycombinator.com/user?id=pr8dan</uri>
         </author>
     </entry>
 </feed>
