@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T21:37:59.376Z</updated>
+    <updated>2022-03-11T22:15:32.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你什么时候告诉雇主离开（归属悬崖）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30646461</id>
+        <link href="https://news.ycombinator.com/item?id=30646461"/>
+        <updated>2022-03-11T21:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When did you tell employer leaving (vesting cliff)?]]></summary>
+        <author>
+            <name>throw_vesting</name>
+            <uri>https://news.ycombinator.com/user?id=throw_vesting</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有提醒功能的开源自我托管任务管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30646442</id>
+        <link href="https://news.ycombinator.com/item?id=30646442"/>
+        <updated>2022-03-11T21:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Open-source self hosted task manager with reminders]]></summary>
+        <author>
+            <name>bedros</name>
+            <uri>https://news.ycombinator.com/user?id=bedros</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid-19发生了什么事？]]></title>
         <id>https://news.ycombinator.com/item?id=30646237</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>RomanPushkin</name>
             <uri>https://news.ycombinator.com/user?id=RomanPushkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么网站上的字体这么小？]]></title>
-        <id>https://news.ycombinator.com/item?id=30484656</id>
-        <link href="https://news.ycombinator.com/item?id=30484656"/>
-        <updated>2022-02-27T02:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are fonts on websites so small?]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能切断俄罗斯的互联网吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30484009</id>
-        <link href="https://news.ycombinator.com/item?id=30484009"/>
-        <updated>2022-02-27T00:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to cut Russia off the internet?]]></summary>
-        <author>
-            <name>Yuioup</name>
-            <uri>https://news.ycombinator.com/user?id=Yuioup</uri>
         </author>
     </entry>
 </feed>
