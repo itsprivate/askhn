@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T14:31:33.546Z</updated>
+    <updated>2022-03-11T15:15:00.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能為技術員找到一個新的國家？]]></title>
+        <id>https://news.ycombinator.com/item?id=30640697</id>
+        <link href="https://news.ycombinator.com/item?id=30640697"/>
+        <updated>2022-03-11T14:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I found a new country for technologists?]]></summary>
+        <author>
+            <name>RichardHeart</name>
+            <uri>https://news.ycombinator.com/user?id=RichardHeart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo和Firefox的替代品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30635011</id>
+        <link href="https://news.ycombinator.com/item?id=30635011"/>
+        <updated>2022-03-11T01:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to DuckDuckGo and Firefox?]]></summary>
+        <author>
+            <name>kradeelav</name>
+            <uri>https://news.ycombinator.com/user?id=kradeelav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在新西蘭生活的經驗？]]></title>
         <id>https://news.ycombinator.com/item?id=30640273</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>acadapter</name>
             <uri>https://news.ycombinator.com/user?id=acadapter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭不能向歐盟暫時出租/出售邊境土地]]></title>
-        <id>https://news.ycombinator.com/item?id=30480445</id>
-        <link href="https://news.ycombinator.com/item?id=30480445"/>
-        <updated>2022-02-26T18:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can't Ukraine lease/sell border land to EU temporarily]]></summary>
-        <author>
-            <name>templarchamp</name>
-            <uri>https://news.ycombinator.com/user?id=templarchamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我們將供暖溫度降低3°，我們在歐盟可以節省多少天然氣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30479688</id>
-        <link href="https://news.ycombinator.com/item?id=30479688"/>
-        <updated>2022-02-26T17:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much gas we could save in EU if we reduce our heating temp by 3°?]]></summary>
-        <author>
-            <name>ciccionamente</name>
-            <uri>https://news.ycombinator.com/user?id=ciccionamente</uri>
         </author>
     </entry>
 </feed>
