@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T19:12:02.040Z</updated>
+    <updated>2022-03-11T19:27:30.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何找到親自參加的會議？]]></title>
+        <id>https://news.ycombinator.com/item?id=30644748</id>
+        <link href="https://news.ycombinator.com/item?id=30644748"/>
+        <updated>2022-03-11T19:21:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Find in Person Conferences?]]></summary>
+        <author>
+            <name>hahnchen</name>
+            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌圖書是否限制了書內搜索？]]></title>
         <id>https://news.ycombinator.com/item?id=30644547</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>zaptheimpaler</name>
             <uri>https://news.ycombinator.com/user?id=zaptheimpaler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock會隱藏你的Gmail內容嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30482238</id>
-        <link href="https://news.ycombinator.com/item?id=30482238"/>
-        <updated>2022-02-26T21:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does uBlock hide the content of your Gmail?]]></summary>
-        <author>
-            <name>dezmou</name>
-            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
         </author>
     </entry>
 </feed>
