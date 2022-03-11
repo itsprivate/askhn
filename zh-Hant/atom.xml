@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-11T21:13:37.332Z</updated>
+    <updated>2022-03-11T21:37:59.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Covid-19發生了什麼事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30646237</id>
+        <link href="https://news.ycombinator.com/item?id=30646237"/>
+        <updated>2022-03-11T21:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Covid-19?]]></summary>
+        <author>
+            <name>html5web</name>
+            <uri>https://news.ycombinator.com/user?id=html5web</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接受系統工程師的工作是否會讓你更難得到SWE的工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30646015</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Yuioup</name>
             <uri>https://news.ycombinator.com/user?id=Yuioup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的前端和後端團隊的合作情況如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30483662</id>
-        <link href="https://news.ycombinator.com/item?id=30483662"/>
-        <updated>2022-02-27T00:12:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How well do your front end and back end teams work together?]]></summary>
-        <author>
-            <name>bryan_cooper</name>
-            <uri>https://news.ycombinator.com/user?id=bryan_cooper</uri>
         </author>
     </entry>
 </feed>
