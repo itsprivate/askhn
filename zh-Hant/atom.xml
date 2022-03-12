@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T01:51:17.755Z</updated>
+    <updated>2022-03-12T02:29:20.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什麼電子郵件過濾器來處理創始人的垃圾郵件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30648287</id>
+        <link href="https://news.ycombinator.com/item?id=30648287"/>
+        <updated>2022-03-12T02:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What email filters do you use for founder-spam?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼西方自信幫助烏克蘭不會引發第三次世界大戰？]]></title>
         <id>https://news.ycombinator.com/item?id=30648124</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>minaminaminami</name>
             <uri>https://news.ycombinator.com/user?id=minaminaminami</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主權債務發行人會不會使俄羅斯的儲備變得毫無價值？]]></title>
-        <id>https://news.ycombinator.com/item?id=30486077</id>
-        <link href="https://news.ycombinator.com/item?id=30486077"/>
-        <updated>2022-02-27T07:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could sovereign debt issuers render Russian reserves worthless?]]></summary>
-        <author>
-            <name>asplake</name>
-            <uri>https://news.ycombinator.com/user?id=asplake</uri>
         </author>
     </entry>
 </feed>
