@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T09:30:30.118Z</updated>
+    <updated>2022-03-12T11:11:44.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用ActionText與Trix編輯器的網站的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30650546</id>
+        <link href="https://news.ycombinator.com/item?id=30650546"/>
+        <updated>2022-03-12T10:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of sites that use ActionText with Trix editor?]]></summary>
+        <author>
+            <name>nomilk</name>
+            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有了SSH的VS Code，為什麼還要用Vim？]]></title>
         <id>https://news.ycombinator.com/item?id=30650119</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>indianmouse</name>
             <uri>https://news.ycombinator.com/user?id=indianmouse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有關於Tor的物理實現的良好描述？]]></title>
-        <id>https://news.ycombinator.com/item?id=30486998</id>
-        <link href="https://news.ycombinator.com/item?id=30486998"/>
-        <updated>2022-02-27T10:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a good description of a physical implementation of Tor]]></summary>
-        <author>
-            <name>TheMightyLlama</name>
-            <uri>https://news.ycombinator.com/user?id=TheMightyLlama</uri>
         </author>
     </entry>
 </feed>
