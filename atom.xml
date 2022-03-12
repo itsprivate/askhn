@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T20:51:35.100Z</updated>
+    <updated>2022-03-12T21:52:01.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在就在背景中播放现场直播？]]></title>
+        <id>https://news.ycombinator.com/item?id=30655187</id>
+        <link href="https://news.ycombinator.com/item?id=30655187"/>
+        <updated>2022-03-12T21:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Live feeds to play in the background right now?]]></summary>
+        <author>
+            <name>2bitlobster</name>
+            <uri>https://news.ycombinator.com/user?id=2bitlobster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影子禁制是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30655096</id>
+        <link href="https://news.ycombinator.com/item?id=30655096"/>
+        <updated>2022-03-12T21:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Does Shadowbanning Work?]]></summary>
+        <author>
+            <name>newbie789_rereg</name>
+            <uri>https://news.ycombinator.com/user?id=newbie789_rereg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写作软件--是无聊还是我无聊？]]></title>
         <id>https://news.ycombinator.com/item?id=30654719</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>FailMore</name>
             <uri>https://news.ycombinator.com/user?id=FailMore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰大使馆能否为美国黑客加入网络战线提供便利？]]></title>
-        <id>https://news.ycombinator.com/item?id=30488722</id>
-        <link href="https://news.ycombinator.com/item?id=30488722"/>
-        <updated>2022-02-27T14:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could Ukrainian embassies facilitate US hackers to join the cyber front?]]></summary>
-        <author>
-            <name>puglr</name>
-            <uri>https://news.ycombinator.com/user?id=puglr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么不针对俄罗斯的寡头？]]></title>
-        <id>https://news.ycombinator.com/item?id=30488226</id>
-        <link href="https://news.ycombinator.com/item?id=30488226"/>
-        <updated>2022-02-27T13:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why not target the Russian oligarchs?]]></summary>
-        <author>
-            <name>Guessnotgauss</name>
-            <uri>https://news.ycombinator.com/user?id=Guessnotgauss</uri>
         </author>
     </entry>
 </feed>
