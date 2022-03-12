@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T08:14:22.608Z</updated>
+    <updated>2022-03-12T08:36:09.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何擴展允許人們在網頁上與他人聊天？]]></title>
+        <id>https://news.ycombinator.com/item?id=30649854</id>
+        <link href="https://news.ycombinator.com/item?id=30649854"/>
+        <updated>2022-03-12T08:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any extensions that allow one to chat with others on web page?]]></summary>
+        <author>
+            <name>guerrilla</name>
+            <uri>https://news.ycombinator.com/user?id=guerrilla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT是唯一一個國際的、不與美國結盟的電視臺，有什麼意義嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30649839</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ed_balls</name>
             <uri>https://news.ycombinator.com/user?id=ed_balls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鑑於SPFS，俄羅斯會關心SWIFT嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30486421</id>
-        <link href="https://news.ycombinator.com/item?id=30486421"/>
-        <updated>2022-02-27T08:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Given SPFS, would Russia care about SWIFT?]]></summary>
-        <author>
-            <name>mellifluousbox</name>
-            <uri>https://news.ycombinator.com/user?id=mellifluousbox</uri>
         </author>
     </entry>
 </feed>
