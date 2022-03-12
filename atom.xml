@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T02:29:20.387Z</updated>
+    <updated>2022-03-12T07:37:34.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[版权律师的无偿建议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30649692</id>
+        <link href="https://news.ycombinator.com/item?id=30649692"/>
+        <updated>2022-03-12T07:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Pro bono advice from copyright lawyer?]]></summary>
+        <author>
+            <name>belousovdmn</name>
+            <uri>https://news.ycombinator.com/user?id=belousovdmn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什么电子邮件过滤器来处理创始人的垃圾邮件？]]></title>
         <id>https://news.ycombinator.com/item?id=30648287</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rubenbe</name>
             <uri>https://news.ycombinator.com/user?id=rubenbe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对生活在国外的俄罗斯国民施加多大的压力是合适的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30486111</id>
-        <link href="https://news.ycombinator.com/item?id=30486111"/>
-        <updated>2022-02-27T07:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much pressure on Russian nationals living abroad is appropriate?]]></summary>
-        <author>
-            <name>minaminaminami</name>
-            <uri>https://news.ycombinator.com/user?id=minaminaminami</uri>
         </author>
     </entry>
 </feed>
