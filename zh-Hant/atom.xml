@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T21:52:01.189Z</updated>
+    <updated>2022-03-12T22:31:18.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在俄羅斯應該使用哪個VPN供應商？]]></title>
+        <id>https://news.ycombinator.com/item?id=30655516</id>
+        <link href="https://news.ycombinator.com/item?id=30655516"/>
+        <updated>2022-03-12T22:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which VPN provider should one use from Russia?]]></summary>
+        <author>
+            <name>faebi</name>
+            <uri>https://news.ycombinator.com/user?id=faebi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在就在背景中播放現場直播？]]></title>
         <id>https://news.ycombinator.com/item?id=30655187</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tuangeek</name>
             <uri>https://news.ycombinator.com/user?id=tuangeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要求被採訪者討論Apache Kafka]]></title>
-        <id>https://news.ycombinator.com/item?id=30488850</id>
-        <link href="https://news.ycombinator.com/item?id=30488850"/>
-        <updated>2022-02-27T14:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Request for interviewee to discuss Apache Kafka]]></summary>
-        <author>
-            <name>FailMore</name>
-            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
         </author>
     </entry>
 </feed>
