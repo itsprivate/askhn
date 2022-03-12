@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T08:36:09.041Z</updated>
+    <updated>2022-03-12T09:30:30.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有了SSH的VS Code，为什么还要用Vim？]]></title>
+        <id>https://news.ycombinator.com/item?id=30650119</id>
+        <link href="https://news.ycombinator.com/item?id=30650119"/>
+        <updated>2022-03-12T09:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Vim when you can VS Code with SSH?]]></summary>
+        <author>
+            <name>p0d</name>
+            <uri>https://news.ycombinator.com/user?id=p0d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何扩展允许人们在网页上与他人聊天？]]></title>
         <id>https://news.ycombinator.com/item?id=30649854</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>TheMightyLlama</name>
             <uri>https://news.ycombinator.com/user?id=TheMightyLlama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一份俄罗斯寡头拥有的企业名单/地图？]]></title>
-        <id>https://news.ycombinator.com/item?id=30486851</id>
-        <link href="https://news.ycombinator.com/item?id=30486851"/>
-        <updated>2022-02-27T10:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a list/map of business owned by Russian oligarchs?]]></summary>
-        <author>
-            <name>ed_balls</name>
-            <uri>https://news.ycombinator.com/user?id=ed_balls</uri>
         </author>
     </entry>
 </feed>

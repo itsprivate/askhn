@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 12 Mar 2022 08:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 09:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有了SSH的VS Code，为什么还要用Vim？]]></title>
+            <link>https://news.ycombinator.com/item?id=30650119</link>
+            <guid>https://news.ycombinator.com/item?id=30650119</guid>
+            <pubDate>Sat, 12 Mar 2022 09:10:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Vim when you can VS Code with SSH?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有任何扩展允许人们在网页上与他人聊天？]]></title>
             <link>https://news.ycombinator.com/item?id=30649854</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30486998</guid>
             <pubDate>Sun, 27 Feb 2022 10:32:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a good description of a physical implementation of Tor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一份俄罗斯寡头拥有的企业名单/地图？]]></title>
-            <link>https://news.ycombinator.com/item?id=30486851</link>
-            <guid>https://news.ycombinator.com/item?id=30486851</guid>
-            <pubDate>Sun, 27 Feb 2022 10:02:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a list/map of business owned by Russian oligarchs?]]></description>
         </item>
     </channel>
 </rss>
