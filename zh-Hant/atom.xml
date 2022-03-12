@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T17:32:42.409Z</updated>
+    <updated>2022-03-12T20:51:35.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寫作軟件--是無聊還是我無聊？]]></title>
+        <id>https://news.ycombinator.com/item?id=30654719</id>
+        <link href="https://news.ycombinator.com/item?id=30654719"/>
+        <updated>2022-03-12T20:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Writing Software – Is it boring or am I bored?]]></summary>
+        <author>
+            <name>pirminj</name>
+            <uri>https://news.ycombinator.com/user?id=pirminj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法的專業實施]]></title>
         <id>https://news.ycombinator.com/item?id=30652858</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Guessnotgauss</name>
             <uri>https://news.ycombinator.com/user?id=Guessnotgauss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰在IT領域僱傭了有ASD的人做全職的遠程教育？]]></title>
-        <id>https://news.ycombinator.com/item?id=30488014</id>
-        <link href="https://news.ycombinator.com/item?id=30488014"/>
-        <updated>2022-02-27T13:04:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone that employs someone with ASD in IT in full-remote?]]></summary>
-        <author>
-            <name>ITemployee</name>
-            <uri>https://news.ycombinator.com/user?id=ITemployee</uri>
         </author>
     </entry>
 </feed>
