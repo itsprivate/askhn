@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-12T13:33:25.048Z</updated>
+    <updated>2022-03-12T15:44:18.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[屢次被YouTube禁止和解禁]]></title>
+        <id>https://news.ycombinator.com/item?id=30652084</id>
+        <link href="https://news.ycombinator.com/item?id=30652084"/>
+        <updated>2022-03-12T15:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Banned and Unbanned by YouTube Repeatedly]]></summary>
+        <author>
+            <name>RichardHeart</name>
+            <uri>https://news.ycombinator.com/user?id=RichardHeart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年，什麼是最經濟和可擴展的視頻託管方式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30652075</id>
+        <link href="https://news.ycombinator.com/item?id=30652075"/>
+        <updated>2022-03-12T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the most economic and scalable way to host videos in 2022?]]></summary>
+        <author>
+            <name>iainctduncan</name>
+            <uri>https://news.ycombinator.com/user?id=iainctduncan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對高級工程師的知識要求是否變得太多？]]></title>
         <id>https://news.ycombinator.com/item?id=30651135</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪本書讓你學習數學？]]></title>
-        <id>https://news.ycombinator.com/item?id=30487446</id>
-        <link href="https://news.ycombinator.com/item?id=30487446"/>
-        <updated>2022-02-27T11:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which book made you study mathematics]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴俄羅斯所有的人關於烏克蘭的戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30487439</id>
-        <link href="https://news.ycombinator.com/item?id=30487439"/>
-        <updated>2022-02-27T11:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tell all people in Russia about war in Ukraine]]></summary>
-        <author>
-            <name>vasergen</name>
-            <uri>https://news.ycombinator.com/user?id=vasergen</uri>
         </author>
     </entry>
 </feed>
