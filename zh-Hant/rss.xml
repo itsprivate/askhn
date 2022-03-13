@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將俄羅斯遊客重定向到什麼網站？]]></title>
+            <link>https://news.ycombinator.com/item?id=30666386</link>
+            <guid>https://news.ycombinator.com/item?id=30666386</guid>
+            <pubDate>Sun, 13 Mar 2022 22:32:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What website to redirect Russian visitors to?]]></description>
+        </item>
         <item>
             <title><![CDATA[我們是否看到更廣泛的衝突的開始？]]></title>
             <link>https://news.ycombinator.com/item?id=30666336</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30501699</guid>
             <pubDate>Mon, 28 Feb 2022 16:29:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Just database over the internet as the only backend?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在我們的SaaS中提供基於url的審計的最佳SEO API？]]></title>
-            <link>https://news.ycombinator.com/item?id=30499062</link>
-            <guid>https://news.ycombinator.com/item?id=30499062</guid>
-            <pubDate>Mon, 28 Feb 2022 12:22:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best SEO API to offer url based audit in our SaaS?]]></description>
         </item>
     </channel>
 </rss>

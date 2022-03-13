@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T22:32:16.274Z</updated>
+    <updated>2022-03-13T22:40:34.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將俄羅斯遊客重定向到什麼網站？]]></title>
+        <id>https://news.ycombinator.com/item?id=30666386</id>
+        <link href="https://news.ycombinator.com/item?id=30666386"/>
+        <updated>2022-03-13T22:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What website to redirect Russian visitors to?]]></summary>
+        <author>
+            <name>Matheus28</name>
+            <uri>https://news.ycombinator.com/user?id=Matheus28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是否看到更廣泛的衝突的開始？]]></title>
         <id>https://news.ycombinator.com/item?id=30666336</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wg0</name>
             <uri>https://news.ycombinator.com/user?id=wg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我們的SaaS中提供基於url的審計的最佳SEO API？]]></title>
-        <id>https://news.ycombinator.com/item?id=30499062</id>
-        <link href="https://news.ycombinator.com/item?id=30499062"/>
-        <updated>2022-02-28T12:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best SEO API to offer url based audit in our SaaS?]]></summary>
-        <author>
-            <name>ochysp</name>
-            <uri>https://news.ycombinator.com/user?id=ochysp</uri>
         </author>
     </entry>
 </feed>
