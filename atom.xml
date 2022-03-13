@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T03:13:45.355Z</updated>
+    <updated>2022-03-13T05:16:40.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[税收]]></title>
+        <id>https://news.ycombinator.com/item?id=30658196</id>
+        <link href="https://news.ycombinator.com/item?id=30658196"/>
+        <updated>2022-03-13T05:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Taxes]]></summary>
+        <author>
+            <name>iambateman</name>
+            <uri>https://news.ycombinator.com/user?id=iambateman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些创造性的方法可以作为w2节省所得税？]]></title>
         <id>https://news.ycombinator.com/item?id=30657514</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>_jae_</name>
             <uri>https://news.ycombinator.com/user?id=_jae_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网上的巨魔活动是否有变化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30490913</id>
-        <link href="https://news.ycombinator.com/item?id=30490913"/>
-        <updated>2022-02-27T18:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has there been a change in the troll activity on the internet?]]></summary>
-        <author>
-            <name>edge17</name>
-            <uri>https://news.ycombinator.com/user?id=edge17</uri>
         </author>
     </entry>
 </feed>
