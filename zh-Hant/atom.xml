@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T01:56:16.903Z</updated>
+    <updated>2022-03-13T03:13:45.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些創造性的方法可以作為w2節省所得稅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30657514</id>
+        <link href="https://news.ycombinator.com/item?id=30657514"/>
+        <updated>2022-03-13T03:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some creative ways to save on income taxes as w2?]]></summary>
+        <author>
+            <name>lifeplusplus</name>
+            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何處理不同步的評論？]]></title>
         <id>https://news.ycombinator.com/item?id=30656675</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>edge17</name>
             <uri>https://news.ycombinator.com/user?id=edge17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼技術來做菜譜和烹飪？]]></title>
-        <id>https://news.ycombinator.com/item?id=30489713</id>
-        <link href="https://news.ycombinator.com/item?id=30489713"/>
-        <updated>2022-02-27T16:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tech do you use for recipes and cooking?]]></summary>
-        <author>
-            <name>vinni2</name>
-            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
         </author>
     </entry>
 </feed>
