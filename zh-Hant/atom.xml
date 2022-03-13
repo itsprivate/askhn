@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T16:48:42.628Z</updated>
+    <updated>2022-03-13T17:18:02.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最可靠的現代冰箱？]]></title>
+        <id>https://news.ycombinator.com/item?id=30663363</id>
+        <link href="https://news.ycombinator.com/item?id=30663363"/>
+        <updated>2022-03-13T17:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Most Reliable Modern Refrigerator?]]></summary>
+        <author>
+            <name>wellthisisgreat</name>
+            <uri>https://news.ycombinator.com/user?id=wellthisisgreat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在線課程後繼續學習Apache Spark]]></title>
         <id>https://news.ycombinator.com/item?id=30662609</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brtkdotse</name>
             <uri>https://news.ycombinator.com/user?id=brtkdotse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為了對俄烏戰爭有一個更客觀的看法，你讀什麼書？]]></title>
-        <id>https://news.ycombinator.com/item?id=30496908</id>
-        <link href="https://news.ycombinator.com/item?id=30496908"/>
-        <updated>2022-02-28T06:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you read for a more objective view on the Russia-Ukraine war?]]></summary>
-        <author>
-            <name>dondraper36</name>
-            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
         </author>
     </entry>
 </feed>
