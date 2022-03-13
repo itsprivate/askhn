@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 10:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[現在什麼是好的配置格式？]]></title>
+            <link>https://news.ycombinator.com/item?id=30659869</link>
+            <guid>https://news.ycombinator.com/item?id=30659869</guid>
+            <pubDate>Sun, 13 Mar 2022 10:15:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is a good configuration format now a days?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何處理舊的GPU？]]></title>
             <link>https://news.ycombinator.com/item?id=30659746</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30492771</guid>
             <pubDate>Sun, 27 Feb 2022 21:36:58 GMT</pubDate>
             <description><![CDATA[Ask HN: How are sanctions going to affect Russia in the immediate future?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對AWS面試過程和Assoc領導原則有什麼更新嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30492640</link>
-            <guid>https://news.ycombinator.com/item?id=30492640</guid>
-            <pubDate>Sun, 27 Feb 2022 21:22:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any updates to AWS interviewing process and assoc leadership principles?]]></description>
         </item>
     </channel>
 </rss>

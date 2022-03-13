@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T10:14:21.957Z</updated>
+    <updated>2022-03-13T10:33:52.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在什麼是好的配置格式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30659869</id>
+        <link href="https://news.ycombinator.com/item?id=30659869"/>
+        <updated>2022-03-13T10:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is a good configuration format now a days?]]></summary>
+        <author>
+            <name>oldPete</name>
+            <uri>https://news.ycombinator.com/user?id=oldPete</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何處理舊的GPU？]]></title>
         <id>https://news.ycombinator.com/item?id=30659746</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>aspyct</name>
             <uri>https://news.ycombinator.com/user?id=aspyct</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對AWS面試過程和Assoc領導原則有什麼更新嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492640</id>
-        <link href="https://news.ycombinator.com/item?id=30492640"/>
-        <updated>2022-02-27T21:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any updates to AWS interviewing process and assoc leadership principles?]]></summary>
-        <author>
-            <name>netfortius</name>
-            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
         </author>
     </entry>
 </feed>
