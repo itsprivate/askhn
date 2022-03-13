@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 18:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[輪迴之間的安全注意事項]]></title>
+            <link>https://news.ycombinator.com/item?id=30663981</link>
+            <guid>https://news.ycombinator.com/item?id=30663981</guid>
+            <pubDate>Sun, 13 Mar 2022 18:02:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Safe Note Between Rounds]]></description>
+        </item>
         <item>
             <title><![CDATA[只有政治邊界而沒有社會邊界是否應該有幫助？]]></title>
             <link>https://news.ycombinator.com/item?id=30663611</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30498149</guid>
             <pubDate>Mon, 28 Feb 2022 09:49:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Books/Tutorials for generic(NOT AWS/Azure specific) Solution Architect]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當你從SWE轉變為SWE-管理時，你應該閱讀的書籍]]></title>
-            <link>https://news.ycombinator.com/item?id=30497703</link>
-            <guid>https://news.ycombinator.com/item?id=30497703</guid>
-            <pubDate>Mon, 28 Feb 2022 08:37:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Books you should read when you transform from SWE into SWE-Management]]></description>
         </item>
     </channel>
 </rss>
