@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T06:48:21.499Z</updated>
+    <updated>2022-03-13T07:51:38.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[替代1Password的产品]]></title>
+        <id>https://news.ycombinator.com/item?id=30658936</id>
+        <link href="https://news.ycombinator.com/item?id=30658936"/>
+        <updated>2022-03-13T07:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to 1Password]]></summary>
+        <author>
+            <name>vasachi</name>
+            <uri>https://news.ycombinator.com/user?id=vasachi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用有限责任公司来保护边际项目的知识产权]]></title>
         <id>https://news.ycombinator.com/item?id=30658602</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>azalemeth</name>
             <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于众多的技术问题，全球核战争是否可以生存？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492391</id>
-        <link href="https://news.ycombinator.com/item?id=30492391"/>
-        <updated>2022-02-27T20:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could global nuclear war be survivable due to numerous technical issues?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
