@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T19:53:10.817Z</updated>
+    <updated>2022-03-13T20:33:14.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你將如何建立一個1000年的Bandcamp？]]></title>
+        <id>https://news.ycombinator.com/item?id=30665311</id>
+        <link href="https://news.ycombinator.com/item?id=30665311"/>
+        <updated>2022-03-13T20:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you build a 1000 year Bandcamp?]]></summary>
+        <author>
+            <name>rgbrgb</name>
+            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何幫助工程團隊就最佳實踐達成共識？]]></title>
         <id>https://news.ycombinator.com/item?id=30664984</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chinathrow</name>
             <uri>https://news.ycombinator.com/user?id=chinathrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰是匿名者？]]></title>
-        <id>https://news.ycombinator.com/item?id=30500429</id>
-        <link href="https://news.ycombinator.com/item?id=30500429"/>
-        <updated>2022-02-28T14:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Are Anonymous?]]></summary>
-        <author>
-            <name>kertoip_1</name>
-            <uri>https://news.ycombinator.com/user?id=kertoip_1</uri>
         </author>
     </entry>
 </feed>
