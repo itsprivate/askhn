@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 05:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 05:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你还在以编程为乐吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30658212</link>
+            <guid>https://news.ycombinator.com/item?id=30658212</guid>
+            <pubDate>Sun, 13 Mar 2022 05:14:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are you still programming for fun?]]></description>
+        </item>
         <item>
             <title><![CDATA[税收]]></title>
             <link>https://news.ycombinator.com/item?id=30658196</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30492289</guid>
             <pubDate>Sun, 27 Feb 2022 20:41:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you know any tool for signing documents that assures privacy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个普通人可以做什么来支持乌克兰的平民？]]></title>
-            <link>https://news.ycombinator.com/item?id=30491833</link>
-            <guid>https://news.ycombinator.com/item?id=30491833</guid>
-            <pubDate>Sun, 27 Feb 2022 19:48:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anything an ordinary person can do to support civilians in the Ukraine?]]></description>
         </item>
     </channel>
 </rss>
