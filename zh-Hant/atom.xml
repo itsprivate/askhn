@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T21:13:11.970Z</updated>
+    <updated>2022-03-13T21:51:49.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隨著你年齡的增長，你是否認為編程僅僅是達到目的的一種手段？]]></title>
+        <id>https://news.ycombinator.com/item?id=30666030</id>
+        <link href="https://news.ycombinator.com/item?id=30666030"/>
+        <updated>2022-03-13T21:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As you get older, do you see programming as merely a means to an end?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與用戶交談時，最令人討厭的部分是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30665594</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cx42net</name>
             <uri>https://news.ycombinator.com/user?id=cx42net</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網是如何改變軟件開發的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30500908</id>
-        <link href="https://news.ycombinator.com/item?id=30500908"/>
-        <updated>2022-02-28T15:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How has internet changed software development?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
