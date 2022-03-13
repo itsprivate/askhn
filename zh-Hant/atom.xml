@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T07:51:38.881Z</updated>
+    <updated>2022-03-13T09:39:30.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[催眠術有科學依據嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30659588</id>
+        <link href="https://news.ycombinator.com/item?id=30659588"/>
+        <updated>2022-03-13T09:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there scientific underpinnings for hypnosis?]]></summary>
+        <author>
+            <name>mettamage</name>
+            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代1Password的產品]]></title>
         <id>https://news.ycombinator.com/item?id=30658936</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人真的害怕這是第三次世界大戰的開始嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492487</id>
-        <link href="https://news.ycombinator.com/item?id=30492487"/>
-        <updated>2022-02-27T21:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone else genuinely scared that this is the start of WW3?]]></summary>
-        <author>
-            <name>azalemeth</name>
-            <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
         </author>
     </entry>
 </feed>
