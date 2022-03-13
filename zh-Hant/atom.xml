@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T18:53:40.135Z</updated>
+    <updated>2022-03-13T19:10:58.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[靈魂》（FromSoftware）的下一步是什麼？一個網絡遊戲？]]></title>
+        <id>https://news.ycombinator.com/item?id=30664641</id>
+        <link href="https://news.ycombinator.com/item?id=30664641"/>
+        <updated>2022-03-13T19:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's Next for Souls (FromSoftware)? An MMO?]]></summary>
+        <author>
+            <name>evo_9</name>
+            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Python與.js構建網站有什麼區別？]]></title>
+        <id>https://news.ycombinator.com/item?id=30664603</id>
+        <link href="https://news.ycombinator.com/item?id=30664603"/>
+        <updated>2022-03-13T19:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the difference in building website with Python vs .js?]]></summary>
+        <author>
+            <name>amts</name>
+            <uri>https://news.ycombinator.com/user?id=amts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我要求提供HN上發表的一篇個人發展文章的鏈接。]]></title>
         <id>https://news.ycombinator.com/item?id=30664452</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tipiirai</name>
             <uri>https://news.ycombinator.com/user?id=tipiirai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Mac版的Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=30498975</id>
-        <link href="https://news.ycombinator.com/item?id=30498975"/>
-        <updated>2022-02-28T12:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Linux for M1 Mac]]></summary>
-        <author>
-            <name>viginti_tres</name>
-            <uri>https://news.ycombinator.com/user?id=viginti_tres</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫斯科交易所]]></title>
-        <id>https://news.ycombinator.com/item?id=30498740</id>
-        <link href="https://news.ycombinator.com/item?id=30498740"/>
-        <updated>2022-02-28T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Moscow Exchange]]></summary>
-        <author>
-            <name>jussij</name>
-            <uri>https://news.ycombinator.com/user?id=jussij</uri>
         </author>
     </entry>
 </feed>
