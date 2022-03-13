@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T05:40:14.911Z</updated>
+    <updated>2022-03-13T06:03:28.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓系统的语音备忘录解决方案，可同时进行音频和语音转文本]]></title>
+        <id>https://news.ycombinator.com/item?id=30658352</id>
+        <link href="https://news.ycombinator.com/item?id=30658352"/>
+        <updated>2022-03-13T05:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A Voice Memo solution for Android that does both audio and voice to text]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你使用的是什么ML平台？]]></title>
+        <id>https://news.ycombinator.com/item?id=30658324</id>
+        <link href="https://news.ycombinator.com/item?id=30658324"/>
+        <updated>2022-03-13T05:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What ML platform are you using?]]></summary>
+        <author>
+            <name>speedylight</name>
+            <uri>https://news.ycombinator.com/user?id=speedylight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你还在以编程为乐吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30658212</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>curious-mind</name>
             <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个免费的Zapier可以与Facebook信息和TikTok信息一起使用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492354</id>
-        <link href="https://news.ycombinator.com/item?id=30492354"/>
-        <updated>2022-02-27T20:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a free Zapier that works with Facebook Leads and TikTok Leads?]]></summary>
-        <author>
-            <name>somid3</name>
-            <uri>https://news.ycombinator.com/user?id=somid3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道有什么签署文件的工具可以保证隐私吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492289</id>
-        <link href="https://news.ycombinator.com/item?id=30492289"/>
-        <updated>2022-02-27T20:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you know any tool for signing documents that assures privacy?]]></summary>
-        <author>
-            <name>yuvalr1</name>
-            <uri>https://news.ycombinator.com/user?id=yuvalr1</uri>
         </author>
     </entry>
 </feed>
