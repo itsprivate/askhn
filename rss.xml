@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 17:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只有政治边界而没有社会边界是否应该有帮助？]]></title>
+            <link>https://news.ycombinator.com/item?id=30663611</link>
+            <guid>https://news.ycombinator.com/item?id=30663611</guid>
+            <pubDate>Sun, 13 Mar 2022 17:31:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should having just political borders and no social borders help?]]></description>
+        </item>
         <item>
             <title><![CDATA[最可靠的现代冰箱？]]></title>
             <link>https://news.ycombinator.com/item?id=30663363</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30497703</guid>
             <pubDate>Mon, 28 Feb 2022 08:37:30 GMT</pubDate>
             <description><![CDATA[Ask HN: Books you should read when you transform from SWE into SWE-Management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[托管你自己的Postgres实例的技巧]]></title>
-            <link>https://news.ycombinator.com/item?id=30497574</link>
-            <guid>https://news.ycombinator.com/item?id=30497574</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Tips on hosting your own Postgres instance]]></description>
         </item>
     </channel>
 </rss>
