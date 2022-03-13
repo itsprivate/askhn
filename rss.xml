@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 00:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 01:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何处理不同步的评论？]]></title>
+            <link>https://news.ycombinator.com/item?id=30656675</link>
+            <guid>https://news.ycombinator.com/item?id=30656675</guid>
+            <pubDate>Sun, 13 Mar 2022 00:41:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you deal with out of sync comments?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有手机硬件的caniuse吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30656671</link>
+            <guid>https://news.ycombinator.com/item?id=30656671</guid>
+            <pubDate>Sun, 13 Mar 2022 00:41:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a caniuse for mobile phone hardware?]]></description>
+        </item>
         <item>
             <title><![CDATA[MQTT的蜂窝数据选项]]></title>
             <link>https://news.ycombinator.com/item?id=30656413</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30489713</guid>
             <pubDate>Sun, 27 Feb 2022 16:15:27 GMT</pubDate>
             <description><![CDATA[Ask HN: What tech do you use for recipes and cooking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推荐的地缘政治学书籍]]></title>
-            <link>https://news.ycombinator.com/item?id=30489673</link>
-            <guid>https://news.ycombinator.com/item?id=30489673</guid>
-            <pubDate>Sun, 27 Feb 2022 16:11:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Recommended Books on Geopolitics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是最安全的服务器操作系统？为什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30489651</link>
-            <guid>https://news.ycombinator.com/item?id=30489651</guid>
-            <pubDate>Sun, 27 Feb 2022 16:08:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: What’s the most secure OS for servers? Why?]]></description>
         </item>
     </channel>
 </rss>

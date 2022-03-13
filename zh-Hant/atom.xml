@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T00:36:39.769Z</updated>
+    <updated>2022-03-13T01:56:16.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理不同步的評論？]]></title>
+        <id>https://news.ycombinator.com/item?id=30656675</id>
+        <link href="https://news.ycombinator.com/item?id=30656675"/>
+        <updated>2022-03-13T00:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with out of sync comments?]]></summary>
+        <author>
+            <name>Nevin1901</name>
+            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有手機硬件的caniuse嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30656671</id>
+        <link href="https://news.ycombinator.com/item?id=30656671"/>
+        <updated>2022-03-13T00:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a caniuse for mobile phone hardware?]]></summary>
+        <author>
+            <name>gitgud</name>
+            <uri>https://news.ycombinator.com/user?id=gitgud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MQTT的蜂窩數據選項]]></title>
         <id>https://news.ycombinator.com/item?id=30656413</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>vinni2</name>
             <uri>https://news.ycombinator.com/user?id=vinni2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦的地緣政治學書籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30489673</id>
-        <link href="https://news.ycombinator.com/item?id=30489673"/>
-        <updated>2022-02-27T16:11:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended Books on Geopolitics]]></summary>
-        <author>
-            <name>mrleinad</name>
-            <uri>https://news.ycombinator.com/user?id=mrleinad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是最安全的服務器操作系統？為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30489651</id>
-        <link href="https://news.ycombinator.com/item?id=30489651"/>
-        <updated>2022-02-27T16:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s the most secure OS for servers? Why?]]></summary>
-        <author>
-            <name>brightball</name>
-            <uri>https://news.ycombinator.com/user?id=brightball</uri>
         </author>
     </entry>
 </feed>
