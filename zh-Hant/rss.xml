@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 21:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Omicron Long Covid數據？]]></title>
+            <link>https://news.ycombinator.com/item?id=30666141</link>
+            <guid>https://news.ycombinator.com/item?id=30666141</guid>
+            <pubDate>Sun, 13 Mar 2022 21:55:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Omicron Long Covid Data?]]></description>
+        </item>
         <item>
             <title><![CDATA[隨著你年齡的增長，你是否認為編程僅僅是達到目的的一種手段？]]></title>
             <link>https://news.ycombinator.com/item?id=30666030</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30501321</guid>
             <pubDate>Mon, 28 Feb 2022 15:59:56 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you judge if an employee should be retained?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是唯一一個有AWS問題的人嗎？(主要是SQS)]]></title>
-            <link>https://news.ycombinator.com/item?id=30500985</link>
-            <guid>https://news.ycombinator.com/item?id=30500985</guid>
-            <pubDate>Mon, 28 Feb 2022 15:39:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Am I the only one having AWS issues? (SQS mostly)]]></description>
         </item>
     </channel>
 </rss>
