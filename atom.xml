@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T19:25:41.109Z</updated>
+    <updated>2022-03-13T19:53:10.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何帮助工程团队就最佳实践达成共识？]]></title>
+        <id>https://news.ycombinator.com/item?id=30664984</id>
+        <link href="https://news.ycombinator.com/item?id=30664984"/>
+        <updated>2022-03-13T19:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to help an engineering team come to a consensus on best practices?]]></summary>
+        <author>
+            <name>semicolonandson</name>
+            <uri>https://news.ycombinator.com/user?id=semicolonandson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何计划和跟踪你的任务？]]></title>
+        <id>https://news.ycombinator.com/item?id=30664898</id>
+        <link href="https://news.ycombinator.com/item?id=30664898"/>
+        <updated>2022-03-13T19:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you plan and track your tasks?]]></summary>
+        <author>
+            <name>aljgz</name>
+            <uri>https://news.ycombinator.com/user?id=aljgz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界上缺少哪些计算机视觉数据集？]]></title>
         <id>https://news.ycombinator.com/item?id=30664717</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kertoip_1</name>
             <uri>https://news.ycombinator.com/user?id=kertoip_1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经得起时间考验的单人创作]]></title>
-        <id>https://news.ycombinator.com/item?id=30500188</id>
-        <link href="https://news.ycombinator.com/item?id=30500188"/>
-        <updated>2022-02-28T14:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Single person creations that have stood the test of time]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从俄罗斯入侵乌克兰的角度看美国的枪支管制]]></title>
-        <id>https://news.ycombinator.com/item?id=30499929</id>
-        <link href="https://news.ycombinator.com/item?id=30499929"/>
-        <updated>2022-02-28T14:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Gun control in US in light of Russian invasion of Ukraine]]></summary>
-        <author>
-            <name>baremetal</name>
-            <uri>https://news.ycombinator.com/user?id=baremetal</uri>
         </author>
     </entry>
 </feed>
