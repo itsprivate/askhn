@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T13:33:46.448Z</updated>
+    <updated>2022-03-13T13:41:49.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学习K8s]]></title>
+        <id>https://news.ycombinator.com/item?id=30661042</id>
+        <link href="https://news.ycombinator.com/item?id=30661042"/>
+        <updated>2022-03-13T13:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learn K8s]]></summary>
+        <author>
+            <name>lordonium</name>
+            <uri>https://news.ycombinator.com/user?id=lordonium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代DuckDuckGo的产品？]]></title>
         <id>https://news.ycombinator.com/item?id=30661009</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>edgefield</name>
             <uri>https://news.ycombinator.com/user?id=edgefield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于电话/短信/等的建议。]]></title>
-        <id>https://news.ycombinator.com/item?id=30493635</id>
-        <link href="https://news.ycombinator.com/item?id=30493635"/>
-        <updated>2022-02-27T22:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice on Phone/Messaging/etc.]]></summary>
-        <author>
-            <name>dspoka</name>
-            <uri>https://news.ycombinator.com/user?id=dspoka</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[學習K8s]]></title>
+            <link>https://news.ycombinator.com/item?id=30661042</link>
+            <guid>https://news.ycombinator.com/item?id=30661042</guid>
+            <pubDate>Sun, 13 Mar 2022 13:31:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: Learn K8s]]></description>
+        </item>
         <item>
             <title><![CDATA[替代DuckDuckGo的產品？]]></title>
             <link>https://news.ycombinator.com/item?id=30661009</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30493692</guid>
             <pubDate>Sun, 27 Feb 2022 22:59:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Is your team or work like a dysfunctional family?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於電話/短信/等的建議。]]></title>
-            <link>https://news.ycombinator.com/item?id=30493635</link>
-            <guid>https://news.ycombinator.com/item?id=30493635</guid>
-            <pubDate>Sun, 27 Feb 2022 22:53:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Advice on Phone/Messaging/etc.]]></description>
         </item>
     </channel>
 </rss>
