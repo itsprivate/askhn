@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T10:33:52.845Z</updated>
+    <updated>2022-03-13T11:52:00.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該為我的應用程序寫一個幫助菜單嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30660350</id>
+        <link href="https://news.ycombinator.com/item?id=30660350"/>
+        <updated>2022-03-13T11:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I write a Help menu for my application?]]></summary>
+        <author>
+            <name>tentacleuno</name>
+            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在什麼是好的配置格式？]]></title>
         <id>https://news.ycombinator.com/item?id=30659869</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gigglesupstairs</name>
             <uri>https://news.ycombinator.com/user?id=gigglesupstairs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在不久的將來，制裁將如何影響俄羅斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30492771</id>
-        <link href="https://news.ycombinator.com/item?id=30492771"/>
-        <updated>2022-02-27T21:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are sanctions going to affect Russia in the immediate future?]]></summary>
-        <author>
-            <name>aspyct</name>
-            <uri>https://news.ycombinator.com/user?id=aspyct</uri>
         </author>
     </entry>
 </feed>
