@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T20:33:14.794Z</updated>
+    <updated>2022-03-13T20:51:40.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[還有人在Firefox更新後收到 "變紅 "的廣告嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30665493</id>
+        <link href="https://news.ycombinator.com/item?id=30665493"/>
+        <updated>2022-03-13T20:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone else gotten the 'Turning Red' ad after Firefox update?]]></summary>
+        <author>
+            <name>pmalynin</name>
+            <uri>https://news.ycombinator.com/user?id=pmalynin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你將如何建立一個1000年的Bandcamp？]]></title>
         <id>https://news.ycombinator.com/item?id=30665311</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baby</name>
             <uri>https://news.ycombinator.com/user?id=baby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在歐洲發生戰爭的時候，你如何完成工作呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30500810</id>
-        <link href="https://news.ycombinator.com/item?id=30500810"/>
-        <updated>2022-02-28T15:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you get work done while there is a war in Europe?]]></summary>
-        <author>
-            <name>chinathrow</name>
-            <uri>https://news.ycombinator.com/user?id=chinathrow</uri>
         </author>
     </entry>
 </feed>
