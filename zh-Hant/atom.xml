@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T13:41:50.024Z</updated>
+    <updated>2022-03-13T14:38:14.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為自由職業者尋找客戶的正統方法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30661510</id>
+        <link href="https://news.ycombinator.com/item?id=30661510"/>
+        <updated>2022-03-13T14:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Canonical approach to finding clients for freelancing work?]]></summary>
+        <author>
+            <name>mahathu</name>
+            <uri>https://news.ycombinator.com/user?id=mahathu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼教育家認為目前的教育系統是好的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30661426</id>
+        <link href="https://news.ycombinator.com/item?id=30661426"/>
+        <updated>2022-03-13T14:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why educator think the current education system is good?]]></summary>
+        <author>
+            <name>nguyenlehoang</name>
+            <uri>https://news.ycombinator.com/user?id=nguyenlehoang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習K8s]]></title>
         <id>https://news.ycombinator.com/item?id=30661042</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>mr_o47</name>
             <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的幫助]]></title>
-        <id>https://news.ycombinator.com/item?id=30494221</id>
-        <link href="https://news.ycombinator.com/item?id=30494221"/>
-        <updated>2022-02-27T23:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ukraine Help]]></summary>
-        <author>
-            <name>morphle</name>
-            <uri>https://news.ycombinator.com/user?id=morphle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的團隊或工作是否像一個不正常的家庭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30493692</id>
-        <link href="https://news.ycombinator.com/item?id=30493692"/>
-        <updated>2022-02-27T22:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your team or work like a dysfunctional family?]]></summary>
-        <author>
-            <name>edgefield</name>
-            <uri>https://news.ycombinator.com/user?id=edgefield</uri>
         </author>
     </entry>
 </feed>
