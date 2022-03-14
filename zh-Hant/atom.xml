@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T05:55:10.146Z</updated>
+    <updated>2022-03-14T07:30:40.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於氣候問題和解決方案的最佳書籍是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30669344</id>
+        <link href="https://news.ycombinator.com/item?id=30669344"/>
+        <updated>2022-03-14T07:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best book on the climate problem and solutions?]]></summary>
+        <author>
+            <name>greatatuin</name>
+            <uri>https://news.ycombinator.com/user?id=greatatuin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼在氣候變化方面沒有太多的緊迫性？]]></title>
         <id>https://news.ycombinator.com/item?id=30668859</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dgreisen</name>
             <uri>https://news.ycombinator.com/user?id=dgreisen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有報道烏克蘭戰爭的好播客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30503119</id>
-        <link href="https://news.ycombinator.com/item?id=30503119"/>
-        <updated>2022-02-28T18:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good Podcasts which cover the War in Ukraine?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
