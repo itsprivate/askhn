@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T19:11:04.299Z</updated>
+    <updated>2022-03-14T19:53:07.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第三方支付系统怎么还存在呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30677233</id>
+        <link href="https://news.ycombinator.com/item?id=30677233"/>
+        <updated>2022-03-14T19:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How come 3rd party payment systems still exist?]]></summary>
+        <author>
+            <name>pjdorrell</name>
+            <uri>https://news.ycombinator.com/user?id=pjdorrell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发商寻求具有成熟市场的联合创始人]]></title>
+        <id>https://news.ycombinator.com/item?id=30677138</id>
+        <link href="https://news.ycombinator.com/item?id=30677138"/>
+        <updated>2022-03-14T19:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Developer Seeks Co-Founder with Proven Market]]></summary>
+        <author>
+            <name>dizzydiz</name>
+            <uri>https://news.ycombinator.com/user?id=dizzydiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在俄罗斯的远程承包商？]]></title>
         <id>https://news.ycombinator.com/item?id=30676606</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>alg0rith</name>
             <uri>https://news.ycombinator.com/user?id=alg0rith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有个人车辆的车顶广告？]]></title>
-        <id>https://news.ycombinator.com/item?id=30510110</id>
-        <link href="https://news.ycombinator.com/item?id=30510110"/>
-        <updated>2022-03-01T05:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no cartop advertising for personal vehicles?]]></summary>
-        <author>
-            <name>wbsun</name>
-            <uri>https://news.ycombinator.com/user?id=wbsun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于UBC如何设计程序的MOOC]]></title>
-        <id>https://news.ycombinator.com/item?id=30509913</id>
-        <link href="https://news.ycombinator.com/item?id=30509913"/>
-        <updated>2022-03-01T05:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: MOOC Based on How to Design Programs by UBC]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
