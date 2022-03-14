@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T04:16:24.182Z</updated>
+    <updated>2022-03-14T04:52:50.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是如此孤独]]></title>
+        <id>https://news.ycombinator.com/item?id=30668506</id>
+        <link href="https://news.ycombinator.com/item?id=30668506"/>
+        <updated>2022-03-14T04:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm So Lonely]]></summary>
+        <author>
+            <name>DevToRecruiter</name>
+            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我很担心FreeBSD的安全问题]]></title>
         <id>https://news.ycombinator.com/item?id=30668387</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>explody</name>
             <uri>https://news.ycombinator.com/user?id=explody</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将声音可视化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502650</id>
-        <link href="https://news.ycombinator.com/item?id=30502650"/>
-        <updated>2022-02-28T17:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Visualize Sound?]]></summary>
-        <author>
-            <name>rishikeshs</name>
-            <uri>https://news.ycombinator.com/user?id=rishikeshs</uri>
         </author>
     </entry>
 </feed>
