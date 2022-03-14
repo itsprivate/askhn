@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T21:30:49.738Z</updated>
+    <updated>2022-03-14T22:14:06.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非IT]你們的語言中如何稱呼風？]]></title>
+        <id>https://news.ycombinator.com/item?id=30678995</id>
+        <link href="https://news.ycombinator.com/item?id=30678995"/>
+        <updated>2022-03-14T21:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-IT] how do you call the wind in your language?]]></summary>
+        <author>
+            <name>lnxg33k1</name>
+            <uri>https://news.ycombinator.com/user?id=lnxg33k1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡單的低成本想法，卻賺了幾百萬？]]></title>
         <id>https://news.ycombinator.com/item?id=30678585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你白天的生活習慣是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30511617</id>
-        <link href="https://news.ycombinator.com/item?id=30511617"/>
-        <updated>2022-03-01T09:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your daytime routine?]]></summary>
-        <author>
-            <name>Lorizio</name>
-            <uri>https://news.ycombinator.com/user?id=Lorizio</uri>
         </author>
     </entry>
 </feed>
