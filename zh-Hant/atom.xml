@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T22:14:06.991Z</updated>
+    <updated>2022-03-14T22:34:25.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這是俄羅斯的宣傳，還是我錯過了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679334</id>
+        <link href="https://news.ycombinator.com/item?id=30679334"/>
+        <updated>2022-03-14T22:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this Russia.m propaganda or am I missing something]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何建立類似Repl.it的東西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679249</id>
+        <link href="https://news.ycombinator.com/item?id=30679249"/>
+        <updated>2022-03-14T22:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to build something like Repl.it?]]></summary>
+        <author>
+            <name>songzme</name>
+            <uri>https://news.ycombinator.com/user?id=songzme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非IT]你們的語言中如何稱呼風？]]></title>
         <id>https://news.ycombinator.com/item?id=30678995</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Procedural</name>
             <uri>https://news.ycombinator.com/user?id=Procedural</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移動是跨平臺應用程序的未來嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30512160</id>
-        <link href="https://news.ycombinator.com/item?id=30512160"/>
-        <updated>2022-03-01T10:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is mobile the future of cross platform apps?]]></summary>
-        <author>
-            <name>udbhavs</name>
-            <uri>https://news.ycombinator.com/user?id=udbhavs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通過音頻瞭解烏克蘭戰爭的情況？]]></title>
-        <id>https://news.ycombinator.com/item?id=30511648</id>
-        <link href="https://news.ycombinator.com/item?id=30511648"/>
-        <updated>2022-03-01T09:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to keep up with the war in Ukraine via Audio?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
