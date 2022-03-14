@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Mar 2022 15:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 15:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌为什么要吹呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30673532</link>
+            <guid>https://news.ycombinator.com/item?id=30673532</guid>
+            <pubDate>Mon, 14 Mar 2022 15:26:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is Google blowing it?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[收取加密货币（用Coinbase）来资助OSS？]]></title>
+            <link>https://news.ycombinator.com/item?id=30673393</link>
+            <guid>https://news.ycombinator.com/item?id=30673393</guid>
+            <pubDate>Mon, 14 Mar 2022 15:15:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Receiving crypto(with Coinbase) to fund OSS?]]></description>
+        </item>
         <item>
             <title><![CDATA[有什么能让Git像Subversion一样流行吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30673282</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30507771</guid>
             <pubDate>Tue, 01 Mar 2022 01:09:03 GMT</pubDate>
             <description><![CDATA[Ask HN: What to do when your HN post is flagged?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你怎么能既支持自由又反对加密货币呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30507359</link>
-            <guid>https://news.ycombinator.com/item?id=30507359</guid>
-            <pubDate>Tue, 01 Mar 2022 00:30:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can you be pro freedom and anti crypto?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果出现长时间的网络中断，你会安装哪些应用程序？]]></title>
-            <link>https://news.ycombinator.com/item?id=30507155</link>
-            <guid>https://news.ycombinator.com/item?id=30507155</guid>
-            <pubDate>Tue, 01 Mar 2022 00:12:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: What apps would you install if there was an extended internet outage?]]></description>
         </item>
     </channel>
 </rss>

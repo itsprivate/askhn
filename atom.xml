@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T15:15:10.131Z</updated>
+    <updated>2022-03-14T15:37:38.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌为什么要吹呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30673532</id>
+        <link href="https://news.ycombinator.com/item?id=30673532"/>
+        <updated>2022-03-14T15:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Google blowing it?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收取加密货币（用Coinbase）来资助OSS？]]></title>
+        <id>https://news.ycombinator.com/item?id=30673393</id>
+        <link href="https://news.ycombinator.com/item?id=30673393"/>
+        <updated>2022-03-14T15:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Receiving crypto(with Coinbase) to fund OSS?]]></summary>
+        <author>
+            <name>hutzlibu</name>
+            <uri>https://news.ycombinator.com/user?id=hutzlibu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么能让Git像Subversion一样流行吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30673282</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yourabstraction</name>
             <uri>https://news.ycombinator.com/user?id=yourabstraction</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你怎么能既支持自由又反对加密货币呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30507359</id>
-        <link href="https://news.ycombinator.com/item?id=30507359"/>
-        <updated>2022-03-01T00:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can you be pro freedom and anti crypto?]]></summary>
-        <author>
-            <name>yourabstraction</name>
-            <uri>https://news.ycombinator.com/user?id=yourabstraction</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果出现长时间的网络中断，你会安装哪些应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30507155</id>
-        <link href="https://news.ycombinator.com/item?id=30507155"/>
-        <updated>2022-03-01T00:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What apps would you install if there was an extended internet outage?]]></summary>
-        <author>
-            <name>traverseda</name>
-            <uri>https://news.ycombinator.com/user?id=traverseda</uri>
         </author>
     </entry>
 </feed>
