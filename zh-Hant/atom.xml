@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T07:30:40.001Z</updated>
+    <updated>2022-03-14T07:52:02.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據管道/堆棧圖工具的推薦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30669488</id>
+        <link href="https://news.ycombinator.com/item?id=30669488"/>
+        <updated>2022-03-14T07:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendation for data pipeline / stack diagram tool?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於氣候問題和解決方案的最佳書籍是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30669344</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>crate_barre</name>
             <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們怎麼能付錢給烏克蘭人讓他們為我們工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30503170</id>
-        <link href="https://news.ycombinator.com/item?id=30503170"/>
-        <updated>2022-02-28T18:27:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can we pay Ukrainians to work for us?]]></summary>
-        <author>
-            <name>dgreisen</name>
-            <uri>https://news.ycombinator.com/user?id=dgreisen</uri>
         </author>
     </entry>
 </feed>
