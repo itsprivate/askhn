@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T16:15:40.277Z</updated>
+    <updated>2022-03-14T17:23:51.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個系統，使信息/更改不會丟失]]></title>
+        <id>https://news.ycombinator.com/item?id=30675150</id>
+        <link href="https://news.ycombinator.com/item?id=30675150"/>
+        <updated>2022-03-14T17:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A system so information/changes do not get lost]]></summary>
+        <author>
+            <name>patatino</name>
+            <uri>https://news.ycombinator.com/user?id=patatino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為了遵守GDPR，我是否必須將所有數據託管在歐盟？]]></title>
         <id>https://news.ycombinator.com/item?id=30673991</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rurp</name>
             <uri>https://news.ycombinator.com/user?id=rurp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休息和背心之後呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30508070</id>
-        <link href="https://news.ycombinator.com/item?id=30508070"/>
-        <updated>2022-03-01T01:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What After Rest and Vest?]]></summary>
-        <author>
-            <name>thorwawayrv</name>
-            <uri>https://news.ycombinator.com/user?id=thorwawayrv</uri>
         </author>
     </entry>
 </feed>
