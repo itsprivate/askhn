@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T18:15:28.374Z</updated>
+    <updated>2022-03-14T18:38:07.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們可以談談汽油稅和補貼嗎？請提供餐巾紙數學幫助]]></title>
+        <id>https://news.ycombinator.com/item?id=30675925</id>
+        <link href="https://news.ycombinator.com/item?id=30675925"/>
+        <updated>2022-03-14T18:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: May we please talk gas tax and subsidies? Napkin math help, please]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搬到山谷是一個好的舉措嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30675795</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ManuelKiessling</name>
             <uri>https://news.ycombinator.com/user?id=ManuelKiessling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們怎麼會知道俄羅斯互聯網巨頭是否在這裡活動？]]></title>
-        <id>https://news.ycombinator.com/item?id=30509628</id>
-        <link href="https://news.ycombinator.com/item?id=30509628"/>
-        <updated>2022-03-01T04:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would we know if Russian Internet trolls are active here?]]></summary>
-        <author>
-            <name>hn2017</name>
-            <uri>https://news.ycombinator.com/user?id=hn2017</uri>
         </author>
     </entry>
 </feed>
