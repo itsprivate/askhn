@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T10:36:04.697Z</updated>
+    <updated>2022-03-14T10:52:24.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[主宰HN的目標運動的證明？]]></title>
+        <id>https://news.ycombinator.com/item?id=30670690</id>
+        <link href="https://news.ycombinator.com/item?id=30670690"/>
+        <updated>2022-03-14T10:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Proof of targeted campaigns to dominate HN?]]></summary>
+        <author>
+            <name>jacquesm</name>
+            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於NLG（自然語言生成）的最佳書籍？]]></title>
         <id>https://news.ycombinator.com/item?id=30670626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能自動解碼字符串的軟件名稱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30504627</id>
-        <link href="https://news.ycombinator.com/item?id=30504627"/>
-        <updated>2022-02-28T20:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Name of software that auto-decodes strings?]]></summary>
-        <author>
-            <name>vedantroy</name>
-            <uri>https://news.ycombinator.com/user?id=vedantroy</uri>
         </author>
     </entry>
 </feed>
