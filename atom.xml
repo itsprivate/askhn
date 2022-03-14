@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T05:35:01.912Z</updated>
+    <updated>2022-03-14T05:55:10.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么在气候变化方面没有太多的紧迫性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30668859</id>
+        <link href="https://news.ycombinator.com/item?id=30668859"/>
+        <updated>2022-03-14T05:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't there much urgency around climate change?]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一个应用程序来集中通知？]]></title>
         <id>https://news.ycombinator.com/item?id=30668771</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在核战争的边缘，我们能不能把Cookie的横幅拿掉？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502878</id>
-        <link href="https://news.ycombinator.com/item?id=30502878"/>
-        <updated>2022-02-28T18:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: At the brink of nuclear war could we please remove Cookie banners?]]></summary>
-        <author>
-            <name>fanick</name>
-            <uri>https://news.ycombinator.com/user?id=fanick</uri>
         </author>
     </entry>
 </feed>
