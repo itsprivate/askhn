@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T17:41:29.813Z</updated>
+    <updated>2022-03-14T18:15:28.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搬到山谷是一個好的舉措嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30675795</id>
+        <link href="https://news.ycombinator.com/item?id=30675795"/>
+        <updated>2022-03-14T18:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is moving to the Valley a good move?]]></summary>
+        <author>
+            <name>melonbar</name>
+            <uri>https://news.ycombinator.com/user?id=melonbar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[親自參加的訓練營？]]></title>
+        <id>https://news.ycombinator.com/item?id=30675556</id>
+        <link href="https://news.ycombinator.com/item?id=30675556"/>
+        <updated>2022-03-14T17:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: In-Person Bootcamps?]]></summary>
+        <author>
+            <name>platzhirsch</name>
+            <uri>https://news.ycombinator.com/user?id=platzhirsch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你將如何開始你自己的小型網絡開發機構？]]></title>
         <id>https://news.ycombinator.com/item?id=30675062</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hn2017</name>
             <uri>https://news.ycombinator.com/user?id=hn2017</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以烏克蘭為基地和/或附屬的初創企業？]]></title>
-        <id>https://news.ycombinator.com/item?id=30509019</id>
-        <link href="https://news.ycombinator.com/item?id=30509019"/>
-        <updated>2022-03-01T03:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ukraine Based and/or Affiliated Startups?]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司如何創新？]]></title>
-        <id>https://news.ycombinator.com/item?id=30508654</id>
-        <link href="https://news.ycombinator.com/item?id=30508654"/>
-        <updated>2022-03-01T02:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Do Companies Innovate?]]></summary>
-        <author>
-            <name>wastoids</name>
-            <uri>https://news.ycombinator.com/user?id=wastoids</uri>
         </author>
     </entry>
 </feed>
