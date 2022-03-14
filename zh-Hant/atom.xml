@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T14:52:55.430Z</updated>
+    <updated>2022-03-14T15:15:10.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼能讓Git像Subversion一樣流行嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30673282</id>
+        <link href="https://news.ycombinator.com/item?id=30673282"/>
+        <updated>2022-03-14T15:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can anything make Git as popular as Subversion?]]></summary>
+        <author>
+            <name>lkrubner</name>
+            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你用什麼多城市航班查詢系統？]]></title>
+        <id>https://news.ycombinator.com/item?id=30673193</id>
+        <link href="https://news.ycombinator.com/item?id=30673193"/>
+        <updated>2022-03-14T14:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What multi-city flight finder do you use?]]></summary>
+        <author>
+            <name>jcuenod</name>
+            <uri>https://news.ycombinator.com/user?id=jcuenod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詐騙分子如何偽造手機號碼？]]></title>
         <id>https://news.ycombinator.com/item?id=30673009</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>traverseda</name>
             <uri>https://news.ycombinator.com/user?id=traverseda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何離開科技的圍牆花園？]]></title>
-        <id>https://news.ycombinator.com/item?id=30506446</id>
-        <link href="https://news.ycombinator.com/item?id=30506446"/>
-        <updated>2022-02-28T23:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Leave Tech Walled Gardens?]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盔甲和頭盔建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30506001</id>
-        <link href="https://news.ycombinator.com/item?id=30506001"/>
-        <updated>2022-02-28T22:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Armour and Helmet Recommendations]]></summary>
-        <author>
-            <name>nanna</name>
-            <uri>https://news.ycombinator.com/user?id=nanna</uri>
         </author>
     </entry>
 </feed>
