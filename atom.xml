@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T09:32:56.482Z</updated>
+    <updated>2022-03-14T09:52:43.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在哪里搜索有地理定位和时间戳的视频片段？]]></title>
+        <id>https://news.ycombinator.com/item?id=30670304</id>
+        <link href="https://news.ycombinator.com/item?id=30670304"/>
+        <updated>2022-03-14T09:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to search for geo-located and timestamped video footage?]]></summary>
+        <author>
+            <name>ailef</name>
+            <uri>https://news.ycombinator.com/user?id=ailef</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么安卓系统成功了，而其他系统（除了iOS）却失败了？]]></title>
         <id>https://news.ycombinator.com/item?id=30670120</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已经收到了一封 "停止 "信。该怎么做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30503983</id>
-        <link href="https://news.ycombinator.com/item?id=30503983"/>
-        <updated>2022-02-28T19:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I have received a Cease And Desist letter. What to do?]]></summary>
-        <author>
-            <name>robbiejs</name>
-            <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
         </author>
     </entry>
 </feed>

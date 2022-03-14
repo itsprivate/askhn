@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在哪里搜索有地理定位和时间戳的视频片段？]]></title>
+            <link>https://news.ycombinator.com/item?id=30670304</link>
+            <guid>https://news.ycombinator.com/item?id=30670304</guid>
+            <pubDate>Mon, 14 Mar 2022 09:40:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to search for geo-located and timestamped video footage?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么安卓系统成功了，而其他系统（除了iOS）却失败了？]]></title>
             <link>https://news.ycombinator.com/item?id=30670120</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30495916</guid>
             <pubDate>Mon, 28 Feb 2022 03:10:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Scientific Study of HN flag dynamics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已经收到了一封 "停止 "信。该怎么做？]]></title>
-            <link>https://news.ycombinator.com/item?id=30503983</link>
-            <guid>https://news.ycombinator.com/item?id=30503983</guid>
-            <pubDate>Mon, 28 Feb 2022 19:31:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: I have received a Cease And Desist letter. What to do?]]></description>
         </item>
     </channel>
 </rss>
