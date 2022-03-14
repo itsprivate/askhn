@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T13:52:02.429Z</updated>
+    <updated>2022-03-14T14:39:36.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个开发者都应该知道哪些协议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30672782</id>
+        <link href="https://news.ycombinator.com/item?id=30672782"/>
+        <updated>2022-03-14T14:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which protocols should every developer know?]]></summary>
+        <author>
+            <name>allanmacgregor</name>
+            <uri>https://news.ycombinator.com/user?id=allanmacgregor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习网络编程]]></title>
         <id>https://news.ycombinator.com/item?id=30672246</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>abrax3141</name>
             <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大流行病降低了人类生命的价值，从而使战争更有可能发生？]]></title>
-        <id>https://news.ycombinator.com/item?id=30505417</id>
-        <link href="https://news.ycombinator.com/item?id=30505417"/>
-        <updated>2022-02-28T21:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pandemic cheapened value of human lives hence making wars more likely?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
