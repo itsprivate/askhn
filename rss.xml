@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Mar 2022 20:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 20:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NFTs发生了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30677661</link>
+            <guid>https://news.ycombinator.com/item?id=30677661</guid>
+            <pubDate>Mon, 14 Mar 2022 20:15:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to NFTs?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的订户中多少百分比应该是月度订户而不是年度订户？]]></title>
+            <link>https://news.ycombinator.com/item?id=30677623</link>
+            <guid>https://news.ycombinator.com/item?id=30677623</guid>
+            <pubDate>Mon, 14 Mar 2022 20:13:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: What percent of my subscribers should be monthly vs. annual?]]></description>
+        </item>
         <item>
             <title><![CDATA[有人在使用基于锁的版本控制吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30677483</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30511002</guid>
             <pubDate>Tue, 01 Mar 2022 07:59:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Remote work, no-code, web 3... what's next?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有可能在区块链上建立反恐共识吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30510973</link>
-            <guid>https://news.ycombinator.com/item?id=30510973</guid>
-            <pubDate>Tue, 01 Mar 2022 07:54:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it possible to create counter-terrorist consensus on blockchain?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[像Lex Fridman的播客？]]></title>
-            <link>https://news.ycombinator.com/item?id=30510842</link>
-            <guid>https://news.ycombinator.com/item?id=30510842</guid>
-            <pubDate>Tue, 01 Mar 2022 07:34:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Podcasts Like Lex Fridman's?]]></description>
         </item>
     </channel>
 </rss>

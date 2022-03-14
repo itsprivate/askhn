@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T20:14:51.082Z</updated>
+    <updated>2022-03-14T20:35:24.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFTs發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30677661</id>
+        <link href="https://news.ycombinator.com/item?id=30677661"/>
+        <updated>2022-03-14T20:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to NFTs?]]></summary>
+        <author>
+            <name>dexwiz</name>
+            <uri>https://news.ycombinator.com/user?id=dexwiz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的訂戶中多少百分比應該是月度訂戶而不是年度訂戶？]]></title>
+        <id>https://news.ycombinator.com/item?id=30677623</id>
+        <link href="https://news.ycombinator.com/item?id=30677623"/>
+        <updated>2022-03-14T20:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What percent of my subscribers should be monthly vs. annual?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人在使用基於鎖的版本控制嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30677483</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jakobgreenfeld</name>
             <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能在區塊鏈上建立反恐共識嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30510973</id>
-        <link href="https://news.ycombinator.com/item?id=30510973"/>
-        <updated>2022-03-01T07:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to create counter-terrorist consensus on blockchain?]]></summary>
-        <author>
-            <name>marius_k</name>
-            <uri>https://news.ycombinator.com/user?id=marius_k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像Lex Fridman的播客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30510842</id>
-        <link href="https://news.ycombinator.com/item?id=30510842"/>
-        <updated>2022-03-01T07:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Podcasts Like Lex Fridman's?]]></summary>
-        <author>
-            <name>omnitheorist</name>
-            <uri>https://news.ycombinator.com/user?id=omnitheorist</uri>
         </author>
     </entry>
 </feed>
