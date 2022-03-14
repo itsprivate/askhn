@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-13T22:40:34.070Z</updated>
+    <updated>2022-03-14T00:41:08.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何支付俄羅斯承包商？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667239</id>
+        <link href="https://news.ycombinator.com/item?id=30667239"/>
+        <updated>2022-03-14T00:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Pay Russian Contractors?]]></summary>
+        <author>
+            <name>readytoaskhn</name>
+            <uri>https://news.ycombinator.com/user?id=readytoaskhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京為什麼要發動戰爭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667186</id>
+        <link href="https://news.ycombinator.com/item?id=30667186"/>
+        <updated>2022-03-14T00:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did Putin start the war?]]></summary>
+        <author>
+            <name>ed_balls</name>
+            <uri>https://news.ycombinator.com/user?id=ed_balls</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以讓用戶生成的內容更容易嗎？它是否會有用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667102</id>
+        <link href="https://news.ycombinator.com/item?id=30667102"/>
+        <updated>2022-03-14T00:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could I make user-generated content easier? Would it be useful?]]></summary>
+        <author>
+            <name>i14</name>
+            <uri>https://news.ycombinator.com/user?id=i14</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以讓用戶生成的內容更容易嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30666691</id>
+        <link href="https://news.ycombinator.com/item?id=30666691"/>
+        <updated>2022-03-13T23:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could I make user-generated content easier?]]></summary>
+        <author>
+            <name>i14</name>
+            <uri>https://news.ycombinator.com/user?id=i14</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將俄羅斯遊客重定向到什麼網站？]]></title>
         <id>https://news.ycombinator.com/item?id=30666386</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想花1-2小時/天關注烏克蘭戰爭新聞。我應該關注什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502038</id>
-        <link href="https://news.ycombinator.com/item?id=30502038"/>
-        <updated>2022-02-28T16:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I want to spend 1-2h/day on Ukraine war news. What should I follow?]]></summary>
-        <author>
-            <name>throwaway231943</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway231943</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼不能從非async函數中使用await？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502067</id>
-        <link href="https://news.ycombinator.com/item?id=30502067"/>
-        <updated>2022-02-28T16:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why can't await be used from non-async functions?]]></summary>
-        <author>
-            <name>endorphine</name>
-            <uri>https://news.ycombinator.com/user?id=endorphine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰會對基於文本的工作面試平臺感興趣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30501840</id>
-        <link href="https://news.ycombinator.com/item?id=30501840"/>
-        <updated>2022-02-28T16:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who would be interested in a platform for text based job interviews]]></summary>
-        <author>
-            <name>wnm</name>
-            <uri>https://news.ycombinator.com/user?id=wnm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是在互聯網上的數據庫作為唯一的後端？]]></title>
-        <id>https://news.ycombinator.com/item?id=30501699</id>
-        <link href="https://news.ycombinator.com/item?id=30501699"/>
-        <updated>2022-02-28T16:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Just database over the internet as the only backend?]]></summary>
-        <author>
-            <name>wg0</name>
-            <uri>https://news.ycombinator.com/user?id=wg0</uri>
         </author>
     </entry>
 </feed>
