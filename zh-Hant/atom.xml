@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T17:23:51.914Z</updated>
+    <updated>2022-03-14T17:41:29.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你將如何開始你自己的小型網絡開發機構？]]></title>
+        <id>https://news.ycombinator.com/item?id=30675062</id>
+        <link href="https://news.ycombinator.com/item?id=30675062"/>
+        <updated>2022-03-14T17:12:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you go about starting your own small webdev agency?]]></summary>
+        <author>
+            <name>lumenwrites</name>
+            <uri>https://news.ycombinator.com/user?id=lumenwrites</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個系統，使信息/更改不會丟失]]></title>
         <id>https://news.ycombinator.com/item?id=30675150</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wastoids</name>
             <uri>https://news.ycombinator.com/user?id=wastoids</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的播客來關注對烏克蘭的入侵嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30508216</id>
-        <link href="https://news.ycombinator.com/item?id=30508216"/>
-        <updated>2022-03-01T01:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good podcasts for following the invasion of Ukraine?]]></summary>
-        <author>
-            <name>rurp</name>
-            <uri>https://news.ycombinator.com/user?id=rurp</uri>
         </author>
     </entry>
 </feed>
