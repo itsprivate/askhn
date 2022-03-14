@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 14 Mar 2022 19:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 20:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有人在使用基于锁的版本控制吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30677483</link>
+            <guid>https://news.ycombinator.com/item?id=30677483</guid>
+            <pubDate>Mon, 14 Mar 2022 20:03:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is anyone using lock-based version control?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的谷歌账户被黑了，谷歌说他们帮不上忙]]></title>
+            <link>https://news.ycombinator.com/item?id=30677471</link>
+            <guid>https://news.ycombinator.com/item?id=30677471</guid>
+            <pubDate>Mon, 14 Mar 2022 20:02:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: My Google account was hacked, Google says they can't help]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有Coursera的工程师吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30677452</link>
+            <guid>https://news.ycombinator.com/item?id=30677452</guid>
+            <pubDate>Mon, 14 Mar 2022 20:01:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any Coursera Engineers Available?]]></description>
+        </item>
         <item>
             <title><![CDATA[第三方支付系统怎么还存在呢？]]></title>
             <link>https://news.ycombinator.com/item?id=30677233</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30510842</guid>
             <pubDate>Tue, 01 Mar 2022 07:34:20 GMT</pubDate>
             <description><![CDATA[Ask HN: Podcasts Like Lex Fridman's?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的HN是什么样子的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30510697</link>
-            <guid>https://news.ycombinator.com/item?id=30510697</guid>
-            <pubDate>Tue, 01 Mar 2022 07:14:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: What does your HN look like?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是否应该重构/重写我的个人项目（几乎没有人使用）？]]></title>
-            <link>https://news.ycombinator.com/item?id=30510329</link>
-            <guid>https://news.ycombinator.com/item?id=30510329</guid>
-            <pubDate>Tue, 01 Mar 2022 06:17:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I refactor/rewrite my personal project(that barely anybody uses)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Selenium测试人员是否在技术团队中提供实际价值？]]></title>
-            <link>https://news.ycombinator.com/item?id=30510309</link>
-            <guid>https://news.ycombinator.com/item?id=30510309</guid>
-            <pubDate>Tue, 01 Mar 2022 06:15:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do Selenium testers provide actual value in tech teams?]]></description>
         </item>
     </channel>
 </rss>
