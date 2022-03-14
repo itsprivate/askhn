@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T21:12:40.591Z</updated>
+    <updated>2022-03-14T21:30:49.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简单的低成本想法，却赚了几百万？]]></title>
+        <id>https://news.ycombinator.com/item?id=30678585</id>
+        <link href="https://news.ycombinator.com/item?id=30678585"/>
+        <updated>2022-03-14T21:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Simple low-cost ideas that made millions?]]></summary>
+        <author>
+            <name>s-xyz</name>
+            <uri>https://news.ycombinator.com/user?id=s-xyz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自我托管的A/B测试框架？]]></title>
+        <id>https://news.ycombinator.com/item?id=30678527</id>
+        <link href="https://news.ycombinator.com/item?id=30678527"/>
+        <updated>2022-03-14T21:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Self-hosted A/B testing framework?]]></summary>
+        <author>
+            <name>Raed667</name>
+            <uri>https://news.ycombinator.com/user?id=Raed667</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在西班牙的Covid生病了，Google Fi突然切断了我的电话服务]]></title>
         <id>https://news.ycombinator.com/item?id=30678249</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Lorizio</name>
             <uri>https://news.ycombinator.com/user?id=Lorizio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何帮助制止战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30511338</id>
-        <link href="https://news.ycombinator.com/item?id=30511338"/>
-        <updated>2022-03-01T08:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Help Stop the War]]></summary>
-        <author>
-            <name>miohtama</name>
-            <uri>https://news.ycombinator.com/user?id=miohtama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向俄罗斯人提供免费的VPN会比制裁更有效吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30511308</id>
-        <link href="https://news.ycombinator.com/item?id=30511308"/>
-        <updated>2022-03-01T08:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would providing Russians with free VPN be more effective than sanctions?]]></summary>
-        <author>
-            <name>5ESS</name>
-            <uri>https://news.ycombinator.com/user?id=5ESS</uri>
         </author>
     </entry>
 </feed>
