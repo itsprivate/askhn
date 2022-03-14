@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T02:07:29.808Z</updated>
+    <updated>2022-03-14T03:23:20.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么很多人讨厌Pocket？]]></title>
+        <id>https://news.ycombinator.com/item?id=30668112</id>
+        <link href="https://news.ycombinator.com/item?id=30668112"/>
+        <updated>2022-03-14T03:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do many people hate Pocket?]]></summary>
+        <author>
+            <name>rg111</name>
+            <uri>https://news.ycombinator.com/user?id=rg111</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[r/ProgrammerHumor为1.8米，/r/MachineLearning为2.3米，如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30667721</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Aaronstotle</name>
             <uri>https://news.ycombinator.com/user?id=Aaronstotle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对Ansible感到好奇，但又害怕或受阻于起步阶段？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502417</id>
-        <link href="https://news.ycombinator.com/item?id=30502417"/>
-        <updated>2022-02-28T17:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Curious about Ansible but afraid or blocked on getting started?]]></summary>
-        <author>
-            <name>MaknMoreGtnLess</name>
-            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
         </author>
     </entry>
 </feed>
