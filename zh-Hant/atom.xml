@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T04:52:50.512Z</updated>
+    <updated>2022-03-14T05:35:01.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一個應用程序來集中通知？]]></title>
+        <id>https://news.ycombinator.com/item?id=30668771</id>
+        <link href="https://news.ycombinator.com/item?id=30668771"/>
+        <updated>2022-03-14T05:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there an app to centralize notifications?]]></summary>
+        <author>
+            <name>belkarx</name>
+            <uri>https://news.ycombinator.com/user?id=belkarx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將公寓空置數月]]></title>
+        <id>https://news.ycombinator.com/item?id=30668645</id>
+        <link href="https://news.ycombinator.com/item?id=30668645"/>
+        <updated>2022-03-14T04:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Leaving an Apartment Vacant for Months]]></summary>
+        <author>
+            <name>emptyHouse</name>
+            <uri>https://news.ycombinator.com/user?id=emptyHouse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如此孤獨]]></title>
         <id>https://news.ycombinator.com/item?id=30668506</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fanick</name>
             <uri>https://news.ycombinator.com/user?id=fanick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的醫生們，你們是否與同事們分享病人的護理計劃？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502852</id>
-        <link href="https://news.ycombinator.com/item?id=30502852"/>
-        <updated>2022-02-28T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Doctors of HN, do you share careplans for patients with coworkers?]]></summary>
-        <author>
-            <name>UltimateFloofy</name>
-            <uri>https://news.ycombinator.com/user?id=UltimateFloofy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能捐贈子彈？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502773</id>
-        <link href="https://news.ycombinator.com/item?id=30502773"/>
-        <updated>2022-02-28T17:54:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I donate bullets?]]></summary>
-        <author>
-            <name>explody</name>
-            <uri>https://news.ycombinator.com/user?id=explody</uri>
         </author>
     </entry>
 </feed>
