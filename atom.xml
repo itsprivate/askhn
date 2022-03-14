@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T18:38:07.147Z</updated>
+    <updated>2022-03-14T19:11:04.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在俄罗斯的远程承包商？]]></title>
+        <id>https://news.ycombinator.com/item?id=30676606</id>
+        <link href="https://news.ycombinator.com/item?id=30676606"/>
+        <updated>2022-03-14T18:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Remote Contractors in Russia?]]></summary>
+        <author>
+            <name>digitcatphd</name>
+            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们可以谈谈汽油税和补贴吗？请提供餐巾纸数学帮助]]></title>
         <id>https://news.ycombinator.com/item?id=30675925</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于环球银行间金融电信协会(SWIFT)关闭，俄罗斯人用它来转移资金，加密货币的价值正在上升？]]></title>
-        <id>https://news.ycombinator.com/item?id=30509683</id>
-        <link href="https://news.ycombinator.com/item?id=30509683"/>
-        <updated>2022-03-01T04:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are crypto values rising bc SWIFT-cutoff Russians use it to move money?]]></summary>
-        <author>
-            <name>ManuelKiessling</name>
-            <uri>https://news.ycombinator.com/user?id=ManuelKiessling</uri>
         </author>
     </entry>
 </feed>
