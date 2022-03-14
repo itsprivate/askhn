@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T22:34:25.458Z</updated>
+    <updated>2022-03-14T23:13:30.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何迫使一家公司停止與俄羅斯做生意？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679729</id>
+        <link href="https://news.ycombinator.com/item?id=30679729"/>
+        <updated>2022-03-14T23:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to force a company to stop doing business with Russia?]]></summary>
+        <author>
+            <name>lukestateson</name>
+            <uri>https://news.ycombinator.com/user?id=lukestateson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這是俄羅斯的宣傳，還是我錯過了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30679334</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>boa00</name>
             <uri>https://news.ycombinator.com/user?id=boa00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰知道有多少烏克蘭人選擇逃往歐洲而不是逃往俄羅斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30512716</id>
-        <link href="https://news.ycombinator.com/item?id=30512716"/>
-        <updated>2022-03-01T11:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who knows how many Ukrainians chose to flee to Europe vs flee to Russia?]]></summary>
-        <author>
-            <name>Procedural</name>
-            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
         </author>
     </entry>
 </feed>
