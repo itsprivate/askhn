@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T10:52:24.600Z</updated>
+    <updated>2022-03-14T11:29:19.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[要怎样才能摧毁广告市场？]]></title>
+        <id>https://news.ycombinator.com/item?id=30671023</id>
+        <link href="https://news.ycombinator.com/item?id=30671023"/>
+        <updated>2022-03-14T11:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What will it take to destroy the Ads market?]]></summary>
+        <author>
+            <name>rockbruno</name>
+            <uri>https://news.ycombinator.com/user?id=rockbruno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主宰HN的目标运动的证明？]]></title>
         <id>https://news.ycombinator.com/item?id=30670690</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>unavailableuser</name>
             <uri>https://news.ycombinator.com/user?id=unavailableuser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏捷软件流程相关的产品名称中是否允许使用 "Agile"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30504707</id>
-        <link href="https://news.ycombinator.com/item?id=30504707"/>
-        <updated>2022-02-28T20:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is “Agile” permitted in agile software process related product names?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
