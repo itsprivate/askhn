@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T11:29:19.844Z</updated>
+    <updated>2022-03-14T13:52:02.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学习网络编程]]></title>
+        <id>https://news.ycombinator.com/item?id=30672246</id>
+        <link href="https://news.ycombinator.com/item?id=30672246"/>
+        <updated>2022-03-14T13:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learning Network Programming]]></summary>
+        <author>
+            <name>anondevvie</name>
+            <uri>https://news.ycombinator.com/user?id=anondevvie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要怎样才能摧毁广告市场？]]></title>
         <id>https://news.ycombinator.com/item?id=30671023</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对Prisma（ORM）有什么看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30504920</id>
-        <link href="https://news.ycombinator.com/item?id=30504920"/>
-        <updated>2022-02-28T20:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your thoughts on Prisma (ORM)]]></summary>
-        <author>
-            <name>unavailableuser</name>
-            <uri>https://news.ycombinator.com/user?id=unavailableuser</uri>
         </author>
     </entry>
 </feed>
