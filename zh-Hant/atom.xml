@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T00:41:08.125Z</updated>
+    <updated>2022-03-14T02:07:29.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[r/ProgrammerHumor為1.8米，/r/MachineLearning為2.3米，如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667721</id>
+        <link href="https://news.ycombinator.com/item?id=30667721"/>
+        <updated>2022-03-14T01:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: r/ProgrammerHumor at 1.8m and /r/MachineLearning at 2.3m, how?]]></summary>
+        <author>
+            <name>servytor</name>
+            <uri>https://news.ycombinator.com/user?id=servytor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鑑於對大腦的瞭解不多，生孩子是否有風險？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667460</id>
+        <link href="https://news.ycombinator.com/item?id=30667460"/>
+        <updated>2022-03-14T01:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is having children risky given that the brain is poorly understood?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何支付俄羅斯承包商？]]></title>
         <id>https://news.ycombinator.com/item?id=30667239</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MaknMoreGtnLess</name>
             <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該為實時聊天應用程序使用時間序列數據庫嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30502412</id>
-        <link href="https://news.ycombinator.com/item?id=30502412"/>
-        <updated>2022-02-28T17:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I use time-series DB for real-time chat app?]]></summary>
-        <author>
-            <name>tiffanyh</name>
-            <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享你與壞打印機的恐怖故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30502244</id>
-        <link href="https://news.ycombinator.com/item?id=30502244"/>
-        <updated>2022-02-28T17:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share your horror stories with bad printers]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
