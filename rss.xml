@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么我的乌克兰相关问题被标记了？]]></title>
+            <link>https://news.ycombinator.com/item?id=30681128</link>
+            <guid>https://news.ycombinator.com/item?id=30681128</guid>
+            <pubDate>Tue, 15 Mar 2022 02:38:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why my Ukraine related question got flagged?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么没有人谈论基于信任链的互联网？]]></title>
             <link>https://news.ycombinator.com/item?id=30680792</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30515448</guid>
             <pubDate>Tue, 01 Mar 2022 15:40:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Best resources for designing developer tools?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DIY卫星电话]]></title>
-            <link>https://news.ycombinator.com/item?id=30515418</link>
-            <guid>https://news.ycombinator.com/item?id=30515418</guid>
-            <pubDate>Tue, 01 Mar 2022 15:37:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: DIY Satellite Phone]]></description>
         </item>
     </channel>
 </rss>
