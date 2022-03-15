@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T14:31:48.255Z</updated>
+    <updated>2022-03-15T14:38:22.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對PWA（漸進式網絡應用程序）的看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30685802</id>
+        <link href="https://news.ycombinator.com/item?id=30685802"/>
+        <updated>2022-03-15T14:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thoughts on PWAs (Progressive Web Apps)?]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何開發人員在沒有管理員訪問其電腦的情況下工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30685546</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>launchiterate</name>
             <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何處理不那麼完美的FOSS項目？]]></title>
-        <id>https://news.ycombinator.com/item?id=30518251</id>
-        <link href="https://news.ycombinator.com/item?id=30518251"/>
-        <updated>2022-03-01T18:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to proceed with less-than-perfect FOSS projects?]]></summary>
-        <author>
-            <name>exorbitas</name>
-            <uri>https://news.ycombinator.com/user?id=exorbitas</uri>
         </author>
     </entry>
 </feed>

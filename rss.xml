@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 14:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 14:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对PWA（渐进式网络应用程序）的看法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30685802</link>
+            <guid>https://news.ycombinator.com/item?id=30685802</guid>
+            <pubDate>Tue, 15 Mar 2022 14:32:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: Thoughts on PWAs (Progressive Web Apps)?]]></description>
+        </item>
         <item>
             <title><![CDATA[任何开发人员在没有管理员访问其电脑的情况下工作？]]></title>
             <link>https://news.ycombinator.com/item?id=30685546</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30518300</guid>
             <pubDate>Tue, 01 Mar 2022 18:51:43 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you connect your M1 MacBook Air to your iMac?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何处理不那么完美的FOSS项目？]]></title>
-            <link>https://news.ycombinator.com/item?id=30518251</link>
-            <guid>https://news.ycombinator.com/item?id=30518251</guid>
-            <pubDate>Tue, 01 Mar 2022 18:48:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to proceed with less-than-perfect FOSS projects?]]></description>
         </item>
     </channel>
 </rss>
