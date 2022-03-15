@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T20:42:11.398Z</updated>
+    <updated>2022-03-15T22:33:14.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于A轮融资的创始人来说，哪些是最好的社区？]]></title>
+        <id>https://news.ycombinator.com/item?id=30692769</id>
+        <link href="https://news.ycombinator.com/item?id=30692769"/>
+        <updated>2022-03-15T22:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best communities for Series-A founders?]]></summary>
+        <author>
+            <name>kodjima33</name>
+            <uri>https://news.ycombinator.com/user?id=kodjima33</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何为一个新的、小型的软件机构争取客户？]]></title>
         <id>https://news.ycombinator.com/item?id=30691266</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>DevopsQuestions</name>
             <uri>https://news.ycombinator.com/user?id=DevopsQuestions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果可能在俄罗斯禁用所有手机吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30520636</id>
-        <link href="https://news.ycombinator.com/item?id=30520636"/>
-        <updated>2022-03-01T22:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could Apple disable all phones in Russia?]]></summary>
-        <author>
-            <name>arisAlexis</name>
-            <uri>https://news.ycombinator.com/user?id=arisAlexis</uri>
         </author>
     </entry>
 </feed>
