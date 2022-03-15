@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T22:43:28.077Z</updated>
+    <updated>2022-03-15T23:13:57.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[构建一个公司，使其在法律上不能被Facebook收购？]]></title>
+        <id>https://news.ycombinator.com/item?id=30693094</id>
+        <link href="https://news.ycombinator.com/item?id=30693094"/>
+        <updated>2022-03-15T23:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Structure a company so that it legally cannot be acquired by Facebook?]]></summary>
+        <author>
+            <name>quantum-crt</name>
+            <uri>https://news.ycombinator.com/user?id=quantum-crt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于证据的工人/公司匹配？]]></title>
+        <id>https://news.ycombinator.com/item?id=30693049</id>
+        <link href="https://news.ycombinator.com/item?id=30693049"/>
+        <updated>2022-03-15T22:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Evidence-based worker/company fit?]]></summary>
+        <author>
+            <name>fizzyfizz</name>
+            <uri>https://news.ycombinator.com/user?id=fizzyfizz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是先启动前端功能组件好还是先启动API好？]]></title>
         <id>https://news.ycombinator.com/item?id=30692865</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>zakokor</name>
             <uri>https://news.ycombinator.com/user?id=zakokor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁想合作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30521735</id>
-        <link href="https://news.ycombinator.com/item?id=30521735"/>
-        <updated>2022-03-01T23:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Wants to Collaborate?]]></summary>
-        <author>
-            <name>cloudsec9</name>
-            <uri>https://news.ycombinator.com/user?id=cloudsec9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否觉得你曾经 "渠道基建"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30521461</id>
-        <link href="https://news.ycombinator.com/item?id=30521461"/>
-        <updated>2022-03-01T23:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you feel you ever 'Channel Infrormation'?]]></summary>
-        <author>
-            <name>samstave</name>
-            <uri>https://news.ycombinator.com/user?id=samstave</uri>
         </author>
     </entry>
 </feed>
