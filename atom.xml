@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T07:13:22.077Z</updated>
+    <updated>2022-03-15T09:32:48.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们学校的早晨是如何开始的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30683178</id>
+        <link href="https://news.ycombinator.com/item?id=30683178"/>
+        <updated>2022-03-15T09:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did school morning begin at your school?]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用2种源语言进行更好的自动翻译？]]></title>
         <id>https://news.ycombinator.com/item?id=30682425</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>trashymctrash</name>
             <uri>https://news.ycombinator.com/user?id=trashymctrash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么新出现的网络浏览器让你感到兴奋吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30515806</id>
-        <link href="https://news.ycombinator.com/item?id=30515806"/>
-        <updated>2022-03-01T16:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any up-and-coming web browsers that excite you?]]></summary>
-        <author>
-            <name>chillycurve</name>
-            <uri>https://news.ycombinator.com/user?id=chillycurve</uri>
         </author>
     </entry>
 </feed>
