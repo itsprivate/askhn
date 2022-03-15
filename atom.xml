@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T23:13:57.571Z</updated>
+    <updated>2022-03-15T23:41:12.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助你的网站或文章获得排名的SEO黑客？]]></title>
+        <id>https://news.ycombinator.com/item?id=30693324</id>
+        <link href="https://news.ycombinator.com/item?id=30693324"/>
+        <updated>2022-03-15T23:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SEO hacks that helped you to rank websites or articles?]]></summary>
+        <author>
+            <name>thescribbblr</name>
+            <uri>https://news.ycombinator.com/user?id=thescribbblr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[构建一个公司，使其在法律上不能被Facebook收购？]]></title>
         <id>https://news.ycombinator.com/item?id=30693094</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cft</name>
             <uri>https://news.ycombinator.com/user?id=cft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在寻找SaaS服务？(2022年3月)]]></title>
-        <id>https://news.ycombinator.com/item?id=30521750</id>
-        <link href="https://news.ycombinator.com/item?id=30521750"/>
-        <updated>2022-03-01T23:59:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is looking for a SaaS service? (March 2022)]]></summary>
-        <author>
-            <name>zakokor</name>
-            <uri>https://news.ycombinator.com/user?id=zakokor</uri>
         </author>
     </entry>
 </feed>
