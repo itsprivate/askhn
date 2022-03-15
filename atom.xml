@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T19:52:23.094Z</updated>
+    <updated>2022-03-15T20:42:11.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何为一个新的、小型的软件机构争取客户？]]></title>
+        <id>https://news.ycombinator.com/item?id=30691266</id>
+        <link href="https://news.ycombinator.com/item?id=30691266"/>
+        <updated>2022-03-15T20:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get clients for a new, small software agency?]]></summary>
+        <author>
+            <name>gofer777</name>
+            <uri>https://news.ycombinator.com/user?id=gofer777</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你，一个单独的开发者/小团队，如何在2022年做出一个可扩展的网络应用？]]></title>
         <id>https://news.ycombinator.com/item?id=30690485</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>arisAlexis</name>
             <uri>https://news.ycombinator.com/user?id=arisAlexis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们能否停止与俄罗斯电信公司的对接，作为反战的抗议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30520590</id>
-        <link href="https://news.ycombinator.com/item?id=30520590"/>
-        <updated>2022-03-01T21:56:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can we stop peering with Russian telcos as an anti-war protest?]]></summary>
-        <author>
-            <name>rimutaka</name>
-            <uri>https://news.ycombinator.com/user?id=rimutaka</uri>
         </author>
     </entry>
 </feed>

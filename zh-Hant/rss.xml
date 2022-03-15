@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 20:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何為一個新的、小型的軟件機構爭取客戶？]]></title>
+            <link>https://news.ycombinator.com/item?id=30691266</link>
+            <guid>https://news.ycombinator.com/item?id=30691266</guid>
+            <pubDate>Tue, 15 Mar 2022 20:36:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to get clients for a new, small software agency?]]></description>
+        </item>
         <item>
             <title><![CDATA[你，一個單獨的開發者/小團隊，如何在2022年做出一個可擴展的網絡應用？]]></title>
             <link>https://news.ycombinator.com/item?id=30690485</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30520636</guid>
             <pubDate>Tue, 01 Mar 2022 22:00:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Could Apple disable all phones in Russia?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們能否停止與俄羅斯電信公司的對接，作為反戰的抗議？]]></title>
-            <link>https://news.ycombinator.com/item?id=30520590</link>
-            <guid>https://news.ycombinator.com/item?id=30520590</guid>
-            <pubDate>Tue, 01 Mar 2022 21:56:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can we stop peering with Russian telcos as an anti-war protest?]]></description>
         </item>
     </channel>
 </rss>
