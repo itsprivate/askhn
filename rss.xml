@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 14:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[任何开发人员在没有管理员访问其电脑的情况下工作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30685546</link>
+            <guid>https://news.ycombinator.com/item?id=30685546</guid>
+            <pubDate>Tue, 15 Mar 2022 14:13:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any developers work without Administrator access to their computer?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有一个纯粹的基于短信的用户界面？]]></title>
             <link>https://news.ycombinator.com/item?id=30685223</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30518251</guid>
             <pubDate>Tue, 01 Mar 2022 18:48:46 GMT</pubDate>
             <description><![CDATA[Ask HN: How to proceed with less-than-perfect FOSS projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在做什么？(2022年3月)]]></title>
-            <link>https://news.ycombinator.com/item?id=30517525</link>
-            <guid>https://news.ycombinator.com/item?id=30517525</guid>
-            <pubDate>Tue, 01 Mar 2022 18:02:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Are You Up To? (March 2022)]]></description>
         </item>
     </channel>
 </rss>

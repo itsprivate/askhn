@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T14:13:43.348Z</updated>
+    <updated>2022-03-15T14:31:48.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何開發人員在沒有管理員訪問其電腦的情況下工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30685546</id>
+        <link href="https://news.ycombinator.com/item?id=30685546"/>
+        <updated>2022-03-15T14:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any developers work without Administrator access to their computer?]]></summary>
+        <author>
+            <name>gwbas1c</name>
+            <uri>https://news.ycombinator.com/user?id=gwbas1c</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一個純粹的基於短信的用戶界面？]]></title>
         <id>https://news.ycombinator.com/item?id=30685223</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>exorbitas</name>
             <uri>https://news.ycombinator.com/user?id=exorbitas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在做什麼？(2022年3月)]]></title>
-        <id>https://news.ycombinator.com/item?id=30517525</id>
-        <link href="https://news.ycombinator.com/item?id=30517525"/>
-        <updated>2022-03-01T18:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Are You Up To? (March 2022)]]></summary>
-        <author>
-            <name>david927</name>
-            <uri>https://news.ycombinator.com/user?id=david927</uri>
         </author>
     </entry>
 </feed>
