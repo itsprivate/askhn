@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 00:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼沒有人談論基於信任鏈的互聯網？]]></title>
+            <link>https://news.ycombinator.com/item?id=30680792</link>
+            <guid>https://news.ycombinator.com/item?id=30680792</guid>
+            <pubDate>Tue, 15 Mar 2022 01:33:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is no one talking about chain of trust based internet?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼臺灣的Covid案例這麼少？]]></title>
+            <link>https://news.ycombinator.com/item?id=30680767</link>
+            <guid>https://news.ycombinator.com/item?id=30680767</guid>
+            <pubDate>Tue, 15 Mar 2022 01:28:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Does Taiwan Have So Few Covid Cases?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[替代Vercel的產品？]]></title>
+            <link>https://news.ycombinator.com/item?id=30680538</link>
+            <guid>https://news.ycombinator.com/item?id=30680538</guid>
+            <pubDate>Tue, 15 Mar 2022 00:56:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Alternatives to Vercel?]]></description>
+        </item>
         <item>
             <title><![CDATA[[反饋請求] 鏈接電子郵件和錢包的Dapp]]></title>
             <link>https://news.ycombinator.com/item?id=30680325</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30515418</guid>
             <pubDate>Tue, 01 Mar 2022 15:37:20 GMT</pubDate>
             <description><![CDATA[Ask HN: DIY Satellite Phone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[目前最好的、最快的Web應用UI框架是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30514552</link>
-            <guid>https://news.ycombinator.com/item?id=30514552</guid>
-            <pubDate>Tue, 01 Mar 2022 14:31:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's currently the best and fastest UI framework for web apps?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Outline.com是否被撤消了？]]></title>
-            <link>https://news.ycombinator.com/item?id=30514353</link>
-            <guid>https://news.ycombinator.com/item?id=30514353</guid>
-            <pubDate>Tue, 01 Mar 2022 14:13:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: Was Outline.com Taken Offline?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linode的DNS是否癱瘓？]]></title>
-            <link>https://news.ycombinator.com/item?id=30514017</link>
-            <guid>https://news.ycombinator.com/item?id=30514017</guid>
-            <pubDate>Tue, 01 Mar 2022 13:47:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Linode DNS Down?]]></description>
         </item>
     </channel>
 </rss>
