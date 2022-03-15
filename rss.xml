@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 13:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 13:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我如何停止靠工资生活？]]></title>
+            <link>https://news.ycombinator.com/item?id=30685182</link>
+            <guid>https://news.ycombinator.com/item?id=30685182</guid>
+            <pubDate>Tue, 15 Mar 2022 13:46:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I Stop Living Paycheck to Paycheck?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么FreeBSD的发布方式是这样的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30685104</link>
+            <guid>https://news.ycombinator.com/item?id=30685104</guid>
+            <pubDate>Tue, 15 Mar 2022 13:39:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why does FreeBSD do Releases the way the do?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否拥有单一目的域名？]]></title>
             <link>https://news.ycombinator.com/item?id=30684938</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30517434</guid>
             <pubDate>Tue, 01 Mar 2022 17:55:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Should HN require/encourage job postings to have a salary range?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你也只看HN的头条新闻和用户评论吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30517295</link>
-            <guid>https://news.ycombinator.com/item?id=30517295</guid>
-            <pubDate>Tue, 01 Mar 2022 17:46:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you also only read HN headlines and user comments?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你为什么喜欢编程？]]></title>
-            <link>https://news.ycombinator.com/item?id=30517221</link>
-            <guid>https://news.ycombinator.com/item?id=30517221</guid>
-            <pubDate>Tue, 01 Mar 2022 17:41:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do you love programming?]]></description>
         </item>
     </channel>
 </rss>
