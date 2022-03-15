@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T09:32:48.534Z</updated>
+    <updated>2022-03-15T10:52:06.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰會閱讀所有不斷出版的軟件書？]]></title>
+        <id>https://news.ycombinator.com/item?id=30683777</id>
+        <link href="https://news.ycombinator.com/item?id=30683777"/>
+        <updated>2022-03-15T10:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who reads all of the constantly published software book?]]></summary>
+        <author>
+            <name>Distozion</name>
+            <uri>https://news.ycombinator.com/user?id=Distozion</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個內向的懷疑論者科學家對靈性的理解]]></title>
+        <id>https://news.ycombinator.com/item?id=30683594</id>
+        <link href="https://news.ycombinator.com/item?id=30683594"/>
+        <updated>2022-03-15T10:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Understanding spirituality for an introverted skeptic scientist]]></summary>
+        <author>
+            <name>throwaway-kr</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway-kr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你們學校的早晨是如何開始的？]]></title>
         <id>https://news.ycombinator.com/item?id=30683178</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aqeelat</name>
             <uri>https://news.ycombinator.com/user?id=aqeelat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼和絃式鍵盤沒有在軟件工程師中流行起來？]]></title>
-        <id>https://news.ycombinator.com/item?id=30515912</id>
-        <link href="https://news.ycombinator.com/item?id=30515912"/>
-        <updated>2022-03-01T16:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why have chorded keyboards not become popular among software engineers?]]></summary>
-        <author>
-            <name>ahelwer</name>
-            <uri>https://news.ycombinator.com/user?id=ahelwer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何穩定你的團隊/公司的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30515844</id>
-        <link href="https://news.ycombinator.com/item?id=30515844"/>
-        <updated>2022-03-01T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you stabilize your team/company?]]></summary>
-        <author>
-            <name>trashymctrash</name>
-            <uri>https://news.ycombinator.com/user?id=trashymctrash</uri>
         </author>
     </entry>
 </feed>
