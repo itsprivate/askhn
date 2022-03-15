@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T16:49:55.722Z</updated>
+    <updated>2022-03-15T17:52:30.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我不能在我的浏览器中运行桌面Linux？]]></title>
+        <id>https://news.ycombinator.com/item?id=30688352</id>
+        <link href="https://news.ycombinator.com/item?id=30688352"/>
+        <updated>2022-03-15T17:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can’t I run desktop Linux in my browser?]]></summary>
+        <author>
+            <name>nwienert</name>
+            <uri>https://news.ycombinator.com/user?id=nwienert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博士学位是否暗示着你曾试图避免在工业界工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30687467</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2P数据库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30519226</id>
-        <link href="https://news.ycombinator.com/item?id=30519226"/>
-        <updated>2022-03-01T20:02:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: P2P Databases?]]></summary>
-        <author>
-            <name>culpable_pickle</name>
-            <uri>https://news.ycombinator.com/user?id=culpable_pickle</uri>
         </author>
     </entry>
 </feed>
