@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T18:54:43.630Z</updated>
+    <updated>2022-03-15T19:52:23.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你，一個單獨的開發者/小團隊，如何在2022年做出一個可擴展的網絡應用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30690485</id>
+        <link href="https://news.ycombinator.com/item?id=30690485"/>
+        <updated>2022-03-15T19:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you, a solo dev/small team, make a scalable web app in 2022?]]></summary>
+        <author>
+            <name>star_juice</name>
+            <uri>https://news.ycombinator.com/user?id=star_juice</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於非技術人士來說，最受歡迎的雲驅動器存儲是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30689268</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rimutaka</name>
             <uri>https://news.ycombinator.com/user?id=rimutaka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些最好的增長/病毒循環？]]></title>
-        <id>https://news.ycombinator.com/item?id=30520324</id>
-        <link href="https://news.ycombinator.com/item?id=30520324"/>
-        <updated>2022-03-01T21:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some of the best growth/viral loops?]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
