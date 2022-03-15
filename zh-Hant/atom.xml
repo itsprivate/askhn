@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T06:38:42.288Z</updated>
+    <updated>2022-03-15T07:13:22.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用2種源語言進行更好的自動翻譯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30682425</id>
+        <link href="https://news.ycombinator.com/item?id=30682425"/>
+        <updated>2022-03-15T07:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Better automated translation with 2 source languages?]]></summary>
+        <author>
+            <name>seinecle</name>
+            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該住在哪裡？]]></title>
         <id>https://news.ycombinator.com/item?id=30682172</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chillycurve</name>
             <uri>https://news.ycombinator.com/user?id=chillycurve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在招聘？(2022年3月)]]></title>
-        <id>https://news.ycombinator.com/item?id=30515750</id>
-        <link href="https://news.ycombinator.com/item?id=30515750"/>
-        <updated>2022-03-01T16:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is hiring? (March 2022)]]></summary>
-        <author>
-            <name>whoishiring</name>
-            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
         </author>
     </entry>
 </feed>
