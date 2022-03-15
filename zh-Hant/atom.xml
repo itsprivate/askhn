@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T17:52:30.872Z</updated>
+    <updated>2022-03-15T18:16:18.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,27 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元空間有什麼好的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30688803</id>
+        <link href="https://news.ycombinator.com/item?id=30688803"/>
+        <updated>2022-03-15T18:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's so great about the metaverse?]]></summary>
+        <author>
+            <name>GTP</name>
+            <uri>https://news.ycombinator.com/user?id=GTP</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://news.ycombinator.com/item?id=30688754</id>
+        <link href="https://news.ycombinator.com/item?id=30688754"/>
+        <updated>2022-03-15T18:07:14.000Z</updated>
+        <author>
+            <name>whyho</name>
+            <uri>https://news.ycombinator.com/user?id=whyho</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我不能在我的瀏覽器中運行桌面Linux？]]></title>
         <id>https://news.ycombinator.com/item?id=30688352</id>
@@ -6591,28 +6612,6 @@
         <author>
             <name>truetraveller</name>
             <uri>https://news.ycombinator.com/user?id=truetraveller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[製作機器人為烏克蘭自動填寫請願書是否有幫助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30520182</id>
-        <link href="https://news.ycombinator.com/item?id=30520182"/>
-        <updated>2022-03-01T21:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could it help to make bots to automatically fill petitions for Ukraine?]]></summary>
-        <author>
-            <name>FrenchDevRemote</name>
-            <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對初創企業來說，有哪些 "非營銷"/沉默的營銷策略？]]></title>
-        <id>https://news.ycombinator.com/item?id=30519944</id>
-        <link href="https://news.ycombinator.com/item?id=30519944"/>
-        <updated>2022-03-01T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some “non-marketing”/silent marketing strategies for startups?]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
