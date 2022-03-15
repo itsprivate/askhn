@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T22:33:14.227Z</updated>
+    <updated>2022-03-15T22:43:28.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是先啟動前端功能組件好還是先啟動API好？]]></title>
+        <id>https://news.ycombinator.com/item?id=30692865</id>
+        <link href="https://news.ycombinator.com/item?id=30692865"/>
+        <updated>2022-03-15T22:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it better to start a front-end feature component first or API first?]]></summary>
+        <author>
+            <name>abhpro</name>
+            <uri>https://news.ycombinator.com/user?id=abhpro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於A輪融資的創始人來說，哪些是最好的社區？]]></title>
         <id>https://news.ycombinator.com/item?id=30692769</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>samstave</name>
             <uri>https://news.ycombinator.com/user?id=samstave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能在4個月內賺到5萬美元？]]></title>
-        <id>https://news.ycombinator.com/item?id=30521077</id>
-        <link href="https://news.ycombinator.com/item?id=30521077"/>
-        <updated>2022-03-01T22:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I make $50k in 4 months?]]></summary>
-        <author>
-            <name>DevopsQuestions</name>
-            <uri>https://news.ycombinator.com/user?id=DevopsQuestions</uri>
         </author>
     </entry>
 </feed>

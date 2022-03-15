@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 15 Mar 2022 22:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是先啟動前端功能組件好還是先啟動API好？]]></title>
+            <link>https://news.ycombinator.com/item?id=30692865</link>
+            <guid>https://news.ycombinator.com/item?id=30692865</guid>
+            <pubDate>Tue, 15 Mar 2022 22:37:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it better to start a front-end feature component first or API first?]]></description>
+        </item>
         <item>
             <title><![CDATA[對於A輪融資的創始人來說，哪些是最好的社區？]]></title>
             <link>https://news.ycombinator.com/item?id=30692769</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30521461</guid>
             <pubDate>Tue, 01 Mar 2022 23:25:43 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you feel you ever 'Channel Infrormation'?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我怎樣才能在4個月內賺到5萬美元？]]></title>
-            <link>https://news.ycombinator.com/item?id=30521077</link>
-            <guid>https://news.ycombinator.com/item?id=30521077</guid>
-            <pubDate>Tue, 01 Mar 2022 22:45:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I make $50k in 4 months?]]></description>
         </item>
     </channel>
 </rss>
