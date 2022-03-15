@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T11:11:55.885Z</updated>
+    <updated>2022-03-15T11:51:31.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該創建一個雲基地偵察工具嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30684152</id>
+        <link href="https://news.ycombinator.com/item?id=30684152"/>
+        <updated>2022-03-15T11:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I create a cloudbase reconnaissance tool?]]></summary>
+        <author>
+            <name>Shazeb</name>
+            <uri>https://news.ycombinator.com/user?id=Shazeb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何推廣瑞士的MS 365替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30683881</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>david927</name>
             <uri>https://news.ycombinator.com/user?id=david927</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非傳統的股權贈與？]]></title>
-        <id>https://news.ycombinator.com/item?id=30516450</id>
-        <link href="https://news.ycombinator.com/item?id=30516450"/>
-        <updated>2022-03-01T16:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-Traditional Equity Grants?]]></summary>
-        <author>
-            <name>lakewobegon</name>
-            <uri>https://news.ycombinator.com/user?id=lakewobegon</uri>
         </author>
     </entry>
 </feed>
