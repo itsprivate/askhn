@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T02:54:05.465Z</updated>
+    <updated>2022-03-15T04:14:40.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么大多数美国人只关心乌克兰，甚至不关心美国？]]></title>
+        <id>https://news.ycombinator.com/item?id=30681574</id>
+        <link href="https://news.ycombinator.com/item?id=30681574"/>
+        <updated>2022-03-15T04:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do most Americans only care about Ukraine, and not even America?]]></summary>
+        <author>
+            <name>nikolqy</name>
+            <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我的乌克兰相关问题被标记了？]]></title>
         <id>https://news.ycombinator.com/item?id=30681128</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whoishiring</name>
             <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计开发者工具的最佳资源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30515448</id>
-        <link href="https://news.ycombinator.com/item?id=30515448"/>
-        <updated>2022-03-01T15:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best resources for designing developer tools?]]></summary>
-        <author>
-            <name>SJMosley</name>
-            <uri>https://news.ycombinator.com/user?id=SJMosley</uri>
         </author>
     </entry>
 </feed>
