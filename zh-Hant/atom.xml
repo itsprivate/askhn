@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-14T23:51:40.414Z</updated>
+    <updated>2022-03-15T00:37:09.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[[反饋請求] 鏈接電子郵件和錢包的Dapp]]></title>
+        <id>https://news.ycombinator.com/item?id=30680325</id>
+        <link href="https://news.ycombinator.com/item?id=30680325"/>
+        <updated>2022-03-15T00:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: [Feedback Request] Dapp that links email and wallet]]></summary>
+        <author>
+            <name>30minAdayHN</name>
+            <uri>https://news.ycombinator.com/user?id=30minAdayHN</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[還有人在Gmail中收到奇怪的胡言亂語的郵件嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30680062</id>
+        <link href="https://news.ycombinator.com/item?id=30680062"/>
+        <updated>2022-03-14T23:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anybody else getting strange gibberish emails in Gmail?]]></summary>
+        <author>
+            <name>superasn</name>
+            <uri>https://news.ycombinator.com/user?id=superasn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有很酷的架構圖都在哪裡？]]></title>
         <id>https://news.ycombinator.com/item?id=30680022</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>senko</name>
             <uri>https://news.ycombinator.com/user?id=senko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的VPS供應商]]></title>
-        <id>https://news.ycombinator.com/item?id=30513646</id>
-        <link href="https://news.ycombinator.com/item?id=30513646"/>
-        <updated>2022-03-01T13:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: VPS Providers in Russia]]></summary>
-        <author>
-            <name>3np</name>
-            <uri>https://news.ycombinator.com/user?id=3np</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理互聯網上的謊言？]]></title>
-        <id>https://news.ycombinator.com/item?id=30513108</id>
-        <link href="https://news.ycombinator.com/item?id=30513108"/>
-        <updated>2022-03-01T12:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with lies on the internet?]]></summary>
-        <author>
-            <name>drenvuk</name>
-            <uri>https://news.ycombinator.com/user?id=drenvuk</uri>
         </author>
     </entry>
 </feed>
