@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-15T15:35:07.422Z</updated>
+    <updated>2022-03-15T15:51:38.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[单身是否会损害你的生产力？]]></title>
+        <id>https://news.ycombinator.com/item?id=30686721</id>
+        <link href="https://news.ycombinator.com/item?id=30686721"/>
+        <updated>2022-03-15T15:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does being single hurt your productivity?]]></summary>
+        <author>
+            <name>minroot</name>
+            <uri>https://news.ycombinator.com/user?id=minroot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为未获资助的初创企业提供免费云主机？]]></title>
         <id>https://news.ycombinator.com/item?id=30686389</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程师的创始人应该给自己支付市场价格吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30518855</id>
-        <link href="https://news.ycombinator.com/item?id=30518855"/>
-        <updated>2022-03-01T19:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should software engineer founders pay themselves market rates?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
