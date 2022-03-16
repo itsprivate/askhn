@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T14:19:42.481Z</updated>
+    <updated>2022-03-16T15:29:29.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於拉動請求的可重複使用的暫存實例？]]></title>
+        <id>https://news.ycombinator.com/item?id=30699732</id>
+        <link href="https://news.ycombinator.com/item?id=30699732"/>
+        <updated>2022-03-16T15:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Pull requests based reviwable staging instance?]]></summary>
+        <author>
+            <name>Existenceblinks</name>
+            <uri>https://news.ycombinator.com/user?id=Existenceblinks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國是下一個超級大國嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30699686</id>
+        <link href="https://news.ycombinator.com/item?id=30699686"/>
+        <updated>2022-03-16T15:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is China the Next Superpower?]]></summary>
+        <author>
+            <name>davgoldin</name>
+            <uri>https://news.ycombinator.com/user?id=davgoldin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在工作中使用個人GitHub？]]></title>
+        <id>https://news.ycombinator.com/item?id=30699640</id>
+        <link href="https://news.ycombinator.com/item?id=30699640"/>
+        <updated>2022-03-16T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Using Personal GitHub for Work?]]></summary>
+        <author>
+            <name>shay_ker</name>
+            <uri>https://news.ycombinator.com/user?id=shay_ker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推薦一款價格低廉且不受天氣影響的電腦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30699453</id>
+        <link href="https://news.ycombinator.com/item?id=30699453"/>
+        <updated>2022-03-16T14:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations for an Inexpensive and Weatherproof Computer?]]></summary>
+        <author>
+            <name>osmode</name>
+            <uri>https://news.ycombinator.com/user?id=osmode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新激發內在動力]]></title>
         <id>https://news.ycombinator.com/item?id=30698813</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>passwert</name>
             <uri>https://news.ycombinator.com/user?id=passwert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[請問Airbnb能否幫助在中歐的烏克蘭逃亡者提供住房？]]></title>
-        <id>https://news.ycombinator.com/item?id=30526667</id>
-        <link href="https://news.ycombinator.com/item?id=30526667"/>
-        <updated>2022-03-02T12:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can Airbnb Help housing Ukrainian escapees in central europe, please?]]></summary>
-        <author>
-            <name>nakedrobot2</name>
-            <uri>https://news.ycombinator.com/user?id=nakedrobot2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有用C++編寫的好的用戶空間TCP/IP實現？]]></title>
-        <id>https://news.ycombinator.com/item?id=30526665</id>
-        <link href="https://news.ycombinator.com/item?id=30526665"/>
-        <updated>2022-03-02T12:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there good userspace TCP/IP implementations written in C++]]></summary>
-        <author>
-            <name>ParallelThread</name>
-            <uri>https://news.ycombinator.com/user?id=ParallelThread</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否僱傭了一個私人助理作為程序員？]]></title>
-        <id>https://news.ycombinator.com/item?id=30526119</id>
-        <link href="https://news.ycombinator.com/item?id=30526119"/>
-        <updated>2022-03-02T11:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you hired a personal assistant as a programmer?]]></summary>
-        <author>
-            <name>throwex</name>
-            <uri>https://news.ycombinator.com/user?id=throwex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠程桌面和SSH終端SaaS]]></title>
-        <id>https://news.ycombinator.com/item?id=30526091</id>
-        <link href="https://news.ycombinator.com/item?id=30526091"/>
-        <updated>2022-03-02T11:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Remote desktop and SSH terminal SaaS]]></summary>
-        <author>
-            <name>provetza</name>
-            <uri>https://news.ycombinator.com/user?id=provetza</uri>
         </author>
     </entry>
 </feed>
