@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[誰會關心認證？]]></title>
+            <link>https://news.ycombinator.com/item?id=30695474</link>
+            <guid>https://news.ycombinator.com/item?id=30695474</guid>
+            <pubDate>Wed, 16 Mar 2022 04:54:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who cares about certifications?]]></description>
+        </item>
         <item>
             <title><![CDATA[接受預訂單的倫理問題]]></title>
             <link>https://news.ycombinator.com/item?id=30694875</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30522845</guid>
             <pubDate>Wed, 02 Mar 2022 02:12:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Version Control for Non-Engineers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有哪些有史以來最好的API被設計出來了？]]></title>
-            <link>https://news.ycombinator.com/item?id=30522700</link>
-            <guid>https://news.ycombinator.com/item?id=30522700</guid>
-            <pubDate>Wed, 02 Mar 2022 01:55:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are some of the best APIs ever designed?]]></description>
         </item>
     </channel>
 </rss>
