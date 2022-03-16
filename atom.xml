@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T00:37:56.980Z</updated>
+    <updated>2022-03-16T02:59:08.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在低薪工作中重新设定期望值]]></title>
+        <id>https://news.ycombinator.com/item?id=30694651</id>
+        <link href="https://news.ycombinator.com/item?id=30694651"/>
+        <updated>2022-03-16T02:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to reset expectations with a lower paying job]]></summary>
+        <author>
+            <name>nonprofit_ta</name>
+            <uri>https://news.ycombinator.com/user?id=nonprofit_ta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么iOS允许从剪贴板自动粘贴？]]></title>
+        <id>https://news.ycombinator.com/item?id=30694569</id>
+        <link href="https://news.ycombinator.com/item?id=30694569"/>
+        <updated>2022-03-16T02:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does iOS allow auto pasting from clipboard]]></summary>
+        <author>
+            <name>social_quotient</name>
+            <uri>https://news.ycombinator.com/user?id=social_quotient</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Chrome中嵌入VPN]]></title>
         <id>https://news.ycombinator.com/item?id=30693780</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>searchableguy</name>
             <uri>https://news.ycombinator.com/user?id=searchableguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Chrome上使用uBlock Origin，Gmail是否停止工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30522524</id>
-        <link href="https://news.ycombinator.com/item?id=30522524"/>
-        <updated>2022-03-02T01:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?]]></summary>
-        <author>
-            <name>drimphgol</name>
-            <uri>https://news.ycombinator.com/user?id=drimphgol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人从 "谁想被雇用 "的主题中被雇用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30522436</id>
-        <link href="https://news.ycombinator.com/item?id=30522436"/>
-        <updated>2022-03-02T01:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone been hired from the “Who wants to be hired” threads?]]></summary>
-        <author>
-            <name>cgb223</name>
-            <uri>https://news.ycombinator.com/user?id=cgb223</uri>
         </author>
     </entry>
 </feed>
