@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T15:29:29.225Z</updated>
+    <updated>2022-03-16T15:59:50.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當你用宣傳或一種意識形態來訓練一個偉大的人工智能時會發生什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30699996</id>
+        <link href="https://news.ycombinator.com/item?id=30699996"/>
+        <updated>2022-03-16T15:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens when you train a great AI with propaganda or one ideology?]]></summary>
+        <author>
+            <name>sebastianconcpt</name>
+            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於拉動請求的可重複使用的暫存實例？]]></title>
         <id>https://news.ycombinator.com/item?id=30699732</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mr_gr</name>
             <uri>https://news.ycombinator.com/user?id=mr_gr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何重新進入工程領域？]]></title>
-        <id>https://news.ycombinator.com/item?id=30526875</id>
-        <link href="https://news.ycombinator.com/item?id=30526875"/>
-        <updated>2022-03-02T13:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get back into engineering?]]></summary>
-        <author>
-            <name>passwert</name>
-            <uri>https://news.ycombinator.com/user?id=passwert</uri>
         </author>
     </entry>
 </feed>
