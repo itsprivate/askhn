@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T07:31:53.376Z</updated>
+    <updated>2022-03-16T07:38:39.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼這一點如此難以把握？]]></title>
+        <id>https://news.ycombinator.com/item?id=30696215</id>
+        <link href="https://news.ycombinator.com/item?id=30696215"/>
+        <updated>2022-03-16T07:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why this is so difficult to grasp?]]></summary>
+        <author>
+            <name>lngnmn2</name>
+            <uri>https://news.ycombinator.com/user?id=lngnmn2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配置安卓手機以阻止YouTube？]]></title>
         <id>https://news.ycombinator.com/item?id=30696132</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Renaud</name>
             <uri>https://news.ycombinator.com/user?id=Renaud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消費者是否會用到10Gbit互聯網？]]></title>
-        <id>https://news.ycombinator.com/item?id=30524152</id>
-        <link href="https://news.ycombinator.com/item?id=30524152"/>
-        <updated>2022-03-02T05:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will consumers ever have a use for 10Gbit internet]]></summary>
-        <author>
-            <name>Gigachad</name>
-            <uri>https://news.ycombinator.com/user?id=Gigachad</uri>
         </author>
     </entry>
 </feed>
