@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T21:38:21.374Z</updated>
+    <updated>2022-03-16T22:52:31.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我要求提供HN上發表的一篇個人發展文章的鏈接。]]></title>
+        <id>https://news.ycombinator.com/item?id=30705086</id>
+        <link href="https://news.ycombinator.com/item?id=30705086"/>
+        <updated>2022-03-16T22:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I ask for the link of an article of personal development published on HN]]></summary>
+        <author>
+            <name>kahon65</name>
+            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些最近的藝術（過去~20年）會在500年後被人熟知？]]></title>
+        <id>https://news.ycombinator.com/item?id=30705039</id>
+        <link href="https://news.ycombinator.com/item?id=30705039"/>
+        <updated>2022-03-16T22:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What recent art (last ~20 years) will be well known in 500 years?]]></summary>
+        <author>
+            <name>omosubi</name>
+            <uri>https://news.ycombinator.com/user?id=omosubi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何證明占星術有效？]]></title>
         <id>https://news.ycombinator.com/item?id=30704336</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>devenvdev</name>
             <uri>https://news.ycombinator.com/user?id=devenvdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[居民能否影響歐洲的天然氣消費]]></title>
-        <id>https://news.ycombinator.com/item?id=30530847</id>
-        <link href="https://news.ycombinator.com/item?id=30530847"/>
-        <updated>2022-03-02T18:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can residents impact gas consumption in Europe]]></summary>
-        <author>
-            <name>dumbquestion</name>
-            <uri>https://news.ycombinator.com/user?id=dumbquestion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望在你使用的產品中存在什麼功能，但卻沒有？]]></title>
-        <id>https://news.ycombinator.com/item?id=30530693</id>
-        <link href="https://news.ycombinator.com/item?id=30530693"/>
-        <updated>2022-03-02T18:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a feature you wish existed in a product you use, but doesn't?]]></summary>
-        <author>
-            <name>impish19</name>
-            <uri>https://news.ycombinator.com/user?id=impish19</uri>
         </author>
     </entry>
 </feed>
