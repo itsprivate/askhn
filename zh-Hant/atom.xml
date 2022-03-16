@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T21:30:27.764Z</updated>
+    <updated>2022-03-16T21:38:21.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何證明占星術有效？]]></title>
+        <id>https://news.ycombinator.com/item?id=30704336</id>
+        <link href="https://news.ycombinator.com/item?id=30704336"/>
+        <updated>2022-03-16T21:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to prove that astrology works?]]></summary>
+        <author>
+            <name>zipotm</name>
+            <uri>https://news.ycombinator.com/user?id=zipotm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Windows仍然有 "故障排除器"，而它們卻很少發揮作用？]]></title>
         <id>https://news.ycombinator.com/item?id=30704198</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>impish19</name>
             <uri>https://news.ycombinator.com/user?id=impish19</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為軟件工程師，我可以在烏克蘭危機中發揮作用嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30530219</id>
-        <link href="https://news.ycombinator.com/item?id=30530219"/>
-        <updated>2022-03-02T17:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I be useful in the Ukraine crisis as software engineer?]]></summary>
-        <author>
-            <name>doompling</name>
-            <uri>https://news.ycombinator.com/user?id=doompling</uri>
         </author>
     </entry>
 </feed>
