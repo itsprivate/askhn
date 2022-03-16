@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T13:31:33.221Z</updated>
+    <updated>2022-03-16T14:19:42.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重新激發內在動力]]></title>
+        <id>https://news.ycombinator.com/item?id=30698813</id>
+        <link href="https://news.ycombinator.com/item?id=30698813"/>
+        <updated>2022-03-16T13:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Rekindling Intrinsic Motivation]]></summary>
+        <author>
+            <name>aBitPlayer</name>
+            <uri>https://news.ycombinator.com/user?id=aBitPlayer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高級職位的工作面試被幽靈化是正常的嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30698269</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>provetza</name>
             <uri>https://news.ycombinator.com/user?id=provetza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的情況下，你會用50'000歐元做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30526068</id>
-        <link href="https://news.ycombinator.com/item?id=30526068"/>
-        <updated>2022-03-02T11:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would you do with 50'000 Euro in my situation?]]></summary>
-        <author>
-            <name>2-718-281-828</name>
-            <uri>https://news.ycombinator.com/user?id=2-718-281-828</uri>
         </author>
     </entry>
 </feed>
