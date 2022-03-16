@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T20:52:12.983Z</updated>
+    <updated>2022-03-16T21:30:27.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Windows仍然有 "故障排除器"，而它們卻很少發揮作用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30704198</id>
+        <link href="https://news.ycombinator.com/item?id=30704198"/>
+        <updated>2022-03-16T21:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does Windows still have “Troubleshooters” while they rarely work?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國以外的交換費這麼高嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30703835</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>doompling</name>
             <uri>https://news.ycombinator.com/user?id=doompling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全的域名註冊商？]]></title>
-        <id>https://news.ycombinator.com/item?id=30529926</id>
-        <link href="https://news.ycombinator.com/item?id=30529926"/>
-        <updated>2022-03-02T17:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Secure Domain Name Registrars?]]></summary>
-        <author>
-            <name>mattymf</name>
-            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
         </author>
     </entry>
 </feed>
