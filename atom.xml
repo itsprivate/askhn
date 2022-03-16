@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-16T05:11:57.219Z</updated>
+    <updated>2022-03-16T05:29:37.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[设计师们在哪里寻找对FOSS项目的贡献？]]></title>
+        <id>https://news.ycombinator.com/item?id=30695550</id>
+        <link href="https://news.ycombinator.com/item?id=30695550"/>
+        <updated>2022-03-16T05:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where are the designers looking to contribute to FOSS projects?]]></summary>
+        <author>
+            <name>fallat</name>
+            <uri>https://news.ycombinator.com/user?id=fallat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁会关心认证？]]></title>
         <id>https://news.ycombinator.com/item?id=30695474</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>therein</name>
             <uri>https://news.ycombinator.com/user?id=therein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非工程师的版本控制？]]></title>
-        <id>https://news.ycombinator.com/item?id=30522845</id>
-        <link href="https://news.ycombinator.com/item?id=30522845"/>
-        <updated>2022-03-02T02:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Version Control for Non-Engineers?]]></summary>
-        <author>
-            <name>jmspring</name>
-            <uri>https://news.ycombinator.com/user?id=jmspring</uri>
         </author>
     </entry>
 </feed>
