@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T21:12:56.761Z</updated>
+    <updated>2022-03-17T21:52:59.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[复合型（YC启动）有什么不同？]]></title>
+        <id>https://news.ycombinator.com/item?id=30716167</id>
+        <link href="https://news.ycombinator.com/item?id=30716167"/>
+        <updated>2022-03-17T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is Compound (YC startup) different?]]></summary>
+        <author>
+            <name>giantg2</name>
+            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用多个显示器使macOS进入睡眠状态]]></title>
         <id>https://news.ycombinator.com/item?id=30715850</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>kowloop</name>
             <uri>https://news.ycombinator.com/user?id=kowloop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们如何为可能的核威胁做准备？]]></title>
-        <id>https://news.ycombinator.com/item?id=30540204</id>
-        <link href="https://news.ycombinator.com/item?id=30540204"/>
-        <updated>2022-03-03T12:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does one prepare for a possible nuclear threat?]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
         </author>
     </entry>
 </feed>
