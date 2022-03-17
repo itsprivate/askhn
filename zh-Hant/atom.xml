@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T05:29:26.480Z</updated>
+    <updated>2022-03-17T05:37:16.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你到哪裡去找關於戰爭的報道？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707969</id>
+        <link href="https://news.ycombinator.com/item?id=30707969"/>
+        <updated>2022-03-17T05:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you go for coverage of the war?]]></summary>
+        <author>
+            <name>smthngwitty</name>
+            <uri>https://news.ycombinator.com/user?id=smthngwitty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼DuckDuckGo不在搜索結果中顯示日期？]]></title>
         <id>https://news.ycombinator.com/item?id=30707933</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>no-dr-onboard</name>
             <uri>https://news.ycombinator.com/user?id=no-dr-onboard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人經常忘記他們註冊的是哪個SSO服務嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30533170</id>
-        <link href="https://news.ycombinator.com/item?id=30533170"/>
-        <updated>2022-03-02T21:07:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else constantly forget which SSO service they signed up with?]]></summary>
-        <author>
-            <name>lordofmoria</name>
-            <uri>https://news.ycombinator.com/user?id=lordofmoria</uri>
         </author>
     </entry>
 </feed>
