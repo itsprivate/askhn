@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T16:16:28.437Z</updated>
+    <updated>2022-03-17T16:46:55.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雅虎无视RFC 5321重试]]></title>
+        <id>https://news.ycombinator.com/item?id=30713068</id>
+        <link href="https://news.ycombinator.com/item?id=30713068"/>
+        <updated>2022-03-17T16:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Yahoo disregarding RFC 5321 retries]]></summary>
+        <author>
+            <name>beezle</name>
+            <uri>https://news.ycombinator.com/user?id=beezle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐1Password的非订阅版替代产品？]]></title>
         <id>https://news.ycombinator.com/item?id=30712601</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>kbn</name>
             <uri>https://news.ycombinator.com/user?id=kbn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torrent是一个垂死的协议吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30537568</id>
-        <link href="https://news.ycombinator.com/item?id=30537568"/>
-        <updated>2022-03-03T05:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Torrent a Dying Protocol?]]></summary>
-        <author>
-            <name>cyb0rg0</name>
-            <uri>https://news.ycombinator.com/user?id=cyb0rg0</uri>
         </author>
     </entry>
 </feed>
