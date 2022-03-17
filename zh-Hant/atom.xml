@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T16:46:55.795Z</updated>
+    <updated>2022-03-17T17:23:32.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有為熟練的1099承包商設立亞馬遜？]]></title>
+        <id>https://news.ycombinator.com/item?id=30713537</id>
+        <link href="https://news.ycombinator.com/item?id=30713537"/>
+        <updated>2022-03-17T17:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't there an Amazon for skilled 1099 contractors?]]></summary>
+        <author>
+            <name>hash872</name>
+            <uri>https://news.ycombinator.com/user?id=hash872</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雅虎無視RFC 5321重試]]></title>
         <id>https://news.ycombinator.com/item?id=30713068</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>open-source-ux</name>
             <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你認為哪些古老的CS書籍在今天仍有意義？]]></title>
-        <id>https://news.ycombinator.com/item?id=30538301</id>
-        <link href="https://news.ycombinator.com/item?id=30538301"/>
-        <updated>2022-03-03T07:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What old CS books do you think are still relevant to this day?]]></summary>
-        <author>
-            <name>kbn</name>
-            <uri>https://news.ycombinator.com/user?id=kbn</uri>
         </author>
     </entry>
 </feed>
