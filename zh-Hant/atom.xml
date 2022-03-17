@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T02:10:26.922Z</updated>
+    <updated>2022-03-17T04:13:47.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習Docker的最佳資源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707520</id>
+        <link href="https://news.ycombinator.com/item?id=30707520"/>
+        <updated>2022-03-17T03:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Resources for Learning Docker?]]></summary>
+        <author>
+            <name>nomilk</name>
+            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有人有股票期權的恐怖故事？]]></title>
         <id>https://news.ycombinator.com/item?id=30706743</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的公司可以做些什麼來幫助烏克蘭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30532035</id>
-        <link href="https://news.ycombinator.com/item?id=30532035"/>
-        <updated>2022-03-02T19:50:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What can my company do to help Ukraine?]]></summary>
-        <author>
-            <name>garritfra</name>
-            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
         </author>
     </entry>
 </feed>
