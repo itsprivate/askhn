@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T15:58:34.405Z</updated>
+    <updated>2022-03-17T16:16:28.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推薦1Password的非訂閱版替代產品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30712601</id>
+        <link href="https://news.ycombinator.com/item?id=30712601"/>
+        <updated>2022-03-17T16:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended non-subscription alternatives for 1Password?]]></summary>
+        <author>
+            <name>sorahn</name>
+            <uri>https://news.ycombinator.com/user?id=sorahn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的Git提交/推送流程是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30712175</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cyb0rg0</name>
             <uri>https://news.ycombinator.com/user?id=cyb0rg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於首次創辦人僱用遠程候選人的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30537473</id>
-        <link href="https://news.ycombinator.com/item?id=30537473"/>
-        <updated>2022-03-03T05:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice on hiring remote candidates for first time founder]]></summary>
-        <author>
-            <name>gkrishna</name>
-            <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
         </author>
     </entry>
 </feed>
