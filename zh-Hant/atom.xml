@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T19:55:15.975Z</updated>
+    <updated>2022-03-17T20:35:31.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN的發帖頻率限制有變化嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30715544</id>
+        <link href="https://news.ycombinator.com/item?id=30715544"/>
+        <updated>2022-03-17T20:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did HN posting frequency limits change?]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個內容創作者（不是 "IT專家"）如何安全/正確地設置一個NAS？]]></title>
+        <id>https://news.ycombinator.com/item?id=30715518</id>
+        <link href="https://news.ycombinator.com/item?id=30715518"/>
+        <updated>2022-03-17T20:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can a content creator (not “IT saavy”)set up a NAS safely/correctly?]]></summary>
+        <author>
+            <name>delgaudm</name>
+            <uri>https://news.ycombinator.com/user?id=delgaudm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最佳/最差的文檔網站用戶界面？]]></title>
+        <id>https://news.ycombinator.com/item?id=30715470</id>
+        <link href="https://news.ycombinator.com/item?id=30715470"/>
+        <updated>2022-03-17T20:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best/worst documentation website UIs?]]></summary>
+        <author>
+            <name>kaycebasques</name>
+            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一個開源的、自我託管的Hey替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30715069</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>Mike_Jordan</name>
             <uri>https://news.ycombinator.com/user?id=Mike_Jordan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋求自由職業項目的程序員團隊。下一步去哪裡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30539551</id>
-        <link href="https://news.ycombinator.com/item?id=30539551"/>
-        <updated>2022-03-03T11:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Team of programmers seeking freelance projects. Where to next?]]></summary>
-        <author>
-            <name>psikomanjak</name>
-            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何修復你的個人C？關於散熱膏的建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30539480</id>
-        <link href="https://news.ycombinator.com/item?id=30539480"/>
-        <updated>2022-03-03T10:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you repair your personal C? Advice on thermal paste?]]></summary>
-        <author>
-            <name>amts</name>
-            <uri>https://news.ycombinator.com/user?id=amts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有1周的時間來儘可能地掌握Node.js。你要做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30539420</id>
-        <link href="https://news.ycombinator.com/item?id=30539420"/>
-        <updated>2022-03-03T10:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: You have 1 week to get as good as possible at Node.js. What do you do?]]></summary>
-        <author>
-            <name>ukzuck</name>
-            <uri>https://news.ycombinator.com/user?id=ukzuck</uri>
         </author>
     </entry>
 </feed>
