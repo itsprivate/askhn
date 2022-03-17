@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T07:53:50.098Z</updated>
+    <updated>2022-03-17T09:14:28.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[接待难民？]]></title>
+        <id>https://news.ycombinator.com/item?id=30708918</id>
+        <link href="https://news.ycombinator.com/item?id=30708918"/>
+        <updated>2022-03-17T08:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hosting a Refugee?]]></summary>
+        <author>
+            <name>throwsam</name>
+            <uri>https://news.ycombinator.com/user?id=throwsam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何保护你的应急基金不受通货膨胀的影响？]]></title>
         <id>https://news.ycombinator.com/item?id=30708560</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>orionblastar</name>
             <uri>https://news.ycombinator.com/user?id=orionblastar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用哪本字典作为你的真理来源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30533993</id>
-        <link href="https://news.ycombinator.com/item?id=30533993"/>
-        <updated>2022-03-02T22:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What dictionary do you use as your source of truth?]]></summary>
-        <author>
-            <name>drBonkers</name>
-            <uri>https://news.ycombinator.com/user?id=drBonkers</uri>
         </author>
     </entry>
 </feed>
