@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T04:13:47.660Z</updated>
+    <updated>2022-03-17T04:40:58.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼GPG會如此臃腫？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707707</id>
+        <link href="https://news.ycombinator.com/item?id=30707707"/>
+        <updated>2022-03-17T04:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is GPG so bloated?]]></summary>
+        <author>
+            <name>pooochie</name>
+            <uri>https://news.ycombinator.com/user?id=pooochie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[離線、私密的語音轉文字解決方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30707650</id>
+        <link href="https://news.ycombinator.com/item?id=30707650"/>
+        <updated>2022-03-17T04:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Offline, private Speech-to-Text solutions]]></summary>
+        <author>
+            <name>mprime1</name>
+            <uri>https://news.ycombinator.com/user?id=mprime1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習Docker的最佳資源？]]></title>
         <id>https://news.ycombinator.com/item?id=30707520</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>amar-laksh</name>
             <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在工作中燃燒卡路里？]]></title>
-        <id>https://news.ycombinator.com/item?id=30532423</id>
-        <link href="https://news.ycombinator.com/item?id=30532423"/>
-        <updated>2022-03-02T20:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you burn calories while on working?]]></summary>
-        <author>
-            <name>benaduggan</name>
-            <uri>https://news.ycombinator.com/user?id=benaduggan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在使用什麼瀏覽器擴展？]]></title>
-        <id>https://news.ycombinator.com/item?id=30532209</id>
-        <link href="https://news.ycombinator.com/item?id=30532209"/>
-        <updated>2022-03-02T20:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Browser Extensions are you using?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
