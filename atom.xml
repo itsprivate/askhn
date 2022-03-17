@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T20:35:31.548Z</updated>
+    <updated>2022-03-17T20:51:41.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们能不能就创业公司包装袋的浪费问题进行一次对话？]]></title>
+        <id>https://news.ycombinator.com/item?id=30715727</id>
+        <link href="https://news.ycombinator.com/item?id=30715727"/>
+        <updated>2022-03-17T20:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can we have a conversation on startup swag waste?]]></summary>
+        <author>
+            <name>jimkri</name>
+            <uri>https://news.ycombinator.com/user?id=jimkri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN的发帖频率限制有变化吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30715544</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>arunharidas</name>
             <uri>https://news.ycombinator.com/user?id=arunharidas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否参加过用户体验研究或产品研究？]]></title>
-        <id>https://news.ycombinator.com/item?id=30539599</id>
-        <link href="https://news.ycombinator.com/item?id=30539599"/>
-        <updated>2022-03-03T11:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you participate in UX studies or product research?]]></summary>
-        <author>
-            <name>Mike_Jordan</name>
-            <uri>https://news.ycombinator.com/user?id=Mike_Jordan</uri>
         </author>
     </entry>
 </feed>
