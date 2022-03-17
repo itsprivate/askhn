@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T00:36:57.676Z</updated>
+    <updated>2022-03-17T02:10:26.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有人有股票期权的恐怖故事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30706743</id>
+        <link href="https://news.ycombinator.com/item?id=30706743"/>
+        <updated>2022-03-17T02:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone have stock option horror stories?]]></summary>
+        <author>
+            <name>leet_thow</name>
+            <uri>https://news.ycombinator.com/user?id=leet_thow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RHCP加州靡情的视频是对元气的一瞥吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30705794</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>garritfra</name>
             <uri>https://news.ycombinator.com/user?id=garritfra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为核大决战是可信的吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30531824</id>
-        <link href="https://news.ycombinator.com/item?id=30531824"/>
-        <updated>2022-03-02T19:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think nuclear armageddon is plausible?]]></summary>
-        <author>
-            <name>mysecretaccount</name>
-            <uri>https://news.ycombinator.com/user?id=mysecretaccount</uri>
         </author>
     </entry>
 </feed>
