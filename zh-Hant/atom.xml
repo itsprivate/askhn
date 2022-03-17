@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T21:52:59.632Z</updated>
+    <updated>2022-03-17T22:33:31.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於網絡廣告概念分析的書籍推薦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30716477</id>
+        <link href="https://news.ycombinator.com/item?id=30716477"/>
+        <updated>2022-03-17T22:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Book recommendations on conceptual analysis of online advertisement?]]></summary>
+        <author>
+            <name>WinterMount223</name>
+            <uri>https://news.ycombinator.com/user?id=WinterMount223</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複合型（YC啟動）有什麼不同？]]></title>
         <id>https://news.ycombinator.com/item?id=30716167</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jonathan-kosgei</name>
             <uri>https://news.ycombinator.com/user?id=jonathan-kosgei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有適用於iPhone的彭博社B-Unit應用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30540229</id>
-        <link href="https://news.ycombinator.com/item?id=30540229"/>
-        <updated>2022-03-03T12:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no Bloomberg B-Unit app for iPhones?]]></summary>
-        <author>
-            <name>kowloop</name>
-            <uri>https://news.ycombinator.com/user?id=kowloop</uri>
         </author>
     </entry>
 </feed>
