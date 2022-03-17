@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T22:52:46.069Z</updated>
+    <updated>2022-03-17T23:32:33.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否在eBay上放心地买过昂贵的东西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30716989</id>
+        <link href="https://news.ycombinator.com/item?id=30716989"/>
+        <updated>2022-03-17T23:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you bought something expensive on eBay with confidence?]]></summary>
+        <author>
+            <name>relaunched</name>
+            <uri>https://news.ycombinator.com/user?id=relaunched</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有很多工程部的梯子，技能网格，而QA就没有？]]></title>
         <id>https://news.ycombinator.com/item?id=30716722</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>floppydisc</name>
             <uri>https://news.ycombinator.com/user?id=floppydisc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司在招聘时有前期的工资范围？]]></title>
-        <id>https://news.ycombinator.com/item?id=30540900</id>
-        <link href="https://news.ycombinator.com/item?id=30540900"/>
-        <updated>2022-03-03T13:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What companies hire with upfront salary ranges?]]></summary>
-        <author>
-            <name>xrigau</name>
-            <uri>https://news.ycombinator.com/user?id=xrigau</uri>
         </author>
     </entry>
 </feed>
