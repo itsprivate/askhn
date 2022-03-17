@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T10:39:27.940Z</updated>
+    <updated>2022-03-17T11:14:15.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有一個好的解決方案，只在指定的可信網站上搜索？]]></title>
+        <id>https://news.ycombinator.com/item?id=30709712</id>
+        <link href="https://news.ycombinator.com/item?id=30709712"/>
+        <updated>2022-03-17T10:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a good solution for searching only in specified trusted sites?]]></summary>
+        <author>
+            <name>Tenoke</name>
+            <uri>https://news.ycombinator.com/user?id=Tenoke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該在2022年學習Emacs嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30709487</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>cpr</name>
             <uri>https://news.ycombinator.com/user?id=cpr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我有一臺舊的32位筆記本電腦。我應該讓它繼續運行嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30536026</id>
-        <link href="https://news.ycombinator.com/item?id=30536026"/>
-        <updated>2022-03-03T01:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I have an old 32-bit laptop. Should I keep it up and running?]]></summary>
-        <author>
-            <name>cyb0rg0</name>
-            <uri>https://news.ycombinator.com/user?id=cyb0rg0</uri>
         </author>
     </entry>
 </feed>

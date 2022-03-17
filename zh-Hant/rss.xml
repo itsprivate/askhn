@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 17 Mar 2022 10:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 11:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有沒有一個好的解決方案，只在指定的可信網站上搜索？]]></title>
+            <link>https://news.ycombinator.com/item?id=30709712</link>
+            <guid>https://news.ycombinator.com/item?id=30709712</guid>
+            <pubDate>Thu, 17 Mar 2022 10:59:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a good solution for searching only in specified trusted sites?]]></description>
+        </item>
         <item>
             <title><![CDATA[我應該在2022年學習Emacs嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30709487</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30536064</guid>
             <pubDate>Thu, 03 Mar 2022 01:45:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Hearing Aid Industry Disruption]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我有一臺舊的32位筆記本電腦。我應該讓它繼續運行嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30536026</link>
-            <guid>https://news.ycombinator.com/item?id=30536026</guid>
-            <pubDate>Thu, 03 Mar 2022 01:38:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: I have an old 32-bit laptop. Should I keep it up and running?]]></description>
         </item>
     </channel>
 </rss>
