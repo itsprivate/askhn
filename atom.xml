@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T13:24:41.942Z</updated>
+    <updated>2022-03-17T15:58:34.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的Git提交/推送流程是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30712175</id>
+        <link href="https://news.ycombinator.com/item?id=30712175"/>
+        <updated>2022-03-17T15:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your Git commit/push flow?]]></summary>
+        <author>
+            <name>nineplay</name>
+            <uri>https://news.ycombinator.com/user?id=nineplay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否会有石油-人民币与石油-美元竞争？]]></title>
+        <id>https://news.ycombinator.com/item?id=30711598</id>
+        <link href="https://news.ycombinator.com/item?id=30711598"/>
+        <updated>2022-03-17T14:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will there be a petro-renminbi to compete with petro-dollar?]]></summary>
+        <author>
+            <name>m33k44</name>
+            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特前端面试经验]]></title>
+        <id>https://news.ycombinator.com/item?id=30711247</id>
+        <link href="https://news.ycombinator.com/item?id=30711247"/>
+        <updated>2022-03-17T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Twitter front end interview experience]]></summary>
+        <author>
+            <name>throwmeawa</name>
+            <uri>https://news.ycombinator.com/user?id=throwmeawa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否更倾向于说 "我们的工作 "或 "我的工作"？]]></title>
         <id>https://news.ycombinator.com/item?id=30710723</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>gkrishna</name>
             <uri>https://news.ycombinator.com/user?id=gkrishna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您在网站上使用了即时聊天小工具吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30537236</id>
-        <link href="https://news.ycombinator.com/item?id=30537236"/>
-        <updated>2022-03-03T04:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use live chat widgets on your site?]]></summary>
-        <author>
-            <name>u2077</name>
-            <uri>https://news.ycombinator.com/user?id=u2077</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合同自动化软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30536914</id>
-        <link href="https://news.ycombinator.com/item?id=30536914"/>
-        <updated>2022-03-03T03:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Contract Automation Software]]></summary>
-        <author>
-            <name>DevToRecruiter</name>
-            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用什么BPM解决方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=30536887</id>
-        <link href="https://news.ycombinator.com/item?id=30536887"/>
-        <updated>2022-03-03T03:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What BPM solution do you use?]]></summary>
-        <author>
-            <name>nnurmanov</name>
-            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
         </author>
     </entry>
 </feed>
