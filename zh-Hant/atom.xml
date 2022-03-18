@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T16:17:00.687Z</updated>
+    <updated>2022-03-18T16:49:31.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有很多人會因為回到辦公室而辭職？]]></title>
+        <id>https://news.ycombinator.com/item?id=30724233</id>
+        <link href="https://news.ycombinator.com/item?id=30724233"/>
+        <updated>2022-03-18T16:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are a lot of people gonna quit because of back to office?]]></summary>
+        <author>
+            <name>randomopining</name>
+            <uri>https://news.ycombinator.com/user?id=randomopining</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你怎麼不記下你昨天（和今天早上）做了什麼呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30723993</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>desertraven</name>
             <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理安全調查問卷？]]></title>
-        <id>https://news.ycombinator.com/item?id=30553086</id>
-        <link href="https://news.ycombinator.com/item?id=30553086"/>
-        <updated>2022-03-04T10:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with security questionnaires?]]></summary>
-        <author>
-            <name>lbriner</name>
-            <uri>https://news.ycombinator.com/user?id=lbriner</uri>
         </author>
     </entry>
 </feed>
