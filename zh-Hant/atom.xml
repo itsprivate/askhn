@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T10:53:01.126Z</updated>
+    <updated>2022-03-18T11:13:24.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你將如何資助Firefox的繼任者？]]></title>
+        <id>https://news.ycombinator.com/item?id=30720658</id>
+        <link href="https://news.ycombinator.com/item?id=30720658"/>
+        <updated>2022-03-18T11:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you fund a successor to Firefox?]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在任職15年後要換工作。我應該如何進行？]]></title>
+        <id>https://news.ycombinator.com/item?id=30720565</id>
+        <link href="https://news.ycombinator.com/item?id=30720565"/>
+        <updated>2022-03-18T10:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm changing my job after a 15-year tenure. How should I proceed?]]></summary>
+        <author>
+            <name>lma21</name>
+            <uri>https://news.ycombinator.com/user?id=lma21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波音公司的安全文化狀況如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30720468</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我託管的開源IP安全攝像機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30545652</id>
-        <link href="https://news.ycombinator.com/item?id=30545652"/>
-        <updated>2022-03-03T19:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Self-hosted open source IP security cameras?]]></summary>
-        <author>
-            <name>DietaryNonsense</name>
-            <uri>https://news.ycombinator.com/user?id=DietaryNonsense</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否使用PostgreSQL的Percona分佈？它對你的作用如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30545142</id>
-        <link href="https://news.ycombinator.com/item?id=30545142"/>
-        <updated>2022-03-03T18:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use Percona Distribution of PostgreSQL? How's it working for you?]]></summary>
-        <author>
-            <name>MaknMoreGtnLess</name>
-            <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
         </author>
     </entry>
 </feed>
