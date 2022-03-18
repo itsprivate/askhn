@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T15:54:54.727Z</updated>
+    <updated>2022-03-18T16:17:00.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎麼不記下你昨天（和今天早上）做了什麼呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30723993</id>
+        <link href="https://news.ycombinator.com/item?id=30723993"/>
+        <updated>2022-03-18T16:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you not keep track of what you did yesterday (and this morning)?]]></summary>
+        <author>
+            <name>readonthegoapp</name>
+            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的新開發者入職的工具/服務是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30723902</id>
+        <link href="https://news.ycombinator.com/item?id=30723902"/>
+        <updated>2022-03-18T16:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite tools/services for onboarding new developers?]]></summary>
+        <author>
+            <name>sellers</name>
+            <uri>https://news.ycombinator.com/user?id=sellers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在不同的電腦上分享你的個人設置？]]></title>
         <id>https://news.ycombinator.com/item?id=30723738</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>lbriner</name>
             <uri>https://news.ycombinator.com/user?id=lbriner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的拉取請求是否受原始倉庫許可的約束？]]></title>
-        <id>https://news.ycombinator.com/item?id=30553078</id>
-        <link href="https://news.ycombinator.com/item?id=30553078"/>
-        <updated>2022-03-04T10:57:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are GitHub pull-requests governed by the original repository license?]]></summary>
-        <author>
-            <name>dmulholl</name>
-            <uri>https://news.ycombinator.com/user?id=dmulholl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在僱用來自烏克蘭的開發人員？]]></title>
-        <id>https://news.ycombinator.com/item?id=30552860</id>
-        <link href="https://news.ycombinator.com/item?id=30552860"/>
-        <updated>2022-03-04T10:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you hiring developers from Ukraine?]]></summary>
-        <author>
-            <name>nnurmanov</name>
-            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
         </author>
     </entry>
 </feed>
