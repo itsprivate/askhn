@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T07:30:30.448Z</updated>
+    <updated>2022-03-18T08:14:21.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[個人網站的最佳工具鏈]]></title>
+        <id>https://news.ycombinator.com/item?id=30719681</id>
+        <link href="https://news.ycombinator.com/item?id=30719681"/>
+        <updated>2022-03-18T08:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Toolchain for Personal Website]]></summary>
+        <author>
+            <name>averylamp</name>
+            <uri>https://news.ycombinator.com/user?id=averylamp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天，一個新的網絡項目應該選擇什麼樣的數據同步技術？]]></title>
         <id>https://news.ycombinator.com/item?id=30719438</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>themanmaran</name>
             <uri>https://news.ycombinator.com/user?id=themanmaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何與跳級的管理人員一起制定保護措施？]]></title>
-        <id>https://news.ycombinator.com/item?id=30543362</id>
-        <link href="https://news.ycombinator.com/item?id=30543362"/>
-        <updated>2022-03-03T16:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you frame the conservation with skip level managers?]]></summary>
-        <author>
-            <name>yalogin</name>
-            <uri>https://news.ycombinator.com/user?id=yalogin</uri>
         </author>
     </entry>
 </feed>
