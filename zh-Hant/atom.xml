@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T09:13:11.925Z</updated>
+    <updated>2022-03-18T10:36:55.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會在企業軟件中放入復活節彩蛋嗎？為什麼或為什麼不？]]></title>
+        <id>https://news.ycombinator.com/item?id=30720419</id>
+        <link href="https://news.ycombinator.com/item?id=30720419"/>
+        <updated>2022-03-18T10:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you put easter eggs in enterprise software? Why or Why not?]]></summary>
+        <author>
+            <name>Loeffelmann</name>
+            <uri>https://news.ycombinator.com/user?id=Loeffelmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編程時想抱怨的一件事]]></title>
         <id>https://news.ycombinator.com/item?id=30719998</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>owenversteeg</name>
             <uri>https://news.ycombinator.com/user?id=owenversteeg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript是否已準備好進行嚴肅而富有成效的開發？]]></title>
-        <id>https://news.ycombinator.com/item?id=30544892</id>
-        <link href="https://news.ycombinator.com/item?id=30544892"/>
-        <updated>2022-03-03T18:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is TypeScript ready for serious and productive development?]]></summary>
-        <author>
-            <name>victor871129</name>
-            <uri>https://news.ycombinator.com/user?id=victor871129</uri>
         </author>
     </entry>
 </feed>

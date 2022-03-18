@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你會在企業軟件中放入復活節彩蛋嗎？為什麼或為什麼不？]]></title>
+            <link>https://news.ycombinator.com/item?id=30720419</link>
+            <guid>https://news.ycombinator.com/item?id=30720419</guid>
+            <pubDate>Fri, 18 Mar 2022 10:24:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you put easter eggs in enterprise software? Why or Why not?]]></description>
+        </item>
         <item>
             <title><![CDATA[編程時想抱怨的一件事]]></title>
             <link>https://news.ycombinator.com/item?id=30719998</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30544934</guid>
             <pubDate>Thu, 03 Mar 2022 18:43:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there any downside to re-signing equity paperwork later?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript是否已準備好進行嚴肅而富有成效的開發？]]></title>
-            <link>https://news.ycombinator.com/item?id=30544892</link>
-            <guid>https://news.ycombinator.com/item?id=30544892</guid>
-            <pubDate>Thu, 03 Mar 2022 18:40:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is TypeScript ready for serious and productive development?]]></description>
         </item>
     </channel>
 </rss>
