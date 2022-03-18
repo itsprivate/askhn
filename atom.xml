@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T15:15:36.017Z</updated>
+    <updated>2022-03-18T15:36:38.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Safari是新的IE？]]></title>
+        <id>https://news.ycombinator.com/item?id=30723535</id>
+        <link href="https://news.ycombinator.com/item?id=30723535"/>
+        <updated>2022-03-18T15:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Safari the new IE?]]></summary>
+        <author>
+            <name>CSSer</name>
+            <uri>https://news.ycombinator.com/user?id=CSSer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些是最好的网络安全播客？]]></title>
+        <id>https://news.ycombinator.com/item?id=30723456</id>
+        <link href="https://news.ycombinator.com/item?id=30723456"/>
+        <updated>2022-03-18T15:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best cybersecurity podcasts?]]></summary>
+        <author>
+            <name>aluciani</name>
+            <uri>https://news.ycombinator.com/user?id=aluciani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何吸引你的第一个1万个用户？]]></title>
         <id>https://news.ycombinator.com/item?id=30723156</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>kvathupo</name>
             <uri>https://news.ycombinator.com/user?id=kvathupo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司正在雇用逃离乌克兰和俄罗斯的开发人员？]]></title>
-        <id>https://news.ycombinator.com/item?id=30549875</id>
-        <link href="https://news.ycombinator.com/item?id=30549875"/>
-        <updated>2022-03-04T02:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which companies are hiring developers fleeing from Ukraine and Russia?]]></summary>
-        <author>
-            <name>sereja</name>
-            <uri>https://news.ycombinator.com/user?id=sereja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些好的键盘？]]></title>
-        <id>https://news.ycombinator.com/item?id=30549628</id>
-        <link href="https://news.ycombinator.com/item?id=30549628"/>
-        <updated>2022-03-04T01:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good keyboards?]]></summary>
-        <author>
-            <name>rickrollin</name>
-            <uri>https://news.ycombinator.com/user?id=rickrollin</uri>
         </author>
     </entry>
 </feed>
