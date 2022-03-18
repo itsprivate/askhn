@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T06:16:41.262Z</updated>
+    <updated>2022-03-18T07:12:49.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何確定一個圖像文件的質量？]]></title>
+        <id>https://news.ycombinator.com/item?id=30719365</id>
+        <link href="https://news.ycombinator.com/item?id=30719365"/>
+        <updated>2022-03-18T07:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I determine the quality of an image file]]></summary>
+        <author>
+            <name>vatsci</name>
+            <uri>https://news.ycombinator.com/user?id=vatsci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否曾經意外地造成一個大網站的中斷？（作為用戶）。]]></title>
         <id>https://news.ycombinator.com/item?id=30719156</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>28194608</name>
             <uri>https://news.ycombinator.com/user?id=28194608</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何為 Node.js 設置一個新的 TypeScript 項目？]]></title>
-        <id>https://news.ycombinator.com/item?id=30542975</id>
-        <link href="https://news.ycombinator.com/item?id=30542975"/>
-        <updated>2022-03-03T16:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you set up a new TypeScript project for Node.js?]]></summary>
-        <author>
-            <name>lovingCranberry</name>
-            <uri>https://news.ycombinator.com/user?id=lovingCranberry</uri>
         </author>
     </entry>
 </feed>
