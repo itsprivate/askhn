@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T11:13:24.235Z</updated>
+    <updated>2022-03-18T12:54:27.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生物工程中最短的反馈回路？]]></title>
+        <id>https://news.ycombinator.com/item?id=30721385</id>
+        <link href="https://news.ycombinator.com/item?id=30721385"/>
+        <updated>2022-03-18T12:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Shortest Feedback Loop in Bioengineering?]]></summary>
+        <author>
+            <name>pengwing</name>
+            <uri>https://news.ycombinator.com/user?id=pengwing</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何报告停机时间？]]></title>
+        <id>https://news.ycombinator.com/item?id=30721238</id>
+        <link href="https://news.ycombinator.com/item?id=30721238"/>
+        <updated>2022-03-18T12:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you report downtime?]]></summary>
+        <author>
+            <name>reisr3</name>
+            <uri>https://news.ycombinator.com/user?id=reisr3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你将如何资助Firefox的继任者？]]></title>
         <id>https://news.ycombinator.com/item?id=30720658</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>w1nter</name>
             <uri>https://news.ycombinator.com/user?id=w1nter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能黑掉爱情？]]></title>
-        <id>https://news.ycombinator.com/item?id=30546466</id>
-        <link href="https://news.ycombinator.com/item?id=30546466"/>
-        <updated>2022-03-03T20:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I hack love?]]></summary>
-        <author>
-            <name>throwawayiay</name>
-            <uri>https://news.ycombinator.com/user?id=throwawayiay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如今，应该如何为核战争做准备？]]></title>
-        <id>https://news.ycombinator.com/item?id=30546328</id>
-        <link href="https://news.ycombinator.com/item?id=30546328"/>
-        <updated>2022-03-03T20:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How should one prepare for nuclear war nowadays?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
