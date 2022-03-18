@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-17T23:32:33.871Z</updated>
+    <updated>2022-03-18T00:41:01.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在大流行期間，HN討論的質量是否有變化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30716771</id>
+        <link href="https://news.ycombinator.com/item?id=30716771"/>
+        <updated>2022-03-17T22:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has the quality of HN Discussion changed during the pandemic?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否在eBay上放心地買過昂貴的東西？]]></title>
         <id>https://news.ycombinator.com/item?id=30716989</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bobkrusty</name>
             <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何組織偉大的書籤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30541185</id>
-        <link href="https://news.ycombinator.com/item?id=30541185"/>
-        <updated>2022-03-03T14:08:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you organize great bookmarks?]]></summary>
-        <author>
-            <name>floppydisc</name>
-            <uri>https://news.ycombinator.com/user?id=floppydisc</uri>
         </author>
     </entry>
 </feed>
