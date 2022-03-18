@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T14:53:32.750Z</updated>
+    <updated>2022-03-18T15:15:36.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何吸引你的第一个1万个用户？]]></title>
+        <id>https://news.ycombinator.com/item?id=30723156</id>
+        <link href="https://news.ycombinator.com/item?id=30723156"/>
+        <updated>2022-03-18T15:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to attract your first 10k users?]]></summary>
+        <author>
+            <name>ShelbyKU</name>
+            <uri>https://news.ycombinator.com/user?id=ShelbyKU</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在亚马逊有什么好的SDE经验吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30722800</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rickrollin</name>
             <uri>https://news.ycombinator.com/user?id=rickrollin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合创始人股权分割]]></title>
-        <id>https://news.ycombinator.com/item?id=30549400</id>
-        <link href="https://news.ycombinator.com/item?id=30549400"/>
-        <updated>2022-03-04T01:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Co-Founder Equity Split]]></summary>
-        <author>
-            <name>drooby</name>
-            <uri>https://news.ycombinator.com/user?id=drooby</uri>
         </author>
     </entry>
 </feed>
