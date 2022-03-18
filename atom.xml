@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T15:36:38.187Z</updated>
+    <updated>2022-03-18T15:46:43.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[赏月]]></title>
+        <id>https://news.ycombinator.com/item?id=30723641</id>
+        <link href="https://news.ycombinator.com/item?id=30723641"/>
+        <updated>2022-03-18T15:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Moonlighting]]></summary>
+        <author>
+            <name>jossclimb</name>
+            <uri>https://news.ycombinator.com/user?id=jossclimb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Safari是新的IE？]]></title>
         <id>https://news.ycombinator.com/item?id=30723535</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tomerbd</name>
             <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你错了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30550901</id>
-        <link href="https://news.ycombinator.com/item?id=30550901"/>
-        <updated>2022-03-04T05:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What have you gotten wrong?]]></summary>
-        <author>
-            <name>kvathupo</name>
-            <uri>https://news.ycombinator.com/user?id=kvathupo</uri>
         </author>
     </entry>
 </feed>
