@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T07:12:49.121Z</updated>
+    <updated>2022-03-18T07:30:30.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天，一個新的網絡項目應該選擇什麼樣的數據同步技術？]]></title>
+        <id>https://news.ycombinator.com/item?id=30719438</id>
+        <link href="https://news.ycombinator.com/item?id=30719438"/>
+        <updated>2022-03-18T07:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What data synchronization tech should a new web project opt for today?]]></summary>
+        <author>
+            <name>meta-level</name>
+            <uri>https://news.ycombinator.com/user?id=meta-level</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何確定一個圖像文件的質量？]]></title>
         <id>https://news.ycombinator.com/item?id=30719365</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>yalogin</name>
             <uri>https://news.ycombinator.com/user?id=yalogin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在互聯網上閱讀更多信息？]]></title>
-        <id>https://news.ycombinator.com/item?id=30543034</id>
-        <link href="https://news.ycombinator.com/item?id=30543034"/>
-        <updated>2022-03-03T16:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Read More on the Internet?]]></summary>
-        <author>
-            <name>28194608</name>
-            <uri>https://news.ycombinator.com/user?id=28194608</uri>
         </author>
     </entry>
 </feed>

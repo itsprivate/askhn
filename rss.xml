@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[今天，一个新的网络项目应该选择什么样的数据同步技术？]]></title>
+            <link>https://news.ycombinator.com/item?id=30719438</link>
+            <guid>https://news.ycombinator.com/item?id=30719438</guid>
+            <pubDate>Fri, 18 Mar 2022 07:22:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What data synchronization tech should a new web project opt for today?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何确定一个图像文件的质量？]]></title>
             <link>https://news.ycombinator.com/item?id=30719365</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30543362</guid>
             <pubDate>Thu, 03 Mar 2022 16:46:57 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you frame the conservation with skip level managers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在互联网上阅读更多信息？]]></title>
-            <link>https://news.ycombinator.com/item?id=30543034</link>
-            <guid>https://news.ycombinator.com/item?id=30543034</guid>
-            <pubDate>Thu, 03 Mar 2022 16:26:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to Read More on the Internet?]]></description>
         </item>
     </channel>
 </rss>
