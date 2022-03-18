@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T10:36:55.406Z</updated>
+    <updated>2022-03-18T10:53:01.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波音公司的安全文化状况如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30720468</id>
+        <link href="https://news.ycombinator.com/item?id=30720468"/>
+        <updated>2022-03-18T10:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the state of Boeing’s safety culture?]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你会在企业软件中放入复活节彩蛋吗？为什么或为什么不？]]></title>
         <id>https://news.ycombinator.com/item?id=30720419</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>MaknMoreGtnLess</name>
             <uri>https://news.ycombinator.com/user?id=MaknMoreGtnLess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后来重新签署股权文件有什么坏处吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30544934</id>
-        <link href="https://news.ycombinator.com/item?id=30544934"/>
-        <updated>2022-03-03T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any downside to re-signing equity paperwork later?]]></summary>
-        <author>
-            <name>owenversteeg</name>
-            <uri>https://news.ycombinator.com/user?id=owenversteeg</uri>
         </author>
     </entry>
 </feed>
