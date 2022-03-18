@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T14:31:54.823Z</updated>
+    <updated>2022-03-18T14:53:32.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在亚马逊有什么好的SDE经验吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30722800</id>
+        <link href="https://news.ycombinator.com/item?id=30722800"/>
+        <updated>2022-03-18T14:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any good SDE experiences at Amazon?]]></summary>
+        <author>
+            <name>saltbush23</name>
+            <uri>https://news.ycombinator.com/user?id=saltbush23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你学习编程时使用的第一个IDE是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30722616</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>drooby</name>
             <uri>https://news.ycombinator.com/user?id=drooby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有努力将维基百科的内容保存数千年之久]]></title>
-        <id>https://news.ycombinator.com/item?id=30549278</id>
-        <link href="https://news.ycombinator.com/item?id=30549278"/>
-        <updated>2022-03-04T01:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there efforts to preserve Wikipedia's content for thousands of years]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
