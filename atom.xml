@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-18T08:36:38.382Z</updated>
+    <updated>2022-03-18T09:13:11.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编程时想抱怨的一件事]]></title>
+        <id>https://news.ycombinator.com/item?id=30719998</id>
+        <link href="https://news.ycombinator.com/item?id=30719998"/>
+        <updated>2022-03-18T09:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: One thing that you want to complain about when programming]]></summary>
+        <author>
+            <name>JrisMoore</name>
+            <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么可以替代YT Vanced的好办法吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30719827</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>victor871129</name>
             <uri>https://news.ycombinator.com/user?id=victor871129</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否可以回应一个旧的 "询问HN"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30544433</id>
-        <link href="https://news.ycombinator.com/item?id=30544433"/>
-        <updated>2022-03-03T18:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I respond to an old Ask HN?]]></summary>
-        <author>
-            <name>gkk</name>
-            <uri>https://news.ycombinator.com/user?id=gkk</uri>
         </author>
     </entry>
 </feed>
