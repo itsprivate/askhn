@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T14:41:57.148Z</updated>
+    <updated>2022-03-19T14:53:11.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌的基礎設施有問題嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30734129</id>
+        <link href="https://news.ycombinator.com/item?id=30734129"/>
+        <updated>2022-03-19T14:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Google having infrastructure issues?]]></summary>
+        <author>
+            <name>elamje</name>
+            <uri>https://news.ycombinator.com/user?id=elamje</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼會是你的領域中最重要的一本書？]]></title>
+        <id>https://news.ycombinator.com/item?id=30734127</id>
+        <link href="https://news.ycombinator.com/item?id=30734127"/>
+        <updated>2022-03-19T14:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would be the single most important book of your field?]]></summary>
+        <author>
+            <name>mezod</name>
+            <uri>https://news.ycombinator.com/user?id=mezod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高級軟件工程與低級別的軟件工程意味著什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30734057</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>gmzi</name>
             <uri>https://news.ycombinator.com/user?id=gmzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPi的早期發展故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30563943</id>
-        <link href="https://news.ycombinator.com/item?id=30563943"/>
-        <updated>2022-03-05T03:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Early Development Story of RPi?]]></summary>
-        <author>
-            <name>tooltower</name>
-            <uri>https://news.ycombinator.com/user?id=tooltower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你怎麼看元老院？[2022年3月]]]></title>
-        <id>https://news.ycombinator.com/item?id=30563196</id>
-        <link href="https://news.ycombinator.com/item?id=30563196"/>
-        <updated>2022-03-05T01:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think of the metaverse? [March 2022]]]></summary>
-        <author>
-            <name>me_me_mu_mu</name>
-            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
         </author>
     </entry>
 </feed>
