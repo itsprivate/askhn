@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T17:02:07.070Z</updated>
+    <updated>2022-03-19T17:17:53.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Svbtle發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30735505</id>
+        <link href="https://news.ycombinator.com/item?id=30735505"/>
+        <updated>2022-03-19T17:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Svbtle?]]></summary>
+        <author>
+            <name>tppiotrowski</name>
+            <uri>https://news.ycombinator.com/user?id=tppiotrowski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找Linux桌面作為日常驅動的閱讀材料]]></title>
         <id>https://news.ycombinator.com/item?id=30735242</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mherrmann</name>
             <uri>https://news.ycombinator.com/user?id=mherrmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是我的項目可以使用的低代碼工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30564742</id>
-        <link href="https://news.ycombinator.com/item?id=30564742"/>
-        <updated>2022-03-05T05:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the low-code tool I can use for my project?]]></summary>
-        <author>
-            <name>node-bayarea</name>
-            <uri>https://news.ycombinator.com/user?id=node-bayarea</uri>
         </author>
     </entry>
 </feed>

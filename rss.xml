@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Mar 2022 17:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 17:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Svbtle发生了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30735505</link>
+            <guid>https://news.ycombinator.com/item?id=30735505</guid>
+            <pubDate>Sat, 19 Mar 2022 17:08:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to Svbtle?]]></description>
+        </item>
         <item>
             <title><![CDATA[寻找Linux桌面作为日常驱动的阅读材料]]></title>
             <link>https://news.ycombinator.com/item?id=30735242</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30564774</guid>
             <pubDate>Sat, 05 Mar 2022 06:03:17 GMT</pubDate>
             <description><![CDATA[Ask HN: "Newsbombs" as a way to combat authoritarian propaganda?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是我的项目可以使用的低代码工具？]]></title>
-            <link>https://news.ycombinator.com/item?id=30564742</link>
-            <guid>https://news.ycombinator.com/item?id=30564742</guid>
-            <pubDate>Sat, 05 Mar 2022 05:58:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the low-code tool I can use for my project?]]></description>
         </item>
     </channel>
 </rss>
