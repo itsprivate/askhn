@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 19 Mar 2022 17:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 17:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何做出重大的人生决定？]]></title>
+            <link>https://news.ycombinator.com/item?id=30735738</link>
+            <guid>https://news.ycombinator.com/item?id=30735738</guid>
+            <pubDate>Sat, 19 Mar 2022 17:34:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you make big life decisions?]]></description>
+        </item>
         <item>
             <title><![CDATA[Svbtle发生了什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30735505</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30564911</guid>
             <pubDate>Sat, 05 Mar 2022 06:27:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Deep tracing of a JavaScript object usage across the codebase]]></description>
-        </item>
-        <item>
-            <title><![CDATA["新闻炸弹 "作为打击专制宣传的一种方式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30564774</link>
-            <guid>https://news.ycombinator.com/item?id=30564774</guid>
-            <pubDate>Sat, 05 Mar 2022 06:03:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: "Newsbombs" as a way to combat authoritarian propaganda?]]></description>
         </item>
     </channel>
 </rss>

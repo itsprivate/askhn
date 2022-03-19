@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T17:17:53.536Z</updated>
+    <updated>2022-03-19T17:40:17.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何做出重大的人生决定？]]></title>
+        <id>https://news.ycombinator.com/item?id=30735738</id>
+        <link href="https://news.ycombinator.com/item?id=30735738"/>
+        <updated>2022-03-19T17:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you make big life decisions?]]></summary>
+        <author>
+            <name>DevToRecruiter</name>
+            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svbtle发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30735505</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rukde</name>
             <uri>https://news.ycombinator.com/user?id=rukde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["新闻炸弹 "作为打击专制宣传的一种方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30564774</id>
-        <link href="https://news.ycombinator.com/item?id=30564774"/>
-        <updated>2022-03-05T06:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: "Newsbombs" as a way to combat authoritarian propaganda?]]></summary>
-        <author>
-            <name>mherrmann</name>
-            <uri>https://news.ycombinator.com/user?id=mherrmann</uri>
         </author>
     </entry>
 </feed>
