@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T11:09:52.294Z</updated>
+    <updated>2022-03-19T11:30:06.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件工程正在走向被淘汰嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30732846</id>
+        <link href="https://news.ycombinator.com/item?id=30732846"/>
+        <updated>2022-03-19T11:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is software engineering heading towards obsoletion?]]></summary>
+        <author>
+            <name>negamax</name>
+            <uri>https://news.ycombinator.com/user?id=negamax</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們能不能只同意顯示HTML而不要求JavaScript？]]></title>
+        <id>https://news.ycombinator.com/item?id=30732518</id>
+        <link href="https://news.ycombinator.com/item?id=30732518"/>
+        <updated>2022-03-19T10:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can we just agree on showing HTML without requiring JavaScript?]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何記錄我所有的瀏覽器搜索]]></title>
         <id>https://news.ycombinator.com/item?id=30732764</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>bradj</name>
             <uri>https://news.ycombinator.com/user?id=bradj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼JSON如此迂腐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30558583</id>
-        <link href="https://news.ycombinator.com/item?id=30558583"/>
-        <updated>2022-03-04T18:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is JSON so pedantic?]]></summary>
-        <author>
-            <name>thyrox</name>
-            <uri>https://news.ycombinator.com/user?id=thyrox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為DAO工作的好處？]]></title>
-        <id>https://news.ycombinator.com/item?id=30558579</id>
-        <link href="https://news.ycombinator.com/item?id=30558579"/>
-        <updated>2022-03-04T18:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Benefits of Working for a DAO?]]></summary>
-        <author>
-            <name>berkserbet</name>
-            <uri>https://news.ycombinator.com/user?id=berkserbet</uri>
         </author>
     </entry>
 </feed>
