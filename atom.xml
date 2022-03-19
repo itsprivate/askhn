@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T11:30:06.107Z</updated>
+    <updated>2022-03-19T12:51:35.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[侮辱你的软件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30733314</id>
+        <link href="https://news.ycombinator.com/item?id=30733314"/>
+        <updated>2022-03-19T12:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software That Insults You?]]></summary>
+        <author>
+            <name>chockchocschoir</name>
+            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌员工你在内部有一个更好的谷歌版本吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30733227</id>
+        <link href="https://news.ycombinator.com/item?id=30733227"/>
+        <updated>2022-03-19T12:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google employees do you have a better version of Google internally?]]></summary>
+        <author>
+            <name>unsignednoop</name>
+            <uri>https://news.ycombinator.com/user?id=unsignednoop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件工程正在走向被淘汰吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30732846</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>danuker</name>
             <uri>https://news.ycombinator.com/user?id=danuker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育补助金--花在什么地方？]]></title>
-        <id>https://news.ycombinator.com/item?id=30559543</id>
-        <link href="https://news.ycombinator.com/item?id=30559543"/>
-        <updated>2022-03-04T19:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Education Stipend – What to Spend On?]]></summary>
-        <author>
-            <name>parentheses</name>
-            <uri>https://news.ycombinator.com/user?id=parentheses</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你收到多少封冷淡的电子邮件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30558872</id>
-        <link href="https://news.ycombinator.com/item?id=30558872"/>
-        <updated>2022-03-04T19:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many cold emails do you get?]]></summary>
-        <author>
-            <name>bradj</name>
-            <uri>https://news.ycombinator.com/user?id=bradj</uri>
         </author>
     </entry>
 </feed>
