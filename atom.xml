@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-19T20:32:17.541Z</updated>
+    <updated>2022-03-19T22:31:10.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在M1 Mac Mini和Mac Studio之间感到困惑]]></title>
+        <id>https://news.ycombinator.com/item?id=30738054</id>
+        <link href="https://news.ycombinator.com/item?id=30738054"/>
+        <updated>2022-03-19T22:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Confused Between M1 Mac Mini and Mac Studio]]></summary>
+        <author>
+            <name>neya</name>
+            <uri>https://news.ycombinator.com/user?id=neya</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要帮助使用TruthSocial.com]]></title>
         <id>https://news.ycombinator.com/item?id=30737178</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端网络的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30565981</id>
-        <link href="https://news.ycombinator.com/item?id=30565981"/>
-        <updated>2022-03-05T09:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Problem with Front-End Web]]></summary>
-        <author>
-            <name>mouzogu</name>
-            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
         </author>
     </entry>
 </feed>
