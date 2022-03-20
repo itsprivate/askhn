@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 17:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 18:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在生产中使用演员吗？为什么/为什么不？]]></title>
+            <link>https://news.ycombinator.com/item?id=30745047</link>
+            <guid>https://news.ycombinator.com/item?id=30745047</guid>
+            <pubDate>Sun, 20 Mar 2022 18:08:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are you using actors in production? Why/Why not?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何与联合创始人成立一个50/50的公司？]]></title>
             <link>https://news.ycombinator.com/item?id=30744630</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30574046</guid>
             <pubDate>Sun, 06 Mar 2022 01:30:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Help me brainstorm industrial applications of AR-controlled robots]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我应该迁移到哪个浏览器，离开火狐？]]></title>
-            <link>https://news.ycombinator.com/item?id=30573723</link>
-            <guid>https://news.ycombinator.com/item?id=30573723</guid>
-            <pubDate>Sun, 06 Mar 2022 00:45:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which browser should I migrate to, away from Firefox?]]></description>
         </item>
     </channel>
 </rss>
