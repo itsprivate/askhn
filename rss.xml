@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 13:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 13:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[上引号似乎有新的、有限的效果或延迟]]></title>
+            <link>https://news.ycombinator.com/item?id=30742539</link>
+            <guid>https://news.ycombinator.com/item?id=30742539</guid>
+            <pubDate>Sun, 20 Mar 2022 13:43:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: Upvotes have seemingly new, limited effect or delay]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么 "媒介 "会变成这样的垃圾火？]]></title>
             <link>https://news.ycombinator.com/item?id=30742386</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30571333</guid>
             <pubDate>Sat, 05 Mar 2022 20:01:53 GMT</pubDate>
             <description><![CDATA[Ask HN: A “Schindler's List” for our community affected by Ukraine invasion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软件RFP/开发要求的孩子？]]></title>
-            <link>https://news.ycombinator.com/item?id=30570016</link>
-            <guid>https://news.ycombinator.com/item?id=30570016</guid>
-            <pubDate>Sat, 05 Mar 2022 18:02:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Software RFP / Development Request for Kids?]]></description>
         </item>
     </channel>
 </rss>
