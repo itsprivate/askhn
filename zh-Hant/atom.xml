@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T08:46:03.173Z</updated>
+    <updated>2022-03-20T10:33:51.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何正確地建立一個在線業務？]]></title>
+        <id>https://news.ycombinator.com/item?id=30741493</id>
+        <link href="https://news.ycombinator.com/item?id=30741493"/>
+        <updated>2022-03-20T10:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to properly set up an online business?]]></summary>
+        <author>
+            <name>stevenminhhh</name>
+            <uri>https://news.ycombinator.com/user?id=stevenminhhh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自Improving.duckduckgo.com的第三方元素]]></title>
         <id>https://news.ycombinator.com/item?id=30741090</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Gtex555</name>
             <uri>https://news.ycombinator.com/user?id=Gtex555</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對初創企業創始人移民律師事務所的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30569385</id>
-        <link href="https://news.ycombinator.com/item?id=30569385"/>
-        <updated>2022-03-05T17:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for startup founder immigration law firm]]></summary>
-        <author>
-            <name>coolmints</name>
-            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
         </author>
     </entry>
 </feed>
