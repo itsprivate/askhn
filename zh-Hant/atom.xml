@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T13:51:30.530Z</updated>
+    <updated>2022-03-20T14:13:21.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[轉行的開發者們，你們現在在做什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30742589</id>
+        <link href="https://news.ycombinator.com/item?id=30742589"/>
+        <updated>2022-03-20T13:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Developers who switched careers, what are you doing now?]]></summary>
+        <author>
+            <name>kirso</name>
+            <uri>https://news.ycombinator.com/user?id=kirso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些開發訓練營/在線課程對於DevOps來說是有價值的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30742324</id>
+        <link href="https://news.ycombinator.com/item?id=30742324"/>
+        <updated>2022-03-20T13:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which dev bootcamps/online courses are good value for DevOps?]]></summary>
+        <author>
+            <name>throzqzy221</name>
+            <uri>https://news.ycombinator.com/user?id=throzqzy221</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上引號似乎有新的、有限的效果或延遲]]></title>
         <id>https://news.ycombinator.com/item?id=30742539</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>mxmpawn</name>
             <uri>https://news.ycombinator.com/user?id=mxmpawn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望更多的人知道什麼產品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30571446</id>
-        <link href="https://news.ycombinator.com/item?id=30571446"/>
-        <updated>2022-03-05T20:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a product you wish more people knew about?]]></summary>
-        <author>
-            <name>nodoodles</name>
-            <uri>https://news.ycombinator.com/user?id=nodoodles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為我們受烏克蘭入侵影響的社區制定 "辛德勒的名單"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30571333</id>
-        <link href="https://news.ycombinator.com/item?id=30571333"/>
-        <updated>2022-03-05T20:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A “Schindler's List” for our community affected by Ukraine invasion?]]></summary>
-        <author>
-            <name>xrd</name>
-            <uri>https://news.ycombinator.com/user?id=xrd</uri>
         </author>
     </entry>
 </feed>
