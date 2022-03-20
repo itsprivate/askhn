@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T14:13:21.207Z</updated>
+    <updated>2022-03-20T14:31:18.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[觀念？谷歌文檔？ ms word？ 替代方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30742766</id>
+        <link href="https://news.ycombinator.com/item?id=30742766"/>
+        <updated>2022-03-20T14:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Notion? Google Docs? ms word? alternative]]></summary>
+        <author>
+            <name>3000</name>
+            <uri>https://news.ycombinator.com/user?id=3000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轉行的開發者們，你們現在在做什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30742589</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>zakokor</name>
             <uri>https://news.ycombinator.com/user?id=zakokor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你幾乎沒有時間的情況下獲得軟件技能]]></title>
-        <id>https://news.ycombinator.com/item?id=30571491</id>
-        <link href="https://news.ycombinator.com/item?id=30571491"/>
-        <updated>2022-03-05T20:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Getting software skills when you have almost no time]]></summary>
-        <author>
-            <name>mxmpawn</name>
-            <uri>https://news.ycombinator.com/user?id=mxmpawn</uri>
         </author>
     </entry>
 </feed>
