@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T15:53:12.993Z</updated>
+    <updated>2022-03-20T16:14:47.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每塊電動車電池裡有50萬磅的土嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30743771</id>
+        <link href="https://news.ycombinator.com/item?id=30743771"/>
+        <updated>2022-03-20T16:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does 500k pounds of earth go into each EV battery?]]></summary>
+        <author>
+            <name>efremjw</name>
+            <uri>https://news.ycombinator.com/user?id=efremjw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何保持專注？]]></title>
         <id>https://news.ycombinator.com/item?id=30743660</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>danbmil99</name>
             <uri>https://news.ycombinator.com/user?id=danbmil99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[訂閱公司如何處理BTC和CC支付的分析？]]></title>
-        <id>https://news.ycombinator.com/item?id=30572204</id>
-        <link href="https://news.ycombinator.com/item?id=30572204"/>
-        <updated>2022-03-05T21:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do subscription companies handle analytics with BTC and CC payments?]]></summary>
-        <author>
-            <name>ripcurl</name>
-            <uri>https://news.ycombinator.com/user?id=ripcurl</uri>
         </author>
     </entry>
 </feed>
