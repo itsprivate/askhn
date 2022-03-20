@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T00:37:44.963Z</updated>
+    <updated>2022-03-20T02:51:10.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会给一个新晋的高级软件工程师什么建议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30739379</id>
+        <link href="https://news.ycombinator.com/item?id=30739379"/>
+        <updated>2022-03-20T02:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What advice would you give to a newly-minted senior software engineer?]]></summary>
+        <author>
+            <name>jamghee</name>
+            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运行Python代码的API，能出什么问题？]]></title>
         <id>https://news.ycombinator.com/item?id=30738750</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bloopernova</name>
             <uri>https://news.ycombinator.com/user?id=bloopernova</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有多少个2FA令牌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30566604</id>
-        <link href="https://news.ycombinator.com/item?id=30566604"/>
-        <updated>2022-03-05T11:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many 2FA tokens do you have?]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
         </author>
     </entry>
 </feed>
