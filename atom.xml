@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T18:54:42.297Z</updated>
+    <updated>2022-03-20T19:10:54.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查看JSON的本地工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30745508</id>
+        <link href="https://news.ycombinator.com/item?id=30745508"/>
+        <updated>2022-03-20T19:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Local Tools for Viewing JSON]]></summary>
+        <author>
+            <name>slickrick216</name>
+            <uri>https://news.ycombinator.com/user?id=slickrick216</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到可持续建设的公司？]]></title>
         <id>https://news.ycombinator.com/item?id=30745411</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>arthurofbabylon</name>
             <uri>https://news.ycombinator.com/user?id=arthurofbabylon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些从网络开发转行的人，你们去了哪里？]]></title>
-        <id>https://news.ycombinator.com/item?id=30575119</id>
-        <link href="https://news.ycombinator.com/item?id=30575119"/>
-        <updated>2022-03-06T04:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Those who changed industries from web dev, where did you go?]]></summary>
-        <author>
-            <name>ilrwbwrkhv</name>
-            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
         </author>
     </entry>
 </feed>
