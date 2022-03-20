@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T12:49:31.285Z</updated>
+    <updated>2022-03-20T13:34:27.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼 "媒介 "會變成這樣的垃圾火？]]></title>
+        <id>https://news.ycombinator.com/item?id=30742386</id>
+        <link href="https://news.ycombinator.com/item?id=30742386"/>
+        <updated>2022-03-20T13:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has Medium become such a trash fire?]]></summary>
+        <author>
+            <name>simonhamp</name>
+            <uri>https://news.ycombinator.com/user?id=simonhamp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您是否在2022年使用過NewSQL數據庫的生產？]]></title>
+        <id>https://news.ycombinator.com/item?id=30742348</id>
+        <link href="https://news.ycombinator.com/item?id=30742348"/>
+        <updated>2022-03-20T13:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you used NewSQL Databases in Production in 2022?]]></summary>
+        <author>
+            <name>pelcg</name>
+            <uri>https://news.ycombinator.com/user?id=pelcg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的內燃機汽車最近的MPG值是否降低了？]]></title>
         <id>https://news.ycombinator.com/item?id=30742029</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>dashwehacct</name>
             <uri>https://news.ycombinator.com/user?id=dashwehacct</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何iOS HN客戶端具有基於關鍵詞的過濾功能？]]></title>
-        <id>https://news.ycombinator.com/item?id=30569834</id>
-        <link href="https://news.ycombinator.com/item?id=30569834"/>
-        <updated>2022-03-05T17:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any iOS HN clients with keyword based filtering?]]></summary>
-        <author>
-            <name>finiteseries</name>
-            <uri>https://news.ycombinator.com/user?id=finiteseries</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在這場危機中，科技界如何能提供幫助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30569830</id>
-        <link href="https://news.ycombinator.com/item?id=30569830"/>
-        <updated>2022-03-05T17:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can the tech community help during this crisis?]]></summary>
-        <author>
-            <name>harel</name>
-            <uri>https://news.ycombinator.com/user?id=harel</uri>
         </author>
     </entry>
 </feed>
