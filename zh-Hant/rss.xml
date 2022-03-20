@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 21:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 21:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何阻止HN廣告？]]></title>
+            <link>https://news.ycombinator.com/item?id=30746643</link>
+            <guid>https://news.ycombinator.com/item?id=30746643</guid>
+            <pubDate>Sun, 20 Mar 2022 21:09:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you block HN ads?]]></description>
+        </item>
         <item>
             <title><![CDATA[有什麼好的電子商業的無頭CMS嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30746497</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30577902</guid>
             <pubDate>Sun, 06 Mar 2022 14:51:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Where can we see simulations of a nuclear war?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否將拉動和運行代碼作為代碼審查的一部分？]]></title>
-            <link>https://news.ycombinator.com/item?id=30577735</link>
-            <guid>https://news.ycombinator.com/item?id=30577735</guid>
-            <pubDate>Sun, 06 Mar 2022 14:17:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you pull and run code as part of code review?]]></description>
         </item>
     </channel>
 </rss>
