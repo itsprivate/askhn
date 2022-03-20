@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T03:34:08.218Z</updated>
+    <updated>2022-03-20T04:14:26.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在温哥华的收入是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30740025</id>
+        <link href="https://news.ycombinator.com/item?id=30740025"/>
+        <updated>2022-03-20T04:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much are you making in Vancouver?]]></summary>
+        <author>
+            <name>brailsafe</name>
+            <uri>https://news.ycombinator.com/user?id=brailsafe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改进语音信箱]]></title>
         <id>https://news.ycombinator.com/item?id=30739751</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>actuator</name>
             <uri>https://news.ycombinator.com/user?id=actuator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您的中型公司用什么来管理应用程序/服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30567527</id>
-        <link href="https://news.ycombinator.com/item?id=30567527"/>
-        <updated>2022-03-05T13:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does your mid-size company use to manage apps/services?]]></summary>
-        <author>
-            <name>rco8786</name>
-            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
         </author>
     </entry>
 </feed>
