@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T07:52:11.273Z</updated>
+    <updated>2022-03-20T08:13:54.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數字遊牧者開發商，你們的收費是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30740951</id>
+        <link href="https://news.ycombinator.com/item?id=30740951"/>
+        <updated>2022-03-20T07:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Digital nomad developers, how much are you charging?]]></summary>
+        <author>
+            <name>petesergeant</name>
+            <uri>https://news.ycombinator.com/user?id=petesergeant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在班加羅爾的非FAANG公司，你作為一個IC的收入是多少？]]></title>
         <id>https://news.ycombinator.com/item?id=30740911</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>countfalafel</name>
             <uri>https://news.ycombinator.com/user?id=countfalafel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼iOS應用程序如此巨大，終端用戶有什麼可以做的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30568625</id>
-        <link href="https://news.ycombinator.com/item?id=30568625"/>
-        <updated>2022-03-05T16:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are iOS apps so huge and is there anything the end user can do?]]></summary>
-        <author>
-            <name>buttocks</name>
-            <uri>https://news.ycombinator.com/user?id=buttocks</uri>
         </author>
     </entry>
 </feed>
