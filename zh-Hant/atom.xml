@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T04:14:26.612Z</updated>
+    <updated>2022-03-20T04:43:30.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼網站不再使用_blank來做外部鏈接了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30740052</id>
+        <link href="https://news.ycombinator.com/item?id=30740052"/>
+        <updated>2022-03-20T04:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why dont websites use _blank for external links anymore?]]></summary>
+        <author>
+            <name>unsignednoop</name>
+            <uri>https://news.ycombinator.com/user?id=unsignednoop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術招聘--技能還是能力？]]></title>
+        <id>https://news.ycombinator.com/item?id=30740027</id>
+        <link href="https://news.ycombinator.com/item?id=30740027"/>
+        <updated>2022-03-20T04:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tech Hiring – Skills or Capabilities?]]></summary>
+        <author>
+            <name>goostah</name>
+            <uri>https://news.ycombinator.com/user?id=goostah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在溫哥華的收入是多少？]]></title>
         <id>https://news.ycombinator.com/item?id=30740025</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>UEF_Mavor</name>
             <uri>https://news.ycombinator.com/user?id=UEF_Mavor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些網站是作者在公開場合學習的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30567950</id>
-        <link href="https://news.ycombinator.com/item?id=30567950"/>
-        <updated>2022-03-05T14:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some examples of websites where the author learns in the open?]]></summary>
-        <author>
-            <name>pnorvx</name>
-            <uri>https://news.ycombinator.com/user?id=pnorvx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們如何能修復維基百科？]]></title>
-        <id>https://news.ycombinator.com/item?id=30567593</id>
-        <link href="https://news.ycombinator.com/item?id=30567593"/>
-        <updated>2022-03-05T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can we fix Wikipedia?]]></summary>
-        <author>
-            <name>actuator</name>
-            <uri>https://news.ycombinator.com/user?id=actuator</uri>
         </author>
     </entry>
 </feed>
