@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 18:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 18:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何找到可持續建設的公司？]]></title>
+            <link>https://news.ycombinator.com/item?id=30745411</link>
+            <guid>https://news.ycombinator.com/item?id=30745411</guid>
+            <pubDate>Sun, 20 Mar 2022 18:50:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to find companies that build sustainably?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我應該如何設計靈活的領域模型]]></title>
+            <link>https://news.ycombinator.com/item?id=30745280</link>
+            <guid>https://news.ycombinator.com/item?id=30745280</guid>
+            <pubDate>Sun, 20 Mar 2022 18:33:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: How should I design flexible domain model]]></description>
+        </item>
         <item>
             <title><![CDATA[你在生產中使用演員嗎？為什麼/為什麼不？]]></title>
             <link>https://news.ycombinator.com/item?id=30745047</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30575119</guid>
             <pubDate>Sun, 06 Mar 2022 04:49:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Those who changed industries from web dev, where did you go?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何找到我的雲存儲供應商的網絡瓶頸？]]></title>
-            <link>https://news.ycombinator.com/item?id=30575052</link>
-            <guid>https://news.ycombinator.com/item?id=30575052</guid>
-            <pubDate>Sun, 06 Mar 2022 04:32:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to find the network bottleneck to my cloud storage provider?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幫我腦補一下AR控制的機器人的工業應用]]></title>
-            <link>https://news.ycombinator.com/item?id=30574046</link>
-            <guid>https://news.ycombinator.com/item?id=30574046</guid>
-            <pubDate>Sun, 06 Mar 2022 01:30:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Help me brainstorm industrial applications of AR-controlled robots]]></description>
         </item>
     </channel>
 </rss>

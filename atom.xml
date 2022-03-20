@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T18:16:03.675Z</updated>
+    <updated>2022-03-20T18:54:42.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何找到可持续建设的公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30745411</id>
+        <link href="https://news.ycombinator.com/item?id=30745411"/>
+        <updated>2022-03-20T18:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find companies that build sustainably?]]></summary>
+        <author>
+            <name>bckr</name>
+            <uri>https://news.ycombinator.com/user?id=bckr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我应该如何设计灵活的领域模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30745280</id>
+        <link href="https://news.ycombinator.com/item?id=30745280"/>
+        <updated>2022-03-20T18:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should I design flexible domain model]]></summary>
+        <author>
+            <name>templarchamp</name>
+            <uri>https://news.ycombinator.com/user?id=templarchamp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在生产中使用演员吗？为什么/为什么不？]]></title>
         <id>https://news.ycombinator.com/item?id=30745047</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ilrwbwrkhv</name>
             <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到我的云存储供应商的网络瓶颈？]]></title>
-        <id>https://news.ycombinator.com/item?id=30575052</id>
-        <link href="https://news.ycombinator.com/item?id=30575052"/>
-        <updated>2022-03-06T04:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find the network bottleneck to my cloud storage provider?]]></summary>
-        <author>
-            <name>l8rlump</name>
-            <uri>https://news.ycombinator.com/user?id=l8rlump</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮我脑补一下AR控制的机器人的工业应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30574046</id>
-        <link href="https://news.ycombinator.com/item?id=30574046"/>
-        <updated>2022-03-06T01:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Help me brainstorm industrial applications of AR-controlled robots]]></summary>
-        <author>
-            <name>mburkon</name>
-            <uri>https://news.ycombinator.com/user?id=mburkon</uri>
         </author>
     </entry>
 </feed>
