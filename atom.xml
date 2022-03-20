@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T20:32:31.755Z</updated>
+    <updated>2022-03-20T21:11:51.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么好的电子商业的无头CMS吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30746497</id>
+        <link href="https://news.ycombinator.com/item?id=30746497"/>
+        <updated>2022-03-20T20:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any good headless CMS for ecomerce?]]></summary>
+        <author>
+            <name>imachine1980_</name>
+            <uri>https://news.ycombinator.com/user?id=imachine1980_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我想从头开始练习GUI的编码。有什么建议吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30746110</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gary_chambers</name>
             <uri>https://news.ycombinator.com/user?id=gary_chambers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邮件应用程序，从自定义别名地址回复]]></title>
-        <id>https://news.ycombinator.com/item?id=30577013</id>
-        <link href="https://news.ycombinator.com/item?id=30577013"/>
-        <updated>2022-03-06T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Mail app, respond from custom alias address]]></summary>
-        <author>
-            <name>mdrzn</name>
-            <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
         </author>
     </entry>
 </feed>
