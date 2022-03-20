@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 12:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 12:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的内燃机汽车最近的MPG值是否降低了？]]></title>
+            <link>https://news.ycombinator.com/item?id=30742029</link>
+            <guid>https://news.ycombinator.com/item?id=30742029</guid>
+            <pubDate>Sun, 20 Mar 2022 12:17:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is your ICE car getting less MPG lately?]]></description>
+        </item>
         <item>
             <title><![CDATA[你会在YouTube上失去时间吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30741945</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30569830</guid>
             <pubDate>Sat, 05 Mar 2022 17:46:50 GMT</pubDate>
             <description><![CDATA[Ask HN: How can the tech community help during this crisis?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一名网络开发人员，你曾经处理过的最难的问题是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30569829</link>
-            <guid>https://news.ycombinator.com/item?id=30569829</guid>
-            <pubDate>Sat, 05 Mar 2022 17:46:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: The hardest problem you ever worked on as a web developer?]]></description>
         </item>
     </channel>
 </rss>
