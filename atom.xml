@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T19:53:11.390Z</updated>
+    <updated>2022-03-20T20:32:31.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想从头开始练习GUI的编码。有什么建议吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30746110</id>
+        <link href="https://news.ycombinator.com/item?id=30746110"/>
+        <updated>2022-03-20T20:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'd like to practice coding GUI from scratch. Any recommendations?]]></summary>
+        <author>
+            <name>scott01</name>
+            <uri>https://news.ycombinator.com/user?id=scott01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[投机执行漏洞带来的现实世界的破坏？]]></title>
         <id>https://news.ycombinator.com/item?id=30745897</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mdrzn</name>
             <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯军事硬件对黑客攻击的脆弱性如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30576844</id>
-        <link href="https://news.ycombinator.com/item?id=30576844"/>
-        <updated>2022-03-06T11:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How vulnerable is Russian military hardware to hacking?]]></summary>
-        <author>
-            <name>0898</name>
-            <uri>https://news.ycombinator.com/user?id=0898</uri>
         </author>
     </entry>
 </feed>
