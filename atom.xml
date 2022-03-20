@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T08:13:54.705Z</updated>
+    <updated>2022-03-20T08:35:25.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用NFT/Metamask钱包登录？你看到了什么挑战？]]></title>
+        <id>https://news.ycombinator.com/item?id=30741047</id>
+        <link href="https://news.ycombinator.com/item?id=30741047"/>
+        <updated>2022-03-20T08:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Login with NFT/ Metamask wallet? What challenges you see?]]></summary>
+        <author>
+            <name>desaiguddu</name>
+            <uri>https://news.ycombinator.com/user?id=desaiguddu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数字游牧者开发商，你们的收费是多少？]]></title>
         <id>https://news.ycombinator.com/item?id=30740951</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>aghilmort</name>
             <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在做正确的数字医疗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30568848</id>
-        <link href="https://news.ycombinator.com/item?id=30568848"/>
-        <updated>2022-03-05T16:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is doing digital health care right?]]></summary>
-        <author>
-            <name>countfalafel</name>
-            <uri>https://news.ycombinator.com/user?id=countfalafel</uri>
         </author>
     </entry>
 </feed>
