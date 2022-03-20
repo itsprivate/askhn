@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 20 Mar 2022 21:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 21:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼你一定要這樣？]]></title>
+            <link>https://news.ycombinator.com/item?id=30746858</link>
+            <guid>https://news.ycombinator.com/item?id=30746858</guid>
+            <pubDate>Sun, 20 Mar 2022 21:32:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why You Gotta Be Like That?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何阻止HN廣告？]]></title>
             <link>https://news.ycombinator.com/item?id=30746643</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30577911</guid>
             <pubDate>Sun, 06 Mar 2022 14:52:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們在哪裡可以看到核戰爭的模擬情況？]]></title>
-            <link>https://news.ycombinator.com/item?id=30577902</link>
-            <guid>https://news.ycombinator.com/item?id=30577902</guid>
-            <pubDate>Sun, 06 Mar 2022 14:51:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can we see simulations of a nuclear war?]]></description>
         </item>
     </channel>
 </rss>

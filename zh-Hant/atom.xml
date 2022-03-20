@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T21:30:03.572Z</updated>
+    <updated>2022-03-20T21:37:33.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼你一定要這樣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30746858</id>
+        <link href="https://news.ycombinator.com/item?id=30746858"/>
+        <updated>2022-03-20T21:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why You Gotta Be Like That?]]></summary>
+        <author>
+            <name>staccatomeasure</name>
+            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何阻止HN廣告？]]></title>
         <id>https://news.ycombinator.com/item?id=30746643</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jamesdco</name>
             <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們在哪裡可以看到核戰爭的模擬情況？]]></title>
-        <id>https://news.ycombinator.com/item?id=30577902</id>
-        <link href="https://news.ycombinator.com/item?id=30577902"/>
-        <updated>2022-03-06T14:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can we see simulations of a nuclear war?]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
         </author>
     </entry>
 </feed>
