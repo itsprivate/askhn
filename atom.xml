@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T21:37:33.611Z</updated>
+    <updated>2022-03-20T21:51:30.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在什么年龄应该停止考虑别人的职业建议？]]></title>
+        <id>https://news.ycombinator.com/item?id=30746973</id>
+        <link href="https://news.ycombinator.com/item?id=30746973"/>
+        <updated>2022-03-20T21:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: At what age should you stop considering career advice from others?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么你一定要这样？]]></title>
         <id>https://news.ycombinator.com/item?id=30746858</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>RapperWhoMadeIt</name>
             <uri>https://news.ycombinator.com/user?id=RapperWhoMadeIt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30577911</id>
-        <link href="https://news.ycombinator.com/item?id=30577911"/>
-        <updated>2022-03-06T14:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
         </author>
     </entry>
 </feed>
