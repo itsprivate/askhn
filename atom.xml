@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-20T15:35:24.931Z</updated>
+    <updated>2022-03-20T15:53:12.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何保持专注？]]></title>
+        <id>https://news.ycombinator.com/item?id=30743660</id>
+        <link href="https://news.ycombinator.com/item?id=30743660"/>
+        <updated>2022-03-20T15:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Stay Focus?]]></summary>
+        <author>
+            <name>lienhoangduy</name>
+            <uri>https://news.ycombinator.com/user?id=lienhoangduy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[给予安卓应用有用的放松和快乐？]]></title>
         <id>https://news.ycombinator.com/item?id=30743327</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ripcurl</name>
             <uri>https://news.ycombinator.com/user?id=ripcurl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这怎么会合法呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30572023</id>
-        <link href="https://news.ycombinator.com/item?id=30572023"/>
-        <updated>2022-03-05T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Is This Legal?]]></summary>
-        <author>
-            <name>endboss</name>
-            <uri>https://news.ycombinator.com/user?id=endboss</uri>
         </author>
     </entry>
 </feed>
