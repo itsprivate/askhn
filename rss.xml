@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Mar 2022 18:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 19:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这里有人在使用 "Hey Cafe "吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30758321</link>
+            <guid>https://news.ycombinator.com/item?id=30758321</guid>
+            <pubDate>Mon, 21 Mar 2022 19:05:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is anyone here using “Hey Cafe”?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对食品配送的思考]]></title>
+            <link>https://news.ycombinator.com/item?id=30758289</link>
+            <guid>https://news.ycombinator.com/item?id=30758289</guid>
+            <pubDate>Mon, 21 Mar 2022 19:03:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Thoughts on Food Deliveries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有谁对通过MQTT获得新文件通知感兴趣？]]></title>
+            <link>https://news.ycombinator.com/item?id=30758166</link>
+            <guid>https://news.ycombinator.com/item?id=30758166</guid>
+            <pubDate>Mon, 21 Mar 2022 18:52:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone interested in getting new file notifications via MQTT?]]></description>
+        </item>
         <item>
             <title><![CDATA[为代码生成用户文档覆盖面的工具]]></title>
             <link>https://news.ycombinator.com/item?id=30757919</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30593802</guid>
             <pubDate>Mon, 07 Mar 2022 21:55:04 GMT</pubDate>
             <description><![CDATA[Ask HN: How granular are your personal logs/activity reports?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对于大多数业余爱好者来说，COMAL是为c64编程的最佳方式吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30593649</link>
-            <guid>https://news.ycombinator.com/item?id=30593649</guid>
-            <pubDate>Mon, 07 Mar 2022 21:39:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Was COMAL the best way to program the c64 for most hobbyists?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国工人从加拿大创业公司获得股票期权]]></title>
-            <link>https://news.ycombinator.com/item?id=30592365</link>
-            <guid>https://news.ycombinator.com/item?id=30592365</guid>
-            <pubDate>Mon, 07 Mar 2022 19:38:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: U.S. worker receiving stock options from Canadian startup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术性越强的Standup更新，队友的生产力越低？]]></title>
-            <link>https://news.ycombinator.com/item?id=30592880</link>
-            <guid>https://news.ycombinator.com/item?id=30592880</guid>
-            <pubDate>Mon, 07 Mar 2022 20:25:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: The more technical the standup update, the less productive the teammate?]]></description>
         </item>
     </channel>
 </rss>
