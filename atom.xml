@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T17:35:25.997Z</updated>
+    <updated>2022-03-21T18:41:05.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为代码生成用户文档覆盖面的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30757919</id>
+        <link href="https://news.ycombinator.com/item?id=30757919"/>
+        <updated>2022-03-21T18:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tools to generate coverage of user documentation for code]]></summary>
+        <author>
+            <name>tstack</name>
+            <uri>https://news.ycombinator.com/user?id=tstack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道有只用文字交流的自由设计工作吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30757785</id>
+        <link href="https://news.ycombinator.com/item?id=30757785"/>
+        <updated>2022-03-21T18:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you know of freelance dev work with text-only communication?]]></summary>
+        <author>
+            <name>uhxvt</name>
+            <uri>https://news.ycombinator.com/user?id=uhxvt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建设的冲动很强烈，有什么想法吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30757634</id>
+        <link href="https://news.ycombinator.com/item?id=30757634"/>
+        <updated>2022-03-21T18:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: The urge to build is strong, any ideas?]]></summary>
+        <author>
+            <name>username_exists</name>
+            <uri>https://news.ycombinator.com/user?id=username_exists</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VPN/SSO整合能否用于自动登录支持SSO的网站]]></title>
         <id>https://news.ycombinator.com/item?id=30756998</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>gardnr</name>
             <uri>https://news.ycombinator.com/user?id=gardnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是好的、但价格低廉的助听器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30591946</id>
-        <link href="https://news.ycombinator.com/item?id=30591946"/>
-        <updated>2022-03-07T19:06:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is a good, but inexpensive Hearing Aid?]]></summary>
-        <author>
-            <name>Txoko</name>
-            <uri>https://news.ycombinator.com/user?id=Txoko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何深入学习一些东西的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30591723</id>
-        <link href="https://news.ycombinator.com/item?id=30591723"/>
-        <updated>2022-03-07T18:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you learn something in depth?]]></summary>
-        <author>
-            <name>explain-this</name>
-            <uri>https://news.ycombinator.com/user?id=explain-this</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这场新的冷战是否会引发另一场太空竞赛？]]></title>
-        <id>https://news.ycombinator.com/item?id=30591124</id>
-        <link href="https://news.ycombinator.com/item?id=30591124"/>
-        <updated>2022-03-07T18:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will this new Cold War spark another space race?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
