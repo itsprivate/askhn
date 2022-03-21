@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼在自由薯條歇斯底里的時候很難對其進行批評？]]></title>
+            <link>https://news.ycombinator.com/item?id=30755447</link>
+            <guid>https://news.ycombinator.com/item?id=30755447</guid>
+            <pubDate>Mon, 21 Mar 2022 15:49:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why was it hard to criticize Freedom Fries hysteria while it lasted?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼蘋果要創造他們半生不熟的Metal而不是使用Vulkan？]]></title>
+            <link>https://news.ycombinator.com/item?id=30755407</link>
+            <guid>https://news.ycombinator.com/item?id=30755407</guid>
+            <pubDate>Mon, 21 Mar 2022 15:46:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why did Apple create their half-baked Metal insead of using Vulkan?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有什麼可利用的書籍推薦來發展我的貝葉斯思維嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30755259</link>
+            <guid>https://news.ycombinator.com/item?id=30755259</guid>
+            <pubDate>Mon, 21 Mar 2022 15:35:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any accessible book recommendations to develop my Bayesian thinking?]]></description>
+        </item>
         <item>
             <title><![CDATA[用於Rails應用程序的更便宜的Heroku替代品？]]></title>
             <link>https://news.ycombinator.com/item?id=30755202</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30588163</guid>
             <pubDate>Mon, 07 Mar 2022 14:26:38 GMT</pubDate>
             <description><![CDATA[Ask HN: How to see the top HN stories ranked without flags?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN上的俄羅斯人對這場戰爭有什麼看法？]]></title>
-            <link>https://news.ycombinator.com/item?id=30587831</link>
-            <guid>https://news.ycombinator.com/item?id=30587831</guid>
-            <pubDate>Mon, 07 Mar 2022 13:58:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do Russians on HN think about this war?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什麼是動態範圍的優勢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30587581</link>
-            <guid>https://news.ycombinator.com/item?id=30587581</guid>
-            <pubDate>Mon, 07 Mar 2022 13:40:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are dynamical scope advantages?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瞭解NFT的資源]]></title>
-            <link>https://news.ycombinator.com/item?id=30587488</link>
-            <guid>https://news.ycombinator.com/item?id=30587488</guid>
-            <pubDate>Mon, 07 Mar 2022 13:31:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Resources to Learn About NFTs]]></description>
         </item>
     </channel>
 </rss>

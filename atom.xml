@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T15:38:38.344Z</updated>
+    <updated>2022-03-21T15:56:58.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么在自由薯条歇斯底里的时候很难对其进行批评？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755447</id>
+        <link href="https://news.ycombinator.com/item?id=30755447"/>
+        <updated>2022-03-21T15:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why was it hard to criticize Freedom Fries hysteria while it lasted?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么苹果要创造他们半生不熟的Metal而不是使用Vulkan？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755407</id>
+        <link href="https://news.ycombinator.com/item?id=30755407"/>
+        <updated>2022-03-21T15:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did Apple create their half-baked Metal insead of using Vulkan?]]></summary>
+        <author>
+            <name>sergiotapia</name>
+            <uri>https://news.ycombinator.com/user?id=sergiotapia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么可利用的书籍推荐来发展我的贝叶斯思维吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755259</id>
+        <link href="https://news.ycombinator.com/item?id=30755259"/>
+        <updated>2022-03-21T15:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any accessible book recommendations to develop my Bayesian thinking?]]></summary>
+        <author>
+            <name>ggfgdjfhgjsdhfg</name>
+            <uri>https://news.ycombinator.com/user?id=ggfgdjfhgjsdhfg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Rails应用程序的更便宜的Heroku替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30755202</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>ddlatham</name>
             <uri>https://news.ycombinator.com/user?id=ddlatham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN上的俄罗斯人对这场战争有什么看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30587831</id>
-        <link href="https://news.ycombinator.com/item?id=30587831"/>
-        <updated>2022-03-07T13:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do Russians on HN think about this war?]]></summary>
-        <author>
-            <name>sgallant</name>
-            <uri>https://news.ycombinator.com/user?id=sgallant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是动态范围的优势？]]></title>
-        <id>https://news.ycombinator.com/item?id=30587581</id>
-        <link href="https://news.ycombinator.com/item?id=30587581"/>
-        <updated>2022-03-07T13:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are dynamical scope advantages?]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解NFT的资源]]></title>
-        <id>https://news.ycombinator.com/item?id=30587488</id>
-        <link href="https://news.ycombinator.com/item?id=30587488"/>
-        <updated>2022-03-07T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Resources to Learn About NFTs]]></summary>
-        <author>
-            <name>ss108</name>
-            <uri>https://news.ycombinator.com/user?id=ss108</uri>
         </author>
     </entry>
 </feed>
