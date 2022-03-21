@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T14:13:25.793Z</updated>
+    <updated>2022-03-21T14:31:40.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是以生物公司的身份向YC申請嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754432</id>
+        <link href="https://news.ycombinator.com/item?id=30754432"/>
+        <updated>2022-03-21T14:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you applying to YC as a bio company?]]></summary>
+        <author>
+            <name>klevertree</name>
+            <uri>https://news.ycombinator.com/user?id=klevertree</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在使用Web組件時，有哪些推薦的模式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754394</id>
+        <link href="https://news.ycombinator.com/item?id=30754394"/>
+        <updated>2022-03-21T14:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some recommended patterns when using Web Components?]]></summary>
+        <author>
+            <name>alxthm</name>
+            <uri>https://news.ycombinator.com/user?id=alxthm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何學會閱讀大型代碼庫？]]></title>
         <id>https://news.ycombinator.com/item?id=30754269</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>mateo1</name>
             <uri>https://news.ycombinator.com/user?id=mateo1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑣事 "是什麼意思？]]></title>
-        <id>https://news.ycombinator.com/item?id=30584679</id>
-        <link href="https://news.ycombinator.com/item?id=30584679"/>
-        <updated>2022-03-07T06:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Does “Trivial” Mean?]]></summary>
-        <author>
-            <name>hahnchen</name>
-            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們大多數的世界領導人可能有鉛中毒嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30584592</id>
-        <link href="https://news.ycombinator.com/item?id=30584592"/>
-        <updated>2022-03-07T05:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is It Likely That Most of Our World Leaders Have Lead Poisoning?]]></summary>
-        <author>
-            <name>idontwantthis</name>
-            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
         </author>
     </entry>
 </feed>
