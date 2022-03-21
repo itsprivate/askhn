@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T21:31:57.969Z</updated>
+    <updated>2022-03-21T22:43:01.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AppleID停機了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30760618</id>
+        <link href="https://news.ycombinator.com/item?id=30760618"/>
+        <updated>2022-03-21T22:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is AppleID Down?]]></summary>
+        <author>
+            <name>startblue</name>
+            <uri>https://news.ycombinator.com/user?id=startblue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何靠副業賺取1000美元/月？有什麼想法嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30759862</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>crate_barre</name>
             <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是智能音箱中的 "鴨子"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30595245</id>
-        <link href="https://news.ycombinator.com/item?id=30595245"/>
-        <updated>2022-03-08T00:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the Duck Duck Go of smart speakers?]]></summary>
-        <author>
-            <name>wunderlust</name>
-            <uri>https://news.ycombinator.com/user?id=wunderlust</uri>
         </author>
     </entry>
 </feed>
