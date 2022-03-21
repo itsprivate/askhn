@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T03:29:16.850Z</updated>
+    <updated>2022-03-21T03:47:17.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何从订阅页面删除YouTube短片？]]></title>
+        <id>https://news.ycombinator.com/item?id=30749908</id>
+        <link href="https://news.ycombinator.com/item?id=30749908"/>
+        <updated>2022-03-21T03:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to remove YouTube Shorts from subscriptions page?]]></summary>
+        <author>
+            <name>mario_kart_snes</name>
+            <uri>https://news.ycombinator.com/user?id=mario_kart_snes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯诺登的情况如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30749707</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jawerty</name>
             <uri>https://news.ycombinator.com/user?id=jawerty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人如何为战争做好心理准备？]]></title>
-        <id>https://news.ycombinator.com/item?id=30581056</id>
-        <link href="https://news.ycombinator.com/item?id=30581056"/>
-        <updated>2022-03-06T20:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do a prepare mentally for war?]]></summary>
-        <author>
-            <name>kypro</name>
-            <uri>https://news.ycombinator.com/user?id=kypro</uri>
         </author>
     </entry>
 </feed>
