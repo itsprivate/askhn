@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T16:16:01.718Z</updated>
+    <updated>2022-03-21T16:52:09.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎麼處理這些多餘的硬件呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30756122</id>
+        <link href="https://news.ycombinator.com/item?id=30756122"/>
+        <updated>2022-03-21T16:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do with the extra hardware?]]></summary>
+        <author>
+            <name>28194608</name>
+            <uri>https://news.ycombinator.com/user?id=28194608</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為了學習開發運營的基礎知識，AWS認證值得嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30755625</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ahil95</name>
             <uri>https://news.ycombinator.com/user?id=ahil95</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於音樂聆聽和發現習慣的調查（~5分鐘，18-65歲）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30588542</id>
-        <link href="https://news.ycombinator.com/item?id=30588542"/>
-        <updated>2022-03-07T14:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Survey on music listening and discovery habits (~5 min, 18-65 y/o)]]></summary>
-        <author>
-            <name>diibv</name>
-            <uri>https://news.ycombinator.com/user?id=diibv</uri>
         </author>
     </entry>
 </feed>
