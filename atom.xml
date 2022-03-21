@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T19:27:14.790Z</updated>
+    <updated>2022-03-21T19:37:14.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁在这里自行托管？介意分享你的规格和负载统计吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30758657</id>
+        <link href="https://news.ycombinator.com/item?id=30758657"/>
+        <updated>2022-03-21T19:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone self hosting here? Mind sharing your specs and load stats?]]></summary>
+        <author>
+            <name>s1k3s</name>
+            <uri>https://news.ycombinator.com/user?id=s1k3s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在低端（linux）设备上进行webdev的最佳浏览器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30758551</id>
+        <link href="https://news.ycombinator.com/item?id=30758551"/>
+        <updated>2022-03-21T19:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best browser for webdev on low end (linux) device?]]></summary>
+        <author>
+            <name>gogenerics</name>
+            <uri>https://news.ycombinator.com/user?id=gogenerics</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些有前途的副业/单干事业想法？]]></title>
         <id>https://news.ycombinator.com/item?id=30758393</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ThePaulAlek</name>
             <uri>https://news.ycombinator.com/user?id=ThePaulAlek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制裁主要是为了把俄罗斯变成一个真正的民主国家吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30594037</id>
-        <link href="https://news.ycombinator.com/item?id=30594037"/>
-        <updated>2022-03-07T22:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are the sanctions mostly about turning Russia into a true democracy?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能最好地利用2万美元来实现一个创业想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30593884</id>
-        <link href="https://news.ycombinator.com/item?id=30593884"/>
-        <updated>2022-03-07T22:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I best utilize $20k towards a startup idea?]]></summary>
-        <author>
-            <name>me_me_mu_mu</name>
-            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
         </author>
     </entry>
 </feed>
