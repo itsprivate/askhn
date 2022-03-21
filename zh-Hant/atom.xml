@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T15:56:58.890Z</updated>
+    <updated>2022-03-21T16:16:01.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為了學習開發運營的基礎知識，AWS認證值得嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755625</id>
+        <link href="https://news.ycombinator.com/item?id=30755625"/>
+        <updated>2022-03-21T16:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is an AWS certification worth it for learning the basics of dev ops?]]></summary>
+        <author>
+            <name>sweetheart</name>
+            <uri>https://news.ycombinator.com/user?id=sweetheart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼在自由薯條歇斯底里的時候很難對其進行批評？]]></title>
         <id>https://news.ycombinator.com/item?id=30755447</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>diibv</name>
             <uri>https://news.ycombinator.com/user?id=diibv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在沒有旗幟的情況下看到排名靠前的HN故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30588163</id>
-        <link href="https://news.ycombinator.com/item?id=30588163"/>
-        <updated>2022-03-07T14:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to see the top HN stories ranked without flags?]]></summary>
-        <author>
-            <name>ddlatham</name>
-            <uri>https://news.ycombinator.com/user?id=ddlatham</uri>
         </author>
     </entry>
 </feed>
