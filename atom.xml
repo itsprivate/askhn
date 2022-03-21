@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T14:53:08.060Z</updated>
+    <updated>2022-03-21T15:15:45.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么好的资源可以用来构建开放源代码的专有分叉？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754896</id>
+        <link href="https://news.ycombinator.com/item?id=30754896"/>
+        <updated>2022-03-21T15:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any good resources for structuring proprietary forks of open source?]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Go和Rust如此巨大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754864</id>
+        <link href="https://news.ycombinator.com/item?id=30754864"/>
+        <updated>2022-03-21T14:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are Go and Rust so huge?]]></summary>
+        <author>
+            <name>tormock</name>
+            <uri>https://news.ycombinator.com/user?id=tormock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些书帮助你从一个开发者提升到更高的水平？]]></title>
         <id>https://news.ycombinator.com/item?id=30754741</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>collyw</name>
             <uri>https://news.ycombinator.com/user?id=collyw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在编码期间都听/看/做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30586058</id>
-        <link href="https://news.ycombinator.com/item?id=30586058"/>
-        <updated>2022-03-07T10:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you listen to/watch/do during coding?]]></summary>
-        <author>
-            <name>engyioneer</name>
-            <uri>https://news.ycombinator.com/user?id=engyioneer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[截至2022年3月，斯诺登如何能留在俄罗斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30585650</id>
-        <link href="https://news.ycombinator.com/item?id=30585650"/>
-        <updated>2022-03-07T09:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can Snowden stay in Russia as of March 2022?]]></summary>
-        <author>
-            <name>tmp76785289978</name>
-            <uri>https://news.ycombinator.com/user?id=tmp76785289978</uri>
         </author>
     </entry>
 </feed>
