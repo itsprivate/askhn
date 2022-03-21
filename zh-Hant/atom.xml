@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T06:39:03.945Z</updated>
+    <updated>2022-03-21T06:57:24.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具有微服務/服務API的GDPR安全數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30750951</id>
+        <link href="https://news.ycombinator.com/item?id=30750951"/>
+        <updated>2022-03-21T06:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: GDPR Secure Database with Microservices/Service API]]></summary>
+        <author>
+            <name>EnKopVand</name>
+            <uri>https://news.ycombinator.com/user?id=EnKopVand</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國家安全局能有多大的領先優勢？]]></title>
         <id>https://news.ycombinator.com/item?id=30750913</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>loige</name>
             <uri>https://news.ycombinator.com/user?id=loige</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於俄羅斯與烏克蘭的虛構場景--你會如何決定？]]></title>
-        <id>https://news.ycombinator.com/item?id=30581911</id>
-        <link href="https://news.ycombinator.com/item?id=30581911"/>
-        <updated>2022-03-06T22:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fictional scenario based on Russia vs. Ukraine – how would you decide?]]></summary>
-        <author>
-            <name>firebaze</name>
-            <uri>https://news.ycombinator.com/user?id=firebaze</uri>
         </author>
     </entry>
 </feed>
