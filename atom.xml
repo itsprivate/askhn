@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T15:15:45.336Z</updated>
+    <updated>2022-03-21T15:38:38.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于Rails应用程序的更便宜的Heroku替代品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755202</id>
+        <link href="https://news.ycombinator.com/item?id=30755202"/>
+        <updated>2022-03-21T15:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cheaper Heroku alternatives for Rails apps?]]></summary>
+        <author>
+            <name>endorphine</name>
+            <uri>https://news.ycombinator.com/user?id=endorphine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaverse营销？]]></title>
+        <id>https://news.ycombinator.com/item?id=30755142</id>
+        <link href="https://news.ycombinator.com/item?id=30755142"/>
+        <updated>2022-03-21T15:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Metaverse Marketing?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳健地显示视频中的信息（~4kb/s）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30754999</id>
+        <link href="https://news.ycombinator.com/item?id=30754999"/>
+        <updated>2022-03-21T15:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Robustly displaying information in a video (~4kb/s)]]></summary>
+        <author>
+            <name>hgomersall</name>
+            <uri>https://news.ycombinator.com/user?id=hgomersall</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么好的资源可以用来构建开放源代码的专有分叉？]]></title>
         <id>https://news.ycombinator.com/item?id=30754896</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>ss108</name>
             <uri>https://news.ycombinator.com/user?id=ss108</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您对机器学习的碳排放有什么看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30587276</id>
-        <link href="https://news.ycombinator.com/item?id=30587276"/>
-        <updated>2022-03-07T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your take on carbon emissions of Machine Learning]]></summary>
-        <author>
-            <name>danschmitt</name>
-            <uri>https://news.ycombinator.com/user?id=danschmitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否应该为网络战争 "征兵"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30586963</id>
-        <link href="https://news.ycombinator.com/item?id=30586963"/>
-        <updated>2022-03-07T12:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></summary>
-        <author>
-            <name>asah</name>
-            <uri>https://news.ycombinator.com/user?id=asah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将一个硬件产品推向市场？]]></title>
-        <id>https://news.ycombinator.com/item?id=30586175</id>
-        <link href="https://news.ycombinator.com/item?id=30586175"/>
-        <updated>2022-03-07T10:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does one go about bringing a hardware product to market]]></summary>
-        <author>
-            <name>collyw</name>
-            <uri>https://news.ycombinator.com/user?id=collyw</uri>
         </author>
     </entry>
 </feed>
