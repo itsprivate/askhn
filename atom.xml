@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T14:31:40.669Z</updated>
+    <updated>2022-03-21T14:53:08.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些书帮助你从一个开发者提升到更高的水平？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754741</id>
+        <link href="https://news.ycombinator.com/item?id=30754741"/>
+        <updated>2022-03-21T14:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What books helped level you up from a developer to something more?]]></summary>
+        <author>
+            <name>showsover</name>
+            <uri>https://news.ycombinator.com/user?id=showsover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于计算机如何启动的入门知识]]></title>
+        <id>https://news.ycombinator.com/item?id=30754652</id>
+        <link href="https://news.ycombinator.com/item?id=30754652"/>
+        <updated>2022-03-21T14:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A primer on how computers boot]]></summary>
+        <author>
+            <name>mog_dev</name>
+            <uri>https://news.ycombinator.com/user?id=mog_dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是以生物公司的身份向YC申请吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30754432</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>tmp76785289978</name>
             <uri>https://news.ycombinator.com/user?id=tmp76785289978</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌会议的链接可以强制用火狐浏览器来操作吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30585763</id>
-        <link href="https://news.ycombinator.com/item?id=30585763"/>
-        <updated>2022-03-07T09:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can links for Google meet be forced to opet with Firefox?]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[e-yuan如何处理线下交易？]]></title>
-        <id>https://news.ycombinator.com/item?id=30585247</id>
-        <link href="https://news.ycombinator.com/item?id=30585247"/>
-        <updated>2022-03-07T07:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does e-yuan handle offline transactions?]]></summary>
-        <author>
-            <name>mateo1</name>
-            <uri>https://news.ycombinator.com/user?id=mateo1</uri>
         </author>
     </entry>
 </feed>
