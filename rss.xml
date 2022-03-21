@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在验证Statup想法时面临的最大挑战是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30751783</link>
+            <guid>https://news.ycombinator.com/item?id=30751783</guid>
+            <pubDate>Mon, 21 Mar 2022 08:50:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the biggest challenges you faced while validating statup ideas?]]></description>
+        </item>
         <item>
             <title><![CDATA[具有微服务/服务API的GDPR安全数据库]]></title>
             <link>https://news.ycombinator.com/item?id=30750951</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30582221</guid>
             <pubDate>Sun, 06 Mar 2022 23:11:23 GMT</pubDate>
             <description><![CDATA[Ask HN: What concepts have you never truly understood?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高级软件工程师的素质]]></title>
-            <link>https://news.ycombinator.com/item?id=30582150</link>
-            <guid>https://news.ycombinator.com/item?id=30582150</guid>
-            <pubDate>Sun, 06 Mar 2022 23:00:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Qualities of a Senior Software Engineer]]></description>
         </item>
     </channel>
 </rss>
