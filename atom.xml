@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T11:11:47.529Z</updated>
+    <updated>2022-03-21T11:52:23.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mac仍然是视频编辑的最佳选择吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30752851</id>
+        <link href="https://news.ycombinator.com/item?id=30752851"/>
+        <updated>2022-03-21T11:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is a Mac still the best for video editing?]]></summary>
+        <author>
+            <name>labrador</name>
+            <uri>https://news.ycombinator.com/user?id=labrador</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪种并发问题最适合用来比较CSP和内存共享？]]></title>
+        <id>https://news.ycombinator.com/item?id=30751920</id>
+        <link href="https://news.ycombinator.com/item?id=30751920"/>
+        <updated>2022-03-21T09:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which concurrency problem is best to compare CSP and memory sharing?]]></summary>
+        <author>
+            <name>gold5982</name>
+            <uri>https://news.ycombinator.com/user?id=gold5982</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拥有伟大的、易于阅读的代码的代码库？]]></title>
         <id>https://news.ycombinator.com/item?id=30752540</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>wombat-man</name>
             <uri>https://news.ycombinator.com/user?id=wombat-man</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为国家安全局工作有帮助吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30583129</id>
-        <link href="https://news.ycombinator.com/item?id=30583129"/>
-        <updated>2022-03-07T01:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would Working for the NSA Help?]]></summary>
-        <author>
-            <name>blunte</name>
-            <uri>https://news.ycombinator.com/user?id=blunte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让非技术性的创始人更了解自己？]]></title>
-        <id>https://news.ycombinator.com/item?id=30583046</id>
-        <link href="https://news.ycombinator.com/item?id=30583046"/>
-        <updated>2022-03-07T01:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to be more visible to non-technical founders?]]></summary>
-        <author>
-            <name>extra_ada</name>
-            <uri>https://news.ycombinator.com/user?id=extra_ada</uri>
         </author>
     </entry>
 </feed>
