@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T19:12:59.530Z</updated>
+    <updated>2022-03-21T19:27:14.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些有前途的副业/单干事业想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30758393</id>
+        <link href="https://news.ycombinator.com/item?id=30758393"/>
+        <updated>2022-03-21T19:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some promising side/solo business ideas?]]></summary>
+        <author>
+            <name>Thomasmack</name>
+            <uri>https://news.ycombinator.com/user?id=Thomasmack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这里有人在使用 "Hey Cafe "吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30758321</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>me_me_mu_mu</name>
             <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的个人日志/活动报告的粒度如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30593802</id>
-        <link href="https://news.ycombinator.com/item?id=30593802"/>
-        <updated>2022-03-07T21:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How granular are your personal logs/activity reports?]]></summary>
-        <author>
-            <name>lastofthemojito</name>
-            <uri>https://news.ycombinator.com/user?id=lastofthemojito</uri>
         </author>
     </entry>
 </feed>
