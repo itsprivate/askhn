@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T13:25:23.278Z</updated>
+    <updated>2022-03-21T14:13:25.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何學會閱讀大型代碼庫？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754269</id>
+        <link href="https://news.ycombinator.com/item?id=30754269"/>
+        <updated>2022-03-21T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you learn to read large code bases?]]></summary>
+        <author>
+            <name>iamricks</name>
+            <uri>https://news.ycombinator.com/user?id=iamricks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有多少獨特的用戶在HN上投票？]]></title>
+        <id>https://news.ycombinator.com/item?id=30754253</id>
+        <link href="https://news.ycombinator.com/item?id=30754253"/>
+        <updated>2022-03-21T14:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many unique users vote on HN?]]></summary>
+        <author>
+            <name>manx</name>
+            <uri>https://news.ycombinator.com/user?id=manx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在建立創業公司時面臨的最大挑戰是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30753737</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>idontwantthis</name>
             <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN項目編號30581215是一個廣告嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30584180</id>
-        <link href="https://news.ycombinator.com/item?id=30584180"/>
-        <updated>2022-03-07T04:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is HN item ID 30581215 an ad?]]></summary>
-        <author>
-            <name>Extropy_</name>
-            <uri>https://news.ycombinator.com/user?id=Extropy_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能靠自己成為一個好的程序員嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30584111</id>
-        <link href="https://news.ycombinator.com/item?id=30584111"/>
-        <updated>2022-03-07T04:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to become a good programmer by one's own?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
