@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T20:33:55.748Z</updated>
+    <updated>2022-03-22T21:13:37.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技術或編碼項目，提供的不僅僅是'實踐'？]]></title>
+        <id>https://news.ycombinator.com/item?id=30771453</id>
+        <link href="https://news.ycombinator.com/item?id=30771453"/>
+        <updated>2022-03-22T20:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Technical or coding projects that offer more than just 'practice?']]></summary>
+        <author>
+            <name>mattwilsonn888</name>
+            <uri>https://news.ycombinator.com/user?id=mattwilsonn888</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於幸福的極限]]></title>
+        <id>https://news.ycombinator.com/item?id=30771381</id>
+        <link href="https://news.ycombinator.com/item?id=30771381"/>
+        <updated>2022-03-22T20:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: On Happiness Limits]]></summary>
+        <author>
+            <name>dizzydiz</name>
+            <uri>https://news.ycombinator.com/user?id=dizzydiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有人真的對他們的日曆感到滿意？]]></title>
         <id>https://news.ycombinator.com/item?id=30771073</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>Arisaka1</name>
             <uri>https://news.ycombinator.com/user?id=Arisaka1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超級明星程序員通常也擅長CS研究嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30608109</id>
-        <link href="https://news.ycombinator.com/item?id=30608109"/>
-        <updated>2022-03-08T22:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are superstar programmers usually good at CS research also?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼今天Rails核心團隊的一群人辭職了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30607650</id>
-        <link href="https://news.ycombinator.com/item?id=30607650"/>
-        <updated>2022-03-08T21:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did a bunch of people from Rails core team resign today?]]></summary>
-        <author>
-            <name>bradgessler</name>
-            <uri>https://news.ycombinator.com/user?id=bradgessler</uri>
         </author>
     </entry>
 </feed>
