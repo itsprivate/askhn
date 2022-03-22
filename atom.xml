@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T19:37:35.730Z</updated>
+    <updated>2022-03-22T20:14:19.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌已将我的账户锁定]]></title>
+        <id>https://news.ycombinator.com/item?id=30770671</id>
+        <link href="https://news.ycombinator.com/item?id=30770671"/>
+        <updated>2022-03-22T19:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google has locked me out of the account]]></summary>
+        <author>
+            <name>nitn</name>
+            <uri>https://news.ycombinator.com/user?id=nitn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这就是 "问上医 "问题的柏拉图式交易吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30770640</id>
+        <link href="https://news.ycombinator.com/item?id=30770640"/>
+        <updated>2022-03-22T19:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this the platonic deal of an Ask HN question?]]></summary>
+        <author>
+            <name>songeater</name>
+            <uri>https://news.ycombinator.com/user?id=songeater</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在工作中组织一次有趣的黑客马拉松有什么技巧吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30770574</id>
+        <link href="https://news.ycombinator.com/item?id=30770574"/>
+        <updated>2022-03-22T19:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any tips on organizing a fun hackathon at work?]]></summary>
+        <author>
+            <name>tagolli</name>
+            <uri>https://news.ycombinator.com/user?id=tagolli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产生强密码的最佳方法是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30770344</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>dolni</name>
             <uri>https://news.ycombinator.com/user?id=dolni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD是否发布了具有统一内存的CPU+GPU？]]></title>
-        <id>https://news.ycombinator.com/item?id=30606888</id>
-        <link href="https://news.ycombinator.com/item?id=30606888"/>
-        <updated>2022-03-08T21:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is AMD releasing CPU+GPU with unified memory?]]></summary>
-        <author>
-            <name>panini-grammar</name>
-            <uri>https://news.ycombinator.com/user?id=panini-grammar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网如何能经受住俄罗斯大范围的DDoS攻击？]]></title>
-        <id>https://news.ycombinator.com/item?id=30606717</id>
-        <link href="https://news.ycombinator.com/item?id=30606717"/>
-        <updated>2022-03-08T20:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can the Internet weather a widespread Russian DDoS attack?]]></summary>
-        <author>
-            <name>empressplay</name>
-            <uri>https://news.ycombinator.com/user?id=empressplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN比平时慢吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30606429</id>
-        <link href="https://news.ycombinator.com/item?id=30606429"/>
-        <updated>2022-03-08T20:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is HN slower than usual?]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
         </author>
     </entry>
 </feed>
