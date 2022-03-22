@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 00:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帕累託（80-20）原則是否適用於軟件複雜性？]]></title>
+            <link>https://news.ycombinator.com/item?id=30761305</link>
+            <guid>https://news.ycombinator.com/item?id=30761305</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does the Pareto (80-20) Principle apply to software complexity?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果沒有JavaScript，今天的世界會是什麼樣子？]]></title>
             <link>https://news.ycombinator.com/item?id=30760847</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30595852</guid>
             <pubDate>Tue, 08 Mar 2022 02:41:35 GMT</pubDate>
             <description><![CDATA[Ask HN: How did some ShowHNs have both url and text?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我仍然喜歡設計工作，轉到TPM角色是個壞主意？]]></title>
-            <link>https://news.ycombinator.com/item?id=30595555</link>
-            <guid>https://news.ycombinator.com/item?id=30595555</guid>
-            <pubDate>Tue, 08 Mar 2022 01:45:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Bad idea to switch to TPM role if I still enjoy dev work?]]></description>
         </item>
     </channel>
 </rss>

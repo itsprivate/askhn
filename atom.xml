@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-21T23:12:50.963Z</updated>
+    <updated>2022-03-22T00:39:09.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帕累托（80-20）原则是否适用于软件复杂性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30761305</id>
+        <link href="https://news.ycombinator.com/item?id=30761305"/>
+        <updated>2022-03-22T00:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does the Pareto (80-20) Principle apply to software complexity?]]></summary>
+        <author>
+            <name>luddite99</name>
+            <uri>https://news.ycombinator.com/user?id=luddite99</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果没有JavaScript，今天的世界会是什么样子？]]></title>
         <id>https://news.ycombinator.com/item?id=30760847</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>ZYinMD</name>
             <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我仍然喜欢设计工作，转到TPM角色是个坏主意？]]></title>
-        <id>https://news.ycombinator.com/item?id=30595555</id>
-        <link href="https://news.ycombinator.com/item?id=30595555"/>
-        <updated>2022-03-08T01:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bad idea to switch to TPM role if I still enjoy dev work?]]></summary>
-        <author>
-            <name>71a54xd</name>
-            <uri>https://news.ycombinator.com/user?id=71a54xd</uri>
         </author>
     </entry>
 </feed>
