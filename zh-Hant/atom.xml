@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T21:13:37.035Z</updated>
+    <updated>2022-03-22T21:52:43.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓你想繼續閱讀README？]]></title>
+        <id>https://news.ycombinator.com/item?id=30771963</id>
+        <link href="https://news.ycombinator.com/item?id=30771963"/>
+        <updated>2022-03-22T21:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What makes you want to keep on reading README?]]></summary>
+        <author>
+            <name>smoochy</name>
+            <uri>https://news.ycombinator.com/user?id=smoochy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於何時需要全狀態網絡服務器的實際例子]]></title>
+        <id>https://news.ycombinator.com/item?id=30771929</id>
+        <link href="https://news.ycombinator.com/item?id=30771929"/>
+        <updated>2022-03-22T21:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Practical examples of when you would need statefull webservers]]></summary>
+        <author>
+            <name>getcrunk</name>
+            <uri>https://news.ycombinator.com/user?id=getcrunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技術或編碼項目，提供的不僅僅是'實踐'？]]></title>
         <id>https://news.ycombinator.com/item?id=30771453</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>hnthrowaway0315</name>
             <uri>https://news.ycombinator.com/user?id=hnthrowaway0315</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人可以不用他們的電腦來做除編碼以外的事情嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30608766</id>
-        <link href="https://news.ycombinator.com/item?id=30608766"/>
-        <updated>2022-03-08T23:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can anybody else not use their computer for much other than coding?]]></summary>
-        <author>
-            <name>user0x1d</name>
-            <uri>https://news.ycombinator.com/user?id=user0x1d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我剛剛得到我的第一份工作，我需要更快更好地學習]]></title>
-        <id>https://news.ycombinator.com/item?id=30608377</id>
-        <link href="https://news.ycombinator.com/item?id=30608377"/>
-        <updated>2022-03-08T22:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I just got my first job and I need to learn faster and better]]></summary>
-        <author>
-            <name>Arisaka1</name>
-            <uri>https://news.ycombinator.com/user?id=Arisaka1</uri>
         </author>
     </entry>
 </feed>
