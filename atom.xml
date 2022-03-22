@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T14:32:58.096Z</updated>
+    <updated>2022-03-22T15:38:30.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年开始学习Java的最佳资源]]></title>
+        <id>https://news.ycombinator.com/item?id=30767302</id>
+        <link href="https://news.ycombinator.com/item?id=30767302"/>
+        <updated>2022-03-22T15:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best resource for starting to learn Java in 2022]]></summary>
+        <author>
+            <name>iangregson</name>
+            <uri>https://news.ycombinator.com/user?id=iangregson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人们回到以前的雇主那里的情况有多普遍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30767111</id>
+        <link href="https://news.ycombinator.com/item?id=30767111"/>
+        <updated>2022-03-22T15:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How common is it for people to come back to a previous employer?]]></summary>
+        <author>
+            <name>jtc331</name>
+            <uri>https://news.ycombinator.com/user?id=jtc331</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何为技术面试做准备？]]></title>
         <id>https://news.ycombinator.com/item?id=30766363</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>t0bia_s</name>
             <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个公司被收购后会发生什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30600861</id>
-        <link href="https://news.ycombinator.com/item?id=30600861"/>
-        <updated>2022-03-08T15:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happens after a company gets acquired?]]></summary>
-        <author>
-            <name>28194608</name>
-            <uri>https://news.ycombinator.com/user?id=28194608</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[协作平台，帮助我和我的朋友编码]]></title>
-        <id>https://news.ycombinator.com/item?id=30600773</id>
-        <link href="https://news.ycombinator.com/item?id=30600773"/>
-        <updated>2022-03-08T15:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Collaborative platform to help me code with my friend]]></summary>
-        <author>
-            <name>Trystan02123</name>
-            <uri>https://news.ycombinator.com/user?id=Trystan02123</uri>
         </author>
     </entry>
 </feed>
