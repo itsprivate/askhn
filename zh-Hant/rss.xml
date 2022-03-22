@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Mar 2022 13:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN是否在改變某些帖子的提交日期？]]></title>
+            <link>https://news.ycombinator.com/item?id=30766226</link>
+            <guid>https://news.ycombinator.com/item?id=30766226</guid>
+            <pubDate>Tue, 22 Mar 2022 14:04:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is HN changing the submission dates of certain posts?]]></description>
+        </item>
         <item>
             <title><![CDATA[有沒有人籌集風險債務？]]></title>
             <link>https://news.ycombinator.com/item?id=30765835</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30600755</guid>
             <pubDate>Tue, 08 Mar 2022 15:14:40 GMT</pubDate>
             <description><![CDATA[Ask HN: What on-call benefits do you get in your company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼某些網站的圖片在我放大後會變小？]]></title>
-            <link>https://news.ycombinator.com/item?id=30600480</link>
-            <guid>https://news.ycombinator.com/item?id=30600480</guid>
-            <pubDate>Tue, 08 Mar 2022 14:49:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do certain websites' images get smaller when I zoom in?]]></description>
         </item>
     </channel>
 </rss>
