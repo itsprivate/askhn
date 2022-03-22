@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T23:33:06.279Z</updated>
+    <updated>2022-03-22T23:42:20.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何应对发现学校太容易的问题的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30773015</id>
+        <link href="https://news.ycombinator.com/item?id=30773015"/>
+        <updated>2022-03-22T23:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you respond to finding school too easy?]]></summary>
+        <author>
+            <name>rahimnathwani</name>
+            <uri>https://news.ycombinator.com/user?id=rahimnathwani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何管理开放源码软件项目的内部分叉？]]></title>
         <id>https://news.ycombinator.com/item?id=30772911</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>georgia_peach</name>
             <uri>https://news.ycombinator.com/user?id=georgia_peach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你不断往上失败时，该怎么办？]]></title>
-        <id>https://news.ycombinator.com/item?id=30611003</id>
-        <link href="https://news.ycombinator.com/item?id=30611003"/>
-        <updated>2022-03-09T04:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What to do when you keep failing upwards?]]></summary>
-        <author>
-            <name>rootsu</name>
-            <uri>https://news.ycombinator.com/user?id=rootsu</uri>
         </author>
     </entry>
 </feed>

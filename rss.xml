@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何应对发现学校太容易的问题的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30773015</link>
+            <guid>https://news.ycombinator.com/item?id=30773015</guid>
+            <pubDate>Tue, 22 Mar 2022 23:35:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: How did you respond to finding school too easy?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何管理开放源码软件项目的内部分叉？]]></title>
             <link>https://news.ycombinator.com/item?id=30772911</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30611018</guid>
             <pubDate>Wed, 09 Mar 2022 04:41:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Open Sourcing Sun Network Extensible Window System (NeWS)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当你不断往上失败时，该怎么办？]]></title>
-            <link>https://news.ycombinator.com/item?id=30611003</link>
-            <guid>https://news.ycombinator.com/item?id=30611003</guid>
-            <pubDate>Wed, 09 Mar 2022 04:39:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: What to do when you keep failing upwards?]]></description>
         </item>
     </channel>
 </rss>
