@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T17:23:45.746Z</updated>
+    <updated>2022-03-22T18:05:30.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的内部构建和部署管道中缺少什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30768952</id>
+        <link href="https://news.ycombinator.com/item?id=30768952"/>
+        <updated>2022-03-22T17:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's lacking in your internal build and deploy pipeline]]></summary>
+        <author>
+            <name>websap</name>
+            <uri>https://news.ycombinator.com/user?id=websap</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁能推荐一个比GitHub Actions更稳定的替代品？]]></title>
+        <id>https://news.ycombinator.com/item?id=30768927</id>
+        <link href="https://news.ycombinator.com/item?id=30768927"/>
+        <updated>2022-03-22T17:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can someone recommend a more stable alternative to GitHub Actions?]]></summary>
+        <author>
+            <name>ManWith2Plans</name>
+            <uri>https://news.ycombinator.com/user?id=ManWith2Plans</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业公司应该完全远程启动还是亲自启动？]]></title>
+        <id>https://news.ycombinator.com/item?id=30768753</id>
+        <link href="https://news.ycombinator.com/item?id=30768753"/>
+        <updated>2022-03-22T17:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should a startup start fully-remote or in-person?]]></summary>
+        <author>
+            <name>akrai</name>
+            <uri>https://news.ycombinator.com/user?id=akrai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25岁时被诊断出患有遗传性心脏病--我怎样才能产生影响？]]></title>
+        <id>https://news.ycombinator.com/item?id=30768701</id>
+        <link href="https://news.ycombinator.com/item?id=30768701"/>
+        <updated>2022-03-22T17:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Diagnosed with genetic heart disease at 25 – how do I make an impact?]]></summary>
+        <author>
+            <name>hcmthrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=hcmthrowaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何处理筹款的压力？]]></title>
         <id>https://news.ycombinator.com/item?id=30768307</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>gentleman11</name>
             <uri>https://news.ycombinator.com/user?id=gentleman11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登重复使用 "盟国 "和核灾难的可能性]]></title>
-        <id>https://news.ycombinator.com/item?id=30603270</id>
-        <link href="https://news.ycombinator.com/item?id=30603270"/>
-        <updated>2022-03-08T18:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Biden repeated use of “Allies” and probability of nuke disaster]]></summary>
-        <author>
-            <name>unpopularpeace</name>
-            <uri>https://news.ycombinator.com/user?id=unpopularpeace</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核冬天会对全球变暖产生长期的影响吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30602793</id>
-        <link href="https://news.ycombinator.com/item?id=30602793"/>
-        <updated>2022-03-08T17:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will a nuclear winter have a long term effect on global warming?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Slack / Spotify现在在稍旧的浏览器中停止工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30602564</id>
-        <link href="https://news.ycombinator.com/item?id=30602564"/>
-        <updated>2022-03-08T17:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why has Slack / Spotify now stopped working in slightly older browsers?]]></summary>
-        <author>
-            <name>imsky</name>
-            <uri>https://news.ycombinator.com/user?id=imsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[延迟返回办公室的政策？]]></title>
-        <id>https://news.ycombinator.com/item?id=30602253</id>
-        <link href="https://news.ycombinator.com/item?id=30602253"/>
-        <updated>2022-03-08T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Delay Return to Office Policies?]]></summary>
-        <author>
-            <name>jrs235</name>
-            <uri>https://news.ycombinator.com/user?id=jrs235</uri>
         </author>
     </entry>
 </feed>
