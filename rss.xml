@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在哪里部署一个基于Docker的小型网络应用？]]></title>
+            <link>https://news.ycombinator.com/item?id=30764400</link>
+            <guid>https://news.ycombinator.com/item?id=30764400</guid>
+            <pubDate>Tue, 22 Mar 2022 10:05:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to deploy a small web application based on Docker?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何从头开始学习反应？]]></title>
             <link>https://news.ycombinator.com/item?id=30763778</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30597498</guid>
             <pubDate>Tue, 08 Mar 2022 07:47:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Did any one or any thing predict the Russian invasion of Ukraine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么玛丽-米克尔自2019年以来没有发表过互联网趋势报告]]></title>
-            <link>https://news.ycombinator.com/item?id=30597270</link>
-            <guid>https://news.ycombinator.com/item?id=30597270</guid>
-            <pubDate>Tue, 08 Mar 2022 07:16:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why hasn't Mary Meeker published an Internet Trends Report since 2019]]></description>
         </item>
     </channel>
 </rss>
