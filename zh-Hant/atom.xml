@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T21:52:43.975Z</updated>
+    <updated>2022-03-22T22:32:41.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自加勒比地區的用戶。你在加勒比海的創業來源是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30772262</id>
+        <link href="https://news.ycombinator.com/item?id=30772262"/>
+        <updated>2022-03-22T22:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Users from the Caribbean. What are your Caribbean startup sources.?]]></summary>
+        <author>
+            <name>signalremote</name>
+            <uri>https://news.ycombinator.com/user?id=signalremote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼讓你想繼續閱讀README？]]></title>
         <id>https://news.ycombinator.com/item?id=30771963</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>b20000</name>
             <uri>https://news.ycombinator.com/user?id=b20000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何輕鬆搜索主要報紙？]]></title>
-        <id>https://news.ycombinator.com/item?id=30610038</id>
-        <link href="https://news.ycombinator.com/item?id=30610038"/>
-        <updated>2022-03-09T01:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to search major newspapers easily?]]></summary>
-        <author>
-            <name>hnthrowaway0315</name>
-            <uri>https://news.ycombinator.com/user?id=hnthrowaway0315</uri>
         </author>
     </entry>
 </feed>
