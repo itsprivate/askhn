@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T18:40:21.202Z</updated>
+    <updated>2022-03-22T19:12:06.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近學到的一些令人興奮和迷人的東西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30770076</id>
+        <link href="https://news.ycombinator.com/item?id=30770076"/>
+        <updated>2022-03-22T19:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Something you learned recently that is exciting and fascinating?]]></summary>
+        <author>
+            <name>boringg</name>
+            <uri>https://news.ycombinator.com/user?id=boringg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該買什麼筆記本電腦用於開發？]]></title>
+        <id>https://news.ycombinator.com/item?id=30770010</id>
+        <link href="https://news.ycombinator.com/item?id=30770010"/>
+        <updated>2022-03-22T18:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What laptop should I get for development?]]></summary>
+        <author>
+            <name>petargyurov</name>
+            <uri>https://news.ycombinator.com/user?id=petargyurov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有憤世嫉俗的答案，為什麼公司會如此大力推動他們的應用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30769972</id>
+        <link href="https://news.ycombinator.com/item?id=30769972"/>
+        <updated>2022-03-22T18:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: No cynical answers, why do companies push their apps so hard?]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果的商業模式是如何運作的？]]></title>
         <id>https://news.ycombinator.com/item?id=30769657</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>andrewflnr</name>
             <uri>https://news.ycombinator.com/user?id=andrewflnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namecheap拒絕制止一個新奇的網絡釣魚騙局。請幫助]]></title>
-        <id>https://news.ycombinator.com/item?id=30603615</id>
-        <link href="https://news.ycombinator.com/item?id=30603615"/>
-        <updated>2022-03-08T18:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Namecheap is refusing to halt a novel phishing scam. Please Help]]></summary>
-        <author>
-            <name>throwawaykwt01</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaykwt01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[購買優質性玩具的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30604960</id>
-        <link href="https://news.ycombinator.com/item?id=30604960"/>
-        <updated>2022-03-08T19:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice buying quality sex toys]]></summary>
-        <author>
-            <name>randomcattivo</name>
-            <uri>https://news.ycombinator.com/user?id=randomcattivo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找一個備份的電子郵件中繼站]]></title>
-        <id>https://news.ycombinator.com/item?id=30604215</id>
-        <link href="https://news.ycombinator.com/item?id=30604215"/>
-        <updated>2022-03-08T18:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a Backup Email Relay]]></summary>
-        <author>
-            <name>litoE</name>
-            <uri>https://news.ycombinator.com/user?id=litoE</uri>
         </author>
     </entry>
 </feed>
