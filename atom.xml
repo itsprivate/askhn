@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T10:14:43.594Z</updated>
+    <updated>2022-03-22T10:53:10.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人需要专注于UI/UX的VueJS/Laravel开发吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30764599</id>
+        <link href="https://news.ycombinator.com/item?id=30764599"/>
+        <updated>2022-03-22T10:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone needs VueJS/Laravel dev focused on UI/UX?]]></summary>
+        <author>
+            <name>Akcium</name>
+            <uri>https://news.ycombinator.com/user?id=Akcium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何用应用程序组织你的私人工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30764573</id>
+        <link href="https://news.ycombinator.com/item?id=30764573"/>
+        <updated>2022-03-22T10:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you organize your private work with apps?]]></summary>
+        <author>
+            <name>siva7</name>
+            <uri>https://news.ycombinator.com/user?id=siva7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在哪里部署一个基于Docker的小型网络应用？]]></title>
         <id>https://news.ycombinator.com/item?id=30764400</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>dandanua</name>
             <uri>https://news.ycombinator.com/user?id=dandanua</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人设法从dockerhub删除信用卡信息？]]></title>
-        <id>https://news.ycombinator.com/item?id=30597695</id>
-        <link href="https://news.ycombinator.com/item?id=30597695"/>
-        <updated>2022-03-08T08:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone managed to get credit card details removed from dockerhub?]]></summary>
-        <author>
-            <name>giza182</name>
-            <uri>https://news.ycombinator.com/user?id=giza182</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何人或事物预测到俄罗斯对乌克兰的入侵？]]></title>
-        <id>https://news.ycombinator.com/item?id=30597498</id>
-        <link href="https://news.ycombinator.com/item?id=30597498"/>
-        <updated>2022-03-08T07:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did any one or any thing predict the Russian invasion of Ukraine?]]></summary>
-        <author>
-            <name>readonthegoapp</name>
-            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
         </author>
     </entry>
 </feed>
