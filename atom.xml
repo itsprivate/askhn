@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T04:13:45.527Z</updated>
+    <updated>2022-03-22T07:52:05.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta公司关于漏洞的最新情况如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30763560</id>
+        <link href="https://news.ycombinator.com/item?id=30763560"/>
+        <updated>2022-03-22T07:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where is the update from Okta on the breach?]]></summary>
+        <author>
+            <name>parimm</name>
+            <uri>https://news.ycombinator.com/user?id=parimm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司希望将公司网络与互联网隔离开来]]></title>
         <id>https://news.ycombinator.com/item?id=30762605</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在怎么办？(乌克兰战争)]]></title>
-        <id>https://news.ycombinator.com/item?id=30596479</id>
-        <link href="https://news.ycombinator.com/item?id=30596479"/>
-        <updated>2022-03-08T04:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Now What? (The Ukrainian War)]]></summary>
-        <author>
-            <name>lngnmn2</name>
-            <uri>https://news.ycombinator.com/user?id=lngnmn2</uri>
         </author>
     </entry>
 </feed>
