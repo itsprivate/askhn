@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T13:24:02.335Z</updated>
+    <updated>2022-03-22T13:45:21.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人籌集風險債務？]]></title>
+        <id>https://news.ycombinator.com/item?id=30765835</id>
+        <link href="https://news.ycombinator.com/item?id=30765835"/>
+        <updated>2022-03-22T13:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone raised venture debt?]]></summary>
+        <author>
+            <name>lantioramis</name>
+            <uri>https://news.ycombinator.com/user?id=lantioramis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一名研究人員，我必須維護代碼。我應該從哪裡開始呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30765715</id>
+        <link href="https://news.ycombinator.com/item?id=30765715"/>
+        <updated>2022-03-22T13:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm a researcher and I have to mantain code. Where do I start?]]></summary>
+        <author>
+            <name>marcomanzoni</name>
+            <uri>https://news.ycombinator.com/user?id=marcomanzoni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對開源項目有貢獻嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30765596</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>cphoover</name>
             <uri>https://news.ycombinator.com/user?id=cphoover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你和你的團隊使用哪些遠程工作工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30599944</id>
-        <link href="https://news.ycombinator.com/item?id=30599944"/>
-        <updated>2022-03-08T14:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What remote work tools do you use with your team?]]></summary>
-        <author>
-            <name>Trystans</name>
-            <uri>https://news.ycombinator.com/user?id=Trystans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既然俄羅斯需要手機信號塔，為什麼烏克蘭不摧毀它們？]]></title>
-        <id>https://news.ycombinator.com/item?id=30599728</id>
-        <link href="https://news.ycombinator.com/item?id=30599728"/>
-        <updated>2022-03-08T13:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Since Russia needs cellular towers, why doesn’t Ukraine destroy them?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
