@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T16:30:34.893Z</updated>
+    <updated>2022-03-22T17:23:45.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何處理籌款的壓力？]]></title>
+        <id>https://news.ycombinator.com/item?id=30768307</id>
+        <link href="https://news.ycombinator.com/item?id=30768307"/>
+        <updated>2022-03-22T16:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I deal with the stress of fundraising?]]></summary>
+        <author>
+            <name>noob-fundraiser</name>
+            <uri>https://news.ycombinator.com/user?id=noob-fundraiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為B2B信息安全產品提供贊助/廣告？]]></title>
         <id>https://news.ycombinator.com/item?id=30767888</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jrs235</name>
             <uri>https://news.ycombinator.com/user?id=jrs235</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衛星數據分析戰爭對烏克蘭氣候和人類的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30602223</id>
-        <link href="https://news.ycombinator.com/item?id=30602223"/>
-        <updated>2022-03-08T16:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Satellite data analysis for war impact on climate and humans in Ukraine]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
