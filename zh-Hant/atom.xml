@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T12:18:31.006Z</updated>
+    <updated>2022-03-22T12:57:04.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[設計師應該如何製作模擬圖？]]></title>
+        <id>https://news.ycombinator.com/item?id=30765288</id>
+        <link href="https://news.ycombinator.com/item?id=30765288"/>
+        <updated>2022-03-22T12:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Should Designers Make Mockups?]]></summary>
+        <author>
+            <name>thevinter</name>
+            <uri>https://news.ycombinator.com/user?id=thevinter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[限制性契約 - 什麼是合理和/或典型的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30765192</id>
+        <link href="https://news.ycombinator.com/item?id=30765192"/>
+        <updated>2022-03-22T12:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Restrictive Covenants – what is reasonable and/or typical?]]></summary>
+        <author>
+            <name>throwaway12555</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway12555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對產品經理最討厭的事情是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30764920</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>g0ran</name>
             <uri>https://news.ycombinator.com/user?id=g0ran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在我已經能夠安裝Linux了，該如何學習呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30598294</id>
-        <link href="https://news.ycombinator.com/item?id=30598294"/>
-        <updated>2022-03-08T10:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I learn Linux now that I was able to install it?]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼世界沒有吸取二戰的教訓？]]></title>
-        <id>https://news.ycombinator.com/item?id=30598221</id>
-        <link href="https://news.ycombinator.com/item?id=30598221"/>
-        <updated>2022-03-08T09:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why didn't the world learn the lessons of WWII?]]></summary>
-        <author>
-            <name>dandanua</name>
-            <uri>https://news.ycombinator.com/user?id=dandanua</uri>
         </author>
     </entry>
 </feed>
