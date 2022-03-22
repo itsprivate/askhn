@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T07:52:05.326Z</updated>
+    <updated>2022-03-22T08:36:47.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何从头开始学习反应？]]></title>
+        <id>https://news.ycombinator.com/item?id=30763778</id>
+        <link href="https://news.ycombinator.com/item?id=30763778"/>
+        <updated>2022-03-22T08:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to go about learning react from ground up?]]></summary>
+        <author>
+            <name>Utkarsh_Mood</name>
+            <uri>https://news.ycombinator.com/user?id=Utkarsh_Mood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta公司关于漏洞的最新情况如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30763560</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>nipponese</name>
             <uri>https://news.ycombinator.com/user?id=nipponese</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北约扩张是一个大错误吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30596842</id>
-        <link href="https://news.ycombinator.com/item?id=30596842"/>
-        <updated>2022-03-08T05:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Was NATO expansion a big mistake?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
