@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 12:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你对产品经理最讨厌的事情是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30764920</link>
+            <guid>https://news.ycombinator.com/item?id=30764920</guid>
+            <pubDate>Tue, 22 Mar 2022 11:50:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the top things you hate about Product Managers?]]></description>
+        </item>
         <item>
             <title><![CDATA[有人需要专注于UI/UX的VueJS/Laravel开发吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30764599</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30598221</guid>
             <pubDate>Tue, 08 Mar 2022 09:48:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Why didn't the world learn the lessons of WWII?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有吸取二战的教训？]]></title>
-            <link>https://news.ycombinator.com/item?id=30598114</link>
-            <guid>https://news.ycombinator.com/item?id=30598114</guid>
-            <pubDate>Tue, 08 Mar 2022 09:26:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why the lessons of WWII were not learned?]]></description>
         </item>
     </channel>
 </rss>
