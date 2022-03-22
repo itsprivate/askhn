@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T14:14:53.222Z</updated>
+    <updated>2022-03-22T14:32:58.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何為技術面試做準備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30766363</id>
+        <link href="https://news.ycombinator.com/item?id=30766363"/>
+        <updated>2022-03-22T14:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you prepare for technical interviews?]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN是否在改變某些帖子的提交日期？]]></title>
         <id>https://news.ycombinator.com/item?id=30766226</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>Trystan02123</name>
             <uri>https://news.ycombinator.com/user?id=Trystan02123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你們公司有什麼隨叫隨到的福利？]]></title>
-        <id>https://news.ycombinator.com/item?id=30600755</id>
-        <link href="https://news.ycombinator.com/item?id=30600755"/>
-        <updated>2022-03-08T15:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What on-call benefits do you get in your company?]]></summary>
-        <author>
-            <name>sdfgdfghj</name>
-            <uri>https://news.ycombinator.com/user?id=sdfgdfghj</uri>
         </author>
     </entry>
 </feed>
