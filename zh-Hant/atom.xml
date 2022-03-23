@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T20:35:22.265Z</updated>
+    <updated>2022-03-23T20:53:51.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[禁用GitHub提及/重置]]></title>
+        <id>https://news.ycombinator.com/item?id=30783032</id>
+        <link href="https://news.ycombinator.com/item?id=30783032"/>
+        <updated>2022-03-23T20:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Disable GitHub Mention/Resets]]></summary>
+        <author>
+            <name>srvmshr</name>
+            <uri>https://news.ycombinator.com/user?id=srvmshr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你希望你在30多歲時做了什麼/知道什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30782994</id>
+        <link href="https://news.ycombinator.com/item?id=30782994"/>
+        <updated>2022-03-23T20:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you wish you had done/known in your 30s?]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究經驗是否影響你作為軟件工程師的表現？]]></title>
         <id>https://news.ycombinator.com/item?id=30782715</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>gieoon</name>
             <uri>https://news.ycombinator.com/user?id=gieoon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who is hiring? In Person version]]></title>
-        <id>https://news.ycombinator.com/item?id=30620740</id>
-        <link href="https://news.ycombinator.com/item?id=30620740"/>
-        <updated>2022-03-09T22:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Who is hiring? In Person version]]></summary>
-        <author>
-            <name>29_29</name>
-            <uri>https://news.ycombinator.com/user?id=29_29</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where are the experienced Computer Science graduates working?]]></title>
-        <id>https://news.ycombinator.com/item?id=30620673</id>
-        <link href="https://news.ycombinator.com/item?id=30620673"/>
-        <updated>2022-03-09T22:12:56.000Z</updated>
-        <summary type="html"><![CDATA[Where are the experienced Computer Science graduates working?]]></summary>
-        <author>
-            <name>ahlschwede</name>
-            <uri>https://news.ycombinator.com/user?id=ahlschwede</uri>
         </author>
     </entry>
 </feed>
