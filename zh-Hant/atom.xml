@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T13:45:35.354Z</updated>
+    <updated>2022-03-23T14:31:56.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改變你生活的音樂/歌曲？]]></title>
+        <id>https://news.ycombinator.com/item?id=30778782</id>
+        <link href="https://news.ycombinator.com/item?id=30778782"/>
+        <updated>2022-03-23T14:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Music/Song that changed your life?]]></summary>
+        <author>
+            <name>oikawa_tooru_</name>
+            <uri>https://news.ycombinator.com/user?id=oikawa_tooru_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼HN上的人即使對最小的編輯也不說 "EDIT："？]]></title>
         <id>https://news.ycombinator.com/item?id=30778160</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>i67vw3</name>
             <uri>https://news.ycombinator.com/user?id=i67vw3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has anyone made a fulfilling career out of tech/engineering support?]]></title>
-        <id>https://news.ycombinator.com/item?id=30615777</id>
-        <link href="https://news.ycombinator.com/item?id=30615777"/>
-        <updated>2022-03-09T15:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Has anyone made a fulfilling career out of tech/engineering support?]]></summary>
-        <author>
-            <name>sudosteph</name>
-            <uri>https://news.ycombinator.com/user?id=sudosteph</uri>
         </author>
     </entry>
 </feed>
