@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Soylent Buzz的情况如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=30776492</link>
+            <guid>https://news.ycombinator.com/item?id=30776492</guid>
+            <pubDate>Wed, 23 Mar 2022 09:05:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to the Soylent Buzz?]]></description>
+        </item>
         <item>
             <title><![CDATA[最佳的Okta替代方案？]]></title>
             <link>https://news.ycombinator.com/item?id=30775612</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30614223</guid>
             <pubDate>Wed, 09 Mar 2022 13:34:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Product management tips and book recommendations for startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[数据结构和算法方面的书籍推荐]]></title>
-            <link>https://news.ycombinator.com/item?id=30614173</link>
-            <guid>https://news.ycombinator.com/item?id=30614173</guid>
-            <pubDate>Wed, 09 Mar 2022 13:28:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Book recommendations for data structures and algorithms]]></description>
         </item>
     </channel>
 </rss>

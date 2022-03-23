@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T06:39:09.530Z</updated>
+    <updated>2022-03-23T09:13:32.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Soylent Buzz的情況如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30776492</id>
+        <link href="https://news.ycombinator.com/item?id=30776492"/>
+        <updated>2022-03-23T09:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to the Soylent Buzz?]]></summary>
+        <author>
+            <name>shp0ngle</name>
+            <uri>https://news.ycombinator.com/user?id=shp0ngle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳的Okta替代方案？]]></title>
         <id>https://news.ycombinator.com/item?id=30775612</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jekude</name>
             <uri>https://news.ycombinator.com/user?id=jekude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據結構和算法方面的書籍推薦]]></title>
-        <id>https://news.ycombinator.com/item?id=30614173</id>
-        <link href="https://news.ycombinator.com/item?id=30614173"/>
-        <updated>2022-03-09T13:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Book recommendations for data structures and algorithms]]></summary>
-        <author>
-            <name>kovac</name>
-            <uri>https://news.ycombinator.com/user?id=kovac</uri>
         </author>
     </entry>
 </feed>
