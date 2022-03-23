@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-22T23:42:20.333Z</updated>
+    <updated>2022-03-23T00:45:33.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于静态HTML，你的模板是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30773444</id>
+        <link href="https://news.ycombinator.com/item?id=30773444"/>
+        <updated>2022-03-23T00:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: For static HTML, what is your go to template?]]></summary>
+        <author>
+            <name>triyambakam</name>
+            <uri>https://news.ycombinator.com/user?id=triyambakam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何处理谈判的]]></title>
+        <id>https://news.ycombinator.com/item?id=30773362</id>
+        <link href="https://news.ycombinator.com/item?id=30773362"/>
+        <updated>2022-03-23T00:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you handle negotiation]]></summary>
+        <author>
+            <name>totaldude87</name>
+            <uri>https://news.ycombinator.com/user?id=totaldude87</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有些电影的原声带如此强大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30773294</id>
+        <link href="https://news.ycombinator.com/item?id=30773294"/>
+        <updated>2022-03-23T00:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are some soundtracks of movies so powerful?]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何应对发现学校太容易的问题的？]]></title>
         <id>https://news.ycombinator.com/item?id=30773015</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>tal_berzniz</name>
             <uri>https://news.ycombinator.com/user?id=tal_berzniz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何有延迟的测试API服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30611587</id>
-        <link href="https://news.ycombinator.com/item?id=30611587"/>
-        <updated>2022-03-09T06:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any test API service with delays?]]></summary>
-        <author>
-            <name>m0xai</name>
-            <uri>https://news.ycombinator.com/user?id=m0xai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows是否有一个光明的未来？]]></title>
-        <id>https://news.ycombinator.com/item?id=30611128</id>
-        <link href="https://news.ycombinator.com/item?id=30611128"/>
-        <updated>2022-03-09T05:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Windows have a bright future?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放采购Sun网络可扩展窗口系统(NeWS)]]></title>
-        <id>https://news.ycombinator.com/item?id=30611018</id>
-        <link href="https://news.ycombinator.com/item?id=30611018"/>
-        <updated>2022-03-09T04:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Open Sourcing Sun Network Extensible Window System (NeWS)]]></summary>
-        <author>
-            <name>georgia_peach</name>
-            <uri>https://news.ycombinator.com/user?id=georgia_peach</uri>
         </author>
     </entry>
 </feed>
