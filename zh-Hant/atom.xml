@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T20:53:51.149Z</updated>
+    <updated>2022-03-23T21:12:45.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習算法應用的最佳資源]]></title>
+        <id>https://news.ycombinator.com/item?id=30783289</id>
+        <link href="https://news.ycombinator.com/item?id=30783289"/>
+        <updated>2022-03-23T20:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best resource to learn applications of algorithms]]></summary>
+        <author>
+            <name>chedine</name>
+            <uri>https://news.ycombinator.com/user?id=chedine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[還有人突然變成了 "預備者 "嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30783241</id>
+        <link href="https://news.ycombinator.com/item?id=30783241"/>
+        <updated>2022-03-23T20:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else suddenly become a 'prepper'?]]></summary>
+        <author>
+            <name>throwaway6532</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway6532</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[禁用GitHub提及/重置]]></title>
         <id>https://news.ycombinator.com/item?id=30783032</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>throwaway888abc</name>
             <uri>https://news.ycombinator.com/user?id=throwaway888abc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategies for not showing pricing in the early stage]]></title>
-        <id>https://news.ycombinator.com/item?id=30621825</id>
-        <link href="https://news.ycombinator.com/item?id=30621825"/>
-        <updated>2022-03-10T00:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Strategies for not showing pricing in the early stage]]></summary>
-        <author>
-            <name>custominstall</name>
-            <uri>https://news.ycombinator.com/user?id=custominstall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can mobile app developers take credit for their work?]]></title>
-        <id>https://news.ycombinator.com/item?id=30621108</id>
-        <link href="https://news.ycombinator.com/item?id=30621108"/>
-        <updated>2022-03-09T22:59:02.000Z</updated>
-        <summary type="html"><![CDATA[How can mobile app developers take credit for their work?]]></summary>
-        <author>
-            <name>gieoon</name>
-            <uri>https://news.ycombinator.com/user?id=gieoon</uri>
         </author>
     </entry>
 </feed>
