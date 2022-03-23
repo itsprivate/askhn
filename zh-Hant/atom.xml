@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T11:28:34.919Z</updated>
+    <updated>2022-03-23T12:56:53.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[團隊如何彌補技能差距？]]></title>
+        <id>https://news.ycombinator.com/item?id=30777889</id>
+        <link href="https://news.ycombinator.com/item?id=30777889"/>
+        <updated>2022-03-23T12:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can teams bridge skill gaps?]]></summary>
+        <author>
+            <name>thex10</name>
+            <uri>https://news.ycombinator.com/user?id=thex10</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要租房和住在地下室]]></title>
+        <id>https://news.ycombinator.com/item?id=30777795</id>
+        <link href="https://news.ycombinator.com/item?id=30777795"/>
+        <updated>2022-03-23T12:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do not rent and live in basements]]></summary>
+        <author>
+            <name>fthb</name>
+            <uri>https://news.ycombinator.com/user?id=fthb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼為現有的開源項目做貢獻這麼難？]]></title>
         <id>https://news.ycombinator.com/item?id=30777224</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>rishav_sharan</name>
             <uri>https://news.ycombinator.com/user?id=rishav_sharan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像Rust這樣的項目需要多少資源才能正常發展？]]></title>
-        <id>https://news.ycombinator.com/item?id=30615147</id>
-        <link href="https://news.ycombinator.com/item?id=30615147"/>
-        <updated>2022-03-09T15:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much resource does project like Rust need to be properly developed?]]></summary>
-        <author>
-            <name>SShabanich</name>
-            <uri>https://news.ycombinator.com/user?id=SShabanich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contractors, indie devs, where do you hang out to talk shop?]]></title>
-        <id>https://news.ycombinator.com/item?id=30614816</id>
-        <link href="https://news.ycombinator.com/item?id=30614816"/>
-        <updated>2022-03-09T14:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Contractors, indie devs, where do you hang out to talk shop?]]></summary>
-        <author>
-            <name>whalesalad</name>
-            <uri>https://news.ycombinator.com/user?id=whalesalad</uri>
         </author>
     </entry>
 </feed>
