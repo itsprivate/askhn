@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T21:27:18.004Z</updated>
+    <updated>2022-03-23T22:13:42.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找在達卡的實習機會]]></title>
+        <id>https://news.ycombinator.com/item?id=30784009</id>
+        <link href="https://news.ycombinator.com/item?id=30784009"/>
+        <updated>2022-03-23T21:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for Internship in Dhaka]]></summary>
+        <author>
+            <name>minroot</name>
+            <uri>https://news.ycombinator.com/user?id=minroot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我有能力搬到美國的任何地方，我應該去哪裡？]]></title>
         <id>https://news.ycombinator.com/item?id=30783406</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>MathCodeLove</name>
             <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有好的USB-C集線器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30622824</id>
-        <link href="https://news.ycombinator.com/item?id=30622824"/>
-        <updated>2022-03-10T03:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there no good USB-C hubs?]]></summary>
-        <author>
-            <name>dgrin91</name>
-            <uri>https://news.ycombinator.com/user?id=dgrin91</uri>
         </author>
     </entry>
 </feed>
