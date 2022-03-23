@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼HN上的人即使對最小的編輯也不說 "EDIT："？]]></title>
+            <link>https://news.ycombinator.com/item?id=30778160</link>
+            <guid>https://news.ycombinator.com/item?id=30778160</guid>
+            <pubDate>Wed, 23 Mar 2022 13:20:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why people on HN disclaim “EDIT: ” even for the smallest edits?]]></description>
+        </item>
         <item>
             <title><![CDATA[團隊如何彌補技能差距？]]></title>
             <link>https://news.ycombinator.com/item?id=30777889</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30615777</guid>
             <pubDate>Wed, 09 Mar 2022 15:51:21 GMT</pubDate>
             <description><![CDATA[Has anyone made a fulfilling career out of tech/engineering support?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[What is the auth solution I can use if I want SIWA and GSI in my app?]]></title>
-            <link>https://news.ycombinator.com/item?id=30615642</link>
-            <guid>https://news.ycombinator.com/item?id=30615642</guid>
-            <pubDate>Wed, 09 Mar 2022 15:39:59 GMT</pubDate>
-            <description><![CDATA[What is the auth solution I can use if I want SIWA and GSI in my app?]]></description>
         </item>
     </channel>
 </rss>

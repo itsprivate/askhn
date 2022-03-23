@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T12:56:53.194Z</updated>
+    <updated>2022-03-23T13:45:35.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN上的人即使对最小的编辑也不说 "EDIT："？]]></title>
+        <id>https://news.ycombinator.com/item?id=30778160</id>
+        <link href="https://news.ycombinator.com/item?id=30778160"/>
+        <updated>2022-03-23T13:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why people on HN disclaim “EDIT: ” even for the smallest edits?]]></summary>
+        <author>
+            <name>rmbyrro</name>
+            <uri>https://news.ycombinator.com/user?id=rmbyrro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[团队如何弥补技能差距？]]></title>
         <id>https://news.ycombinator.com/item?id=30777889</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>sudosteph</name>
             <uri>https://news.ycombinator.com/user?id=sudosteph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the auth solution I can use if I want SIWA and GSI in my app?]]></title>
-        <id>https://news.ycombinator.com/item?id=30615642</id>
-        <link href="https://news.ycombinator.com/item?id=30615642"/>
-        <updated>2022-03-09T15:39:59.000Z</updated>
-        <summary type="html"><![CDATA[What is the auth solution I can use if I want SIWA and GSI in my app?]]></summary>
-        <author>
-            <name>rishav_sharan</name>
-            <uri>https://news.ycombinator.com/user?id=rishav_sharan</uri>
         </author>
     </entry>
 </feed>
