@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 04:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你知道嗎，你的大腦比你的眼睛讀得更快？]]></title>
+            <link>https://news.ycombinator.com/item?id=30775034</link>
+            <guid>https://news.ycombinator.com/item?id=30775034</guid>
+            <pubDate>Wed, 23 Mar 2022 04:42:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did you know that your brain reads faster than your eye?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你最常用的網絡瀏覽器是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30775026</link>
+            <guid>https://news.ycombinator.com/item?id=30775026</guid>
+            <pubDate>Wed, 23 Mar 2022 04:41:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your most used web browser]]></description>
+        </item>
         <item>
             <title><![CDATA[如何解釋ML方法並非100%完美？]]></title>
             <link>https://news.ycombinator.com/item?id=30774941</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30613595</guid>
             <pubDate>Wed, 09 Mar 2022 12:11:39 GMT</pubDate>
             <description><![CDATA[Ask HN: What problem do you wish someone would solve?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當圖像的一部分可能被遮擋時，如何識別圖像？]]></title>
-            <link>https://news.ycombinator.com/item?id=30613315</link>
-            <guid>https://news.ycombinator.com/item?id=30613315</guid>
-            <pubDate>Wed, 09 Mar 2022 11:19:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to recognise image when parts of it may be occluded?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[遇到Slack和CrowdStrike的問題，AWS是否受到影響？]]></title>
-            <link>https://news.ycombinator.com/item?id=30612978</link>
-            <guid>https://news.ycombinator.com/item?id=30612978</guid>
-            <pubDate>Wed, 09 Mar 2022 10:30:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Experiencing issues with Slack and CrowdStrike, is AWS affected?]]></description>
         </item>
     </channel>
 </rss>
