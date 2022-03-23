@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T18:16:50.806Z</updated>
+    <updated>2022-03-23T18:56:40.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于普通商业 "加密电子邮件 "系统的信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30781838</id>
+        <link href="https://news.ycombinator.com/item?id=30781838"/>
+        <updated>2022-03-23T18:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Information on common commercial “encrypted email” systems?]]></summary>
+        <author>
+            <name>heleninboodler</name>
+            <uri>https://news.ycombinator.com/user?id=heleninboodler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroku停机了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30781739</id>
+        <link href="https://news.ycombinator.com/item?id=30781739"/>
+        <updated>2022-03-23T18:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Heroku Down?]]></summary>
+        <author>
+            <name>aarongray</name>
+            <uri>https://news.ycombinator.com/user?id=aarongray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在招聘信息中想要哪些细节？]]></title>
         <id>https://news.ycombinator.com/item?id=30781397</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where do you go for the best developer-related news/content?]]></title>
-        <id>https://news.ycombinator.com/item?id=30619780</id>
-        <link href="https://news.ycombinator.com/item?id=30619780"/>
-        <updated>2022-03-09T20:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Where do you go for the best developer-related news/content?]]></summary>
-        <author>
-            <name>JSONderulo</name>
-            <uri>https://news.ycombinator.com/user?id=JSONderulo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人在浏览TRUTH SOCIAL时遇到了问题吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30619423</id>
-        <link href="https://news.ycombinator.com/item?id=30619423"/>
-        <updated>2022-03-09T20:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone else had a problem navigating TRUTH SOCIAL?]]></summary>
-        <author>
-            <name>Txoko</name>
-            <uri>https://news.ycombinator.com/user?id=Txoko</uri>
         </author>
     </entry>
 </feed>
