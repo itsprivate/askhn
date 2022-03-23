@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T03:44:44.704Z</updated>
+    <updated>2022-03-23T04:40:39.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何解釋ML方法並非100%完美？]]></title>
+        <id>https://news.ycombinator.com/item?id=30774941</id>
+        <link href="https://news.ycombinator.com/item?id=30774941"/>
+        <updated>2022-03-23T04:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to explain that ML approach is not 100% perfect?]]></summary>
+        <author>
+            <name>masterchief1s1k</name>
+            <uri>https://news.ycombinator.com/user?id=masterchief1s1k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您的想法是否得到了FTX未來基金的資助？]]></title>
         <id>https://news.ycombinator.com/item?id=30774644</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jordigg</name>
             <uri>https://news.ycombinator.com/user?id=jordigg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的項目維護者--哪些項目處於危險之中？]]></title>
-        <id>https://news.ycombinator.com/item?id=30612963</id>
-        <link href="https://news.ycombinator.com/item?id=30612963"/>
-        <updated>2022-03-09T10:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Project maintainers in Ukraine – which projects are in danger?]]></summary>
-        <author>
-            <name>oger</name>
-            <uri>https://news.ycombinator.com/user?id=oger</uri>
         </author>
     </entry>
 </feed>
