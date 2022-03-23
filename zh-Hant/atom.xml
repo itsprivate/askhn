@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T17:57:56.122Z</updated>
+    <updated>2022-03-23T18:16:50.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在招聘信息中想要哪些細節？]]></title>
+        <id>https://news.ycombinator.com/item?id=30781397</id>
+        <link href="https://news.ycombinator.com/item?id=30781397"/>
+        <updated>2022-03-23T18:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What details do you want in job postings?]]></summary>
+        <author>
+            <name>rileyt</name>
+            <uri>https://news.ycombinator.com/user?id=rileyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具有漂亮界面的對象存儲？]]></title>
+        <id>https://news.ycombinator.com/item?id=30781237</id>
+        <link href="https://news.ycombinator.com/item?id=30781237"/>
+        <updated>2022-03-23T17:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Object Storage with a Nice Interface?]]></summary>
+        <author>
+            <name>reisr3</name>
+            <uri>https://news.ycombinator.com/user?id=reisr3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何說服開發人員/公司使用TypeScript？]]></title>
         <id>https://news.ycombinator.com/item?id=30780673</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>Txoko</name>
             <uri>https://news.ycombinator.com/user?id=Txoko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there any way to rank stories on HN from sites based on votes?]]></title>
-        <id>https://news.ycombinator.com/item?id=30619001</id>
-        <link href="https://news.ycombinator.com/item?id=30619001"/>
-        <updated>2022-03-09T19:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Is there any way to rank stories on HN from sites based on votes?]]></summary>
-        <author>
-            <name>rg111</name>
-            <uri>https://news.ycombinator.com/user?id=rg111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前處理1099收入的最佳方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30618934</id>
-        <link href="https://news.ycombinator.com/item?id=30618934"/>
-        <updated>2022-03-09T19:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best current way to handle 1099 income?]]></summary>
-        <author>
-            <name>wpietri</name>
-            <uri>https://news.ycombinator.com/user?id=wpietri</uri>
         </author>
     </entry>
 </feed>

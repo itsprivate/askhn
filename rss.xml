@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 18:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在招聘信息中想要哪些细节？]]></title>
+            <link>https://news.ycombinator.com/item?id=30781397</link>
+            <guid>https://news.ycombinator.com/item?id=30781397</guid>
+            <pubDate>Wed, 23 Mar 2022 18:03:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: What details do you want in job postings?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[具有漂亮界面的对象存储？]]></title>
+            <link>https://news.ycombinator.com/item?id=30781237</link>
+            <guid>https://news.ycombinator.com/item?id=30781237</guid>
+            <pubDate>Wed, 23 Mar 2022 17:50:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Object Storage with a Nice Interface?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何说服开发人员/公司使用TypeScript？]]></title>
             <link>https://news.ycombinator.com/item?id=30780673</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30619423</guid>
             <pubDate>Wed, 09 Mar 2022 20:15:11 GMT</pubDate>
             <description><![CDATA[Ask HN: Has anyone else had a problem navigating TRUTH SOCIAL?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Is there any way to rank stories on HN from sites based on votes?]]></title>
-            <link>https://news.ycombinator.com/item?id=30619001</link>
-            <guid>https://news.ycombinator.com/item?id=30619001</guid>
-            <pubDate>Wed, 09 Mar 2022 19:37:02 GMT</pubDate>
-            <description><![CDATA[Is there any way to rank stories on HN from sites based on votes?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[目前处理1099收入的最佳方式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30618934</link>
-            <guid>https://news.ycombinator.com/item?id=30618934</guid>
-            <pubDate>Wed, 09 Mar 2022 19:30:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best current way to handle 1099 income?]]></description>
         </item>
     </channel>
 </rss>
