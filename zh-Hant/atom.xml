@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T22:52:21.456Z</updated>
+    <updated>2022-03-23T23:41:44.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的脊柱發炎，尋求建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30784682</id>
+        <link href="https://news.ycombinator.com/item?id=30784682"/>
+        <updated>2022-03-23T23:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Seeking advice with my inflamed Spine]]></summary>
+        <author>
+            <name>inflamedspine</name>
+            <uri>https://news.ycombinator.com/user?id=inflamedspine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是否能夠從碎片散列值中恢復BitTorrent文件？]]></title>
         <id>https://news.ycombinator.com/item?id=30784521</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>HWR_14</name>
             <uri>https://news.ycombinator.com/user?id=HWR_14</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you think of recording video meetings?]]></title>
-        <id>https://news.ycombinator.com/item?id=30623333</id>
-        <link href="https://news.ycombinator.com/item?id=30623333"/>
-        <updated>2022-03-10T04:49:02.000Z</updated>
-        <summary type="html"><![CDATA[What do you think of recording video meetings?]]></summary>
-        <author>
-            <name>gkop</name>
-            <uri>https://news.ycombinator.com/user?id=gkop</uri>
         </author>
     </entry>
 </feed>
