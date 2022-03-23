@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T09:13:32.264Z</updated>
+    <updated>2022-03-23T10:38:56.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rasp Pi Compute 的替代產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30776908</id>
+        <link href="https://news.ycombinator.com/item?id=30776908"/>
+        <updated>2022-03-23T10:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Rasp Pi Compute Alternatives]]></summary>
+        <author>
+            <name>edf13</name>
+            <uri>https://news.ycombinator.com/user?id=edf13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soylent Buzz的情況如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30776492</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>stevesearer</name>
             <uri>https://news.ycombinator.com/user?id=stevesearer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初創企業的產品管理技巧和書籍推薦]]></title>
-        <id>https://news.ycombinator.com/item?id=30614223</id>
-        <link href="https://news.ycombinator.com/item?id=30614223"/>
-        <updated>2022-03-09T13:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Product management tips and book recommendations for startups]]></summary>
-        <author>
-            <name>jekude</name>
-            <uri>https://news.ycombinator.com/user?id=jekude</uri>
         </author>
     </entry>
 </feed>
