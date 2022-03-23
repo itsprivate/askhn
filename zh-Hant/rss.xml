@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼為現有的開源項目做貢獻這麼難？]]></title>
+            <link>https://news.ycombinator.com/item?id=30777224</link>
+            <guid>https://news.ycombinator.com/item?id=30777224</guid>
+            <pubDate>Wed, 23 Mar 2022 11:11:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is contributing to existing open source projects so hard?]]></description>
+        </item>
         <item>
             <title><![CDATA[Rasp Pi Compute 的替代產品]]></title>
             <link>https://news.ycombinator.com/item?id=30776908</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30614816</guid>
             <pubDate>Wed, 09 Mar 2022 14:37:26 GMT</pubDate>
             <description><![CDATA[Contractors, indie devs, where do you hang out to talk shop?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Times you’ve learned something without being taught?]]></title>
-            <link>https://news.ycombinator.com/item?id=30614692</link>
-            <guid>https://news.ycombinator.com/item?id=30614692</guid>
-            <pubDate>Wed, 09 Mar 2022 14:25:26 GMT</pubDate>
-            <description><![CDATA[Times you’ve learned something without being taught?]]></description>
         </item>
     </channel>
 </rss>
