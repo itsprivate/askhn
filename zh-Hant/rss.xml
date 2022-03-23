@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[您的想法是否得到了FTX未來基金的資助？]]></title>
+            <link>https://news.ycombinator.com/item?id=30774644</link>
+            <guid>https://news.ycombinator.com/item?id=30774644</guid>
+            <pubDate>Wed, 23 Mar 2022 03:36:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did your idea get funding from FTX Future Fund?]]></description>
+        </item>
         <item>
             <title><![CDATA[對於13英寸M1 MBP，有哪些好的替代品？]]></title>
             <link>https://news.ycombinator.com/item?id=30774220</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30612963</guid>
             <pubDate>Wed, 09 Mar 2022 10:28:31 GMT</pubDate>
             <description><![CDATA[Ask HN: Project maintainers in Ukraine – which projects are in danger?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在沒有驗證的情況下點擊確認驗證碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30612769</link>
-            <guid>https://news.ycombinator.com/item?id=30612769</guid>
-            <pubDate>Wed, 09 Mar 2022 10:00:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Clicking confirmation on captcha without verification]]></description>
         </item>
     </channel>
 </rss>

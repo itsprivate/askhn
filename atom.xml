@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T03:14:13.584Z</updated>
+    <updated>2022-03-23T03:44:44.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您的想法是否得到了FTX未来基金的资助？]]></title>
+        <id>https://news.ycombinator.com/item?id=30774644</id>
+        <link href="https://news.ycombinator.com/item?id=30774644"/>
+        <updated>2022-03-23T03:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did your idea get funding from FTX Future Fund?]]></summary>
+        <author>
+            <name>ffhhj</name>
+            <uri>https://news.ycombinator.com/user?id=ffhhj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于13英寸M1 MBP，有哪些好的替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30774220</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>oger</name>
             <uri>https://news.ycombinator.com/user?id=oger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在没有验证的情况下点击确认验证码]]></title>
-        <id>https://news.ycombinator.com/item?id=30612769</id>
-        <link href="https://news.ycombinator.com/item?id=30612769"/>
-        <updated>2022-03-09T10:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Clicking confirmation on captcha without verification]]></summary>
-        <author>
-            <name>throwaway5486nv</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway5486nv</uri>
         </author>
     </entry>
 </feed>
