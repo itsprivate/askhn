@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T17:58:34.829Z</updated>
+    <updated>2022-03-24T18:40:12.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当Alexa退役时，大家要用什么呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30793602</id>
+        <link href="https://news.ycombinator.com/item?id=30793602"/>
+        <updated>2022-03-24T18:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is everyone going to use when Alexa is retired?]]></summary>
+        <author>
+            <name>eulid55</name>
+            <uri>https://news.ycombinator.com/user?id=eulid55</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果有的话，Linus Torvalds对加密货币的看法是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30793212</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>pbowyer</name>
             <uri>https://news.ycombinator.com/user?id=pbowyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何计算机架构可以与冯-诺伊曼的竞争？]]></title>
-        <id>https://news.ycombinator.com/item?id=30631879</id>
-        <link href="https://news.ycombinator.com/item?id=30631879"/>
-        <updated>2022-03-10T20:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are any computer architecture out there to compete with VonNeumann's?]]></summary>
-        <author>
-            <name>iamdvlpr</name>
-            <uri>https://news.ycombinator.com/user?id=iamdvlpr</uri>
         </author>
     </entry>
 </feed>
