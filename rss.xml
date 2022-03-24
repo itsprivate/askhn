@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有谁知道一个承载个人RSS订阅的网站吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30796174</link>
+            <guid>https://news.ycombinator.com/item?id=30796174</guid>
+            <pubDate>Thu, 24 Mar 2022 22:27:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does anyone know a site that hosts personal RSS feeds?]]></description>
+        </item>
         <item>
             <title><![CDATA[有人用我的电子邮件来注册新闻简报。我应该怎么做？]]></title>
             <link>https://news.ycombinator.com/item?id=30795829</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30633786</guid>
             <pubDate>Thu, 10 Mar 2022 22:59:58 GMT</pubDate>
             <description><![CDATA[Ask HN: How to be a software engineer who works on challenging problems?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你希望看到的网站的酷点子？]]></title>
-            <link>https://news.ycombinator.com/item?id=30633566</link>
-            <guid>https://news.ycombinator.com/item?id=30633566</guid>
-            <pubDate>Thu, 10 Mar 2022 22:40:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Cool ideas of websites you'd like to see built?]]></description>
         </item>
     </channel>
 </rss>
