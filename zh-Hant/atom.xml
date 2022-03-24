@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T18:40:12.495Z</updated>
+    <updated>2022-03-24T18:56:21.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[必應也在搜索結果頁上為你顯示不相關的視頻嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30793762</id>
+        <link href="https://news.ycombinator.com/item?id=30793762"/>
+        <updated>2022-03-24T18:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Bing showing unrelated videos on the search results page for you too?]]></summary>
+        <author>
+            <name>schemescape</name>
+            <uri>https://news.ycombinator.com/user?id=schemescape</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當Alexa退役時，大家要用什麼呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30793602</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>chockchocschoir</name>
             <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何快速地將系統草圖和二維圖解制成動畫？]]></title>
-        <id>https://news.ycombinator.com/item?id=30631993</id>
-        <link href="https://news.ycombinator.com/item?id=30631993"/>
-        <updated>2022-03-10T20:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to quickly animate system sketches and 2D diagrams?]]></summary>
-        <author>
-            <name>pbowyer</name>
-            <uri>https://news.ycombinator.com/user?id=pbowyer</uri>
         </author>
     </entry>
 </feed>
