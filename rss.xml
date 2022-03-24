@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 10:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[给20岁出头的人的建议]]></title>
+            <link>https://news.ycombinator.com/item?id=30787868</link>
+            <guid>https://news.ycombinator.com/item?id=30787868</guid>
+            <pubDate>Thu, 24 Mar 2022 09:59:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Advices for Someone on Early 20]]></description>
+        </item>
         <item>
             <title><![CDATA[构建你的MVP的后端平台]]></title>
             <link>https://news.ycombinator.com/item?id=30787803</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30626933</guid>
             <pubDate>Thu, 10 Mar 2022 13:58:25 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some effective ways to test cloud-native applications?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我应该偏执到什么程度？]]></title>
-            <link>https://news.ycombinator.com/item?id=30626285</link>
-            <guid>https://news.ycombinator.com/item?id=30626285</guid>
-            <pubDate>Thu, 10 Mar 2022 12:46:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: To what extent should I be paranoid?]]></description>
         </item>
     </channel>
 </rss>
