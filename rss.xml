@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 04:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果预算永远不平衡，任何关于税收的讨论不是毫无意义吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30786279</link>
+            <guid>https://news.ycombinator.com/item?id=30786279</guid>
+            <pubDate>Thu, 24 Mar 2022 04:04:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Isn't any discussion on taxes pointless if budget is never balanced?]]></description>
+        </item>
         <item>
             <title><![CDATA[你想从新闻中得到什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30785786</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30625093</guid>
             <pubDate>Thu, 10 Mar 2022 09:49:17 GMT</pubDate>
             <description><![CDATA[Ask HN: What cryptography might do in future but can not do?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Is There a CNN .Onion Instance?]]></title>
-            <link>https://news.ycombinator.com/item?id=30625023</link>
-            <guid>https://news.ycombinator.com/item?id=30625023</guid>
-            <pubDate>Thu, 10 Mar 2022 09:34:37 GMT</pubDate>
-            <description><![CDATA[Is There a CNN .Onion Instance?]]></description>
         </item>
     </channel>
 </rss>
