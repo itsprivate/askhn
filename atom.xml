@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-23T23:41:43.988Z</updated>
+    <updated>2022-03-24T02:20:11.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于代理投票的DAO？]]></title>
+        <id>https://news.ycombinator.com/item?id=30785461</id>
+        <link href="https://news.ycombinator.com/item?id=30785461"/>
+        <updated>2022-03-24T01:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: DAO for Proxy Voting?]]></summary>
+        <author>
+            <name>digitcatphd</name>
+            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上最被低估的城市是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30785389</id>
+        <link href="https://news.ycombinator.com/item?id=30785389"/>
+        <updated>2022-03-24T01:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whats the most underrated city in the world?]]></summary>
+        <author>
+            <name>f0e4c2f7</name>
+            <uri>https://news.ycombinator.com/user?id=f0e4c2f7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的脊柱发炎，寻求建议]]></title>
         <id>https://news.ycombinator.com/item?id=30784682</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>tomcat27</name>
             <uri>https://news.ycombinator.com/user?id=tomcat27</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衬衫]]></title>
-        <id>https://news.ycombinator.com/item?id=30623907</id>
-        <link href="https://news.ycombinator.com/item?id=30623907"/>
-        <updated>2022-03-10T07:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should the SEC have more power and resources?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's happening with Google accounts Friday?]]></title>
-        <id>https://news.ycombinator.com/item?id=30623562</id>
-        <link href="https://news.ycombinator.com/item?id=30623562"/>
-        <updated>2022-03-10T05:36:53.000Z</updated>
-        <summary type="html"><![CDATA[What's happening with Google accounts Friday?]]></summary>
-        <author>
-            <name>HWR_14</name>
-            <uri>https://news.ycombinator.com/user?id=HWR_14</uri>
         </author>
     </entry>
 </feed>
