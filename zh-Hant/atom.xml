@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T23:14:14.845Z</updated>
+    <updated>2022-03-24T23:33:51.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們應該搬離城市嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30796778</id>
+        <link href="https://news.ycombinator.com/item?id=30796778"/>
+        <updated>2022-03-24T23:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should people move away from cities?]]></summary>
+        <author>
+            <name>prohobo</name>
+            <uri>https://news.ycombinator.com/user?id=prohobo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有誰覺得安全領域已經變成了狗屎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30796753</id>
+        <link href="https://news.ycombinator.com/item?id=30796753"/>
+        <updated>2022-03-24T23:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone feel like the security field has gone to shit?]]></summary>
+        <author>
+            <name>anon23anon</name>
+            <uri>https://news.ycombinator.com/user?id=anon23anon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何在空閒時間賺錢的？]]></title>
         <id>https://news.ycombinator.com/item?id=30796552</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>noselfpromote</name>
             <uri>https://news.ycombinator.com/user?id=noselfpromote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在僱用烏克蘭難民？]]></title>
-        <id>https://news.ycombinator.com/item?id=30634510</id>
-        <link href="https://news.ycombinator.com/item?id=30634510"/>
-        <updated>2022-03-11T00:22:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who's Hiring Ukrainian Refugees?]]></summary>
-        <author>
-            <name>lokl</name>
-            <uri>https://news.ycombinator.com/user?id=lokl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禁飛區是否意味著與俄羅斯宣戰？]]></title>
-        <id>https://news.ycombinator.com/item?id=30634296</id>
-        <link href="https://news.ycombinator.com/item?id=30634296"/>
-        <updated>2022-03-10T23:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does No-Fly zone mean declaring a War with Russia?]]></summary>
-        <author>
-            <name>html5web</name>
-            <uri>https://news.ycombinator.com/user?id=html5web</uri>
         </author>
     </entry>
 </feed>
