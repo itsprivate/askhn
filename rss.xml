@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[构建你的MVP的后端平台]]></title>
+            <link>https://news.ycombinator.com/item?id=30787803</link>
+            <guid>https://news.ycombinator.com/item?id=30787803</guid>
+            <pubDate>Thu, 24 Mar 2022 09:47:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: A platform to build back end of your MVP]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有什么服务能像GitHub一样，但完全是E2EE的功能？]]></title>
+            <link>https://news.ycombinator.com/item?id=30787790</link>
+            <guid>https://news.ycombinator.com/item?id=30787790</guid>
+            <pubDate>Thu, 24 Mar 2022 09:44:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any services that function just like GitHub but with total E2EE?]]></description>
+        </item>
         <item>
             <title><![CDATA[基于GitHub活动的垃圾邮件激增]]></title>
             <link>https://news.ycombinator.com/item?id=30787677</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30626285</guid>
             <pubDate>Thu, 10 Mar 2022 12:46:51 GMT</pubDate>
             <description><![CDATA[Ask HN: To what extent should I be paranoid?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌/Facebook/Twitter/Netflix/Spotify如何确定我的位置？]]></title>
-            <link>https://news.ycombinator.com/item?id=30626083</link>
-            <guid>https://news.ycombinator.com/item?id=30626083</guid>
-            <pubDate>Thu, 10 Mar 2022 12:17:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do Google/Facebook/Twitter/Netflix/Spotify determine my location?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你觉得哪些开发工具最有用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30626072</link>
-            <guid>https://news.ycombinator.com/item?id=30626072</guid>
-            <pubDate>Thu, 10 Mar 2022 12:17:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which devtools do you find the most useful?]]></description>
         </item>
     </channel>
 </rss>

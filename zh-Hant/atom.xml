@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T09:32:28.567Z</updated>
+    <updated>2022-03-24T09:51:34.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建你的MVP的後端平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30787803</id>
+        <link href="https://news.ycombinator.com/item?id=30787803"/>
+        <updated>2022-03-24T09:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A platform to build back end of your MVP]]></summary>
+        <author>
+            <name>aniketviasocket</name>
+            <uri>https://news.ycombinator.com/user?id=aniketviasocket</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什麼服務能像GitHub一樣，但完全是E2EE的功能？]]></title>
+        <id>https://news.ycombinator.com/item?id=30787790</id>
+        <link href="https://news.ycombinator.com/item?id=30787790"/>
+        <updated>2022-03-24T09:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any services that function just like GitHub but with total E2EE?]]></summary>
+        <author>
+            <name>28194608</name>
+            <uri>https://news.ycombinator.com/user?id=28194608</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於GitHub活動的垃圾郵件激增]]></title>
         <id>https://news.ycombinator.com/item?id=30787677</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ge96</name>
             <uri>https://news.ycombinator.com/user?id=ge96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌/Facebook/Twitter/Netflix/Spotify如何確定我的位置？]]></title>
-        <id>https://news.ycombinator.com/item?id=30626083</id>
-        <link href="https://news.ycombinator.com/item?id=30626083"/>
-        <updated>2022-03-10T12:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do Google/Facebook/Twitter/Netflix/Spotify determine my location?]]></summary>
-        <author>
-            <name>margal</name>
-            <uri>https://news.ycombinator.com/user?id=margal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你覺得哪些開發工具最有用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30626072</id>
-        <link href="https://news.ycombinator.com/item?id=30626072"/>
-        <updated>2022-03-10T12:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which devtools do you find the most useful?]]></summary>
-        <author>
-            <name>sanketpatrikar</name>
-            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
         </author>
     </entry>
 </feed>
