@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T16:42:21.189Z</updated>
+    <updated>2022-03-24T17:43:38.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什么让人们向HN添加链接？]]></title>
+        <id>https://news.ycombinator.com/item?id=30792481</id>
+        <link href="https://news.ycombinator.com/item?id=30792481"/>
+        <updated>2022-03-24T16:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What makes people add links to HN?]]></summary>
+        <author>
+            <name>thallukrish</name>
+            <uri>https://news.ycombinator.com/user?id=thallukrish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么语言/框架最容易部署？]]></title>
+        <id>https://news.ycombinator.com/item?id=30792323</id>
+        <link href="https://news.ycombinator.com/item?id=30792323"/>
+        <updated>2022-03-24T16:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What language/framework is easiest to deploy?]]></summary>
+        <author>
+            <name>vmsp</name>
+            <uri>https://news.ycombinator.com/user?id=vmsp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有任何公司与普通员工分享知识产权利润？]]></title>
+        <id>https://news.ycombinator.com/item?id=30792017</id>
+        <link href="https://news.ycombinator.com/item?id=30792017"/>
+        <updated>2022-03-24T16:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any companies that share IP profits with regular employees?]]></summary>
+        <author>
+            <name>sharemywin</name>
+            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对嵌入式设备安全的看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30791860</id>
+        <link href="https://news.ycombinator.com/item?id=30791860"/>
+        <updated>2022-03-24T16:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thoughts on Embedded Device Security?]]></summary>
+        <author>
+            <name>mlmitch</name>
+            <uri>https://news.ycombinator.com/user?id=mlmitch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对在家工作/在办公室工作的混合模式有什么看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30791480</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>rco8786</name>
             <uri>https://news.ycombinator.com/user?id=rco8786</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检测RTSP流中的婴儿？]]></title>
-        <id>https://news.ycombinator.com/item?id=30630295</id>
-        <link href="https://news.ycombinator.com/item?id=30630295"/>
-        <updated>2022-03-10T18:13:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Detect Baby in RTSP Stream?]]></summary>
-        <author>
-            <name>ravishi</name>
-            <uri>https://news.ycombinator.com/user?id=ravishi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年的 "分析学 "职业是什么样子的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30630065</id>
-        <link href="https://news.ycombinator.com/item?id=30630065"/>
-        <updated>2022-03-10T17:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does a career in 'analytics' look like in 2022?]]></summary>
-        <author>
-            <name>mattcristal</name>
-            <uri>https://news.ycombinator.com/user?id=mattcristal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在安卓上如何利用Dirty Pipe的漏洞？]]></title>
-        <id>https://news.ycombinator.com/item?id=30629680</id>
-        <link href="https://news.ycombinator.com/item?id=30629680"/>
-        <updated>2022-03-10T17:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would the Dirty Pipe vulnerability be exploited on Android?]]></summary>
-        <author>
-            <name>cyanne</name>
-            <uri>https://news.ycombinator.com/user?id=cyanne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为员工提供的基本网络安全的最佳指南是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30629236</id>
-        <link href="https://news.ycombinator.com/item?id=30629236"/>
-        <updated>2022-03-10T17:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s the best guide to basic cybersecurity for employees?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
         </author>
     </entry>
 </feed>
