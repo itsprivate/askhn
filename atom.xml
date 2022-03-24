@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T10:35:54.824Z</updated>
+    <updated>2022-03-24T11:29:38.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[怎样才能成为一个有效的创始人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30788307</id>
+        <link href="https://news.ycombinator.com/item?id=30788307"/>
+        <updated>2022-03-24T11:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Makes an Effective Founder?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核能*实际上*安全吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30787943</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现NPM包的最佳方式是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30627007</id>
-        <link href="https://news.ycombinator.com/item?id=30627007"/>
-        <updated>2022-03-10T14:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best way to discover NPM packages?]]></summary>
-        <author>
-            <name>seekayel</name>
-            <uri>https://news.ycombinator.com/user?id=seekayel</uri>
         </author>
     </entry>
 </feed>
