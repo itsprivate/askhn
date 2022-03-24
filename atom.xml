@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T08:53:16.919Z</updated>
+    <updated>2022-03-24T09:32:28.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于GitHub活动的垃圾邮件激增]]></title>
+        <id>https://news.ycombinator.com/item?id=30787677</id>
+        <link href="https://news.ycombinator.com/item?id=30787677"/>
+        <updated>2022-03-24T09:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Uptick in spam based on GitHub activity]]></summary>
+        <author>
+            <name>jamil7</name>
+            <uri>https://news.ycombinator.com/user?id=jamil7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在不看视频的情况下观看/阅读YouTube？]]></title>
+        <id>https://news.ycombinator.com/item?id=30787614</id>
+        <link href="https://news.ycombinator.com/item?id=30787614"/>
+        <updated>2022-03-24T09:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to watch/read YouTube without watching videos?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[监控摄像头的人怎么了？]]></title>
         <id>https://news.ycombinator.com/item?id=30787430</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>sanketpatrikar</name>
             <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我支持乌克兰的最佳方式是什么？ 例如，在哪里捐赠？]]></title>
-        <id>https://news.ycombinator.com/item?id=30625951</id>
-        <link href="https://news.ycombinator.com/item?id=30625951"/>
-        <updated>2022-03-10T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Whats the best way for me to support Ukraine? e.g. Where donate?]]></summary>
-        <author>
-            <name>everyone</name>
-            <uri>https://news.ycombinator.com/user?id=everyone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有VOA.Onion的实例？]]></title>
-        <id>https://news.ycombinator.com/item?id=30625300</id>
-        <link href="https://news.ycombinator.com/item?id=30625300"/>
-        <updated>2022-03-10T10:27:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is There a VOA .Onion Instance?]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
