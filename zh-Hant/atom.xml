@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T12:58:17.681Z</updated>
+    <updated>2022-03-24T13:49:36.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[還有人質疑USB-C是一種 "改進 "嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30789426</id>
+        <link href="https://news.ycombinator.com/item?id=30789426"/>
+        <updated>2022-03-24T13:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone else question USB-C as an “improvement”?]]></summary>
+        <author>
+            <name>kkielhofner</name>
+            <uri>https://news.ycombinator.com/user?id=kkielhofner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java是否需要一個用於桌面/網絡的現代Java UI工具包？]]></title>
+        <id>https://news.ycombinator.com/item?id=30789337</id>
+        <link href="https://news.ycombinator.com/item?id=30789337"/>
+        <updated>2022-03-24T13:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Java need a modern Java UI toolkit for desktop/web?]]></summary>
+        <author>
+            <name>jeffreportmill1</name>
+            <uri>https://news.ycombinator.com/user?id=jeffreportmill1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您對實時聊天的推薦堆棧是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30789263</id>
+        <link href="https://news.ycombinator.com/item?id=30789263"/>
+        <updated>2022-03-24T13:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your recommended stack for real time chat?]]></summary>
+        <author>
+            <name>dinkleberg</name>
+            <uri>https://news.ycombinator.com/user?id=dinkleberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼人們會看YouTube上的視頻？]]></title>
+        <id>https://news.ycombinator.com/item?id=30789177</id>
+        <link href="https://news.ycombinator.com/item?id=30789177"/>
+        <updated>2022-03-24T13:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do people watch YouTube vlogs?]]></summary>
+        <author>
+            <name>questionking</name>
+            <uri>https://news.ycombinator.com/user?id=questionking</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪裡可以買到這樣的顯示器]]></title>
         <id>https://news.ycombinator.com/item?id=30788880</id>
@@ -6568,50 +6612,6 @@
         <author>
             <name>needadvicebadly</name>
             <uri>https://news.ycombinator.com/user?id=needadvicebadly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽車價格何時才能正常化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30627656</id>
-        <link href="https://news.ycombinator.com/item?id=30627656"/>
-        <updated>2022-03-10T15:02:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When will car prices normalize?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解俄羅斯的最佳資源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30627621</id>
-        <link href="https://news.ycombinator.com/item?id=30627621"/>
-        <updated>2022-03-10T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best resources for learning about Russia?]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低接觸SaaS的非技術性考慮]]></title>
-        <id>https://news.ycombinator.com/item?id=30627570</id>
-        <link href="https://news.ycombinator.com/item?id=30627570"/>
-        <updated>2022-03-10T14:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-technical considerations for Low-touch SaaS]]></summary>
-        <author>
-            <name>alex_suzuki</name>
-            <uri>https://news.ycombinator.com/user?id=alex_suzuki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對一個開源維護者、貢獻者的問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30627548</id>
-        <link href="https://news.ycombinator.com/item?id=30627548"/>
-        <updated>2022-03-10T14:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Questions for an open source maintainer, contributor?]]></summary>
-        <author>
-            <name>krishadi</name>
-            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
         </author>
     </entry>
 </feed>
