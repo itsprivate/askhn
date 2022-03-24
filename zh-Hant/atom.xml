@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T21:34:00.452Z</updated>
+    <updated>2022-03-24T21:52:19.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否申請了YC S22？]]></title>
+        <id>https://news.ycombinator.com/item?id=30795693</id>
+        <link href="https://news.ycombinator.com/item?id=30795693"/>
+        <updated>2022-03-24T21:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you applied to YC S22?]]></summary>
+        <author>
+            <name>artembugara</name>
+            <uri>https://news.ycombinator.com/user?id=artembugara</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[清洗舊銀器]]></title>
         <id>https://news.ycombinator.com/item?id=30795271</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>easyalgocode</name>
             <uri>https://news.ycombinator.com/user?id=easyalgocode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甘特圖是否在工業中使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30632966</id>
-        <link href="https://news.ycombinator.com/item?id=30632966"/>
-        <updated>2022-03-10T21:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Gantt Charts Used in Industry]]></summary>
-        <author>
-            <name>washedDeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=washedDeveloper</uri>
         </author>
     </entry>
 </feed>
