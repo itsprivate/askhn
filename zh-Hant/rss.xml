@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:53:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[監控攝像頭的人怎麼了？]]></title>
+            <link>https://news.ycombinator.com/item?id=30787430</link>
+            <guid>https://news.ycombinator.com/item?id=30787430</guid>
+            <pubDate>Thu, 24 Mar 2022 08:35:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: What happened to surveillance camera guy?]]></description>
+        </item>
         <item>
             <title><![CDATA[最聰明的黑客]]></title>
             <link>https://news.ycombinator.com/item?id=30786577</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30625300</guid>
             <pubDate>Thu, 10 Mar 2022 10:27:27 GMT</pubDate>
             <description><![CDATA[Ask HN: Is There a VOA .Onion Instance?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[要把你的API變成SaaS，你需要什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30625263</link>
-            <guid>https://news.ycombinator.com/item?id=30625263</guid>
-            <pubDate>Thu, 10 Mar 2022 10:20:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you need to turn your API into a SaaS?]]></description>
         </item>
     </channel>
 </rss>
