@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最聪明的黑客]]></title>
+            <link>https://news.ycombinator.com/item?id=30786577</link>
+            <guid>https://news.ycombinator.com/item?id=30786577</guid>
+            <pubDate>Thu, 24 Mar 2022 05:18:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Top Clever Hacks]]></description>
+        </item>
         <item>
             <title><![CDATA[如果预算永远不平衡，任何关于税收的讨论不是毫无意义吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30786279</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30625263</guid>
             <pubDate>Thu, 10 Mar 2022 10:20:34 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you need to turn your API into a SaaS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密码学在未来可能做但不能做什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30625093</link>
-            <guid>https://news.ycombinator.com/item?id=30625093</guid>
-            <pubDate>Thu, 10 Mar 2022 09:49:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: What cryptography might do in future but can not do?]]></description>
         </item>
     </channel>
 </rss>
