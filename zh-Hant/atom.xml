@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T18:56:21.859Z</updated>
+    <updated>2022-03-24T19:37:53.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌為什麼要扼殺Google Now快照（卡片）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30794333</id>
+        <link href="https://news.ycombinator.com/item?id=30794333"/>
+        <updated>2022-03-24T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did Google kill Google Now Snapshot(Cards)?]]></summary>
+        <author>
+            <name>yonz</name>
+            <uri>https://news.ycombinator.com/user?id=yonz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[必應也在搜索結果頁上為你顯示不相關的視頻嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30793762</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>oger</name>
             <uri>https://news.ycombinator.com/user?id=oger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎麼可能一個數據恢復軟件比另一個好呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30632381</id>
-        <link href="https://news.ycombinator.com/item?id=30632381"/>
-        <updated>2022-03-10T21:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is it possible that one data recovery software is better than other?]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
         </author>
     </entry>
 </feed>
