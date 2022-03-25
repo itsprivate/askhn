@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T14:34:36.406Z</updated>
+    <updated>2022-03-25T14:53:13.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[61岁时开始从事编程工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30802740</id>
+        <link href="https://news.ycombinator.com/item?id=30802740"/>
+        <updated>2022-03-25T14:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Starting a Career in Programming at 61?]]></summary>
+        <author>
+            <name>wofo</name>
+            <uri>https://news.ycombinator.com/user?id=wofo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Hacker News中，升级投票是如何进行的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30802692</id>
+        <link href="https://news.ycombinator.com/item?id=30802692"/>
+        <updated>2022-03-25T14:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does upvoting work in Hacker News?]]></summary>
+        <author>
+            <name>oneturkmen</name>
+            <uri>https://news.ycombinator.com/user?id=oneturkmen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你见证过哪些（几乎）公司沉没的工程错误？]]></title>
+        <id>https://news.ycombinator.com/item?id=30802631</id>
+        <link href="https://news.ycombinator.com/item?id=30802631"/>
+        <updated>2022-03-25T14:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What (almost) company sinking engineering mistakes have you witnessed?]]></summary>
+        <author>
+            <name>samvher</name>
+            <uri>https://news.ycombinator.com/user?id=samvher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专家意见是否应该成为机器学习世界中更大的一部分？]]></title>
         <id>https://news.ycombinator.com/item?id=30802422</id>
@@ -6579,39 +6612,6 @@
         <author>
             <name>NotAWorkNick</name>
             <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助我们解决API服务条款的可读性警告问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30642176</id>
-        <link href="https://news.ycombinator.com/item?id=30642176"/>
-        <updated>2022-03-11T16:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Help us solve API Terms of service warnings readability]]></summary>
-        <author>
-            <name>midhem</name>
-            <uri>https://news.ycombinator.com/user?id=midhem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Web的更新是否保持了端到端的加密？如何保持？]]></title>
-        <id>https://news.ycombinator.com/item?id=30642045</id>
-        <link href="https://news.ycombinator.com/item?id=30642045"/>
-        <updated>2022-03-11T16:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does the update to WhatsApp Web maintain end to end encryption? How?]]></summary>
-        <author>
-            <name>mijoharas</name>
-            <uri>https://news.ycombinator.com/user?id=mijoharas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的公司应该如何发布其开发者博客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30641710</id>
-        <link href="https://news.ycombinator.com/item?id=30641710"/>
-        <updated>2022-03-11T16:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How should my company publish its developer blog?]]></summary>
-        <author>
-            <name>brundolf</name>
-            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
         </author>
     </entry>
 </feed>

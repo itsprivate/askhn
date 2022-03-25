@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Mar 2022 14:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 14:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[61岁时开始从事编程工作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30802740</link>
+            <guid>https://news.ycombinator.com/item?id=30802740</guid>
+            <pubDate>Fri, 25 Mar 2022 14:42:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: Starting a Career in Programming at 61?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Hacker News中，升级投票是如何进行的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30802692</link>
+            <guid>https://news.ycombinator.com/item?id=30802692</guid>
+            <pubDate>Fri, 25 Mar 2022 14:39:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: How does upvoting work in Hacker News?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你见证过哪些（几乎）公司沉没的工程错误？]]></title>
+            <link>https://news.ycombinator.com/item?id=30802631</link>
+            <guid>https://news.ycombinator.com/item?id=30802631</guid>
+            <pubDate>Fri, 25 Mar 2022 14:32:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: What (almost) company sinking engineering mistakes have you witnessed?]]></description>
+        </item>
         <item>
             <title><![CDATA[专家意见是否应该成为机器学习世界中更大的一部分？]]></title>
             <link>https://news.ycombinator.com/item?id=30802422</link>
@@ -4190,27 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30642577</guid>
             <pubDate>Fri, 11 Mar 2022 17:04:40 GMT</pubDate>
             <description><![CDATA[Ask HN: Neutral DNS Servers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帮助我们解决API服务条款的可读性警告问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30642176</link>
-            <guid>https://news.ycombinator.com/item?id=30642176</guid>
-            <pubDate>Fri, 11 Mar 2022 16:42:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: Help us solve API Terms of service warnings readability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WhatsApp Web的更新是否保持了端到端的加密？如何保持？]]></title>
-            <link>https://news.ycombinator.com/item?id=30642045</link>
-            <guid>https://news.ycombinator.com/item?id=30642045</guid>
-            <pubDate>Fri, 11 Mar 2022 16:34:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does the update to WhatsApp Web maintain end to end encryption? How?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的公司应该如何发布其开发者博客？]]></title>
-            <link>https://news.ycombinator.com/item?id=30641710</link>
-            <guid>https://news.ycombinator.com/item?id=30641710</guid>
-            <pubDate>Fri, 11 Mar 2022 16:16:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: How should my company publish its developer blog?]]></description>
         </item>
     </channel>
 </rss>
