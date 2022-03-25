@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T04:14:34.491Z</updated>
+    <updated>2022-03-25T04:58:59.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows与Linux的稳定性，你有什么经验]]></title>
+        <id>https://news.ycombinator.com/item?id=30798756</id>
+        <link href="https://news.ycombinator.com/item?id=30798756"/>
+        <updated>2022-03-25T04:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Windows vs. Linux stability what is your experience]]></summary>
+        <author>
+            <name>xupybd</name>
+            <uri>https://news.ycombinator.com/user?id=xupybd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习一种新的编程语言意味着什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30798539</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>vrisha</name>
             <uri>https://news.ycombinator.com/user?id=vrisha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Blind上有那么多人支持俄罗斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30637150</id>
-        <link href="https://news.ycombinator.com/item?id=30637150"/>
-        <updated>2022-03-11T07:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do so many people on Blind support Russia?]]></summary>
-        <author>
-            <name>livinglist</name>
-            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
         </author>
     </entry>
 </feed>
