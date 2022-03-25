@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-24T23:33:51.511Z</updated>
+    <updated>2022-03-25T02:14:35.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么网络开发还没有发展到像移动/桌面应用开发那样？]]></title>
+        <id>https://news.ycombinator.com/item?id=30797820</id>
+        <link href="https://news.ycombinator.com/item?id=30797820"/>
+        <updated>2022-03-25T01:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why hasn't web dev evolved to be like mobile/desktop app dev yet?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于行使期权的无追索权资金的意见]]></title>
+        <id>https://news.ycombinator.com/item?id=30793728</id>
+        <link href="https://news.ycombinator.com/item?id=30793728"/>
+        <updated>2022-03-24T18:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Opinions on non-recourse funding for exercising options]]></summary>
+        <author>
+            <name>anonstartup1</name>
+            <uri>https://news.ycombinator.com/user?id=anonstartup1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人们应该搬离城市吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30796778</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>hondacity</name>
             <uri>https://news.ycombinator.com/user?id=hondacity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joget作为低代码工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30635030</id>
-        <link href="https://news.ycombinator.com/item?id=30635030"/>
-        <updated>2022-03-11T01:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Joget as Low Code Tool?]]></summary>
-        <author>
-            <name>nickmancol</name>
-            <uri>https://news.ycombinator.com/user?id=nickmancol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[登记处的恐怖故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30634852</id>
-        <link href="https://news.ycombinator.com/item?id=30634852"/>
-        <updated>2022-03-11T00:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Registrar Horror Stories?]]></summary>
-        <author>
-            <name>noselfpromote</name>
-            <uri>https://news.ycombinator.com/user?id=noselfpromote</uri>
         </author>
     </entry>
 </feed>
