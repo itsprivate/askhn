@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T09:52:44.719Z</updated>
+    <updated>2022-03-25T10:37:36.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用什么AWS技术来部署 "hello world "容器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30800378</id>
+        <link href="https://news.ycombinator.com/item?id=30800378"/>
+        <updated>2022-03-25T10:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What AWS technology do you use to deploy “hello world” containers?]]></summary>
+        <author>
+            <name>rpau_cb</name>
+            <uri>https://news.ycombinator.com/user?id=rpau_cb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何提供免费试用而不被滥用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30800350</id>
+        <link href="https://news.ycombinator.com/item?id=30800350"/>
+        <updated>2022-03-25T10:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to provide a free trial without being abused?]]></summary>
+        <author>
+            <name>js4ever</name>
+            <uri>https://news.ycombinator.com/user?id=js4ever</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP和SSH之间的主要区别是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30800126</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>gls2ro</name>
             <uri>https://news.ycombinator.com/user?id=gls2ro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有关于无头CMS的建议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30638341</id>
-        <link href="https://news.ycombinator.com/item?id=30638341"/>
-        <updated>2022-03-11T10:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Recommendations for a Headless CMS?]]></summary>
-        <author>
-            <name>martin_a</name>
-            <uri>https://news.ycombinator.com/user?id=martin_a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有什么工具可以提高集成测试的效率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30638339</id>
-        <link href="https://news.ycombinator.com/item?id=30638339"/>
-        <updated>2022-03-11T10:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any tools to improve the efficiency of integration test?]]></summary>
-        <author>
-            <name>Trystan02123</name>
-            <uri>https://news.ycombinator.com/user?id=Trystan02123</uri>
         </author>
     </entry>
 </feed>
