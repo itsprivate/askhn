@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T20:34:59.492Z</updated>
+    <updated>2022-03-25T21:13:39.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在家用K8s集群上有哪些有趣的项目可以运行？]]></title>
+        <id>https://news.ycombinator.com/item?id=30807032</id>
+        <link href="https://news.ycombinator.com/item?id=30807032"/>
+        <updated>2022-03-25T21:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some fun projects to run on a home K8s cluster?]]></summary>
+        <author>
+            <name>nodesocket</name>
+            <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您是否在Truth Social面试过？]]></title>
+        <id>https://news.ycombinator.com/item?id=30806904</id>
+        <link href="https://news.ycombinator.com/item?id=30806904"/>
+        <updated>2022-03-25T20:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you interviewed at Truth Social?]]></summary>
+        <author>
+            <name>siskiyou</name>
+            <uri>https://news.ycombinator.com/user?id=siskiyou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么没有易于使用的高可用开源数据库？]]></title>
         <id>https://news.ycombinator.com/item?id=30806624</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>ammar_x</name>
             <uri>https://news.ycombinator.com/user?id=ammar_x</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给极客物理学家的书籍推荐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30646889</id>
-        <link href="https://news.ycombinator.com/item?id=30646889"/>
-        <updated>2022-03-11T22:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books Recommendations for a Geek Physicist?]]></summary>
-        <author>
-            <name>BrandoElFollito</name>
-            <uri>https://news.ycombinator.com/user?id=BrandoElFollito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你什么时候告诉雇主离开（归属悬崖）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30646461</id>
-        <link href="https://news.ycombinator.com/item?id=30646461"/>
-        <updated>2022-03-11T21:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When did you tell employer leaving (vesting cliff)?]]></summary>
-        <author>
-            <name>throw_vesting</name>
-            <uri>https://news.ycombinator.com/user?id=throw_vesting</uri>
         </author>
     </entry>
 </feed>
