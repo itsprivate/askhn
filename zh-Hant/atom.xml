@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T22:51:52.453Z</updated>
+    <updated>2022-03-25T23:13:05.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳SaaS模板？]]></title>
+        <id>https://news.ycombinator.com/item?id=30807759</id>
+        <link href="https://news.ycombinator.com/item?id=30807759"/>
+        <updated>2022-03-25T22:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best SaaS Boilerplate?]]></summary>
+        <author>
+            <name>siavosh</name>
+            <uri>https://news.ycombinator.com/user?id=siavosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼激發了你的敬畏之心？]]></title>
         <id>https://news.ycombinator.com/item?id=30807722</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需點擊一次的操作系統？]]></title>
-        <id>https://news.ycombinator.com/item?id=30647166</id>
-        <link href="https://news.ycombinator.com/item?id=30647166"/>
-        <updated>2022-03-11T22:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Single-Click Only OS?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
