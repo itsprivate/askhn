@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T02:14:35.233Z</updated>
+    <updated>2022-03-25T02:59:29.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大多数初创企业在不需要AWS时不是在浪费钱吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30798068</id>
+        <link href="https://news.ycombinator.com/item?id=30798068"/>
+        <updated>2022-03-25T02:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Aren't most startups wasting money on AWS when they don't need it?]]></summary>
+        <author>
+            <name>lifeplusplus</name>
+            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在工作中，什么是让你想辞职的开发者经验问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30797963</id>
+        <link href="https://news.ycombinator.com/item?id=30797963"/>
+        <updated>2022-03-25T02:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a developer experience issue at work that makes you want to quit?]]></summary>
+        <author>
+            <name>jamghee</name>
+            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么网络开发还没有发展到像移动/桌面应用开发那样？]]></title>
         <id>https://news.ycombinator.com/item?id=30797820</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>mclbdn</name>
             <uri>https://news.ycombinator.com/user?id=mclbdn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贵公司在今年的薪酬审查周期中是否考虑通货膨胀？]]></title>
-        <id>https://news.ycombinator.com/item?id=30635501</id>
-        <link href="https://news.ycombinator.com/item?id=30635501"/>
-        <updated>2022-03-11T02:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your company considering inflation in this year's comp review cycle?]]></summary>
-        <author>
-            <name>jurassic</name>
-            <uri>https://news.ycombinator.com/user?id=jurassic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否曾维修过你的车辆？]]></title>
-        <id>https://news.ycombinator.com/item?id=30635476</id>
-        <link href="https://news.ycombinator.com/item?id=30635476"/>
-        <updated>2022-03-11T02:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you ever service your vehicle?]]></summary>
-        <author>
-            <name>hondacity</name>
-            <uri>https://news.ycombinator.com/user?id=hondacity</uri>
         </author>
     </entry>
 </feed>
