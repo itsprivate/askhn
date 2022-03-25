@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T04:58:59.745Z</updated>
+    <updated>2022-03-25T05:12:01.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[興趣愛好和保持思維的方法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30798819</id>
+        <link href="https://news.ycombinator.com/item?id=30798819"/>
+        <updated>2022-03-25T05:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hobbies and ways to keep the mind engaged?]]></summary>
+        <author>
+            <name>drekipus</name>
+            <uri>https://news.ycombinator.com/user?id=drekipus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows與Linux的穩定性，你有什麼經驗]]></title>
         <id>https://news.ycombinator.com/item?id=30798756</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>iamyatin</name>
             <uri>https://news.ycombinator.com/user?id=iamyatin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何記錄日常任務的]]></title>
-        <id>https://news.ycombinator.com/item?id=30637155</id>
-        <link href="https://news.ycombinator.com/item?id=30637155"/>
-        <updated>2022-03-11T07:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you keep track of daily tasks]]></summary>
-        <author>
-            <name>vrisha</name>
-            <uri>https://news.ycombinator.com/user?id=vrisha</uri>
         </author>
     </entry>
 </feed>
