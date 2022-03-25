@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 25 Mar 2022 15:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 16:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Android的IVR應用程序？]]></title>
+            <link>https://news.ycombinator.com/item?id=30803820</link>
+            <guid>https://news.ycombinator.com/item?id=30803820</guid>
+            <pubDate>Fri, 25 Mar 2022 16:02:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: IVR App for Android?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌的人是否使用谷歌的東西]]></title>
+            <link>https://news.ycombinator.com/item?id=30803775</link>
+            <guid>https://news.ycombinator.com/item?id=30803775</guid>
+            <pubDate>Fri, 25 Mar 2022 16:00:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do people at Google use Google things]]></description>
+        </item>
         <item>
             <title><![CDATA[在家制作PCB的最佳選擇？]]></title>
             <link>https://news.ycombinator.com/item?id=30803626</link>
@@ -4197,20 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30643705</guid>
             <pubDate>Fri, 11 Mar 2022 18:11:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Video chat apps that don't mute crosstalk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN現在是一個政治平臺嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30643673</link>
-            <guid>https://news.ycombinator.com/item?id=30643673</guid>
-            <pubDate>Fri, 11 Mar 2022 18:09:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is HN now a political platform?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[難道不應該是hnmain { min-width: 720px; }？]]></title>
-            <link>https://news.ycombinator.com/item?id=30643273</link>
-            <guid>https://news.ycombinator.com/item?id=30643273</guid>
-            <pubDate>Fri, 11 Mar 2022 17:44:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Shouldn't it be hnmain { min-width: 720px; }?]]></description>
         </item>
     </channel>
 </rss>

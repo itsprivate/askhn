@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T15:58:33.041Z</updated>
+    <updated>2022-03-25T16:17:11.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Android的IVR应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30803820</id>
+        <link href="https://news.ycombinator.com/item?id=30803820"/>
+        <updated>2022-03-25T16:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: IVR App for Android?]]></summary>
+        <author>
+            <name>mgarciaisaia</name>
+            <uri>https://news.ycombinator.com/user?id=mgarciaisaia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌的人是否使用谷歌的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30803775</id>
+        <link href="https://news.ycombinator.com/item?id=30803775"/>
+        <updated>2022-03-25T16:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do people at Google use Google things]]></summary>
+        <author>
+            <name>l2silver</name>
+            <uri>https://news.ycombinator.com/user?id=l2silver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家制作PCB的最佳选择？]]></title>
         <id>https://news.ycombinator.com/item?id=30803626</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>hammock</name>
             <uri>https://news.ycombinator.com/user?id=hammock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN现在是一个政治平台吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30643673</id>
-        <link href="https://news.ycombinator.com/item?id=30643673"/>
-        <updated>2022-03-11T18:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is HN now a political platform?]]></summary>
-        <author>
-            <name>snird</name>
-            <uri>https://news.ycombinator.com/user?id=snird</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[难道不应该是hnmain { min-width: 720px; }？]]></title>
-        <id>https://news.ycombinator.com/item?id=30643273</id>
-        <link href="https://news.ycombinator.com/item?id=30643273"/>
-        <updated>2022-03-11T17:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Shouldn't it be hnmain { min-width: 720px; }?]]></summary>
-        <author>
-            <name>momenti</name>
-            <uri>https://news.ycombinator.com/user?id=momenti</uri>
         </author>
     </entry>
 </feed>
