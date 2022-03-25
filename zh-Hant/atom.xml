@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T16:53:45.661Z</updated>
+    <updated>2022-03-25T17:37:13.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當不一致的用戶界面讓你感覺要跌倒時的名稱]]></title>
+        <id>https://news.ycombinator.com/item?id=30804824</id>
+        <link href="https://news.ycombinator.com/item?id=30804824"/>
+        <updated>2022-03-25T17:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Name of when inconsistent UI makes you feel like youre about to stumble]]></summary>
+        <author>
+            <name>clankyclanker</name>
+            <uri>https://news.ycombinator.com/user?id=clankyclanker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[命令行標誌？]]></title>
+        <id>https://news.ycombinator.com/item?id=30804792</id>
+        <link href="https://news.ycombinator.com/item?id=30804792"/>
+        <updated>2022-03-25T17:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Command line flags?]]></summary>
+        <author>
+            <name>kashav</name>
+            <uri>https://news.ycombinator.com/user?id=kashav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件工程師的職業指導？]]></title>
         <id>https://news.ycombinator.com/item?id=30804203</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>megraf</name>
             <uri>https://news.ycombinator.com/user?id=megraf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到親自參加的會議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30644748</id>
-        <link href="https://news.ycombinator.com/item?id=30644748"/>
-        <updated>2022-03-11T19:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Find in Person Conferences?]]></summary>
-        <author>
-            <name>hahnchen</name>
-            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌圖書是否限制了書內搜索？]]></title>
-        <id>https://news.ycombinator.com/item?id=30644547</id>
-        <link href="https://news.ycombinator.com/item?id=30644547"/>
-        <updated>2022-03-11T19:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Google Books restricted in-book search?]]></summary>
-        <author>
-            <name>gxqoz</name>
-            <uri>https://news.ycombinator.com/user?id=gxqoz</uri>
         </author>
     </entry>
 </feed>
