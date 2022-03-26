@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Mar 2022 09:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼沒有任何真正的替代品來替代Electron？]]></title>
+            <link>https://news.ycombinator.com/item?id=30810724</link>
+            <guid>https://news.ycombinator.com/item?id=30810724</guid>
+            <pubDate>Sat, 26 Mar 2022 10:44:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why aren't there any real alternatives to Electron?]]></description>
+        </item>
         <item>
             <title><![CDATA[我應該偽造博文的發表日期/時間嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30810427</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30652084</guid>
             <pubDate>Sat, 12 Mar 2022 15:39:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Banned and Unbanned by YouTube Repeatedly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在2022年，什麼是最經濟和可擴展的視頻託管方式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30652075</link>
-            <guid>https://news.ycombinator.com/item?id=30652075</guid>
-            <pubDate>Sat, 12 Mar 2022 15:38:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the most economic and scalable way to host videos in 2022?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T09:31:25.408Z</updated>
+    <updated>2022-03-26T10:51:31.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么没有任何真正的替代品来替代Electron？]]></title>
+        <id>https://news.ycombinator.com/item?id=30810724</id>
+        <link href="https://news.ycombinator.com/item?id=30810724"/>
+        <updated>2022-03-26T10:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't there any real alternatives to Electron?]]></summary>
+        <author>
+            <name>tentacleuno</name>
+            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该伪造博文的发表日期/时间吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30810427</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>RichardHeart</name>
             <uri>https://news.ycombinator.com/user?id=RichardHeart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年，什么是最经济和可扩展的视频托管方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30652075</id>
-        <link href="https://news.ycombinator.com/item?id=30652075"/>
-        <updated>2022-03-12T15:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most economic and scalable way to host videos in 2022?]]></summary>
-        <author>
-            <name>iainctduncan</name>
-            <uri>https://news.ycombinator.com/user?id=iainctduncan</uri>
         </author>
     </entry>
 </feed>
