@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Mar 2022 20:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 21:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你听什么音乐？]]></title>
+            <link>https://news.ycombinator.com/item?id=30815355</link>
+            <guid>https://news.ycombinator.com/item?id=30815355</guid>
+            <pubDate>Sat, 26 Mar 2022 21:04:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What music do you listen to?]]></description>
+        </item>
         <item>
             <title><![CDATA[有哪些写得好的HTML和CSS网站的可靠例子？]]></title>
             <link>https://news.ycombinator.com/item?id=30815217</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30656675</guid>
             <pubDate>Sun, 13 Mar 2022 00:41:53 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you deal with out of sync comments?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有手机硬件的caniuse吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30656671</link>
-            <guid>https://news.ycombinator.com/item?id=30656671</guid>
-            <pubDate>Sun, 13 Mar 2022 00:41:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a caniuse for mobile phone hardware?]]></description>
         </item>
     </channel>
 </rss>
