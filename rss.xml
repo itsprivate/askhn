@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Mar 2022 08:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 09:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我应该伪造博文的发表日期/时间吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30810427</link>
+            <guid>https://news.ycombinator.com/item?id=30810427</guid>
+            <pubDate>Sat, 26 Mar 2022 09:24:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should I fake a blog posts published date/time?]]></description>
+        </item>
         <item>
             <title><![CDATA[功能请求。收藏的类别]]></title>
             <link>https://news.ycombinator.com/item?id=30810252</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30652075</guid>
             <pubDate>Sat, 12 Mar 2022 15:38:46 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the most economic and scalable way to host videos in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对高级工程师的知识要求是否变得太多？]]></title>
-            <link>https://news.ycombinator.com/item?id=30651135</link>
-            <guid>https://news.ycombinator.com/item?id=30651135</guid>
-            <pubDate>Sat, 12 Mar 2022 13:19:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are knowledge-requirements for senior engineers becoming too much?]]></description>
         </item>
     </channel>
 </rss>
