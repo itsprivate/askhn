@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T00:39:15.977Z</updated>
+    <updated>2022-03-26T02:16:09.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌使用YouTube作为2FA，即使我已经签出。]]></title>
+        <id>https://news.ycombinator.com/item?id=30808628</id>
+        <link href="https://news.ycombinator.com/item?id=30808628"/>
+        <updated>2022-03-26T01:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google using YouTube as 2FA even though I’m signed out]]></summary>
+        <author>
+            <name>u2077</name>
+            <uri>https://news.ycombinator.com/user?id=u2077</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么IT职业能带来金钱，而不是让公司花钱？]]></title>
+        <id>https://news.ycombinator.com/item?id=30808314</id>
+        <link href="https://news.ycombinator.com/item?id=30808314"/>
+        <updated>2022-03-26T00:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What IT careers brings in money rather than cost a company money?]]></summary>
+        <author>
+            <name>WheelsAtLarge</name>
+            <uri>https://news.ycombinator.com/user?id=WheelsAtLarge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用波浪发电封存碳？]]></title>
         <id>https://news.ycombinator.com/item?id=30808265</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>readonthegoapp</name>
             <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[版权律师的无偿建议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30649692</id>
-        <link href="https://news.ycombinator.com/item?id=30649692"/>
-        <updated>2022-03-12T07:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pro bono advice from copyright lawyer?]]></summary>
-        <author>
-            <name>belousovdmn</name>
-            <uri>https://news.ycombinator.com/user?id=belousovdmn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么电子邮件过滤器来处理创始人的垃圾邮件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30648287</id>
-        <link href="https://news.ycombinator.com/item?id=30648287"/>
-        <updated>2022-03-12T02:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What email filters do you use for founder-spam?]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
         </author>
     </entry>
 </feed>
