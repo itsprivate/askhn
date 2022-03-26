@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T14:37:00.458Z</updated>
+    <updated>2022-03-26T16:45:23.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們對利潤徵稅而不對虧損徵稅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30813209</id>
+        <link href="https://news.ycombinator.com/item?id=30813209"/>
+        <updated>2022-03-26T16:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do we tax profits and not losses?]]></summary>
+        <author>
+            <name>daenz</name>
+            <uri>https://news.ycombinator.com/user?id=daenz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你曾因某種原因而拒絕的最佳機會是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30812127</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>2bitlobster</name>
             <uri>https://news.ycombinator.com/user?id=2bitlobster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[影子禁制是如何工作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30655096</id>
-        <link href="https://news.ycombinator.com/item?id=30655096"/>
-        <updated>2022-03-12T21:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Does Shadowbanning Work?]]></summary>
-        <author>
-            <name>newbie789_rereg</name>
-            <uri>https://news.ycombinator.com/user?id=newbie789_rereg</uri>
         </author>
     </entry>
 </feed>
