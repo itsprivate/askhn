@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T19:26:06.851Z</updated>
+    <updated>2022-03-26T20:13:09.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何从被解雇中恢复过来的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30814451</id>
+        <link href="https://news.ycombinator.com/item?id=30814451"/>
+        <updated>2022-03-26T19:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How have you recovered from being fired?]]></summary>
+        <author>
+            <name>nobodyim2</name>
+            <uri>https://news.ycombinator.com/user?id=nobodyim2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不需要互联网的IP摄像机？]]></title>
         <id>https://news.ycombinator.com/item?id=30814426</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>dano</name>
             <uri>https://news.ycombinator.com/user?id=dano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写代码注释时最令人讨厌的部分是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30656276</id>
-        <link href="https://news.ycombinator.com/item?id=30656276"/>
-        <updated>2022-03-12T23:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the most annoying part about writing code comments?]]></summary>
-        <author>
-            <name>Nevin1901</name>
-            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
         </author>
     </entry>
 </feed>
