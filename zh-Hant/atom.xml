@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T14:29:14.360Z</updated>
+    <updated>2022-03-26T14:37:00.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你曾因某種原因而拒絕的最佳機會是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30812127</id>
+        <link href="https://news.ycombinator.com/item?id=30812127"/>
+        <updated>2022-03-26T14:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best opportunity you had to decline, for 1 reason or another?]]></summary>
+        <author>
+            <name>Victerius</name>
+            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當競爭者報名參加你的服務時，你會怎麼做？]]></title>
+        <id>https://news.ycombinator.com/item?id=30812066</id>
+        <link href="https://news.ycombinator.com/item?id=30812066"/>
+        <updated>2022-03-26T14:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do when competition signs up for your service?]]></summary>
+        <author>
+            <name>nyellin</name>
+            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube - 你對 "短褲 "功能有什麼看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30812054</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>newbie789_rereg</name>
             <uri>https://news.ycombinator.com/user?id=newbie789_rereg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫作軟件--是無聊還是我無聊？]]></title>
-        <id>https://news.ycombinator.com/item?id=30654719</id>
-        <link href="https://news.ycombinator.com/item?id=30654719"/>
-        <updated>2022-03-12T20:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Writing Software – Is it boring or am I bored?]]></summary>
-        <author>
-            <name>pirminj</name>
-            <uri>https://news.ycombinator.com/user?id=pirminj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[算法的專業實施]]></title>
-        <id>https://news.ycombinator.com/item?id=30652858</id>
-        <link href="https://news.ycombinator.com/item?id=30652858"/>
-        <updated>2022-03-12T17:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Professional Implementations of Algorithms]]></summary>
-        <author>
-            <name>canaus</name>
-            <uri>https://news.ycombinator.com/user?id=canaus</uri>
         </author>
     </entry>
 </feed>
