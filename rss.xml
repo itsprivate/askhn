@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 26 Mar 2022 04:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 07:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个更好的方法来组织我的研究]]></title>
+            <link>https://news.ycombinator.com/item?id=30809902</link>
+            <guid>https://news.ycombinator.com/item?id=30809902</guid>
+            <pubDate>Sat, 26 Mar 2022 07:08:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: A better way to organize my research]]></description>
+        </item>
         <item>
             <title><![CDATA[不做饭、不打扫卫生，怎么吃得起？]]></title>
             <link>https://news.ycombinator.com/item?id=30809129</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30650546</guid>
             <pubDate>Sat, 12 Mar 2022 10:58:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Examples of sites that use ActionText with Trix editor?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有了SSH的VS Code，为什么还要用Vim？]]></title>
-            <link>https://news.ycombinator.com/item?id=30650119</link>
-            <guid>https://news.ycombinator.com/item?id=30650119</guid>
-            <pubDate>Sat, 12 Mar 2022 09:10:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why Vim when you can VS Code with SSH?]]></description>
         </item>
     </channel>
 </rss>
