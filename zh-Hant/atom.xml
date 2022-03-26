@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T20:13:09.263Z</updated>
+    <updated>2022-03-26T20:52:10.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些寫得好的HTML和CSS網站的可靠例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30815217</id>
+        <link href="https://news.ycombinator.com/item?id=30815217"/>
+        <updated>2022-03-26T20:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are solid examples of well written HTML and CSS websites?]]></summary>
+        <author>
+            <name>epolanski</name>
+            <uri>https://news.ycombinator.com/user?id=epolanski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何從被解僱中恢復過來的？]]></title>
         <id>https://news.ycombinator.com/item?id=30814451</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gitgud</name>
             <uri>https://news.ycombinator.com/user?id=gitgud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MQTT的蜂窩數據選項]]></title>
-        <id>https://news.ycombinator.com/item?id=30656413</id>
-        <link href="https://news.ycombinator.com/item?id=30656413"/>
-        <updated>2022-03-13T00:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cellular Data Options for MQTT]]></summary>
-        <author>
-            <name>dano</name>
-            <uri>https://news.ycombinator.com/user?id=dano</uri>
         </author>
     </entry>
 </feed>
