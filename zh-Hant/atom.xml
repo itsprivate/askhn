@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T21:12:30.894Z</updated>
+    <updated>2022-03-26T21:38:53.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何類似的書：從歐姆定律到8位計算機]]></title>
+        <id>https://news.ycombinator.com/item?id=30815536</id>
+        <link href="https://news.ycombinator.com/item?id=30815536"/>
+        <updated>2022-03-26T21:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any book like: from ohms law to 8 bit computer]]></summary>
+        <author>
+            <name>deepbluesome</name>
+            <uri>https://news.ycombinator.com/user?id=deepbluesome</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你聽什麼音樂？]]></title>
         <id>https://news.ycombinator.com/item?id=30815355</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理不同步的評論？]]></title>
-        <id>https://news.ycombinator.com/item?id=30656675</id>
-        <link href="https://news.ycombinator.com/item?id=30656675"/>
-        <updated>2022-03-13T00:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with out of sync comments?]]></summary>
-        <author>
-            <name>Nevin1901</name>
-            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
         </author>
     </entry>
 </feed>
