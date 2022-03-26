@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-25T23:13:05.657Z</updated>
+    <updated>2022-03-26T00:39:15.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用波浪发电封存碳？]]></title>
+        <id>https://news.ycombinator.com/item?id=30808265</id>
+        <link href="https://news.ycombinator.com/item?id=30808265"/>
+        <updated>2022-03-26T00:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Sequester Carbon with Wave Power?]]></summary>
+        <author>
+            <name>ncmncm</name>
+            <uri>https://news.ycombinator.com/user?id=ncmncm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳SaaS模板？]]></title>
         <id>https://news.ycombinator.com/item?id=30807759</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gnicholas</name>
             <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么西方自信帮助乌克兰不会引发第三次世界大战？]]></title>
-        <id>https://news.ycombinator.com/item?id=30648124</id>
-        <link href="https://news.ycombinator.com/item?id=30648124"/>
-        <updated>2022-03-12T01:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the West confident that helping Ukraine won't trigger WW III?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
