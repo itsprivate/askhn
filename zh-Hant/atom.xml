@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T17:42:15.318Z</updated>
+    <updated>2022-03-27T18:14:10.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪本書能吸引任何人走向你的研究領域？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822339</id>
+        <link href="https://news.ycombinator.com/item?id=30822339"/>
+        <updated>2022-03-27T17:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which book can attract anyone towards your field of study?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼 Discord 服務器被稱為 "服務器"？]]></title>
         <id>https://news.ycombinator.com/item?id=30822168</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>amts</name>
             <uri>https://news.ycombinator.com/user?id=amts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我要求提供HN上發表的一篇個人發展文章的鏈接。]]></title>
-        <id>https://news.ycombinator.com/item?id=30664452</id>
-        <link href="https://news.ycombinator.com/item?id=30664452"/>
-        <updated>2022-03-13T18:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I ask for the link of an article of personal development published on HN]]></summary>
-        <author>
-            <name>kahon65</name>
-            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
         </author>
     </entry>
 </feed>
