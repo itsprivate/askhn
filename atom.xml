@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T12:50:11.076Z</updated>
+    <updated>2022-03-27T13:08:04.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么在Chrome浏览器中，pdf输出的大小如此之大（与Safari相比）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30819896</id>
+        <link href="https://news.ycombinator.com/item?id=30819896"/>
+        <updated>2022-03-27T13:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why size of pdf output is so large in Chrome (versus Safari)?]]></summary>
+        <author>
+            <name>bbby</name>
+            <uri>https://news.ycombinator.com/user?id=bbby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么没有一个谷歌的竞争对手出现？]]></title>
         <id>https://news.ycombinator.com/item?id=30819678</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>mahathu</name>
             <uri>https://news.ycombinator.com/user?id=mahathu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么教育家认为目前的教育系统是好的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30661426</id>
-        <link href="https://news.ycombinator.com/item?id=30661426"/>
-        <updated>2022-03-13T14:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why educator think the current education system is good?]]></summary>
-        <author>
-            <name>nguyenlehoang</name>
-            <uri>https://news.ycombinator.com/user?id=nguyenlehoang</uri>
         </author>
     </entry>
 </feed>
