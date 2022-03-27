@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T22:41:47.092Z</updated>
+    <updated>2022-03-27T23:13:07.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[城市的人口上限，一个思想实验]]></title>
+        <id>https://news.ycombinator.com/item?id=30825037</id>
+        <link href="https://news.ycombinator.com/item?id=30825037"/>
+        <updated>2022-03-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Capping population for cities, a thought experiment]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个工作地点，一个副业项目，一个技术栈？]]></title>
+        <id>https://news.ycombinator.com/item?id=30824964</id>
+        <link href="https://news.ycombinator.com/item?id=30824964"/>
+        <updated>2022-03-27T22:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: One place of work, one side project, one tech stack?]]></summary>
+        <author>
+            <name>StreamRelated</name>
+            <uri>https://news.ycombinator.com/user?id=StreamRelated</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官有什么好的方法来剔除那些研磨LeetCode的人？]]></title>
         <id>https://news.ycombinator.com/item?id=30824820</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>MichaelRazum</name>
             <uri>https://news.ycombinator.com/user?id=MichaelRazum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着你年龄的增长，你是否认为编程仅仅是达到目的的一种手段？]]></title>
-        <id>https://news.ycombinator.com/item?id=30666030</id>
-        <link href="https://news.ycombinator.com/item?id=30666030"/>
-        <updated>2022-03-13T21:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: As you get older, do you see programming as merely a means to an end?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与用户交谈时，最令人讨厌的部分是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30665594</id>
-        <link href="https://news.ycombinator.com/item?id=30665594"/>
-        <updated>2022-03-13T20:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the most annoying part about talking to users?]]></summary>
-        <author>
-            <name>Nevin1901</name>
-            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
         </author>
     </entry>
 </feed>
