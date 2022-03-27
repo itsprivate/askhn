@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T04:14:30.735Z</updated>
+    <updated>2022-03-27T05:37:24.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[社交网络的算法应该公开吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30817947</id>
+        <link href="https://news.ycombinator.com/item?id=30817947"/>
+        <updated>2022-03-27T05:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should social network algorithms be publicly available?]]></summary>
+        <author>
+            <name>nnurmanov</name>
+            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么微软在设计一致性方面做得不好？]]></title>
         <id>https://news.ycombinator.com/item?id=30817570</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jackfruit2</name>
             <uri>https://news.ycombinator.com/user?id=jackfruit2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓系统的语音备忘录解决方案，可同时进行音频和语音转文本]]></title>
-        <id>https://news.ycombinator.com/item?id=30658352</id>
-        <link href="https://news.ycombinator.com/item?id=30658352"/>
-        <updated>2022-03-13T05:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A Voice Memo solution for Android that does both audio and voice to text]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
