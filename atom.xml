@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T07:36:43.225Z</updated>
+    <updated>2022-03-27T08:35:44.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何引导一个约会网站？]]></title>
+        <id>https://news.ycombinator.com/item?id=30818693</id>
+        <link href="https://news.ycombinator.com/item?id=30818693"/>
+        <updated>2022-03-27T08:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you bootstrap a dating site?]]></summary>
+        <author>
+            <name>orobanche</name>
+            <uri>https://news.ycombinator.com/user?id=orobanche</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活是如此的有规律，要安排15分钟的会议吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30818435</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jupiterelastica</name>
             <uri>https://news.ycombinator.com/user?id=jupiterelastica</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[催眠术有科学依据吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30659588</id>
-        <link href="https://news.ycombinator.com/item?id=30659588"/>
-        <updated>2022-03-13T09:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there scientific underpinnings for hypnosis?]]></summary>
-        <author>
-            <name>mettamage</name>
-            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
         </author>
     </entry>
 </feed>
