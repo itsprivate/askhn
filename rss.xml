@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Mar 2022 16:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 16:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你将如何建立一个用户内容的市场？]]></title>
+            <link>https://news.ycombinator.com/item?id=30821652</link>
+            <guid>https://news.ycombinator.com/item?id=30821652</guid>
+            <pubDate>Sun, 27 Mar 2022 16:41:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: How would you build a marketplace for user content?]]></description>
+        </item>
         <item>
             <title><![CDATA[对于WhoIsHiring公司的垃圾邮件/诈骗者，有什么好的方法可以紧急PSA？]]></title>
             <link>https://news.ycombinator.com/item?id=30821261</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30662609</guid>
             <pubDate>Sun, 13 Mar 2022 16:13:11 GMT</pubDate>
             <description><![CDATA[Ask HN: Continue learning Apache Spark after online course]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假的AA电池，或从目前的电池中排出酸液]]></title>
-            <link>https://news.ycombinator.com/item?id=30662242</link>
-            <guid>https://news.ycombinator.com/item?id=30662242</guid>
-            <pubDate>Sun, 13 Mar 2022 15:43:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Fake AA batteries, or drain acid from current ones]]></description>
         </item>
     </channel>
 </rss>

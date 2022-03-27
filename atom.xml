@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T16:14:51.139Z</updated>
+    <updated>2022-03-27T16:47:57.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你将如何建立一个用户内容的市场？]]></title>
+        <id>https://news.ycombinator.com/item?id=30821652</id>
+        <link href="https://news.ycombinator.com/item?id=30821652"/>
+        <updated>2022-03-27T16:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you build a marketplace for user content?]]></summary>
+        <author>
+            <name>hemmert</name>
+            <uri>https://news.ycombinator.com/user?id=hemmert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于WhoIsHiring公司的垃圾邮件/诈骗者，有什么好的方法可以紧急PSA？]]></title>
         <id>https://news.ycombinator.com/item?id=30821261</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rekx</name>
             <uri>https://news.ycombinator.com/user?id=rekx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假的AA电池，或从目前的电池中排出酸液]]></title>
-        <id>https://news.ycombinator.com/item?id=30662242</id>
-        <link href="https://news.ycombinator.com/item?id=30662242"/>
-        <updated>2022-03-13T15:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fake AA batteries, or drain acid from current ones]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
