@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T05:37:24.286Z</updated>
+    <updated>2022-03-27T07:30:03.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[商业支持的语言可以成为主导吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30818380</id>
+        <link href="https://news.ycombinator.com/item?id=30818380"/>
+        <updated>2022-03-27T07:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can commercial backed language can become dominant?]]></summary>
+        <author>
+            <name>rock_artist</name>
+            <uri>https://news.ycombinator.com/user?id=rock_artist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交网络的算法应该公开吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30817947</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>vasachi</name>
             <uri>https://news.ycombinator.com/user?id=vasachi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用有限责任公司来保护边际项目的知识产权]]></title>
-        <id>https://news.ycombinator.com/item?id=30658602</id>
-        <link href="https://news.ycombinator.com/item?id=30658602"/>
-        <updated>2022-03-13T06:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Using an LLC to protect side project IP]]></summary>
-        <author>
-            <name>jackfruit2</name>
-            <uri>https://news.ycombinator.com/user?id=jackfruit2</uri>
         </author>
     </entry>
 </feed>
