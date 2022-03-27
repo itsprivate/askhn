@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T12:17:27.443Z</updated>
+    <updated>2022-03-27T12:50:11.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么没有一个谷歌的竞争对手出现？]]></title>
+        <id>https://news.ycombinator.com/item?id=30819678</id>
+        <link href="https://news.ycombinator.com/item?id=30819678"/>
+        <updated>2022-03-27T12:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't there a Google competitor emerging?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在添加功能或修复错误之前，你如何搜索大型代码库？]]></title>
         <id>https://news.ycombinator.com/item?id=30819579</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>nguyenlehoang</name>
             <uri>https://news.ycombinator.com/user?id=nguyenlehoang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习K8s]]></title>
-        <id>https://news.ycombinator.com/item?id=30661042</id>
-        <link href="https://news.ycombinator.com/item?id=30661042"/>
-        <updated>2022-03-13T13:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Learn K8s]]></summary>
-        <author>
-            <name>lordonium</name>
-            <uri>https://news.ycombinator.com/user?id=lordonium</uri>
         </author>
     </entry>
 </feed>
