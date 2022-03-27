@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T20:51:12.964Z</updated>
+    <updated>2022-03-27T21:39:15.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么有些教会没有专门采取强有力的Covid措施？]]></title>
+        <id>https://news.ycombinator.com/item?id=30824334</id>
+        <link href="https://news.ycombinator.com/item?id=30824334"/>
+        <updated>2022-03-27T21:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why haven’t some churches specialized in strong Covid measures?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个SW开发员赚取14美元/小时是很常见的吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30823719</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>semicolonandson</name>
             <uri>https://news.ycombinator.com/user?id=semicolonandson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何计划和跟踪你的任务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30664898</id>
-        <link href="https://news.ycombinator.com/item?id=30664898"/>
-        <updated>2022-03-13T19:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you plan and track your tasks?]]></summary>
-        <author>
-            <name>aljgz</name>
-            <uri>https://news.ycombinator.com/user?id=aljgz</uri>
         </author>
     </entry>
 </feed>
