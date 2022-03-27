@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-26T21:38:53.846Z</updated>
+    <updated>2022-03-27T00:43:13.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn自动发送邀请函]]></title>
+        <id>https://news.ycombinator.com/item?id=30816464</id>
+        <link href="https://news.ycombinator.com/item?id=30816464"/>
+        <updated>2022-03-27T00:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: LinkedIn Sent Invitations Automatically]]></summary>
+        <author>
+            <name>jrwan</name>
+            <uri>https://news.ycombinator.com/user?id=jrwan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有谁记得开源的AWS成本探索器的名字吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30816335</id>
+        <link href="https://news.ycombinator.com/item?id=30816335"/>
+        <updated>2022-03-26T23:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone remember the name of the open source AWS cost explorer?]]></summary>
+        <author>
+            <name>throwaway87891</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway87891</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何类似的书：从欧姆定律到8位计算机]]></title>
         <id>https://news.ycombinator.com/item?id=30815536</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>kirso</name>
             <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[税收]]></title>
-        <id>https://news.ycombinator.com/item?id=30658196</id>
-        <link href="https://news.ycombinator.com/item?id=30658196"/>
-        <updated>2022-03-13T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Taxes]]></summary>
-        <author>
-            <name>iambateman</name>
-            <uri>https://news.ycombinator.com/user?id=iambateman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些创造性的方法可以作为w2节省所得税？]]></title>
-        <id>https://news.ycombinator.com/item?id=30657514</id>
-        <link href="https://news.ycombinator.com/item?id=30657514"/>
-        <updated>2022-03-13T03:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some creative ways to save on income taxes as w2?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
