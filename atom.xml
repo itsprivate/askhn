@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T00:43:13.001Z</updated>
+    <updated>2022-03-27T02:59:11.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从独立开发到企业工作的职业转换]]></title>
+        <id>https://news.ycombinator.com/item?id=30817294</id>
+        <link href="https://news.ycombinator.com/item?id=30817294"/>
+        <updated>2022-03-27T02:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Switching Career from Indie Dev to Corporate Jobs]]></summary>
+        <author>
+            <name>huckdx0</name>
+            <uri>https://news.ycombinator.com/user?id=huckdx0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LinkedIn自动发送邀请函]]></title>
         <id>https://news.ycombinator.com/item?id=30816464</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>speedylight</name>
             <uri>https://news.ycombinator.com/user?id=speedylight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你还在以编程为乐吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30658212</id>
-        <link href="https://news.ycombinator.com/item?id=30658212"/>
-        <updated>2022-03-13T05:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you still programming for fun?]]></summary>
-        <author>
-            <name>kirso</name>
-            <uri>https://news.ycombinator.com/user?id=kirso</uri>
         </author>
     </entry>
 </feed>
