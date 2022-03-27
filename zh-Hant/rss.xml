@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 27 Mar 2022 09:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 10:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[保持鉛酸蓄電池的健康]]></title>
+            <link>https://news.ycombinator.com/item?id=30819235</link>
+            <guid>https://news.ycombinator.com/item?id=30819235</guid>
+            <pubDate>Sun, 27 Mar 2022 10:41:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Keeping a lead-acid battery healthy]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何為我的企業確保域名？]]></title>
             <link>https://news.ycombinator.com/item?id=30818950</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30660350</guid>
             <pubDate>Sun, 13 Mar 2022 11:37:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Should I write a Help menu for my application?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[現在什麼是好的配置格式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30659869</link>
-            <guid>https://news.ycombinator.com/item?id=30659869</guid>
-            <pubDate>Sun, 13 Mar 2022 10:15:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is a good configuration format now a days?]]></description>
         </item>
     </channel>
 </rss>

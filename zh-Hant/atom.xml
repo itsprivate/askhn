@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T09:39:46.266Z</updated>
+    <updated>2022-03-27T10:51:33.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[保持鉛酸蓄電池的健康]]></title>
+        <id>https://news.ycombinator.com/item?id=30819235</id>
+        <link href="https://news.ycombinator.com/item?id=30819235"/>
+        <updated>2022-03-27T10:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Keeping a lead-acid battery healthy]]></summary>
+        <author>
+            <name>VariableStar</name>
+            <uri>https://news.ycombinator.com/user?id=VariableStar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何為我的企業確保域名？]]></title>
         <id>https://news.ycombinator.com/item?id=30818950</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>tentacleuno</name>
             <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在什麼是好的配置格式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30659869</id>
-        <link href="https://news.ycombinator.com/item?id=30659869"/>
-        <updated>2022-03-13T10:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is a good configuration format now a days?]]></summary>
-        <author>
-            <name>oldPete</name>
-            <uri>https://news.ycombinator.com/user?id=oldPete</uri>
         </author>
     </entry>
 </feed>
