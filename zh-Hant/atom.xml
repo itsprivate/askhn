@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T17:34:05.137Z</updated>
+    <updated>2022-03-27T17:42:15.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼 Discord 服務器被稱為 "服務器"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822168</id>
+        <link href="https://news.ycombinator.com/item?id=30822168"/>
+        <updated>2022-03-27T17:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are Discord servers called “servers”?]]></summary>
+        <author>
+            <name>ZYinMD</name>
+            <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未加密網絡的有力論據？]]></title>
         <id>https://news.ycombinator.com/item?id=30822110</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>kahon65</name>
             <uri>https://news.ycombinator.com/user?id=kahon65</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輪迴之間的安全注意事項]]></title>
-        <id>https://news.ycombinator.com/item?id=30663981</id>
-        <link href="https://news.ycombinator.com/item?id=30663981"/>
-        <updated>2022-03-13T18:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Safe Note Between Rounds]]></summary>
-        <author>
-            <name>cjbenedikt</name>
-            <uri>https://news.ycombinator.com/user?id=cjbenedikt</uri>
         </author>
     </entry>
 </feed>
