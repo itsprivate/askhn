@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T21:39:15.217Z</updated>
+    <updated>2022-03-27T21:52:11.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对*下一个web UI框架有什么期望？]]></title>
+        <id>https://news.ycombinator.com/item?id=30824387</id>
+        <link href="https://news.ycombinator.com/item?id=30824387"/>
+        <updated>2022-03-27T21:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your expectations for *next* web UI framework?]]></summary>
+        <author>
+            <name>bartq</name>
+            <uri>https://news.ycombinator.com/user?id=bartq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么有些教会没有专门采取强有力的Covid措施？]]></title>
         <id>https://news.ycombinator.com/item?id=30824334</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rgbrgb</name>
             <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何帮助工程团队就最佳实践达成共识？]]></title>
-        <id>https://news.ycombinator.com/item?id=30664984</id>
-        <link href="https://news.ycombinator.com/item?id=30664984"/>
-        <updated>2022-03-13T19:44:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to help an engineering team come to a consensus on best practices?]]></summary>
-        <author>
-            <name>semicolonandson</name>
-            <uri>https://news.ycombinator.com/user?id=semicolonandson</uri>
         </author>
     </entry>
 </feed>
