@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T18:14:10.288Z</updated>
+    <updated>2022-03-27T18:37:39.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[会所发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822682</id>
+        <link href="https://news.ycombinator.com/item?id=30822682"/>
+        <updated>2022-03-27T18:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Clubhouse?]]></summary>
+        <author>
+            <name>shamoo</name>
+            <uri>https://news.ycombinator.com/user?id=shamoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪本书能吸引任何人走向你的研究领域？]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>evo_9</name>
             <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Python与.js构建网站有什么区别？]]></title>
-        <id>https://news.ycombinator.com/item?id=30664603</id>
-        <link href="https://news.ycombinator.com/item?id=30664603"/>
-        <updated>2022-03-13T19:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the difference in building website with Python vs .js?]]></summary>
-        <author>
-            <name>amts</name>
-            <uri>https://news.ycombinator.com/user?id=amts</uri>
         </author>
     </entry>
 </feed>
