@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-27T17:02:26.861Z</updated>
+    <updated>2022-03-27T17:34:05.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未加密網絡的有力論據？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822110</id>
+        <link href="https://news.ycombinator.com/item?id=30822110"/>
+        <updated>2022-03-27T17:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Strong Arguments for Unencrypted Networks?]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一種服務，預約的保證金？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822045</id>
+        <link href="https://news.ycombinator.com/item?id=30822045"/>
+        <updated>2022-03-27T17:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Security deposit for appointment reservation as a service?]]></summary>
+        <author>
+            <name>cf141q5325</name>
+            <uri>https://news.ycombinator.com/user?id=cf141q5325</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有動物打孩子的例子？]]></title>
         <id>https://news.ycombinator.com/item?id=30821808</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>cjbenedikt</name>
             <uri>https://news.ycombinator.com/user?id=cjbenedikt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只有政治邊界而沒有社會邊界是否應該有幫助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30663611</id>
-        <link href="https://news.ycombinator.com/item?id=30663611"/>
-        <updated>2022-03-13T17:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should having just political borders and no social borders help?]]></summary>
-        <author>
-            <name>m33k44</name>
-            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最可靠的現代冰箱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30663363</id>
-        <link href="https://news.ycombinator.com/item?id=30663363"/>
-        <updated>2022-03-13T17:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Most Reliable Modern Refrigerator?]]></summary>
-        <author>
-            <name>wellthisisgreat</name>
-            <uri>https://news.ycombinator.com/user?id=wellthisisgreat</uri>
         </author>
     </entry>
 </feed>
