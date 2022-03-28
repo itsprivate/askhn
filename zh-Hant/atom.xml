@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T21:33:05.068Z</updated>
+    <updated>2022-03-28T22:14:21.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在谷歌賬戶中添加了Yubikey，Chrome瀏覽器每週都會清除cookies。]]></title>
+        <id>https://news.ycombinator.com/item?id=30835965</id>
+        <link href="https://news.ycombinator.com/item?id=30835965"/>
+        <updated>2022-03-28T21:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Added Yubikey to Google account and Chrome clears cookies weekly]]></summary>
+        <author>
+            <name>yubikeychrome</name>
+            <uri>https://news.ycombinator.com/user?id=yubikeychrome</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找保守的聯合創始人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30835764</id>
+        <link href="https://news.ycombinator.com/item?id=30835764"/>
+        <updated>2022-03-28T21:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for Conservative Cofounder?]]></summary>
+        <author>
+            <name>Mytilena</name>
+            <uri>https://news.ycombinator.com/user?id=Mytilena</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid突變發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30835812</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>JustARandomGuy</name>
             <uri>https://news.ycombinator.com/user?id=JustARandomGuy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三方支付系統怎麼還存在呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30677233</id>
-        <link href="https://news.ycombinator.com/item?id=30677233"/>
-        <updated>2022-03-14T19:44:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How come 3rd party payment systems still exist?]]></summary>
-        <author>
-            <name>pjdorrell</name>
-            <uri>https://news.ycombinator.com/user?id=pjdorrell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發商尋求具有成熟市場的聯合創始人]]></title>
-        <id>https://news.ycombinator.com/item?id=30677138</id>
-        <link href="https://news.ycombinator.com/item?id=30677138"/>
-        <updated>2022-03-14T19:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Developer Seeks Co-Founder with Proven Market]]></summary>
-        <author>
-            <name>dizzydiz</name>
-            <uri>https://news.ycombinator.com/user?id=dizzydiz</uri>
         </author>
     </entry>
 </feed>
