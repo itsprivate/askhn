@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T17:53:09.956Z</updated>
+    <updated>2022-03-28T18:40:27.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Levels是如何处理NomadList的这么多负面公关的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30833823</id>
+        <link href="https://news.ycombinator.com/item?id=30833823"/>
+        <updated>2022-03-28T18:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Levels handle so much negative PR for NomadList?]]></summary>
+        <author>
+            <name>buf</name>
+            <uri>https://news.ycombinator.com/user?id=buf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo对StackOverflow的结果好吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30833797</id>
+        <link href="https://news.ycombinator.com/item?id=30833797"/>
+        <updated>2022-03-28T18:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is DuckDuckGo good for StackOverflow results?]]></summary>
+        <author>
+            <name>Kalanos</name>
+            <uri>https://news.ycombinator.com/user?id=Kalanos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于做过兼职博士的人，你有什么建议吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30833304</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>lkrubner</name>
             <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么多城市航班查询系统？]]></title>
-        <id>https://news.ycombinator.com/item?id=30673193</id>
-        <link href="https://news.ycombinator.com/item?id=30673193"/>
-        <updated>2022-03-14T14:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What multi-city flight finder do you use?]]></summary>
-        <author>
-            <name>jcuenod</name>
-            <uri>https://news.ycombinator.com/user?id=jcuenod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诈骗分子如何伪造手机号码？]]></title>
-        <id>https://news.ycombinator.com/item?id=30673009</id>
-        <link href="https://news.ycombinator.com/item?id=30673009"/>
-        <updated>2022-03-14T14:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can scam callers fake a mobile phone number?]]></summary>
-        <author>
-            <name>fxtentacle</name>
-            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
         </author>
     </entry>
 </feed>
