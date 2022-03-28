@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T13:25:43.019Z</updated>
+    <updated>2022-03-28T13:52:30.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[刚才HN倒下了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30830393</id>
+        <link href="https://news.ycombinator.com/item?id=30830393"/>
+        <updated>2022-03-28T13:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did HN go down just now?]]></summary>
+        <author>
+            <name>0des</name>
+            <uri>https://news.ycombinator.com/user?id=0des</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁的物品被无故从FB市场上删除？]]></title>
         <id>https://news.ycombinator.com/item?id=30830147</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>goscript</name>
             <uri>https://news.ycombinator.com/user?id=goscript</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据管道/堆栈图工具的推荐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30669488</id>
-        <link href="https://news.ycombinator.com/item?id=30669488"/>
-        <updated>2022-03-14T07:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendation for data pipeline / stack diagram tool?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
