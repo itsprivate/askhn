@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T22:14:21.737Z</updated>
+    <updated>2022-03-28T22:43:20.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何防止内部用户对共享数据存储进行超载？]]></title>
+        <id>https://news.ycombinator.com/item?id=30836445</id>
+        <link href="https://news.ycombinator.com/item?id=30836445"/>
+        <updated>2022-03-28T22:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to prevent internal users from overloading shared data stores?]]></summary>
+        <author>
+            <name>staccatomeasure</name>
+            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了拥有完全的创作自由，你会靠全民基本收入生活吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30836430</id>
+        <link href="https://news.ycombinator.com/item?id=30836430"/>
+        <updated>2022-03-28T22:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you live on universal basic income to have total creative freedom?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在谷歌账户中添加了Yubikey，Chrome浏览器每周都会清除cookies。]]></title>
         <id>https://news.ycombinator.com/item?id=30835965</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>wcerfgba</name>
             <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的谷歌账户被黑了，谷歌说他们帮不上忙]]></title>
-        <id>https://news.ycombinator.com/item?id=30677471</id>
-        <link href="https://news.ycombinator.com/item?id=30677471"/>
-        <updated>2022-03-14T20:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: My Google account was hacked, Google says they can't help]]></summary>
-        <author>
-            <name>lululouise</name>
-            <uri>https://news.ycombinator.com/user?id=lululouise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有Coursera的工程师吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30677452</id>
-        <link href="https://news.ycombinator.com/item?id=30677452"/>
-        <updated>2022-03-14T20:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Coursera Engineers Available?]]></summary>
-        <author>
-            <name>JustARandomGuy</name>
-            <uri>https://news.ycombinator.com/user?id=JustARandomGuy</uri>
         </author>
     </entry>
 </feed>
