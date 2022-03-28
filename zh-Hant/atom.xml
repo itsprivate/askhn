@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T15:57:15.647Z</updated>
+    <updated>2022-03-28T17:09:12.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初級到中級相機用單反還是無反？]]></title>
+        <id>https://news.ycombinator.com/item?id=30832708</id>
+        <link href="https://news.ycombinator.com/item?id=30832708"/>
+        <updated>2022-03-28T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: DSLR or Mirrorless for a beginner-intermediate camera?]]></summary>
+        <author>
+            <name>uger</name>
+            <uri>https://news.ycombinator.com/user?id=uger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果俄羅斯採用BTC作為貨幣，會發生什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30831814</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於NLG（自然語言生成）的最佳書籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30670626</id>
-        <link href="https://news.ycombinator.com/item?id=30670626"/>
-        <updated>2022-03-14T10:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Books about NLG (Natural Language Generation)?]]></summary>
-        <author>
-            <name>pdevr</name>
-            <uri>https://news.ycombinator.com/user?id=pdevr</uri>
         </author>
     </entry>
 </feed>
