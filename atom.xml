@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T20:52:06.106Z</updated>
+    <updated>2022-03-28T21:12:30.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在我们的工作场所禁止使用Windows操作系统，这是否合理？]]></title>
+        <id>https://news.ycombinator.com/item?id=30835403</id>
+        <link href="https://news.ycombinator.com/item?id=30835403"/>
+        <updated>2022-03-28T20:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it reasonable to ban Windows OS from our workplace?]]></summary>
+        <author>
+            <name>WinterMount223</name>
+            <uri>https://news.ycombinator.com/user?id=WinterMount223</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在FAANG面试准备过程中关注SW和CS基础知识的技巧？]]></title>
         <id>https://news.ycombinator.com/item?id=30835295</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lumenwrites</name>
             <uri>https://news.ycombinator.com/user?id=lumenwrites</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个系统，使信息/更改不会丢失]]></title>
-        <id>https://news.ycombinator.com/item?id=30675150</id>
-        <link href="https://news.ycombinator.com/item?id=30675150"/>
-        <updated>2022-03-14T17:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A system so information/changes do not get lost]]></summary>
-        <author>
-            <name>patatino</name>
-            <uri>https://news.ycombinator.com/user?id=patatino</uri>
         </author>
     </entry>
 </feed>
