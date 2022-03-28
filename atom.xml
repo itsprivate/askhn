@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T08:40:33.559Z</updated>
+    <updated>2022-03-28T09:33:41.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人使用NFC智能戒指作为2FA设备吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30828740</id>
+        <link href="https://news.ycombinator.com/item?id=30828740"/>
+        <updated>2022-03-28T09:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using NFC smart rings as 2FA devices?]]></summary>
+        <author>
+            <name>ndsipa_pomu</name>
+            <uri>https://news.ycombinator.com/user?id=ndsipa_pomu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在国外雇用远程工人，如开发人员或作家？]]></title>
         <id>https://news.ycombinator.com/item?id=30828447</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rg111</name>
             <uri>https://news.ycombinator.com/user?id=rg111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[r/ProgrammerHumor为1.8米，/r/MachineLearning为2.3米，如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30667721</id>
-        <link href="https://news.ycombinator.com/item?id=30667721"/>
-        <updated>2022-03-14T01:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: r/ProgrammerHumor at 1.8m and /r/MachineLearning at 2.3m, how?]]></summary>
-        <author>
-            <name>servytor</name>
-            <uri>https://news.ycombinator.com/user?id=servytor</uri>
         </author>
     </entry>
 </feed>
