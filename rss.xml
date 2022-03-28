@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Mar 2022 18:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 19:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你会去哪些网站寻求娱乐？]]></title>
+            <link>https://news.ycombinator.com/item?id=30834242</link>
+            <guid>https://news.ycombinator.com/item?id=30834242</guid>
+            <pubDate>Mon, 28 Mar 2022 19:01:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: What websites do you go to for entertainment?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何解决内部整合问题的？]]></title>
             <link>https://news.ycombinator.com/item?id=30834017</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30673532</guid>
             <pubDate>Mon, 14 Mar 2022 15:26:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is Google blowing it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[收取加密货币（用Coinbase）来资助OSS？]]></title>
-            <link>https://news.ycombinator.com/item?id=30673393</link>
-            <guid>https://news.ycombinator.com/item?id=30673393</guid>
-            <pubDate>Mon, 14 Mar 2022 15:15:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: Receiving crypto(with Coinbase) to fund OSS?]]></description>
         </item>
     </channel>
 </rss>
