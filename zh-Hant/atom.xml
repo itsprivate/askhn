@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T18:40:27.799Z</updated>
+    <updated>2022-03-28T18:57:05.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何解決內部整合問題的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30834017</id>
+        <link href="https://news.ycombinator.com/item?id=30834017"/>
+        <updated>2022-03-28T18:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you solving internal integration?]]></summary>
+        <author>
+            <name>martypitt</name>
+            <uri>https://news.ycombinator.com/user?id=martypitt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Levels是如何處理NomadList的這麼多負面公關的？]]></title>
         <id>https://news.ycombinator.com/item?id=30833823</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hutzlibu</name>
             <uri>https://news.ycombinator.com/user?id=hutzlibu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼能讓Git像Subversion一樣流行嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30673282</id>
-        <link href="https://news.ycombinator.com/item?id=30673282"/>
-        <updated>2022-03-14T15:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can anything make Git as popular as Subversion?]]></summary>
-        <author>
-            <name>lkrubner</name>
-            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
         </author>
     </entry>
 </feed>

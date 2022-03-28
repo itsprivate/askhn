@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 28 Mar 2022 18:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 18:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何解決內部整合問題的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30834017</link>
+            <guid>https://news.ycombinator.com/item?id=30834017</guid>
+            <pubDate>Mon, 28 Mar 2022 18:42:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are you solving internal integration?]]></description>
+        </item>
         <item>
             <title><![CDATA[Levels是如何處理NomadList的這麼多負面公關的？]]></title>
             <link>https://news.ycombinator.com/item?id=30833823</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30673393</guid>
             <pubDate>Mon, 14 Mar 2022 15:15:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Receiving crypto(with Coinbase) to fund OSS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什麼能讓Git像Subversion一樣流行嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30673282</link>
-            <guid>https://news.ycombinator.com/item?id=30673282</guid>
-            <pubDate>Mon, 14 Mar 2022 15:05:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can anything make Git as popular as Subversion?]]></description>
         </item>
     </channel>
 </rss>
