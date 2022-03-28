@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T06:39:37.784Z</updated>
+    <updated>2022-03-28T07:30:41.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特上有人能分享威尔-史密斯打克里斯-洛克耳光时的数字吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30828020</id>
+        <link href="https://news.ycombinator.com/item?id=30828020"/>
+        <updated>2022-03-28T07:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can anyone at Twitter share numbers when Will Smith slapped Chris Rock]]></summary>
+        <author>
+            <name>crate_barre</name>
+            <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何不再对工作面试如此焦虑？]]></title>
         <id>https://news.ycombinator.com/item?id=30827696</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>readytoaskhn</name>
             <uri>https://news.ycombinator.com/user?id=readytoaskhn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京为什么要发动战争？]]></title>
-        <id>https://news.ycombinator.com/item?id=30667186</id>
-        <link href="https://news.ycombinator.com/item?id=30667186"/>
-        <updated>2022-03-14T00:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Putin start the war?]]></summary>
-        <author>
-            <name>ed_balls</name>
-            <uri>https://news.ycombinator.com/user?id=ed_balls</uri>
         </author>
     </entry>
 </feed>
