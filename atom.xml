@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T14:16:52.667Z</updated>
+    <updated>2022-03-28T14:31:36.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为开发人员提供简短的互动练习？]]></title>
+        <id>https://news.ycombinator.com/item?id=30830771</id>
+        <link href="https://news.ycombinator.com/item?id=30830771"/>
+        <updated>2022-03-28T14:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Short and interactive exercises for devs?]]></summary>
+        <author>
+            <name>deamanto</name>
+            <uri>https://news.ycombinator.com/user?id=deamanto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用反病毒程序？]]></title>
         <id>https://news.ycombinator.com/item?id=30830461</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>_448</name>
             <uri>https://news.ycombinator.com/user?id=_448</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何准备应对经济困难时期]]></title>
-        <id>https://news.ycombinator.com/item?id=30670110</id>
-        <link href="https://news.ycombinator.com/item?id=30670110"/>
-        <updated>2022-03-14T09:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I prepare for hard economic times]]></summary>
-        <author>
-            <name>xupybd</name>
-            <uri>https://news.ycombinator.com/user?id=xupybd</uri>
         </author>
     </entry>
 </feed>
