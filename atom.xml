@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T19:52:49.950Z</updated>
+    <updated>2022-03-28T20:52:06.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在FAANG面试准备过程中关注SW和CS基础知识的技巧？]]></title>
+        <id>https://news.ycombinator.com/item?id=30835295</id>
+        <link href="https://news.ycombinator.com/item?id=30835295"/>
+        <updated>2022-03-28T20:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tips for focusing on SW and CS fundamentals during FAANG interview prep?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当你的录用信摆脱了承诺的奖金时，你该怎么办？]]></title>
         <id>https://news.ycombinator.com/item?id=30834687</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>patatino</name>
             <uri>https://news.ycombinator.com/user?id=patatino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了遵守GDPR，我是否必须将所有数据托管在欧盟？]]></title>
-        <id>https://news.ycombinator.com/item?id=30673991</id>
-        <link href="https://news.ycombinator.com/item?id=30673991"/>
-        <updated>2022-03-14T15:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do I have to host all data in the EU to comply with GDPR?]]></summary>
-        <author>
-            <name>oliv__</name>
-            <uri>https://news.ycombinator.com/user?id=oliv__</uri>
         </author>
     </entry>
 </feed>
