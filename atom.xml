@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T16:49:59.124Z</updated>
+    <updated>2022-03-29T17:07:19.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人知道有什么好的SaaS问答（Quora、HN、Reddit-esk）平台吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30844998</id>
+        <link href="https://news.ycombinator.com/item?id=30844998"/>
+        <updated>2022-03-29T16:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone know of any good SaaS Q&A (Quora, HN, Reddit-esk) platforms?]]></summary>
+        <author>
+            <name>vivekmgeorge</name>
+            <uri>https://news.ycombinator.com/user?id=vivekmgeorge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何将日历时间可视化的？]]></title>
         <id>https://news.ycombinator.com/item?id=30844693</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>gwbas1c</name>
             <uri>https://news.ycombinator.com/user?id=gwbas1c</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个纯粹的基于短信的用户界面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685223</id>
-        <link href="https://news.ycombinator.com/item?id=30685223"/>
-        <updated>2022-03-15T13:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a pure SMS based UI?]]></summary>
-        <author>
-            <name>joshcramer</name>
-            <uri>https://news.ycombinator.com/user?id=joshcramer</uri>
         </author>
     </entry>
 </feed>

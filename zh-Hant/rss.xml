@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 29 Mar 2022 16:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有人知道有什麼好的SaaS問答（Quora、HN、Reddit-esk）平臺嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30844998</link>
+            <guid>https://news.ycombinator.com/item?id=30844998</guid>
+            <pubDate>Tue, 29 Mar 2022 16:45:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does anyone know of any good SaaS Q&A (Quora, HN, Reddit-esk) platforms?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何將日曆時間可視化的？]]></title>
             <link>https://news.ycombinator.com/item?id=30844693</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30685546</guid>
             <pubDate>Tue, 15 Mar 2022 14:13:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Any developers work without Administrator access to their computer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一個純粹的基於短信的用戶界面？]]></title>
-            <link>https://news.ycombinator.com/item?id=30685223</link>
-            <guid>https://news.ycombinator.com/item?id=30685223</guid>
-            <pubDate>Tue, 15 Mar 2022 13:50:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a pure SMS based UI?]]></description>
         </item>
     </channel>
 </rss>
