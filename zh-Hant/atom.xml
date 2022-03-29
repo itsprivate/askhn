@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T07:40:15.534Z</updated>
+    <updated>2022-03-29T08:14:59.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在他們公司使用GitHub問題嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839934</id>
+        <link href="https://news.ycombinator.com/item?id=30839934"/>
+        <updated>2022-03-29T07:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone use GitHub Issues at their company?]]></summary>
+        <author>
+            <name>brycelarkin</name>
+            <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移動開發者，你通過閱讀哪些網站/博客來學習新東西？]]></title>
         <id>https://news.ycombinator.com/item?id=30839731</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>30minAdayHN</name>
             <uri>https://news.ycombinator.com/user?id=30minAdayHN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人在Gmail中收到奇怪的胡言亂語的郵件嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30680062</id>
-        <link href="https://news.ycombinator.com/item?id=30680062"/>
-        <updated>2022-03-14T23:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anybody else getting strange gibberish emails in Gmail?]]></summary>
-        <author>
-            <name>superasn</name>
-            <uri>https://news.ycombinator.com/user?id=superasn</uri>
         </author>
     </entry>
 </feed>
