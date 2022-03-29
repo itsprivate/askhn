@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T18:15:35.643Z</updated>
+    <updated>2022-03-29T18:39:56.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拓展青少年思维的最佳视频游戏？]]></title>
+        <id>https://news.ycombinator.com/item?id=30846566</id>
+        <link href="https://news.ycombinator.com/item?id=30846566"/>
+        <updated>2022-03-29T18:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best video games to expand teenage minds?]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FAANG公司对榆树感兴趣吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30846278</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>nwienert</name>
             <uri>https://news.ycombinator.com/user?id=nwienert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博士学位是否暗示着你曾试图避免在工业界工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30687467</id>
-        <link href="https://news.ycombinator.com/item?id=30687467"/>
-        <updated>2022-03-15T16:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is a PhD a hint that you have tried to avoid working in industry?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
