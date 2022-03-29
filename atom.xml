@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T19:12:01.350Z</updated>
+    <updated>2022-03-29T19:52:42.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[难道Stripe在推送前忘记了关闭他们的网格？]]></title>
+        <id>https://news.ycombinator.com/item?id=30847428</id>
+        <link href="https://news.ycombinator.com/item?id=30847428"/>
+        <updated>2022-03-29T19:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did Stripe forget to turn off their grid before pushing?]]></summary>
+        <author>
+            <name>philip1209</name>
+            <uri>https://news.ycombinator.com/user?id=philip1209</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什么让80年代的人如此愉快？]]></title>
+        <id>https://news.ycombinator.com/item?id=30847402</id>
+        <link href="https://news.ycombinator.com/item?id=30847402"/>
+        <updated>2022-03-29T19:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What made the 80s so pleasant?]]></summary>
+        <author>
+            <name>ElectronShak</name>
+            <uri>https://news.ycombinator.com/user?id=ElectronShak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技公司如何处理那些得了脑筋急转弯的员工？]]></title>
         <id>https://news.ycombinator.com/item?id=30846979</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gofer777</name>
             <uri>https://news.ycombinator.com/user?id=gofer777</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你，一个单独的开发者/小团队，如何在2022年做出一个可扩展的网络应用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30690485</id>
-        <link href="https://news.ycombinator.com/item?id=30690485"/>
-        <updated>2022-03-15T19:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you, a solo dev/small team, make a scalable web app in 2022?]]></summary>
-        <author>
-            <name>star_juice</name>
-            <uri>https://news.ycombinator.com/user?id=star_juice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于非技术人士来说，最受欢迎的云驱动器存储是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30689268</id>
-        <link href="https://news.ycombinator.com/item?id=30689268"/>
-        <updated>2022-03-15T18:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the most popular cloud drive storage for non-technical folks?]]></summary>
-        <author>
-            <name>conqrr</name>
-            <uri>https://news.ycombinator.com/user?id=conqrr</uri>
         </author>
     </entry>
 </feed>

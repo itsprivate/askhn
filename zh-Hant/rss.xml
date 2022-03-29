@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 29 Mar 2022 19:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 19:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[難道Stripe在推送前忘記了關閉他們的網格？]]></title>
+            <link>https://news.ycombinator.com/item?id=30847428</link>
+            <guid>https://news.ycombinator.com/item?id=30847428</guid>
+            <pubDate>Tue, 29 Mar 2022 19:43:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did Stripe forget to turn off their grid before pushing?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什麼讓80年代的人如此愉快？]]></title>
+            <link>https://news.ycombinator.com/item?id=30847402</link>
+            <guid>https://news.ycombinator.com/item?id=30847402</guid>
+            <pubDate>Tue, 29 Mar 2022 19:41:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: What made the 80s so pleasant?]]></description>
+        </item>
         <item>
             <title><![CDATA[科技公司如何處理那些得了腦筋急轉彎的員工？]]></title>
             <link>https://news.ycombinator.com/item?id=30846979</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30691266</guid>
             <pubDate>Tue, 15 Mar 2022 20:36:14 GMT</pubDate>
             <description><![CDATA[Ask HN: How to get clients for a new, small software agency?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你，一個單獨的開發者/小團隊，如何在2022年做出一個可擴展的網絡應用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30690485</link>
-            <guid>https://news.ycombinator.com/item?id=30690485</guid>
-            <pubDate>Tue, 15 Mar 2022 19:47:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: How would you, a solo dev/small team, make a scalable web app in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對於非技術人士來說，最受歡迎的雲驅動器存儲是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30689268</link>
-            <guid>https://news.ycombinator.com/item?id=30689268</guid>
-            <pubDate>Tue, 15 Mar 2022 18:45:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the most popular cloud drive storage for non-technical folks?]]></description>
         </item>
     </channel>
 </rss>
