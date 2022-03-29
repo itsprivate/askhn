@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-28T23:13:03.693Z</updated>
+    <updated>2022-03-29T00:46:19.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太陽能電池組是否達到了住宅的轉折點？]]></title>
+        <id>https://news.ycombinator.com/item?id=30837056</id>
+        <link href="https://news.ycombinator.com/item?id=30837056"/>
+        <updated>2022-03-29T00:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have solar arrays reached a tipping point for residential?]]></summary>
+        <author>
+            <name>kinnth</name>
+            <uri>https://news.ycombinator.com/user?id=kinnth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在特拉維夫，軟件工程師的生活如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30836700</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>bruceb</name>
             <uri>https://news.ycombinator.com/user?id=bruceb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30677661</id>
-        <link href="https://news.ycombinator.com/item?id=30677661"/>
-        <updated>2022-03-14T20:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to NFTs?]]></summary>
-        <author>
-            <name>dexwiz</name>
-            <uri>https://news.ycombinator.com/user?id=dexwiz</uri>
         </author>
     </entry>
 </feed>
