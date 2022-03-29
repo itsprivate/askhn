@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T20:43:22.198Z</updated>
+    <updated>2022-03-29T21:12:51.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在离开纽约市或类似城市后，自己建立一个良好的生活？]]></title>
+        <id>https://news.ycombinator.com/item?id=30848405</id>
+        <link href="https://news.ycombinator.com/item?id=30848405"/>
+        <updated>2022-03-29T21:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Building a good life after leaving NYC or similar city by yourself?]]></summary>
+        <author>
+            <name>SadLeavingNYC</name>
+            <uri>https://news.ycombinator.com/user?id=SadLeavingNYC</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是销售离线桌面应用程序的明智之举？]]></title>
         <id>https://news.ycombinator.com/item?id=30847990</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>quantum-crt</name>
             <uri>https://news.ycombinator.com/user?id=quantum-crt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于证据的工人/公司匹配？]]></title>
-        <id>https://news.ycombinator.com/item?id=30693049</id>
-        <link href="https://news.ycombinator.com/item?id=30693049"/>
-        <updated>2022-03-15T22:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Evidence-based worker/company fit?]]></summary>
-        <author>
-            <name>fizzyfizz</name>
-            <uri>https://news.ycombinator.com/user?id=fizzyfizz</uri>
         </author>
     </entry>
 </feed>
