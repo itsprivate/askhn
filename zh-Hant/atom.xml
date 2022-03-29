@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T02:29:17.639Z</updated>
+    <updated>2022-03-29T03:46:53.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於投資合同服務、SAFE、IRA選項的建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30838494</id>
+        <link href="https://news.ycombinator.com/item?id=30838494"/>
+        <updated>2022-03-29T03:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations for investment contract services, SAFE, IRA Option]]></summary>
+        <author>
+            <name>s1artibartfast</name>
+            <uri>https://news.ycombinator.com/user?id=s1artibartfast</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司是在低價收買我，還是我是個冒牌的貪婪的混蛋？]]></title>
         <id>https://news.ycombinator.com/item?id=30837836</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lnxg33k1</name>
             <uri>https://news.ycombinator.com/user?id=lnxg33k1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡單的低成本想法，卻賺了幾百萬？]]></title>
-        <id>https://news.ycombinator.com/item?id=30678585</id>
-        <link href="https://news.ycombinator.com/item?id=30678585"/>
-        <updated>2022-03-14T21:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Simple low-cost ideas that made millions?]]></summary>
-        <author>
-            <name>s-xyz</name>
-            <uri>https://news.ycombinator.com/user?id=s-xyz</uri>
         </author>
     </entry>
 </feed>
