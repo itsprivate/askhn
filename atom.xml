@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T21:12:51.230Z</updated>
+    <updated>2022-03-29T21:31:35.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有多少人真正使用Vim？]]></title>
+        <id>https://news.ycombinator.com/item?id=30848456</id>
+        <link href="https://news.ycombinator.com/item?id=30848456"/>
+        <updated>2022-03-29T21:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many people actually use Vim?]]></summary>
+        <author>
+            <name>lucas_v</name>
+            <uri>https://news.ycombinator.com/user?id=lucas_v</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在离开纽约市或类似城市后，自己建立一个良好的生活？]]></title>
         <id>https://news.ycombinator.com/item?id=30848405</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thescribbblr</name>
             <uri>https://news.ycombinator.com/user?id=thescribbblr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建一个公司，使其在法律上不能被Facebook收购？]]></title>
-        <id>https://news.ycombinator.com/item?id=30693094</id>
-        <link href="https://news.ycombinator.com/item?id=30693094"/>
-        <updated>2022-03-15T23:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Structure a company so that it legally cannot be acquired by Facebook?]]></summary>
-        <author>
-            <name>quantum-crt</name>
-            <uri>https://news.ycombinator.com/user?id=quantum-crt</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 21:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有多少人真正使用Vim？]]></title>
+            <link>https://news.ycombinator.com/item?id=30848456</link>
+            <guid>https://news.ycombinator.com/item?id=30848456</guid>
+            <pubDate>Tue, 29 Mar 2022 21:14:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: How many people actually use Vim?]]></description>
+        </item>
         <item>
             <title><![CDATA[在離開紐約市或類似城市後，自己建立一個良好的生活？]]></title>
             <link>https://news.ycombinator.com/item?id=30848405</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30693324</guid>
             <pubDate>Tue, 15 Mar 2022 23:29:13 GMT</pubDate>
             <description><![CDATA[Ask HN: SEO hacks that helped you to rank websites or articles?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[構建一個公司，使其在法律上不能被Facebook收購？]]></title>
-            <link>https://news.ycombinator.com/item?id=30693094</link>
-            <guid>https://news.ycombinator.com/item?id=30693094</guid>
-            <pubDate>Tue, 15 Mar 2022 23:03:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Structure a company so that it legally cannot be acquired by Facebook?]]></description>
         </item>
     </channel>
 </rss>
