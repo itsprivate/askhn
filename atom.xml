@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T05:38:45.951Z</updated>
+    <updated>2022-03-29T07:12:49.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[难道只有美国人收到垃圾邮件/诈骗电话和短信吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839663</id>
+        <link href="https://news.ycombinator.com/item?id=30839663"/>
+        <updated>2022-03-29T07:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Americans the only ones who recieve spam/scam calls and SMS]]></summary>
+        <author>
+            <name>i67vw3</name>
+            <uri>https://news.ycombinator.com/user?id=i67vw3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是你唯一最好的投资？]]></title>
         <id>https://news.ycombinator.com/item?id=30839107</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何迫使一家公司停止与俄罗斯做生意？]]></title>
-        <id>https://news.ycombinator.com/item?id=30679729</id>
-        <link href="https://news.ycombinator.com/item?id=30679729"/>
-        <updated>2022-03-14T23:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to force a company to stop doing business with Russia?]]></summary>
-        <author>
-            <name>lukestateson</name>
-            <uri>https://news.ycombinator.com/user?id=lukestateson</uri>
         </author>
     </entry>
 </feed>
