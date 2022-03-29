@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T05:31:37.387Z</updated>
+    <updated>2022-03-29T05:38:45.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是你唯一最好的投资？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839107</id>
+        <link href="https://news.ycombinator.com/item?id=30839107"/>
+        <updated>2022-03-29T05:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What has been your single best investment?]]></summary>
+        <author>
+            <name>i5heu</name>
+            <uri>https://news.ycombinator.com/user?id=i5heu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是有公开课程网页的不太知名的CS课程？]]></title>
         <id>https://news.ycombinator.com/item?id=30839045</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>lukestateson</name>
             <uri>https://news.ycombinator.com/user?id=lukestateson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是俄罗斯的宣传，还是我错过了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30679334</id>
-        <link href="https://news.ycombinator.com/item?id=30679334"/>
-        <updated>2022-03-14T22:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is this Russia.m propaganda or am I missing something]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>
