@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 14:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么搜索引擎不让你把垃圾邮件的域名列入黑名单？]]></title>
+            <link>https://news.ycombinator.com/item?id=30842565</link>
+            <guid>https://news.ycombinator.com/item?id=30842565</guid>
+            <pubDate>Tue, 29 Mar 2022 13:56:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do search engines not let you blacklist spam domains?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何向同事表达感激之情]]></title>
             <link>https://news.ycombinator.com/item?id=30842490</link>
@@ -4204,13 +4211,6 @@
             <guid>https://news.ycombinator.com/item?id=30684394</guid>
             <pubDate>Tue, 15 Mar 2022 12:21:42 GMT</pubDate>
             <description><![CDATA[Ask HN: What's the Deal with HN and Rust?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[抛开宗教，你是如何体验灵性的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30684382</link>
-            <guid>https://news.ycombinator.com/item?id=30684382</guid>
-            <pubDate>Tue, 15 Mar 2022 12:20:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Religion aside, how do you experience spirituality?]]></description>
         </item>
     </channel>
 </rss>

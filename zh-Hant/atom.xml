@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T13:53:33.601Z</updated>
+    <updated>2022-03-29T14:13:38.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼搜索引擎不讓你把垃圾郵件的域名列入黑名單？]]></title>
+        <id>https://news.ycombinator.com/item?id=30842565</id>
+        <link href="https://news.ycombinator.com/item?id=30842565"/>
+        <updated>2022-03-29T13:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do search engines not let you blacklist spam domains?]]></summary>
+        <author>
+            <name>pketh</name>
+            <uri>https://news.ycombinator.com/user?id=pketh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何向同事表達感激之情]]></title>
         <id>https://news.ycombinator.com/item?id=30842490</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>hcabral</name>
             <uri>https://news.ycombinator.com/user?id=hcabral</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拋開宗教，你是如何體驗靈性的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30684382</id>
-        <link href="https://news.ycombinator.com/item?id=30684382"/>
-        <updated>2022-03-15T12:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Religion aside, how do you experience spirituality?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
