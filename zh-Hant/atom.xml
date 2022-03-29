@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T17:07:19.694Z</updated>
+    <updated>2022-03-29T17:38:59.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[產品搜索對我來說是個謎]]></title>
+        <id>https://news.ycombinator.com/item?id=30845714</id>
+        <link href="https://news.ycombinator.com/item?id=30845714"/>
+        <updated>2022-03-29T17:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Product Hunt is a mystery to me]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人們如何盲目地相信互聯網上的巨大數字？]]></title>
+        <id>https://news.ycombinator.com/item?id=30845613</id>
+        <link href="https://news.ycombinator.com/item?id=30845613"/>
+        <updated>2022-03-29T17:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How people blindly trust huge numbers on the internet?]]></summary>
+        <author>
+            <name>sankalpdomore</name>
+            <uri>https://news.ycombinator.com/user?id=sankalpdomore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人知道有什麼好的SaaS問答（Quora、HN、Reddit-esk）平臺嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30844998</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>thescribbblr</name>
             <uri>https://news.ycombinator.com/user?id=thescribbblr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對PWA（漸進式網絡應用程序）的看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685802</id>
-        <link href="https://news.ycombinator.com/item?id=30685802"/>
-        <updated>2022-03-15T14:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on PWAs (Progressive Web Apps)?]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何開發人員在沒有管理員訪問其電腦的情況下工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685546</id>
-        <link href="https://news.ycombinator.com/item?id=30685546"/>
-        <updated>2022-03-15T14:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any developers work without Administrator access to their computer?]]></summary>
-        <author>
-            <name>gwbas1c</name>
-            <uri>https://news.ycombinator.com/user?id=gwbas1c</uri>
         </author>
     </entry>
 </feed>
