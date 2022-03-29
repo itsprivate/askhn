@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T19:52:42.309Z</updated>
+    <updated>2022-03-29T20:14:09.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小企业友好的移动框架？]]></title>
+        <id>https://news.ycombinator.com/item?id=30847638</id>
+        <link href="https://news.ycombinator.com/item?id=30847638"/>
+        <updated>2022-03-29T20:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Small business friendly mobile framework?]]></summary>
+        <author>
+            <name>rlawson</name>
+            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[允许Telegram式群组的最佳聊天平台是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30847614</id>
+        <link href="https://news.ycombinator.com/item?id=30847614"/>
+        <updated>2022-03-29T20:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best chat platform which allows Telegram-style groups?]]></summary>
+        <author>
+            <name>consumer451</name>
+            <uri>https://news.ycombinator.com/user?id=consumer451</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[难道Stripe在推送前忘记了关闭他们的网格？]]></title>
         <id>https://news.ycombinator.com/item?id=30847428</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>abhpro</name>
             <uri>https://news.ycombinator.com/user?id=abhpro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于A轮融资的创始人来说，哪些是最好的社区？]]></title>
-        <id>https://news.ycombinator.com/item?id=30692769</id>
-        <link href="https://news.ycombinator.com/item?id=30692769"/>
-        <updated>2022-03-15T22:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best communities for Series-A founders?]]></summary>
-        <author>
-            <name>kodjima33</name>
-            <uri>https://news.ycombinator.com/user?id=kodjima33</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为一个新的、小型的软件机构争取客户？]]></title>
-        <id>https://news.ycombinator.com/item?id=30691266</id>
-        <link href="https://news.ycombinator.com/item?id=30691266"/>
-        <updated>2022-03-15T20:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get clients for a new, small software agency?]]></summary>
-        <author>
-            <name>gofer777</name>
-            <uri>https://news.ycombinator.com/user?id=gofer777</uri>
         </author>
     </entry>
 </feed>
