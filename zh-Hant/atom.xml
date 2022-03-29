@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T07:12:49.825Z</updated>
+    <updated>2022-03-29T07:40:15.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移動開發者，你通過閱讀哪些網站/博客來學習新東西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839731</id>
+        <link href="https://news.ycombinator.com/item?id=30839731"/>
+        <updated>2022-03-29T07:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mobile developers, what websites/blogs do you read to learn new stuff?]]></summary>
+        <author>
+            <name>toron123</name>
+            <uri>https://news.ycombinator.com/user?id=toron123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[難道只有美國人收到垃圾郵件/詐騙電話和短信嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30839663</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>superasn</name>
             <uri>https://news.ycombinator.com/user?id=superasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有很酷的架構圖都在哪裡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30680022</id>
-        <link href="https://news.ycombinator.com/item?id=30680022"/>
-        <updated>2022-03-14T23:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are all the cool architecture diagrams?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
