@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T13:48:38.238Z</updated>
+    <updated>2022-03-29T13:53:33.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何向同事表达感激之情]]></title>
+        <id>https://news.ycombinator.com/item?id=30842490</id>
+        <link href="https://news.ycombinator.com/item?id=30842490"/>
+        <updated>2022-03-29T13:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Show Gratitude to a Coworker]]></summary>
+        <author>
+            <name>joelrosenthal</name>
+            <uri>https://news.ycombinator.com/user?id=joelrosenthal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在特拉维夫，工程师的生活如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30842426</id>
+        <link href="https://news.ycombinator.com/item?id=30842426"/>
+        <updated>2022-03-29T13:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is life in Tel Aviv for an engineer?]]></summary>
+        <author>
+            <name>asdadsdad</name>
+            <uri>https://news.ycombinator.com/user?id=asdadsdad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以拿回我的亚马逊账户吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30842263</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>desertraven</name>
             <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该创建一个云基地侦察工具吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30684152</id>
-        <link href="https://news.ycombinator.com/item?id=30684152"/>
-        <updated>2022-03-15T11:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I create a cloudbase reconnaissance tool?]]></summary>
-        <author>
-            <name>Shazeb</name>
-            <uri>https://news.ycombinator.com/user?id=Shazeb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何推广瑞士的MS 365替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30683881</id>
-        <link href="https://news.ycombinator.com/item?id=30683881"/>
-        <updated>2022-03-15T11:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to promote a Swiss MS 365 alternative?]]></summary>
-        <author>
-            <name>rodoni</name>
-            <uri>https://news.ycombinator.com/user?id=rodoni</uri>
         </author>
     </entry>
 </feed>
