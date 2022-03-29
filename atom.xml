@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T13:25:13.122Z</updated>
+    <updated>2022-03-29T13:48:38.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以拿回我的亚马逊账户吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30842263</id>
+        <link href="https://news.ycombinator.com/item?id=30842263"/>
+        <updated>2022-03-29T13:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I get my Amazon account back?]]></summary>
+        <author>
+            <name>brailsafe</name>
+            <uri>https://news.ycombinator.com/user?id=brailsafe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲人在湾区开始实习，去哪里？]]></title>
         <id>https://news.ycombinator.com/item?id=30842005</id>
@@ -6601,17 +6612,6 @@
         <author>
             <name>rodoni</name>
             <uri>https://news.ycombinator.com/user?id=rodoni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我不能通过这个防火墙脚本访问HTTP://news.yahoo.com？]]></title>
-        <id>https://news.ycombinator.com/item?id=30683794</id>
-        <link href="https://news.ycombinator.com/item?id=30683794"/>
-        <updated>2022-03-15T10:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why can't I access HTTP://news.yahoo.com through this firewall script?]]></summary>
-        <author>
-            <name>MarkusWandel</name>
-            <uri>https://news.ycombinator.com/user?id=MarkusWandel</uri>
         </author>
     </entry>
 </feed>
