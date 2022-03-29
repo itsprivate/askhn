@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-29T15:14:54.612Z</updated>
+    <updated>2022-03-29T16:17:19.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何计划后端工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30844214</id>
+        <link href="https://news.ycombinator.com/item?id=30844214"/>
+        <updated>2022-03-29T15:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you plan back end work?]]></summary>
+        <author>
+            <name>hakunin</name>
+            <uri>https://news.ycombinator.com/user?id=hakunin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有谁在使用JetBrains空间？]]></title>
+        <id>https://news.ycombinator.com/item?id=30844184</id>
+        <link href="https://news.ycombinator.com/item?id=30844184"/>
+        <updated>2022-03-29T15:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone Using JetBrains Space?]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于三藩市私立高中与大学申请的观点]]></title>
         <id>https://news.ycombinator.com/item?id=30843529</id>
@@ -6590,28 +6612,6 @@
         <author>
             <name>novateg</name>
             <uri>https://news.ycombinator.com/user?id=novateg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么FreeBSD的发布方式是这样的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685104</id>
-        <link href="https://news.ycombinator.com/item?id=30685104"/>
-        <updated>2022-03-15T13:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does FreeBSD do Releases the way the do?]]></summary>
-        <author>
-            <name>tiffanyh</name>
-            <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否拥有单一目的域名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30684938</id>
-        <link href="https://news.ycombinator.com/item?id=30684938"/>
-        <updated>2022-03-15T13:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you own Single Purpose Domains?]]></summary>
-        <author>
-            <name>kinduff</name>
-            <uri>https://news.ycombinator.com/user?id=kinduff</uri>
         </author>
     </entry>
 </feed>
