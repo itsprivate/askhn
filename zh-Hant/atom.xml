@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T06:57:14.834Z</updated>
+    <updated>2022-03-30T07:14:09.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對學習觸摸打字有什麼建議？]]></title>
+        <id>https://news.ycombinator.com/item?id=30852198</id>
+        <link href="https://news.ycombinator.com/item?id=30852198"/>
+        <updated>2022-03-30T06:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you recommend to learn touch typing?]]></summary>
+        <author>
+            <name>pzs</name>
+            <uri>https://news.ycombinator.com/user?id=pzs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜與Facebook/Meta共享數據？]]></title>
         <id>https://news.ycombinator.com/item?id=30852128</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>emptysongglass</name>
             <uri>https://news.ycombinator.com/user?id=emptysongglass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼這一點如此難以把握？]]></title>
-        <id>https://news.ycombinator.com/item?id=30696215</id>
-        <link href="https://news.ycombinator.com/item?id=30696215"/>
-        <updated>2022-03-16T07:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why this is so difficult to grasp?]]></summary>
-        <author>
-            <name>lngnmn2</name>
-            <uri>https://news.ycombinator.com/user?id=lngnmn2</uri>
         </author>
     </entry>
 </feed>
