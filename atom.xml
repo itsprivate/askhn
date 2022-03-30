@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T11:52:24.544Z</updated>
+    <updated>2022-03-30T13:00:09.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来电者/受访者能看到我的密码吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30854399</id>
+        <link href="https://news.ycombinator.com/item?id=30854399"/>
+        <updated>2022-03-30T12:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can a caller/callee see my pincode?]]></summary>
+        <author>
+            <name>somanynails</name>
+            <uri>https://news.ycombinator.com/user?id=somanynails</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追踪我正在创建的组件库的使用情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30854371</id>
+        <link href="https://news.ycombinator.com/item?id=30854371"/>
+        <updated>2022-03-30T12:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tracking use of component library I'm creating]]></summary>
+        <author>
+            <name>ricotico060</name>
+            <uri>https://news.ycombinator.com/user?id=ricotico060</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我想学习非游戏系统的知识，我应该学习哪些科目？]]></title>
         <id>https://news.ycombinator.com/item?id=30853867</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Existenceblinks</name>
             <uri>https://news.ycombinator.com/user?id=Existenceblinks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国是下一个超级大国吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30699686</id>
-        <link href="https://news.ycombinator.com/item?id=30699686"/>
-        <updated>2022-03-16T15:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is China the Next Superpower?]]></summary>
-        <author>
-            <name>davgoldin</name>
-            <uri>https://news.ycombinator.com/user?id=davgoldin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在工作中使用个人GitHub？]]></title>
-        <id>https://news.ycombinator.com/item?id=30699640</id>
-        <link href="https://news.ycombinator.com/item?id=30699640"/>
-        <updated>2022-03-16T15:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Using Personal GitHub for Work?]]></summary>
-        <author>
-            <name>shay_ker</name>
-            <uri>https://news.ycombinator.com/user?id=shay_ker</uri>
         </author>
     </entry>
 </feed>
