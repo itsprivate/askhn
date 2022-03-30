@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T15:56:33.534Z</updated>
+    <updated>2022-03-30T16:19:05.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的公司能否在沒有會議的情況下運作。為什麼或為什麼不？]]></title>
+        <id>https://news.ycombinator.com/item?id=30856919</id>
+        <link href="https://news.ycombinator.com/item?id=30856919"/>
+        <updated>2022-03-30T15:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could your company operate without meetings. Why or why not?]]></summary>
+        <author>
+            <name>jppope</name>
+            <uri>https://news.ycombinator.com/user?id=jppope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何為退休儲蓄的？]]></title>
         <id>https://news.ycombinator.com/item?id=30856797</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tunnuz</name>
             <uri>https://news.ycombinator.com/user?id=tunnuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於新的iPad Air，"空氣 "是什麼意思？]]></title>
-        <id>https://news.ycombinator.com/item?id=30702746</id>
-        <link href="https://news.ycombinator.com/item?id=30702746"/>
-        <updated>2022-03-16T19:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: For the new iPad Air, what does “air” mean?]]></summary>
-        <author>
-            <name>offsky</name>
-            <uri>https://news.ycombinator.com/user?id=offsky</uri>
         </author>
     </entry>
 </feed>
