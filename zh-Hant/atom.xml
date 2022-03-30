@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T13:48:35.090Z</updated>
+    <updated>2022-03-30T14:37:18.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何談判合同細節 亞馬遜（具體內容見後文）]]></title>
+        <id>https://news.ycombinator.com/item?id=30855645</id>
+        <link href="https://news.ycombinator.com/item?id=30855645"/>
+        <updated>2022-03-30T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to negotiate contract details Amazon (specifics in post)]]></summary>
+        <author>
+            <name>nonplus</name>
+            <uri>https://news.ycombinator.com/user?id=nonplus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有過關於軟件依賴性的存在危機嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30855071</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dynamite-ready</name>
             <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將狗、人和一些行李轉移到海外的其他方法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30701064</id>
-        <link href="https://news.ycombinator.com/item?id=30701064"/>
-        <updated>2022-03-16T16:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternative ways to move a dog, human, and some baggage overseas?]]></summary>
-        <author>
-            <name>hereforphone</name>
-            <uri>https://news.ycombinator.com/user?id=hereforphone</uri>
         </author>
     </entry>
 </feed>
