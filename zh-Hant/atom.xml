@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T18:42:10.241Z</updated>
+    <updated>2022-03-30T18:57:30.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[燃油標籤是否有效？]]></title>
+        <id>https://news.ycombinator.com/item?id=30859062</id>
+        <link href="https://news.ycombinator.com/item?id=30859062"/>
+        <updated>2022-03-30T18:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do Fuel Tabs Work?]]></summary>
+        <author>
+            <name>bikamonki</name>
+            <uri>https://news.ycombinator.com/user?id=bikamonki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在沒有正式經驗的情況下獲得一個SE經理的職位？]]></title>
         <id>https://news.ycombinator.com/item?id=30858956</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我要求提供HN上發表的一篇個人發展文章的鏈接。]]></title>
-        <id>https://news.ycombinator.com/item?id=30705086</id>
-        <link href="https://news.ycombinator.com/item?id=30705086"/>
-        <updated>2022-03-16T22:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I ask for the link of an article of personal development published on HN]]></summary>
-        <author>
-            <name>kahon65</name>
-            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
         </author>
     </entry>
 </feed>
