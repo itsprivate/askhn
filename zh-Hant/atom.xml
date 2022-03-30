@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T10:36:27.288Z</updated>
+    <updated>2022-03-30T11:12:12.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建SaaS的計費方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30853589</id>
+        <link href="https://news.ycombinator.com/item?id=30853589"/>
+        <updated>2022-03-30T11:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Architecting Billing for a SaaS]]></summary>
+        <author>
+            <name>krcourville</name>
+            <uri>https://news.ycombinator.com/user?id=krcourville</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客評論是過去的事情了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30853565</id>
+        <link href="https://news.ycombinator.com/item?id=30853565"/>
+        <updated>2022-03-30T11:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are blog comments a thing of the past?]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使一組閒置的計算機盈利]]></title>
         <id>https://news.ycombinator.com/item?id=30853356</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aBitPlayer</name>
             <uri>https://news.ycombinator.com/user?id=aBitPlayer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級職位的工作面試被幽靈化是正常的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30698269</id>
-        <link href="https://news.ycombinator.com/item?id=30698269"/>
-        <updated>2022-03-16T13:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it normal to be ghosted for senior position job interviews?]]></summary>
-        <author>
-            <name>Avalaxy</name>
-            <uri>https://news.ycombinator.com/user?id=Avalaxy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社會化生產的倡導者，為什麼和如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30698194</id>
-        <link href="https://news.ycombinator.com/item?id=30698194"/>
-        <updated>2022-03-16T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advocates of socialized production, why and how?]]></summary>
-        <author>
-            <name>MathCodeLove</name>
-            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
         </author>
     </entry>
 </feed>
