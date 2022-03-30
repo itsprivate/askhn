@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T20:36:16.202Z</updated>
+    <updated>2022-03-30T20:42:57.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在有效使用Jira方面有什麼技巧？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860431</id>
+        <link href="https://news.ycombinator.com/item?id=30860431"/>
+        <updated>2022-03-30T20:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your tips for using Jira effectively?]]></summary>
+        <author>
+            <name>bovermyer</name>
+            <uri>https://news.ycombinator.com/user?id=bovermyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[觸摸屏是一個糟糕的輸入設備，還是一個世代的問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30860362</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>smthngwitty</name>
             <uri>https://news.ycombinator.com/user?id=smthngwitty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼DuckDuckGo不在搜索結果中顯示日期？]]></title>
-        <id>https://news.ycombinator.com/item?id=30707933</id>
-        <link href="https://news.ycombinator.com/item?id=30707933"/>
-        <updated>2022-03-17T05:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Doesn't DuckDuckGo Show Dates on Search Results?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
