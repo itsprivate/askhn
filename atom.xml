@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T19:13:25.926Z</updated>
+    <updated>2022-03-30T19:27:35.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何远离谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30859680</id>
+        <link href="https://news.ycombinator.com/item?id=30859680"/>
+        <updated>2022-03-30T19:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to move away from Google]]></summary>
+        <author>
+            <name>rocode2</name>
+            <uri>https://news.ycombinator.com/user?id=rocode2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪里可以找到坏的开发者？]]></title>
         <id>https://news.ycombinator.com/item?id=30859371</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zenosmosis</name>
             <uri>https://news.ycombinator.com/user?id=zenosmosis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个RU的系统管理员/开发工程师如何搬迁到欧盟？]]></title>
-        <id>https://news.ycombinator.com/item?id=30705423</id>
-        <link href="https://news.ycombinator.com/item?id=30705423"/>
-        <updated>2022-03-16T23:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ways for a RU sysadmin/DevOps to relocate to EU?]]></summary>
-        <author>
-            <name>stillhere4uall</name>
-            <uri>https://news.ycombinator.com/user?id=stillhere4uall</uri>
         </author>
     </entry>
 </feed>

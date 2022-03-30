@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 30 Mar 2022 19:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 19:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何远离谷歌]]></title>
+            <link>https://news.ycombinator.com/item?id=30859680</link>
+            <guid>https://news.ycombinator.com/item?id=30859680</guid>
+            <pubDate>Wed, 30 Mar 2022 19:21:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to move away from Google]]></description>
+        </item>
         <item>
             <title><![CDATA[哪里可以找到坏的开发者？]]></title>
             <link>https://news.ycombinator.com/item?id=30859371</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30705794</guid>
             <pubDate>Thu, 17 Mar 2022 00:01:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Is RHCP Californication video a glimpse of the metaverse?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个RU的系统管理员/开发工程师如何搬迁到欧盟？]]></title>
-            <link>https://news.ycombinator.com/item?id=30705423</link>
-            <guid>https://news.ycombinator.com/item?id=30705423</guid>
-            <pubDate>Wed, 16 Mar 2022 23:19:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Ways for a RU sysadmin/DevOps to relocate to EU?]]></description>
         </item>
     </channel>
 </rss>
