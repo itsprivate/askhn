@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T20:52:03.515Z</updated>
+    <updated>2022-03-30T21:13:45.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何学习一个庞大的代码库？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860739</id>
+        <link href="https://news.ycombinator.com/item?id=30860739"/>
+        <updated>2022-03-30T21:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you learn a massive codebase?]]></summary>
+        <author>
+            <name>ilovecaching</name>
+            <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锈迹斑斑的聚会在哪里？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860595</id>
+        <link href="https://news.ycombinator.com/item?id=30860595"/>
+        <updated>2022-03-30T20:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where Are the Rust Meetups?]]></summary>
+        <author>
+            <name>legerdemain</name>
+            <uri>https://news.ycombinator.com/user?id=legerdemain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用户故事，我们是否过度使用它们？]]></title>
         <id>https://news.ycombinator.com/item?id=30860539</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>throwsam</name>
             <uri>https://news.ycombinator.com/user?id=throwsam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保护你的应急基金不受通货膨胀的影响？]]></title>
-        <id>https://news.ycombinator.com/item?id=30708560</id>
-        <link href="https://news.ycombinator.com/item?id=30708560"/>
-        <updated>2022-03-17T07:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you protect your emergency fund from inflation?]]></summary>
-        <author>
-            <name>yololol</name>
-            <uri>https://news.ycombinator.com/user?id=yololol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让SaaS客户为新功能付费？]]></title>
-        <id>https://news.ycombinator.com/item?id=30708547</id>
-        <link href="https://news.ycombinator.com/item?id=30708547"/>
-        <updated>2022-03-17T07:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to let SaaS customers pay for new features?]]></summary>
-        <author>
-            <name>bedatadriven</name>
-            <uri>https://news.ycombinator.com/user?id=bedatadriven</uri>
         </author>
     </entry>
 </feed>
