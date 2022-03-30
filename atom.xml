@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T09:52:06.189Z</updated>
+    <updated>2022-03-30T10:36:27.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使一组闲置的计算机盈利]]></title>
+        <id>https://news.ycombinator.com/item?id=30853356</id>
+        <link href="https://news.ycombinator.com/item?id=30853356"/>
+        <updated>2022-03-30T10:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to monetise a group of idle computers]]></summary>
+        <author>
+            <name>throwawayadmin</name>
+            <uri>https://news.ycombinator.com/user?id=throwawayadmin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你收到的是什么通讯，你正在阅读？]]></title>
         <id>https://news.ycombinator.com/item?id=30853158</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MathCodeLove</name>
             <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[站在事物的顶端与看起来像个傻瓜]]></title>
-        <id>https://news.ycombinator.com/item?id=30698061</id>
-        <link href="https://news.ycombinator.com/item?id=30698061"/>
-        <updated>2022-03-16T12:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Being on top of things vs. looking like a fool]]></summary>
-        <author>
-            <name>item21153</name>
-            <uri>https://news.ycombinator.com/user?id=item21153</uri>
         </author>
     </entry>
 </feed>
