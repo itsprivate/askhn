@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T20:42:57.763Z</updated>
+    <updated>2022-03-30T20:52:03.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用戶故事，我們是否過度使用它們？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860539</id>
+        <link href="https://news.ycombinator.com/item?id=30860539"/>
+        <updated>2022-03-30T20:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: User stories, are we overusing them?]]></summary>
+        <author>
+            <name>punnerud</name>
+            <uri>https://news.ycombinator.com/user?id=punnerud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在有效使用Jira方面有什麼技巧？]]></title>
         <id>https://news.ycombinator.com/item?id=30860431</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bedatadriven</name>
             <uri>https://news.ycombinator.com/user?id=bedatadriven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你到哪裡去找關於戰爭的報道？]]></title>
-        <id>https://news.ycombinator.com/item?id=30707969</id>
-        <link href="https://news.ycombinator.com/item?id=30707969"/>
-        <updated>2022-03-17T05:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you go for coverage of the war?]]></summary>
-        <author>
-            <name>smthngwitty</name>
-            <uri>https://news.ycombinator.com/user?id=smthngwitty</uri>
         </author>
     </entry>
 </feed>
