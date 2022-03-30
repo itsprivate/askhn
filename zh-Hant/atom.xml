@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T19:52:55.748Z</updated>
+    <updated>2022-03-30T20:36:16.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[觸摸屏是一個糟糕的輸入設備，還是一個世代的問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860362</id>
+        <link href="https://news.ycombinator.com/item?id=30860362"/>
+        <updated>2022-03-30T20:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the touch screen a bad input device or it's a generational thing?]]></summary>
+        <author>
+            <name>nassimsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜的招聘做法是否常見？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860307</id>
+        <link href="https://news.ycombinator.com/item?id=30860307"/>
+        <updated>2022-03-30T20:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Amazon hiring practice common?]]></summary>
+        <author>
+            <name>nepalvibes</name>
+            <uri>https://news.ycombinator.com/user?id=nepalvibes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迴歸套房是否值得一試？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860290</id>
+        <link href="https://news.ycombinator.com/item?id=30860290"/>
+        <updated>2022-03-30T20:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Regression Suites Worth a Shit?]]></summary>
+        <author>
+            <name>elpakal</name>
+            <uri>https://news.ycombinator.com/user?id=elpakal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU如何與GPU通信？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860259</id>
+        <link href="https://news.ycombinator.com/item?id=30860259"/>
+        <updated>2022-03-30T20:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does a CPU communicate with a GPU?]]></summary>
+        <author>
+            <name>pedrolins</name>
+            <uri>https://news.ycombinator.com/user?id=pedrolins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Places API很貴--你的花費是多少，或者說替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30859854</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有開源的打印機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30707742</id>
-        <link href="https://news.ycombinator.com/item?id=30707742"/>
-        <updated>2022-03-17T04:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there no open-source printers?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼GPG會如此臃腫？]]></title>
-        <id>https://news.ycombinator.com/item?id=30707707</id>
-        <link href="https://news.ycombinator.com/item?id=30707707"/>
-        <updated>2022-03-17T04:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is GPG so bloated?]]></summary>
-        <author>
-            <name>pooochie</name>
-            <uri>https://news.ycombinator.com/user?id=pooochie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[離線、私密的語音轉文字解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30707650</id>
-        <link href="https://news.ycombinator.com/item?id=30707650"/>
-        <updated>2022-03-17T04:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Offline, private Speech-to-Text solutions]]></summary>
-        <author>
-            <name>mprime1</name>
-            <uri>https://news.ycombinator.com/user?id=mprime1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習Docker的最佳資源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30707520</id>
-        <link href="https://news.ycombinator.com/item?id=30707520"/>
-        <updated>2022-03-17T03:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Resources for Learning Docker?]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>
