@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T15:38:01.204Z</updated>
+    <updated>2022-03-30T15:56:33.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何為退休儲蓄的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30856797</id>
+        <link href="https://news.ycombinator.com/item?id=30856797"/>
+        <updated>2022-03-30T15:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you saving for retirement?]]></summary>
+        <author>
+            <name>bravogamma</name>
+            <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你正式的朝九晚五 "工作 "時間是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30856729</id>
+        <link href="https://news.ycombinator.com/item?id=30856729"/>
+        <updated>2022-03-30T15:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your official 9-to-5 “work” hours?]]></summary>
+        <author>
+            <name>readonthegoapp</name>
+            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建立一個新聞聚合器？]]></title>
         <id>https://news.ycombinator.com/item?id=30856348</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>offsky</name>
             <uri>https://news.ycombinator.com/user?id=offsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織遺囑的最佳方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30702161</id>
-        <link href="https://news.ycombinator.com/item?id=30702161"/>
-        <updated>2022-03-16T18:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best way to organize your will?]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二手車價格是怎麼一回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30701707</id>
-        <link href="https://news.ycombinator.com/item?id=30701707"/>
-        <updated>2022-03-16T17:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s the deal with used car prices?]]></summary>
-        <author>
-            <name>crate_barre</name>
-            <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
         </author>
     </entry>
 </feed>
