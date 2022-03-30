@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T13:00:09.559Z</updated>
+    <updated>2022-03-30T13:27:37.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是最好的測試策略？]]></title>
+        <id>https://news.ycombinator.com/item?id=30854773</id>
+        <link href="https://news.ycombinator.com/item?id=30854773"/>
+        <updated>2022-03-30T13:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best testing strategy?]]></summary>
+        <author>
+            <name>ki_</name>
+            <uri>https://news.ycombinator.com/user?id=ki_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TOMT] [BLOG] 一個由專家撰寫的政治新聞/文章聚合器...]]></title>
+        <id>https://news.ycombinator.com/item?id=30854733</id>
+        <link href="https://news.ycombinator.com/item?id=30854733"/>
+        <updated>2022-03-30T13:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: [TOMT] [BLOG] A political news/article aggregator by an expert...]]></summary>
+        <author>
+            <name>thisappear</name>
+            <uri>https://news.ycombinator.com/user?id=thisappear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來電者/受訪者能看到我的密碼嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30854399</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>readonthegoapp</name>
             <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當你用宣傳或一種意識形態來訓練一個偉大的人工智能時會發生什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30699996</id>
-        <link href="https://news.ycombinator.com/item?id=30699996"/>
-        <updated>2022-03-16T15:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happens when you train a great AI with propaganda or one ideology?]]></summary>
-        <author>
-            <name>sebastianconcpt</name>
-            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於拉動請求的可重複使用的暫存實例？]]></title>
-        <id>https://news.ycombinator.com/item?id=30699732</id>
-        <link href="https://news.ycombinator.com/item?id=30699732"/>
-        <updated>2022-03-16T15:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pull requests based reviwable staging instance?]]></summary>
-        <author>
-            <name>Existenceblinks</name>
-            <uri>https://news.ycombinator.com/user?id=Existenceblinks</uri>
         </author>
     </entry>
 </feed>

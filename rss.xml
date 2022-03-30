@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是最好的测试策略？]]></title>
+            <link>https://news.ycombinator.com/item?id=30854773</link>
+            <guid>https://news.ycombinator.com/item?id=30854773</guid>
+            <pubDate>Wed, 30 Mar 2022 13:15:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the best testing strategy?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[TOMT] [BLOG] 一个由专家撰写的政治新闻/文章聚合器...]]></title>
+            <link>https://news.ycombinator.com/item?id=30854733</link>
+            <guid>https://news.ycombinator.com/item?id=30854733</guid>
+            <pubDate>Wed, 30 Mar 2022 13:13:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: [TOMT] [BLOG] A political news/article aggregator by an expert...]]></description>
+        </item>
         <item>
             <title><![CDATA[来电者/受访者能看到我的密码吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30854399</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30700368</guid>
             <pubDate>Wed, 16 Mar 2022 15:54:16 GMT</pubDate>
             <description><![CDATA[Ask HN: Are there any startups looking to solve the problem of war?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当你用宣传或一种意识形态来训练一个伟大的人工智能时会发生什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30699996</link>
-            <guid>https://news.ycombinator.com/item?id=30699996</guid>
-            <pubDate>Wed, 16 Mar 2022 15:28:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: What happens when you train a great AI with propaganda or one ideology?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于拉动请求的可重复使用的暂存实例？]]></title>
-            <link>https://news.ycombinator.com/item?id=30699732</link>
-            <guid>https://news.ycombinator.com/item?id=30699732</guid>
-            <pubDate>Wed, 16 Mar 2022 15:09:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Pull requests based reviwable staging instance?]]></description>
         </item>
     </channel>
 </rss>
