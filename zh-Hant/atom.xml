@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-30T03:46:51.374Z</updated>
+    <updated>2022-03-30T06:57:14.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜與Facebook/Meta共享數據？]]></title>
+        <id>https://news.ycombinator.com/item?id=30852128</id>
+        <link href="https://news.ycombinator.com/item?id=30852128"/>
+        <updated>2022-03-30T06:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Amazon sharing data with Facebook/Meta?]]></summary>
+        <author>
+            <name>ogwh</name>
+            <uri>https://news.ycombinator.com/user?id=ogwh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否收到Reddit 400的不良請求？]]></title>
         <id>https://news.ycombinator.com/item?id=30851270</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lngnmn2</name>
             <uri>https://news.ycombinator.com/user?id=lngnmn2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置安卓手機以阻止YouTube？]]></title>
-        <id>https://news.ycombinator.com/item?id=30696132</id>
-        <link href="https://news.ycombinator.com/item?id=30696132"/>
-        <updated>2022-03-16T07:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Configure Android phone to block YouTube?]]></summary>
-        <author>
-            <name>fifticon</name>
-            <uri>https://news.ycombinator.com/user?id=fifticon</uri>
         </author>
     </entry>
 </feed>
