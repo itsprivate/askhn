@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T13:26:36.722Z</updated>
+    <updated>2022-03-31T13:50:36.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源数据模型定义]]></title>
+        <id>https://news.ycombinator.com/item?id=30867024</id>
+        <link href="https://news.ycombinator.com/item?id=30867024"/>
+        <updated>2022-03-31T13:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Open-source data model definition]]></summary>
+        <author>
+            <name>d_watt</name>
+            <uri>https://news.ycombinator.com/user?id=d_watt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[评估我的周末创意项目，"非预判性音频访谈"]]></title>
+        <id>https://news.ycombinator.com/item?id=30867018</id>
+        <link href="https://news.ycombinator.com/item?id=30867018"/>
+        <updated>2022-03-31T13:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Evaluate my weekend idea project, “non-prejudicial audio interview”]]></summary>
+        <author>
+            <name>anyfactor</name>
+            <uri>https://news.ycombinator.com/user?id=anyfactor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对招聘过程中的拒绝提出异议]]></title>
         <id>https://news.ycombinator.com/item?id=30866771</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jimkri</name>
             <uri>https://news.ycombinator.com/user?id=jimkri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的发帖频率限制有变化吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715544</id>
-        <link href="https://news.ycombinator.com/item?id=30715544"/>
-        <updated>2022-03-17T20:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did HN posting frequency limits change?]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个内容创作者（不是 "IT专家"）如何安全/正确地设置一个NAS？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715518</id>
-        <link href="https://news.ycombinator.com/item?id=30715518"/>
-        <updated>2022-03-17T20:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can a content creator (not “IT saavy”)set up a NAS safely/correctly?]]></summary>
-        <author>
-            <name>delgaudm</name>
-            <uri>https://news.ycombinator.com/user?id=delgaudm</uri>
         </author>
     </entry>
 </feed>
