@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 20:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[遊戲可以欺騙用戶去做工作嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30872853</link>
+            <guid>https://news.ycombinator.com/item?id=30872853</guid>
+            <pubDate>Thu, 31 Mar 2022 22:19:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Could a game trick users into doing work?]]></description>
+        </item>
         <item>
             <title><![CDATA[什麼是最好的鍵值自我託管存儲引擎？]]></title>
             <link>https://news.ycombinator.com/item?id=30871899</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30719365</guid>
             <pubDate>Fri, 18 Mar 2022 07:04:49 GMT</pubDate>
             <description><![CDATA[Ask HN: How can I determine the quality of an image file]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否曾經意外地造成一個大網站的中斷？（作為用戶）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30719156</link>
-            <guid>https://news.ycombinator.com/item?id=30719156</guid>
-            <pubDate>Fri, 18 Mar 2022 06:09:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you ever caused an outage on a big website by accident?(as an user)]]></description>
         </item>
     </channel>
 </rss>
