@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T11:29:36.138Z</updated>
+    <updated>2022-03-31T13:00:17.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何避免在项目管理上浪费时间？]]></title>
+        <id>https://news.ycombinator.com/item?id=30866537</id>
+        <link href="https://news.ycombinator.com/item?id=30866537"/>
+        <updated>2022-03-31T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you avoid wasting time on project management?]]></summary>
+        <author>
+            <name>jamespaden</name>
+            <uri>https://news.ycombinator.com/user?id=jamespaden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术博客有哪些好的风格/布局？]]></title>
+        <id>https://news.ycombinator.com/item?id=30866536</id>
+        <link href="https://news.ycombinator.com/item?id=30866536"/>
+        <updated>2022-03-31T12:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good styles/layouts for technical blogs?]]></summary>
+        <author>
+            <name>labarilem</name>
+            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可以从任何地方打开的Mac OS应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30865948</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kaycebasques</name>
             <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个开源的、自我托管的Hey替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715069</id>
-        <link href="https://news.ycombinator.com/item?id=30715069"/>
-        <updated>2022-03-17T19:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there an open source, self-hosted alternative to Hey?]]></summary>
-        <author>
-            <name>theowenyoung</name>
-            <uri>https://news.ycombinator.com/user?id=theowenyoung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人的维基的价值是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30714647</id>
-        <link href="https://news.ycombinator.com/item?id=30714647"/>
-        <updated>2022-03-17T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the value of a one-person wiki?]]></summary>
-        <author>
-            <name>Phileosopher</name>
-            <uri>https://news.ycombinator.com/user?id=Phileosopher</uri>
         </author>
     </entry>
 </feed>
