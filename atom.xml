@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T15:56:40.097Z</updated>
+    <updated>2022-03-31T16:16:33.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从Java到.NET上手的最快方法是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30868767</id>
+        <link href="https://news.ycombinator.com/item?id=30868767"/>
+        <updated>2022-03-31T16:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the fastest way to get hands-on with .NET from Java?]]></summary>
+        <author>
+            <name>kkotic</name>
+            <uri>https://news.ycombinator.com/user?id=kkotic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潜意识信息发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30868503</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>relaunched</name>
             <uri>https://news.ycombinator.com/user?id=relaunched</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有很多工程部的梯子，技能网格，而QA就没有？]]></title>
-        <id>https://news.ycombinator.com/item?id=30716722</id>
-        <link href="https://news.ycombinator.com/item?id=30716722"/>
-        <updated>2022-03-17T22:47:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Lots of Engineering ladders, skill grids, and none for QA?]]></summary>
-        <author>
-            <name>mastah88</name>
-            <uri>https://news.ycombinator.com/user?id=mastah88</uri>
         </author>
     </entry>
 </feed>
