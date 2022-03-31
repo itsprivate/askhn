@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T08:44:13.700Z</updated>
+    <updated>2022-03-31T08:51:21.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何恢復公眾對我們機構的信任？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865129</id>
+        <link href="https://news.ycombinator.com/item?id=30865129"/>
+        <updated>2022-03-31T08:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How might public trust is our institutions be restored?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於SaaS產品的最佳嵌入式報告/儀表盤解決方案]]></title>
         <id>https://news.ycombinator.com/item?id=30865070</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwmeawa</name>
             <uri>https://news.ycombinator.com/user?id=throwmeawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否更傾向於說 "我們的工作 "或 "我的工作"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30710723</id>
-        <link href="https://news.ycombinator.com/item?id=30710723"/>
-        <updated>2022-03-17T13:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you tend to say “our work” or “my work” more often?]]></summary>
-        <author>
-            <name>s-t-876</name>
-            <uri>https://news.ycombinator.com/user?id=s-t-876</uri>
         </author>
     </entry>
 </feed>
