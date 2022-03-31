@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T15:14:48.975Z</updated>
+    <updated>2022-03-31T15:38:08.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初創企業進行影響力認捐還為時過早嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30868279</id>
+        <link href="https://news.ycombinator.com/item?id=30868279"/>
+        <updated>2022-03-31T15:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it too early for startups to make impact pledges?]]></summary>
+        <author>
+            <name>lostsoul8282</name>
+            <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是 "錯誤信息記者"？]]></title>
         <id>https://news.ycombinator.com/item?id=30867999</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用多個顯示器使macOS進入睡眠狀態]]></title>
-        <id>https://news.ycombinator.com/item?id=30715850</id>
-        <link href="https://news.ycombinator.com/item?id=30715850"/>
-        <updated>2022-03-17T21:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Putting macOS to sleep with multiple monitors]]></summary>
-        <author>
-            <name>jonathanzufi</name>
-            <uri>https://news.ycombinator.com/user?id=jonathanzufi</uri>
         </author>
     </entry>
 </feed>
