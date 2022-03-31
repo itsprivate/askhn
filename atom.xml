@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T13:00:17.383Z</updated>
+    <updated>2022-03-31T13:26:36.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对招聘过程中的拒绝提出异议]]></title>
+        <id>https://news.ycombinator.com/item?id=30866771</id>
+        <link href="https://news.ycombinator.com/item?id=30866771"/>
+        <updated>2022-03-31T13:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Challenging a Rejection in a Recruitment Process]]></summary>
+        <author>
+            <name>97-109-107</name>
+            <uri>https://news.ycombinator.com/user?id=97-109-107</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何避免在项目管理上浪费时间？]]></title>
         <id>https://news.ycombinator.com/item?id=30866537</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>delgaudm</name>
             <uri>https://news.ycombinator.com/user?id=delgaudm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳/最差的文档网站用户界面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715470</id>
-        <link href="https://news.ycombinator.com/item?id=30715470"/>
-        <updated>2022-03-17T20:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best/worst documentation website UIs?]]></summary>
-        <author>
-            <name>kaycebasques</name>
-            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
         </author>
     </entry>
 </feed>
