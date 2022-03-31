@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T00:39:52.823Z</updated>
+    <updated>2022-03-31T02:21:45.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是諮詢，如何開始？]]></title>
+        <id>https://news.ycombinator.com/item?id=30862995</id>
+        <link href="https://news.ycombinator.com/item?id=30862995"/>
+        <updated>2022-03-31T01:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is consulting and how to start?]]></summary>
+        <author>
+            <name>pigsinzen</name>
+            <uri>https://news.ycombinator.com/user?id=pigsinzen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[餐廳平板電腦集成商如何工作？(從工程角度看)]]></title>
         <id>https://news.ycombinator.com/item?id=30861450</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>version_five</name>
             <uri>https://news.ycombinator.com/user?id=version_five</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助我進行雲計算平臺間成本分析的工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30709418</id>
-        <link href="https://news.ycombinator.com/item?id=30709418"/>
-        <updated>2022-03-17T10:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tool to help me with cost analysis between cloud computing platforms?]]></summary>
-        <author>
-            <name>siva7</name>
-            <uri>https://news.ycombinator.com/user?id=siva7</uri>
         </author>
     </entry>
 </feed>

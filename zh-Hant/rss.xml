@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼是諮詢，如何開始？]]></title>
+            <link>https://news.ycombinator.com/item?id=30862995</link>
+            <guid>https://news.ycombinator.com/item?id=30862995</guid>
+            <pubDate>Thu, 31 Mar 2022 01:45:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is consulting and how to start?]]></description>
+        </item>
         <item>
             <title><![CDATA[餐廳平板電腦集成商如何工作？(從工程角度看)]]></title>
             <link>https://news.ycombinator.com/item?id=30861450</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30709448</guid>
             <pubDate>Thu, 17 Mar 2022 10:14:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Supply chain attacks in ML models]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幫助我進行雲計算平臺間成本分析的工具？]]></title>
-            <link>https://news.ycombinator.com/item?id=30709418</link>
-            <guid>https://news.ycombinator.com/item?id=30709418</guid>
-            <pubDate>Thu, 17 Mar 2022 10:07:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Tool to help me with cost analysis between cloud computing platforms?]]></description>
         </item>
     </channel>
 </rss>
