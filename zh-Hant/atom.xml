@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T18:57:43.330Z</updated>
+    <updated>2022-03-31T19:13:18.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼便宜的顯影機的建議嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30870987</id>
+        <link href="https://news.ycombinator.com/item?id=30870987"/>
+        <updated>2022-03-31T18:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any recommendations for an inexpensive developer machine?]]></summary>
+        <author>
+            <name>canyonero</name>
+            <uri>https://news.ycombinator.com/user?id=canyonero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你是搞技術的，你會怎麼做？]]></title>
+        <id>https://news.ycombinator.com/item?id=30870982</id>
+        <link href="https://news.ycombinator.com/item?id=30870982"/>
+        <updated>2022-03-31T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would you do if you were in tech?]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你從G套件的傳統免費層轉到什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30870778</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mr_o47</name>
             <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該使用什麼網絡瀏覽器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30718780</id>
-        <link href="https://news.ycombinator.com/item?id=30718780"/>
-        <updated>2022-03-18T04:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What web browser should I use?]]></summary>
-        <author>
-            <name>windows2020</name>
-            <uri>https://news.ycombinator.com/user?id=windows2020</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在為一個項目尋找幫助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30718741</id>
-        <link href="https://news.ycombinator.com/item?id=30718741"/>
-        <updated>2022-03-18T04:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is looking for help on a project?]]></summary>
-        <author>
-            <name>spydr</name>
-            <uri>https://news.ycombinator.com/user?id=spydr</uri>
         </author>
     </entry>
 </feed>
