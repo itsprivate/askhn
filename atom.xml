@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T08:51:21.910Z</updated>
+    <updated>2022-03-31T09:34:11.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么人脑的用户体验对用户如此不利？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865284</id>
+        <link href="https://news.ycombinator.com/item?id=30865284"/>
+        <updated>2022-03-31T09:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the UX of the human brain so user-hostile?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何恢复公众对我们机构的信任？]]></title>
         <id>https://news.ycombinator.com/item?id=30865129</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>m33k44</name>
             <uri>https://news.ycombinator.com/user?id=m33k44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特前端面试经验]]></title>
-        <id>https://news.ycombinator.com/item?id=30711247</id>
-        <link href="https://news.ycombinator.com/item?id=30711247"/>
-        <updated>2022-03-17T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Twitter front end interview experience]]></summary>
-        <author>
-            <name>throwmeawa</name>
-            <uri>https://news.ycombinator.com/user?id=throwmeawa</uri>
         </author>
     </entry>
 </feed>
