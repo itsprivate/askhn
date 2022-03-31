@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T17:09:19.936Z</updated>
+    <updated>2022-03-31T17:46:11.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互联网历史上运行时间最长的cron job是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30870024</id>
+        <link href="https://news.ycombinator.com/item?id=30870024"/>
+        <updated>2022-03-31T17:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the longest-running cron job in the history of the internet?]]></summary>
+        <author>
+            <name>miej</name>
+            <uri>https://news.ycombinator.com/user?id=miej</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox从AWS的 "史诗性 "搬迁是如何进行的？]]></title>
         <id>https://news.ycombinator.com/item?id=30869441</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johndavid9991</name>
             <uri>https://news.ycombinator.com/user?id=johndavid9991</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对Y Combinator的教育技术快速约会有什么经验？]]></title>
-        <id>https://news.ycombinator.com/item?id=30718202</id>
-        <link href="https://news.ycombinator.com/item?id=30718202"/>
-        <updated>2022-03-18T02:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Experience with the Y Combinator speed dating for edtech?]]></summary>
-        <author>
-            <name>solresol</name>
-            <uri>https://news.ycombinator.com/user?id=solresol</uri>
         </author>
     </entry>
 </feed>
