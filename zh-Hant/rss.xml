@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 02:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有哪些最好的數學書？]]></title>
+            <link>https://news.ycombinator.com/item?id=30863411</link>
+            <guid>https://news.ycombinator.com/item?id=30863411</guid>
+            <pubDate>Thu, 31 Mar 2022 03:02:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are some of the best mathematics books?]]></description>
+        </item>
         <item>
             <title><![CDATA[什麼是諮詢，如何開始？]]></title>
             <link>https://news.ycombinator.com/item?id=30862995</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30709487</guid>
             <pubDate>Thu, 17 Mar 2022 10:18:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Should I learn Emacs in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ML模型中的供應鏈攻擊]]></title>
-            <link>https://news.ycombinator.com/item?id=30709448</link>
-            <guid>https://news.ycombinator.com/item?id=30709448</guid>
-            <pubDate>Thu, 17 Mar 2022 10:14:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Supply chain attacks in ML models]]></description>
         </item>
     </channel>
 </rss>
