@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 03:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你認識的最聰明的人在哪裡工作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30864502</link>
+            <guid>https://news.ycombinator.com/item?id=30864502</guid>
+            <pubDate>Thu, 31 Mar 2022 06:47:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where do the smartest people you know work?]]></description>
+        </item>
         <item>
             <title><![CDATA[有哪些最好的數學書？]]></title>
             <link>https://news.ycombinator.com/item?id=30863411</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30709712</guid>
             <pubDate>Thu, 17 Mar 2022 10:59:31 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a good solution for searching only in specified trusted sites?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我應該在2022年學習Emacs嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30709487</link>
-            <guid>https://news.ycombinator.com/item?id=30709487</guid>
-            <pubDate>Thu, 17 Mar 2022 10:18:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I learn Emacs in 2022?]]></description>
         </item>
     </channel>
 </rss>
