@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 18:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个新的路由器是否值得？]]></title>
+            <link>https://news.ycombinator.com/item?id=30870470</link>
+            <guid>https://news.ycombinator.com/item?id=30870470</guid>
+            <pubDate>Thu, 31 Mar 2022 18:15:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is a new router worth it?]]></description>
+        </item>
         <item>
             <title><![CDATA[互联网历史上运行时间最长的cron job是什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30870024</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30718675</guid>
             <pubDate>Fri, 18 Mar 2022 04:12:52 GMT</pubDate>
             <description><![CDATA[Ask HN: Where to Find Interesting People?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的团队在使用什么项目管理工具，为什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30718526</link>
-            <guid>https://news.ycombinator.com/item?id=30718526</guid>
-            <pubDate>Fri, 18 Mar 2022 03:39:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: What project management tool is your team using and why?]]></description>
         </item>
     </channel>
 </rss>
