@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是 "错误信息记者"？]]></title>
+            <link>https://news.ycombinator.com/item?id=30867999</link>
+            <guid>https://news.ycombinator.com/item?id=30867999</guid>
+            <pubDate>Thu, 31 Mar 2022 15:04:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Is a 'Misinformation Reporter']]></description>
+        </item>
         <item>
             <title><![CDATA[如何倾听问题？]]></title>
             <link>https://news.ycombinator.com/item?id=30867313</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30715850</guid>
             <pubDate>Thu, 17 Mar 2022 21:03:00 GMT</pubDate>
             <description><![CDATA[Ask HN: Putting macOS to sleep with multiple monitors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有一种简单的方法来持续备份你的谷歌账户？]]></title>
-            <link>https://news.ycombinator.com/item?id=30715743</link>
-            <guid>https://news.ycombinator.com/item?id=30715743</guid>
-            <pubDate>Thu, 17 Mar 2022 20:50:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a simple way to continuously backup your Google account?]]></description>
         </item>
     </channel>
 </rss>

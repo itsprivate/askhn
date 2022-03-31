@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T14:15:14.644Z</updated>
+    <updated>2022-03-31T15:14:48.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是 "错误信息记者"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30867999</id>
+        <link href="https://news.ycombinator.com/item?id=30867999"/>
+        <updated>2022-03-31T15:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Is a 'Misinformation Reporter']]></summary>
+        <author>
+            <name>greenail</name>
+            <uri>https://news.ycombinator.com/user?id=greenail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何倾听问题？]]></title>
         <id>https://news.ycombinator.com/item?id=30867313</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jonathanzufi</name>
             <uri>https://news.ycombinator.com/user?id=jonathanzufi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有一种简单的方法来持续备份你的谷歌账户？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715743</id>
-        <link href="https://news.ycombinator.com/item?id=30715743"/>
-        <updated>2022-03-17T20:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a simple way to continuously backup your Google account?]]></summary>
-        <author>
-            <name>leros</name>
-            <uri>https://news.ycombinator.com/user?id=leros</uri>
         </author>
     </entry>
 </feed>
