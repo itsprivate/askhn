@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T10:17:02.046Z</updated>
+    <updated>2022-03-31T10:38:42.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何從我的腦海中重現圖像？ 繪畫或3D建模？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865648</id>
+        <link href="https://news.ycombinator.com/item?id=30865648"/>
+        <updated>2022-03-31T10:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to recreate images from my mind? painting or 3D modelling?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[操作系統如何能夠支持如此多的設備？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865426</id>
+        <link href="https://news.ycombinator.com/item?id=30865426"/>
+        <updated>2022-03-31T09:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are OS able to support such a number of devices?]]></summary>
+        <author>
+            <name>s3micolon0</name>
+            <uri>https://news.ycombinator.com/user?id=s3micolon0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這周還有誰的Medium合作伙伴計劃被關閉了嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30865482</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tetraodonpuffer</name>
             <uri>https://news.ycombinator.com/user?id=tetraodonpuffer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有為熟練的1099承包商設立亞馬遜？]]></title>
-        <id>https://news.ycombinator.com/item?id=30713537</id>
-        <link href="https://news.ycombinator.com/item?id=30713537"/>
-        <updated>2022-03-17T17:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't there an Amazon for skilled 1099 contractors?]]></summary>
-        <author>
-            <name>hash872</name>
-            <uri>https://news.ycombinator.com/user?id=hash872</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅虎無視RFC 5321重試]]></title>
-        <id>https://news.ycombinator.com/item?id=30713068</id>
-        <link href="https://news.ycombinator.com/item?id=30713068"/>
-        <updated>2022-03-17T16:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Yahoo disregarding RFC 5321 retries]]></summary>
-        <author>
-            <name>beezle</name>
-            <uri>https://news.ycombinator.com/user?id=beezle</uri>
         </author>
     </entry>
 </feed>

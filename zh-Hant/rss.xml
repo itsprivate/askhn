@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 10:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何從我的腦海中重現圖像？ 繪畫或3D建模？]]></title>
+            <link>https://news.ycombinator.com/item?id=30865648</link>
+            <guid>https://news.ycombinator.com/item?id=30865648</guid>
+            <pubDate>Thu, 31 Mar 2022 10:29:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to recreate images from my mind? painting or 3D modelling?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[操作系統如何能夠支持如此多的設備？]]></title>
+            <link>https://news.ycombinator.com/item?id=30865426</link>
+            <guid>https://news.ycombinator.com/item?id=30865426</guid>
+            <pubDate>Thu, 31 Mar 2022 09:48:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are OS able to support such a number of devices?]]></description>
+        </item>
         <item>
             <title><![CDATA[這周還有誰的Medium合作伙伴計劃被關閉了嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30865482</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30713620</guid>
             <pubDate>Thu, 17 Mar 2022 17:24:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Mac developers, how do you secure your environment?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼沒有為熟練的1099承包商設立亞馬遜？]]></title>
-            <link>https://news.ycombinator.com/item?id=30713537</link>
-            <guid>https://news.ycombinator.com/item?id=30713537</guid>
-            <pubDate>Thu, 17 Mar 2022 17:17:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why isn't there an Amazon for skilled 1099 contractors?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雅虎無視RFC 5321重試]]></title>
-            <link>https://news.ycombinator.com/item?id=30713068</link>
-            <guid>https://news.ycombinator.com/item?id=30713068</guid>
-            <pubDate>Thu, 17 Mar 2022 16:37:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Yahoo disregarding RFC 5321 retries]]></description>
         </item>
     </channel>
 </rss>
