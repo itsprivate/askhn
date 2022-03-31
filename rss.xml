@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 31 Mar 2022 19:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 20:44:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是最好的键值自我托管存储引擎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30871899</link>
+            <guid>https://news.ycombinator.com/item?id=30871899</guid>
+            <pubDate>Thu, 31 Mar 2022 20:33:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the best key-value self-hosted storage engines?]]></description>
+        </item>
         <item>
             <title><![CDATA[在什么情况下，你的简历会有2页？]]></title>
             <link>https://news.ycombinator.com/item?id=30871345</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30719156</guid>
             <pubDate>Fri, 18 Mar 2022 06:09:22 GMT</pubDate>
             <description><![CDATA[Ask HN: Have you ever caused an outage on a big website by accident?(as an user)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯制裁如何影响大型科技公司？]]></title>
-            <link>https://news.ycombinator.com/item?id=30718974</link>
-            <guid>https://news.ycombinator.com/item?id=30718974</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do Russia sanctions affect large tech companies?]]></description>
         </item>
     </channel>
 </rss>
