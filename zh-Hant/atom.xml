@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T09:51:44.638Z</updated>
+    <updated>2022-03-31T10:17:02.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這周還有誰的Medium合作伙伴計劃被關閉了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865482</id>
+        <link href="https://news.ycombinator.com/item?id=30865482"/>
+        <updated>2022-03-31T09:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else had their Medium Partner Program turned off this week?]]></summary>
+        <author>
+            <name>mrspence</name>
+            <uri>https://news.ycombinator.com/user?id=mrspence</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[應對工作場所的壓力]]></title>
         <id>https://news.ycombinator.com/item?id=30865392</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>beezle</name>
             <uri>https://news.ycombinator.com/user?id=beezle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦1Password的非訂閱版替代產品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30712601</id>
-        <link href="https://news.ycombinator.com/item?id=30712601"/>
-        <updated>2022-03-17T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended non-subscription alternatives for 1Password?]]></summary>
-        <author>
-            <name>sorahn</name>
-            <uri>https://news.ycombinator.com/user?id=sorahn</uri>
         </author>
     </entry>
 </feed>
