@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T09:34:12.025Z</updated>
+    <updated>2022-03-31T09:44:23.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PCI Express或其他數據總線是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865365</id>
+        <link href="https://news.ycombinator.com/item?id=30865365"/>
+        <updated>2022-03-31T09:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does PCI Express or other data busses work?]]></summary>
+        <author>
+            <name>s3micolon0</name>
+            <uri>https://news.ycombinator.com/user?id=s3micolon0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼人腦的用戶體驗對用戶如此不利？]]></title>
         <id>https://news.ycombinator.com/item?id=30865284</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nineplay</name>
             <uri>https://news.ycombinator.com/user?id=nineplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否會有石油-人民幣與石油-美元競爭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30711598</id>
-        <link href="https://news.ycombinator.com/item?id=30711598"/>
-        <updated>2022-03-17T14:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will there be a petro-renminbi to compete with petro-dollar?]]></summary>
-        <author>
-            <name>m33k44</name>
-            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
         </author>
     </entry>
 </feed>
