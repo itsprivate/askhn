@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T16:16:33.869Z</updated>
+    <updated>2022-03-31T16:52:58.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[始终在电视仪表盘上的最佳方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30869157</id>
+        <link href="https://news.ycombinator.com/item?id=30869157"/>
+        <updated>2022-03-31T16:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best approach for always on TV dashboard]]></summary>
+        <author>
+            <name>julesie</name>
+            <uri>https://news.ycombinator.com/user?id=julesie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从Java到.NET上手的最快方法是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30868767</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>metadat</name>
             <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在eBay上放心地买过昂贵的东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30716989</id>
-        <link href="https://news.ycombinator.com/item?id=30716989"/>
-        <updated>2022-03-17T23:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you bought something expensive on eBay with confidence?]]></summary>
-        <author>
-            <name>relaunched</name>
-            <uri>https://news.ycombinator.com/user?id=relaunched</uri>
         </author>
     </entry>
 </feed>
