@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T15:40:07.581Z</updated>
+    <updated>2022-04-01T16:16:28.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能瞭解視頻編碼、h.264、ffmpeg等。]]></title>
+        <id>https://news.ycombinator.com/item?id=30879738</id>
+        <link href="https://news.ycombinator.com/item?id=30879738"/>
+        <updated>2022-04-01T16:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I learn about video encoding, h.264, ffmpeg, etc.]]></summary>
+        <author>
+            <name>rschachte</name>
+            <uri>https://news.ycombinator.com/user?id=rschachte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司是否故意為越獄行為留有後路？]]></title>
+        <id>https://news.ycombinator.com/item?id=30879709</id>
+        <link href="https://news.ycombinator.com/item?id=30879709"/>
+        <updated>2022-04-01T16:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did Apple intentionally leave a door open for Jailbreaking?]]></summary>
+        <author>
+            <name>wafriedemann</name>
+            <uri>https://news.ycombinator.com/user?id=wafriedemann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何才能闖入復古電腦？]]></title>
         <id>https://news.ycombinator.com/item?id=30879045</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>textinterface</name>
             <uri>https://news.ycombinator.com/user?id=textinterface</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何幫助非英語系的小學生]]></title>
-        <id>https://news.ycombinator.com/item?id=30723696</id>
-        <link href="https://news.ycombinator.com/item?id=30723696"/>
-        <updated>2022-03-18T15:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to help non-English speaking elementary school students]]></summary>
-        <author>
-            <name>gernblandston</name>
-            <uri>https://news.ycombinator.com/user?id=gernblandston</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賞月]]></title>
-        <id>https://news.ycombinator.com/item?id=30723641</id>
-        <link href="https://news.ycombinator.com/item?id=30723641"/>
-        <updated>2022-03-18T15:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Moonlighting]]></summary>
-        <author>
-            <name>jossclimb</name>
-            <uri>https://news.ycombinator.com/user?id=jossclimb</uri>
         </author>
     </entry>
 </feed>
