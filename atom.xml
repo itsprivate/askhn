@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T19:37:23.054Z</updated>
+    <updated>2022-04-01T20:34:59.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在创业公司的世界里，"建立它，他们就会来 "的说法什么时候起过作用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30882974</id>
+        <link href="https://news.ycombinator.com/item?id=30882974"/>
+        <updated>2022-04-01T20:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When has “build it and they will come” worked in the startup world?]]></summary>
+        <author>
+            <name>arjunb023</name>
+            <uri>https://news.ycombinator.com/user?id=arjunb023</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯为什么要入侵乌克兰？]]></title>
         <id>https://news.ycombinator.com/item?id=30882282</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>abhaynayar</name>
             <uri>https://news.ycombinator.com/user?id=abhaynayar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有一种程序可以随机给我发短信提醒？]]></title>
-        <id>https://news.ycombinator.com/item?id=30726687</id>
-        <link href="https://news.ycombinator.com/item?id=30726687"/>
-        <updated>2022-03-18T19:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a program that can randomly text me reminders?]]></summary>
-        <author>
-            <name>q_andrew</name>
-            <uri>https://news.ycombinator.com/user?id=q_andrew</uri>
         </author>
     </entry>
 </feed>
