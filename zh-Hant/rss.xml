@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有關於實施Hacker News的技術文章？]]></title>
+            <link>https://news.ycombinator.com/item?id=30874967</link>
+            <guid>https://news.ycombinator.com/item?id=30874967</guid>
+            <pubDate>Fri, 01 Apr 2022 03:46:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a technical writeup on the implementation of Hacker News?]]></description>
+        </item>
         <item>
             <title><![CDATA[在一個組織內推動技術變革的模式或反模式？]]></title>
             <link>https://news.ycombinator.com/item?id=30874032</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30719998</guid>
             <pubDate>Fri, 18 Mar 2022 09:08:28 GMT</pubDate>
             <description><![CDATA[Ask HN: One thing that you want to complain about when programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什麼可以替代YT Vanced的好辦法嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30719827</link>
-            <guid>https://news.ycombinator.com/item?id=30719827</guid>
-            <pubDate>Fri, 18 Mar 2022 08:32:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any good alternatives to YT Vanced?]]></description>
         </item>
     </channel>
 </rss>

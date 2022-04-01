@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T02:47:41.385Z</updated>
+    <updated>2022-04-01T04:06:40.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有關於實施Hacker News的技術文章？]]></title>
+        <id>https://news.ycombinator.com/item?id=30874967</id>
+        <link href="https://news.ycombinator.com/item?id=30874967"/>
+        <updated>2022-04-01T03:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a technical writeup on the implementation of Hacker News?]]></summary>
+        <author>
+            <name>brundolf</name>
+            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一個組織內推動技術變革的模式或反模式？]]></title>
         <id>https://news.ycombinator.com/item?id=30874032</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JrisMoore</name>
             <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼可以替代YT Vanced的好辦法嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30719827</id>
-        <link href="https://news.ycombinator.com/item?id=30719827"/>
-        <updated>2022-03-18T08:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good alternatives to YT Vanced?]]></summary>
-        <author>
-            <name>ChiptuneIsCool</name>
-            <uri>https://news.ycombinator.com/user?id=ChiptuneIsCool</uri>
         </author>
     </entry>
 </feed>
