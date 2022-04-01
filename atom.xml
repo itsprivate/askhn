@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T18:41:21.264Z</updated>
+    <updated>2022-04-01T19:37:23.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯为什么要入侵乌克兰？]]></title>
+        <id>https://news.ycombinator.com/item?id=30882282</id>
+        <link href="https://news.ycombinator.com/item?id=30882282"/>
+        <updated>2022-04-01T19:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did Russia invade Ukraine?]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些公司在培训有自由职业经验和没有学位的初级工程师？]]></title>
         <id>https://news.ycombinator.com/item?id=30881530</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>q_andrew</name>
             <uri>https://news.ycombinator.com/user?id=q_andrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否值得换成不常见的键盘布局？]]></title>
-        <id>https://news.ycombinator.com/item?id=30725894</id>
-        <link href="https://news.ycombinator.com/item?id=30725894"/>
-        <updated>2022-03-18T18:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it worth switching to an uncommon keyboard layout?]]></summary>
-        <author>
-            <name>pharmakom</name>
-            <uri>https://news.ycombinator.com/user?id=pharmakom</uri>
         </author>
     </entry>
 </feed>
