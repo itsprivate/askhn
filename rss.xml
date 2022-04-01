@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[家庭网络设计的最佳实践]]></title>
+            <link>https://news.ycombinator.com/item?id=30875035</link>
+            <guid>https://news.ycombinator.com/item?id=30875035</guid>
+            <pubDate>Fri, 01 Apr 2022 03:59:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best practice for home network design]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有关于实施Hacker News的技术文章？]]></title>
             <link>https://news.ycombinator.com/item?id=30874967</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30720419</guid>
             <pubDate>Fri, 18 Mar 2022 10:24:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you put easter eggs in enterprise software? Why or Why not?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[编程时想抱怨的一件事]]></title>
-            <link>https://news.ycombinator.com/item?id=30719998</link>
-            <guid>https://news.ycombinator.com/item?id=30719998</guid>
-            <pubDate>Fri, 18 Mar 2022 09:08:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: One thing that you want to complain about when programming]]></description>
         </item>
     </channel>
 </rss>
