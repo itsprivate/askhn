@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T17:18:52.217Z</updated>
+    <updated>2022-04-01T17:40:17.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN上有谁在打造产品时需要营销帮助？]]></title>
+        <id>https://news.ycombinator.com/item?id=30880715</id>
+        <link href="https://news.ycombinator.com/item?id=30880715"/>
+        <updated>2022-04-01T17:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone on HN building a product need marketing help?]]></summary>
+        <author>
+            <name>akippity</name>
+            <uri>https://news.ycombinator.com/user?id=akippity</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[列出顶级钱币持有者的API？]]></title>
         <id>https://news.ycombinator.com/item?id=30880480</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>itsmefaz</name>
             <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我要求提供HN上发表的一篇个人发展文章的链接。]]></title>
-        <id>https://news.ycombinator.com/item?id=30725016</id>
-        <link href="https://news.ycombinator.com/item?id=30725016"/>
-        <updated>2022-03-18T17:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I ask for the link of an article of personal development published on HN]]></summary>
-        <author>
-            <name>kahon65</name>
-            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
         </author>
     </entry>
 </feed>
