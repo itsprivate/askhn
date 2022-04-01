@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-03-31T23:51:46.283Z</updated>
+    <updated>2022-04-01T00:49:29.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你何时会放弃硅谷？]]></title>
+        <id>https://news.ycombinator.com/item?id=30873861</id>
+        <link href="https://news.ycombinator.com/item?id=30873861"/>
+        <updated>2022-04-01T00:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When do you give up on Silicon Valley?]]></summary>
+        <author>
+            <name>throwaway_cmon</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway_cmon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有些学校不对家长隐瞒成绩以避免让他们不高兴？]]></title>
+        <id>https://news.ycombinator.com/item?id=30873670</id>
+        <link href="https://news.ycombinator.com/item?id=30873670"/>
+        <updated>2022-04-01T00:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don’t some schools hide grades from parents to avoid upsetting them?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么简单易行的方法可以与人进行专业的在线聊天？]]></title>
         <id>https://news.ycombinator.com/item?id=30873561</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bojangleslover</name>
             <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人网站的最佳工具链]]></title>
-        <id>https://news.ycombinator.com/item?id=30719681</id>
-        <link href="https://news.ycombinator.com/item?id=30719681"/>
-        <updated>2022-03-18T08:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Toolchain for Personal Website]]></summary>
-        <author>
-            <name>averylamp</name>
-            <uri>https://news.ycombinator.com/user?id=averylamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天，一个新的网络项目应该选择什么样的数据同步技术？]]></title>
-        <id>https://news.ycombinator.com/item?id=30719438</id>
-        <link href="https://news.ycombinator.com/item?id=30719438"/>
-        <updated>2022-03-18T07:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What data synchronization tech should a new web project opt for today?]]></summary>
-        <author>
-            <name>meta-level</name>
-            <uri>https://news.ycombinator.com/user?id=meta-level</uri>
         </author>
     </entry>
 </feed>
