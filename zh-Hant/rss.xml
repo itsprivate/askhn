@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的團隊有警報的運行簿嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30875614</link>
+            <guid>https://news.ycombinator.com/item?id=30875614</guid>
+            <pubDate>Fri, 01 Apr 2022 06:11:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does your team have runbooks for alerts?]]></description>
+        </item>
         <item>
             <title><![CDATA[家庭網絡設計的最佳實踐]]></title>
             <link>https://news.ycombinator.com/item?id=30875035</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30720468</guid>
             <pubDate>Fri, 18 Mar 2022 10:34:22 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the state of Boeing’s safety culture?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你會在企業軟件中放入復活節彩蛋嗎？為什麼或為什麼不？]]></title>
-            <link>https://news.ycombinator.com/item?id=30720419</link>
-            <guid>https://news.ycombinator.com/item?id=30720419</guid>
-            <pubDate>Fri, 18 Mar 2022 10:24:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you put easter eggs in enterprise software? Why or Why not?]]></description>
         </item>
     </channel>
 </rss>

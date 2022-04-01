@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T04:45:54.861Z</updated>
+    <updated>2022-04-01T06:15:19.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的團隊有警報的運行簿嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30875614</id>
+        <link href="https://news.ycombinator.com/item?id=30875614"/>
+        <updated>2022-04-01T06:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your team have runbooks for alerts?]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家庭網絡設計的最佳實踐]]></title>
         <id>https://news.ycombinator.com/item?id=30875035</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Austin_Conlon</name>
             <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會在企業軟件中放入復活節彩蛋嗎？為什麼或為什麼不？]]></title>
-        <id>https://news.ycombinator.com/item?id=30720419</id>
-        <link href="https://news.ycombinator.com/item?id=30720419"/>
-        <updated>2022-03-18T10:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you put easter eggs in enterprise software? Why or Why not?]]></summary>
-        <author>
-            <name>Loeffelmann</name>
-            <uri>https://news.ycombinator.com/user?id=Loeffelmann</uri>
         </author>
     </entry>
 </feed>
