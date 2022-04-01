@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T20:34:59.713Z</updated>
+    <updated>2022-04-01T20:51:35.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國際象棋的替代品，人類頂級棋手比計算機更強？]]></title>
+        <id>https://news.ycombinator.com/item?id=30883103</id>
+        <link href="https://news.ycombinator.com/item?id=30883103"/>
+        <updated>2022-04-01T20:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to chess where top human players are better than computers?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在創業公司的世界裡，"建立它，他們就會來 "的說法什麼時候起過作用？]]></title>
         <id>https://news.ycombinator.com/item?id=30882974</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway158497</name>
             <uri>https://news.ycombinator.com/user?id=throwaway158497</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全學碩士的好課程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30726879</id>
-        <link href="https://news.ycombinator.com/item?id=30726879"/>
-        <updated>2022-03-18T20:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good Programs for Masters in Security?]]></summary>
-        <author>
-            <name>abhaynayar</name>
-            <uri>https://news.ycombinator.com/user?id=abhaynayar</uri>
         </author>
     </entry>
 </feed>
