@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T11:31:41.730Z</updated>
+    <updated>2022-04-01T12:21:19.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用网络搜刮器发现了哪些有趣的数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=30877397</id>
+        <link href="https://news.ycombinator.com/item?id=30877397"/>
+        <updated>2022-04-01T12:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What interesting data you have found using a web scraper?]]></summary>
+        <author>
+            <name>deadcoder0904</name>
+            <uri>https://news.ycombinator.com/user?id=deadcoder0904</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么PC没有更好的熵源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30877296</id>
+        <link href="https://news.ycombinator.com/item?id=30877296"/>
+        <updated>2022-04-01T12:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't PCs have better entropy sources?]]></summary>
+        <author>
+            <name>bloopernova</name>
+            <uri>https://news.ycombinator.com/user?id=bloopernova</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适用于安卓/iOS的良好、轻量级2D动画引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30877025</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Trystan02123</name>
             <uri>https://news.ycombinator.com/user?id=Trystan02123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该把Ubuntu升级到22.04 LTS吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30722007</id>
-        <link href="https://news.ycombinator.com/item?id=30722007"/>
-        <updated>2022-03-18T13:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I upgrade Ubuntu to 22.04 LTS?]]></summary>
-        <author>
-            <name>orzig</name>
-            <uri>https://news.ycombinator.com/user?id=orzig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前哪个是最好的在线课程/证书项目？]]></title>
-        <id>https://news.ycombinator.com/item?id=30721588</id>
-        <link href="https://news.ycombinator.com/item?id=30721588"/>
-        <updated>2022-03-18T12:57:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which is the best online course/certificate program currently?]]></summary>
-        <author>
-            <name>rookie123</name>
-            <uri>https://news.ycombinator.com/user?id=rookie123</uri>
         </author>
     </entry>
 </feed>

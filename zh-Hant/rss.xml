@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 11:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 12:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你使用網絡搜刮器發現了哪些有趣的數據？]]></title>
+            <link>https://news.ycombinator.com/item?id=30877397</link>
+            <guid>https://news.ycombinator.com/item?id=30877397</guid>
+            <pubDate>Fri, 01 Apr 2022 12:15:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: What interesting data you have found using a web scraper?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼PC沒有更好的熵源？]]></title>
+            <link>https://news.ycombinator.com/item?id=30877296</link>
+            <guid>https://news.ycombinator.com/item?id=30877296</guid>
+            <pubDate>Fri, 01 Apr 2022 12:02:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why don't PCs have better entropy sources?]]></description>
+        </item>
         <item>
             <title><![CDATA[適用於安卓/iOS的良好、輕量級2D動畫引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30877025</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30722559</guid>
             <pubDate>Fri, 18 Mar 2022 14:16:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Any code editors that can work across platforms?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我應該把Ubuntu升級到22.04 LTS嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30722007</link>
-            <guid>https://news.ycombinator.com/item?id=30722007</guid>
-            <pubDate>Fri, 18 Mar 2022 13:33:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I upgrade Ubuntu to 22.04 LTS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[目前哪個是最好的在線課程/證書項目？]]></title>
-            <link>https://news.ycombinator.com/item?id=30721588</link>
-            <guid>https://news.ycombinator.com/item?id=30721588</guid>
-            <pubDate>Fri, 18 Mar 2022 12:57:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which is the best online course/certificate program currently?]]></description>
         </item>
     </channel>
 </rss>
