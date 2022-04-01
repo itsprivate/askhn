@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T08:39:44.769Z</updated>
+    <updated>2022-04-01T09:13:57.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何获得安全建议的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30876419</id>
+        <link href="https://news.ycombinator.com/item?id=30876419"/>
+        <updated>2022-04-01T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you get security advisories?]]></summary>
+        <author>
+            <name>jimsi</name>
+            <uri>https://news.ycombinator.com/user?id=jimsi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能帮助反对虚假信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30876380</id>
+        <link href="https://news.ycombinator.com/item?id=30876380"/>
+        <updated>2022-04-01T08:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I help against disinformation?]]></summary>
+        <author>
+            <name>arisAlexis</name>
+            <uri>https://news.ycombinator.com/user?id=arisAlexis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天哪个四月傻瓜让你笑了？]]></title>
         <id>https://news.ycombinator.com/item?id=30876277</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pengwing</name>
             <uri>https://news.ycombinator.com/user?id=pengwing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何报告停机时间？]]></title>
-        <id>https://news.ycombinator.com/item?id=30721238</id>
-        <link href="https://news.ycombinator.com/item?id=30721238"/>
-        <updated>2022-03-18T12:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you report downtime?]]></summary>
-        <author>
-            <name>reisr3</name>
-            <uri>https://news.ycombinator.com/user?id=reisr3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你将如何资助Firefox的继任者？]]></title>
-        <id>https://news.ycombinator.com/item?id=30720658</id>
-        <link href="https://news.ycombinator.com/item?id=30720658"/>
-        <updated>2022-03-18T11:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you fund a successor to Firefox?]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

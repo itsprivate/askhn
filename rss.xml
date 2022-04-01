@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何获得安全建议的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30876419</link>
+            <guid>https://news.ycombinator.com/item?id=30876419</guid>
+            <pubDate>Fri, 01 Apr 2022 09:09:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you get security advisories?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我怎样才能帮助反对虚假信息？]]></title>
+            <link>https://news.ycombinator.com/item?id=30876380</link>
+            <guid>https://news.ycombinator.com/item?id=30876380</guid>
+            <pubDate>Fri, 01 Apr 2022 08:56:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can I help against disinformation?]]></description>
+        </item>
         <item>
             <title><![CDATA[今天哪个四月傻瓜让你笑了？]]></title>
             <link>https://news.ycombinator.com/item?id=30876277</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30721385</guid>
             <pubDate>Fri, 18 Mar 2022 12:36:57 GMT</pubDate>
             <description><![CDATA[Ask HN: Shortest Feedback Loop in Bioengineering?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何报告停机时间？]]></title>
-            <link>https://news.ycombinator.com/item?id=30721238</link>
-            <guid>https://news.ycombinator.com/item?id=30721238</guid>
-            <pubDate>Fri, 18 Mar 2022 12:20:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you report downtime?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你将如何资助Firefox的继任者？]]></title>
-            <link>https://news.ycombinator.com/item?id=30720658</link>
-            <guid>https://news.ycombinator.com/item?id=30720658</guid>
-            <pubDate>Fri, 18 Mar 2022 11:06:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: How would you fund a successor to Firefox?]]></description>
         </item>
     </channel>
 </rss>
