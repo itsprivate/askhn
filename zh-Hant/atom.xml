@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T23:33:48.633Z</updated>
+    <updated>2022-04-01T23:51:57.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何找到一份讓你滿意的工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30884486</id>
+        <link href="https://news.ycombinator.com/item?id=30884486"/>
+        <updated>2022-04-01T23:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you find a job that makes you happy?]]></summary>
+        <author>
+            <name>charles_f</name>
+            <uri>https://news.ycombinator.com/user?id=charles_f</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他們公司中是否有人用筆記本完全取代了BI工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=30884474</id>
+        <link href="https://news.ycombinator.com/item?id=30884474"/>
+        <updated>2022-04-01T23:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone in their company replaced BI tools completely with Notebooks?]]></summary>
+        <author>
+            <name>mrwnmonm</name>
+            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼現在穀類食品這麼貴？]]></title>
         <id>https://news.ycombinator.com/item?id=30884325</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>DantesKite</name>
             <uri>https://news.ycombinator.com/user?id=DantesKite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何學習部署一個副業？]]></title>
-        <id>https://news.ycombinator.com/item?id=30731020</id>
-        <link href="https://news.ycombinator.com/item?id=30731020"/>
-        <updated>2022-03-19T04:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I learn to deploy a side project?]]></summary>
-        <author>
-            <name>gymshoes</name>
-            <uri>https://news.ycombinator.com/user?id=gymshoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的兩份工作中的一份被解僱了]]></title>
-        <id>https://news.ycombinator.com/item?id=30729032</id>
-        <link href="https://news.ycombinator.com/item?id=30729032"/>
-        <updated>2022-03-18T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Got fired from one of my 2 jobs]]></summary>
-        <author>
-            <name>easyalgocode</name>
-            <uri>https://news.ycombinator.com/user?id=easyalgocode</uri>
         </author>
     </entry>
 </feed>
