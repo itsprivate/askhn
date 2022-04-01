@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T12:21:19.447Z</updated>
+    <updated>2022-04-01T13:04:10.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳編程播客？]]></title>
+        <id>https://news.ycombinator.com/item?id=30877628</id>
+        <link href="https://news.ycombinator.com/item?id=30877628"/>
+        <updated>2022-04-01T12:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Programming Podcasts?]]></summary>
+        <author>
+            <name>vaughan</name>
+            <uri>https://news.ycombinator.com/user?id=vaughan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何為谷歌賬戶啟用2FA以使用Authenticator應用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30877567</id>
+        <link href="https://news.ycombinator.com/item?id=30877567"/>
+        <updated>2022-04-01T12:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to enable 2FA for Google Account to use Authenticator app?]]></summary>
+        <author>
+            <name>butz</name>
+            <uri>https://news.ycombinator.com/user?id=butz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你使用網絡搜刮器發現了哪些有趣的數據？]]></title>
         <id>https://news.ycombinator.com/item?id=30877397</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>JrisMoore</name>
             <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人認為這種到處都是的2FA已經失控了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30722596</id>
-        <link href="https://news.ycombinator.com/item?id=30722596"/>
-        <updated>2022-03-18T14:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone else think this 2FA everywhere is getting out of hand?]]></summary>
-        <author>
-            <name>cloutchaser</name>
-            <uri>https://news.ycombinator.com/user?id=cloutchaser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有可以跨平臺工作的代碼編輯器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30722559</id>
-        <link href="https://news.ycombinator.com/item?id=30722559"/>
-        <updated>2022-03-18T14:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any code editors that can work across platforms?]]></summary>
-        <author>
-            <name>Trystan02123</name>
-            <uri>https://news.ycombinator.com/user?id=Trystan02123</uri>
         </author>
     </entry>
 </feed>
