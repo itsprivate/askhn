@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T20:51:35.051Z</updated>
+    <updated>2022-04-01T21:31:05.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在做什么？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30883352</id>
+        <link href="https://news.ycombinator.com/item?id=30883352"/>
+        <updated>2022-04-01T21:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Are You Up To? (April 2022)]]></summary>
+        <author>
+            <name>david927</name>
+            <uri>https://news.ycombinator.com/user?id=david927</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国际象棋的替代品，人类顶级棋手比计算机更强？]]></title>
         <id>https://news.ycombinator.com/item?id=30883103</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Victerius</name>
             <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客友好型终端(Linux/MacOS)]]></title>
-        <id>https://news.ycombinator.com/item?id=30726983</id>
-        <link href="https://news.ycombinator.com/item?id=30726983"/>
-        <updated>2022-03-18T20:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hacker Friendly Terminal (Linux/macOS)]]></summary>
-        <author>
-            <name>throwaway158497</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway158497</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Apr 2022 20:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 21:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在做什么？(2022年4月)]]></title>
+            <link>https://news.ycombinator.com/item?id=30883352</link>
+            <guid>https://news.ycombinator.com/item?id=30883352</guid>
+            <pubDate>Fri, 01 Apr 2022 21:11:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Are You Up To? (April 2022)]]></description>
+        </item>
         <item>
             <title><![CDATA[国际象棋的替代品，人类顶级棋手比计算机更强？]]></title>
             <link>https://news.ycombinator.com/item?id=30883103</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30727801</guid>
             <pubDate>Fri, 18 Mar 2022 21:31:40 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you plan to survive a nuclear war?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客友好型终端(Linux/MacOS)]]></title>
-            <link>https://news.ycombinator.com/item?id=30726983</link>
-            <guid>https://news.ycombinator.com/item?id=30726983</guid>
-            <pubDate>Fri, 18 Mar 2022 20:16:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: Hacker Friendly Terminal (Linux/macOS)]]></description>
         </item>
     </channel>
 </rss>
