@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T13:04:10.576Z</updated>
+    <updated>2022-04-01T14:41:31.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳2022年愚人节？]]></title>
+        <id>https://news.ycombinator.com/item?id=30878432</id>
+        <link href="https://news.ycombinator.com/item?id=30878432"/>
+        <updated>2022-04-01T14:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best 2022 April Fools'?]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳编程播客？]]></title>
         <id>https://news.ycombinator.com/item?id=30877628</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>saltbush23</name>
             <uri>https://news.ycombinator.com/user?id=saltbush23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你学习编程时使用的第一个IDE是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30722616</id>
-        <link href="https://news.ycombinator.com/item?id=30722616"/>
-        <updated>2022-03-18T14:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the first IDE you used to learn programming?]]></summary>
-        <author>
-            <name>JrisMoore</name>
-            <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
         </author>
     </entry>
 </feed>
