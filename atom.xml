@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T06:15:19.724Z</updated>
+    <updated>2022-04-01T08:39:44.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天哪个四月傻瓜让你笑了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30876277</id>
+        <link href="https://news.ycombinator.com/item?id=30876277"/>
+        <updated>2022-04-01T08:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What April fool made you laugh today?]]></summary>
+        <author>
+            <name>Andugal</name>
+            <uri>https://news.ycombinator.com/user?id=Andugal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用WebAssembly进行创新的公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30876179</id>
+        <link href="https://news.ycombinator.com/item?id=30876179"/>
+        <updated>2022-04-01T08:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Companies innovating with WebAssembly?]]></summary>
+        <author>
+            <name>talhof8</name>
+            <uri>https://news.ycombinator.com/user?id=talhof8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的团队有警报的运行簿吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30875614</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在任职15年后要换工作。我应该如何进行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30720565</id>
-        <link href="https://news.ycombinator.com/item?id=30720565"/>
-        <updated>2022-03-18T10:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm changing my job after a 15-year tenure. How should I proceed?]]></summary>
-        <author>
-            <name>lma21</name>
-            <uri>https://news.ycombinator.com/user?id=lma21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音公司的安全文化状况如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30720468</id>
-        <link href="https://news.ycombinator.com/item?id=30720468"/>
-        <updated>2022-03-18T10:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the state of Boeing’s safety culture?]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
         </author>
     </entry>
 </feed>
