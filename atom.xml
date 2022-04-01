@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-01T18:16:40.094Z</updated>
+    <updated>2022-04-01T18:41:21.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些公司在培训有自由职业经验和没有学位的初级工程师？]]></title>
+        <id>https://news.ycombinator.com/item?id=30881530</id>
+        <link href="https://news.ycombinator.com/item?id=30881530"/>
+        <updated>2022-04-01T18:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which companies train junior engineers with freelance exp and no degree]]></summary>
+        <author>
+            <name>stasy</name>
+            <uri>https://news.ycombinator.com/user?id=stasy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何为系统设计面试做准备？]]></title>
         <id>https://news.ycombinator.com/item?id=30881403</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pharmakom</name>
             <uri>https://news.ycombinator.com/user?id=pharmakom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年的夏令时似乎更累人了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30725788</id>
-        <link href="https://news.ycombinator.com/item?id=30725788"/>
-        <updated>2022-03-18T18:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does daylight savings time seem more tiring this year?]]></summary>
-        <author>
-            <name>palidanx</name>
-            <uri>https://news.ycombinator.com/user?id=palidanx</uri>
         </author>
     </entry>
 </feed>
