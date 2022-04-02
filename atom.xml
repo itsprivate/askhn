@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T05:37:15.926Z</updated>
+    <updated>2022-04-02T06:38:53.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会买一个现代的东芝Libretto吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30886243</id>
+        <link href="https://news.ycombinator.com/item?id=30886243"/>
+        <updated>2022-04-02T06:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you buy a modern Toshiba Libretto?]]></summary>
+        <author>
+            <name>atdrummond</name>
+            <uri>https://news.ycombinator.com/user?id=atdrummond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在计算机中，有哪些不必要的复杂性的伟大例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30886241</id>
+        <link href="https://news.ycombinator.com/item?id=30886241"/>
+        <updated>2022-04-02T06:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some great examples of needless complexity in computing?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在用愉快的面试过程进行招聘？]]></title>
+        <id>https://news.ycombinator.com/item?id=30886240</id>
+        <link href="https://news.ycombinator.com/item?id=30886240"/>
+        <updated>2022-04-02T06:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is hiring with pleasant interview processes?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有阅读障碍的工程师，你如何更好地应对学习新技术？]]></title>
         <id>https://news.ycombinator.com/item?id=30886033</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>brutus1213</name>
             <uri>https://news.ycombinator.com/user?id=brutus1213</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向开发的Dropbox替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733813</id>
-        <link href="https://news.ycombinator.com/item?id=30733813"/>
-        <updated>2022-03-19T14:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Dev-Oriented Dropbox Alternative?]]></summary>
-        <author>
-            <name>Ldorigo</name>
-            <uri>https://news.ycombinator.com/user?id=Ldorigo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理学教授的编程（Python）课程]]></title>
-        <id>https://news.ycombinator.com/item?id=30733758</id>
-        <link href="https://news.ycombinator.com/item?id=30733758"/>
-        <updated>2022-03-19T14:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Programming (Python) course for physics prof]]></summary>
-        <author>
-            <name>abdullahkhalids</name>
-            <uri>https://news.ycombinator.com/user?id=abdullahkhalids</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Atom Text Editor会失败？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733674</id>
-        <link href="https://news.ycombinator.com/item?id=30733674"/>
-        <updated>2022-03-19T13:48:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Atom Text Editor failed?]]></summary>
-        <author>
-            <name>DSSP</name>
-            <uri>https://news.ycombinator.com/user?id=DSSP</uri>
         </author>
     </entry>
 </feed>
