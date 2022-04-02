@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T13:09:40.300Z</updated>
+    <updated>2022-04-02T14:38:09.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何为你的软件找到第一批测试人员的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30888407</id>
+        <link href="https://news.ycombinator.com/item?id=30888407"/>
+        <updated>2022-04-02T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you find first testers for your software?]]></summary>
+        <author>
+            <name>PHANTOM9009</name>
+            <uri>https://news.ycombinator.com/user?id=PHANTOM9009</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何作为CTO每月赚取500-3千美元的副业收入？]]></title>
         <id>https://news.ycombinator.com/item?id=30887926</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>timedrift</name>
             <uri>https://news.ycombinator.com/user?id=timedrift</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么书改变了你的生活？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734709</id>
-        <link href="https://news.ycombinator.com/item?id=30734709"/>
-        <updated>2022-03-19T15:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What book changed your life?]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
         </author>
     </entry>
 </feed>
