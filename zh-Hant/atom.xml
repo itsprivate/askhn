@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T23:31:25.139Z</updated>
+    <updated>2022-04-02T23:40:46.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[失敗的科學假說？]]></title>
+        <id>https://news.ycombinator.com/item?id=30892645</id>
+        <link href="https://news.ycombinator.com/item?id=30892645"/>
+        <updated>2022-04-02T23:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Science Hypotheses That Fail?]]></summary>
+        <author>
+            <name>mojomark</name>
+            <uri>https://news.ycombinator.com/user?id=mojomark</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼公共圖書館仍有實體書？]]></title>
         <id>https://news.ycombinator.com/item?id=30892549</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>petesergeant</name>
             <uri>https://news.ycombinator.com/user?id=petesergeant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在班加羅爾的非FAANG公司，你作為一個IC的收入是多少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30740911</id>
-        <link href="https://news.ycombinator.com/item?id=30740911"/>
-        <updated>2022-03-20T07:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much are you making as an IC at non-FAANG companies in Bangalore?]]></summary>
-        <author>
-            <name>thowaway673y</name>
-            <uri>https://news.ycombinator.com/user?id=thowaway673y</uri>
         </author>
     </entry>
 </feed>
