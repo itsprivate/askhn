@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有阅读障碍的工程师，你如何更好地应对学习新技术？]]></title>
+            <link>https://news.ycombinator.com/item?id=30886033</link>
+            <guid>https://news.ycombinator.com/item?id=30886033</guid>
+            <pubDate>Sat, 02 Apr 2022 05:31:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Engineers with Dyslexia, how do you best deal with learning new tech?]]></description>
+        </item>
         <item>
             <title><![CDATA[论坛/博客组合栈]]></title>
             <link>https://news.ycombinator.com/item?id=30885969</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30733674</guid>
             <pubDate>Sat, 19 Mar 2022 13:48:50 GMT</pubDate>
             <description><![CDATA[Ask HN: Why did Atom Text Editor failed?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让一些金属发光？]]></title>
-            <link>https://news.ycombinator.com/item?id=30733538</link>
-            <guid>https://news.ycombinator.com/item?id=30733538</guid>
-            <pubDate>Sat, 19 Mar 2022 13:27:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: What makes some metals shine?]]></description>
         </item>
     </channel>
 </rss>
