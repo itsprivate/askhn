@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T17:34:53.965Z</updated>
+    <updated>2022-04-02T17:51:54.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[端到端加密的谷歌文档]]></title>
+        <id>https://news.ycombinator.com/item?id=30890118</id>
+        <link href="https://news.ycombinator.com/item?id=30890118"/>
+        <updated>2022-04-02T17:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: End-to-end encrypted Google Docs]]></summary>
+        <author>
+            <name>coolmints</name>
+            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否尝试过用GitHub问题来管理与重要他人的问题？]]></title>
         <id>https://news.ycombinator.com/item?id=30889871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>neya</name>
             <uri>https://news.ycombinator.com/user?id=neya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要帮助使用TruthSocial.com]]></title>
-        <id>https://news.ycombinator.com/item?id=30737178</id>
-        <link href="https://news.ycombinator.com/item?id=30737178"/>
-        <updated>2022-03-19T20:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I need help using TruthSocial.com]]></summary>
-        <author>
-            <name>Txoko</name>
-            <uri>https://news.ycombinator.com/user?id=Txoko</uri>
         </author>
     </entry>
 </feed>

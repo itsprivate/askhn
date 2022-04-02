@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 17:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[端到端加密的谷歌文档]]></title>
+            <link>https://news.ycombinator.com/item?id=30890118</link>
+            <guid>https://news.ycombinator.com/item?id=30890118</guid>
+            <pubDate>Sat, 02 Apr 2022 17:46:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: End-to-end encrypted Google Docs]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否尝试过用GitHub问题来管理与重要他人的问题？]]></title>
             <link>https://news.ycombinator.com/item?id=30889871</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30738054</guid>
             <pubDate>Sat, 19 Mar 2022 22:18:40 GMT</pubDate>
             <description><![CDATA[Ask HN: Confused Between M1 Mac Mini and Mac Studio]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我需要帮助使用TruthSocial.com]]></title>
-            <link>https://news.ycombinator.com/item?id=30737178</link>
-            <guid>https://news.ycombinator.com/item?id=30737178</guid>
-            <pubDate>Sat, 19 Mar 2022 20:15:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: I need help using TruthSocial.com]]></description>
         </item>
     </channel>
 </rss>
