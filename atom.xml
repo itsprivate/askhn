@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T22:51:40.852Z</updated>
+    <updated>2022-04-02T23:31:25.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么公共图书馆仍有实体书？]]></title>
+        <id>https://news.ycombinator.com/item?id=30892549</id>
+        <link href="https://news.ycombinator.com/item?id=30892549"/>
+        <updated>2022-04-02T23:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do public libraries still have physical books?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新的支持Linux的MacBook Pro是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30892340</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thowaway673y</name>
             <uri>https://news.ycombinator.com/user?id=thowaway673y</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁知道关于Hubspot客户数据泄露事件的细节？]]></title>
-        <id>https://news.ycombinator.com/item?id=30740460</id>
-        <link href="https://news.ycombinator.com/item?id=30740460"/>
-        <updated>2022-03-20T05:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone aware of details about a Hubspot customer data leak incident?]]></summary>
-        <author>
-            <name>bredren</name>
-            <uri>https://news.ycombinator.com/user?id=bredren</uri>
         </author>
     </entry>
 </feed>
