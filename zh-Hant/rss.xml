@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 17:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否嘗試過用GitHub問題來管理與重要他人的問題？]]></title>
+            <link>https://news.ycombinator.com/item?id=30889871</link>
+            <guid>https://news.ycombinator.com/item?id=30889871</guid>
+            <pubDate>Sat, 02 Apr 2022 17:16:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have you tried GitHub issues to manage issues with a significant other?]]></description>
+        </item>
         <item>
             <title><![CDATA[API貨幣化的最佳服務？]]></title>
             <link>https://news.ycombinator.com/item?id=30889711</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30737178</guid>
             <pubDate>Sat, 19 Mar 2022 20:15:48 GMT</pubDate>
             <description><![CDATA[Ask HN: I need help using TruthSocial.com]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌對你來說是倒了嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30736476</link>
-            <guid>https://news.ycombinator.com/item?id=30736476</guid>
-            <pubDate>Sat, 19 Mar 2022 18:44:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Google Down for You?]]></description>
         </item>
     </channel>
 </rss>
