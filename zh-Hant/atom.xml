@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T04:40:40.229Z</updated>
+    <updated>2022-04-02T05:11:33.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[論壇/博客組合棧]]></title>
+        <id>https://news.ycombinator.com/item?id=30885969</id>
+        <link href="https://news.ycombinator.com/item?id=30885969"/>
+        <updated>2022-04-02T05:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Forum/Blog Combo Stack]]></summary>
+        <author>
+            <name>silisili</name>
+            <uri>https://news.ycombinator.com/user?id=silisili</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰想合作？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30885956</id>
+        <link href="https://news.ycombinator.com/item?id=30885956"/>
+        <updated>2022-04-02T05:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who wants to collaborate? (April 2022)]]></summary>
+        <author>
+            <name>cloudsec9</name>
+            <uri>https://news.ycombinator.com/user?id=cloudsec9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該如何在即將召開的英特爾股東大會上投票？]]></title>
         <id>https://news.ycombinator.com/item?id=30885852</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rhn_mk1</name>
             <uri>https://news.ycombinator.com/user?id=rhn_mk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些技術極大地提高了發展的效率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733384</id>
-        <link href="https://news.ycombinator.com/item?id=30733384"/>
-        <updated>2022-03-19T12:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What technologies greatly improve the efficiency of development?]]></summary>
-        <author>
-            <name>JrisMoore</name>
-            <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[侮辱你的軟件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733314</id>
-        <link href="https://news.ycombinator.com/item?id=30733314"/>
-        <updated>2022-03-19T12:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Software That Insults You?]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
         </author>
     </entry>
 </feed>
