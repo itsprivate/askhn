@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 20:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最新的支持Linux的MacBook Pro是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30892340</link>
+            <guid>https://news.ycombinator.com/item?id=30892340</guid>
+            <pubDate>Sat, 02 Apr 2022 22:43:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the newest MacBook Pro with Linux support]]></description>
+        </item>
         <item>
             <title><![CDATA[有哪些其他应用商店可以开发？]]></title>
             <link>https://news.ycombinator.com/item?id=30891449</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30740460</guid>
             <pubDate>Sun, 20 Mar 2022 05:47:52 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone aware of details about a Hubspot customer data leak incident?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么网站不再使用_blank来做外部链接了？]]></title>
-            <link>https://news.ycombinator.com/item?id=30740052</link>
-            <guid>https://news.ycombinator.com/item?id=30740052</guid>
-            <pubDate>Sun, 20 Mar 2022 04:15:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why dont websites use _blank for external links anymore?]]></description>
         </item>
     </channel>
 </rss>
