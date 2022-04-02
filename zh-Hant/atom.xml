@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T16:15:31.517Z</updated>
+    <updated>2022-04-02T17:03:47.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[API貨幣化的最佳服務？]]></title>
+        <id>https://news.ycombinator.com/item?id=30889711</id>
+        <link href="https://news.ycombinator.com/item?id=30889711"/>
+        <updated>2022-04-02T16:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Services for API Monetization?]]></summary>
+        <author>
+            <name>CharlesW</name>
+            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在react-native中給每個列表項一個左掃的手勢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30889522</id>
+        <link href="https://news.ycombinator.com/item?id=30889522"/>
+        <updated>2022-04-02T16:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to give each list item a left swipe gesture in react-native?]]></summary>
+        <author>
+            <name>Coffee63</name>
+            <uri>https://news.ycombinator.com/user?id=Coffee63</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果俄羅斯贏了怎麼辦？]]></title>
         <id>https://news.ycombinator.com/item?id=30889160</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tyingq</name>
             <uri>https://news.ycombinator.com/user?id=tyingq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼社會主義被認為是不好的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30736289</id>
-        <link href="https://news.ycombinator.com/item?id=30736289"/>
-        <updated>2022-03-19T18:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is socialism considered bad?]]></summary>
-        <author>
-            <name>kosasbest</name>
-            <uri>https://news.ycombinator.com/user?id=kosasbest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何處理遲到的想法的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30736247</id>
-        <link href="https://news.ycombinator.com/item?id=30736247"/>
-        <updated>2022-03-19T18:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you handle the thought of being late to the party?]]></summary>
-        <author>
-            <name>vira28</name>
-            <uri>https://news.ycombinator.com/user?id=vira28</uri>
         </author>
     </entry>
 </feed>
