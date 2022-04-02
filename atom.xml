@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T10:51:38.141Z</updated>
+    <updated>2022-04-02T12:50:34.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么云供应商不能提供预付费选项？]]></title>
+        <id>https://news.ycombinator.com/item?id=30887789</id>
+        <link href="https://news.ycombinator.com/item?id=30887789"/>
+        <updated>2022-04-02T12:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't cloud providers offer a prepay option?]]></summary>
+        <author>
+            <name>thebitrot</name>
+            <uri>https://news.ycombinator.com/user?id=thebitrot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在美国和欧盟都工作过的软件工程师，哪一个？]]></title>
+        <id>https://news.ycombinator.com/item?id=30887716</id>
+        <link href="https://news.ycombinator.com/item?id=30887716"/>
+        <updated>2022-04-02T12:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software engineers that have worked in both US and EU, which one?]]></summary>
+        <author>
+            <name>mettamage</name>
+            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3k个博物馆提交数据。怎么会这样？]]></title>
         <id>https://news.ycombinator.com/item?id=30887223</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>elamje</name>
             <uri>https://news.ycombinator.com/user?id=elamje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么会是你的领域中最重要的一本书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734127</id>
-        <link href="https://news.ycombinator.com/item?id=30734127"/>
-        <updated>2022-03-19T14:43:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would be the single most important book of your field?]]></summary>
-        <author>
-            <name>mezod</name>
-            <uri>https://news.ycombinator.com/user?id=mezod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高级软件工程与低级别的软件工程意味着什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734057</id>
-        <link href="https://news.ycombinator.com/item?id=30734057"/>
-        <updated>2022-03-19T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does it mean to be a senior software engineering vs. lower levels?]]></summary>
-        <author>
-            <name>jamghee</name>
-            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
         </author>
     </entry>
 </feed>
