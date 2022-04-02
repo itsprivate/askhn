@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T06:38:53.821Z</updated>
+    <updated>2022-04-02T06:56:35.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰在籌款？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30886280</id>
+        <link href="https://news.ycombinator.com/item?id=30886280"/>
+        <updated>2022-04-02T06:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who's Fundraising? (April 2022)]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會買一個現代的東芝Libretto嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30886243</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jackfruit2</name>
             <uri>https://news.ycombinator.com/user?id=jackfruit2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希望轉到互聯網規模公司的中層研究人員]]></title>
-        <id>https://news.ycombinator.com/item?id=30733828</id>
-        <link href="https://news.ycombinator.com/item?id=30733828"/>
-        <updated>2022-03-19T14:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Mid-career researcher wanting to move to Internet scale company]]></summary>
-        <author>
-            <name>brutus1213</name>
-            <uri>https://news.ycombinator.com/user?id=brutus1213</uri>
         </author>
     </entry>
 </feed>
