@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T20:12:45.409Z</updated>
+    <updated>2022-04-02T20:33:03.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪個項目在其網站上有一個很好的互動教程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30891378</id>
+        <link href="https://news.ycombinator.com/item?id=30891378"/>
+        <updated>2022-04-02T20:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which project has a good interactive tutorials on its website?]]></summary>
+        <author>
+            <name>deepbluesome</name>
+            <uri>https://news.ycombinator.com/user?id=deepbluesome</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對於第一次創業的人，你最喜歡的提示是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30891329</id>
+        <link href="https://news.ycombinator.com/item?id=30891329"/>
+        <updated>2022-04-02T20:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite tips for first time founders?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果照片的替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=30891224</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>goostah</name>
             <uri>https://news.ycombinator.com/user?id=goostah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在溫哥華的收入是多少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30740025</id>
-        <link href="https://news.ycombinator.com/item?id=30740025"/>
-        <updated>2022-03-20T04:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much are you making in Vancouver?]]></summary>
-        <author>
-            <name>brailsafe</name>
-            <uri>https://news.ycombinator.com/user?id=brailsafe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改進語音信箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30739751</id>
-        <link href="https://news.ycombinator.com/item?id=30739751"/>
-        <updated>2022-03-20T03:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Improving Voicemail]]></summary>
-        <author>
-            <name>obaid</name>
-            <uri>https://news.ycombinator.com/user?id=obaid</uri>
         </author>
     </entry>
 </feed>
