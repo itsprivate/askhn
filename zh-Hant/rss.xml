@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 18:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 18:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哪所大學的畢業生對民主的破壞最大？]]></title>
+            <link>https://news.ycombinator.com/item?id=30890383</link>
+            <guid>https://news.ycombinator.com/item?id=30890383</guid>
+            <pubDate>Sat, 02 Apr 2022 18:18:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What university’s graduates have done most to damage democracy?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼安德魯-沙利文會被標記？]]></title>
             <link>https://news.ycombinator.com/item?id=30890254</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30739379</guid>
             <pubDate>Sun, 20 Mar 2022 02:07:59 GMT</pubDate>
             <description><![CDATA[Ask HN: What advice would you give to a newly-minted senior software engineer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[運行Python代碼的API，能出什麼問題？]]></title>
-            <link>https://news.ycombinator.com/item?id=30738750</link>
-            <guid>https://news.ycombinator.com/item?id=30738750</guid>
-            <pubDate>Sun, 20 Mar 2022 00:11:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: API to run Python code, what can go wrong?]]></description>
         </item>
     </channel>
 </rss>

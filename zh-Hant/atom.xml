@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T18:15:01.069Z</updated>
+    <updated>2022-04-02T18:36:50.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪所大學的畢業生對民主的破壞最大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30890383</id>
+        <link href="https://news.ycombinator.com/item?id=30890383"/>
+        <updated>2022-04-02T18:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What university’s graduates have done most to damage democracy?]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼安德魯-沙利文會被標記？]]></title>
         <id>https://news.ycombinator.com/item?id=30890254</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jamghee</name>
             <uri>https://news.ycombinator.com/user?id=jamghee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運行Python代碼的API，能出什麼問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30738750</id>
-        <link href="https://news.ycombinator.com/item?id=30738750"/>
-        <updated>2022-03-20T00:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: API to run Python code, what can go wrong?]]></summary>
-        <author>
-            <name>nathanganser</name>
-            <uri>https://news.ycombinator.com/user?id=nathanganser</uri>
         </author>
     </entry>
 </feed>
