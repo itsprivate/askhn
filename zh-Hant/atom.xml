@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T14:38:09.427Z</updated>
+    <updated>2022-04-02T15:34:16.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人喜歡音樂製作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30888916</id>
+        <link href="https://news.ycombinator.com/item?id=30888916"/>
+        <updated>2022-04-02T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone into Music Production?]]></summary>
+        <author>
+            <name>labarilem</name>
+            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何為你的軟件找到第一批測試人員的？]]></title>
         <id>https://news.ycombinator.com/item?id=30888407</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dclusin</name>
             <uri>https://news.ycombinator.com/user?id=dclusin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox X系列的系統時鐘時間漂移會導致遊戲運行速度慢5%嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30735048</id>
-        <link href="https://news.ycombinator.com/item?id=30735048"/>
-        <updated>2022-03-19T16:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can Xbox Series X System Clock Time Drift Cause Games to Run 5% Slower?]]></summary>
-        <author>
-            <name>timedrift</name>
-            <uri>https://news.ycombinator.com/user?id=timedrift</uri>
         </author>
     </entry>
 </feed>
