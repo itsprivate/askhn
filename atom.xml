@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T15:34:16.284Z</updated>
+    <updated>2022-04-02T15:45:40.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[问：7次采访何时成为 "正常"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30889019</id>
+        <link href="https://news.ycombinator.com/item?id=30889019"/>
+        <updated>2022-04-02T15:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ASK HN: When did 7 interviews become “normal”?]]></summary>
+        <author>
+            <name>geeky4qwerty</name>
+            <uri>https://news.ycombinator.com/user?id=geeky4qwerty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10年盈亏平衡的通货膨胀率 "有用吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30888888</id>
+        <link href="https://news.ycombinator.com/item?id=30888888"/>
+        <updated>2022-04-02T15:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the “10-Year Breakeven Inflation Rate” Useful?]]></summary>
+        <author>
+            <name>mcculley</name>
+            <uri>https://news.ycombinator.com/user?id=mcculley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人喜欢音乐制作？]]></title>
         <id>https://news.ycombinator.com/item?id=30888916</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>DevToRecruiter</name>
             <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svbtle发生了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30735505</id>
-        <link href="https://news.ycombinator.com/item?id=30735505"/>
-        <updated>2022-03-19T17:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Svbtle?]]></summary>
-        <author>
-            <name>tppiotrowski</name>
-            <uri>https://news.ycombinator.com/user?id=tppiotrowski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找Linux桌面作为日常驱动的阅读材料]]></title>
-        <id>https://news.ycombinator.com/item?id=30735242</id>
-        <link href="https://news.ycombinator.com/item?id=30735242"/>
-        <updated>2022-03-19T16:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for reading materials for Linux desktop as daily driver]]></summary>
-        <author>
-            <name>dclusin</name>
-            <uri>https://news.ycombinator.com/user?id=dclusin</uri>
         </author>
     </entry>
 </feed>
