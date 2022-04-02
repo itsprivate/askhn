@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Apr 2022 17:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 18:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼安德魯-沙利文會被標記？]]></title>
+            <link>https://news.ycombinator.com/item?id=30890254</link>
+            <guid>https://news.ycombinator.com/item?id=30890254</guid>
+            <pubDate>Sat, 02 Apr 2022 18:03:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Is Andrew Sullivan Flagged?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開源軟件的一個貢獻者可以禁止別人的分叉嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30887004</link>
+            <guid>https://news.ycombinator.com/item?id=30887004</guid>
+            <pubDate>Sat, 02 Apr 2022 09:48:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can one contributor of an open source software forbid someone's fork?]]></description>
+        </item>
         <item>
             <title><![CDATA[端到端加密的谷歌文檔]]></title>
             <link>https://news.ycombinator.com/item?id=30890118</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30738750</guid>
             <pubDate>Sun, 20 Mar 2022 00:11:19 GMT</pubDate>
             <description><![CDATA[Ask HN: API to run Python code, what can go wrong?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何給原創作者以榮譽？]]></title>
-            <link>https://news.ycombinator.com/item?id=30738634</link>
-            <guid>https://news.ycombinator.com/item?id=30738634</guid>
-            <pubDate>Sat, 19 Mar 2022 23:48:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you give the original creator credit?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在M1 Mac Mini和Mac Studio之間感到困惑]]></title>
-            <link>https://news.ycombinator.com/item?id=30738054</link>
-            <guid>https://news.ycombinator.com/item?id=30738054</guid>
-            <pubDate>Sat, 19 Mar 2022 22:18:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Confused Between M1 Mac Mini and Mac Studio]]></description>
         </item>
     </channel>
 </rss>

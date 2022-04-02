@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T17:51:54.398Z</updated>
+    <updated>2022-04-02T18:15:00.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么安德鲁-沙利文会被标记？]]></title>
+        <id>https://news.ycombinator.com/item?id=30890254</id>
+        <link href="https://news.ycombinator.com/item?id=30890254"/>
+        <updated>2022-04-02T18:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Is Andrew Sullivan Flagged?]]></summary>
+        <author>
+            <name>chernevik</name>
+            <uri>https://news.ycombinator.com/user?id=chernevik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源软件的一个贡献者可以禁止别人的分叉吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30887004</id>
+        <link href="https://news.ycombinator.com/item?id=30887004"/>
+        <updated>2022-04-02T09:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can one contributor of an open source software forbid someone's fork?]]></summary>
+        <author>
+            <name>mit20220401</name>
+            <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[端到端加密的谷歌文档]]></title>
         <id>https://news.ycombinator.com/item?id=30890118</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nathanganser</name>
             <uri>https://news.ycombinator.com/user?id=nathanganser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何给原创作者以荣誉？]]></title>
-        <id>https://news.ycombinator.com/item?id=30738634</id>
-        <link href="https://news.ycombinator.com/item?id=30738634"/>
-        <updated>2022-03-19T23:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you give the original creator credit?]]></summary>
-        <author>
-            <name>tuangeek</name>
-            <uri>https://news.ycombinator.com/user?id=tuangeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在M1 Mac Mini和Mac Studio之间感到困惑]]></title>
-        <id>https://news.ycombinator.com/item?id=30738054</id>
-        <link href="https://news.ycombinator.com/item?id=30738054"/>
-        <updated>2022-03-19T22:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Confused Between M1 Mac Mini and Mac Studio]]></summary>
-        <author>
-            <name>neya</name>
-            <uri>https://news.ycombinator.com/user?id=neya</uri>
         </author>
     </entry>
 </feed>
