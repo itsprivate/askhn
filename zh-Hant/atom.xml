@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T06:56:35.490Z</updated>
+    <updated>2022-04-02T08:36:49.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[找到一個特定主題的專業人士來有償回答問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30886707</id>
+        <link href="https://news.ycombinator.com/item?id=30886707"/>
+        <updated>2022-04-02T08:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Find a topic-specific professional to answer questions on a paid basis?]]></summary>
+        <author>
+            <name>geuis</name>
+            <uri>https://news.ycombinator.com/user?id=geuis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰在籌款？(2022年4月)]]></title>
         <id>https://news.ycombinator.com/item?id=30886280</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>guilamu</name>
             <uri>https://news.ycombinator.com/user?id=guilamu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對英國的就業知識產權律師有何建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733863</id>
-        <link href="https://news.ycombinator.com/item?id=30733863"/>
-        <updated>2022-03-19T14:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Recommendations for Employment IP Lawyer in the UK]]></summary>
-        <author>
-            <name>jackfruit2</name>
-            <uri>https://news.ycombinator.com/user?id=jackfruit2</uri>
         </author>
     </entry>
 </feed>
