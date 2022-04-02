@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-02T08:36:49.396Z</updated>
+    <updated>2022-04-02T08:53:02.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立創新工程文化？(案例研究/視頻？)]]></title>
+        <id>https://news.ycombinator.com/item?id=30886783</id>
+        <link href="https://news.ycombinator.com/item?id=30886783"/>
+        <updated>2022-04-02T08:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to build innovation engineering culture? (case Studies/ Videos?)]]></summary>
+        <author>
+            <name>Anurag8701</name>
+            <uri>https://news.ycombinator.com/user?id=Anurag8701</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[找到一個特定主題的專業人士來有償回答問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30886707</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>skilled</name>
             <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[給我的手機充電到85%是否可以節省電池的預期壽命？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733937</id>
-        <link href="https://news.ycombinator.com/item?id=30733937"/>
-        <updated>2022-03-19T14:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is charging my phone to 85% saving battery life expectancy?]]></summary>
-        <author>
-            <name>guilamu</name>
-            <uri>https://news.ycombinator.com/user?id=guilamu</uri>
         </author>
     </entry>
 </feed>
