@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T20:43:51.659Z</updated>
+    <updated>2022-04-03T21:12:34.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自微軟公司的網站訪問意味著什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30900510</id>
+        <link href="https://news.ycombinator.com/item?id=30900510"/>
+        <updated>2022-04-03T20:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do website visits from Microsoft Corporation imply?]]></summary>
+        <author>
+            <name>NicoleJO</name>
+            <uri>https://news.ycombinator.com/user?id=NicoleJO</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的工程類重磅博客是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30900390</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>scott01</name>
             <uri>https://news.ycombinator.com/user?id=scott01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投機執行漏洞帶來的現實世界的破壞？]]></title>
-        <id>https://news.ycombinator.com/item?id=30745897</id>
-        <link href="https://news.ycombinator.com/item?id=30745897"/>
-        <updated>2022-03-20T19:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Real-World Breaches from Speculative Execution Vulns?]]></summary>
-        <author>
-            <name>PhantomPhreak</name>
-            <uri>https://news.ycombinator.com/user?id=PhantomPhreak</uri>
         </author>
     </entry>
 </feed>
