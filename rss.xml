@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 03 Apr 2022 20:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 20:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是为了什么工作？金钱、乐趣、无聊、追随_牧民等？]]></title>
+            <link>https://news.ycombinator.com/item?id=30900344</link>
+            <guid>https://news.ycombinator.com/item?id=30900344</guid>
+            <pubDate>Sun, 03 Apr 2022 20:29:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you work for? Money, fun, boredom, following_herd etc.?]]></description>
+        </item>
         <item>
             <title><![CDATA[Stack Overflow的工作机会消失了吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30900152</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30745772</guid>
             <pubDate>Sun, 20 Mar 2022 19:27:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Does anyone know what numbers make gun violence national news?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[查看JSON的本地工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30745508</link>
-            <guid>https://news.ycombinator.com/item?id=30745508</guid>
-            <pubDate>Sun, 20 Mar 2022 19:00:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: Local Tools for Viewing JSON]]></description>
         </item>
     </channel>
 </rss>
