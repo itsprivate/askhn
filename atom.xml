@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T09:41:13.770Z</updated>
+    <updated>2022-04-03T10:45:18.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一个工具可以从规范中生成二进制协议数字？]]></title>
+        <id>https://news.ycombinator.com/item?id=30895905</id>
+        <link href="https://news.ycombinator.com/item?id=30895905"/>
+        <updated>2022-04-03T10:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a tool to generate binary protocol figures out of a spec?]]></summary>
+        <author>
+            <name>vodou</name>
+            <uri>https://news.ycombinator.com/user?id=vodou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于教授高中生的C++或伪代码]]></title>
         <id>https://news.ycombinator.com/item?id=30895657</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pelcg</name>
             <uri>https://news.ycombinator.com/user?id=pelcg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的内燃机汽车最近的MPG值是否降低了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742029</id>
-        <link href="https://news.ycombinator.com/item?id=30742029"/>
-        <updated>2022-03-20T12:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your ICE car getting less MPG lately?]]></summary>
-        <author>
-            <name>tamaharbor</name>
-            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
         </author>
     </entry>
 </feed>
