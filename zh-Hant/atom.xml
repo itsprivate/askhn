@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T20:34:03.021Z</updated>
+    <updated>2022-04-03T20:43:51.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的工程類重磅博客是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30900390</id>
+        <link href="https://news.ycombinator.com/item?id=30900390"/>
+        <updated>2022-04-03T20:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your engineering heavy blogs?]]></summary>
+        <author>
+            <name>ikkah</name>
+            <uri>https://news.ycombinator.com/user?id=ikkah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是為了什麼工作？金錢、樂趣、無聊、追隨_牧民等？]]></title>
         <id>https://news.ycombinator.com/item?id=30900344</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PhantomPhreak</name>
             <uri>https://news.ycombinator.com/user?id=PhantomPhreak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰知道什麼數字能讓槍支暴力成為國家新聞？]]></title>
-        <id>https://news.ycombinator.com/item?id=30745772</id>
-        <link href="https://news.ycombinator.com/item?id=30745772"/>
-        <updated>2022-03-20T19:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone know what numbers make gun violence national news?]]></summary>
-        <author>
-            <name>bwb</name>
-            <uri>https://news.ycombinator.com/user?id=bwb</uri>
         </author>
     </entry>
 </feed>
