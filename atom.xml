@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T07:30:15.990Z</updated>
+    <updated>2022-04-03T08:36:26.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教会我的伙伴SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=30895351</id>
+        <link href="https://news.ycombinator.com/item?id=30895351"/>
+        <updated>2022-04-03T08:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Teaching My Partner SQL]]></summary>
+        <author>
+            <name>m88m</name>
+            <uri>https://news.ycombinator.com/user?id=m88m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你不赞成公司的做法，该怎么做？]]></title>
         <id>https://news.ycombinator.com/item?id=30895119</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>VigneshBaskaran</name>
             <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坦克是否已经过时？]]></title>
-        <id>https://news.ycombinator.com/item?id=30741891</id>
-        <link href="https://news.ycombinator.com/item?id=30741891"/>
-        <updated>2022-03-20T11:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Tanks Obsolete?]]></summary>
-        <author>
-            <name>cellis</name>
-            <uri>https://news.ycombinator.com/user?id=cellis</uri>
         </author>
     </entry>
 </feed>
