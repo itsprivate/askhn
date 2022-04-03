@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T16:48:21.289Z</updated>
+    <updated>2022-04-03T17:19:29.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼這個Racket代碼這麼快？]]></title>
+        <id>https://news.ycombinator.com/item?id=30898503</id>
+        <link href="https://news.ycombinator.com/item?id=30898503"/>
+        <updated>2022-04-03T17:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is this Racket code so fast?]]></summary>
+        <author>
+            <name>exdsq</name>
+            <uri>https://news.ycombinator.com/user?id=exdsq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有關於如何寫好文章的好的音頻資源？]]></title>
         <id>https://news.ycombinator.com/item?id=30898133</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>monkey26</name>
             <uri>https://news.ycombinator.com/user?id=monkey26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國好的非精英CS學校？]]></title>
-        <id>https://news.ycombinator.com/item?id=30744162</id>
-        <link href="https://news.ycombinator.com/item?id=30744162"/>
-        <updated>2022-03-20T16:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good non-elite CS Schools in the US?]]></summary>
-        <author>
-            <name>nhgiang</name>
-            <uri>https://news.ycombinator.com/user?id=nhgiang</uri>
         </author>
     </entry>
 </feed>
