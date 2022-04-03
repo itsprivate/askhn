@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T10:45:18.962Z</updated>
+    <updated>2022-04-03T12:17:33.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，技术写作的最佳平台是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896189</id>
+        <link href="https://news.ycombinator.com/item?id=30896189"/>
+        <updated>2022-04-03T11:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best platform for technical writing in 2022?]]></summary>
+        <author>
+            <name>rco8786</name>
+            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一个工具可以从规范中生成二进制协议数字？]]></title>
         <id>https://news.ycombinator.com/item?id=30895905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonhamp</name>
             <uri>https://news.ycombinator.com/user?id=simonhamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否在2022年使用过NewSQL数据库的生产？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742348</id>
-        <link href="https://news.ycombinator.com/item?id=30742348"/>
-        <updated>2022-03-20T13:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you used NewSQL Databases in Production in 2022?]]></summary>
-        <author>
-            <name>pelcg</name>
-            <uri>https://news.ycombinator.com/user?id=pelcg</uri>
         </author>
     </entry>
 </feed>
