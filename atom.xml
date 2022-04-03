@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T08:36:26.783Z</updated>
+    <updated>2022-04-03T09:41:13.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于教授高中生的C++或伪代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30895657</id>
+        <link href="https://news.ycombinator.com/item?id=30895657"/>
+        <updated>2022-04-03T09:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: C++ or Pseudocode for teaching high schoolers]]></summary>
+        <author>
+            <name>rootsofallevil</name>
+            <uri>https://news.ycombinator.com/user?id=rootsofallevil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教会我的伙伴SQL]]></title>
         <id>https://news.ycombinator.com/item?id=30895351</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tamaharbor</name>
             <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会在YouTube上失去时间吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30741945</id>
-        <link href="https://news.ycombinator.com/item?id=30741945"/>
-        <updated>2022-03-20T12:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you lose time on YouTube?]]></summary>
-        <author>
-            <name>VigneshBaskaran</name>
-            <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
         </author>
     </entry>
 </feed>
