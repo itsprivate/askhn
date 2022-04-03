@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T22:13:11.523Z</updated>
+    <updated>2022-04-03T22:32:46.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只使用基於TOTP的認證是否安全或有隱私問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=30901282</id>
+        <link href="https://news.ycombinator.com/item?id=30901282"/>
+        <updated>2022-04-03T22:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is using just a TOTP based authenticatation safe or a privacy issue]]></summary>
+        <author>
+            <name>ab_testing</name>
+            <uri>https://news.ycombinator.com/user?id=ab_testing</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[識字編程工具推薦]]></title>
+        <id>https://news.ycombinator.com/item?id=30901226</id>
+        <link href="https://news.ycombinator.com/item?id=30901226"/>
+        <updated>2022-04-03T22:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Literate Programming Tool Recommendation]]></summary>
+        <author>
+            <name>w4rh4wk5</name>
+            <uri>https://news.ycombinator.com/user?id=w4rh4wk5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[承包商合同的資源？]]></title>
         <id>https://news.ycombinator.com/item?id=30901189</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>badrabbit</name>
             <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在什麼年齡應該停止考慮別人的職業建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30746973</id>
-        <link href="https://news.ycombinator.com/item?id=30746973"/>
-        <updated>2022-03-20T21:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: At what age should you stop considering career advice from others?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼你一定要這樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30746858</id>
-        <link href="https://news.ycombinator.com/item?id=30746858"/>
-        <updated>2022-03-20T21:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why You Gotta Be Like That?]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
         </author>
     </entry>
 </feed>

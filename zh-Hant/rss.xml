@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 22:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只使用基於TOTP的認證是否安全或有隱私問題？]]></title>
+            <link>https://news.ycombinator.com/item?id=30901282</link>
+            <guid>https://news.ycombinator.com/item?id=30901282</guid>
+            <pubDate>Sun, 03 Apr 2022 22:18:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is using just a TOTP based authenticatation safe or a privacy issue]]></description>
+        </item>
+        <item>
+            <title><![CDATA[識字編程工具推薦]]></title>
+            <link>https://news.ycombinator.com/item?id=30901226</link>
+            <guid>https://news.ycombinator.com/item?id=30901226</guid>
+            <pubDate>Sun, 03 Apr 2022 22:11:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Literate Programming Tool Recommendation]]></description>
+        </item>
         <item>
             <title><![CDATA[承包商合同的資源？]]></title>
             <link>https://news.ycombinator.com/item?id=30901189</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30747462</guid>
             <pubDate>Sun, 20 Mar 2022 22:36:59 GMT</pubDate>
             <description><![CDATA[Ask HN: If there is a replacement for email, what should be the requirements?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在什麼年齡應該停止考慮別人的職業建議？]]></title>
-            <link>https://news.ycombinator.com/item?id=30746973</link>
-            <guid>https://news.ycombinator.com/item?id=30746973</guid>
-            <pubDate>Sun, 20 Mar 2022 21:42:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: At what age should you stop considering career advice from others?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼你一定要這樣？]]></title>
-            <link>https://news.ycombinator.com/item?id=30746858</link>
-            <guid>https://news.ycombinator.com/item?id=30746858</guid>
-            <pubDate>Sun, 20 Mar 2022 21:32:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why You Gotta Be Like That?]]></description>
         </item>
     </channel>
 </rss>
