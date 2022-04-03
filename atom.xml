@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T17:19:29.366Z</updated>
+    <updated>2022-04-03T17:44:08.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是最好的移动博客解决方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=30898702</id>
+        <link href="https://news.ycombinator.com/item?id=30898702"/>
+        <updated>2022-04-03T17:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best mobile blogging solutions?]]></summary>
+        <author>
+            <name>mkdirpepper</name>
+            <uri>https://news.ycombinator.com/user?id=mkdirpepper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么这个Racket代码这么快？]]></title>
         <id>https://news.ycombinator.com/item?id=30898503</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ent101</name>
             <uri>https://news.ycombinator.com/user?id=ent101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现成的用户管理和订阅产品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30744311</id>
-        <link href="https://news.ycombinator.com/item?id=30744311"/>
-        <updated>2022-03-20T16:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Off the shelf user management and subscription product?]]></summary>
-        <author>
-            <name>monkey26</name>
-            <uri>https://news.ycombinator.com/user?id=monkey26</uri>
         </author>
     </entry>
 </feed>

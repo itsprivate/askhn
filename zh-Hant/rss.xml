@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 03 Apr 2022 17:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 17:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼是最好的移動博客解決方案？]]></title>
+            <link>https://news.ycombinator.com/item?id=30898702</link>
+            <guid>https://news.ycombinator.com/item?id=30898702</guid>
+            <pubDate>Sun, 03 Apr 2022 17:32:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the best mobile blogging solutions?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼這個Racket代碼這麼快？]]></title>
             <link>https://news.ycombinator.com/item?id=30898503</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30744392</guid>
             <pubDate>Sun, 20 Mar 2022 17:05:02 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is the Instagram desktop website so unreliable?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[現成的用戶管理和訂閱產品？]]></title>
-            <link>https://news.ycombinator.com/item?id=30744311</link>
-            <guid>https://news.ycombinator.com/item?id=30744311</guid>
-            <pubDate>Sun, 20 Mar 2022 16:55:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Off the shelf user management and subscription product?]]></description>
         </item>
     </channel>
 </rss>
