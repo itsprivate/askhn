@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T21:38:13.890Z</updated>
+    <updated>2022-04-03T22:13:11.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[承包商合同的资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30901189</id>
+        <link href="https://news.ycombinator.com/item?id=30901189"/>
+        <updated>2022-04-03T22:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources for Contractor Contracts?]]></summary>
+        <author>
+            <name>culpable_pickle</name>
+            <uri>https://news.ycombinator.com/user?id=culpable_pickle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制造一个电灯开关有多少个依赖性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30901156</id>
+        <link href="https://news.ycombinator.com/item?id=30901156"/>
+        <updated>2022-04-03T22:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many dependencies does manufacturing a light switch have?]]></summary>
+        <author>
+            <name>qbilius</name>
+            <uri>https://news.ycombinator.com/user?id=qbilius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当前加密货币发展的指南]]></title>
         <id>https://news.ycombinator.com/item?id=30900876</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>staccatomeasure</name>
             <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阻止HN广告？]]></title>
-        <id>https://news.ycombinator.com/item?id=30746643</id>
-        <link href="https://news.ycombinator.com/item?id=30746643"/>
-        <updated>2022-03-20T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you block HN ads?]]></summary>
-        <author>
-            <name>tormock</name>
-            <uri>https://news.ycombinator.com/user?id=tormock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么好的电子商业的无头CMS吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30746497</id>
-        <link href="https://news.ycombinator.com/item?id=30746497"/>
-        <updated>2022-03-20T20:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good headless CMS for ecomerce?]]></summary>
-        <author>
-            <name>imachine1980_</name>
-            <uri>https://news.ycombinator.com/user?id=imachine1980_</uri>
         </author>
     </entry>
 </feed>
