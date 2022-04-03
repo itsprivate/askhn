@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T14:36:56.306Z</updated>
+    <updated>2022-04-03T14:51:49.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能找到時間來研究一個新的想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896053</id>
+        <link href="https://news.ycombinator.com/item?id=30896053"/>
+        <updated>2022-04-03T11:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I find time to work an a new idea?]]></summary>
+        <author>
+            <name>starfishfrog</name>
+            <uri>https://news.ycombinator.com/user?id=starfishfrog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EMP武器能否消除所有的戰爭死亡？]]></title>
         <id>https://news.ycombinator.com/item?id=30897197</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kahon65</name>
             <uri>https://news.ycombinator.com/user?id=kahon65</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觀念？谷歌文檔？ ms word？ 替代方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30742766</id>
-        <link href="https://news.ycombinator.com/item?id=30742766"/>
-        <updated>2022-03-20T14:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Notion? Google Docs? ms word? alternative]]></summary>
-        <author>
-            <name>3000</name>
-            <uri>https://news.ycombinator.com/user?id=3000</uri>
         </author>
     </entry>
 </feed>
