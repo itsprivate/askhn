@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T14:51:49.538Z</updated>
+    <updated>2022-04-03T15:34:15.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wise和Revolut好吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30897564</id>
+        <link href="https://news.ycombinator.com/item?id=30897564"/>
+        <updated>2022-04-03T15:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Wise and Revolut good?]]></summary>
+        <author>
+            <name>Pooge</name>
+            <uri>https://news.ycombinator.com/user?id=Pooge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能找到时间来研究一个新的想法？]]></title>
         <id>https://news.ycombinator.com/item?id=30896053</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lienhoangduy</name>
             <uri>https://news.ycombinator.com/user?id=lienhoangduy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给予安卓应用有用的放松和快乐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30743327</id>
-        <link href="https://news.ycombinator.com/item?id=30743327"/>
-        <updated>2022-03-20T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Give Android apps useful to relax and be happy?]]></summary>
-        <author>
-            <name>kahon65</name>
-            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
         </author>
     </entry>
 </feed>
