@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T12:51:48.917Z</updated>
+    <updated>2022-04-03T13:20:26.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能開始樂觀地思考？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896512</id>
+        <link href="https://news.ycombinator.com/item?id=30896512"/>
+        <updated>2022-04-03T12:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I start thinking optimistically?]]></summary>
+        <author>
+            <name>sideway</name>
+            <uri>https://news.ycombinator.com/user?id=sideway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高我的生產力 - 如何監控我的應用程序和瀏覽器的使用情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30896493</id>
+        <link href="https://news.ycombinator.com/item?id=30896493"/>
+        <updated>2022-04-03T12:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Improving my productivity – how to monitor my usage of apps and browser]]></summary>
+        <author>
+            <name>epimetheus3</name>
+            <uri>https://news.ycombinator.com/user?id=epimetheus3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個白痴的SVG動畫工具？]]></title>
         <id>https://news.ycombinator.com/item?id=30896373</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kirso</name>
             <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些開發訓練營/在線課程對於DevOps來說是有價值的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742324</id>
-        <link href="https://news.ycombinator.com/item?id=30742324"/>
-        <updated>2022-03-20T13:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which dev bootcamps/online courses are good value for DevOps?]]></summary>
-        <author>
-            <name>throzqzy221</name>
-            <uri>https://news.ycombinator.com/user?id=throzqzy221</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上引號似乎有新的、有限的效果或延遲]]></title>
-        <id>https://news.ycombinator.com/item?id=30742539</id>
-        <link href="https://news.ycombinator.com/item?id=30742539"/>
-        <updated>2022-03-20T13:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Upvotes have seemingly new, limited effect or delay]]></summary>
-        <author>
-            <name>eth0up</name>
-            <uri>https://news.ycombinator.com/user?id=eth0up</uri>
         </author>
     </entry>
 </feed>
