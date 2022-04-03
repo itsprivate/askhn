@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T12:17:33.031Z</updated>
+    <updated>2022-04-03T12:51:48.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个白痴的SVG动画工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896373</id>
+        <link href="https://news.ycombinator.com/item?id=30896373"/>
+        <updated>2022-04-03T12:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: An SVG animation tool for idiots?]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，技术写作的最佳平台是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30896189</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eth0up</name>
             <uri>https://news.ycombinator.com/user?id=eth0up</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 "媒介 "会变成这样的垃圾火？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742386</id>
-        <link href="https://news.ycombinator.com/item?id=30742386"/>
-        <updated>2022-03-20T13:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why has Medium become such a trash fire?]]></summary>
-        <author>
-            <name>simonhamp</name>
-            <uri>https://news.ycombinator.com/user?id=simonhamp</uri>
         </author>
     </entry>
 </feed>
