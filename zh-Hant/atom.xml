@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T20:34:30.849Z</updated>
+    <updated>2022-04-04T21:13:24.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你相信俄羅斯謀殺了無辜的平民嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30911925</id>
+        <link href="https://news.ycombinator.com/item?id=30911925"/>
+        <updated>2022-04-04T21:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you believe Russia murdered innocent civilians?]]></summary>
+        <author>
+            <name>firebaze</name>
+            <uri>https://news.ycombinator.com/user?id=firebaze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能開始進行硬件設計（為我的電路設計一個案例）？]]></title>
         <id>https://news.ycombinator.com/item?id=30911545</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hgomersall</name>
             <uri>https://news.ycombinator.com/user?id=hgomersall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的資源可以用來構建開放源代碼的專有分叉？]]></title>
-        <id>https://news.ycombinator.com/item?id=30754896</id>
-        <link href="https://news.ycombinator.com/item?id=30754896"/>
-        <updated>2022-03-21T15:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good resources for structuring proprietary forks of open source?]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
