@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-03T22:32:46.666Z</updated>
+    <updated>2022-04-04T00:39:44.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的孩子在你家哪裡玩？]]></title>
+        <id>https://news.ycombinator.com/item?id=30902050</id>
+        <link href="https://news.ycombinator.com/item?id=30902050"/>
+        <updated>2022-04-04T00:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do your kids play in your house?]]></summary>
+        <author>
+            <name>l2silver</name>
+            <uri>https://news.ycombinator.com/user?id=l2silver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只使用基於TOTP的認證是否安全或有隱私問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30901282</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vaibkv</name>
             <uri>https://news.ycombinator.com/user?id=vaibkv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果有電子郵件的替代品，應該有什麼要求？]]></title>
-        <id>https://news.ycombinator.com/item?id=30747462</id>
-        <link href="https://news.ycombinator.com/item?id=30747462"/>
-        <updated>2022-03-20T22:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If there is a replacement for email, what should be the requirements?]]></summary>
-        <author>
-            <name>badrabbit</name>
-            <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
         </author>
     </entry>
 </feed>
