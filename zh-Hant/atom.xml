@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T19:52:57.265Z</updated>
+    <updated>2022-04-04T20:34:30.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能開始進行硬件設計（為我的電路設計一個案例）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30911545</id>
+        <link href="https://news.ycombinator.com/item?id=30911545"/>
+        <updated>2022-04-04T20:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I get started with hardware design (a case for my circuits)?]]></summary>
+        <author>
+            <name>deepbluesome</name>
+            <uri>https://news.ycombinator.com/user?id=deepbluesome</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何尋找導師？]]></title>
         <id>https://news.ycombinator.com/item?id=30911099</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Go和Rust如此巨大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30754864</id>
-        <link href="https://news.ycombinator.com/item?id=30754864"/>
-        <updated>2022-03-21T14:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are Go and Rust so huge?]]></summary>
-        <author>
-            <name>tormock</name>
-            <uri>https://news.ycombinator.com/user?id=tormock</uri>
         </author>
     </entry>
 </feed>
