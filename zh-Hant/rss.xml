@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[內部API的依賴性映射]]></title>
+            <link>https://news.ycombinator.com/item?id=30909948</link>
+            <guid>https://news.ycombinator.com/item?id=30909948</guid>
+            <pubDate>Mon, 04 Apr 2022 18:04:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Internal APIs Dependency Mapping]]></description>
+        </item>
         <item>
             <title><![CDATA[你的工作是否重要，你的公司是否對世界有積極意義？]]></title>
             <link>https://news.ycombinator.com/item?id=30909694</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30754432</guid>
             <pubDate>Mon, 21 Mar 2022 14:19:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Are you applying to YC as a bio company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在使用Web組件時，有哪些推薦的模式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30754394</link>
-            <guid>https://news.ycombinator.com/item?id=30754394</guid>
-            <pubDate>Mon, 21 Mar 2022 14:16:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are some recommended patterns when using Web Components?]]></description>
         </item>
     </channel>
 </rss>
