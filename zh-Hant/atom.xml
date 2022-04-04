@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T23:34:05.282Z</updated>
+    <updated>2022-04-04T23:44:23.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會使用一個應用程序來保存/分享代碼片段嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30913374</id>
+        <link href="https://news.ycombinator.com/item?id=30913374"/>
+        <updated>2022-04-04T23:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you use a app to save/share code snippets?]]></summary>
+        <author>
+            <name>hershyb_</name>
+            <uri>https://news.ycombinator.com/user?id=hershyb_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何學習軟件架構？]]></title>
         <id>https://news.ycombinator.com/item?id=30913173</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sweetheart</name>
             <uri>https://news.ycombinator.com/user?id=sweetheart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼在自由薯條歇斯底里的時候很難對其進行批評？]]></title>
-        <id>https://news.ycombinator.com/item?id=30755447</id>
-        <link href="https://news.ycombinator.com/item?id=30755447"/>
-        <updated>2022-03-21T15:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why was it hard to criticize Freedom Fries hysteria while it lasted?]]></summary>
-        <author>
-            <name>acadapter</name>
-            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你会使用一个应用程序来保存/分享代码片段吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30913374</link>
+            <guid>https://news.ycombinator.com/item?id=30913374</guid>
+            <pubDate>Mon, 04 Apr 2022 23:36:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would you use a app to save/share code snippets?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何学习软件架构？]]></title>
             <link>https://news.ycombinator.com/item?id=30913173</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30755625</guid>
             <pubDate>Mon, 21 Mar 2022 16:01:40 GMT</pubDate>
             <description><![CDATA[Ask HN: Is an AWS certification worth it for learning the basics of dev ops?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么在自由薯条歇斯底里的时候很难对其进行批评？]]></title>
-            <link>https://news.ycombinator.com/item?id=30755447</link>
-            <guid>https://news.ycombinator.com/item?id=30755447</guid>
-            <pubDate>Mon, 21 Mar 2022 15:49:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why was it hard to criticize Freedom Fries hysteria while it lasted?]]></description>
         </item>
     </channel>
 </rss>
