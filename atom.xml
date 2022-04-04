@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T16:54:29.561Z</updated>
+    <updated>2022-04-04T17:20:07.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于美国互联网连接的数据集？]]></title>
+        <id>https://news.ycombinator.com/item?id=30909109</id>
+        <link href="https://news.ycombinator.com/item?id=30909109"/>
+        <updated>2022-04-04T17:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Datasets on US Internet Connectivity?]]></summary>
+        <author>
+            <name>bingdig</name>
+            <uri>https://news.ycombinator.com/user?id=bingdig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在接受工作之前，你会考虑哪些行业的具体因素？]]></title>
+        <id>https://news.ycombinator.com/item?id=30908998</id>
+        <link href="https://news.ycombinator.com/item?id=30908998"/>
+        <updated>2022-04-04T16:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which industry specific factors do you consider before accepting a job?]]></summary>
+        <author>
+            <name>sbmthakur</name>
+            <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[远程工作的人如何防止来自家庭的干扰？]]></title>
         <id>https://news.ycombinator.com/item?id=30908670</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>manx</name>
             <uri>https://news.ycombinator.com/user?id=manx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在建立创业公司时面临的最大挑战是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30753737</id>
-        <link href="https://news.ycombinator.com/item?id=30753737"/>
-        <updated>2022-03-21T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the biggest challenges you faced while building your startup?]]></summary>
-        <author>
-            <name>VigneshBaskaran</name>
-            <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于macOS开发的书籍推荐]]></title>
-        <id>https://news.ycombinator.com/item?id=30753584</id>
-        <link href="https://news.ycombinator.com/item?id=30753584"/>
-        <updated>2022-03-21T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Book Recommendation for macOS Development]]></summary>
-        <author>
-            <name>soapdog</name>
-            <uri>https://news.ycombinator.com/user?id=soapdog</uri>
         </author>
     </entry>
 </feed>
