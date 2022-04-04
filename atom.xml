@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T05:12:15.025Z</updated>
+    <updated>2022-04-04T06:14:55.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何现代智能手机的电池都是可拆卸的电池吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30903714</id>
+        <link href="https://news.ycombinator.com/item?id=30903714"/>
+        <updated>2022-04-04T06:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any modern smartphone battery being as removable battery?]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪里可以无偿出售你的SaaS？]]></title>
         <id>https://news.ycombinator.com/item?id=30903457</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tjstebbing</name>
             <uri>https://news.ycombinator.com/user?id=tjstebbing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何与联合创始人成立一个50/50所有权的公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30744292</id>
-        <link href="https://news.ycombinator.com/item?id=30744292"/>
-        <updated>2022-03-20T16:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to set up a 50/50 ownership company with a co-founder?]]></summary>
-        <author>
-            <name>cinchase3</name>
-            <uri>https://news.ycombinator.com/user?id=cinchase3</uri>
         </author>
     </entry>
 </feed>
