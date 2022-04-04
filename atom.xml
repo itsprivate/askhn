@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T22:34:39.731Z</updated>
+    <updated>2022-04-04T23:34:05.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何学习软件架构？]]></title>
+        <id>https://news.ycombinator.com/item?id=30913173</id>
+        <link href="https://news.ycombinator.com/item?id=30913173"/>
+        <updated>2022-04-04T23:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Learn Software Architecture?]]></summary>
+        <author>
+            <name>going_ham</name>
+            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多少次跳槽才算多？]]></title>
         <id>https://news.ycombinator.com/item?id=30912794</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>acadapter</name>
             <uri>https://news.ycombinator.com/user?id=acadapter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么苹果要创造他们半生不熟的Metal而不是使用Vulkan？]]></title>
-        <id>https://news.ycombinator.com/item?id=30755407</id>
-        <link href="https://news.ycombinator.com/item?id=30755407"/>
-        <updated>2022-03-21T15:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Apple create their half-baked Metal insead of using Vulkan?]]></summary>
-        <author>
-            <name>sergiotapia</name>
-            <uri>https://news.ycombinator.com/user?id=sergiotapia</uri>
         </author>
     </entry>
 </feed>
