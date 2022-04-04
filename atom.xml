@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T22:12:18.370Z</updated>
+    <updated>2022-04-04T22:34:39.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多少次跳槽才算多？]]></title>
+        <id>https://news.ycombinator.com/item?id=30912794</id>
+        <link href="https://news.ycombinator.com/item?id=30912794"/>
+        <updated>2022-04-04T22:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much job hopping is too much?]]></summary>
+        <author>
+            <name>ishiz</name>
+            <uri>https://news.ycombinator.com/user?id=ishiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何深入工作的？]]></title>
         <id>https://news.ycombinator.com/item?id=30912561</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sergiotapia</name>
             <uri>https://news.ycombinator.com/user?id=sergiotapia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么可利用的书籍推荐来发展我的贝叶斯思维吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30755259</id>
-        <link href="https://news.ycombinator.com/item?id=30755259"/>
-        <updated>2022-03-21T15:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any accessible book recommendations to develop my Bayesian thinking?]]></summary>
-        <author>
-            <name>ggfgdjfhgjsdhfg</name>
-            <uri>https://news.ycombinator.com/user?id=ggfgdjfhgjsdhfg</uri>
         </author>
     </entry>
 </feed>
