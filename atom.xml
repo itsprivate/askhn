@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T00:39:44.697Z</updated>
+    <updated>2022-04-04T02:32:30.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁成功解封了他们的Airbnb账户？]]></title>
+        <id>https://news.ycombinator.com/item?id=30902654</id>
+        <link href="https://news.ycombinator.com/item?id=30902654"/>
+        <updated>2022-04-04T01:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone successfully unblocked their Airbnb account?]]></summary>
+        <author>
+            <name>hahla</name>
+            <uri>https://news.ycombinator.com/user?id=hahla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你有关于如何使用特征旗的指南吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30902258</id>
+        <link href="https://news.ycombinator.com/item?id=30902258"/>
+        <updated>2022-04-04T00:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you have a guide on how to use feature flags?]]></summary>
+        <author>
+            <name>victor_e</name>
+            <uri>https://news.ycombinator.com/user?id=victor_e</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的孩子在你家哪里玩？]]></title>
         <id>https://news.ycombinator.com/item?id=30902050</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你怎么能用Hubspot自我托管？]]></title>
-        <id>https://news.ycombinator.com/item?id=30747984</id>
-        <link href="https://news.ycombinator.com/item?id=30747984"/>
-        <updated>2022-03-20T23:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can you self-host with Hubspot?]]></summary>
-        <author>
-            <name>ripcurl</name>
-            <uri>https://news.ycombinator.com/user?id=ripcurl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习分布式微服务的建议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30747609</id>
-        <link href="https://news.ycombinator.com/item?id=30747609"/>
-        <updated>2022-03-20T22:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for Learning Distributed Microservices?]]></summary>
-        <author>
-            <name>vaibkv</name>
-            <uri>https://news.ycombinator.com/user?id=vaibkv</uri>
         </author>
     </entry>
 </feed>

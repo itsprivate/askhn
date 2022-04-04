@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 04 Apr 2022 00:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 02:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有谁成功解封了他们的Airbnb账户？]]></title>
+            <link>https://news.ycombinator.com/item?id=30902654</link>
+            <guid>https://news.ycombinator.com/item?id=30902654</guid>
+            <pubDate>Mon, 04 Apr 2022 01:57:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has anyone successfully unblocked their Airbnb account?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你有关于如何使用特征旗的指南吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30902258</link>
+            <guid>https://news.ycombinator.com/item?id=30902258</guid>
+            <pubDate>Mon, 04 Apr 2022 00:38:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you have a guide on how to use feature flags?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的孩子在你家哪里玩？]]></title>
             <link>https://news.ycombinator.com/item?id=30902050</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30748023</guid>
             <pubDate>Sun, 20 Mar 2022 23:42:57 GMT</pubDate>
             <description><![CDATA[Ask HN: Dark-Triad-Free Workplaces?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你怎么能用Hubspot自我托管？]]></title>
-            <link>https://news.ycombinator.com/item?id=30747984</link>
-            <guid>https://news.ycombinator.com/item?id=30747984</guid>
-            <pubDate>Sun, 20 Mar 2022 23:37:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can you self-host with Hubspot?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学习分布式微服务的建议？]]></title>
-            <link>https://news.ycombinator.com/item?id=30747609</link>
-            <guid>https://news.ycombinator.com/item?id=30747609</guid>
-            <pubDate>Sun, 20 Mar 2022 22:53:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Recommendations for Learning Distributed Microservices?]]></description>
         </item>
     </channel>
 </rss>
