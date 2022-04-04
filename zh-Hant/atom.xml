@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T06:14:55.985Z</updated>
+    <updated>2022-04-04T07:51:54.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪裡可以銷售不盈利的SaaS？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904208</id>
+        <link href="https://news.ycombinator.com/item?id=30904208"/>
+        <updated>2022-04-04T07:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can you sell a non-profitable SaaS?]]></summary>
+        <author>
+            <name>AlexandrBel</name>
+            <uri>https://news.ycombinator.com/user?id=AlexandrBel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何現代智能手機的電池都是可拆卸的電池嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30903714</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mchaynes</name>
             <uri>https://news.ycombinator.com/user?id=mchaynes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼人們在邪惡的大公司工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30749346</id>
-        <link href="https://news.ycombinator.com/item?id=30749346"/>
-        <updated>2022-03-21T02:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do people work at evil megacorps?]]></summary>
-        <author>
-            <name>tjstebbing</name>
-            <uri>https://news.ycombinator.com/user?id=tjstebbing</uri>
         </author>
     </entry>
 </feed>
