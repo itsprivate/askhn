@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T07:51:54.457Z</updated>
+    <updated>2022-04-04T09:00:01.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎么知道你什么时候需要休息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904462</id>
+        <link href="https://news.ycombinator.com/item?id=30904462"/>
+        <updated>2022-04-04T08:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you know when you need a break?]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪里可以销售不盈利的SaaS？]]></title>
         <id>https://news.ycombinator.com/item?id=30904208</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你想如何与云互动？]]></title>
-        <id>https://news.ycombinator.com/item?id=30749447</id>
-        <link href="https://news.ycombinator.com/item?id=30749447"/>
-        <updated>2022-03-21T02:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you like to interact with the cloud?]]></summary>
-        <author>
-            <name>mchaynes</name>
-            <uri>https://news.ycombinator.com/user?id=mchaynes</uri>
         </author>
     </entry>
 </feed>
