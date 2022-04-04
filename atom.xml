@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T12:20:07.806Z</updated>
+    <updated>2022-04-04T14:14:19.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这里有人成功地创办了一家电子游戏公司吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30906739</id>
+        <link href="https://news.ycombinator.com/item?id=30906739"/>
+        <updated>2022-04-04T14:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anybody here successfully start a videogame company?]]></summary>
+        <author>
+            <name>eezurr</name>
+            <uri>https://news.ycombinator.com/user?id=eezurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的数字遗产计划是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30905654</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EnKopVand</name>
             <uri>https://news.ycombinator.com/user?id=EnKopVand</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家安全局能有多大的领先优势？]]></title>
-        <id>https://news.ycombinator.com/item?id=30750913</id>
-        <link href="https://news.ycombinator.com/item?id=30750913"/>
-        <updated>2022-03-21T06:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How far ahead could the NSA be?]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
