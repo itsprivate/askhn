@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T14:32:37.431Z</updated>
+    <updated>2022-04-04T15:15:26.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能訓練自己有好的想法嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30907498</id>
+        <link href="https://news.ycombinator.com/item?id=30907498"/>
+        <updated>2022-04-04T15:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you train yourself into having good ideas?]]></summary>
+        <author>
+            <name>krrishd</name>
+            <uri>https://news.ycombinator.com/user?id=krrishd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS計費？]]></title>
+        <id>https://news.ycombinator.com/item?id=30907308</id>
+        <link href="https://news.ycombinator.com/item?id=30907308"/>
+        <updated>2022-04-04T14:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SaaS Billing?]]></summary>
+        <author>
+            <name>3000</name>
+            <uri>https://news.ycombinator.com/user?id=3000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有覺得職業是煙霧繚繞的？]]></title>
         <id>https://news.ycombinator.com/item?id=30906984</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>impjohn</name>
             <uri>https://news.ycombinator.com/user?id=impjohn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我被麻省理工學院錄取了。我應該去嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30752396</id>
-        <link href="https://news.ycombinator.com/item?id=30752396"/>
-        <updated>2022-03-21T10:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I got into MIT. Should I go?]]></summary>
-        <author>
-            <name>throwaway7819</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway7819</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在驗證Statup想法時面臨的最大挑戰是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30751783</id>
-        <link href="https://news.ycombinator.com/item?id=30751783"/>
-        <updated>2022-03-21T08:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the biggest challenges you faced while validating statup ideas?]]></summary>
-        <author>
-            <name>VigneshBaskaran</name>
-            <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
         </author>
     </entry>
 </feed>
