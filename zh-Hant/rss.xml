@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 16:54:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[遠程工作的人如何防止來自家庭的干擾？]]></title>
+            <link>https://news.ycombinator.com/item?id=30908670</link>
+            <guid>https://news.ycombinator.com/item?id=30908670</guid>
+            <pubDate>Mon, 04 Apr 2022 16:37:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do people working remotely prevent interruptions from family?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我想為macOS製作一個原生UI。我應該用什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30908537</link>
+            <guid>https://news.ycombinator.com/item?id=30908537</guid>
+            <pubDate>Mon, 04 Apr 2022 16:27:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: I want to make a native UI for macOS. What do I use?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[請假了嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30908330</link>
+            <guid>https://news.ycombinator.com/item?id=30908330</guid>
+            <pubDate>Mon, 04 Apr 2022 16:12:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: Taking Time Off?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼通過Tor創建的賬戶會立即被影子禁止？]]></title>
             <link>https://news.ycombinator.com/item?id=30907875</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30753584</guid>
             <pubDate>Mon, 21 Mar 2022 13:00:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Book Recommendation for macOS Development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰的業務運作沒有電子郵件？]]></title>
-            <link>https://news.ycombinator.com/item?id=30753186</link>
-            <guid>https://news.ycombinator.com/item?id=30753186</guid>
-            <pubDate>Mon, 21 Mar 2022 12:18:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Whose business operates without email?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mac仍然是視頻編輯的最佳選擇嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30752851</link>
-            <guid>https://news.ycombinator.com/item?id=30752851</guid>
-            <pubDate>Mon, 21 Mar 2022 11:36:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is a Mac still the best for video editing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪種併發問題最適合用來比較CSP和內存共享？]]></title>
-            <link>https://news.ycombinator.com/item?id=30751920</link>
-            <guid>https://news.ycombinator.com/item?id=30751920</guid>
-            <pubDate>Mon, 21 Mar 2022 09:16:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which concurrency problem is best to compare CSP and memory sharing?]]></description>
         </item>
     </channel>
 </rss>
