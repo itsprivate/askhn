@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T21:13:24.251Z</updated>
+    <updated>2022-04-04T21:51:31.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些最好的DevOps/engops社區值得加入？]]></title>
+        <id>https://news.ycombinator.com/item?id=30912279</id>
+        <link href="https://news.ycombinator.com/item?id=30912279"/>
+        <updated>2022-04-04T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best DevOps / engops communities out there worth joining?]]></summary>
+        <author>
+            <name>vgordon</name>
+            <uri>https://news.ycombinator.com/user?id=vgordon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你相信俄羅斯謀殺了無辜的平民嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30911925</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穩健地顯示視頻中的信息（~4kb/s）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30754999</id>
-        <link href="https://news.ycombinator.com/item?id=30754999"/>
-        <updated>2022-03-21T15:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Robustly displaying information in a video (~4kb/s)]]></summary>
-        <author>
-            <name>hgomersall</name>
-            <uri>https://news.ycombinator.com/user?id=hgomersall</uri>
         </author>
     </entry>
 </feed>
