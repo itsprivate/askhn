@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 17:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 17:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有哪些最好的DevOps/engops社区值得加入？]]></title>
+            <link>https://news.ycombinator.com/item?id=30922296</link>
+            <guid>https://news.ycombinator.com/item?id=30922296</guid>
+            <pubDate>Tue, 05 Apr 2022 17:45:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the best DevOps / engops communities out there worth joining?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在你的网络应用中使用什么开源的可视化工作流库？]]></title>
             <link>https://news.ycombinator.com/item?id=30921865</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30763778</guid>
             <pubDate>Tue, 22 Mar 2022 08:20:36 GMT</pubDate>
             <description><![CDATA[Ask HN: How to go about learning react from ground up?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Okta公司关于漏洞的最新情况如何？]]></title>
-            <link>https://news.ycombinator.com/item?id=30763560</link>
-            <guid>https://news.ycombinator.com/item?id=30763560</guid>
-            <pubDate>Tue, 22 Mar 2022 07:39:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where is the update from Okta on the breach?]]></description>
         </item>
     </channel>
 </rss>

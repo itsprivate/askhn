@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T17:37:33.121Z</updated>
+    <updated>2022-04-05T17:52:31.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些最好的DevOps/engops社區值得加入？]]></title>
+        <id>https://news.ycombinator.com/item?id=30922296</id>
+        <link href="https://news.ycombinator.com/item?id=30922296"/>
+        <updated>2022-04-05T17:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best DevOps / engops communities out there worth joining?]]></summary>
+        <author>
+            <name>matthewtovbin</name>
+            <uri>https://news.ycombinator.com/user?id=matthewtovbin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在你的網絡應用中使用什麼開源的可視化工作流庫？]]></title>
         <id>https://news.ycombinator.com/item?id=30921865</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Utkarsh_Mood</name>
             <uri>https://news.ycombinator.com/user?id=Utkarsh_Mood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta公司關於漏洞的最新情況如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30763560</id>
-        <link href="https://news.ycombinator.com/item?id=30763560"/>
-        <updated>2022-03-22T07:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where is the update from Okta on the breach?]]></summary>
-        <author>
-            <name>parimm</name>
-            <uri>https://news.ycombinator.com/user?id=parimm</uri>
         </author>
     </entry>
 </feed>
