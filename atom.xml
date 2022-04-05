@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T09:32:17.757Z</updated>
+    <updated>2022-04-05T10:14:51.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我应该购买用于软件开发的MacBook M1 Pro还是M1 Max？]]></title>
+        <id>https://news.ycombinator.com/item?id=30917142</id>
+        <link href="https://news.ycombinator.com/item?id=30917142"/>
+        <updated>2022-04-05T10:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I buy MacBook M1 Pro or M1 Max for software development]]></summary>
+        <author>
+            <name>mr_o47</name>
+            <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大型/受监管的）科技公司如何部署？]]></title>
         <id>https://news.ycombinator.com/item?id=30916909</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway413</name>
             <uri>https://news.ycombinator.com/user?id=throwaway413</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁对通过MQTT获得新文件通知感兴趣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30758166</id>
-        <link href="https://news.ycombinator.com/item?id=30758166"/>
-        <updated>2022-03-21T18:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone interested in getting new file notifications via MQTT?]]></summary>
-        <author>
-            <name>FerretFred</name>
-            <uri>https://news.ycombinator.com/user?id=FerretFred</uri>
         </author>
     </entry>
 </feed>
