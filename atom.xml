@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T04:39:28.592Z</updated>
+    <updated>2022-04-05T04:57:57.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有关于股市技术的博客/文章？]]></title>
+        <id>https://news.ycombinator.com/item?id=30915392</id>
+        <link href="https://news.ycombinator.com/item?id=30915392"/>
+        <updated>2022-04-05T04:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any blogs/articles about stock market tech?]]></summary>
+        <author>
+            <name>hahnchen</name>
+            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你讨厌远程工作的什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30915210</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rroarke</name>
             <uri>https://news.ycombinator.com/user?id=rroarke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse和MMO之间的区别？]]></title>
-        <id>https://news.ycombinator.com/item?id=30756771</id>
-        <link href="https://news.ycombinator.com/item?id=30756771"/>
-        <updated>2022-03-21T17:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Difference Between Metaverse and MMOs?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
