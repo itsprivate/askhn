@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T18:14:49.293Z</updated>
+    <updated>2022-04-05T19:28:18.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用或不使用抗抑郁药就能战胜抑郁症？]]></title>
+        <id>https://news.ycombinator.com/item?id=30923701</id>
+        <link href="https://news.ycombinator.com/item?id=30923701"/>
+        <updated>2022-04-05T19:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Beating depression with or without anti-depressants?]]></summary>
+        <author>
+            <name>jpgvm</name>
+            <uri>https://news.ycombinator.com/user?id=jpgvm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何让谷歌地图修复他们的数据]]></title>
         <id>https://news.ycombinator.com/item?id=30922506</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>siva7</name>
             <uri>https://news.ycombinator.com/user?id=siva7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在哪里部署一个基于Docker的小型网络应用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30764400</id>
-        <link href="https://news.ycombinator.com/item?id=30764400"/>
-        <updated>2022-03-22T10:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to deploy a small web application based on Docker?]]></summary>
-        <author>
-            <name>lormayna</name>
-            <uri>https://news.ycombinator.com/user?id=lormayna</uri>
         </author>
     </entry>
 </feed>
