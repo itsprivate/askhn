@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T14:15:51.987Z</updated>
+    <updated>2022-04-05T14:33:02.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FAANG的員工是否適合早期創業公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30919418</id>
+        <link href="https://news.ycombinator.com/item?id=30919418"/>
+        <updated>2022-04-05T14:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are FAANG employees right for an early-stage startup?]]></summary>
+        <author>
+            <name>bethere</name>
+            <uri>https://news.ycombinator.com/user?id=bethere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們可以建立什麼軟件來幫助烏克蘭人？]]></title>
         <id>https://news.ycombinator.com/item?id=30919171</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>startblue</name>
             <uri>https://news.ycombinator.com/user?id=startblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何靠副業賺取1000美元/月？有什麼想法嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30759862</id>
-        <link href="https://news.ycombinator.com/item?id=30759862"/>
-        <updated>2022-03-21T21:22:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make $1000/month on side projects? Any idea?]]></summary>
-        <author>
-            <name>siamak_rp</name>
-            <uri>https://news.ycombinator.com/user?id=siamak_rp</uri>
         </author>
     </entry>
 </feed>
