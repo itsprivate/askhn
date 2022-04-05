@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T16:53:36.546Z</updated>
+    <updated>2022-04-05T17:08:58.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Facebook广告之外还有什么其他选择？]]></title>
+        <id>https://news.ycombinator.com/item?id=30921514</id>
+        <link href="https://news.ycombinator.com/item?id=30921514"/>
+        <updated>2022-04-05T16:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What other options exist outside of Facebook Ads?]]></summary>
+        <author>
+            <name>chrisfrantz</name>
+            <uri>https://news.ycombinator.com/user?id=chrisfrantz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么一个公司只给员工提供台式电脑是合法的？]]></title>
         <id>https://news.ycombinator.com/item?id=30920861</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lapaz17</name>
             <uri>https://news.ycombinator.com/user?id=lapaz17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帕累托（80-20）原则是否适用于软件复杂性？]]></title>
-        <id>https://news.ycombinator.com/item?id=30761305</id>
-        <link href="https://news.ycombinator.com/item?id=30761305"/>
-        <updated>2022-03-22T00:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does the Pareto (80-20) Principle apply to software complexity?]]></summary>
-        <author>
-            <name>luddite99</name>
-            <uri>https://news.ycombinator.com/user?id=luddite99</uri>
         </author>
     </entry>
 </feed>
