@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T05:12:16.486Z</updated>
+    <updated>2022-04-05T07:39:46.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找比较人脑和神经网络的文章]]></title>
+        <id>https://news.ycombinator.com/item?id=30916283</id>
+        <link href="https://news.ycombinator.com/item?id=30916283"/>
+        <updated>2022-04-05T07:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for article comparing human brain with neural nets]]></summary>
+        <author>
+            <name>kecupochren</name>
+            <uri>https://news.ycombinator.com/user?id=kecupochren</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[模拟与游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30915424</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uhxvt</name>
             <uri>https://news.ycombinator.com/user?id=uhxvt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建设的冲动很强烈，有什么想法吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30757634</id>
-        <link href="https://news.ycombinator.com/item?id=30757634"/>
-        <updated>2022-03-21T18:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: The urge to build is strong, any ideas?]]></summary>
-        <author>
-            <name>username_exists</name>
-            <uri>https://news.ycombinator.com/user?id=username_exists</uri>
         </author>
     </entry>
 </feed>
