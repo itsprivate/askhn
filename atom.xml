@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T10:43:06.694Z</updated>
+    <updated>2022-04-05T11:39:16.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些书是有抱负的技术带头人的必读之作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30917665</id>
+        <link href="https://news.ycombinator.com/item?id=30917665"/>
+        <updated>2022-04-05T11:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which books are essential reading for aspiring tech leads?]]></summary>
+        <author>
+            <name>bananapear</name>
+            <uri>https://news.ycombinator.com/user?id=bananapear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云供应商锁定是否重要？]]></title>
         <id>https://news.ycombinator.com/item?id=30917339</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gogenerics</name>
             <uri>https://news.ycombinator.com/user?id=gogenerics</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些有前途的副业/单干事业想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30758393</id>
-        <link href="https://news.ycombinator.com/item?id=30758393"/>
-        <updated>2022-03-21T19:11:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some promising side/solo business ideas?]]></summary>
-        <author>
-            <name>Thomasmack</name>
-            <uri>https://news.ycombinator.com/user?id=Thomasmack</uri>
         </author>
     </entry>
 </feed>
