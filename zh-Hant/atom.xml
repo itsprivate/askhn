@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T07:54:30.159Z</updated>
+    <updated>2022-04-05T09:32:17.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大型/受監管的）科技公司如何部署？]]></title>
+        <id>https://news.ycombinator.com/item?id=30916909</id>
+        <link href="https://news.ycombinator.com/item?id=30916909"/>
+        <updated>2022-04-05T09:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do (big/regulated) tech companies deploy?]]></summary>
+        <author>
+            <name>indale</name>
+            <uri>https://news.ycombinator.com/user?id=indale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的生活的 "數字尺寸 "是多少，有什麼東西會進入？]]></title>
         <id>https://news.ycombinator.com/item?id=30916302</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>FerretFred</name>
             <uri>https://news.ycombinator.com/user?id=FerretFred</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為代碼生成用戶文檔覆蓋面的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30757919</id>
-        <link href="https://news.ycombinator.com/item?id=30757919"/>
-        <updated>2022-03-21T18:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tools to generate coverage of user documentation for code]]></summary>
-        <author>
-            <name>tstack</name>
-            <uri>https://news.ycombinator.com/user?id=tstack</uri>
         </author>
     </entry>
 </feed>
