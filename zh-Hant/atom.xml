@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T12:56:20.036Z</updated>
+    <updated>2022-04-05T13:50:08.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你什麼時候誠實地接受了編程不適合你的說法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30918865</id>
+        <link href="https://news.ycombinator.com/item?id=30918865"/>
+        <updated>2022-04-05T13:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When did you honestly accepted that programming is not for you?]]></summary>
+        <author>
+            <name>nktsg</name>
+            <uri>https://news.ycombinator.com/user?id=nktsg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的MVP應該是怎樣的雲原生？]]></title>
+        <id>https://news.ycombinator.com/item?id=30918743</id>
+        <link href="https://news.ycombinator.com/item?id=30918743"/>
+        <updated>2022-04-05T13:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Cloud-Native should my MVP be?]]></summary>
+        <author>
+            <name>elden_bling</name>
+            <uri>https://news.ycombinator.com/user?id=elden_bling</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糟糕的電池壽命是否有利於鼓勵你工作中的休息？]]></title>
+        <id>https://news.ycombinator.com/item?id=30918718</id>
+        <link href="https://news.ycombinator.com/item?id=30918718"/>
+        <updated>2022-04-05T13:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is poor battery life good for encouraging you to take breaks from work?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們為什麼要相信美國的投票系統？]]></title>
         <id>https://news.ycombinator.com/item?id=30918279</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>starboyy</name>
             <uri>https://news.ycombinator.com/user?id=starboyy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的基於鍵盤的生產力軟件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30759033</id>
-        <link href="https://news.ycombinator.com/item?id=30759033"/>
-        <updated>2022-03-21T20:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best keyboard-based productivity software?]]></summary>
-        <author>
-            <name>ridaj</name>
-            <uri>https://news.ycombinator.com/user?id=ridaj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新定義你對編程的看法的編程理念]]></title>
-        <id>https://news.ycombinator.com/item?id=30758776</id>
-        <link href="https://news.ycombinator.com/item?id=30758776"/>
-        <updated>2022-03-21T19:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Programming ideas that redefine the way you look at programming]]></summary>
-        <author>
-            <name>rmnull</name>
-            <uri>https://news.ycombinator.com/user?id=rmnull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰在這裡自行託管？介意分享你的規格和負載統計嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30758657</id>
-        <link href="https://news.ycombinator.com/item?id=30758657"/>
-        <updated>2022-03-21T19:33:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone self hosting here? Mind sharing your specs and load stats?]]></summary>
-        <author>
-            <name>s1k3s</name>
-            <uri>https://news.ycombinator.com/user?id=s1k3s</uri>
         </author>
     </entry>
 </feed>

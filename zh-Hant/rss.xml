@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 12:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 13:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你什麼時候誠實地接受了編程不適合你的說法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30918865</link>
+            <guid>https://news.ycombinator.com/item?id=30918865</guid>
+            <pubDate>Tue, 05 Apr 2022 13:42:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: When did you honestly accepted that programming is not for you?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的MVP應該是怎樣的雲原生？]]></title>
+            <link>https://news.ycombinator.com/item?id=30918743</link>
+            <guid>https://news.ycombinator.com/item?id=30918743</guid>
+            <pubDate>Tue, 05 Apr 2022 13:31:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: How Cloud-Native should my MVP be?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[糟糕的電池壽命是否有利於鼓勵你工作中的休息？]]></title>
+            <link>https://news.ycombinator.com/item?id=30918718</link>
+            <guid>https://news.ycombinator.com/item?id=30918718</guid>
+            <pubDate>Tue, 05 Apr 2022 13:29:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is poor battery life good for encouraging you to take breaks from work?]]></description>
+        </item>
         <item>
             <title><![CDATA[我們為什麼要相信美國的投票系統？]]></title>
             <link>https://news.ycombinator.com/item?id=30918279</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30759398</guid>
             <pubDate>Mon, 21 Mar 2022 20:38:27 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the advanced real time, highly accurate Slam algorithm existing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最好的基於鍵盤的生產力軟件？]]></title>
-            <link>https://news.ycombinator.com/item?id=30759033</link>
-            <guid>https://news.ycombinator.com/item?id=30759033</guid>
-            <pubDate>Mon, 21 Mar 2022 20:05:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best keyboard-based productivity software?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新定義你對編程的看法的編程理念]]></title>
-            <link>https://news.ycombinator.com/item?id=30758776</link>
-            <guid>https://news.ycombinator.com/item?id=30758776</guid>
-            <pubDate>Mon, 21 Mar 2022 19:42:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Programming ideas that redefine the way you look at programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有誰在這裡自行託管？介意分享你的規格和負載統計嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30758657</link>
-            <guid>https://news.ycombinator.com/item?id=30758657</guid>
-            <pubDate>Mon, 21 Mar 2022 19:33:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone self hosting here? Mind sharing your specs and load stats?]]></description>
         </item>
     </channel>
 </rss>
