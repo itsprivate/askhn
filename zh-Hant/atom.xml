@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T03:58:39.718Z</updated>
+    <updated>2022-04-05T04:39:28.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你討厭遠程工作的什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30915210</id>
+        <link href="https://news.ycombinator.com/item?id=30915210"/>
+        <updated>2022-04-05T04:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you hate about remote work?]]></summary>
+        <author>
+            <name>joshbochu</name>
+            <uri>https://news.ycombinator.com/user?id=joshbochu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探討創造性和知識性生活的方式]]></title>
         <id>https://news.ycombinator.com/item?id=30915081</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會給正在努力實現FedRAMP ATO的SaaS團隊什麼建議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30756655</id>
-        <link href="https://news.ycombinator.com/item?id=30756655"/>
-        <updated>2022-03-21T17:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What advice would you offer a SaaS team working toward FedRAMP ATO?]]></summary>
-        <author>
-            <name>kfrzcode</name>
-            <uri>https://news.ycombinator.com/user?id=kfrzcode</uri>
         </author>
     </entry>
 </feed>
