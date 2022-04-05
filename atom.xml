@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T14:33:02.540Z</updated>
+    <updated>2022-04-05T15:39:06.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[语法方面的书籍推荐，因为它与计算机有关？]]></title>
+        <id>https://news.ycombinator.com/item?id=30920097</id>
+        <link href="https://news.ycombinator.com/item?id=30920097"/>
+        <updated>2022-04-05T15:16:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Book recommendations for grammar as it relates to computing?]]></summary>
+        <author>
+            <name>davegauer</name>
+            <uri>https://news.ycombinator.com/user?id=davegauer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FAANG的员工是否适合早期创业公司？]]></title>
         <id>https://news.ycombinator.com/item?id=30919418</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleID停机了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30760618</id>
-        <link href="https://news.ycombinator.com/item?id=30760618"/>
-        <updated>2022-03-21T22:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is AppleID Down?]]></summary>
-        <author>
-            <name>startblue</name>
-            <uri>https://news.ycombinator.com/user?id=startblue</uri>
         </author>
     </entry>
 </feed>
