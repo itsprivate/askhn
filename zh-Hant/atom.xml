@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-04T23:44:23.281Z</updated>
+    <updated>2022-04-05T00:40:05.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何閱讀技術書籍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30913587</id>
+        <link href="https://news.ycombinator.com/item?id=30913587"/>
+        <updated>2022-04-05T00:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Read Technical Books?]]></summary>
+        <author>
+            <name>ngngngng</name>
+            <uri>https://news.ycombinator.com/user?id=ngngngng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會使用一個應用程序來保存/分享代碼片段嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30913374</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>28194608</name>
             <uri>https://news.ycombinator.com/user?id=28194608</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為了學習開發運營的基礎知識，AWS認證值得嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30755625</id>
-        <link href="https://news.ycombinator.com/item?id=30755625"/>
-        <updated>2022-03-21T16:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is an AWS certification worth it for learning the basics of dev ops?]]></summary>
-        <author>
-            <name>sweetheart</name>
-            <uri>https://news.ycombinator.com/user?id=sweetheart</uri>
         </author>
     </entry>
 </feed>
