@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 11:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 12:56:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们为什么要相信美国的投票系统？]]></title>
+            <link>https://news.ycombinator.com/item?id=30918279</link>
+            <guid>https://news.ycombinator.com/item?id=30918279</guid>
+            <pubDate>Tue, 05 Apr 2022 12:46:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why should we trust the US voting system?]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些书是有抱负的技术带头人的必读之作？]]></title>
             <link>https://news.ycombinator.com/item?id=30917665</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30758657</guid>
             <pubDate>Mon, 21 Mar 2022 19:33:06 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone self hosting here? Mind sharing your specs and load stats?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在低端（linux）设备上进行webdev的最佳浏览器？]]></title>
-            <link>https://news.ycombinator.com/item?id=30758551</link>
-            <guid>https://news.ycombinator.com/item?id=30758551</guid>
-            <pubDate>Mon, 21 Mar 2022 19:24:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best browser for webdev on low end (linux) device?]]></description>
         </item>
     </channel>
 </rss>
