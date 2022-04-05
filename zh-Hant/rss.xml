@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 22:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 22:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN的算法是如何在頭版顯示條目的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30925719</link>
+            <guid>https://news.ycombinator.com/item?id=30925719</guid>
+            <pubDate>Tue, 05 Apr 2022 22:09:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: How does HN algrorithm work for displaying entries on the front page?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼我們要忍受 "算法 "一詞的腐敗？]]></title>
             <link>https://news.ycombinator.com/item?id=30925638</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30765596</guid>
             <pubDate>Tue, 22 Mar 2022 13:09:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you contribute to open source projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作為一個企業家開始學習CS學位，我還應該知道什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30765586</link>
-            <guid>https://news.ycombinator.com/item?id=30765586</guid>
-            <pubDate>Tue, 22 Mar 2022 13:08:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Starting a CS degree as an entrepreneur, what more I should know?]]></description>
         </item>
     </channel>
 </rss>
