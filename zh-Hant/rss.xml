@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 19:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 19:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[還有人急切地想要一個主流瀏覽器的替代品嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30923706</link>
+            <guid>https://news.ycombinator.com/item?id=30923706</guid>
+            <pubDate>Tue, 05 Apr 2022 19:24:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does anyone else desperately want an alternative to mainstream browsers?]]></description>
+        </item>
         <item>
             <title><![CDATA[使用或不使用抗抑鬱藥就能戰勝抑鬱症？]]></title>
             <link>https://news.ycombinator.com/item?id=30923701</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30764599</guid>
             <pubDate>Tue, 22 Mar 2022 10:48:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone needs VueJS/Laravel dev focused on UI/UX?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何用應用程序組織你的私人工作？]]></title>
-            <link>https://news.ycombinator.com/item?id=30764573</link>
-            <guid>https://news.ycombinator.com/item?id=30764573</guid>
-            <pubDate>Tue, 22 Mar 2022 10:43:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you organize your private work with apps?]]></description>
         </item>
     </channel>
 </rss>
