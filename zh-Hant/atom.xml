@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-05T13:50:08.229Z</updated>
+    <updated>2022-04-05T14:15:51.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們可以建立什麼軟件來幫助烏克蘭人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30919171</id>
+        <link href="https://news.ycombinator.com/item?id=30919171"/>
+        <updated>2022-04-05T14:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What software could we build to help Ukrainians?]]></summary>
+        <author>
+            <name>bravogamma</name>
+            <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你什麼時候誠實地接受了編程不適合你的說法？]]></title>
         <id>https://news.ycombinator.com/item?id=30918865</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>siamak_rp</name>
             <uri>https://news.ycombinator.com/user?id=siamak_rp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現有的先進的實時、高度精確的Slam算法是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30759398</id>
-        <link href="https://news.ycombinator.com/item?id=30759398"/>
-        <updated>2022-03-21T20:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the advanced real time, highly accurate Slam algorithm existing?]]></summary>
-        <author>
-            <name>starboyy</name>
-            <uri>https://news.ycombinator.com/user?id=starboyy</uri>
         </author>
     </entry>
 </feed>

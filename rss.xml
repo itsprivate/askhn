@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 14:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们可以建立什么软件来帮助乌克兰人？]]></title>
+            <link>https://news.ycombinator.com/item?id=30919171</link>
+            <guid>https://news.ycombinator.com/item?id=30919171</guid>
+            <pubDate>Tue, 05 Apr 2022 14:09:19 GMT</pubDate>
+            <description><![CDATA[Ask HN: What software could we build to help Ukrainians?]]></description>
+        </item>
         <item>
             <title><![CDATA[你什么时候诚实地接受了编程不适合你的说法？]]></title>
             <link>https://news.ycombinator.com/item?id=30918865</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30759862</guid>
             <pubDate>Mon, 21 Mar 2022 21:22:37 GMT</pubDate>
             <description><![CDATA[Ask HN: How to make $1000/month on side projects? Any idea?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[现有的先进的实时、高度精确的Slam算法是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30759398</link>
-            <guid>https://news.ycombinator.com/item?id=30759398</guid>
-            <pubDate>Mon, 21 Mar 2022 20:38:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the advanced real time, highly accurate Slam algorithm existing?]]></description>
         </item>
     </channel>
 </rss>
