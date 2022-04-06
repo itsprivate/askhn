@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T14:14:08.307Z</updated>
+    <updated>2022-04-06T14:32:42.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你看流媒体吗（在Twitch上，等等）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30932138</id>
+        <link href="https://news.ycombinator.com/item?id=30932138"/>
+        <updated>2022-04-06T14:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you watch streams (on Twitch, etc.)?]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于自闭症患者来说，在IT行业找到一份远程工作有什么建议吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30932014</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tagolli</name>
             <uri>https://news.ycombinator.com/user?id=tagolli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产生强密码的最佳方法是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30770344</id>
-        <link href="https://news.ycombinator.com/item?id=30770344"/>
-        <updated>2022-03-22T19:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best way to generate strong passwords?]]></summary>
-        <author>
-            <name>Pooge</name>
-            <uri>https://news.ycombinator.com/user?id=Pooge</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 14:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 14:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你看流媒体吗（在Twitch上，等等）？]]></title>
+            <link>https://news.ycombinator.com/item?id=30932138</link>
+            <guid>https://news.ycombinator.com/item?id=30932138</guid>
+            <pubDate>Wed, 06 Apr 2022 14:13:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you watch streams (on Twitch, etc.)?]]></description>
+        </item>
         <item>
             <title><![CDATA[对于自闭症患者来说，在IT行业找到一份远程工作有什么建议吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30932014</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30770574</guid>
             <pubDate>Tue, 22 Mar 2022 19:45:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Any tips on organizing a fun hackathon at work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[产生强密码的最佳方法是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30770344</link>
-            <guid>https://news.ycombinator.com/item?id=30770344</guid>
-            <pubDate>Tue, 22 Mar 2022 19:25:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the best way to generate strong passwords?]]></description>
         </item>
     </channel>
 </rss>
