@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T19:10:50.385Z</updated>
+    <updated>2022-04-06T19:24:41.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公司霸王想拿我寫的代碼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30936331</id>
+        <link href="https://news.ycombinator.com/item?id=30936331"/>
+        <updated>2022-04-06T19:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Corporate bully trying to take the code I wrote?]]></summary>
+        <author>
+            <name>captaincrunch</name>
+            <uri>https://news.ycombinator.com/user?id=captaincrunch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於Mac的工具，從文件系統創建數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30936319</id>
+        <link href="https://news.ycombinator.com/item?id=30936319"/>
+        <updated>2022-04-06T19:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tool for Mac, create database from filesystem]]></summary>
+        <author>
+            <name>beamatronic</name>
+            <uri>https://news.ycombinator.com/user?id=beamatronic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰是（Dev/Ops/SEC）技術領域最吸引人的作家/博主？]]></title>
         <id>https://news.ycombinator.com/item?id=30936163</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>shp0ngle</name>
             <uri>https://news.ycombinator.com/user?id=shp0ngle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳的Okta替代方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=30775612</id>
-        <link href="https://news.ycombinator.com/item?id=30775612"/>
-        <updated>2022-03-23T06:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Okta Alternative?]]></summary>
-        <author>
-            <name>pentestercrab</name>
-            <uri>https://news.ycombinator.com/user?id=pentestercrab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你給哪些開源項目捐錢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30775543</id>
-        <link href="https://news.ycombinator.com/item?id=30775543"/>
-        <updated>2022-03-23T06:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which open-source projects do you give money to?]]></summary>
-        <author>
-            <name>noja</name>
-            <uri>https://news.ycombinator.com/user?id=noja</uri>
         </author>
     </entry>
 </feed>
