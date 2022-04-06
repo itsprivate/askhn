@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T10:16:53.044Z</updated>
+    <updated>2022-04-06T10:37:59.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌的新PaLM模型的訓練成本是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930462</id>
+        <link href="https://news.ycombinator.com/item?id=30930462"/>
+        <updated>2022-04-06T10:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much did Google's new PaLM model cost to train?]]></summary>
+        <author>
+            <name>PavleMiha</name>
+            <uri>https://news.ycombinator.com/user?id=PavleMiha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有孩子的工程師們，你們圍繞洗衣服建立了哪些流程？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930412</id>
+        <link href="https://news.ycombinator.com/item?id=30930412"/>
+        <updated>2022-04-06T10:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Engineers with kids, what processes have you built around laundry?]]></summary>
+        <author>
+            <name>markessien</name>
+            <uri>https://news.ycombinator.com/user?id=markessien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰在研究Windows的真正替代品嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30930307</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的內部構建和部署管道中缺少什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30768952</id>
-        <link href="https://news.ycombinator.com/item?id=30768952"/>
-        <updated>2022-03-22T17:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's lacking in your internal build and deploy pipeline]]></summary>
-        <author>
-            <name>websap</name>
-            <uri>https://news.ycombinator.com/user?id=websap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰能推薦一個比GitHub Actions更穩定的替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30768927</id>
-        <link href="https://news.ycombinator.com/item?id=30768927"/>
-        <updated>2022-03-22T17:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can someone recommend a more stable alternative to GitHub Actions?]]></summary>
-        <author>
-            <name>ManWith2Plans</name>
-            <uri>https://news.ycombinator.com/user?id=ManWith2Plans</uri>
         </author>
     </entry>
 </feed>

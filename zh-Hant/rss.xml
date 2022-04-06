@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌的新PaLM模型的訓練成本是多少？]]></title>
+            <link>https://news.ycombinator.com/item?id=30930462</link>
+            <guid>https://news.ycombinator.com/item?id=30930462</guid>
+            <pubDate>Wed, 06 Apr 2022 10:28:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: How much did Google's new PaLM model cost to train?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有孩子的工程師們，你們圍繞洗衣服建立了哪些流程？]]></title>
+            <link>https://news.ycombinator.com/item?id=30930412</link>
+            <guid>https://news.ycombinator.com/item?id=30930412</guid>
+            <pubDate>Wed, 06 Apr 2022 10:22:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Engineers with kids, what processes have you built around laundry?]]></description>
+        </item>
         <item>
             <title><![CDATA[有誰在研究Windows的真正替代品嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30930307</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30769656</guid>
             <pubDate>Tue, 22 Mar 2022 18:29:11 GMT</pubDate>
             <description><![CDATA[Ask HN: Do men always give money to women in capitalist economies?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的內部構建和部署管道中缺少什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30768952</link>
-            <guid>https://news.ycombinator.com/item?id=30768952</guid>
-            <pubDate>Tue, 22 Mar 2022 17:29:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's lacking in your internal build and deploy pipeline]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰能推薦一個比GitHub Actions更穩定的替代品？]]></title>
-            <link>https://news.ycombinator.com/item?id=30768927</link>
-            <guid>https://news.ycombinator.com/item?id=30768927</guid>
-            <pubDate>Tue, 22 Mar 2022 17:26:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can someone recommend a more stable alternative to GitHub Actions?]]></description>
         </item>
     </channel>
 </rss>
