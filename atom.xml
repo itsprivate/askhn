@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T14:32:42.403Z</updated>
+    <updated>2022-04-06T15:16:26.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在生产中使用SimH或QEMU与旧的arch/OS吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30932896</id>
+        <link href="https://news.ycombinator.com/item?id=30932896"/>
+        <updated>2022-04-06T15:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone using SimH or QEMU with an old arch/OS in PRODUCTION?]]></summary>
+        <author>
+            <name>greatquux</name>
+            <uri>https://news.ycombinator.com/user?id=greatquux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源也毁了你的工作满意度吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30932661</id>
+        <link href="https://news.ycombinator.com/item?id=30932661"/>
+        <updated>2022-04-06T14:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is open source ruining your job satisfaction too?]]></summary>
+        <author>
+            <name>sad-throwaway</name>
+            <uri>https://news.ycombinator.com/user?id=sad-throwaway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有应对急性焦虑症的技巧？]]></title>
+        <id>https://news.ycombinator.com/item?id=30932645</id>
+        <link href="https://news.ycombinator.com/item?id=30932645"/>
+        <updated>2022-04-06T14:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there techniques to cope with acute anxiety?]]></summary>
+        <author>
+            <name>FreeHugs</name>
+            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你看流媒体吗（在Twitch上，等等）？]]></title>
         <id>https://news.ycombinator.com/item?id=30932138</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌已将我的账户锁定]]></title>
-        <id>https://news.ycombinator.com/item?id=30770671</id>
-        <link href="https://news.ycombinator.com/item?id=30770671"/>
-        <updated>2022-03-22T19:54:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google has locked me out of the account]]></summary>
-        <author>
-            <name>nitn</name>
-            <uri>https://news.ycombinator.com/user?id=nitn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这就是 "问上医 "问题的柏拉图式交易吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30770640</id>
-        <link href="https://news.ycombinator.com/item?id=30770640"/>
-        <updated>2022-03-22T19:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is this the platonic deal of an Ask HN question?]]></summary>
-        <author>
-            <name>songeater</name>
-            <uri>https://news.ycombinator.com/user?id=songeater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在工作中组织一次有趣的黑客马拉松有什么技巧吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30770574</id>
-        <link href="https://news.ycombinator.com/item?id=30770574"/>
-        <updated>2022-03-22T19:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any tips on organizing a fun hackathon at work?]]></summary>
-        <author>
-            <name>tagolli</name>
-            <uri>https://news.ycombinator.com/user?id=tagolli</uri>
         </author>
     </entry>
 </feed>
