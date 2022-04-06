@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T04:42:56.189Z</updated>
+    <updated>2022-04-06T05:12:02.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司是否做用戶體驗研究？]]></title>
+        <id>https://news.ycombinator.com/item?id=30928671</id>
+        <link href="https://news.ycombinator.com/item?id=30928671"/>
+        <updated>2022-04-06T05:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Apple do UX research?]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你認為這一切是什麼？(這個現實、存在、時空、我們)]]></title>
+        <id>https://news.ycombinator.com/item?id=30928647</id>
+        <link href="https://news.ycombinator.com/item?id=30928647"/>
+        <updated>2022-04-06T04:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think is all this? (this reality, existence, space-time, us)]]></summary>
+        <author>
+            <name>Zakuzaa</name>
+            <uri>https://news.ycombinator.com/user?id=Zakuzaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該在2022年購買什麼筆記本電腦？]]></title>
         <id>https://news.ycombinator.com/item?id=30928364</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>GordonS</name>
             <uri>https://news.ycombinator.com/user?id=GordonS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雪絨花是為誰而降？]]></title>
-        <id>https://news.ycombinator.com/item?id=30767721</id>
-        <link href="https://news.ycombinator.com/item?id=30767721"/>
-        <updated>2022-03-22T16:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Snowflake Down for Anyone?]]></summary>
-        <author>
-            <name>thenaturalist</name>
-            <uri>https://news.ycombinator.com/user?id=thenaturalist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰會在沒有集裝箱的情況下進行大規模運營？]]></title>
-        <id>https://news.ycombinator.com/item?id=30767393</id>
-        <link href="https://news.ycombinator.com/item?id=30767393"/>
-        <updated>2022-03-22T15:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who operates at scale without containers?]]></summary>
-        <author>
-            <name>disintegore</name>
-            <uri>https://news.ycombinator.com/user?id=disintegore</uri>
         </author>
     </entry>
 </feed>
