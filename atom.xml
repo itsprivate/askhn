@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T17:52:49.814Z</updated>
+    <updated>2022-04-06T18:15:51.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何处理那些比别人快得多的开发者？]]></title>
+        <id>https://news.ycombinator.com/item?id=30935392</id>
+        <link href="https://news.ycombinator.com/item?id=30935392"/>
+        <updated>2022-04-06T17:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to deal with developers that go much faster than the others?]]></summary>
+        <author>
+            <name>pathfinder_X</name>
+            <uri>https://news.ycombinator.com/user?id=pathfinder_X</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的知识足以模拟出一个宇宙吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30935234</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ffhhj</name>
             <uri>https://news.ycombinator.com/user?id=ffhhj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于13英寸M1 MBP，有哪些好的替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30774220</id>
-        <link href="https://news.ycombinator.com/item?id=30774220"/>
-        <updated>2022-03-23T02:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good alternatives to a 13“ M1 MBP?]]></summary>
-        <author>
-            <name>saikatsg</name>
-            <uri>https://news.ycombinator.com/user?id=saikatsg</uri>
         </author>
     </entry>
 </feed>
