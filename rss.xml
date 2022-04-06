@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 19:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 20:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你应该如何使用LeetCode？]]></title>
+            <link>https://news.ycombinator.com/item?id=30936833</link>
+            <guid>https://news.ycombinator.com/item?id=30936833</guid>
+            <pubDate>Wed, 06 Apr 2022 20:01:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are you supposed to use LeetCode?]]></description>
+        </item>
         <item>
             <title><![CDATA[你知道有什么适合4岁孩子的教育性电脑游戏吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30936518</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30777224</guid>
             <pubDate>Wed, 23 Mar 2022 11:11:39 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is contributing to existing open source projects so hard?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rasp Pi Compute 的替代产品]]></title>
-            <link>https://news.ycombinator.com/item?id=30776908</link>
-            <guid>https://news.ycombinator.com/item?id=30776908</guid>
-            <pubDate>Wed, 23 Mar 2022 10:19:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Rasp Pi Compute Alternatives]]></description>
         </item>
     </channel>
 </rss>
