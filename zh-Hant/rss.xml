@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有誰在研究Windows的真正替代品嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30930307</link>
+            <guid>https://news.ycombinator.com/item?id=30930307</guid>
+            <pubDate>Wed, 06 Apr 2022 10:03:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is anyone working on a true alternative to Windows?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何使服務器端的代碼具有原子性？]]></title>
             <link>https://news.ycombinator.com/item?id=30929572</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30768927</guid>
             <pubDate>Tue, 22 Mar 2022 17:26:28 GMT</pubDate>
             <description><![CDATA[Ask HN: Can someone recommend a more stable alternative to GitHub Actions?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[創業公司應該完全遠程啟動還是親自啟動？]]></title>
-            <link>https://news.ycombinator.com/item?id=30768753</link>
-            <guid>https://news.ycombinator.com/item?id=30768753</guid>
-            <pubDate>Tue, 22 Mar 2022 17:13:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should a startup start fully-remote or in-person?]]></description>
         </item>
     </channel>
 </rss>

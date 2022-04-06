@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T08:15:27.490Z</updated>
+    <updated>2022-04-06T10:16:52.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁在研究Windows的真正替代品吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930307</id>
+        <link href="https://news.ycombinator.com/item?id=30930307"/>
+        <updated>2022-04-06T10:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone working on a true alternative to Windows?]]></summary>
+        <author>
+            <name>greybox</name>
+            <uri>https://news.ycombinator.com/user?id=greybox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使服务器端的代码具有原子性？]]></title>
         <id>https://news.ycombinator.com/item?id=30929572</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ManWith2Plans</name>
             <uri>https://news.ycombinator.com/user?id=ManWith2Plans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业公司应该完全远程启动还是亲自启动？]]></title>
-        <id>https://news.ycombinator.com/item?id=30768753</id>
-        <link href="https://news.ycombinator.com/item?id=30768753"/>
-        <updated>2022-03-22T17:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should a startup start fully-remote or in-person?]]></summary>
-        <author>
-            <name>akrai</name>
-            <uri>https://news.ycombinator.com/user?id=akrai</uri>
         </author>
     </entry>
 </feed>
