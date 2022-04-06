@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T10:53:02.394Z</updated>
+    <updated>2022-04-06T11:30:22.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對Apache Isis有什麼經驗嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930827</id>
+        <link href="https://news.ycombinator.com/item?id=30930827"/>
+        <updated>2022-04-06T11:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Experience with Apache Isis?]]></summary>
+        <author>
+            <name>rlawson</name>
+            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投資者報告的最佳工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930766</id>
+        <link href="https://news.ycombinator.com/item?id=30930766"/>
+        <updated>2022-04-06T11:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Tool for Investors Reporting?]]></summary>
+        <author>
+            <name>kodjima33</name>
+            <uri>https://news.ycombinator.com/user?id=kodjima33</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何索引所有可能的HN新鏈接？]]></title>
         <id>https://news.ycombinator.com/item?id=30930552</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>petargyurov</name>
             <uri>https://news.ycombinator.com/user?id=petargyurov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有憤世嫉俗的答案，為什麼公司會如此大力推動他們的應用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30769972</id>
-        <link href="https://news.ycombinator.com/item?id=30769972"/>
-        <updated>2022-03-22T18:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: No cynical answers, why do companies push their apps so hard?]]></summary>
-        <author>
-            <name>simonw</name>
-            <uri>https://news.ycombinator.com/user?id=simonw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果的商業模式是如何運作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30769657</id>
-        <link href="https://news.ycombinator.com/item?id=30769657"/>
-        <updated>2022-03-22T18:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does Apple's business model work?]]></summary>
-        <author>
-            <name>f0e4c2f7</name>
-            <uri>https://news.ycombinator.com/user?id=f0e4c2f7</uri>
         </author>
     </entry>
 </feed>
