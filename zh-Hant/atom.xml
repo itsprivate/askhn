@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T00:41:49.723Z</updated>
+    <updated>2022-04-06T02:25:10.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望哪些舊的或已廢棄的軟件仍能更新？]]></title>
+        <id>https://news.ycombinator.com/item?id=30927727</id>
+        <link href="https://news.ycombinator.com/item?id=30927727"/>
+        <updated>2022-04-06T02:17:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What old or deprecated software do you wish was still updated?]]></summary>
+        <author>
+            <name>assemblylang</name>
+            <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據科學是如何在風險投資中得到應用的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30927519</id>
+        <link href="https://news.ycombinator.com/item?id=30927519"/>
+        <updated>2022-04-06T01:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is data science being used in venture capital?]]></summary>
+        <author>
+            <name>highwayman47</name>
+            <uri>https://news.ycombinator.com/user?id=highwayman47</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在2022年4月的月度更新是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30927085</id>
+        <link href="https://news.ycombinator.com/item?id=30927085"/>
+        <updated>2022-04-06T00:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your monthly updates for April 2022?]]></summary>
+        <author>
+            <name>aghilmort</name>
+            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[醫療保健（住院和門診）能否得到解決？]]></title>
         <id>https://news.ycombinator.com/item?id=30926705</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nnurmanov</name>
             <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN是否在改變某些帖子的提交日期？]]></title>
-        <id>https://news.ycombinator.com/item?id=30766226</id>
-        <link href="https://news.ycombinator.com/item?id=30766226"/>
-        <updated>2022-03-22T14:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is HN changing the submission dates of certain posts?]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有人籌集風險債務？]]></title>
-        <id>https://news.ycombinator.com/item?id=30765835</id>
-        <link href="https://news.ycombinator.com/item?id=30765835"/>
-        <updated>2022-03-22T13:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone raised venture debt?]]></summary>
-        <author>
-            <name>lantioramis</name>
-            <uri>https://news.ycombinator.com/user?id=lantioramis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是一名研究人員，我必須維護代碼。我應該從哪裡開始呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30765715</id>
-        <link href="https://news.ycombinator.com/item?id=30765715"/>
-        <updated>2022-03-22T13:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm a researcher and I have to mantain code. Where do I start?]]></summary>
-        <author>
-            <name>marcomanzoni</name>
-            <uri>https://news.ycombinator.com/user?id=marcomanzoni</uri>
         </author>
     </entry>
 </feed>
