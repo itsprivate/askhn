@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何索引所有可能的HN新链接？]]></title>
+            <link>https://news.ycombinator.com/item?id=30930552</link>
+            <guid>https://news.ycombinator.com/item?id=30930552</guid>
+            <pubDate>Wed, 06 Apr 2022 10:43:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to index all possible HN new links?]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌的新PaLM模型的训练成本是多少？]]></title>
             <link>https://news.ycombinator.com/item?id=30930462</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30769657</guid>
             <pubDate>Tue, 22 Mar 2022 18:29:19 GMT</pubDate>
             <description><![CDATA[Ask HN: How does Apple's business model work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在资本主义经济中，男人总是把钱给女人吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30769656</link>
-            <guid>https://news.ycombinator.com/item?id=30769656</guid>
-            <pubDate>Tue, 22 Mar 2022 18:29:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do men always give money to women in capitalist economies?]]></description>
         </item>
     </channel>
 </rss>
