@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T12:59:38.588Z</updated>
+    <updated>2022-04-06T13:28:13.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰的项目维护者--哪些项目处于危险之中？]]></title>
+        <id>https://news.ycombinator.com/item?id=30931601</id>
+        <link href="https://news.ycombinator.com/item?id=30931601"/>
+        <updated>2022-04-06T13:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Project maintainers in Ukraine – which projects are in danger?]]></summary>
+        <author>
+            <name>oger</name>
+            <uri>https://news.ycombinator.com/user?id=oger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Markdown/reStructuredText写STEM领域的博士论文？]]></title>
         <id>https://news.ycombinator.com/item?id=30931168</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Buttons840</name>
             <uri>https://news.ycombinator.com/user?id=Buttons840</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最近学到的一些令人兴奋和迷人的东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30770076</id>
-        <link href="https://news.ycombinator.com/item?id=30770076"/>
-        <updated>2022-03-22T19:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Something you learned recently that is exciting and fascinating?]]></summary>
-        <author>
-            <name>boringg</name>
-            <uri>https://news.ycombinator.com/user?id=boringg</uri>
         </author>
     </entry>
 </feed>
