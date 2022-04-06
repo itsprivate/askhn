@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 18:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 18:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何提高转化率？]]></title>
+            <link>https://news.ycombinator.com/item?id=30935963</link>
+            <guid>https://news.ycombinator.com/item?id=30935963</guid>
+            <pubDate>Wed, 06 Apr 2022 18:48:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Improve Conversion?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你相信GNU的自由软件吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30935918</link>
+            <guid>https://news.ycombinator.com/item?id=30935918</guid>
+            <pubDate>Wed, 06 Apr 2022 18:44:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you believe in GNU's Free Software?]]></description>
+        </item>
         <item>
             <title><![CDATA[你会在家里建造它，还是先辞掉工作？]]></title>
             <link>https://news.ycombinator.com/item?id=30935587</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30775034</guid>
             <pubDate>Wed, 23 Mar 2022 04:42:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Did you know that your brain reads faster than your eye?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你最常用的网络浏览器是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30775026</link>
-            <guid>https://news.ycombinator.com/item?id=30775026</guid>
-            <pubDate>Wed, 23 Mar 2022 04:41:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your most used web browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何解释ML方法并非100%完美？]]></title>
-            <link>https://news.ycombinator.com/item?id=30774941</link>
-            <guid>https://news.ycombinator.com/item?id=30774941</guid>
-            <pubDate>Wed, 23 Mar 2022 04:25:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to explain that ML approach is not 100% perfect?]]></description>
         </item>
     </channel>
 </rss>

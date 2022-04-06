@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T18:39:08.130Z</updated>
+    <updated>2022-04-06T18:57:04.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何提高轉化率？]]></title>
+        <id>https://news.ycombinator.com/item?id=30935963</id>
+        <link href="https://news.ycombinator.com/item?id=30935963"/>
+        <updated>2022-04-06T18:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Improve Conversion?]]></summary>
+        <author>
+            <name>novateg</name>
+            <uri>https://news.ycombinator.com/user?id=novateg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你相信GNU的自由軟件嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30935918</id>
+        <link href="https://news.ycombinator.com/item?id=30935918"/>
+        <updated>2022-04-06T18:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you believe in GNU's Free Software?]]></summary>
+        <author>
+            <name>ilovecaching</name>
+            <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會在家裡建造它，還是先辭掉工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30935587</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>renato_casutt</name>
             <uri>https://news.ycombinator.com/user?id=renato_casutt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最常用的網絡瀏覽器是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30775026</id>
-        <link href="https://news.ycombinator.com/item?id=30775026"/>
-        <updated>2022-03-23T04:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your most used web browser]]></summary>
-        <author>
-            <name>collinthecorgi</name>
-            <uri>https://news.ycombinator.com/user?id=collinthecorgi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解釋ML方法並非100%完美？]]></title>
-        <id>https://news.ycombinator.com/item?id=30774941</id>
-        <link href="https://news.ycombinator.com/item?id=30774941"/>
-        <updated>2022-03-23T04:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to explain that ML approach is not 100% perfect?]]></summary>
-        <author>
-            <name>masterchief1s1k</name>
-            <uri>https://news.ycombinator.com/user?id=masterchief1s1k</uri>
         </author>
     </entry>
 </feed>
