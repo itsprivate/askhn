@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T20:14:26.783Z</updated>
+    <updated>2022-04-06T20:34:59.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一周一次的社交媒体？]]></title>
+        <id>https://news.ycombinator.com/item?id=30937043</id>
+        <link href="https://news.ycombinator.com/item?id=30937043"/>
+        <updated>2022-04-06T20:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Once a Week Social Media?]]></summary>
+        <author>
+            <name>palidanx</name>
+            <uri>https://news.ycombinator.com/user?id=palidanx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你应该如何使用LeetCode？]]></title>
         <id>https://news.ycombinator.com/item?id=30936833</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fthb</name>
             <uri>https://news.ycombinator.com/user?id=fthb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么为现有的开源项目做贡献这么难？]]></title>
-        <id>https://news.ycombinator.com/item?id=30777224</id>
-        <link href="https://news.ycombinator.com/item?id=30777224"/>
-        <updated>2022-03-23T11:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is contributing to existing open source projects so hard?]]></summary>
-        <author>
-            <name>tomerv</name>
-            <uri>https://news.ycombinator.com/user?id=tomerv</uri>
         </author>
     </entry>
 </feed>
