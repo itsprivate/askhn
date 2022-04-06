@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T11:30:22.480Z</updated>
+    <updated>2022-04-06T12:59:38.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Markdown/reStructuredText寫STEM領域的博士論文？]]></title>
+        <id>https://news.ycombinator.com/item?id=30931168</id>
+        <link href="https://news.ycombinator.com/item?id=30931168"/>
+        <updated>2022-04-06T12:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Markdown/reStructuredText to write a PhD thesis in STEM fields?]]></summary>
+        <author>
+            <name>s1291</name>
+            <uri>https://news.ycombinator.com/user?id=s1291</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Apache Isis有什麼經驗嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30930827</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>boringg</name>
             <uri>https://news.ycombinator.com/user?id=boringg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該買什麼筆記本電腦用於開發？]]></title>
-        <id>https://news.ycombinator.com/item?id=30770010</id>
-        <link href="https://news.ycombinator.com/item?id=30770010"/>
-        <updated>2022-03-22T18:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What laptop should I get for development?]]></summary>
-        <author>
-            <name>petargyurov</name>
-            <uri>https://news.ycombinator.com/user?id=petargyurov</uri>
         </author>
     </entry>
 </feed>
