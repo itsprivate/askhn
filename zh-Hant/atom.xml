@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T06:57:21.198Z</updated>
+    <updated>2022-04-06T08:15:27.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使服務器端的代碼具有原子性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30929572</id>
+        <link href="https://news.ycombinator.com/item?id=30929572"/>
+        <updated>2022-04-06T07:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make server side code atomic?]]></summary>
+        <author>
+            <name>vsroy</name>
+            <uri>https://news.ycombinator.com/user?id=vsroy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些書籍或課程可以幫助在計算機科學方面打下堅實的基礎？]]></title>
         <id>https://news.ycombinator.com/item?id=30929174</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>akrai</name>
             <uri>https://news.ycombinator.com/user?id=akrai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25歲時被診斷出患有遺傳性心臟病--我怎樣才能產生影響？]]></title>
-        <id>https://news.ycombinator.com/item?id=30768701</id>
-        <link href="https://news.ycombinator.com/item?id=30768701"/>
-        <updated>2022-03-22T17:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Diagnosed with genetic heart disease at 25 – how do I make an impact?]]></summary>
-        <author>
-            <name>hcmthrowaway</name>
-            <uri>https://news.ycombinator.com/user?id=hcmthrowaway</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何使服務器端的代碼具有原子性？]]></title>
+            <link>https://news.ycombinator.com/item?id=30929572</link>
+            <guid>https://news.ycombinator.com/item?id=30929572</guid>
+            <pubDate>Wed, 06 Apr 2022 07:51:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to make server side code atomic?]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些書籍或課程可以幫助在計算機科學方面打下堅實的基礎？]]></title>
             <link>https://news.ycombinator.com/item?id=30929174</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30768753</guid>
             <pubDate>Tue, 22 Mar 2022 17:13:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Should a startup start fully-remote or in-person?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[25歲時被診斷出患有遺傳性心臟病--我怎樣才能產生影響？]]></title>
-            <link>https://news.ycombinator.com/item?id=30768701</link>
-            <guid>https://news.ycombinator.com/item?id=30768701</guid>
-            <pubDate>Tue, 22 Mar 2022 17:08:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Diagnosed with genetic heart disease at 25 – how do I make an impact?]]></description>
         </item>
     </channel>
 </rss>
