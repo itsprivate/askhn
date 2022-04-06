@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-06T20:34:59.577Z</updated>
+    <updated>2022-04-06T21:13:49.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么可视化编程在游戏编程中如此受欢迎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30937201</id>
+        <link href="https://news.ycombinator.com/item?id=30937201"/>
+        <updated>2022-04-06T20:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is visual programming so popular for game programming?]]></summary>
+        <author>
+            <name>arduinomancer</name>
+            <uri>https://news.ycombinator.com/user?id=arduinomancer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一周一次的社交媒体？]]></title>
         <id>https://news.ycombinator.com/item?id=30937043</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thex10</name>
             <uri>https://news.ycombinator.com/user?id=thex10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要租房和住在地下室]]></title>
-        <id>https://news.ycombinator.com/item?id=30777795</id>
-        <link href="https://news.ycombinator.com/item?id=30777795"/>
-        <updated>2022-03-23T12:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do not rent and live in basements]]></summary>
-        <author>
-            <name>fthb</name>
-            <uri>https://news.ycombinator.com/user?id=fthb</uri>
         </author>
     </entry>
 </feed>
