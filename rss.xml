@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Apr 2022 15:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 17:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分享你的个人网站]]></title>
+            <link>https://news.ycombinator.com/item?id=30934529</link>
+            <guid>https://news.ycombinator.com/item?id=30934529</guid>
+            <pubDate>Wed, 06 Apr 2022 16:48:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Share Your Personal Site]]></description>
+        </item>
+        <item>
+            <title><![CDATA[共享数据库的反(?)模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30934512</link>
+            <guid>https://news.ycombinator.com/item?id=30934512</guid>
+            <pubDate>Wed, 06 Apr 2022 16:47:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Shared Database Anti(?)-Pattern]]></description>
+        </item>
         <item>
             <title><![CDATA[你对什么硬件技术/创业公司感到兴奋？]]></title>
             <link>https://news.ycombinator.com/item?id=30933572</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30772911</guid>
             <pubDate>Tue, 22 Mar 2022 23:23:25 GMT</pubDate>
             <description><![CDATA[Ask HN: How to manage internal forks of OSS projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来自加勒比地区的用户。你在加勒比海的创业来源是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30772262</link>
-            <guid>https://news.ycombinator.com/item?id=30772262</guid>
-            <pubDate>Tue, 22 Mar 2022 22:12:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Users from the Caribbean. What are your Caribbean startup sources.?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让你想继续阅读README？]]></title>
-            <link>https://news.ycombinator.com/item?id=30771963</link>
-            <guid>https://news.ycombinator.com/item?id=30771963</guid>
-            <pubDate>Tue, 22 Mar 2022 21:43:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: What makes you want to keep on reading README?]]></description>
         </item>
     </channel>
 </rss>
