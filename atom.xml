@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T03:46:01.163Z</updated>
+    <updated>2022-04-07T04:14:22.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有相当规模的网络粉丝的人，怎么样？]]></title>
+        <id>https://news.ycombinator.com/item?id=30940516</id>
+        <link href="https://news.ycombinator.com/item?id=30940516"/>
+        <updated>2022-04-07T04:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People with decently sized internet followings, how is it?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么地图应用程序在不移动的情况下搞清楚方向的能力这么差？]]></title>
         <id>https://news.ycombinator.com/item?id=30940287</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shantnutiwari</name>
             <uri>https://news.ycombinator.com/user?id=shantnutiwari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN作为一种服务/Lobste.rs作为一种服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30780160</id>
-        <link href="https://news.ycombinator.com/item?id=30780160"/>
-        <updated>2022-03-23T16:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: HN as a Service / Lobste.rs as a Service?]]></summary>
-        <author>
-            <name>mazsa</name>
-            <uri>https://news.ycombinator.com/user?id=mazsa</uri>
         </author>
     </entry>
 </feed>
