@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T11:37:45.569Z</updated>
+    <updated>2022-04-07T11:52:21.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么理由不对情报界进行减资呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30943178</id>
+        <link href="https://news.ycombinator.com/item?id=30943178"/>
+        <updated>2022-04-07T11:41:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any reason not to defund the intelligence community?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于网络开发的最佳视频编辑工具库？]]></title>
+        <id>https://news.ycombinator.com/item?id=30943151</id>
+        <link href="https://news.ycombinator.com/item?id=30943151"/>
+        <updated>2022-04-07T11:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Video editing tool library for web development?]]></summary>
+        <author>
+            <name>noamski</name>
+            <uri>https://news.ycombinator.com/user?id=noamski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何跟上HN的？]]></title>
         <id>https://news.ycombinator.com/item?id=30943126</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chedine</name>
             <uri>https://news.ycombinator.com/user?id=chedine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人突然变成了 "预备者 "吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30783241</id>
-        <link href="https://news.ycombinator.com/item?id=30783241"/>
-        <updated>2022-03-23T20:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else suddenly become a 'prepper'?]]></summary>
-        <author>
-            <name>throwaway6532</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway6532</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禁用GitHub提及/重置]]></title>
-        <id>https://news.ycombinator.com/item?id=30783032</id>
-        <link href="https://news.ycombinator.com/item?id=30783032"/>
-        <updated>2022-03-23T20:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Disable GitHub Mention/Resets]]></summary>
-        <author>
-            <name>srvmshr</name>
-            <uri>https://news.ycombinator.com/user?id=srvmshr</uri>
         </author>
     </entry>
 </feed>
