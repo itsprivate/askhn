@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T05:31:25.316Z</updated>
+    <updated>2022-04-07T06:39:49.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你還在使用Facebook.com進行商業活動嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30941236</id>
+        <link href="https://news.ycombinator.com/item?id=30941236"/>
+        <updated>2022-04-07T06:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you still use Facebook.com for business anymore?]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戒酒的非酗酒者，你為什麼決定，以及發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30940872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rileyt</name>
             <uri>https://news.ycombinator.com/user?id=rileyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有漂亮界面的對象存儲？]]></title>
-        <id>https://news.ycombinator.com/item?id=30781237</id>
-        <link href="https://news.ycombinator.com/item?id=30781237"/>
-        <updated>2022-03-23T17:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Object Storage with a Nice Interface?]]></summary>
-        <author>
-            <name>reisr3</name>
-            <uri>https://news.ycombinator.com/user?id=reisr3</uri>
         </author>
     </entry>
 </feed>
