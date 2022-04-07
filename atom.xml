@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T20:14:10.265Z</updated>
+    <updated>2022-04-07T21:52:16.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[围绕$CURRENT_YEAR的API设计，有哪些好书？]]></title>
+        <id>https://news.ycombinator.com/item?id=30950713</id>
+        <link href="https://news.ycombinator.com/item?id=30950713"/>
+        <updated>2022-04-07T21:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some great books around API design for $CURRENT_YEAR?]]></summary>
+        <author>
+            <name>Twixes</name>
+            <uri>https://news.ycombinator.com/user?id=Twixes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对浏览器阅读模式的看法？]]></title>
         <id>https://news.ycombinator.com/item?id=30949658</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kkielhofner</name>
             <uri>https://news.ycombinator.com/user?id=kkielhofner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java是否需要一个用于桌面/网络的现代Java UI工具包？]]></title>
-        <id>https://news.ycombinator.com/item?id=30789337</id>
-        <link href="https://news.ycombinator.com/item?id=30789337"/>
-        <updated>2022-03-24T13:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Java need a modern Java UI toolkit for desktop/web?]]></summary>
-        <author>
-            <name>jeffreportmill1</name>
-            <uri>https://news.ycombinator.com/user?id=jeffreportmill1</uri>
         </author>
     </entry>
 </feed>
