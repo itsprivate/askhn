@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T18:17:28.771Z</updated>
+    <updated>2022-04-07T18:39:13.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何防止我的电话号码通过LinkedIn泄露出去？]]></title>
+        <id>https://news.ycombinator.com/item?id=30948415</id>
+        <link href="https://news.ycombinator.com/item?id=30948415"/>
+        <updated>2022-04-07T18:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I prevent my phone number from leaking via LinkedIn?]]></summary>
+        <author>
+            <name>calrueb</name>
+            <uri>https://news.ycombinator.com/user?id=calrueb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你为什么讨厌SAFe（Scaled Agile Framework）？]]></title>
         <id>https://news.ycombinator.com/item?id=30948201</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>techlover14159</name>
             <uri>https://news.ycombinator.com/user?id=techlover14159</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样才能成为一个有效的创始人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30788307</id>
-        <link href="https://news.ycombinator.com/item?id=30788307"/>
-        <updated>2022-03-24T11:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Makes an Effective Founder?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
