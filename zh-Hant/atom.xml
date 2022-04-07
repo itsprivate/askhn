@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T13:26:20.918Z</updated>
+    <updated>2022-04-07T13:48:31.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java世界中最接近Django的東西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30944137</id>
+        <link href="https://news.ycombinator.com/item?id=30944137"/>
+        <updated>2022-04-07T13:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Closest thing to Django in Java world?]]></summary>
+        <author>
+            <name>rlawson</name>
+            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何跟蹤你的財務狀況？]]></title>
         <id>https://news.ycombinator.com/item?id=30943948</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>daenz</name>
             <uri>https://news.ycombinator.com/user?id=daenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找在達卡的實習機會]]></title>
-        <id>https://news.ycombinator.com/item?id=30784009</id>
-        <link href="https://news.ycombinator.com/item?id=30784009"/>
-        <updated>2022-03-23T21:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for Internship in Dhaka]]></summary>
-        <author>
-            <name>minroot</name>
-            <uri>https://news.ycombinator.com/user?id=minroot</uri>
         </author>
     </entry>
 </feed>
