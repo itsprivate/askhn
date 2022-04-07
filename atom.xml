@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T17:48:41.504Z</updated>
+    <updated>2022-04-07T18:17:28.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你为什么讨厌SAFe（Scaled Agile Framework）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30948201</id>
+        <link href="https://news.ycombinator.com/item?id=30948201"/>
+        <updated>2022-04-07T18:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you hate SAFe (Scaled Agile Framework)?]]></summary>
+        <author>
+            <name>brightball</name>
+            <uri>https://news.ycombinator.com/user?id=brightball</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一个轻量级的无头浏览器（用于搜刮SPA）？]]></title>
         <id>https://news.ycombinator.com/item?id=30947854</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核能*实际上*安全吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30787943</id>
-        <link href="https://news.ycombinator.com/item?id=30787943"/>
-        <updated>2022-03-24T10:14:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is nuclear energy *actually* safe?]]></summary>
-        <author>
-            <name>jakobov</name>
-            <uri>https://news.ycombinator.com/user?id=jakobov</uri>
         </author>
     </entry>
 </feed>
