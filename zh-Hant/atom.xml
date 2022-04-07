@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T04:14:22.488Z</updated>
+    <updated>2022-04-07T04:41:55.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雲供應商的中斷是否給你的企業帶來了切實的傷害？]]></title>
+        <id>https://news.ycombinator.com/item?id=30940646</id>
+        <link href="https://news.ycombinator.com/item?id=30940646"/>
+        <updated>2022-04-07T04:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have Cloud Provider outages caused your business tangible harm?]]></summary>
+        <author>
+            <name>chologrande</name>
+            <uri>https://news.ycombinator.com/user?id=chologrande</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有相當規模的網絡粉絲的人，怎麼樣？]]></title>
         <id>https://news.ycombinator.com/item?id=30940516</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Premium值得購買嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30780395</id>
-        <link href="https://news.ycombinator.com/item?id=30780395"/>
-        <updated>2022-03-23T16:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is YouTube Premium worth it?]]></summary>
-        <author>
-            <name>shantnutiwari</name>
-            <uri>https://news.ycombinator.com/user?id=shantnutiwari</uri>
         </author>
     </entry>
 </feed>
