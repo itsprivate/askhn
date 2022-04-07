@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 14:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有任何有用/有趣的公共MQTT饋送？]]></title>
+            <link>https://news.ycombinator.com/item?id=30944717</link>
+            <guid>https://news.ycombinator.com/item?id=30944717</guid>
+            <pubDate>Thu, 07 Apr 2022 14:15:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are there any useful/interesting public MQTT feeds?]]></description>
+        </item>
         <item>
             <title><![CDATA[Java世界中最接近Django的東西？]]></title>
             <link>https://news.ycombinator.com/item?id=30944137</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30784521</guid>
             <pubDate>Wed, 23 Mar 2022 22:43:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Will we ever be able to recover BitTorrent files from the piece hashes?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用筆和紙解密]]></title>
-            <link>https://news.ycombinator.com/item?id=30784265</link>
-            <guid>https://news.ycombinator.com/item?id=30784265</guid>
-            <pubDate>Wed, 23 Mar 2022 22:19:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Decryption with Pen and Paper]]></description>
         </item>
     </channel>
 </rss>
