@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T18:39:13.896Z</updated>
+    <updated>2022-04-07T18:56:26.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用DeFi能赚多少钱，能持续多久？]]></title>
+        <id>https://news.ycombinator.com/item?id=30948610</id>
+        <link href="https://news.ycombinator.com/item?id=30948610"/>
+        <updated>2022-04-07T18:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much money can you make with DeFi and how long will it last?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何防止我的电话号码通过LinkedIn泄露出去？]]></title>
         <id>https://news.ycombinator.com/item?id=30948415</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>questionking</name>
             <uri>https://news.ycombinator.com/user?id=questionking</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以买到这样的显示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30788880</id>
-        <link href="https://news.ycombinator.com/item?id=30788880"/>
-        <updated>2022-03-24T12:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I buy displays like these]]></summary>
-        <author>
-            <name>techlover14159</name>
-            <uri>https://news.ycombinator.com/user?id=techlover14159</uri>
         </author>
     </entry>
 </feed>
