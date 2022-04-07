@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Apr 2022 15:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有沒有沒有產品經理的大軟件公司做得很好？]]></title>
+            <link>https://news.ycombinator.com/item?id=30945517</link>
+            <guid>https://news.ycombinator.com/item?id=30945517</guid>
+            <pubDate>Thu, 07 Apr 2022 15:13:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any big software companies without Product Managers that do well?]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年編寫一個Windows程序？]]></title>
             <link>https://news.ycombinator.com/item?id=30945339</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30785786</guid>
             <pubDate>Thu, 24 Mar 2022 02:17:21 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you want from the news?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於代理投票的DAO？]]></title>
-            <link>https://news.ycombinator.com/item?id=30785461</link>
-            <guid>https://news.ycombinator.com/item?id=30785461</guid>
-            <pubDate>Thu, 24 Mar 2022 01:13:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: DAO for Proxy Voting?]]></description>
         </item>
     </channel>
 </rss>
