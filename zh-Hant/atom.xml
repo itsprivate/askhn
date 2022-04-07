@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T02:21:17.466Z</updated>
+    <updated>2022-04-07T03:09:13.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我62歲的父親如何才能找到工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30940069</id>
+        <link href="https://news.ycombinator.com/item?id=30940069"/>
+        <updated>2022-04-07T02:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can my 62 year old father get a job?]]></summary>
+        <author>
+            <name>notuger</name>
+            <uri>https://news.ycombinator.com/user?id=notuger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你覺得哪些iOS應用程序是必不可少的？]]></title>
         <id>https://news.ycombinator.com/item?id=30939399</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>methyl</name>
             <uri>https://news.ycombinator.com/user?id=methyl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼推送通知沒有取代新聞郵件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30779876</id>
-        <link href="https://news.ycombinator.com/item?id=30779876"/>
-        <updated>2022-03-23T16:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why haven’t push notifications replaced newsletters?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
