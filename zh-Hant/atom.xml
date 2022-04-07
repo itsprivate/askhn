@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T06:39:49.652Z</updated>
+    <updated>2022-04-07T09:33:45.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你們公司的隨叫隨到報酬是怎樣的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30942366</id>
+        <link href="https://news.ycombinator.com/item?id=30942366"/>
+        <updated>2022-04-07T09:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is On-Call compensation like at your company?]]></summary>
+        <author>
+            <name>ScarZy</name>
+            <uri>https://news.ycombinator.com/user?id=ScarZy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼銀行可以為Atlas公司提供服務，而不是SVB？]]></title>
+        <id>https://news.ycombinator.com/item?id=30942332</id>
+        <link href="https://news.ycombinator.com/item?id=30942332"/>
+        <updated>2022-04-07T09:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What bank is available for Atlas companies that is not SVB?]]></summary>
+        <author>
+            <name>DoubleMalt</name>
+            <uri>https://news.ycombinator.com/user?id=DoubleMalt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你還在使用Facebook.com進行商業活動嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30941236</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>heleninboodler</name>
             <uri>https://news.ycombinator.com/user?id=heleninboodler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroku停機了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30781739</id>
-        <link href="https://news.ycombinator.com/item?id=30781739"/>
-        <updated>2022-03-23T18:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Heroku Down?]]></summary>
-        <author>
-            <name>aarongray</name>
-            <uri>https://news.ycombinator.com/user?id=aarongray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在招聘信息中想要哪些細節？]]></title>
-        <id>https://news.ycombinator.com/item?id=30781397</id>
-        <link href="https://news.ycombinator.com/item?id=30781397"/>
-        <updated>2022-03-23T18:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What details do you want in job postings?]]></summary>
-        <author>
-            <name>rileyt</name>
-            <uri>https://news.ycombinator.com/user?id=rileyt</uri>
         </author>
     </entry>
 </feed>
