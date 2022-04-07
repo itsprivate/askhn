@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T23:33:51.282Z</updated>
+    <updated>2022-04-07T23:43:19.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[方便创始人的股权授予/期权包指南？]]></title>
+        <id>https://news.ycombinator.com/item?id=30951620</id>
+        <link href="https://news.ycombinator.com/item?id=30951620"/>
+        <updated>2022-04-07T23:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Founder-friendly guide to equity grants / options packages?]]></summary>
+        <author>
+            <name>licensekey</name>
+            <uri>https://news.ycombinator.com/user?id=licensekey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凌乱的心灵导航]]></title>
         <id>https://news.ycombinator.com/item?id=30951494</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sharemywin</name>
             <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对嵌入式设备安全的看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30791860</id>
-        <link href="https://news.ycombinator.com/item?id=30791860"/>
-        <updated>2022-03-24T16:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on Embedded Device Security?]]></summary>
-        <author>
-            <name>mlmitch</name>
-            <uri>https://news.ycombinator.com/user?id=mlmitch</uri>
         </author>
     </entry>
 </feed>
