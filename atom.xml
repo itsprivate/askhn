@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T00:43:43.178Z</updated>
+    <updated>2022-04-07T02:21:17.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你觉得哪些iOS应用程序是必不可少的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30939399</id>
+        <link href="https://news.ycombinator.com/item?id=30939399"/>
+        <updated>2022-04-07T00:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which iOS apps do you find essential?]]></summary>
+        <author>
+            <name>bytethis</name>
+            <uri>https://news.ycombinator.com/user?id=bytethis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在LeetCode风格的采访中，明智地承认之前看到了一个问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30939319</id>
+        <link href="https://news.ycombinator.com/item?id=30939319"/>
+        <updated>2022-04-07T00:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: In a LeetCode-style interview, wise to admit to seeing a problem before?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["向上管理"--与C级人员合作]]></title>
         <id>https://news.ycombinator.com/item?id=30939120</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么需要关闭Safari浏览器来更新插件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30779871</id>
-        <link href="https://news.ycombinator.com/item?id=30779871"/>
-        <updated>2022-03-23T16:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you need to close Safari to update plugins?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年我们看到金融风暴的可能性有多大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30779645</id>
-        <link href="https://news.ycombinator.com/item?id=30779645"/>
-        <updated>2022-03-23T15:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How likely are we to see a financial crash this year?]]></summary>
-        <author>
-            <name>mouzogu</name>
-            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
         </author>
     </entry>
 </feed>
