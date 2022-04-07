@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T18:56:26.931Z</updated>
+    <updated>2022-04-07T19:37:24.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马克-安德森在谈论什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30949267</id>
+        <link href="https://news.ycombinator.com/item?id=30949267"/>
+        <updated>2022-04-07T19:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is Marc Andreessen talking about]]></summary>
+        <author>
+            <name>limteary</name>
+            <uri>https://news.ycombinator.com/user?id=limteary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用DeFi能赚多少钱，能持续多久？]]></title>
         <id>https://news.ycombinator.com/item?id=30948610</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dinkleberg</name>
             <uri>https://news.ycombinator.com/user?id=dinkleberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人们会看YouTube上的视频？]]></title>
-        <id>https://news.ycombinator.com/item?id=30789177</id>
-        <link href="https://news.ycombinator.com/item?id=30789177"/>
-        <updated>2022-03-24T13:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do people watch YouTube vlogs?]]></summary>
-        <author>
-            <name>questionking</name>
-            <uri>https://news.ycombinator.com/user?id=questionking</uri>
         </author>
     </entry>
 </feed>
