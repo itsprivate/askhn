@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T13:01:10.071Z</updated>
+    <updated>2022-04-07T13:26:20.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何跟踪你的财务状况？]]></title>
+        <id>https://news.ycombinator.com/item?id=30943948</id>
+        <link href="https://news.ycombinator.com/item?id=30943948"/>
+        <updated>2022-04-07T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you track your finances?]]></summary>
+        <author>
+            <name>hugohamelcom</name>
+            <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对导师制感兴趣？构建社区，付出行动]]></title>
         <id>https://news.ycombinator.com/item?id=30943556</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>minroot</name>
             <uri>https://news.ycombinator.com/user?id=minroot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我有能力搬到美国的任何地方，我应该去哪里？]]></title>
-        <id>https://news.ycombinator.com/item?id=30783406</id>
-        <link href="https://news.ycombinator.com/item?id=30783406"/>
-        <updated>2022-03-23T21:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm in a position to move to anywhere in the USA, where should I go?]]></summary>
-        <author>
-            <name>MathCodeLove</name>
-            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
         </author>
     </entry>
 </feed>
