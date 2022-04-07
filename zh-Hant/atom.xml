@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T05:12:50.533Z</updated>
+    <updated>2022-04-07T05:31:25.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戒酒的非酗酒者，你為什麼決定，以及發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30940872</id>
+        <link href="https://news.ycombinator.com/item?id=30940872"/>
+        <updated>2022-04-07T05:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-Alcoholics Who Quit Drinking, Why Did You Decide, and What Happened?]]></summary>
+        <author>
+            <name>idontwantthis</name>
+            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在合作寫作方面，有什麼好的方法可以替代Google Docs？]]></title>
         <id>https://news.ycombinator.com/item?id=30940767</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>reisr3</name>
             <uri>https://news.ycombinator.com/user?id=reisr3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何說服開發人員/公司使用TypeScript？]]></title>
-        <id>https://news.ycombinator.com/item?id=30780673</id>
-        <link href="https://news.ycombinator.com/item?id=30780673"/>
-        <updated>2022-03-23T17:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I convince developers/companies to use TypeScript?]]></summary>
-        <author>
-            <name>nilia</name>
-            <uri>https://news.ycombinator.com/user?id=nilia</uri>
         </author>
     </entry>
 </feed>
