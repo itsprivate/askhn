@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T07:33:06.343Z</updated>
+    <updated>2022-04-08T08:54:32.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼會有這麼多不同的文本編輯器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30954713</id>
+        <link href="https://news.ycombinator.com/item?id=30954713"/>
+        <updated>2022-04-08T08:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there so many different text editors?]]></summary>
+        <author>
+            <name>routeroff</name>
+            <uri>https://news.ycombinator.com/user?id=routeroff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追蹤YT頻道的非YouTube工具？]]></title>
         <id>https://news.ycombinator.com/item?id=30954209</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>artembugara</name>
             <uri>https://news.ycombinator.com/user?id=artembugara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清洗舊銀器]]></title>
-        <id>https://news.ycombinator.com/item?id=30795271</id>
-        <link href="https://news.ycombinator.com/item?id=30795271"/>
-        <updated>2022-03-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cleaning Old Silverware]]></summary>
-        <author>
-            <name>999900000999</name>
-            <uri>https://news.ycombinator.com/user?id=999900000999</uri>
         </author>
     </entry>
 </feed>
