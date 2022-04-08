@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T10:37:45.395Z</updated>
+    <updated>2022-04-08T11:52:40.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何阻止错误的设计决策？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955731</id>
+        <link href="https://news.ycombinator.com/item?id=30955731"/>
+        <updated>2022-04-08T11:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you stop bad design decisions?]]></summary>
+        <author>
+            <name>ameasure</name>
+            <uri>https://news.ycombinator.com/user?id=ameasure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果一个路由器仍然支持IPv4，它就是IPv6路由器吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30955334</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anonstartup1</name>
             <uri>https://news.ycombinator.com/user?id=anonstartup1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们应该搬离城市吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30796778</id>
-        <link href="https://news.ycombinator.com/item?id=30796778"/>
-        <updated>2022-03-24T23:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should people move away from cities?]]></summary>
-        <author>
-            <name>prohobo</name>
-            <uri>https://news.ycombinator.com/user?id=prohobo</uri>
         </author>
     </entry>
 </feed>
