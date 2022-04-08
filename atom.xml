@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T19:27:57.845Z</updated>
+    <updated>2022-04-08T20:14:50.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拥有1000名网络粉丝的人，有什么优点和缺点？]]></title>
+        <id>https://news.ycombinator.com/item?id=30961888</id>
+        <link href="https://news.ycombinator.com/item?id=30961888"/>
+        <updated>2022-04-08T20:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People who have 1000 internet followers, what are the pros and cons?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么办法能让敏捷变得正确吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30961400</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sanitythrowaway</name>
             <uri>https://news.ycombinator.com/user?id=sanitythrowaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[61岁时开始从事编程工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802740</id>
-        <link href="https://news.ycombinator.com/item?id=30802740"/>
-        <updated>2022-03-25T14:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Starting a Career in Programming at 61?]]></summary>
-        <author>
-            <name>wofo</name>
-            <uri>https://news.ycombinator.com/user?id=wofo</uri>
         </author>
     </entry>
 </feed>
