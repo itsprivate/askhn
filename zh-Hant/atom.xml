@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T13:00:05.871Z</updated>
+    <updated>2022-04-08T13:29:00.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你為什麼要按新的來排序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30956490</id>
+        <link href="https://news.ycombinator.com/item?id=30956490"/>
+        <updated>2022-04-08T13:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are you sorting by new?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於管理混合/遠程團隊的好書？]]></title>
         <id>https://news.ycombinator.com/item?id=30956245</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>_hl_</name>
             <uri>https://news.ycombinator.com/user?id=_hl_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[興趣愛好和保持思維的方法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30798819</id>
-        <link href="https://news.ycombinator.com/item?id=30798819"/>
-        <updated>2022-03-25T05:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hobbies and ways to keep the mind engaged?]]></summary>
-        <author>
-            <name>drekipus</name>
-            <uri>https://news.ycombinator.com/user?id=drekipus</uri>
         </author>
     </entry>
 </feed>
