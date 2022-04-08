@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T09:51:40.953Z</updated>
+    <updated>2022-04-08T10:15:04.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux上的ACL何时会成为DE的一部分？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955216</id>
+        <link href="https://news.ycombinator.com/item?id=30955216"/>
+        <updated>2022-04-08T10:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When will ACL on Linux be part of the DE?]]></summary>
+        <author>
+            <name>thepra</name>
+            <uri>https://news.ycombinator.com/user?id=thepra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何处理客户对 "低于 "你的任务的要求？]]></title>
         <id>https://news.ycombinator.com/item?id=30955109</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁知道一个承载个人RSS订阅的网站吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30796174</id>
-        <link href="https://news.ycombinator.com/item?id=30796174"/>
-        <updated>2022-03-24T22:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone know a site that hosts personal RSS feeds?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
         </author>
     </entry>
 </feed>
