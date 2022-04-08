@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T10:15:04.410Z</updated>
+    <updated>2022-04-08T10:37:45.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果一個路由器仍然支持IPv4，它就是IPv6路由器嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955334</id>
+        <link href="https://news.ycombinator.com/item?id=30955334"/>
+        <updated>2022-04-08T10:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If a router still supports IPv4 is it IPv6 router?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook的新員工，得到了奇怪的邪教氛圍]]></title>
+        <id>https://news.ycombinator.com/item?id=30955290</id>
+        <link href="https://news.ycombinator.com/item?id=30955290"/>
+        <updated>2022-04-08T10:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: New hire at Facebook, getting weird cult vibes]]></summary>
+        <author>
+            <name>lifeplusplus</name>
+            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux上的ACL何時會成為DE的一部分？]]></title>
         <id>https://news.ycombinator.com/item?id=30955216</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>prohobo</name>
             <uri>https://news.ycombinator.com/user?id=prohobo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰覺得安全領域已經變成了狗屎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30796753</id>
-        <link href="https://news.ycombinator.com/item?id=30796753"/>
-        <updated>2022-03-24T23:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone feel like the security field has gone to shit?]]></summary>
-        <author>
-            <name>anon23anon</name>
-            <uri>https://news.ycombinator.com/user?id=anon23anon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何在空閒時間賺錢的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30796552</id>
-        <link href="https://news.ycombinator.com/item?id=30796552"/>
-        <updated>2022-03-24T23:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you make money in your free time?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
