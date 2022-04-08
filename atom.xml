@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T13:29:00.251Z</updated>
+    <updated>2022-04-08T13:49:56.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是最好的非vim vim模式编辑器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30956643</id>
+        <link href="https://news.ycombinator.com/item?id=30956643"/>
+        <updated>2022-04-08T13:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the best non-vim vim mode editor?]]></summary>
+        <author>
+            <name>redman25</name>
+            <uri>https://news.ycombinator.com/user?id=redman25</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你为什么要按新的来排序？]]></title>
         <id>https://news.ycombinator.com/item?id=30956490</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>GreatSwallower</name>
             <uri>https://news.ycombinator.com/user?id=GreatSwallower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对无代码人工智能工具的看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30800117</id>
-        <link href="https://news.ycombinator.com/item?id=30800117"/>
-        <updated>2022-03-25T09:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on no-code AI tools?]]></summary>
-        <author>
-            <name>_hl_</name>
-            <uri>https://news.ycombinator.com/user?id=_hl_</uri>
         </author>
     </entry>
 </feed>
