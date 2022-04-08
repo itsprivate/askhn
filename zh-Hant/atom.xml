@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T17:40:01.213Z</updated>
+    <updated>2022-04-08T17:54:02.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於在Sedo購買域名的建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30960267</id>
+        <link href="https://news.ycombinator.com/item?id=30960267"/>
+        <updated>2022-04-08T17:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice for Buying a Domain on Sedo]]></summary>
+        <author>
+            <name>aranchelk</name>
+            <uri>https://news.ycombinator.com/user?id=aranchelk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在新的行業中尋找新的角色]]></title>
+        <id>https://news.ycombinator.com/item?id=30960211</id>
+        <link href="https://news.ycombinator.com/item?id=30960211"/>
+        <updated>2022-04-08T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Finding a new role in a new industry]]></summary>
+        <author>
+            <name>pdx_flyer</name>
+            <uri>https://news.ycombinator.com/user?id=pdx_flyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在我的網站上接受ETH付款]]></title>
         <id>https://news.ycombinator.com/item?id=30959955</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>SleekEagle</name>
             <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的著陸頁是否有改進？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802404</id>
-        <link href="https://news.ycombinator.com/item?id=30802404"/>
-        <updated>2022-03-25T14:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is my landing page improved?]]></summary>
-        <author>
-            <name>patrickz</name>
-            <uri>https://news.ycombinator.com/user?id=patrickz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編碼時你最喜歡的播放列表是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802347</id>
-        <link href="https://news.ycombinator.com/item?id=30802347"/>
-        <updated>2022-03-25T14:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your favorite playlists while coding?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
