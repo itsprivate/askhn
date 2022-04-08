@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T12:19:52.991Z</updated>
+    <updated>2022-04-08T13:00:05.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於管理混合/遠程團隊的好書？]]></title>
+        <id>https://news.ycombinator.com/item?id=30956245</id>
+        <link href="https://news.ycombinator.com/item?id=30956245"/>
+        <updated>2022-04-08T12:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good books on managing a hybrid/remote team?]]></summary>
+        <author>
+            <name>NoboruWataya</name>
+            <uri>https://news.ycombinator.com/user?id=NoboruWataya</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器的DNS路由]]></title>
+        <id>https://news.ycombinator.com/item?id=30956122</id>
+        <link href="https://news.ycombinator.com/item?id=30956122"/>
+        <updated>2022-04-08T12:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Firefox DNS Routing]]></summary>
+        <author>
+            <name>version_five</name>
+            <uri>https://news.ycombinator.com/user?id=version_five</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[請說出那些限制用戶每天登錄的網站？]]></title>
         <id>https://news.ycombinator.com/item?id=30955908</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>drekipus</name>
             <uri>https://news.ycombinator.com/user?id=drekipus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows與Linux的穩定性，你有什麼經驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30798756</id>
-        <link href="https://news.ycombinator.com/item?id=30798756"/>
-        <updated>2022-03-25T04:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Windows vs. Linux stability what is your experience]]></summary>
-        <author>
-            <name>xupybd</name>
-            <uri>https://news.ycombinator.com/user?id=xupybd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習一種新的編程語言意味著什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30798539</id>
-        <link href="https://news.ycombinator.com/item?id=30798539"/>
-        <updated>2022-03-25T04:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does it mean to learn a new programming language?]]></summary>
-        <author>
-            <name>firefly284</name>
-            <uri>https://news.ycombinator.com/user?id=firefly284</uri>
         </author>
     </entry>
 </feed>

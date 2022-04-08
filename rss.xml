@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 08 Apr 2022 12:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于管理混合/远程团队的好书？]]></title>
+            <link>https://news.ycombinator.com/item?id=30956245</link>
+            <guid>https://news.ycombinator.com/item?id=30956245</guid>
+            <pubDate>Fri, 08 Apr 2022 12:53:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Good books on managing a hybrid/remote team?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[火狐浏览器的DNS路由]]></title>
+            <link>https://news.ycombinator.com/item?id=30956122</link>
+            <guid>https://news.ycombinator.com/item?id=30956122</guid>
+            <pubDate>Fri, 08 Apr 2022 12:37:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: Firefox DNS Routing]]></description>
+        </item>
         <item>
             <title><![CDATA[请说出那些限制用户每天登录的网站？]]></title>
             <link>https://news.ycombinator.com/item?id=30955908</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30798819</guid>
             <pubDate>Fri, 25 Mar 2022 05:08:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Hobbies and ways to keep the mind engaged?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Windows与Linux的稳定性，你有什么经验]]></title>
-            <link>https://news.ycombinator.com/item?id=30798756</link>
-            <guid>https://news.ycombinator.com/item?id=30798756</guid>
-            <pubDate>Fri, 25 Mar 2022 04:52:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Windows vs. Linux stability what is your experience]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学习一种新的编程语言意味着什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30798539</link>
-            <guid>https://news.ycombinator.com/item?id=30798539</guid>
-            <pubDate>Fri, 25 Mar 2022 04:02:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: What does it mean to learn a new programming language?]]></description>
         </item>
     </channel>
 </rss>
