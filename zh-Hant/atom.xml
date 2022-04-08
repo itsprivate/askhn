@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T05:51:28.615Z</updated>
+    <updated>2022-04-08T06:16:07.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[諮詢業的世界是否充滿了廢話？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953835</id>
+        <link href="https://news.ycombinator.com/item?id=30953835"/>
+        <updated>2022-04-08T06:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the world of consulting full of bullshit?]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找到一份具有社會影響力的工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953830</id>
+        <link href="https://news.ycombinator.com/item?id=30953830"/>
+        <updated>2022-04-08T06:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find a job with social impact?]]></summary>
+        <author>
+            <name>slekker</name>
+            <uri>https://news.ycombinator.com/user?id=slekker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TDD和項目管理的創意是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30953692</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>white_box</name>
             <uri>https://news.ycombinator.com/user?id=white_box</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌為什麼要扼殺Google Now快照（卡片）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30794333</id>
-        <link href="https://news.ycombinator.com/item?id=30794333"/>
-        <updated>2022-03-24T19:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Google kill Google Now Snapshot(Cards)?]]></summary>
-        <author>
-            <name>yonz</name>
-            <uri>https://news.ycombinator.com/user?id=yonz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必應也在搜索結果頁上為你顯示不相關的視頻嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30793762</id>
-        <link href="https://news.ycombinator.com/item?id=30793762"/>
-        <updated>2022-03-24T18:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Bing showing unrelated videos on the search results page for you too?]]></summary>
-        <author>
-            <name>schemescape</name>
-            <uri>https://news.ycombinator.com/user?id=schemescape</uri>
         </author>
     </entry>
 </feed>
