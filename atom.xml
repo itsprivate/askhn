@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T06:16:07.173Z</updated>
+    <updated>2022-04-08T06:40:04.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[咨询业的世界是否充满了废话？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953868</id>
+        <link href="https://news.ycombinator.com/item?id=30953868"/>
+        <updated>2022-04-08T06:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the world of consulting full of bullshit?]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[咨询业的世界是否充满了废话？]]></title>
         <id>https://news.ycombinator.com/item?id=30953835</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>monological</name>
             <uri>https://news.ycombinator.com/user?id=monological</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我注销了，谷歌是否会链接我的YouTube和谷歌搜索账户？]]></title>
-        <id>https://news.ycombinator.com/item?id=30794783</id>
-        <link href="https://news.ycombinator.com/item?id=30794783"/>
-        <updated>2022-03-24T20:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Google link my YouTube and Google Search account if I'm logged out?]]></summary>
-        <author>
-            <name>white_box</name>
-            <uri>https://news.ycombinator.com/user?id=white_box</uri>
         </author>
     </entry>
 </feed>
