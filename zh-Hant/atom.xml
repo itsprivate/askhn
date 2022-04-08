@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T04:13:56.295Z</updated>
+    <updated>2022-04-08T04:41:16.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技術帶頭人從開源的GitHub repo複製代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30953313</id>
+        <link href="https://news.ycombinator.com/item?id=30953313"/>
+        <updated>2022-04-08T04:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tech lead copying code from open source GitHub repo]]></summary>
+        <author>
+            <name>l33tc0de</name>
+            <uri>https://news.ycombinator.com/user?id=l33tc0de</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人對事物/人有強迫性的依戀嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30953177</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xaxaxb</name>
             <uri>https://news.ycombinator.com/user?id=xaxaxb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是無國籍人--難以從反饋中學習]]></title>
-        <id>https://news.ycombinator.com/item?id=30793197</id>
-        <link href="https://news.ycombinator.com/item?id=30793197"/>
-        <updated>2022-03-24T17:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I am stateless – trouble learning from feedback]]></summary>
-        <author>
-            <name>servytor</name>
-            <uri>https://news.ycombinator.com/user?id=servytor</uri>
         </author>
     </entry>
 </feed>
