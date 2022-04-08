@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T11:52:40.441Z</updated>
+    <updated>2022-04-08T12:19:52.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[請說出那些限制用戶每天登錄的網站？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955908</id>
+        <link href="https://news.ycombinator.com/item?id=30955908"/>
+        <updated>2022-04-08T12:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Name those websites that limit user logins per day?]]></summary>
+        <author>
+            <name>saradhi</name>
+            <uri>https://news.ycombinator.com/user?id=saradhi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道哪些基於生物理唸的算法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955837</id>
+        <link href="https://news.ycombinator.com/item?id=30955837"/>
+        <updated>2022-04-08T11:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which algorithms based on biological ideas do you know?]]></summary>
+        <author>
+            <name>labarilem</name>
+            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN讀者的典型或通常的非IT/技術背景是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955821</id>
+        <link href="https://news.ycombinator.com/item?id=30955821"/>
+        <updated>2022-04-08T11:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the typical or usual non-IT/Tech backgrounds of HN readers?]]></summary>
+        <author>
+            <name>L0in</name>
+            <uri>https://news.ycombinator.com/user?id=L0in</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長時間坐著的時候，你用什麼辦公椅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955797</id>
+        <link href="https://news.ycombinator.com/item?id=30955797"/>
+        <updated>2022-04-08T11:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What office chair do you use for long hour sitting?]]></summary>
+        <author>
+            <name>aviCC</name>
+            <uri>https://news.ycombinator.com/user?id=aviCC</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何阻止錯誤的設計決策？]]></title>
         <id>https://news.ycombinator.com/item?id=30955731</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>firefly284</name>
             <uri>https://news.ycombinator.com/user?id=firefly284</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多數初創企業在不需要AWS時不是在浪費錢嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30798068</id>
-        <link href="https://news.ycombinator.com/item?id=30798068"/>
-        <updated>2022-03-25T02:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Aren't most startups wasting money on AWS when they don't need it?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在工作中，什麼是讓你想辭職的開發者經驗問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30797963</id>
-        <link href="https://news.ycombinator.com/item?id=30797963"/>
-        <updated>2022-03-25T02:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a developer experience issue at work that makes you want to quit?]]></summary>
-        <author>
-            <name>jamghee</name>
-            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼網絡開發還沒有發展到像移動/桌面應用開發那樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30797820</id>
-        <link href="https://news.ycombinator.com/item?id=30797820"/>
-        <updated>2022-03-25T01:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why hasn't web dev evolved to be like mobile/desktop app dev yet?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於行使期權的無追索權資金的意見]]></title>
-        <id>https://news.ycombinator.com/item?id=30793728</id>
-        <link href="https://news.ycombinator.com/item?id=30793728"/>
-        <updated>2022-03-24T18:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Opinions on non-recourse funding for exercising options]]></summary>
-        <author>
-            <name>anonstartup1</name>
-            <uri>https://news.ycombinator.com/user?id=anonstartup1</uri>
         </author>
     </entry>
 </feed>
