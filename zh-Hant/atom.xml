@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T00:45:44.272Z</updated>
+    <updated>2022-04-08T02:29:50.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以對我混亂/神經質的大腦做些什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30952648</id>
+        <link href="https://news.ycombinator.com/item?id=30952648"/>
+        <updated>2022-04-08T02:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What can I do about my messy/neurodivergent brain?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[粘貼並保留源格式，合法的使用案例？]]></title>
+        <id>https://news.ycombinator.com/item?id=30952091</id>
+        <link href="https://news.ycombinator.com/item?id=30952091"/>
+        <updated>2022-04-08T00:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Paste and keep source formatting, legitimate use cases?]]></summary>
+        <author>
+            <name>jeffybefffy519</name>
+            <uri>https://news.ycombinator.com/user?id=jeffybefffy519</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slack如何在沒有auth的情況下獲得網站預覽]]></title>
         <id>https://news.ycombinator.com/item?id=30952028</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sirjaz</name>
             <uri>https://news.ycombinator.com/user?id=sirjaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什麼讓人們向HN添加鏈接？]]></title>
-        <id>https://news.ycombinator.com/item?id=30792481</id>
-        <link href="https://news.ycombinator.com/item?id=30792481"/>
-        <updated>2022-03-24T16:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What makes people add links to HN?]]></summary>
-        <author>
-            <name>thallukrish</name>
-            <uri>https://news.ycombinator.com/user?id=thallukrish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼語言/框架最容易部署？]]></title>
-        <id>https://news.ycombinator.com/item?id=30792323</id>
-        <link href="https://news.ycombinator.com/item?id=30792323"/>
-        <updated>2022-03-24T16:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What language/framework is easiest to deploy?]]></summary>
-        <author>
-            <name>vmsp</name>
-            <uri>https://news.ycombinator.com/user?id=vmsp</uri>
         </author>
     </entry>
 </feed>

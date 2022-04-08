@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 08 Apr 2022 00:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 02:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我可以对我混乱/神经质的大脑做些什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30952648</link>
+            <guid>https://news.ycombinator.com/item?id=30952648</guid>
+            <pubDate>Fri, 08 Apr 2022 02:22:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: What can I do about my messy/neurodivergent brain?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[粘贴并保留源格式，合法的使用案例？]]></title>
+            <link>https://news.ycombinator.com/item?id=30952091</link>
+            <guid>https://news.ycombinator.com/item?id=30952091</guid>
+            <pubDate>Fri, 08 Apr 2022 00:49:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: Paste and keep source formatting, legitimate use cases?]]></description>
+        </item>
         <item>
             <title><![CDATA[Slack如何在没有auth的情况下获得网站预览]]></title>
             <link>https://news.ycombinator.com/item?id=30952028</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30790964</guid>
             <pubDate>Thu, 24 Mar 2022 15:09:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Why aren't devs making desktop apps any more?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让人们向HN添加链接？]]></title>
-            <link>https://news.ycombinator.com/item?id=30792481</link>
-            <guid>https://news.ycombinator.com/item?id=30792481</guid>
-            <pubDate>Thu, 24 Mar 2022 16:55:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: What makes people add links to HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么语言/框架最容易部署？]]></title>
-            <link>https://news.ycombinator.com/item?id=30792323</link>
-            <guid>https://news.ycombinator.com/item?id=30792323</guid>
-            <pubDate>Thu, 24 Mar 2022 16:43:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: What language/framework is easiest to deploy?]]></description>
         </item>
     </channel>
 </rss>
