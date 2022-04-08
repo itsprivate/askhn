@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T03:23:23.089Z</updated>
+    <updated>2022-04-08T04:13:56.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有人对事物/人有强迫性的依恋吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953177</id>
+        <link href="https://news.ycombinator.com/item?id=30953177"/>
+        <updated>2022-04-08T03:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone else get obsessively attached to things/people?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenZ使用什么来代替Facebook活动？]]></title>
         <id>https://news.ycombinator.com/item?id=30952811</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>servytor</name>
             <uri>https://news.ycombinator.com/user?id=servytor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI/ML和大数据阅读的首选来源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30792990</id>
-        <link href="https://news.ycombinator.com/item?id=30792990"/>
-        <updated>2022-03-24T17:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Go-To Source for AI/ML and Big Data Read?]]></summary>
-        <author>
-            <name>geminicoolaf</name>
-            <uri>https://news.ycombinator.com/user?id=geminicoolaf</uri>
         </author>
     </entry>
 </feed>
