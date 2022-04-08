@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 14:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[懷疑遠程工作政策？]]></title>
+            <link>https://news.ycombinator.com/item?id=30957460</link>
+            <guid>https://news.ycombinator.com/item?id=30957460</guid>
+            <pubDate>Fri, 08 Apr 2022 14:41:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Doubious Remote Work Policy?]]></description>
+        </item>
         <item>
             <title><![CDATA[今年是否有YC的初創公司可能提交S1？]]></title>
             <link>https://news.ycombinator.com/item?id=30957036</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30800378</guid>
             <pubDate>Fri, 25 Mar 2022 10:21:04 GMT</pubDate>
             <description><![CDATA[Ask HN: What AWS technology do you use to deploy “hello world” containers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何提供免費試用而不被濫用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30800350</link>
-            <guid>https://news.ycombinator.com/item?id=30800350</guid>
-            <pubDate>Fri, 25 Mar 2022 10:15:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to provide a free trial without being abused?]]></description>
         </item>
     </channel>
 </rss>

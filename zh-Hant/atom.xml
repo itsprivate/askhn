@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T14:31:35.382Z</updated>
+    <updated>2022-04-08T14:57:58.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[懷疑遠程工作政策？]]></title>
+        <id>https://news.ycombinator.com/item?id=30957460</id>
+        <link href="https://news.ycombinator.com/item?id=30957460"/>
+        <updated>2022-04-08T14:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Doubious Remote Work Policy?]]></summary>
+        <author>
+            <name>sdevonoes</name>
+            <uri>https://news.ycombinator.com/user?id=sdevonoes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年是否有YC的初創公司可能提交S1？]]></title>
         <id>https://news.ycombinator.com/item?id=30957036</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rpau_cb</name>
             <uri>https://news.ycombinator.com/user?id=rpau_cb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提供免費試用而不被濫用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30800350</id>
-        <link href="https://news.ycombinator.com/item?id=30800350"/>
-        <updated>2022-03-25T10:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to provide a free trial without being abused?]]></summary>
-        <author>
-            <name>js4ever</name>
-            <uri>https://news.ycombinator.com/user?id=js4ever</uri>
         </author>
     </entry>
 </feed>
