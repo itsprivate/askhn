@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-07T23:43:19.104Z</updated>
+    <updated>2022-04-08T00:45:44.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slack如何在沒有auth的情況下獲得網站預覽]]></title>
+        <id>https://news.ycombinator.com/item?id=30952028</id>
+        <link href="https://news.ycombinator.com/item?id=30952028"/>
+        <updated>2022-04-08T00:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Slack get a website preview without auth]]></summary>
+        <author>
+            <name>LunaticDragon</name>
+            <uri>https://news.ycombinator.com/user?id=LunaticDragon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[方便創始人的股權授予/期權包指南？]]></title>
         <id>https://news.ycombinator.com/item?id=30951620</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vmsp</name>
             <uri>https://news.ycombinator.com/user?id=vmsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何公司與普通員工分享知識產權利潤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30792017</id>
-        <link href="https://news.ycombinator.com/item?id=30792017"/>
-        <updated>2022-03-24T16:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any companies that share IP profits with regular employees?]]></summary>
-        <author>
-            <name>sharemywin</name>
-            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
         </author>
     </entry>
 </feed>
