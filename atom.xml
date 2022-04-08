@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T21:12:17.600Z</updated>
+    <updated>2022-04-08T21:53:01.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有人发现OS X 12.2.1在网页表单中呼应密码吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30962841</id>
+        <link href="https://news.ycombinator.com/item?id=30962841"/>
+        <updated>2022-04-08T21:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anybody else find OS X 12.2.1 echoes password in web forms?]]></summary>
+        <author>
+            <name>JoeAltmaier</name>
+            <uri>https://news.ycombinator.com/user?id=JoeAltmaier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何让我的公司为开放源代码做出贡献？]]></title>
         <id>https://news.ycombinator.com/item?id=30962471</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>taf2</name>
             <uri>https://news.ycombinator.com/user?id=taf2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卖皮划艇的塑料制造厂？]]></title>
-        <id>https://news.ycombinator.com/item?id=30803478</id>
-        <link href="https://news.ycombinator.com/item?id=30803478"/>
-        <updated>2022-03-25T15:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Plastics mfg’s that sell kayak?]]></summary>
-        <author>
-            <name>yakytaky</name>
-            <uri>https://news.ycombinator.com/user?id=yakytaky</uri>
         </author>
     </entry>
 </feed>
