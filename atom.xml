@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T05:12:36.192Z</updated>
+    <updated>2022-04-08T05:51:28.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TDD和项目管理的创意是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953692</id>
+        <link href="https://news.ycombinator.com/item?id=30953692"/>
+        <updated>2022-04-08T05:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's creative about TDD and Project Mgmt]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么公司都在推崇在办公室工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30944014</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>schemescape</name>
             <uri>https://news.ycombinator.com/user?id=schemescape</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当Alexa退役时，大家要用什么呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30793602</id>
-        <link href="https://news.ycombinator.com/item?id=30793602"/>
-        <updated>2022-03-24T18:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is everyone going to use when Alexa is retired?]]></summary>
-        <author>
-            <name>eulid55</name>
-            <uri>https://news.ycombinator.com/user?id=eulid55</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TDD和项目管理的创意是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30953692</link>
+            <guid>https://news.ycombinator.com/item?id=30953692</guid>
+            <pubDate>Fri, 08 Apr 2022 05:44:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's creative about TDD and Project Mgmt]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么公司都在推崇在办公室工作？]]></title>
             <link>https://news.ycombinator.com/item?id=30944014</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30793762</guid>
             <pubDate>Thu, 24 Mar 2022 18:39:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Is Bing showing unrelated videos on the search results page for you too?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当Alexa退役时，大家要用什么呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30793602</link>
-            <guid>https://news.ycombinator.com/item?id=30793602</guid>
-            <pubDate>Thu, 24 Mar 2022 18:25:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is everyone going to use when Alexa is retired?]]></description>
         </item>
     </channel>
 </rss>
