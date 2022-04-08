@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN的2FA？]]></title>
+            <link>https://news.ycombinator.com/item?id=30959447</link>
+            <guid>https://news.ycombinator.com/item?id=30959447</guid>
+            <pubDate>Fri, 08 Apr 2022 16:46:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: 2FA for HN?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们难道不应该把目光投向电力消耗吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30959094</link>
+            <guid>https://news.ycombinator.com/item?id=30959094</guid>
+            <pubDate>Fri, 08 Apr 2022 16:21:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Shouldn't we be turning an eye to power consumption?]]></description>
+        </item>
         <item>
             <title><![CDATA[怀疑远程工作政策？]]></title>
             <link>https://news.ycombinator.com/item?id=30957460</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30801071</guid>
             <pubDate>Fri, 25 Mar 2022 12:02:17 GMT</pubDate>
             <description><![CDATA[Ask HN: What does 12:00 AM mean?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ESR发生了什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30800573</link>
-            <guid>https://news.ycombinator.com/item?id=30800573</guid>
-            <pubDate>Fri, 25 Mar 2022 10:52:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Happened to ESR?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你使用什么AWS技术来部署 "hello world "容器？]]></title>
-            <link>https://news.ycombinator.com/item?id=30800378</link>
-            <guid>https://news.ycombinator.com/item?id=30800378</guid>
-            <pubDate>Fri, 25 Mar 2022 10:21:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What AWS technology do you use to deploy “hello world” containers?]]></description>
         </item>
     </channel>
 </rss>

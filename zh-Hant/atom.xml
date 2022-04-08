@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T14:57:58.111Z</updated>
+    <updated>2022-04-08T16:52:36.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN的2FA？]]></title>
+        <id>https://news.ycombinator.com/item?id=30959447</id>
+        <link href="https://news.ycombinator.com/item?id=30959447"/>
+        <updated>2022-04-08T16:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: 2FA for HN?]]></summary>
+        <author>
+            <name>jonny_eh</name>
+            <uri>https://news.ycombinator.com/user?id=jonny_eh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們難道不應該把目光投向電力消耗嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30959094</id>
+        <link href="https://news.ycombinator.com/item?id=30959094"/>
+        <updated>2022-04-08T16:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Shouldn't we be turning an eye to power consumption?]]></summary>
+        <author>
+            <name>Damogran6</name>
+            <uri>https://news.ycombinator.com/user?id=Damogran6</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懷疑遠程工作政策？]]></title>
         <id>https://news.ycombinator.com/item?id=30957460</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>xiwenc</name>
             <uri>https://news.ycombinator.com/user?id=xiwenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESR發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30800573</id>
-        <link href="https://news.ycombinator.com/item?id=30800573"/>
-        <updated>2022-03-25T10:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to ESR?]]></summary>
-        <author>
-            <name>thowway3445sd</name>
-            <uri>https://news.ycombinator.com/user?id=thowway3445sd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用什麼AWS技術來部署 "hello world "容器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30800378</id>
-        <link href="https://news.ycombinator.com/item?id=30800378"/>
-        <updated>2022-03-25T10:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What AWS technology do you use to deploy “hello world” containers?]]></summary>
-        <author>
-            <name>rpau_cb</name>
-            <uri>https://news.ycombinator.com/user?id=rpau_cb</uri>
         </author>
     </entry>
 </feed>
