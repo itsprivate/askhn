@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T04:41:16.022Z</updated>
+    <updated>2022-04-08T05:12:36.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么公司都在推崇在办公室工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30944014</id>
+        <link href="https://news.ycombinator.com/item?id=30944014"/>
+        <updated>2022-04-07T13:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are companies pushing working from the office?]]></summary>
+        <author>
+            <name>arunharidas</name>
+            <uri>https://news.ycombinator.com/user?id=arunharidas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术带头人从开源的GitHub repo复制代码]]></title>
         <id>https://news.ycombinator.com/item?id=30953313</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eulid55</name>
             <uri>https://news.ycombinator.com/user?id=eulid55</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果有的话，Linus Torvalds对加密货币的看法是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30793212</id>
-        <link href="https://news.ycombinator.com/item?id=30793212"/>
-        <updated>2022-03-24T17:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is Linus Torvalds's view on crypto, if any?]]></summary>
-        <author>
-            <name>xaxaxb</name>
-            <uri>https://news.ycombinator.com/user?id=xaxaxb</uri>
         </author>
     </entry>
 </feed>
