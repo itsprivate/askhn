@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T09:43:30.028Z</updated>
+    <updated>2022-04-08T09:51:41.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理客戶對 "低於 "你的任務的要求？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955109</id>
+        <link href="https://news.ycombinator.com/item?id=30955109"/>
+        <updated>2022-04-08T09:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with clients' requests for tasks that are “below” you?]]></summary>
+        <author>
+            <name>elevaet</name>
+            <uri>https://news.ycombinator.com/user?id=elevaet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的日常禮儀是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30955057</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pipeline_peak</name>
             <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人用我的電子郵件來註冊新聞簡報。我應該怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30795829</id>
-        <link href="https://news.ycombinator.com/item?id=30795829"/>
-        <updated>2022-03-24T21:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Someone's using my email to sign up to newsletters. What should I do?]]></summary>
-        <author>
-            <name>cupofjoakim</name>
-            <uri>https://news.ycombinator.com/user?id=cupofjoakim</uri>
         </author>
     </entry>
 </feed>
