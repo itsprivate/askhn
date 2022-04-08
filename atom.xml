@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T17:54:02.138Z</updated>
+    <updated>2022-04-08T18:15:47.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我应该（努力）把什么技能传给今年的实习生？]]></title>
+        <id>https://news.ycombinator.com/item?id=30960530</id>
+        <link href="https://news.ycombinator.com/item?id=30960530"/>
+        <updated>2022-04-08T18:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What skills should I (try to) pass on to this year's intern?]]></summary>
+        <author>
+            <name>travisgriggs</name>
+            <uri>https://news.ycombinator.com/user?id=travisgriggs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp和聊天记录导出选项]]></title>
+        <id>https://news.ycombinator.com/item?id=30960298</id>
+        <link href="https://news.ycombinator.com/item?id=30960298"/>
+        <updated>2022-04-08T17:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: WhatsApp and Chat Export Options]]></summary>
+        <author>
+            <name>plibither8</name>
+            <uri>https://news.ycombinator.com/user?id=plibither8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于在Sedo购买域名的建议]]></title>
         <id>https://news.ycombinator.com/item?id=30960267</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>oneturkmen</name>
             <uri>https://news.ycombinator.com/user?id=oneturkmen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你见证过哪些（几乎）公司沉没的工程错误？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802631</id>
-        <link href="https://news.ycombinator.com/item?id=30802631"/>
-        <updated>2022-03-25T14:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What (almost) company sinking engineering mistakes have you witnessed?]]></summary>
-        <author>
-            <name>samvher</name>
-            <uri>https://news.ycombinator.com/user?id=samvher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家意见是否应该成为机器学习世界中更大的一部分？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802422</id>
-        <link href="https://news.ycombinator.com/item?id=30802422"/>
-        <updated>2022-03-25T14:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should expert opinion be a bigger part of the Machine Learning world?]]></summary>
-        <author>
-            <name>SleekEagle</name>
-            <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
         </author>
     </entry>
 </feed>
