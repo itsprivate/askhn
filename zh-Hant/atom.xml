@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T17:09:10.759Z</updated>
+    <updated>2022-04-08T17:40:01.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在我的網站上接受ETH付款]]></title>
+        <id>https://news.ycombinator.com/item?id=30959955</id>
+        <link href="https://news.ycombinator.com/item?id=30959955"/>
+        <updated>2022-04-08T17:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Accepting ETH payments on my website]]></summary>
+        <author>
+            <name>thedangler</name>
+            <uri>https://news.ycombinator.com/user?id=thedangler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當作為初級汗水的掙扎時，該怎麼做？]]></title>
+        <id>https://news.ycombinator.com/item?id=30959782</id>
+        <link href="https://news.ycombinator.com/item?id=30959782"/>
+        <updated>2022-04-08T17:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do when struggling as junior swe?]]></summary>
+        <author>
+            <name>3a2d29</name>
+            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何避免自行車脫落？]]></title>
+        <id>https://news.ycombinator.com/item?id=30959723</id>
+        <link href="https://news.ycombinator.com/item?id=30959723"/>
+        <updated>2022-04-08T17:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you avoid bikeshedding?]]></summary>
+        <author>
+            <name>chrisshroba</name>
+            <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為MVP推薦工程公司/開發公司？]]></title>
         <id>https://news.ycombinator.com/item?id=30959674</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用什麼工具來進行嵌入式系統的逆向工程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802333</id>
-        <link href="https://news.ycombinator.com/item?id=30802333"/>
-        <updated>2022-03-25T14:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools do you use for Reverse Engineering embedded systems?]]></summary>
-        <author>
-            <name>sbmthakur</name>
-            <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨立開發者避免多線程以保持編程的簡單和有趣嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802247</id>
-        <link href="https://news.ycombinator.com/item?id=30802247"/>
-        <updated>2022-03-25T13:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do indie devs avoid multithreading to keep programming easy and fun?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建命令行應用程序的簡單框架/方法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30801514</id>
-        <link href="https://news.ycombinator.com/item?id=30801514"/>
-        <updated>2022-03-25T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Simple framework/way to create command-line apps?]]></summary>
-        <author>
-            <name>daniel_iversen</name>
-            <uri>https://news.ycombinator.com/user?id=daniel_iversen</uri>
         </author>
     </entry>
 </feed>
