@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-08T09:32:59.507Z</updated>
+    <updated>2022-04-08T09:43:29.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的日常礼仪是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955057</id>
+        <link href="https://news.ycombinator.com/item?id=30955057"/>
+        <updated>2022-04-08T09:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your daily rituals?]]></summary>
+        <author>
+            <name>petecooper</name>
+            <uri>https://news.ycombinator.com/user?id=petecooper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你为什么要在创业公司工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30954905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cupofjoakim</name>
             <uri>https://news.ycombinator.com/user?id=cupofjoakim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在2022年拥有一部安全的智能手机]]></title>
-        <id>https://news.ycombinator.com/item?id=30795735</id>
-        <link href="https://news.ycombinator.com/item?id=30795735"/>
-        <updated>2022-03-24T21:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to have a secure smart phone in 2022]]></summary>
-        <author>
-            <name>throwaway54313</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway54313</uri>
         </author>
     </entry>
 </feed>
