@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T21:52:24.768Z</updated>
+    <updated>2022-04-09T22:13:18.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱私和無Cookies繼續]]></title>
+        <id>https://news.ycombinator.com/item?id=30972571</id>
+        <link href="https://news.ycombinator.com/item?id=30972571"/>
+        <updated>2022-04-09T22:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Privacy and Continue Without Cookies]]></summary>
+        <author>
+            <name>jzer0cool</name>
+            <uri>https://news.ycombinator.com/user?id=jzer0cool</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[既然大多數玩家都關閉了聲音，為什麼還要在手機遊戲中添加聲音？]]></title>
         <id>https://news.ycombinator.com/item?id=30972331</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>huckdx0</name>
             <uri>https://news.ycombinator.com/user?id=huckdx0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn自動發送邀請函]]></title>
-        <id>https://news.ycombinator.com/item?id=30816464</id>
-        <link href="https://news.ycombinator.com/item?id=30816464"/>
-        <updated>2022-03-27T00:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: LinkedIn Sent Invitations Automatically]]></summary>
-        <author>
-            <name>jrwan</name>
-            <uri>https://news.ycombinator.com/user?id=jrwan</uri>
         </author>
     </entry>
 </feed>
