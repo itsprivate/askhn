@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T15:48:13.757Z</updated>
+    <updated>2022-04-09T16:47:03.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从G套件迁移，保留电子邮件地址？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969547</id>
+        <link href="https://news.ycombinator.com/item?id=30969547"/>
+        <updated>2022-04-09T16:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Migrate from G Suite, keep email addresses?]]></summary>
+        <author>
+            <name>armagon</name>
+            <uri>https://news.ycombinator.com/user?id=armagon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于即将到来的法国总统选举，是否有一个开放的API？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969537</id>
+        <link href="https://news.ycombinator.com/item?id=30969537"/>
+        <updated>2022-04-09T16:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there an open API for upcoming French Presidential elections?]]></summary>
+        <author>
+            <name>vletal</name>
+            <uri>https://news.ycombinator.com/user?id=vletal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在一天的工作之后，你会做什么来充电？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969437</id>
+        <link href="https://news.ycombinator.com/item?id=30969437"/>
+        <updated>2022-04-09T16:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do to recharge after a day of work?]]></summary>
+        <author>
+            <name>ali92hm</name>
+            <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有谁的Spotify在回到应用程序时出现了问题吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969319</id>
+        <link href="https://news.ycombinator.com/item?id=30969319"/>
+        <updated>2022-04-09T16:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyones Spotify bugging out when going back to the app?]]></summary>
+        <author>
+            <name>amznbyebyebye</name>
+            <uri>https://news.ycombinator.com/user?id=amznbyebyebye</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像Wordle这样的小游戏能让开发商赚多少钱？]]></title>
         <id>https://news.ycombinator.com/item?id=30968961</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>vanilla-almond</name>
             <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你觉得有用的状态页面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30811862</id>
-        <link href="https://news.ycombinator.com/item?id=30811862"/>
-        <updated>2022-03-26T14:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Status pages that you find useful?]]></summary>
-        <author>
-            <name>rozenmd</name>
-            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有关于客户管理的书籍推荐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30811013</id>
-        <link href="https://news.ycombinator.com/item?id=30811013"/>
-        <updated>2022-03-26T11:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any recomendations for books on client management?]]></summary>
-        <author>
-            <name>totetsu</name>
-            <uri>https://news.ycombinator.com/user?id=totetsu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有任何真正的替代品来替代Electron？]]></title>
-        <id>https://news.ycombinator.com/item?id=30810724</id>
-        <link href="https://news.ycombinator.com/item?id=30810724"/>
-        <updated>2022-03-26T10:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't there any real alternatives to Electron?]]></summary>
-        <author>
-            <name>tentacleuno</name>
-            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该伪造博文的发表日期/时间吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30810427</id>
-        <link href="https://news.ycombinator.com/item?id=30810427"/>
-        <updated>2022-03-26T09:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I fake a blog posts published date/time?]]></summary>
-        <author>
-            <name>throwawayHN378</name>
-            <uri>https://news.ycombinator.com/user?id=throwawayHN378</uri>
         </author>
     </entry>
 </feed>
