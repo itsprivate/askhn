@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T05:51:30.024Z</updated>
+    <updated>2022-04-09T07:12:08.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[去中心化的約會協議？]]></title>
+        <id>https://news.ycombinator.com/item?id=30965786</id>
+        <link href="https://news.ycombinator.com/item?id=30965786"/>
+        <updated>2022-04-09T06:56:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Decentralized Dating Protocol?]]></summary>
+        <author>
+            <name>pc2g4d</name>
+            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼要寫博客？]]></title>
         <id>https://news.ycombinator.com/item?id=30965485</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>siskiyou</name>
             <uri>https://news.ycombinator.com/user?id=siskiyou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有易於使用的高可用開源數據庫？]]></title>
-        <id>https://news.ycombinator.com/item?id=30806624</id>
-        <link href="https://news.ycombinator.com/item?id=30806624"/>
-        <updated>2022-03-25T20:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there no easy-to-use highly-available open source databases?]]></summary>
-        <author>
-            <name>database_guy</name>
-            <uri>https://news.ycombinator.com/user?id=database_guy</uri>
         </author>
     </entry>
 </feed>

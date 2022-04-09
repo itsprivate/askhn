@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Apr 2022 05:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[去中心化的约会协议？]]></title>
+            <link>https://news.ycombinator.com/item?id=30965786</link>
+            <guid>https://news.ycombinator.com/item?id=30965786</guid>
+            <pubDate>Sat, 09 Apr 2022 06:56:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Decentralized Dating Protocol?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么要写博客？]]></title>
             <link>https://news.ycombinator.com/item?id=30965485</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30806904</guid>
             <pubDate>Fri, 25 Mar 2022 20:48:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Have you interviewed at Truth Social?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有易于使用的高可用开源数据库？]]></title>
-            <link>https://news.ycombinator.com/item?id=30806624</link>
-            <guid>https://news.ycombinator.com/item?id=30806624</guid>
-            <pubDate>Fri, 25 Mar 2022 20:16:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why are there no easy-to-use highly-available open source databases?]]></description>
         </item>
     </channel>
 </rss>
