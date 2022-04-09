@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T11:11:12.042Z</updated>
+    <updated>2022-04-09T12:16:51.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux用户展示他们的自定义用户界面]]></title>
+        <id>https://news.ycombinator.com/item?id=30967296</id>
+        <link href="https://news.ycombinator.com/item?id=30967296"/>
+        <updated>2022-04-09T12:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Linux users showcasing their custom UI]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国反对谷歌街景的背后有什么故事？]]></title>
         <id>https://news.ycombinator.com/item?id=30966890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>argella</name>
             <uri>https://news.ycombinator.com/user?id=argella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌使用YouTube作为2FA，即使我已经签出。]]></title>
-        <id>https://news.ycombinator.com/item?id=30808628</id>
-        <link href="https://news.ycombinator.com/item?id=30808628"/>
-        <updated>2022-03-26T01:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google using YouTube as 2FA even though I’m signed out]]></summary>
-        <author>
-            <name>u2077</name>
-            <uri>https://news.ycombinator.com/user?id=u2077</uri>
         </author>
     </entry>
 </feed>

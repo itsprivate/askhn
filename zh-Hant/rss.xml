@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Apr 2022 11:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Linux用戶展示他們的自定義用戶界面]]></title>
+            <link>https://news.ycombinator.com/item?id=30967296</link>
+            <guid>https://news.ycombinator.com/item?id=30967296</guid>
+            <pubDate>Sat, 09 Apr 2022 12:03:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Linux users showcasing their custom UI]]></description>
+        </item>
         <item>
             <title><![CDATA[德國反對谷歌街景的背後有什麼故事？]]></title>
             <link>https://news.ycombinator.com/item?id=30966890</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30808821</guid>
             <pubDate>Sat, 26 Mar 2022 02:43:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Migrating from Confluence to Sharepoint, Help]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌使用YouTube作為2FA，即使我已經簽出。]]></title>
-            <link>https://news.ycombinator.com/item?id=30808628</link>
-            <guid>https://news.ycombinator.com/item?id=30808628</guid>
-            <pubDate>Sat, 26 Mar 2022 01:52:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: Google using YouTube as 2FA even though I’m signed out]]></description>
         </item>
     </channel>
 </rss>
