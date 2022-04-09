@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T12:52:32.356Z</updated>
+    <updated>2022-04-09T13:19:57.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我觉得自己被困住了，如何才能摆脱困境？]]></title>
+        <id>https://news.ycombinator.com/item?id=30967772</id>
+        <link href="https://news.ycombinator.com/item?id=30967772"/>
+        <updated>2022-04-09T13:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm feeling stuck, how do I get out of it?]]></summary>
+        <author>
+            <name>almostright</name>
+            <uri>https://news.ycombinator.com/user?id=almostright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在国外获得CS的硕士学位]]></title>
         <id>https://news.ycombinator.com/item?id=30967539</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>trevorboaconstr</name>
             <uri>https://news.ycombinator.com/user?id=trevorboaconstr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不做饭、不打扫卫生，怎么吃得起？]]></title>
-        <id>https://news.ycombinator.com/item?id=30809129</id>
-        <link href="https://news.ycombinator.com/item?id=30809129"/>
-        <updated>2022-03-26T04:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does one affordably eat without cooking or cleaning?]]></summary>
-        <author>
-            <name>explorefriendly</name>
-            <uri>https://news.ycombinator.com/user?id=explorefriendly</uri>
         </author>
     </entry>
 </feed>
