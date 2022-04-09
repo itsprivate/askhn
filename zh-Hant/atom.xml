@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T02:17:39.900Z</updated>
+    <updated>2022-04-09T03:03:53.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對人類來說，有哪些值得關注的高層目標？]]></title>
+        <id>https://news.ycombinator.com/item?id=30964772</id>
+        <link href="https://news.ycombinator.com/item?id=30964772"/>
+        <updated>2022-04-09T02:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some worthy high-level goals for humankind?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何處理編碼面試中的表現焦慮的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30964748</id>
+        <link href="https://news.ycombinator.com/item?id=30964748"/>
+        <updated>2022-04-09T02:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with performance anxiety in coding interviews?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[到目前為止，M1上的固態硬盤的性能]]></title>
         <id>https://news.ycombinator.com/item?id=30964460</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kashav</name>
             <uri>https://news.ycombinator.com/user?id=kashav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件工程師的職業指導？]]></title>
-        <id>https://news.ycombinator.com/item?id=30804203</id>
-        <link href="https://news.ycombinator.com/item?id=30804203"/>
-        <updated>2022-03-25T16:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Career Coaching for Software Engineers?]]></summary>
-        <author>
-            <name>paxys</name>
-            <uri>https://news.ycombinator.com/user?id=paxys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android的IVR應用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30803820</id>
-        <link href="https://news.ycombinator.com/item?id=30803820"/>
-        <updated>2022-03-25T16:02:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: IVR App for Android?]]></summary>
-        <author>
-            <name>mgarciaisaia</name>
-            <uri>https://news.ycombinator.com/user?id=mgarciaisaia</uri>
         </author>
     </entry>
 </feed>
