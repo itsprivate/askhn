@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T03:03:53.956Z</updated>
+    <updated>2022-04-09T03:27:47.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在漫長的項目中，你如何建立、保持和重獲動力？]]></title>
+        <id>https://news.ycombinator.com/item?id=30964931</id>
+        <link href="https://news.ycombinator.com/item?id=30964931"/>
+        <updated>2022-04-09T03:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you build, maintain, and regain momentum during lengthy projects?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對人類來說，有哪些值得關注的高層目標？]]></title>
         <id>https://news.ycombinator.com/item?id=30964772</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>clankyclanker</name>
             <uri>https://news.ycombinator.com/user?id=clankyclanker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[命令行標誌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30804792</id>
-        <link href="https://news.ycombinator.com/item?id=30804792"/>
-        <updated>2022-03-25T17:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Command line flags?]]></summary>
-        <author>
-            <name>kashav</name>
-            <uri>https://news.ycombinator.com/user?id=kashav</uri>
         </author>
     </entry>
 </feed>
