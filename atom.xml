@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T10:35:28.492Z</updated>
+    <updated>2022-04-09T11:11:12.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国反对谷歌街景的背后有什么故事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30966890</id>
+        <link href="https://news.ycombinator.com/item?id=30966890"/>
+        <updated>2022-04-09T10:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the story behind Germany being against Google Street View?]]></summary>
+        <author>
+            <name>unpopularopp</name>
+            <uri>https://news.ycombinator.com/user?id=unpopularopp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更好的高保真电话？用于风险环境的Armadillo或Nitrokey？]]></title>
         <id>https://news.ycombinator.com/item?id=30966785</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>u2077</name>
             <uri>https://news.ycombinator.com/user?id=u2077</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么IT职业能带来金钱，而不是让公司花钱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30808314</id>
-        <link href="https://news.ycombinator.com/item?id=30808314"/>
-        <updated>2022-03-26T00:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What IT careers brings in money rather than cost a company money?]]></summary>
-        <author>
-            <name>WheelsAtLarge</name>
-            <uri>https://news.ycombinator.com/user?id=WheelsAtLarge</uri>
         </author>
     </entry>
 </feed>
