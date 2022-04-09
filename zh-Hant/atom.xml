@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T13:19:57.608Z</updated>
+    <updated>2022-04-09T14:52:25.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[替代AWS Textract的產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30968155</id>
+        <link href="https://news.ycombinator.com/item?id=30968155"/>
+        <updated>2022-04-09T14:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to AWS Textract]]></summary>
+        <author>
+            <name>raddad4321</name>
+            <uri>https://news.ycombinator.com/user?id=raddad4321</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我覺得自己被困住了，如何才能擺脫困境？]]></title>
         <id>https://news.ycombinator.com/item?id=30967772</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shahinghasemi</name>
             <uri>https://news.ycombinator.com/user?id=shahinghasemi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更好的方法來組織我的研究]]></title>
-        <id>https://news.ycombinator.com/item?id=30809902</id>
-        <link href="https://news.ycombinator.com/item?id=30809902"/>
-        <updated>2022-03-26T07:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A better way to organize my research]]></summary>
-        <author>
-            <name>trevorboaconstr</name>
-            <uri>https://news.ycombinator.com/user?id=trevorboaconstr</uri>
         </author>
     </entry>
 </feed>
