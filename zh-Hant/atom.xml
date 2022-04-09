@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T07:12:08.400Z</updated>
+    <updated>2022-04-09T08:16:13.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對未來幾個18個月有什麼預測？]]></title>
+        <id>https://news.ycombinator.com/item?id=30966100</id>
+        <link href="https://news.ycombinator.com/item?id=30966100"/>
+        <updated>2022-04-09T08:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your predictions for the next few 18 months?]]></summary>
+        <author>
+            <name>de-asis-kevin</name>
+            <uri>https://news.ycombinator.com/user?id=de-asis-kevin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去中心化的約會協議？]]></title>
         <id>https://news.ycombinator.com/item?id=30965786</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nodesocket</name>
             <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否在Truth Social面試過？]]></title>
-        <id>https://news.ycombinator.com/item?id=30806904</id>
-        <link href="https://news.ycombinator.com/item?id=30806904"/>
-        <updated>2022-03-25T20:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you interviewed at Truth Social?]]></summary>
-        <author>
-            <name>siskiyou</name>
-            <uri>https://news.ycombinator.com/user?id=siskiyou</uri>
         </author>
     </entry>
 </feed>

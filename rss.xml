@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Apr 2022 07:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 08:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你对未来几个18个月有什么预测？]]></title>
+            <link>https://news.ycombinator.com/item?id=30966100</link>
+            <guid>https://news.ycombinator.com/item?id=30966100</guid>
+            <pubDate>Sat, 09 Apr 2022 08:05:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's your predictions for the next few 18 months?]]></description>
+        </item>
         <item>
             <title><![CDATA[去中心化的约会协议？]]></title>
             <link>https://news.ycombinator.com/item?id=30965786</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30807032</guid>
             <pubDate>Fri, 25 Mar 2022 21:03:29 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some fun projects to run on a home K8s cluster?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[您是否在Truth Social面试过？]]></title>
-            <link>https://news.ycombinator.com/item?id=30806904</link>
-            <guid>https://news.ycombinator.com/item?id=30806904</guid>
-            <pubDate>Fri, 25 Mar 2022 20:48:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you interviewed at Truth Social?]]></description>
         </item>
     </channel>
 </rss>
