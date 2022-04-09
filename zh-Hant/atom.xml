@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T16:47:03.838Z</updated>
+    <updated>2022-04-09T17:03:51.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼美國人在談到家人時要用他們的名字，好像我們認識他們一樣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969575</id>
+        <link href="https://news.ycombinator.com/item?id=30969575"/>
+        <updated>2022-04-09T16:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Americans speak about family by their names, like we know them?]]></summary>
+        <author>
+            <name>enw</name>
+            <uri>https://news.ycombinator.com/user?id=enw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從G套件遷移，保留電子郵件地址？]]></title>
         <id>https://news.ycombinator.com/item?id=30969547</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nyellin</name>
             <uri>https://news.ycombinator.com/user?id=nyellin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube - 你對 "短褲 "功能有什麼看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30812054</id>
-        <link href="https://news.ycombinator.com/item?id=30812054"/>
-        <updated>2022-03-26T14:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: YouTube – what do you think of the “shorts” feature?]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
         </author>
     </entry>
 </feed>
