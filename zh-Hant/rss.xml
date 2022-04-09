@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否在Golang上使用全棧式網絡框架，如vaadin/RoR？]]></title>
+            <link>https://news.ycombinator.com/item?id=30965299</link>
+            <guid>https://news.ycombinator.com/item?id=30965299</guid>
+            <pubDate>Sat, 09 Apr 2022 04:37:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you use full stack web framework like vaadin/RoR on Golang?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何處理心碎/單戀的問題]]></title>
             <link>https://news.ycombinator.com/item?id=30965124</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30805654</guid>
             <pubDate>Fri, 25 Mar 2022 18:39:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Quirky Hardware Setups?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有軟件工程成功故事的書籍？]]></title>
-            <link>https://news.ycombinator.com/item?id=30805601</link>
-            <guid>https://news.ycombinator.com/item?id=30805601</guid>
-            <pubDate>Fri, 25 Mar 2022 18:33:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Books with stories of successes in software engineering?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T03:48:15.362Z</updated>
+    <updated>2022-04-09T04:41:16.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否在Golang上使用全棧式網絡框架，如vaadin/RoR？]]></title>
+        <id>https://news.ycombinator.com/item?id=30965299</id>
+        <link href="https://news.ycombinator.com/item?id=30965299"/>
+        <updated>2022-04-09T04:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use full stack web framework like vaadin/RoR on Golang?]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何處理心碎/單戀的問題]]></title>
         <id>https://news.ycombinator.com/item?id=30965124</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thmorriss</name>
             <uri>https://news.ycombinator.com/user?id=thmorriss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有軟件工程成功故事的書籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30805601</id>
-        <link href="https://news.ycombinator.com/item?id=30805601"/>
-        <updated>2022-03-25T18:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books with stories of successes in software engineering?]]></summary>
-        <author>
-            <name>impostor313131</name>
-            <uri>https://news.ycombinator.com/user?id=impostor313131</uri>
         </author>
     </entry>
 </feed>
