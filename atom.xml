@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T17:20:59.472Z</updated>
+    <updated>2022-04-09T19:11:41.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是我的问题，还是世界上的一切都停止了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30970964</id>
+        <link href="https://news.ycombinator.com/item?id=30970964"/>
+        <updated>2022-04-09T19:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it just me or has everything stopped happening in the world?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有搜索引擎也能在网上发现东西的方法，第二部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30970955</id>
+        <link href="https://news.ycombinator.com/item?id=30970955"/>
+        <updated>2022-04-09T19:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ways to discover stuff online without a search engine, Part 2]]></summary>
+        <author>
+            <name>sargstuff</name>
+            <uri>https://news.ycombinator.com/user?id=sargstuff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTPS如何比SFTP更复杂/不复杂？]]></title>
         <id>https://news.ycombinator.com/item?id=30969797</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hbarka</name>
             <uri>https://news.ycombinator.com/user?id=hbarka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们对利润征税而不对亏损征税？]]></title>
-        <id>https://news.ycombinator.com/item?id=30813209</id>
-        <link href="https://news.ycombinator.com/item?id=30813209"/>
-        <updated>2022-03-26T16:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do we tax profits and not losses?]]></summary>
-        <author>
-            <name>daenz</name>
-            <uri>https://news.ycombinator.com/user?id=daenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你曾因某种原因而拒绝的最佳机会是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30812127</id>
-        <link href="https://news.ycombinator.com/item?id=30812127"/>
-        <updated>2022-03-26T14:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best opportunity you had to decline, for 1 reason or another?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
         </author>
     </entry>
 </feed>
