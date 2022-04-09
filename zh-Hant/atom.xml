@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-09T08:16:13.085Z</updated>
+    <updated>2022-04-09T08:36:44.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼音樂版權侵犯比視頻或圖像更令人擔憂？]]></title>
+        <id>https://news.ycombinator.com/item?id=30966187</id>
+        <link href="https://news.ycombinator.com/item?id=30966187"/>
+        <updated>2022-04-09T08:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why music copyright violation is more concerning than video or image?]]></summary>
+        <author>
+            <name>niksmac</name>
+            <uri>https://news.ycombinator.com/user?id=niksmac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對未來幾個18個月有什麼預測？]]></title>
         <id>https://news.ycombinator.com/item?id=30966100</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kaycebasques</name>
             <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在家用K8s集群上有哪些有趣的項目可以運行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30807032</id>
-        <link href="https://news.ycombinator.com/item?id=30807032"/>
-        <updated>2022-03-25T21:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some fun projects to run on a home K8s cluster?]]></summary>
-        <author>
-            <name>nodesocket</name>
-            <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
         </author>
     </entry>
 </feed>
