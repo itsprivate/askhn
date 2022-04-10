@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T21:39:06.678Z</updated>
+    <updated>2022-04-10T22:13:49.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nvidia正在製作一個開源的Linux驅動程序嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30982158</id>
+        <link href="https://news.ycombinator.com/item?id=30982158"/>
+        <updated>2022-04-10T22:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Nvidia making an open-source Linux driver?]]></summary>
+        <author>
+            <name>kaladin-jasnah</name>
+            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能擁有一份有人工智能老闆而沒有人際互動的工作嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30981896</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bjourne</name>
             <uri>https://news.ycombinator.com/user?id=bjourne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用NFC智能戒指作為2FA設備嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30828740</id>
-        <link href="https://news.ycombinator.com/item?id=30828740"/>
-        <updated>2022-03-28T09:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone using NFC smart rings as 2FA devices?]]></summary>
-        <author>
-            <name>ndsipa_pomu</name>
-            <uri>https://news.ycombinator.com/user?id=ndsipa_pomu</uri>
         </author>
     </entry>
 </feed>
