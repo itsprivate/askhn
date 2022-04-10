@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T18:38:47.508Z</updated>
+    <updated>2022-04-10T19:11:06.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SolidCon發生了什麼事？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980554</id>
+        <link href="https://news.ycombinator.com/item?id=30980554"/>
+        <updated>2022-04-10T19:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to SolidCon?]]></summary>
+        <author>
+            <name>unixhero</name>
+            <uri>https://news.ycombinator.com/user?id=unixhero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼iOS從來沒有限制應用程序的網絡訪問的控件？]]></title>
         <id>https://news.ycombinator.com/item?id=30980095</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>startupmentors</name>
             <uri>https://news.ycombinator.com/user?id=startupmentors</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能支持烏克蘭的重建？]]></title>
-        <id>https://news.ycombinator.com/item?id=30826612</id>
-        <link href="https://news.ycombinator.com/item?id=30826612"/>
-        <updated>2022-03-28T02:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I support Ukraine’s reconstruction?]]></summary>
-        <author>
-            <name>caseyslaught</name>
-            <uri>https://news.ycombinator.com/user?id=caseyslaught</uri>
         </author>
     </entry>
 </feed>
