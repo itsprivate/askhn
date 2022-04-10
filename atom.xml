@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T04:40:46.960Z</updated>
+    <updated>2022-04-10T05:12:48.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么密码管理器有TOTP？]]></title>
+        <id>https://news.ycombinator.com/item?id=30974585</id>
+        <link href="https://news.ycombinator.com/item?id=30974585"/>
+        <updated>2022-04-10T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do password managers have TOTP?]]></summary>
+        <author>
+            <name>daenz</name>
+            <uri>https://news.ycombinator.com/user?id=daenz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个挣扎的初级汗青，如何提高？]]></title>
+        <id>https://news.ycombinator.com/item?id=30974544</id>
+        <link href="https://news.ycombinator.com/item?id=30974544"/>
+        <updated>2022-04-10T04:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to improve as a struggling junior swe?]]></summary>
+        <author>
+            <name>3a2d29</name>
+            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人有优秀的简历或LinkedIn资料的例子？]]></title>
         <id>https://news.ycombinator.com/item?id=30974484</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mohanmca</name>
             <uri>https://news.ycombinator.com/user?id=mohanmca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不小心标记了一个帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30819550</id>
-        <link href="https://news.ycombinator.com/item?id=30819550"/>
-        <updated>2022-03-27T11:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I Accidentally Flagged a Post]]></summary>
-        <author>
-            <name>unobatbayar</name>
-            <uri>https://news.ycombinator.com/user?id=unobatbayar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的人怎么会对社会科学和人文科学如此精通？]]></title>
-        <id>https://news.ycombinator.com/item?id=30819318</id>
-        <link href="https://news.ycombinator.com/item?id=30819318"/>
-        <updated>2022-03-27T10:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How come HN folks are so well-versed in social sciences and humanities?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
