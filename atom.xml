@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T16:47:11.200Z</updated>
+    <updated>2022-04-10T17:05:15.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在工作中感到被认可吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30979022</id>
+        <link href="https://news.ycombinator.com/item?id=30979022"/>
+        <updated>2022-04-10T16:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you feel recognized at work?]]></summary>
+        <author>
+            <name>axg11</name>
+            <uri>https://news.ycombinator.com/user?id=axg11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何检查一个中央银行是否在印钱]]></title>
+        <id>https://news.ycombinator.com/item?id=30978891</id>
+        <link href="https://news.ycombinator.com/item?id=30978891"/>
+        <updated>2022-04-10T16:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to check if a central bank is printing money]]></summary>
+        <author>
+            <name>tungle</name>
+            <uri>https://news.ycombinator.com/user?id=tungle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有多动症的人，你是如何集中精力看书的？]]></title>
         <id>https://news.ycombinator.com/item?id=30978569</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Existenceblinks</name>
             <uri>https://news.ycombinator.com/user?id=Existenceblinks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用React和REST API时如何处理陈旧的数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30826010</id>
-        <link href="https://news.ycombinator.com/item?id=30826010"/>
-        <updated>2022-03-28T01:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you handle stale data when using React and REST APIs]]></summary>
-        <author>
-            <name>tyleralte</name>
-            <uri>https://news.ycombinator.com/user?id=tyleralte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找没有虚拟化网卡的裸机托管公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30825764</id>
-        <link href="https://news.ycombinator.com/item?id=30825764"/>
-        <updated>2022-03-28T00:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for bare metal hosting company without virtualized NICs]]></summary>
-        <author>
-            <name>scrubs</name>
-            <uri>https://news.ycombinator.com/user?id=scrubs</uri>
         </author>
     </entry>
 </feed>
