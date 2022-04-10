@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T10:45:48.053Z</updated>
+    <updated>2022-04-10T12:52:06.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是不是太有野心了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30976497</id>
+        <link href="https://news.ycombinator.com/item?id=30976497"/>
+        <updated>2022-04-10T12:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I being too ambitious?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否使用基於CLI的電子郵件客戶端？]]></title>
+        <id>https://news.ycombinator.com/item?id=30976365</id>
+        <link href="https://news.ycombinator.com/item?id=30976365"/>
+        <updated>2022-04-10T12:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use a CLI based email client?]]></summary>
+        <author>
+            <name>artpar</name>
+            <uri>https://news.ycombinator.com/user?id=artpar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼PyTorch的einsum明顯比transpose慢？]]></title>
         <id>https://news.ycombinator.com/item?id=30975887</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>shamoo</name>
             <uri>https://news.ycombinator.com/user?id=shamoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪本書能吸引任何人走向你的研究領域？]]></title>
-        <id>https://news.ycombinator.com/item?id=30822339</id>
-        <link href="https://news.ycombinator.com/item?id=30822339"/>
-        <updated>2022-03-27T17:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which book can attract anyone towards your field of study?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 Discord 服務器被稱為 "服務器"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30822168</id>
-        <link href="https://news.ycombinator.com/item?id=30822168"/>
-        <updated>2022-03-27T17:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are Discord servers called “servers”?]]></summary>
-        <author>
-            <name>ZYinMD</name>
-            <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
         </author>
     </entry>
 </feed>
