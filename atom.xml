@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T08:36:49.212Z</updated>
+    <updated>2022-04-10T08:53:16.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何激励开发人员编写文档？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975405</id>
+        <link href="https://news.ycombinator.com/item?id=30975405"/>
+        <updated>2022-04-10T08:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you motivate developers to write documentation?]]></summary>
+        <author>
+            <name>aromaticbanana</name>
+            <uri>https://news.ycombinator.com/user?id=aromaticbanana</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们应该让Stormkit成为开源的Vercel替代品吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30975339</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hemmert</name>
             <uri>https://news.ycombinator.com/user?id=hemmert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于WhoIsHiring公司的垃圾邮件/诈骗者，有什么好的方法可以紧急PSA？]]></title>
-        <id>https://news.ycombinator.com/item?id=30821261</id>
-        <link href="https://news.ycombinator.com/item?id=30821261"/>
-        <updated>2022-03-27T15:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's best way for urgent PSA of WhoIsHiring corporate spammer/scammer?]]></summary>
-        <author>
-            <name>NotHiring</name>
-            <uri>https://news.ycombinator.com/user?id=NotHiring</uri>
         </author>
     </entry>
 </feed>
