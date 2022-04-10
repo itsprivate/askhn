@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 15:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Re: 你是如何组织/整合你生活中的所有信息的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30977854</link>
+            <guid>https://news.ycombinator.com/item?id=30977854</guid>
+            <pubDate>Sun, 10 Apr 2022 15:24:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Re: How do you organise/integrate all the information in your life?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你会与切尔诺夫工作室合作吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30977765</link>
+            <guid>https://news.ycombinator.com/item?id=30977765</guid>
+            <pubDate>Sun, 10 Apr 2022 15:16:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would you partner with Chernov Studio?]]></description>
+        </item>
         <item>
             <title><![CDATA[我在哪里可以得到一个IPv6]]></title>
             <link>https://news.ycombinator.com/item?id=30977625</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30824964</guid>
             <pubDate>Sun, 27 Mar 2022 22:52:07 GMT</pubDate>
             <description><![CDATA[Ask HN: One place of work, one side project, one tech stack?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面试官有什么好的方法来剔除那些研磨LeetCode的人？]]></title>
-            <link>https://news.ycombinator.com/item?id=30824820</link>
-            <guid>https://news.ycombinator.com/item?id=30824820</guid>
-            <pubDate>Sun, 27 Mar 2022 22:32:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Good ways for interviewers to weed out people who grind LeetCode?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以安全的方式给学生提供自己的远程虚拟机]]></title>
-            <link>https://news.ycombinator.com/item?id=30824762</link>
-            <guid>https://news.ycombinator.com/item?id=30824762</guid>
-            <pubDate>Sun, 27 Mar 2022 22:24:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Secure way to give students own remote VM]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T15:14:39.033Z</updated>
+    <updated>2022-04-10T15:35:09.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Re: 你是如何组织/整合你生活中的所有信息的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30977854</id>
+        <link href="https://news.ycombinator.com/item?id=30977854"/>
+        <updated>2022-04-10T15:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Re: How do you organise/integrate all the information in your life?]]></summary>
+        <author>
+            <name>ragnor</name>
+            <uri>https://news.ycombinator.com/user?id=ragnor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会与切尔诺夫工作室合作吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30977765</id>
+        <link href="https://news.ycombinator.com/item?id=30977765"/>
+        <updated>2022-04-10T15:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you partner with Chernov Studio?]]></summary>
+        <author>
+            <name>ch1c0t</name>
+            <uri>https://news.ycombinator.com/user?id=ch1c0t</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪里可以得到一个IPv6]]></title>
         <id>https://news.ycombinator.com/item?id=30977625</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>StreamRelated</name>
             <uri>https://news.ycombinator.com/user?id=StreamRelated</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官有什么好的方法来剔除那些研磨LeetCode的人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30824820</id>
-        <link href="https://news.ycombinator.com/item?id=30824820"/>
-        <updated>2022-03-27T22:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good ways for interviewers to weed out people who grind LeetCode?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以安全的方式给学生提供自己的远程虚拟机]]></title>
-        <id>https://news.ycombinator.com/item?id=30824762</id>
-        <link href="https://news.ycombinator.com/item?id=30824762"/>
-        <updated>2022-03-27T22:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Secure way to give students own remote VM]]></summary>
-        <author>
-            <name>Khaine</name>
-            <uri>https://news.ycombinator.com/user?id=Khaine</uri>
         </author>
     </entry>
 </feed>
