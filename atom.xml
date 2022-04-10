@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T20:51:09.507Z</updated>
+    <updated>2022-04-10T21:39:06.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有可能拥有一份有人工智能老板而没有人际互动的工作吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30981896</id>
+        <link href="https://news.ycombinator.com/item?id=30981896"/>
+        <updated>2022-04-10T21:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it possible to have a job with an AI boss and no human interaction?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伟大的单人企业？]]></title>
         <id>https://news.ycombinator.com/item?id=30981480</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ndsipa_pomu</name>
             <uri>https://news.ycombinator.com/user?id=ndsipa_pomu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在国外雇用远程工人，如开发人员或作家？]]></title>
-        <id>https://news.ycombinator.com/item?id=30828447</id>
-        <link href="https://news.ycombinator.com/item?id=30828447"/>
-        <updated>2022-03-28T08:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you hire remote workers abroad, like developers or writers?]]></summary>
-        <author>
-            <name>vfc1</name>
-            <uri>https://news.ycombinator.com/user?id=vfc1</uri>
         </author>
     </entry>
 </feed>
