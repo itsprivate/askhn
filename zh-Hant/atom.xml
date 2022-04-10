@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T10:13:38.932Z</updated>
+    <updated>2022-04-10T10:45:48.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼PyTorch的einsum明顯比transpose慢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975887</id>
+        <link href="https://news.ycombinator.com/item?id=30975887"/>
+        <updated>2022-04-10T10:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why PyTorch einsum is significantly slower than transpose]]></summary>
+        <author>
+            <name>rcshubhadeep</name>
+            <uri>https://news.ycombinator.com/user?id=rcshubhadeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你不懂CSS，你是一個前端工程師嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30975767</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ZYinMD</name>
             <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未加密網絡的有力論據？]]></title>
-        <id>https://news.ycombinator.com/item?id=30822110</id>
-        <link href="https://news.ycombinator.com/item?id=30822110"/>
-        <updated>2022-03-27T17:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Strong Arguments for Unencrypted Networks?]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
         </author>
     </entry>
 </feed>
