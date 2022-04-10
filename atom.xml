@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T08:53:16.560Z</updated>
+    <updated>2022-04-10T09:32:36.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Evernote发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975586</id>
+        <link href="https://news.ycombinator.com/item?id=30975586"/>
+        <updated>2022-04-10T09:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Evernote?]]></summary>
+        <author>
+            <name>cconcepts</name>
+            <uri>https://news.ycombinator.com/user?id=cconcepts</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么国际象棋问题是以攻击为导向的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975583</id>
+        <link href="https://news.ycombinator.com/item?id=30975583"/>
+        <updated>2022-04-10T09:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are chess problems attack oriented?]]></summary>
+        <author>
+            <name>A_No_Name_Mouse</name>
+            <uri>https://news.ycombinator.com/user?id=A_No_Name_Mouse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何激励开发人员编写文档？]]></title>
         <id>https://news.ycombinator.com/item?id=30975405</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cf141q5325</name>
             <uri>https://news.ycombinator.com/user?id=cf141q5325</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有动物打孩子的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30821808</id>
-        <link href="https://news.ycombinator.com/item?id=30821808"/>
-        <updated>2022-03-27T16:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there examples of animals that beat their children?]]></summary>
-        <author>
-            <name>kalu</name>
-            <uri>https://news.ycombinator.com/user?id=kalu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你将如何建立一个用户内容的市场？]]></title>
-        <id>https://news.ycombinator.com/item?id=30821652</id>
-        <link href="https://news.ycombinator.com/item?id=30821652"/>
-        <updated>2022-03-27T16:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you build a marketplace for user content?]]></summary>
-        <author>
-            <name>hemmert</name>
-            <uri>https://news.ycombinator.com/user?id=hemmert</uri>
         </author>
     </entry>
 </feed>
