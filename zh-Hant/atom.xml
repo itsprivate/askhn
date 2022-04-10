@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T17:05:15.563Z</updated>
+    <updated>2022-04-10T18:38:47.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼iOS從來沒有限制應用程序的網絡訪問的控件？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980095</id>
+        <link href="https://news.ycombinator.com/item?id=30980095"/>
+        <updated>2022-04-10T18:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has iOS never had a control for restricting an app's network access?]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在工作中感到被認可嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30979022</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>caseyslaught</name>
             <uri>https://news.ycombinator.com/user?id=caseyslaught</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可視化網站建設者只是在銷售主題定製嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30826063</id>
-        <link href="https://news.ycombinator.com/item?id=30826063"/>
-        <updated>2022-03-28T01:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are visual website builders just selling theme customization?]]></summary>
-        <author>
-            <name>Existenceblinks</name>
-            <uri>https://news.ycombinator.com/user?id=Existenceblinks</uri>
         </author>
     </entry>
 </feed>
