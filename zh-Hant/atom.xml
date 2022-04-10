@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T16:15:28.524Z</updated>
+    <updated>2022-04-10T16:47:11.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有多動症的人，你是如何集中精力看書的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30978569</id>
+        <link href="https://news.ycombinator.com/item?id=30978569"/>
+        <updated>2022-04-10T16:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People with ADHD, how do you focus for reading books?]]></summary>
+        <author>
+            <name>not_a_noogler</name>
+            <uri>https://news.ycombinator.com/user?id=not_a_noogler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Coinbase需要Plaid？有其他加密貨幣交易所嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30978443</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>scrubs</name>
             <uri>https://news.ycombinator.com/user?id=scrubs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市的人口上限，一個思想實驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30825037</id>
-        <link href="https://news.ycombinator.com/item?id=30825037"/>
-        <updated>2022-03-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Capping population for cities, a thought experiment]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
