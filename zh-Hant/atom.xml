@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T06:56:37.646Z</updated>
+    <updated>2022-04-10T08:36:49.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們應該讓Stormkit成為開源的Vercel替代品嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975339</id>
+        <link href="https://news.ycombinator.com/item?id=30975339"/>
+        <updated>2022-04-10T08:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Shall we make Stormkit an open source Vercel alternative?]]></summary>
+        <author>
+            <name>svedova</name>
+            <uri>https://news.ycombinator.com/user?id=svedova</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果應用商店阻止向烏克蘭付款？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975337</id>
+        <link href="https://news.ycombinator.com/item?id=30975337"/>
+        <updated>2022-04-10T08:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Apple Appstore blocks payouts to Ukraine?]]></summary>
+        <author>
+            <name>f137</name>
+            <uri>https://news.ycombinator.com/user?id=f137</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Postcrossing上有常客嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30974974</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>NotHiring</name>
             <uri>https://news.ycombinator.com/user?id=NotHiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基百科能否隱藏所有提到俄羅斯的文章，直到戰爭結束？]]></title>
-        <id>https://news.ycombinator.com/item?id=30821100</id>
-        <link href="https://news.ycombinator.com/item?id=30821100"/>
-        <updated>2022-03-27T15:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could Wikipedia hide all articles mentioning Russia until the war ends?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何出售域名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30820576</id>
-        <link href="https://news.ycombinator.com/item?id=30820576"/>
-        <updated>2022-03-27T14:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Sell Domain Names?]]></summary>
-        <author>
-            <name>SMAAART</name>
-            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
         </author>
     </entry>
 </feed>
