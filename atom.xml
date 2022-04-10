@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T19:11:06.817Z</updated>
+    <updated>2022-04-10T19:37:07.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python编程书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30980813</id>
+        <link href="https://news.ycombinator.com/item?id=30980813"/>
+        <updated>2022-04-10T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Python Programming Books]]></summary>
+        <author>
+            <name>thedevindevops</name>
+            <uri>https://news.ycombinator.com/user?id=thedevindevops</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个有多动症的软件开发人员，如何在职业生涯中取得进展？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980780</id>
+        <link href="https://news.ycombinator.com/item?id=30980780"/>
+        <updated>2022-04-10T19:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to progress in career as a Software Developer with ADHD?]]></summary>
+        <author>
+            <name>not_a_noogler</name>
+            <uri>https://news.ycombinator.com/user?id=not_a_noogler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb的定价发生了什么变化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980767</id>
+        <link href="https://news.ycombinator.com/item?id=30980767"/>
+        <updated>2022-04-10T19:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Airbnb Pricing?]]></summary>
+        <author>
+            <name>anon9384929</name>
+            <uri>https://news.ycombinator.com/user?id=anon9384929</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SolidCon发生了什么事？]]></title>
         <id>https://news.ycombinator.com/item?id=30980554</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>crate_barre</name>
             <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何不再对工作面试如此焦虑？]]></title>
-        <id>https://news.ycombinator.com/item?id=30827696</id>
-        <link href="https://news.ycombinator.com/item?id=30827696"/>
-        <updated>2022-03-28T06:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to stop being so anxious about job interviews?]]></summary>
-        <author>
-            <name>danrocks</name>
-            <uri>https://news.ycombinator.com/user?id=danrocks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找来自Gov.uk的技术讲座]]></title>
-        <id>https://news.ycombinator.com/item?id=30827301</id>
-        <link href="https://news.ycombinator.com/item?id=30827301"/>
-        <updated>2022-03-28T05:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a Tech Talk from Gov.uk]]></summary>
-        <author>
-            <name>Kronopath</name>
-            <uri>https://news.ycombinator.com/user?id=Kronopath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道SaaS创始人500-1000美元的MRR吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30827093</id>
-        <link href="https://news.ycombinator.com/item?id=30827093"/>
-        <updated>2022-03-28T04:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you know SaaS founders $500 – $1000 MRR?]]></summary>
-        <author>
-            <name>startupmentors</name>
-            <uri>https://news.ycombinator.com/user?id=startupmentors</uri>
         </author>
     </entry>
 </feed>
