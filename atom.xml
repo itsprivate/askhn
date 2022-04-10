@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-10T20:14:23.809Z</updated>
+    <updated>2022-04-10T20:51:09.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伟大的单人企业？]]></title>
+        <id>https://news.ycombinator.com/item?id=30981480</id>
+        <link href="https://news.ycombinator.com/item?id=30981480"/>
+        <updated>2022-04-10T20:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Great Single Person Businesses?]]></summary>
+        <author>
+            <name>launchiterate</name>
+            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的任何搜索工程师看到了对不良媒体的回应吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30981032</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vfc1</name>
             <uri>https://news.ycombinator.com/user?id=vfc1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何将文件制作成艺术品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30828380</id>
-        <link href="https://news.ycombinator.com/item?id=30828380"/>
-        <updated>2022-03-28T08:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you produce documents as artifacts?]]></summary>
-        <author>
-            <name>going_ham</name>
-            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
         </author>
     </entry>
 </feed>
