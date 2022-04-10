@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 10 Apr 2022 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 22:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何关闭我的用户喜欢的项目？]]></title>
+            <link>https://news.ycombinator.com/item?id=30982320</link>
+            <guid>https://news.ycombinator.com/item?id=30982320</guid>
+            <pubDate>Sun, 10 Apr 2022 22:22:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I shutdown a project my users love?]]></description>
+        </item>
         <item>
             <title><![CDATA[Nvidia正在制作一个开源的Linux驱动程序吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30982158</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30829003</guid>
             <pubDate>Mon, 28 Mar 2022 10:16:16 GMT</pubDate>
             <description><![CDATA[Ask HN: Software with biggest potential for positive impact in 5 years?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何停止忘记提交或推送？]]></title>
-            <link>https://news.ycombinator.com/item?id=30828937</link>
-            <guid>https://news.ycombinator.com/item?id=30828937</guid>
-            <pubDate>Mon, 28 Mar 2022 10:01:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you stop forgetting to commit or push?]]></description>
         </item>
     </channel>
 </rss>
