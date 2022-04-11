@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T11:13:34.361Z</updated>
+    <updated>2022-04-11T13:00:49.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你還在監控你的SSL證書的有效性嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30987825</id>
+        <link href="https://news.ycombinator.com/item?id=30987825"/>
+        <updated>2022-04-11T12:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you still monitor your SSL certificate validity?]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在本地編輯遠程代碼。最佳實踐？]]></title>
+        <id>https://news.ycombinator.com/item?id=30987770</id>
+        <link href="https://news.ycombinator.com/item?id=30987770"/>
+        <updated>2022-04-11T12:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Editing remote code locally: Best practices?]]></summary>
+        <author>
+            <name>E_Evan</name>
+            <uri>https://news.ycombinator.com/user?id=E_Evan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何最好地設計用戶賬戶、組織和產品的層次結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30987764</id>
+        <link href="https://news.ycombinator.com/item?id=30987764"/>
+        <updated>2022-04-11T12:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to best design a hierarchy of user accounts, orgs and products]]></summary>
+        <author>
+            <name>ko3us</name>
+            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[levels.fyi中的福利部分的可靠性如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30987075</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>eof</name>
             <uri>https://news.ycombinator.com/user?id=eof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試圖找到一本特定的數學書]]></title>
-        <id>https://news.ycombinator.com/item?id=30835659</id>
-        <link href="https://news.ycombinator.com/item?id=30835659"/>
-        <updated>2022-03-28T21:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Trying to find a specific math book]]></summary>
-        <author>
-            <name>lgdw</name>
-            <uri>https://news.ycombinator.com/user?id=lgdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我們的工作場所禁止使用Windows操作系統，這是否合理？]]></title>
-        <id>https://news.ycombinator.com/item?id=30835403</id>
-        <link href="https://news.ycombinator.com/item?id=30835403"/>
-        <updated>2022-03-28T20:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it reasonable to ban Windows OS from our workplace?]]></summary>
-        <author>
-            <name>WinterMount223</name>
-            <uri>https://news.ycombinator.com/user?id=WinterMount223</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在FAANG面試準備過程中關注SW和CS基礎知識的技巧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30835295</id>
-        <link href="https://news.ycombinator.com/item?id=30835295"/>
-        <updated>2022-03-28T20:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tips for focusing on SW and CS fundamentals during FAANG interview prep?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
         </author>
     </entry>
 </feed>
