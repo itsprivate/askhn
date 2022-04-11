@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T13:29:58.484Z</updated>
+    <updated>2022-04-11T13:52:49.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼HTML在網絡之外沒有更多的相關性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30988548</id>
+        <link href="https://news.ycombinator.com/item?id=30988548"/>
+        <updated>2022-04-11T13:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't HTML more relevant outside of the web?]]></summary>
+        <author>
+            <name>WHA8m</name>
+            <uri>https://news.ycombinator.com/user?id=WHA8m</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安裝一個人工智能老闆來激勵他們，獨立開發者會從中受益嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30988409</id>
+        <link href="https://news.ycombinator.com/item?id=30988409"/>
+        <updated>2022-04-11T13:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would indie devs benefit from installing an AI boss to motivate them?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[適用於谷歌文檔的最佳電子閱讀器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30988370</id>
+        <link href="https://news.ycombinator.com/item?id=30988370"/>
+        <updated>2022-04-11T13:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best e-reader for Google Docs?]]></summary>
+        <author>
+            <name>throwaway24124</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway24124</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出售二手書的電子商務應用程序是否有市場？]]></title>
         <id>https://news.ycombinator.com/item?id=30988221</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>staccatomeasure</name>
             <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為了擁有完全的創作自由，你會靠全民基本收入生活嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30836430</id>
-        <link href="https://news.ycombinator.com/item?id=30836430"/>
-        <updated>2022-03-28T22:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you live on universal basic income to have total creative freedom?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌賬戶中添加了Yubikey，Chrome瀏覽器每週都會清除cookies。]]></title>
-        <id>https://news.ycombinator.com/item?id=30835965</id>
-        <link href="https://news.ycombinator.com/item?id=30835965"/>
-        <updated>2022-03-28T21:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Added Yubikey to Google account and Chrome clears cookies weekly]]></summary>
-        <author>
-            <name>yubikeychrome</name>
-            <uri>https://news.ycombinator.com/user?id=yubikeychrome</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找保守的聯合創始人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30835764</id>
-        <link href="https://news.ycombinator.com/item?id=30835764"/>
-        <updated>2022-03-28T21:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for Conservative Cofounder?]]></summary>
-        <author>
-            <name>Mytilena</name>
-            <uri>https://news.ycombinator.com/user?id=Mytilena</uri>
         </author>
     </entry>
 </feed>
