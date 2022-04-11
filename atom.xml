@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T19:29:22.699Z</updated>
+    <updated>2022-04-11T20:15:34.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你不做你的工作，你想以什么为生？]]></title>
+        <id>https://news.ycombinator.com/item?id=30994127</id>
+        <link href="https://news.ycombinator.com/item?id=30994127"/>
+        <updated>2022-04-11T20:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would you like to do for a living if you weren't doing what you do?]]></summary>
+        <author>
+            <name>adg001</name>
+            <uri>https://news.ycombinator.com/user?id=adg001</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交互式网络新闻/写作的最佳归档方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30994038</id>
+        <link href="https://news.ycombinator.com/item?id=30994038"/>
+        <updated>2022-04-11T20:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best approaches to archiving interactive web journalism/writing]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有替代HN的视频游戏开发？]]></title>
         <id>https://news.ycombinator.com/item?id=30993317</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>deepbluesome</name>
             <uri>https://news.ycombinator.com/user?id=deepbluesome</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将主导这个印度汽车电动车市场的公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30840302</id>
-        <link href="https://news.ycombinator.com/item?id=30840302"/>
-        <updated>2022-03-29T08:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Company that will dominate this Indian Automotive EV Market?]]></summary>
-        <author>
-            <name>Manket1610</name>
-            <uri>https://news.ycombinator.com/user?id=Manket1610</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人在工作中使用vaadin做内部网站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30840251</id>
-        <link href="https://news.ycombinator.com/item?id=30840251"/>
-        <updated>2022-03-29T08:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone using vaadin at work for internal websites?]]></summary>
-        <author>
-            <name>tomerbd</name>
-            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
         </author>
     </entry>
 </feed>
