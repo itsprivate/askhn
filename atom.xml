@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T18:44:37.798Z</updated>
+    <updated>2022-04-11T19:11:51.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的播客或其他基于音频的内容是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30993166</id>
+        <link href="https://news.ycombinator.com/item?id=30993166"/>
+        <updated>2022-04-11T19:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite podcasts or other audio-based content?]]></summary>
+        <author>
+            <name>paxys</name>
+            <uri>https://news.ycombinator.com/user?id=paxys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么当别人不同意他们的观点时，人们会生气？]]></title>
         <id>https://news.ycombinator.com/item?id=30992774</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brycelarkin</name>
             <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移动开发者，你通过阅读哪些网站/博客来学习新东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30839731</id>
-        <link href="https://news.ycombinator.com/item?id=30839731"/>
-        <updated>2022-03-29T07:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Mobile developers, what websites/blogs do you read to learn new stuff?]]></summary>
-        <author>
-            <name>toron123</name>
-            <uri>https://news.ycombinator.com/user?id=toron123</uri>
         </author>
     </entry>
 </feed>

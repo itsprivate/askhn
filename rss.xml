@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Apr 2022 18:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 19:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最喜欢的播客或其他基于音频的内容是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30993166</link>
+            <guid>https://news.ycombinator.com/item?id=30993166</guid>
+            <pubDate>Mon, 11 Apr 2022 19:01:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are your favorite podcasts or other audio-based content?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么当别人不同意他们的观点时，人们会生气？]]></title>
             <link>https://news.ycombinator.com/item?id=30992774</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30839934</guid>
             <pubDate>Tue, 29 Mar 2022 07:49:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone use GitHub Issues at their company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[移动开发者，你通过阅读哪些网站/博客来学习新东西？]]></title>
-            <link>https://news.ycombinator.com/item?id=30839731</link>
-            <guid>https://news.ycombinator.com/item?id=30839731</guid>
-            <pubDate>Tue, 29 Mar 2022 07:17:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Mobile developers, what websites/blogs do you read to learn new stuff?]]></description>
         </item>
     </channel>
 </rss>
