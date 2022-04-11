@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T16:18:53.748Z</updated>
+    <updated>2022-04-11T16:55:15.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最後一次休假是什麼時候？]]></title>
+        <id>https://news.ycombinator.com/item?id=30991316</id>
+        <link href="https://news.ycombinator.com/item?id=30991316"/>
+        <updated>2022-04-11T16:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When was the last time you took a vacation?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastmail停機了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30991068</id>
+        <link href="https://news.ycombinator.com/item?id=30991068"/>
+        <updated>2022-04-11T16:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Fastmail Down?]]></summary>
+        <author>
+            <name>aprdm</name>
+            <uri>https://news.ycombinator.com/user?id=aprdm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當代碼變成一個臨時數據庫時，該怎麼辦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30990925</id>
+        <link href="https://news.ycombinator.com/item?id=30990925"/>
+        <updated>2022-04-11T16:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do when code becomes an ad-hoc database?]]></summary>
+        <author>
+            <name>potta_coffee</name>
+            <uri>https://news.ycombinator.com/user?id=potta_coffee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找回被限制的Facebook業務經理？]]></title>
         <id>https://news.ycombinator.com/item?id=30990451</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Mandatum</name>
             <uri>https://news.ycombinator.com/user?id=Mandatum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於投資合同服務、SAFE、IRA選項的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30838494</id>
-        <link href="https://news.ycombinator.com/item?id=30838494"/>
-        <updated>2022-03-29T03:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for investment contract services, SAFE, IRA Option]]></summary>
-        <author>
-            <name>s1artibartfast</name>
-            <uri>https://news.ycombinator.com/user?id=s1artibartfast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司是在低價收買我，還是我是個冒牌的貪婪的混蛋？]]></title>
-        <id>https://news.ycombinator.com/item?id=30837836</id>
-        <link href="https://news.ycombinator.com/item?id=30837836"/>
-        <updated>2022-03-29T01:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Apple low-balling me or am I an impostor greedy bastard?]]></summary>
-        <author>
-            <name>throwaway971608</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway971608</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能建立一個開源的房地產統計網站嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30837650</id>
-        <link href="https://news.ycombinator.com/item?id=30837650"/>
-        <updated>2022-03-29T01:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you build an open sourced real estate statistics site?]]></summary>
-        <author>
-            <name>techsin101</name>
-            <uri>https://news.ycombinator.com/user?id=techsin101</uri>
         </author>
     </entry>
 </feed>
