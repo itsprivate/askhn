@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T22:43:19.244Z</updated>
+    <updated>2022-04-11T22:51:38.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想开一家公司，但我目前就业过剩]]></title>
+        <id>https://news.ycombinator.com/item?id=30996097</id>
+        <link href="https://news.ycombinator.com/item?id=30996097"/>
+        <updated>2022-04-11T22:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I want to start a company, but I am currently overemployed]]></summary>
+        <author>
+            <name>hashxyz</name>
+            <uri>https://news.ycombinator.com/user?id=hashxyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么好的公司名单，这些公司对LeetCode的面试并不重视？]]></title>
         <id>https://news.ycombinator.com/item?id=30995976</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eimrine</name>
             <uri>https://news.ycombinator.com/user?id=eimrine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写作长篇非小说的技巧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30840992</id>
-        <link href="https://news.ycombinator.com/item?id=30840992"/>
-        <updated>2022-03-29T10:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tips on writing long-form non-fiction?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
