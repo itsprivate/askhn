@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尋找以前提交的關於API安全協議的文章]]></title>
+            <link>https://news.ycombinator.com/item?id=30986501</link>
+            <guid>https://news.ycombinator.com/item?id=30986501</guid>
+            <pubDate>Mon, 11 Apr 2022 09:37:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Looking for a previously submitted article on API security protocols]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼我的肚子會痛？]]></title>
             <link>https://news.ycombinator.com/item?id=30986099</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30833823</guid>
             <pubDate>Mon, 28 Mar 2022 18:26:35 GMT</pubDate>
             <description><![CDATA[Ask HN: How does Levels handle so much negative PR for NomadList?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DuckDuckGo對StackOverflow的結果好嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30833797</link>
-            <guid>https://news.ycombinator.com/item?id=30833797</guid>
-            <pubDate>Mon, 28 Mar 2022 18:24:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is DuckDuckGo good for StackOverflow results?]]></description>
         </item>
     </channel>
 </rss>

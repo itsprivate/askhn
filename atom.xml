@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T08:38:03.165Z</updated>
+    <updated>2022-04-11T09:44:39.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找以前提交的关于API安全协议的文章]]></title>
+        <id>https://news.ycombinator.com/item?id=30986501</id>
+        <link href="https://news.ycombinator.com/item?id=30986501"/>
+        <updated>2022-04-11T09:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a previously submitted article on API security protocols]]></summary>
+        <author>
+            <name>kedyr</name>
+            <uri>https://news.ycombinator.com/user?id=kedyr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我的肚子会痛？]]></title>
         <id>https://news.ycombinator.com/item?id=30986099</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>buf</name>
             <uri>https://news.ycombinator.com/user?id=buf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo对StackOverflow的结果好吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30833797</id>
-        <link href="https://news.ycombinator.com/item?id=30833797"/>
-        <updated>2022-03-28T18:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is DuckDuckGo good for StackOverflow results?]]></summary>
-        <author>
-            <name>Kalanos</name>
-            <uri>https://news.ycombinator.com/user?id=Kalanos</uri>
         </author>
     </entry>
 </feed>
