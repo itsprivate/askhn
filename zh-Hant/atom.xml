@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T14:16:37.829Z</updated>
+    <updated>2022-04-11T14:40:42.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼網頁版的Google Play看起來像是停留在2013年？]]></title>
+        <id>https://news.ycombinator.com/item?id=30989337</id>
+        <link href="https://news.ycombinator.com/item?id=30989337"/>
+        <updated>2022-04-11T14:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does web version of Google Play look like it’s stuck in 2013?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於注重隱私的瀏覽器來說，Safari是一個不錯的選擇嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30988673</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asdadsdad</name>
             <uri>https://news.ycombinator.com/user?id=asdadsdad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能用機械腕錶為電子墨水屏幕供電嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30836601</id>
-        <link href="https://news.ycombinator.com/item?id=30836601"/>
-        <updated>2022-03-28T22:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would be possible to power an E-Ink screen with a mechanical wristwatch?]]></summary>
-        <author>
-            <name>aspaviento</name>
-            <uri>https://news.ycombinator.com/user?id=aspaviento</uri>
         </author>
     </entry>
 </feed>
