@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T04:43:40.542Z</updated>
+    <updated>2022-04-11T06:18:44.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[知道Python後，我可以從事什麼工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30985277</id>
+        <link href="https://news.ycombinator.com/item?id=30985277"/>
+        <updated>2022-04-11T06:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What jobs can I have knowing Python?]]></summary>
+        <author>
+            <name>mahdi7d1</name>
+            <uri>https://news.ycombinator.com/user?id=mahdi7d1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何確定在科技的幫助下會蓬勃發展的利基領域？]]></title>
         <id>https://news.ycombinator.com/item?id=30984690</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tombert</name>
             <uri>https://news.ycombinator.com/user?id=tombert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Web3 Fiverr不是一個東西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30833136</id>
-        <link href="https://news.ycombinator.com/item?id=30833136"/>
-        <updated>2022-03-28T17:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Web3 Fiverr not a thing?]]></summary>
-        <author>
-            <name>sharemywin</name>
-            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
         </author>
     </entry>
 </feed>
