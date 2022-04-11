@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T13:52:49.029Z</updated>
+    <updated>2022-04-11T14:16:37.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于注重隐私的浏览器来说，Safari是一个不错的选择吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30988673</id>
+        <link href="https://news.ycombinator.com/item?id=30988673"/>
+        <updated>2022-04-11T13:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Safari a good option for a privacy focused browser?]]></summary>
+        <author>
+            <name>anotherQuarter</name>
+            <uri>https://news.ycombinator.com/user?id=anotherQuarter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么HTML在网络之外没有更多的相关性？]]></title>
         <id>https://news.ycombinator.com/item?id=30988548</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aspaviento</name>
             <uri>https://news.ycombinator.com/user?id=aspaviento</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何防止内部用户对共享数据存储进行超载？]]></title>
-        <id>https://news.ycombinator.com/item?id=30836445</id>
-        <link href="https://news.ycombinator.com/item?id=30836445"/>
-        <updated>2022-03-28T22:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to prevent internal users from overloading shared data stores?]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
         </author>
     </entry>
 </feed>
