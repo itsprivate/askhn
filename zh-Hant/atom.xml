@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T16:55:15.377Z</updated>
+    <updated>2022-04-11T17:20:33.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你覺得 "作家 "有些貶義嗎？ 還是隻有我覺得？]]></title>
+        <id>https://news.ycombinator.com/item?id=30991768</id>
+        <link href="https://news.ycombinator.com/item?id=30991768"/>
+        <updated>2022-04-11T17:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you find “writer” somewhat pejorative? or is it just me?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是做什麼工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30991725</id>
+        <link href="https://news.ycombinator.com/item?id=30991725"/>
+        <updated>2022-04-11T17:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do for a living?]]></summary>
+        <author>
+            <name>Phileosopher</name>
+            <uri>https://news.ycombinator.com/user?id=Phileosopher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最後一次休假是什麼時候？]]></title>
         <id>https://news.ycombinator.com/item?id=30991316</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>i5heu</name>
             <uri>https://news.ycombinator.com/user?id=i5heu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些是有公開課程網頁的不太知名的CS課程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30839045</id>
-        <link href="https://news.ycombinator.com/item?id=30839045"/>
-        <updated>2022-03-29T05:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which are some less-known CS courses with public course webpages?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人在網上撒謊嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30838788</id>
-        <link href="https://news.ycombinator.com/item?id=30838788"/>
-        <updated>2022-03-29T04:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone else lie on the internet?]]></summary>
-        <author>
-            <name>Mandatum</name>
-            <uri>https://news.ycombinator.com/user?id=Mandatum</uri>
         </author>
     </entry>
 </feed>
