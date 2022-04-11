@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-11T09:44:39.730Z</updated>
+    <updated>2022-04-11T10:17:11.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[值得取代谷歌套件免费版]]></title>
+        <id>https://news.ycombinator.com/item?id=30986661</id>
+        <link href="https://news.ycombinator.com/item?id=30986661"/>
+        <updated>2022-04-11T10:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Worthwhile replacement for Google suite free edition]]></summary>
+        <author>
+            <name>kamroot</name>
+            <uri>https://news.ycombinator.com/user?id=kamroot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在没有确切名称的情况下找到一个很久以前被上调的帖子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30986641</id>
+        <link href="https://news.ycombinator.com/item?id=30986641"/>
+        <updated>2022-04-11T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find a post upvoted long time ago without the exact name]]></summary>
+        <author>
+            <name>ripitrust</name>
+            <uri>https://news.ycombinator.com/user?id=ripitrust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找以前提交的关于API安全协议的文章]]></title>
         <id>https://news.ycombinator.com/item?id=30986501</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ptrhvns</name>
             <uri>https://news.ycombinator.com/user?id=ptrhvns</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何解决内部整合问题的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30834017</id>
-        <link href="https://news.ycombinator.com/item?id=30834017"/>
-        <updated>2022-03-28T18:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you solving internal integration?]]></summary>
-        <author>
-            <name>martypitt</name>
-            <uri>https://news.ycombinator.com/user?id=martypitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levels是如何处理NomadList的这么多负面公关的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30833823</id>
-        <link href="https://news.ycombinator.com/item?id=30833823"/>
-        <updated>2022-03-28T18:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does Levels handle so much negative PR for NomadList?]]></summary>
-        <author>
-            <name>buf</name>
-            <uri>https://news.ycombinator.com/user?id=buf</uri>
         </author>
     </entry>
 </feed>
