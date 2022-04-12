@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何处理倦怠问题？]]></title>
+            <link>https://news.ycombinator.com/item?id=31009260</link>
+            <guid>https://news.ycombinator.com/item?id=31009260</guid>
+            <pubDate>Tue, 12 Apr 2022 23:00:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to deal with burnout?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对于Rust在线编译器来说，什么才是最好的解决方案？]]></title>
+            <link>https://news.ycombinator.com/item?id=31008749</link>
+            <guid>https://news.ycombinator.com/item?id=31008749</guid>
+            <pubDate>Tue, 12 Apr 2022 21:59:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: What would be the best solution for a Rust online compiler?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在哪里为你的近亲储存重要信息？]]></title>
             <link>https://news.ycombinator.com/item?id=31008496</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30853158</guid>
             <pubDate>Wed, 30 Mar 2022 09:47:26 GMT</pubDate>
             <description><![CDATA[Ask HN: What newsletter are you receiving that you are reading?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[您会向幼儿推荐哪些节目？]]></title>
-            <link>https://news.ycombinator.com/item?id=30853144</link>
-            <guid>https://news.ycombinator.com/item?id=30853144</guid>
-            <pubDate>Wed, 30 Mar 2022 09:45:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: What shows would you recommend for toddlers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有和谷歌一样好的免费在线翻译器？]]></title>
-            <link>https://news.ycombinator.com/item?id=30853088</link>
-            <guid>https://news.ycombinator.com/item?id=30853088</guid>
-            <pubDate>Wed, 30 Mar 2022 09:37:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any free online Translator as good as Google's?]]></description>
         </item>
     </channel>
 </rss>
