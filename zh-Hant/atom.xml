@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T11:30:55.398Z</updated>
+    <updated>2022-04-12T11:38:03.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本體工程在今天有多重要？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001175</id>
+        <link href="https://news.ycombinator.com/item?id=31001175"/>
+        <updated>2022-04-12T11:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How important is ontology engineering today?]]></summary>
+        <author>
+            <name>WolfOliver</name>
+            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術什麼時候不再酷了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001155</id>
+        <link href="https://news.ycombinator.com/item?id=31001155"/>
+        <updated>2022-04-12T11:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When Did Tech Stop Being Cool?]]></summary>
+        <author>
+            <name>dvh1990</name>
+            <uri>https://news.ycombinator.com/user?id=dvh1990</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非物理學家的熱力學介紹？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001125</id>
+        <link href="https://news.ycombinator.com/item?id=31001125"/>
+        <updated>2022-04-12T11:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Introduction to thermodynamics for non-physicists?]]></summary>
+        <author>
+            <name>nanna</name>
+            <uri>https://news.ycombinator.com/user?id=nanna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國治療多動症的情況如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31001108</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>efojs</name>
             <uri>https://news.ycombinator.com/user?id=efojs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拓展青少年思維的最佳視頻遊戲？]]></title>
-        <id>https://news.ycombinator.com/item?id=30846566</id>
-        <link href="https://news.ycombinator.com/item?id=30846566"/>
-        <updated>2022-03-29T18:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best video games to expand teenage minds?]]></summary>
-        <author>
-            <name>lifeisstillgood</name>
-            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAANG公司對榆樹感興趣嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30846278</id>
-        <link href="https://news.ycombinator.com/item?id=30846278"/>
-        <updated>2022-03-29T18:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are FAANG companies interested in Elm?]]></summary>
-        <author>
-            <name>kiraken</name>
-            <uri>https://news.ycombinator.com/user?id=kiraken</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你想如何購買技術？]]></title>
-        <id>https://news.ycombinator.com/item?id=30846114</id>
-        <link href="https://news.ycombinator.com/item?id=30846114"/>
-        <updated>2022-03-29T17:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you want to buy technology?]]></summary>
-        <author>
-            <name>greenail</name>
-            <uri>https://news.ycombinator.com/user?id=greenail</uri>
         </author>
     </entry>
 </feed>
