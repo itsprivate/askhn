@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T17:55:53.400Z</updated>
+    <updated>2022-04-12T18:16:41.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何找到早期阶段的创业公司进行投资？]]></title>
+        <id>https://news.ycombinator.com/item?id=31006139</id>
+        <link href="https://news.ycombinator.com/item?id=31006139"/>
+        <updated>2022-04-12T17:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I find early stage startups to invest in?]]></summary>
+        <author>
+            <name>altdataseller</name>
+            <uri>https://news.ycombinator.com/user?id=altdataseller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雇主是否关心你能否发挥你的最大潜力？]]></title>
         <id>https://news.ycombinator.com/item?id=31006024</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mindboggled</name>
             <uri>https://news.ycombinator.com/user?id=mindboggled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我看到关于我在离线笔记本电脑上阅读/写作的广告？]]></title>
-        <id>https://news.ycombinator.com/item?id=30849482</id>
-        <link href="https://news.ycombinator.com/item?id=30849482"/>
-        <updated>2022-03-29T23:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do I see ads about what I read/write on my offline laptop?]]></summary>
-        <author>
-            <name>silent_speech</name>
-            <uri>https://news.ycombinator.com/user?id=silent_speech</uri>
         </author>
     </entry>
 </feed>
