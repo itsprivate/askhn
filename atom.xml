@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T07:14:14.773Z</updated>
+    <updated>2022-04-12T08:16:29.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何处理非法篡改邮件的问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30999815</id>
+        <link href="https://news.ycombinator.com/item?id=30999815"/>
+        <updated>2022-04-12T07:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do about unlawful mail tampering?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有浏览器可以使用空格键正确滚动一页文字？]]></title>
+        <id>https://news.ycombinator.com/item?id=30999766</id>
+        <link href="https://news.ycombinator.com/item?id=30999766"/>
+        <updated>2022-04-12T07:48:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can any browsers scroll a page of text properly using the spacebar?]]></summary>
+        <author>
+            <name>HigherPlain</name>
+            <uri>https://news.ycombinator.com/user?id=HigherPlain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曲线CP到底发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30999561</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们如何盲目地相信互联网上的巨大数字？]]></title>
-        <id>https://news.ycombinator.com/item?id=30845613</id>
-        <link href="https://news.ycombinator.com/item?id=30845613"/>
-        <updated>2022-03-29T17:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How people blindly trust huge numbers on the internet?]]></summary>
-        <author>
-            <name>sankalpdomore</name>
-            <uri>https://news.ycombinator.com/user?id=sankalpdomore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人知道有什么好的SaaS问答（Quora、HN、Reddit-esk）平台吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30844998</id>
-        <link href="https://news.ycombinator.com/item?id=30844998"/>
-        <updated>2022-03-29T16:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone know of any good SaaS Q&A (Quora, HN, Reddit-esk) platforms?]]></summary>
-        <author>
-            <name>vivekmgeorge</name>
-            <uri>https://news.ycombinator.com/user?id=vivekmgeorge</uri>
         </author>
     </entry>
 </feed>
