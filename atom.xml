@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T04:45:14.645Z</updated>
+    <updated>2022-04-12T05:52:03.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将国家分解成更小的国家？]]></title>
+        <id>https://news.ycombinator.com/item?id=30999040</id>
+        <link href="https://news.ycombinator.com/item?id=30999040"/>
+        <updated>2022-04-12T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Breaking Countries into Smaller Ones?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何启动一个创业公司？]]></title>
         <id>https://news.ycombinator.com/item?id=30998663</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hakunin</name>
             <uri>https://news.ycombinator.com/user?id=hakunin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁在使用JetBrains空间？]]></title>
-        <id>https://news.ycombinator.com/item?id=30844184</id>
-        <link href="https://news.ycombinator.com/item?id=30844184"/>
-        <updated>2022-03-29T15:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone Using JetBrains Space?]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
