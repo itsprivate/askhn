@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T15:56:38.495Z</updated>
+    <updated>2022-04-12T16:16:08.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰能推薦一本企業安全方面的好書？]]></title>
+        <id>https://news.ycombinator.com/item?id=31004506</id>
+        <link href="https://news.ycombinator.com/item?id=31004506"/>
+        <updated>2022-04-12T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can anyone suggest a good book for Enterprise Security?]]></summary>
+        <author>
+            <name>srirangr</name>
+            <uri>https://news.ycombinator.com/user?id=srirangr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSN被破解，我現在該怎麼辦？]]></title>
+        <id>https://news.ycombinator.com/item?id=31004380</id>
+        <link href="https://news.ycombinator.com/item?id=31004380"/>
+        <updated>2022-04-12T15:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SSN breached, what should I do now?]]></summary>
+        <author>
+            <name>whyage</name>
+            <uri>https://news.ycombinator.com/user?id=whyage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未來3年最值得使用的智能手機？]]></title>
         <id>https://news.ycombinator.com/item?id=31004067</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wallfacer77</name>
             <uri>https://news.ycombinator.com/user?id=wallfacer77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小企業友好的移動框架？]]></title>
-        <id>https://news.ycombinator.com/item?id=30847638</id>
-        <link href="https://news.ycombinator.com/item?id=30847638"/>
-        <updated>2022-03-29T20:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Small business friendly mobile framework?]]></summary>
-        <author>
-            <name>rlawson</name>
-            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[允許Telegram式群組的最佳聊天平臺是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30847614</id>
-        <link href="https://news.ycombinator.com/item?id=30847614"/>
-        <updated>2022-03-29T20:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best chat platform which allows Telegram-style groups?]]></summary>
-        <author>
-            <name>consumer451</name>
-            <uri>https://news.ycombinator.com/user?id=consumer451</uri>
         </author>
     </entry>
 </feed>
