@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Apr 2022 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们能不能在手机上把字体变大？]]></title>
+            <link>https://news.ycombinator.com/item?id=31009525</link>
+            <guid>https://news.ycombinator.com/item?id=31009525</guid>
+            <pubDate>Tue, 12 Apr 2022 23:34:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can we make the font bigger for mobile view?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何处理倦怠问题？]]></title>
             <link>https://news.ycombinator.com/item?id=31009260</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30853356</guid>
             <pubDate>Wed, 30 Mar 2022 10:23:31 GMT</pubDate>
             <description><![CDATA[Ask HN: How to monetise a group of idle computers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你收到的是什么通讯，你正在阅读？]]></title>
-            <link>https://news.ycombinator.com/item?id=30853158</link>
-            <guid>https://news.ycombinator.com/item?id=30853158</guid>
-            <pubDate>Wed, 30 Mar 2022 09:47:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: What newsletter are you receiving that you are reading?]]></description>
         </item>
     </channel>
 </rss>
