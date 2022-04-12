@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T15:39:13.533Z</updated>
+    <updated>2022-04-12T15:56:38.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未來3年最值得使用的智能手機？]]></title>
+        <id>https://news.ycombinator.com/item?id=31004067</id>
+        <link href="https://news.ycombinator.com/item?id=31004067"/>
+        <updated>2022-04-12T15:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best value for money Smartphones to use for the next 3 years?]]></summary>
+        <author>
+            <name>Venkatesh10</name>
+            <uri>https://news.ycombinator.com/user?id=Venkatesh10</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這種心理技巧叫什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31003912</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>consumer451</name>
             <uri>https://news.ycombinator.com/user?id=consumer451</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[難道Stripe在推送前忘記了關閉他們的網格？]]></title>
-        <id>https://news.ycombinator.com/item?id=30847428</id>
-        <link href="https://news.ycombinator.com/item?id=30847428"/>
-        <updated>2022-03-29T19:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did Stripe forget to turn off their grid before pushing?]]></summary>
-        <author>
-            <name>philip1209</name>
-            <uri>https://news.ycombinator.com/user?id=philip1209</uri>
         </author>
     </entry>
 </feed>
