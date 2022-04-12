@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T17:08:26.425Z</updated>
+    <updated>2022-04-12T17:41:41.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在一個不使用該語言的國家獲得雙語？]]></title>
+        <id>https://news.ycombinator.com/item?id=31005777</id>
+        <link href="https://news.ycombinator.com/item?id=31005777"/>
+        <updated>2022-04-12T17:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get bilingual in a country where the language is not used?]]></summary>
+        <author>
+            <name>corderop</name>
+            <uri>https://news.ycombinator.com/user?id=corderop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Facebook停止了改進？]]></title>
         <id>https://news.ycombinator.com/item?id=31005338</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stanislavb</name>
             <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天有了一百萬美元，你會做什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30842680</id>
-        <link href="https://news.ycombinator.com/item?id=30842680"/>
-        <updated>2022-03-29T14:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would you do with a million dollars today?]]></summary>
-        <author>
-            <name>vicvvv</name>
-            <uri>https://news.ycombinator.com/user?id=vicvvv</uri>
         </author>
     </entry>
 </feed>
