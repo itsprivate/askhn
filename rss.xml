@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Apr 2022 23:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何管理和消费电影等的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31009608</link>
+            <guid>https://news.ycombinator.com/item?id=31009608</guid>
+            <pubDate>Tue, 12 Apr 2022 23:48:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you manage and consume movies etc.?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你将如何在2022年建立一个网络应用？]]></title>
+            <link>https://news.ycombinator.com/item?id=31009591</link>
+            <guid>https://news.ycombinator.com/item?id=31009591</guid>
+            <pubDate>Tue, 12 Apr 2022 23:45:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: How would you build a web app in 2022?]]></description>
+        </item>
         <item>
             <title><![CDATA[我们能不能在手机上把字体变大？]]></title>
             <link>https://news.ycombinator.com/item?id=31009525</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30853589</guid>
             <pubDate>Wed, 30 Mar 2022 11:07:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Architecting Billing for a SaaS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博客评论是过去的事情了吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30853565</link>
-            <guid>https://news.ycombinator.com/item?id=30853565</guid>
-            <pubDate>Wed, 30 Mar 2022 11:01:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are blog comments a thing of the past?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何使一组闲置的计算机盈利]]></title>
-            <link>https://news.ycombinator.com/item?id=30853356</link>
-            <guid>https://news.ycombinator.com/item?id=30853356</guid>
-            <pubDate>Wed, 30 Mar 2022 10:23:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to monetise a group of idle computers]]></description>
         </item>
     </channel>
 </rss>
