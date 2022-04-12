@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T19:28:19.250Z</updated>
+    <updated>2022-04-12T19:36:57.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在這樣的網站上創建一個命令調色板？]]></title>
+        <id>https://news.ycombinator.com/item?id=31007204</id>
+        <link href="https://news.ycombinator.com/item?id=31007204"/>
+        <updated>2022-04-12T19:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to create a command palette on a website like this?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN在政治上是激進的嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31007026</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>blunte</name>
             <uri>https://news.ycombinator.com/user?id=blunte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家裡能不能有基於牆壁的助聽器，跟蹤周圍的人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30850310</id>
-        <link href="https://news.ycombinator.com/item?id=30850310"/>
-        <updated>2022-03-30T00:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could homes have wall-based hearing aids that track people around?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
