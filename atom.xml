@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T21:33:45.750Z</updated>
+    <updated>2022-04-12T21:45:29.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪里为你的近亲储存重要信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=31008496</id>
+        <link href="https://news.ycombinator.com/item?id=31008496"/>
+        <updated>2022-04-12T21:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you store important information for your next of kin?]]></summary>
+        <author>
+            <name>el_benhameen</name>
+            <uri>https://news.ycombinator.com/user?id=el_benhameen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉的技术论文/博客文章在哪里？]]></title>
+        <id>https://news.ycombinator.com/item?id=31008483</id>
+        <link href="https://news.ycombinator.com/item?id=31008483"/>
+        <updated>2022-04-12T21:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where are Tesla's technical papers / blog posts?]]></summary>
+        <author>
+            <name>xnx</name>
+            <uri>https://news.ycombinator.com/user?id=xnx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我觉得自己被困住了，如何才能摆脱困境？]]></title>
+        <id>https://news.ycombinator.com/item?id=31008477</id>
+        <link href="https://news.ycombinator.com/item?id=31008477"/>
+        <updated>2022-04-12T21:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm feeling stuck, how do I get out of it?]]></summary>
+        <author>
+            <name>almostright</name>
+            <uri>https://news.ycombinator.com/user?id=almostright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男人真的想为自己的国家而战，而不是逃亡吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31008340</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将URL+Title复制到剪贴板的安卓应用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30852983</id>
-        <link href="https://news.ycombinator.com/item?id=30852983"/>
-        <updated>2022-03-30T09:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Android app for copying URL+Title to clipboard?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对学习触摸打字有什么建议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30852198</id>
-        <link href="https://news.ycombinator.com/item?id=30852198"/>
-        <updated>2022-03-30T06:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you recommend to learn touch typing?]]></summary>
-        <author>
-            <name>pzs</name>
-            <uri>https://news.ycombinator.com/user?id=pzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊与Facebook/Meta共享数据？]]></title>
-        <id>https://news.ycombinator.com/item?id=30852128</id>
-        <link href="https://news.ycombinator.com/item?id=30852128"/>
-        <updated>2022-03-30T06:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Amazon sharing data with Facebook/Meta?]]></summary>
-        <author>
-            <name>ogwh</name>
-            <uri>https://news.ycombinator.com/user?id=ogwh</uri>
         </author>
     </entry>
 </feed>
