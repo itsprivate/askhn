@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T02:31:50.380Z</updated>
+    <updated>2022-04-12T04:02:31.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fastmail用户，你是否注意到垃圾邮件检查的质量比Gmail差？]]></title>
+        <id>https://news.ycombinator.com/item?id=30998400</id>
+        <link href="https://news.ycombinator.com/item?id=30998400"/>
+        <updated>2022-04-12T03:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Fastmail users, do you notice quality of spam check worse than Gmail?]]></summary>
+        <author>
+            <name>tuananh</name>
+            <uri>https://news.ycombinator.com/user?id=tuananh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对开放源代码的windows应用程序进行代码签名？]]></title>
+        <id>https://news.ycombinator.com/item?id=30998363</id>
+        <link href="https://news.ycombinator.com/item?id=30998363"/>
+        <updated>2022-04-12T03:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Code signing open source windows applications?]]></summary>
+        <author>
+            <name>Rodeoclash</name>
+            <uri>https://news.ycombinator.com/user?id=Rodeoclash</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐一些学习计算机网络的好资源]]></title>
         <id>https://news.ycombinator.com/item?id=30997392</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>joelrosenthal</name>
             <uri>https://news.ycombinator.com/user?id=joelrosenthal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在特拉维夫，工程师的生活如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30842426</id>
-        <link href="https://news.ycombinator.com/item?id=30842426"/>
-        <updated>2022-03-29T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is life in Tel Aviv for an engineer?]]></summary>
-        <author>
-            <name>asdadsdad</name>
-            <uri>https://news.ycombinator.com/user?id=asdadsdad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以拿回我的亚马逊账户吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30842263</id>
-        <link href="https://news.ycombinator.com/item?id=30842263"/>
-        <updated>2022-03-29T13:28:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I get my Amazon account back?]]></summary>
-        <author>
-            <name>brailsafe</name>
-            <uri>https://news.ycombinator.com/user?id=brailsafe</uri>
         </author>
     </entry>
 </feed>
