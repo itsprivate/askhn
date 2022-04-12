@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T17:41:41.494Z</updated>
+    <updated>2022-04-12T17:55:53.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雇主是否关心你能否发挥你的最大潜力？]]></title>
+        <id>https://news.ycombinator.com/item?id=31006024</id>
+        <link href="https://news.ycombinator.com/item?id=31006024"/>
+        <updated>2022-04-12T17:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do employers care about you reaching your maximum potential?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有与国防有关的初创企业？]]></title>
+        <id>https://news.ycombinator.com/item?id=31005955</id>
+        <link href="https://news.ycombinator.com/item?id=31005955"/>
+        <updated>2022-04-12T17:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Defense Related Startups?]]></summary>
+        <author>
+            <name>rhacker</name>
+            <uri>https://news.ycombinator.com/user?id=rhacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在一个不使用该语言的国家获得双语？]]></title>
         <id>https://news.ycombinator.com/item?id=31005777</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>silent_speech</name>
             <uri>https://news.ycombinator.com/user?id=silent_speech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些关于如何停止与他人比较的好书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30848886</id>
-        <link href="https://news.ycombinator.com/item?id=30848886"/>
-        <updated>2022-03-29T21:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good books on how to stop comparing yourself to others?]]></summary>
-        <author>
-            <name>pedrodelfino</name>
-            <uri>https://news.ycombinator.com/user?id=pedrodelfino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["项目目录 "的商标是什么意思？]]></title>
-        <id>https://news.ycombinator.com/item?id=30848843</id>
-        <link href="https://news.ycombinator.com/item?id=30848843"/>
-        <updated>2022-03-29T21:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does a trademark of “Project Catalog” means?]]></summary>
-        <author>
-            <name>stanislavb</name>
-            <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
         </author>
     </entry>
 </feed>
