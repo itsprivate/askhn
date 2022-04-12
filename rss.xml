@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Apr 2022 12:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 14:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何对冲通货膨胀？]]></title>
+            <link>https://news.ycombinator.com/item?id=31002858</link>
+            <guid>https://news.ycombinator.com/item?id=31002858</guid>
+            <pubDate>Tue, 12 Apr 2022 14:00:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you hedge against inflation?]]></description>
+        </item>
         <item>
             <title><![CDATA[我们在哪里可以找到不性感的工作？]]></title>
             <link>https://news.ycombinator.com/item?id=31001537</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30846964</guid>
             <pubDate>Tue, 29 Mar 2022 19:06:19 GMT</pubDate>
             <description><![CDATA[Ask HN: Any Advice on Mentoring Juniors?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将开发游戏化的方法？(让它更有趣)]]></title>
-            <link>https://news.ycombinator.com/item?id=30846807</link>
-            <guid>https://news.ycombinator.com/item?id=30846807</guid>
-            <pubDate>Tue, 29 Mar 2022 18:52:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Ways to gamify development? (make it more interesting)]]></description>
         </item>
     </channel>
 </rss>
