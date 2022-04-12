@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T06:15:20.480Z</updated>
+    <updated>2022-04-12T07:14:14.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[曲線CP到底發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30999561</id>
+        <link href="https://news.ycombinator.com/item?id=30999561"/>
+        <updated>2022-04-12T07:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Ever Happened to CurveCP?]]></summary>
+        <author>
+            <name>georgia_peach</name>
+            <uri>https://news.ycombinator.com/user?id=georgia_peach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何評價你的工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30999084</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vivekmgeorge</name>
             <uri>https://news.ycombinator.com/user?id=vivekmgeorge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何將日曆時間可視化的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30844693</id>
-        <link href="https://news.ycombinator.com/item?id=30844693"/>
-        <updated>2022-03-29T16:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you visualize calendar time?]]></summary>
-        <author>
-            <name>monroewalker</name>
-            <uri>https://news.ycombinator.com/user?id=monroewalker</uri>
         </author>
     </entry>
 </feed>
