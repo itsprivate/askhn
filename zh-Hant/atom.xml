@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T00:39:03.846Z</updated>
+    <updated>2022-04-12T02:31:50.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推薦一些學習計算機網絡的好資源]]></title>
+        <id>https://news.ycombinator.com/item?id=30997392</id>
+        <link href="https://news.ycombinator.com/item?id=30997392"/>
+        <updated>2022-04-12T01:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Suggest some good sources to learn computer networking]]></summary>
+        <author>
+            <name>madhavan_pari</name>
+            <uri>https://news.ycombinator.com/user?id=madhavan_pari</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何備份你的Notion數據？]]></title>
+        <id>https://news.ycombinator.com/item?id=30997301</id>
+        <link href="https://news.ycombinator.com/item?id=30997301"/>
+        <updated>2022-04-12T01:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you back up your Notion data?]]></summary>
+        <author>
+            <name>yawnxyz</name>
+            <uri>https://news.ycombinator.com/user?id=yawnxyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATX和ITX標準在哪裡發佈？]]></title>
         <id>https://news.ycombinator.com/item?id=30997073</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>brailsafe</name>
             <uri>https://news.ycombinator.com/user?id=brailsafe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲人在灣區開始實習，去哪裡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30842005</id>
-        <link href="https://news.ycombinator.com/item?id=30842005"/>
-        <updated>2022-03-29T13:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: European starting internship in Bay Area, where to go?]]></summary>
-        <author>
-            <name>rvrst</name>
-            <uri>https://news.ycombinator.com/user?id=rvrst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是現代Java環境？]]></title>
-        <id>https://news.ycombinator.com/item?id=30841581</id>
-        <link href="https://news.ycombinator.com/item?id=30841581"/>
-        <updated>2022-03-29T12:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is a modern Java environment?]]></summary>
-        <author>
-            <name>smorgusofborg</name>
-            <uri>https://news.ycombinator.com/user?id=smorgusofborg</uri>
         </author>
     </entry>
 </feed>
