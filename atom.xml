@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T19:36:57.062Z</updated>
+    <updated>2022-04-12T20:15:14.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天YouTube出现问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=31007621</id>
+        <link href="https://news.ycombinator.com/item?id=31007621"/>
+        <updated>2022-04-12T20:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: YouTube Problems Today?]]></summary>
+        <author>
+            <name>jstx1</name>
+            <uri>https://news.ycombinator.com/user?id=jstx1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在这样的网站上创建一个命令调色板？]]></title>
         <id>https://news.ycombinator.com/item?id=31007204</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>atarian</name>
             <uri>https://news.ycombinator.com/user?id=atarian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编程语言的认识阶梯论文在哪里？]]></title>
-        <id>https://news.ycombinator.com/item?id=30850422</id>
-        <link href="https://news.ycombinator.com/item?id=30850422"/>
-        <updated>2022-03-30T01:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where is the programming language ladder of awareness essay?]]></summary>
-        <author>
-            <name>blunte</name>
-            <uri>https://news.ycombinator.com/user?id=blunte</uri>
         </author>
     </entry>
 </feed>
