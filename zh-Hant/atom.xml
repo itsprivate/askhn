@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-12T18:40:23.717Z</updated>
+    <updated>2022-04-12T19:28:19.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN在政治上是激進的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31007026</id>
+        <link href="https://news.ycombinator.com/item?id=31007026"/>
+        <updated>2022-04-12T19:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is HN Politically Radicalizing?]]></summary>
+        <author>
+            <name>pc2g4d</name>
+            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你上一次參與的你喜歡的項目是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31007010</id>
+        <link href="https://news.ycombinator.com/item?id=31007010"/>
+        <updated>2022-04-12T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was the last project you worked on that you enjoyed?]]></summary>
+        <author>
+            <name>Decabytes</name>
+            <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有人在閱讀時突出顯示文字？]]></title>
         <id>https://news.ycombinator.com/item?id=31006388</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你怎麼稱呼做Kickstarters的人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30850180</id>
-        <link href="https://news.ycombinator.com/item?id=30850180"/>
-        <updated>2022-03-30T00:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you call people that do Kickstarters?]]></summary>
-        <author>
-            <name>akippity</name>
-            <uri>https://news.ycombinator.com/user?id=akippity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人在解釋某件事情時，說到一半就磕磕巴巴的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30849920</id>
-        <link href="https://news.ycombinator.com/item?id=30849920"/>
-        <updated>2022-03-30T00:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else stumble mid-sentence when explaining something?]]></summary>
-        <author>
-            <name>treyfitty</name>
-            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
         </author>
     </entry>
 </feed>
