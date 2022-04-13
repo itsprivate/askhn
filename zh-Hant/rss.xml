@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 16:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 16:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Elixir完成了嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31016877</link>
+            <guid>https://news.ycombinator.com/item?id=31016877</guid>
+            <pubDate>Wed, 13 Apr 2022 16:42:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Elixir Done?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你正在研究的問題是普遍存在的，如何找到用戶？]]></title>
             <link>https://news.ycombinator.com/item?id=31016224</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30860739</guid>
             <pubDate>Wed, 30 Mar 2022 21:03:45 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you learn a massive codebase?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鏽跡斑斑的聚會在哪裡？]]></title>
-            <link>https://news.ycombinator.com/item?id=30860595</link>
-            <guid>https://news.ycombinator.com/item?id=30860595</guid>
-            <pubDate>Wed, 30 Mar 2022 20:49:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where Are the Rust Meetups?]]></description>
         </item>
     </channel>
 </rss>
