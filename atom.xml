@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T00:43:20.642Z</updated>
+    <updated>2022-04-13T02:34:52.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望有什么命令行工具存在？]]></title>
+        <id>https://news.ycombinator.com/item?id=31010408</id>
+        <link href="https://news.ycombinator.com/item?id=31010408"/>
+        <updated>2022-04-13T01:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What command line tool do you wish existed?]]></summary>
+        <author>
+            <name>yesenadam</name>
+            <uri>https://news.ycombinator.com/user?id=yesenadam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在空闲时间喜欢学习什么课题？]]></title>
+        <id>https://news.ycombinator.com/item?id=31010195</id>
+        <link href="https://news.ycombinator.com/item?id=31010195"/>
+        <updated>2022-04-13T01:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What topics do you enjoy learning about in your free time?]]></summary>
+        <author>
+            <name>rococode</name>
+            <uri>https://news.ycombinator.com/user?id=rococode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何设定目标？]]></title>
+        <id>https://news.ycombinator.com/item?id=31009966</id>
+        <link href="https://news.ycombinator.com/item?id=31009966"/>
+        <updated>2022-04-13T00:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you set goals?]]></summary>
+        <author>
+            <name>psikomanjak</name>
+            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些是最好的产品负责人/项目管理人留言板？]]></title>
+        <id>https://news.ycombinator.com/item?id=31009922</id>
+        <link href="https://news.ycombinator.com/item?id=31009922"/>
+        <updated>2022-04-13T00:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best Product Owner/PM message boards?]]></summary>
+        <author>
+            <name>l8rpeace</name>
+            <uri>https://news.ycombinator.com/user?id=l8rpeace</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到一个专家？]]></title>
         <id>https://news.ycombinator.com/item?id=31009800</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>thisappear</name>
             <uri>https://news.ycombinator.com/user?id=thisappear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来电者/受访者能看到我的密码吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30854399</id>
-        <link href="https://news.ycombinator.com/item?id=30854399"/>
-        <updated>2022-03-30T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can a caller/callee see my pincode?]]></summary>
-        <author>
-            <name>somanynails</name>
-            <uri>https://news.ycombinator.com/user?id=somanynails</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追踪我正在创建的组件库的使用情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30854371</id>
-        <link href="https://news.ycombinator.com/item?id=30854371"/>
-        <updated>2022-03-30T12:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tracking use of component library I'm creating]]></summary>
-        <author>
-            <name>ricotico060</name>
-            <uri>https://news.ycombinator.com/user?id=ricotico060</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我想学习非游戏系统的知识，我应该学习哪些科目？]]></title>
-        <id>https://news.ycombinator.com/item?id=30853867</id>
-        <link href="https://news.ycombinator.com/item?id=30853867"/>
-        <updated>2022-03-30T11:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What subjects do I study if I want to learn about non-gameable systems?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些基础知识是10倍的生产力倍增器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30853807</id>
-        <link href="https://news.ycombinator.com/item?id=30853807"/>
-        <updated>2022-03-30T11:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What bits of fundamental knowledge are 10x productivity multipliers?]]></summary>
-        <author>
-            <name>stardustpie</name>
-            <uri>https://news.ycombinator.com/user?id=stardustpie</uri>
         </author>
     </entry>
 </feed>
