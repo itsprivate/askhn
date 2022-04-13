@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 19:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 20:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年，你会选择哪种数据仓库作为你的基础设施？]]></title>
+            <link>https://news.ycombinator.com/item?id=31019559</link>
+            <guid>https://news.ycombinator.com/item?id=31019559</guid>
+            <pubDate>Wed, 13 Apr 2022 20:02:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which data warehouse would you choose for your infrastructure in 2022?]]></description>
+        </item>
         <item>
             <title><![CDATA[问：什么是边缘计算，如何超越基本原理来思考它？]]></title>
             <link>https://news.ycombinator.com/item?id=31019351</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30865365</guid>
             <pubDate>Thu, 31 Mar 2022 09:36:57 GMT</pubDate>
             <description><![CDATA[Ask HN: How does PCI Express or other data busses work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么人脑的用户体验对用户如此不利？]]></title>
-            <link>https://news.ycombinator.com/item?id=30865284</link>
-            <guid>https://news.ycombinator.com/item?id=30865284</guid>
-            <pubDate>Thu, 31 Mar 2022 09:17:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is the UX of the human brain so user-hostile?]]></description>
         </item>
     </channel>
 </rss>

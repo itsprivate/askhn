@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T19:52:31.586Z</updated>
+    <updated>2022-04-13T20:15:42.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，你会选择哪种数据仓库作为你的基础设施？]]></title>
+        <id>https://news.ycombinator.com/item?id=31019559</id>
+        <link href="https://news.ycombinator.com/item?id=31019559"/>
+        <updated>2022-04-13T20:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which data warehouse would you choose for your infrastructure in 2022?]]></summary>
+        <author>
+            <name>bhaprayan</name>
+            <uri>https://news.ycombinator.com/user?id=bhaprayan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[问：什么是边缘计算，如何超越基本原理来思考它？]]></title>
         <id>https://news.ycombinator.com/item?id=31019351</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>s3micolon0</name>
             <uri>https://news.ycombinator.com/user?id=s3micolon0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人脑的用户体验对用户如此不利？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865284</id>
-        <link href="https://news.ycombinator.com/item?id=30865284"/>
-        <updated>2022-03-31T09:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the UX of the human brain so user-hostile?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
