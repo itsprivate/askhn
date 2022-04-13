@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T05:12:36.781Z</updated>
+    <updated>2022-04-13T05:52:11.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在向上爬的同時保持編碼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31011564</id>
+        <link href="https://news.ycombinator.com/item?id=31011564"/>
+        <updated>2022-04-13T05:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to keep coding while moving up the ladder?]]></summary>
+        <author>
+            <name>ruph123</name>
+            <uri>https://news.ycombinator.com/user?id=ruph123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outline.com發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31011333</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>niix1</name>
             <uri>https://news.ycombinator.com/user?id=niix1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這是一個釣魚網站嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30855063</id>
-        <link href="https://news.ycombinator.com/item?id=30855063"/>
-        <updated>2022-03-30T13:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is This a Phishing Site?]]></summary>
-        <author>
-            <name>ada1981</name>
-            <uri>https://news.ycombinator.com/user?id=ada1981</uri>
         </author>
     </entry>
 </feed>
