@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T13:48:46.428Z</updated>
+    <updated>2022-04-13T14:33:12.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么监控摄像头看起来不像会移动和眨眼的眼球？]]></title>
+        <id>https://news.ycombinator.com/item?id=31015029</id>
+        <link href="https://news.ycombinator.com/item?id=31015029"/>
+        <updated>2022-04-13T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't security cameras look like eyeballs that move and blink?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不总是启用低电池模式？]]></title>
+        <id>https://news.ycombinator.com/item?id=31015022</id>
+        <link href="https://news.ycombinator.com/item?id=31015022"/>
+        <updated>2022-04-13T14:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Isn’t Low Battery Mode Always Enabled?]]></summary>
+        <author>
+            <name>devstein</name>
+            <uri>https://news.ycombinator.com/user?id=devstein</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司的自助维修计划怎么了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31014998</id>
+        <link href="https://news.ycombinator.com/item?id=31014998"/>
+        <updated>2022-04-13T14:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happened to Apple's self service repair program?]]></summary>
+        <author>
+            <name>adtac</name>
+            <uri>https://news.ycombinator.com/user?id=adtac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年代是同质化高峰的十年吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31014508</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nepalvibes</name>
             <uri>https://news.ycombinator.com/user?id=nepalvibes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回归套房是否值得一试？]]></title>
-        <id>https://news.ycombinator.com/item?id=30860290</id>
-        <link href="https://news.ycombinator.com/item?id=30860290"/>
-        <updated>2022-03-30T20:19:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Regression Suites Worth a Shit?]]></summary>
-        <author>
-            <name>elpakal</name>
-            <uri>https://news.ycombinator.com/user?id=elpakal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU如何与GPU通信？]]></title>
-        <id>https://news.ycombinator.com/item?id=30860259</id>
-        <link href="https://news.ycombinator.com/item?id=30860259"/>
-        <updated>2022-03-30T20:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does a CPU communicate with a GPU?]]></summary>
-        <author>
-            <name>pedrolins</name>
-            <uri>https://news.ycombinator.com/user?id=pedrolins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Places API很贵--你的花费是多少，或者说替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30859854</id>
-        <link href="https://news.ycombinator.com/item?id=30859854"/>
-        <updated>2022-03-30T19:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google Places API is expensive – what is your spend, or alternatives?]]></summary>
-        <author>
-            <name>me_me_mu_mu</name>
-            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
         </author>
     </entry>
 </feed>
