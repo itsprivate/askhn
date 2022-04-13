@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T15:38:25.481Z</updated>
+    <updated>2022-04-13T15:56:57.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何從多個（非結構化文本）文件中提取信息？]]></title>
+        <id>https://news.ycombinator.com/item?id=31016123</id>
+        <link href="https://news.ycombinator.com/item?id=31016123"/>
+        <updated>2022-04-13T15:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to extract information from mutiple (unstructured text) documents?]]></summary>
+        <author>
+            <name>gpa</name>
+            <uri>https://news.ycombinator.com/user?id=gpa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪種密碼更安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=31015972</id>
+        <link href="https://news.ycombinator.com/item?id=31015972"/>
+        <updated>2022-04-13T15:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which password is more secure?]]></summary>
+        <author>
+            <name>_justinfunk</name>
+            <uri>https://news.ycombinator.com/user?id=_justinfunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何掌握Java泛型？]]></title>
         <id>https://news.ycombinator.com/item?id=31015596</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>punnerud</name>
             <uri>https://news.ycombinator.com/user?id=punnerud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在有效使用Jira方面有什麼技巧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30860431</id>
-        <link href="https://news.ycombinator.com/item?id=30860431"/>
-        <updated>2022-03-30T20:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your tips for using Jira effectively?]]></summary>
-        <author>
-            <name>bovermyer</name>
-            <uri>https://news.ycombinator.com/user?id=bovermyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觸摸屏是一個糟糕的輸入設備，還是一個世代的問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30860362</id>
-        <link href="https://news.ycombinator.com/item?id=30860362"/>
-        <updated>2022-03-30T20:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the touch screen a bad input device or it's a generational thing?]]></summary>
-        <author>
-            <name>nassimsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
         </author>
     </entry>
 </feed>
