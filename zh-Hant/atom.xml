@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T21:13:14.853Z</updated>
+    <updated>2022-04-13T22:42:05.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰放棄了尋找工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=31021129</id>
+        <link href="https://news.ycombinator.com/item?id=31021129"/>
+        <updated>2022-04-13T22:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who has given up looking for work?]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年很多電動汽車上市，有人在做充電網絡嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31020290</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codingclaws</name>
             <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從我的腦海中重現圖像？ 繪畫或3D建模？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865648</id>
-        <link href="https://news.ycombinator.com/item?id=30865648"/>
-        <updated>2022-03-31T10:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to recreate images from my mind? painting or 3D modelling?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
