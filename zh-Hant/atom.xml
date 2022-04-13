@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T17:40:23.527Z</updated>
+    <updated>2022-04-13T19:12:29.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否創建了只供你個人使用的程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=31018836</id>
+        <link href="https://news.ycombinator.com/item?id=31018836"/>
+        <updated>2022-04-13T19:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you created programs for only your personal use?]]></summary>
+        <author>
+            <name>smarri</name>
+            <uri>https://news.ycombinator.com/user?id=smarri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什麼東西產生了像 "Web 3 "一樣多的炒作，但卻失敗了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31018699</id>
+        <link href="https://news.ycombinator.com/item?id=31018699"/>
+        <updated>2022-04-13T18:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was something that generated as much as hype as “Web 3” but failed?]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS/應用商店的更新規模是怎麼回事？]]></title>
         <id>https://news.ycombinator.com/item?id=31017412</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ge96</name>
             <uri>https://news.ycombinator.com/user?id=ge96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你認識的最聰明的人在哪裡工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30864502</id>
-        <link href="https://news.ycombinator.com/item?id=30864502"/>
-        <updated>2022-03-31T06:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do the smartest people you know work?]]></summary>
-        <author>
-            <name>sydthrowaway</name>
-            <uri>https://news.ycombinator.com/user?id=sydthrowaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些最好的數學書？]]></title>
-        <id>https://news.ycombinator.com/item?id=30863411</id>
-        <link href="https://news.ycombinator.com/item?id=30863411"/>
-        <updated>2022-03-31T03:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some of the best mathematics books?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
