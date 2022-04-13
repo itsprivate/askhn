@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 14:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 15:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何掌握Java泛型？]]></title>
+            <link>https://news.ycombinator.com/item?id=31015596</link>
+            <guid>https://news.ycombinator.com/item?id=31015596</guid>
+            <pubDate>Wed, 13 Apr 2022 15:10:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Master Java Generics?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼監控攝像頭看起來不像會移動和眨眼的眼球？]]></title>
             <link>https://news.ycombinator.com/item?id=31015029</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30860362</guid>
             <pubDate>Wed, 30 Mar 2022 20:27:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Is the touch screen a bad input device or it's a generational thing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜的招聘做法是否常見？]]></title>
-            <link>https://news.ycombinator.com/item?id=30860307</link>
-            <guid>https://news.ycombinator.com/item?id=30860307</guid>
-            <pubDate>Wed, 30 Mar 2022 20:21:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Amazon hiring practice common?]]></description>
         </item>
     </channel>
 </rss>
