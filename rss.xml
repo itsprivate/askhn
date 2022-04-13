@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 20:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在面试或接受之前，你对一个角色有多少了解？]]></title>
+            <link>https://news.ycombinator.com/item?id=31019887</link>
+            <guid>https://news.ycombinator.com/item?id=31019887</guid>
+            <pubDate>Wed, 13 Apr 2022 20:34:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: How much do you learn about a role before interviewing or accepting?]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年，你会选择哪种数据仓库作为你的基础设施？]]></title>
             <link>https://news.ycombinator.com/item?id=31019559</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30865392</guid>
             <pubDate>Thu, 31 Mar 2022 09:42:40 GMT</pubDate>
             <description><![CDATA[Ask HN: Dealing with Workplace Stress]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PCI Express或其他数据总线是如何工作的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30865365</link>
-            <guid>https://news.ycombinator.com/item?id=30865365</guid>
-            <pubDate>Thu, 31 Mar 2022 09:36:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: How does PCI Express or other data busses work?]]></description>
         </item>
     </channel>
 </rss>

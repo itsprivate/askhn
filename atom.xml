@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T20:15:42.111Z</updated>
+    <updated>2022-04-13T20:46:04.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在面试或接受之前，你对一个角色有多少了解？]]></title>
+        <id>https://news.ycombinator.com/item?id=31019887</id>
+        <link href="https://news.ycombinator.com/item?id=31019887"/>
+        <updated>2022-04-13T20:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much do you learn about a role before interviewing or accepting?]]></summary>
+        <author>
+            <name>wnolens</name>
+            <uri>https://news.ycombinator.com/user?id=wnolens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，你会选择哪种数据仓库作为你的基础设施？]]></title>
         <id>https://news.ycombinator.com/item?id=31019559</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jimnotgym</name>
             <uri>https://news.ycombinator.com/user?id=jimnotgym</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCI Express或其他数据总线是如何工作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865365</id>
-        <link href="https://news.ycombinator.com/item?id=30865365"/>
-        <updated>2022-03-31T09:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does PCI Express or other data busses work?]]></summary>
-        <author>
-            <name>s3micolon0</name>
-            <uri>https://news.ycombinator.com/user?id=s3micolon0</uri>
         </author>
     </entry>
 </feed>
