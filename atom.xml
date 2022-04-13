@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T10:53:25.902Z</updated>
+    <updated>2022-04-13T11:31:03.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能在工作和生活中变得更加积极主动？]]></title>
+        <id>https://news.ycombinator.com/item?id=31013297</id>
+        <link href="https://news.ycombinator.com/item?id=31013297"/>
+        <updated>2022-04-13T11:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I become more proactive in work and life?]]></summary>
+        <author>
+            <name>weavie</name>
+            <uri>https://news.ycombinator.com/user?id=weavie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slack机器人扩展公司特定的缩写和行话？]]></title>
         <id>https://news.ycombinator.com/item?id=31013119</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>recvonline</name>
             <uri>https://news.ycombinator.com/user?id=recvonline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在你的领域中找到关心自己技艺的同行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30858942</id>
-        <link href="https://news.ycombinator.com/item?id=30858942"/>
-        <updated>2022-03-30T18:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you find peers in your field who care about their craft?]]></summary>
-        <author>
-            <name>natpalmer1776</name>
-            <uri>https://news.ycombinator.com/user?id=natpalmer1776</uri>
         </author>
     </entry>
 </feed>
