@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T10:15:04.042Z</updated>
+    <updated>2022-04-13T10:37:24.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有誰對英特爾資本的融資過程有建議嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31012988</id>
+        <link href="https://news.ycombinator.com/item?id=31012988"/>
+        <updated>2022-04-13T10:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone have advice on the Intel Capital funding process?]]></summary>
+        <author>
+            <name>BuleBule</name>
+            <uri>https://news.ycombinator.com/user?id=BuleBule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人任務/文件管理]]></title>
+        <id>https://news.ycombinator.com/item?id=31012986</id>
+        <link href="https://news.ycombinator.com/item?id=31012986"/>
+        <updated>2022-04-13T10:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Personal Task/File Management]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在B2B SaaS中，你如何處理非緊急的客戶電子郵件？]]></title>
+        <id>https://news.ycombinator.com/item?id=31012930</id>
+        <link href="https://news.ycombinator.com/item?id=31012930"/>
+        <updated>2022-04-13T10:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you handle non-urgent customer email in a B2B SaaS?]]></summary>
+        <author>
+            <name>rodoni</name>
+            <uri>https://news.ycombinator.com/user?id=rodoni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的團隊是如何管理環境變量的？]]></title>
         <id>https://news.ycombinator.com/item?id=31012832</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>whatshisface</name>
             <uri>https://news.ycombinator.com/user?id=whatshisface</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人嘗試過電磁場屏蔽裝置嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30857715</id>
-        <link href="https://news.ycombinator.com/item?id=30857715"/>
-        <updated>2022-03-30T16:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone try an EMF shielding device?]]></summary>
-        <author>
-            <name>armagon</name>
-            <uri>https://news.ycombinator.com/user?id=armagon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司能否在沒有會議的情況下運作。為什麼或為什麼不？]]></title>
-        <id>https://news.ycombinator.com/item?id=30856919</id>
-        <link href="https://news.ycombinator.com/item?id=30856919"/>
-        <updated>2022-03-30T15:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could your company operate without meetings. Why or why not?]]></summary>
-        <author>
-            <name>jppope</name>
-            <uri>https://news.ycombinator.com/user?id=jppope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何為退休儲蓄的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30856797</id>
-        <link href="https://news.ycombinator.com/item?id=30856797"/>
-        <updated>2022-03-30T15:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you saving for retirement?]]></summary>
-        <author>
-            <name>bravogamma</name>
-            <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
         </author>
     </entry>
 </feed>
