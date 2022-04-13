@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[键盘上的错别字与手工书写中的错别字频率的原因？]]></title>
+            <link>https://news.ycombinator.com/item?id=31012187</link>
+            <guid>https://news.ycombinator.com/item?id=31012187</guid>
+            <pubDate>Wed, 13 Apr 2022 07:55:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: reasons for frequency of mistypings on a keyboard vs. in manual writing?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在向上爬的同时保持编码？]]></title>
             <link>https://news.ycombinator.com/item?id=31011564</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30855645</guid>
             <pubDate>Wed, 30 Mar 2022 14:26:00 GMT</pubDate>
             <description><![CDATA[Ask HN: How to negotiate contract details Amazon (specifics in post)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你有过关于软件依赖性的存在危机吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30855071</link>
-            <guid>https://news.ycombinator.com/item?id=30855071</guid>
-            <pubDate>Wed, 30 Mar 2022 13:41:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you had an existential crisis about software dependencies?]]></description>
         </item>
     </channel>
 </rss>
