@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T19:12:29.804Z</updated>
+    <updated>2022-04-13T19:28:56.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马斯克正计划将Twitter与Truth Social合并？]]></title>
+        <id>https://news.ycombinator.com/item?id=31019069</id>
+        <link href="https://news.ycombinator.com/item?id=31019069"/>
+        <updated>2022-04-13T19:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Musk Planning to Merge Twitter with Truth Social?]]></summary>
+        <author>
+            <name>Mobil1</name>
+            <uri>https://news.ycombinator.com/user?id=Mobil1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否创建了只供你个人使用的程序？]]></title>
         <id>https://news.ycombinator.com/item?id=31018836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给应用程序用户的功能更新通讯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30864640</id>
-        <link href="https://news.ycombinator.com/item?id=30864640"/>
-        <updated>2022-03-31T07:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A feature update newsletter to app users?]]></summary>
-        <author>
-            <name>ge96</name>
-            <uri>https://news.ycombinator.com/user?id=ge96</uri>
         </author>
     </entry>
 </feed>
