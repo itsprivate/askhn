@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客是如何入侵MongoDB实例的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31010892</link>
+            <guid>https://news.ycombinator.com/item?id=31010892</guid>
+            <pubDate>Wed, 13 Apr 2022 03:25:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do hackers hack MongoDB instances?]]></description>
+        </item>
         <item>
             <title><![CDATA[你希望有什么命令行工具存在？]]></title>
             <link>https://news.ycombinator.com/item?id=31010408</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30854773</guid>
             <pubDate>Wed, 30 Mar 2022 13:15:41 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the best testing strategy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[TOMT] [BLOG] 一个由专家撰写的政治新闻/文章聚合器...]]></title>
-            <link>https://news.ycombinator.com/item?id=30854733</link>
-            <guid>https://news.ycombinator.com/item?id=30854733</guid>
-            <pubDate>Wed, 30 Mar 2022 13:13:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: [TOMT] [BLOG] A political news/article aggregator by an expert...]]></description>
         </item>
     </channel>
 </rss>

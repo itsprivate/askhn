@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T02:34:52.584Z</updated>
+    <updated>2022-04-13T03:54:46.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客是如何入侵MongoDB實例的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31010892</id>
+        <link href="https://news.ycombinator.com/item?id=31010892"/>
+        <updated>2022-04-13T03:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do hackers hack MongoDB instances?]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望有什麼命令行工具存在？]]></title>
         <id>https://news.ycombinator.com/item?id=31010408</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ki_</name>
             <uri>https://news.ycombinator.com/user?id=ki_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TOMT] [BLOG] 一個由專家撰寫的政治新聞/文章聚合器...]]></title>
-        <id>https://news.ycombinator.com/item?id=30854733</id>
-        <link href="https://news.ycombinator.com/item?id=30854733"/>
-        <updated>2022-03-30T13:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: [TOMT] [BLOG] A political news/article aggregator by an expert...]]></summary>
-        <author>
-            <name>thisappear</name>
-            <uri>https://news.ycombinator.com/user?id=thisappear</uri>
         </author>
     </entry>
 </feed>
