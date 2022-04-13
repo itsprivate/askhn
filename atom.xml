@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T08:40:20.983Z</updated>
+    <updated>2022-04-13T08:55:46.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流程隔离替代Docker]]></title>
+        <id>https://news.ycombinator.com/item?id=31012465</id>
+        <link href="https://news.ycombinator.com/item?id=31012465"/>
+        <updated>2022-04-13T08:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Process isolation alternative do Docker]]></summary>
+        <author>
+            <name>tuyiown</name>
+            <uri>https://news.ycombinator.com/user?id=tuyiown</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[键盘上的错别字与手工书写中的错别字频率的原因？]]></title>
         <id>https://news.ycombinator.com/item?id=31012187</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>psikomanjak</name>
             <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何谈判合同细节 亚马逊（具体内容见后文）]]></title>
-        <id>https://news.ycombinator.com/item?id=30855645</id>
-        <link href="https://news.ycombinator.com/item?id=30855645"/>
-        <updated>2022-03-30T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to negotiate contract details Amazon (specifics in post)]]></summary>
-        <author>
-            <name>nonplus</name>
-            <uri>https://news.ycombinator.com/user?id=nonplus</uri>
         </author>
     </entry>
 </feed>
