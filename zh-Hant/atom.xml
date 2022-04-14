@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T05:31:07.511Z</updated>
+    <updated>2022-04-14T05:39:41.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更新的Hacker News數據轉儲？]]></title>
+        <id>https://news.ycombinator.com/item?id=31023728</id>
+        <link href="https://news.ycombinator.com/item?id=31023728"/>
+        <updated>2022-04-14T05:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Updated Hacker News data dump?]]></summary>
+        <author>
+            <name>agencies</name>
+            <uri>https://news.ycombinator.com/user?id=agencies</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當你的網絡為零時如何建立一個創業公司]]></title>
         <id>https://news.ycombinator.com/item?id=31023685</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>d_watt</name>
             <uri>https://news.ycombinator.com/user?id=d_watt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[評估我的週末創意項目，"非預判性音頻訪談"]]></title>
-        <id>https://news.ycombinator.com/item?id=30867018</id>
-        <link href="https://news.ycombinator.com/item?id=30867018"/>
-        <updated>2022-03-31T13:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Evaluate my weekend idea project, “non-prejudicial audio interview”]]></summary>
-        <author>
-            <name>anyfactor</name>
-            <uri>https://news.ycombinator.com/user?id=anyfactor</uri>
         </author>
     </entry>
 </feed>
