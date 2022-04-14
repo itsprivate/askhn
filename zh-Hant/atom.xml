@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T13:29:36.223Z</updated>
+    <updated>2022-04-14T13:50:38.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[同一個人在編程方面的成就能比證明更多嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31026865</id>
+        <link href="https://news.ycombinator.com/item?id=31026865"/>
+        <updated>2022-04-14T13:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can the same individual accomplish more with programming than proofs?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼HN剛剛倒下了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31026659</id>
+        <link href="https://news.ycombinator.com/item?id=31026659"/>
+        <updated>2022-04-14T13:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did HN just go down?]]></summary>
+        <author>
+            <name>chrisshroba</name>
+            <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何阻止網站在其取消訂閱頁面上提供惡意軟件？]]></title>
         <id>https://news.ycombinator.com/item?id=31026497</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>parski</name>
             <uri>https://news.ycombinator.com/user?id=parski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個新的路由器是否值得？]]></title>
-        <id>https://news.ycombinator.com/item?id=30870470</id>
-        <link href="https://news.ycombinator.com/item?id=30870470"/>
-        <updated>2022-03-31T18:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is a new router worth it?]]></summary>
-        <author>
-            <name>gwbas1c</name>
-            <uri>https://news.ycombinator.com/user?id=gwbas1c</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網歷史上運行時間最長的cron job是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30870024</id>
-        <link href="https://news.ycombinator.com/item?id=30870024"/>
-        <updated>2022-03-31T17:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the longest-running cron job in the history of the internet?]]></summary>
-        <author>
-            <name>miej</name>
-            <uri>https://news.ycombinator.com/user?id=miej</uri>
         </author>
     </entry>
 </feed>
