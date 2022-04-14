@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 19:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 19:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果钱不是问题，你会建议一个程序员做什么职位？]]></title>
+            <link>https://news.ycombinator.com/item?id=31032076</link>
+            <guid>https://news.ycombinator.com/item?id=31032076</guid>
+            <pubDate>Thu, 14 Apr 2022 19:26:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: If money were no problem, what chair would you suggest for a programmer?]]></description>
+        </item>
         <item>
             <title><![CDATA[替代Twilio的短信服务？]]></title>
             <link>https://news.ycombinator.com/item?id=31031785</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877567</guid>
             <pubDate>Fri, 01 Apr 2022 12:42:29 GMT</pubDate>
             <description><![CDATA[Ask HN: How to enable 2FA for Google Account to use Authenticator app?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你使用网络搜刮器发现了哪些有趣的数据？]]></title>
-            <link>https://news.ycombinator.com/item?id=30877397</link>
-            <guid>https://news.ycombinator.com/item?id=30877397</guid>
-            <pubDate>Fri, 01 Apr 2022 12:15:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: What interesting data you have found using a web scraper?]]></description>
         </item>
     </channel>
 </rss>

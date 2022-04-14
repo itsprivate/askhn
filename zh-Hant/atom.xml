@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T19:13:28.950Z</updated>
+    <updated>2022-04-14T19:37:34.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果錢不是問題，你會建議一個程序員做什麼職位？]]></title>
+        <id>https://news.ycombinator.com/item?id=31032076</id>
+        <link href="https://news.ycombinator.com/item?id=31032076"/>
+        <updated>2022-04-14T19:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If money were no problem, what chair would you suggest for a programmer?]]></summary>
+        <author>
+            <name>ent101</name>
+            <uri>https://news.ycombinator.com/user?id=ent101</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代Twilio的短信服務？]]></title>
         <id>https://news.ycombinator.com/item?id=31031785</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>butz</name>
             <uri>https://news.ycombinator.com/user?id=butz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用網絡搜刮器發現了哪些有趣的數據？]]></title>
-        <id>https://news.ycombinator.com/item?id=30877397</id>
-        <link href="https://news.ycombinator.com/item?id=30877397"/>
-        <updated>2022-04-01T12:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What interesting data you have found using a web scraper?]]></summary>
-        <author>
-            <name>deadcoder0904</name>
-            <uri>https://news.ycombinator.com/user?id=deadcoder0904</uri>
         </author>
     </entry>
 </feed>
