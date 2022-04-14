@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T11:52:19.686Z</updated>
+    <updated>2022-04-14T13:02:02.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何製作部分渲染的模板的？Django,Rails,HTMx]]></title>
+        <id>https://news.ycombinator.com/item?id=31026160</id>
+        <link href="https://news.ycombinator.com/item?id=31026160"/>
+        <updated>2022-04-14T12:43:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How you make templates for partial rendering?Django,Rails,HTMx]]></summary>
+        <author>
+            <name>sam-mmm</name>
+            <uri>https://news.ycombinator.com/user?id=sam-mmm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網絡釣魚--曾經落入騙局嗎？還是躲過了一次企圖？]]></title>
+        <id>https://news.ycombinator.com/item?id=31026049</id>
+        <link href="https://news.ycombinator.com/item?id=31026049"/>
+        <updated>2022-04-14T12:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Phishing – ever fallen to a scam? Or dodged an attempt?]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我剛剛加入了一家小型上市公司，我想介紹一下GitHub]]></title>
         <id>https://news.ycombinator.com/item?id=31023088</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ak_111</name>
             <uri>https://news.ycombinator.com/user?id=ak_111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司給工程師每週帶薪投資時間？]]></title>
-        <id>https://news.ycombinator.com/item?id=30868180</id>
-        <link href="https://news.ycombinator.com/item?id=30868180"/>
-        <updated>2022-03-31T15:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What companies give engineers weekly paid investment time?]]></summary>
-        <author>
-            <name>mcavaliere</name>
-            <uri>https://news.ycombinator.com/user?id=mcavaliere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[始終在電視儀表盤上的最佳方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30869157</id>
-        <link href="https://news.ycombinator.com/item?id=30869157"/>
-        <updated>2022-03-31T16:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best approach for always on TV dashboard]]></summary>
-        <author>
-            <name>julesie</name>
-            <uri>https://news.ycombinator.com/user?id=julesie</uri>
         </author>
     </entry>
 </feed>
