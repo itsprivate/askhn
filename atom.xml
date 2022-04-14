@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T15:38:30.020Z</updated>
+    <updated>2022-04-14T15:58:19.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我的帖子在HN上没有显示]]></title>
+        <id>https://news.ycombinator.com/item?id=31028544</id>
+        <link href="https://news.ycombinator.com/item?id=31028544"/>
+        <updated>2022-04-14T15:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why my post is not showing on HN]]></summary>
+        <author>
+            <name>nada_ss</name>
+            <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪种存储客户的RSA公钥的方式是正确的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31028480</id>
+        <link href="https://news.ycombinator.com/item?id=31028480"/>
+        <updated>2022-04-14T15:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which way for storing client's RSA public key is correct?]]></summary>
+        <author>
+            <name>airswimmer</name>
+            <uri>https://news.ycombinator.com/user?id=airswimmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你发现的预测业绩的面试方式是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31028095</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hashimotonomora</name>
             <uri>https://news.ycombinator.com/user?id=hashimotonomora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你何时会放弃硅谷？]]></title>
-        <id>https://news.ycombinator.com/item?id=30873861</id>
-        <link href="https://news.ycombinator.com/item?id=30873861"/>
-        <updated>2022-04-01T00:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When do you give up on Silicon Valley?]]></summary>
-        <author>
-            <name>throwaway_cmon</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway_cmon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有些学校不对家长隐瞒成绩以避免让他们不高兴？]]></title>
-        <id>https://news.ycombinator.com/item?id=30873670</id>
-        <link href="https://news.ycombinator.com/item?id=30873670"/>
-        <updated>2022-04-01T00:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don’t some schools hide grades from parents to avoid upsetting them?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>

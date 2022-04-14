@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 15:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼我的帖子在HN上沒有顯示]]></title>
+            <link>https://news.ycombinator.com/item?id=31028544</link>
+            <guid>https://news.ycombinator.com/item?id=31028544</guid>
+            <pubDate>Thu, 14 Apr 2022 15:49:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why my post is not showing on HN]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哪種存儲客戶的RSA公鑰的方式是正確的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31028480</link>
+            <guid>https://news.ycombinator.com/item?id=31028480</guid>
+            <pubDate>Thu, 14 Apr 2022 15:45:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which way for storing client's RSA public key is correct?]]></description>
+        </item>
         <item>
             <title><![CDATA[你發現的預測業績的面試方式是什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=31028095</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30873995</guid>
             <pubDate>Fri, 01 Apr 2022 00:46:52 GMT</pubDate>
             <description><![CDATA[Ask HN: How can you know if VPNs (e.g. Mullvad) are legitimate or gov honeypots?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你何時會放棄硅谷？]]></title>
-            <link>https://news.ycombinator.com/item?id=30873861</link>
-            <guid>https://news.ycombinator.com/item?id=30873861</guid>
-            <pubDate>Fri, 01 Apr 2022 00:26:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: When do you give up on Silicon Valley?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼有些學校不對家長隱瞞成績以避免讓他們不高興？]]></title>
-            <link>https://news.ycombinator.com/item?id=30873670</link>
-            <guid>https://news.ycombinator.com/item?id=30873670</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why don’t some schools hide grades from parents to avoid upsetting them?]]></description>
         </item>
     </channel>
 </rss>
