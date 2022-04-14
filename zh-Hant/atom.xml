@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T14:12:26.650Z</updated>
+    <updated>2022-04-14T14:40:00.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有一個標準的網絡音頻協議？]]></title>
+        <id>https://news.ycombinator.com/item?id=31027526</id>
+        <link href="https://news.ycombinator.com/item?id=31027526"/>
+        <updated>2022-04-14T14:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't there a standard network audio protocol?]]></summary>
+        <author>
+            <name>armagon</name>
+            <uri>https://news.ycombinator.com/user?id=armagon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在尋找一個小型電子商務的哪些功能？]]></title>
         <id>https://news.ycombinator.com/item?id=31027132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>canyonero</name>
             <uri>https://news.ycombinator.com/user?id=canyonero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你是搞技術的，你會怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30870982</id>
-        <link href="https://news.ycombinator.com/item?id=30870982"/>
-        <updated>2022-03-31T18:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would you do if you were in tech?]]></summary>
-        <author>
-            <name>nowherebeen</name>
-            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
         </author>
     </entry>
 </feed>
