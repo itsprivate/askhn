@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T18:16:14.307Z</updated>
+    <updated>2022-04-14T18:38:20.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TinyDNS的网站是否被巧妙地黑掉了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31031238</id>
+        <link href="https://news.ycombinator.com/item?id=31031238"/>
+        <updated>2022-04-14T18:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has TinyDNS' Site Been Subtly Hacked?]]></summary>
+        <author>
+            <name>no-dr-onboard</name>
+            <uri>https://news.ycombinator.com/user?id=no-dr-onboard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么办法可以让线条画得更流畅，也许可以转换为贝塞尔曲线？]]></title>
+        <id>https://news.ycombinator.com/item?id=31031112</id>
+        <link href="https://news.ycombinator.com/item?id=31031112"/>
+        <updated>2022-04-14T18:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any solution to smooth line drawings, maybe converts to bezier?]]></summary>
+        <author>
+            <name>Gys</name>
+            <uri>https://news.ycombinator.com/user?id=Gys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新闻上的混音评论按钮？]]></title>
         <id>https://news.ycombinator.com/item?id=31030765</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ChaitanyaSai</name>
             <uri>https://news.ycombinator.com/user?id=ChaitanyaSai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何获得安全建议的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30876419</id>
-        <link href="https://news.ycombinator.com/item?id=30876419"/>
-        <updated>2022-04-01T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you get security advisories?]]></summary>
-        <author>
-            <name>jimsi</name>
-            <uri>https://news.ycombinator.com/user?id=jimsi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能帮助反对虚假信息？]]></title>
-        <id>https://news.ycombinator.com/item?id=30876380</id>
-        <link href="https://news.ycombinator.com/item?id=30876380"/>
-        <updated>2022-04-01T08:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I help against disinformation?]]></summary>
-        <author>
-            <name>arisAlexis</name>
-            <uri>https://news.ycombinator.com/user?id=arisAlexis</uri>
         </author>
     </entry>
 </feed>

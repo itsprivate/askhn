@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 18:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TinyDNS的網站是否被巧妙地黑掉了？]]></title>
+            <link>https://news.ycombinator.com/item?id=31031238</link>
+            <guid>https://news.ycombinator.com/item?id=31031238</guid>
+            <pubDate>Thu, 14 Apr 2022 18:29:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has TinyDNS' Site Been Subtly Hacked?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有什麼辦法可以讓線條畫得更流暢，也許可以轉換為貝塞爾曲線？]]></title>
+            <link>https://news.ycombinator.com/item?id=31031112</link>
+            <guid>https://news.ycombinator.com/item?id=31031112</guid>
+            <pubDate>Thu, 14 Apr 2022 18:20:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any solution to smooth line drawings, maybe converts to bezier?]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客新聞上的混音評論按鈕？]]></title>
             <link>https://news.ycombinator.com/item?id=31030765</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877025</guid>
             <pubDate>Fri, 01 Apr 2022 11:12:37 GMT</pubDate>
             <description><![CDATA[Ask HN: Good, lightweight 2D animation engines for Android/iOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何獲得安全建議的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30876419</link>
-            <guid>https://news.ycombinator.com/item?id=30876419</guid>
-            <pubDate>Fri, 01 Apr 2022 09:09:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you get security advisories?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我怎樣才能幫助反對虛假信息？]]></title>
-            <link>https://news.ycombinator.com/item?id=30876380</link>
-            <guid>https://news.ycombinator.com/item?id=30876380</guid>
-            <pubDate>Fri, 01 Apr 2022 08:56:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I help against disinformation?]]></description>
         </item>
     </channel>
 </rss>
