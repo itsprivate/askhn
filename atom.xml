@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T19:37:34.531Z</updated>
+    <updated>2022-04-14T20:45:21.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最近的帖子包含美丽的单页笔记？]]></title>
+        <id>https://news.ycombinator.com/item?id=31032943</id>
+        <link href="https://news.ycombinator.com/item?id=31032943"/>
+        <updated>2022-04-14T20:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recent post containing beautiful single page notes?]]></summary>
+        <author>
+            <name>more_corn</name>
+            <uri>https://news.ycombinator.com/user?id=more_corn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在不破坏早期水平的情况下逐步引入游戏规则？]]></title>
+        <id>https://news.ycombinator.com/item?id=31032888</id>
+        <link href="https://news.ycombinator.com/item?id=31032888"/>
+        <updated>2022-04-14T20:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to introduce game rules gradually without breaking earlier levels?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果钱不是问题，你会建议一个程序员做什么职位？]]></title>
         <id>https://news.ycombinator.com/item?id=31032076</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳编程播客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30877628</id>
-        <link href="https://news.ycombinator.com/item?id=30877628"/>
-        <updated>2022-04-01T12:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Programming Podcasts?]]></summary>
-        <author>
-            <name>vaughan</name>
-            <uri>https://news.ycombinator.com/user?id=vaughan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为谷歌账户启用2FA以使用Authenticator应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30877567</id>
-        <link href="https://news.ycombinator.com/item?id=30877567"/>
-        <updated>2022-04-01T12:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to enable 2FA for Google Account to use Authenticator app?]]></summary>
-        <author>
-            <name>butz</name>
-            <uri>https://news.ycombinator.com/user?id=butz</uri>
         </author>
     </entry>
 </feed>
