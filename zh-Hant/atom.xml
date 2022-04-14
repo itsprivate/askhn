@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T10:16:03.662Z</updated>
+    <updated>2022-04-14T10:39:06.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰在僱用加拿大人？]]></title>
+        <id>https://news.ycombinator.com/item?id=31025080</id>
+        <link href="https://news.ycombinator.com/item?id=31025080"/>
+        <updated>2022-04-14T10:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Is Hiring in Canada?]]></summary>
+        <author>
+            <name>rpi1337</name>
+            <uri>https://news.ycombinator.com/user?id=rpi1337</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你認為密碼管理器應用程序中哪些功能是必不可少的？]]></title>
         <id>https://news.ycombinator.com/item?id=31024984</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kkotic</name>
             <uri>https://news.ycombinator.com/user?id=kkotic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潛意識信息發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30868503</id>
-        <link href="https://news.ycombinator.com/item?id=30868503"/>
-        <updated>2022-03-31T15:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Subliminal Messaging?]]></summary>
-        <author>
-            <name>b_u_n_n_y</name>
-            <uri>https://news.ycombinator.com/user?id=b_u_n_n_y</uri>
         </author>
     </entry>
 </feed>
