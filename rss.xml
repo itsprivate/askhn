@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 15:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 16:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蔚蓝的用户，最近槽位交换坏了吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=31029192</link>
+            <guid>https://news.ycombinator.com/item?id=31029192</guid>
+            <pubDate>Thu, 14 Apr 2022 16:28:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: Azure users, are slot swaps broken lately?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何赚取一百万美元？]]></title>
+            <link>https://news.ycombinator.com/item?id=31028927</link>
+            <guid>https://news.ycombinator.com/item?id=31028927</guid>
+            <pubDate>Thu, 14 Apr 2022 16:12:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Make 1M $?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我的帖子在HN上没有显示]]></title>
             <link>https://news.ycombinator.com/item?id=31028544</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30874967</guid>
             <pubDate>Fri, 01 Apr 2022 03:46:44 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a technical writeup on the implementation of Hacker News?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在一个组织内推动技术变革的模式或反模式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30874032</link>
-            <guid>https://news.ycombinator.com/item?id=30874032</guid>
-            <pubDate>Fri, 01 Apr 2022 00:52:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Patterns or anti-patterns for driving technical change within an org?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你怎么能知道VPN（如Mullvad）是合法的还是政府的蜜罐？]]></title>
-            <link>https://news.ycombinator.com/item?id=30873995</link>
-            <guid>https://news.ycombinator.com/item?id=30873995</guid>
-            <pubDate>Fri, 01 Apr 2022 00:46:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can you know if VPNs (e.g. Mullvad) are legitimate or gov honeypots?]]></description>
         </item>
     </channel>
 </rss>
