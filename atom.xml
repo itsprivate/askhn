@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T03:31:44.483Z</updated>
+    <updated>2022-04-14T05:31:07.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当你的网络为零时如何建立一个创业公司]]></title>
+        <id>https://news.ycombinator.com/item?id=31023685</id>
+        <link href="https://news.ycombinator.com/item?id=31023685"/>
+        <updated>2022-04-14T05:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to build a startup when your network is zero]]></summary>
+        <author>
+            <name>kaliyarachan</name>
+            <uri>https://news.ycombinator.com/user?id=kaliyarachan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用M1力量的想法]]></title>
         <id>https://news.ycombinator.com/item?id=31023012</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anyfactor</name>
             <uri>https://news.ycombinator.com/user?id=anyfactor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对招聘过程中的拒绝提出异议]]></title>
-        <id>https://news.ycombinator.com/item?id=30866771</id>
-        <link href="https://news.ycombinator.com/item?id=30866771"/>
-        <updated>2022-03-31T13:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Challenging a Rejection in a Recruitment Process]]></summary>
-        <author>
-            <name>97-109-107</name>
-            <uri>https://news.ycombinator.com/user?id=97-109-107</uri>
         </author>
     </entry>
 </feed>
