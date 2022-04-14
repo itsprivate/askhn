@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-13T22:42:05.437Z</updated>
+    <updated>2022-04-14T02:34:25.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算机科学是一个可行的领域吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31022449</id>
+        <link href="https://news.ycombinator.com/item?id=31022449"/>
+        <updated>2022-04-14T01:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is computer science a viable field?]]></summary>
+        <author>
+            <name>Drainik</name>
+            <uri>https://news.ycombinator.com/user?id=Drainik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音乐在你的生活中起着重要作用吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31022392</id>
+        <link href="https://news.ycombinator.com/item?id=31022392"/>
+        <updated>2022-04-14T01:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does music play a significant role in your life?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前有什么让你对网络开发感到兴奋？]]></title>
+        <id>https://news.ycombinator.com/item?id=31022360</id>
+        <link href="https://news.ycombinator.com/item?id=31022360"/>
+        <updated>2022-04-14T01:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What excites you about web development at the moment?]]></summary>
+        <author>
+            <name>splatzone</name>
+            <uri>https://news.ycombinator.com/user?id=splatzone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁放弃了寻找工作？]]></title>
         <id>https://news.ycombinator.com/item?id=31021129</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jamespaden</name>
             <uri>https://news.ycombinator.com/user?id=jamespaden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术博客有哪些好的风格/布局？]]></title>
-        <id>https://news.ycombinator.com/item?id=30866536</id>
-        <link href="https://news.ycombinator.com/item?id=30866536"/>
-        <updated>2022-03-31T12:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good styles/layouts for technical blogs?]]></summary>
-        <author>
-            <name>labarilem</name>
-            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可以从任何地方打开的Mac OS应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30865948</id>
-        <link href="https://news.ycombinator.com/item?id=30865948"/>
-        <updated>2022-03-31T11:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Mac OS app that can be opened from anywhere]]></summary>
-        <author>
-            <name>mrfafa</name>
-            <uri>https://news.ycombinator.com/user?id=mrfafa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名编码员，你是否采用刻意记忆的方式来提高工作效率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865898</id>
-        <link href="https://news.ycombinator.com/item?id=30865898"/>
-        <updated>2022-03-31T11:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: As a coder, do you use deliberate memorization to be more efficient?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
         </author>
     </entry>
 </feed>
