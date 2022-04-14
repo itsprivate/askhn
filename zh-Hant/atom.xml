@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T10:39:06.412Z</updated>
+    <updated>2022-04-14T11:52:19.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我剛剛加入了一家小型上市公司，我想介紹一下GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=31023088</id>
+        <link href="https://news.ycombinator.com/item?id=31023088"/>
+        <updated>2022-04-14T03:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I just joined a small but public company and I want to introduce GitHub]]></summary>
+        <author>
+            <name>throwaway415864</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway415864</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰在僱用加拿大人？]]></title>
         <id>https://news.ycombinator.com/item?id=31025080</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>julesie</name>
             <uri>https://news.ycombinator.com/user?id=julesie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Java到.NET上手的最快方法是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30868767</id>
-        <link href="https://news.ycombinator.com/item?id=30868767"/>
-        <updated>2022-03-31T16:08:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the fastest way to get hands-on with .NET from Java?]]></summary>
-        <author>
-            <name>kkotic</name>
-            <uri>https://news.ycombinator.com/user?id=kkotic</uri>
         </author>
     </entry>
 </feed>

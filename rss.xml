@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 10:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 11:52:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我刚刚加入了一家小型上市公司，我想介绍一下GitHub]]></title>
+            <link>https://news.ycombinator.com/item?id=31023088</link>
+            <guid>https://news.ycombinator.com/item?id=31023088</guid>
+            <pubDate>Thu, 14 Apr 2022 03:18:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: I just joined a small but public company and I want to introduce GitHub]]></description>
+        </item>
         <item>
             <title><![CDATA[谁在雇用加拿大人？]]></title>
             <link>https://news.ycombinator.com/item?id=31025080</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30869157</guid>
             <pubDate>Thu, 31 Mar 2022 16:32:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Best approach for always on TV dashboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Java到.NET上手的最快方法是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30868767</link>
-            <guid>https://news.ycombinator.com/item?id=30868767</guid>
-            <pubDate>Thu, 31 Mar 2022 16:08:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the fastest way to get hands-on with .NET from Java?]]></description>
         </item>
     </channel>
 </rss>
