@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T09:13:34.376Z</updated>
+    <updated>2022-04-14T09:52:26.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，音樂播放器是否仍然具有潮流價值？]]></title>
+        <id>https://news.ycombinator.com/item?id=31024806</id>
+        <link href="https://news.ycombinator.com/item?id=31024806"/>
+        <updated>2022-04-14T09:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are music players still trend-worthy in 2022?]]></summary>
+        <author>
+            <name>Paje_mx</name>
+            <uri>https://news.ycombinator.com/user?id=Paje_mx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在iOS上進行基本的圖像編輯？]]></title>
         <id>https://news.ycombinator.com/item?id=31024696</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lostsoul8282</name>
             <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是 "錯誤信息記者"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30867999</id>
-        <link href="https://news.ycombinator.com/item?id=30867999"/>
-        <updated>2022-03-31T15:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Is a 'Misinformation Reporter']]></summary>
-        <author>
-            <name>greenail</name>
-            <uri>https://news.ycombinator.com/user?id=greenail</uri>
         </author>
     </entry>
 </feed>
