@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 16:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你會和4-6個陌生人一起住在Airbnb嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31029861</link>
+            <guid>https://news.ycombinator.com/item?id=31029861</guid>
+            <pubDate>Thu, 14 Apr 2022 17:07:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Would you Airbnb with 4-6 strangers?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你對你的同事有多瞭解？]]></title>
+            <link>https://news.ycombinator.com/item?id=31029698</link>
+            <guid>https://news.ycombinator.com/item?id=31029698</guid>
+            <pubDate>Thu, 14 Apr 2022 16:59:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: How well do you know your colleagues?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[財富500強公司有一個全新的高管團隊，是時候離開了？]]></title>
+            <link>https://news.ycombinator.com/item?id=31029536</link>
+            <guid>https://news.ycombinator.com/item?id=31029536</guid>
+            <pubDate>Thu, 14 Apr 2022 16:48:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Fortune 500 company with a whole new team of executives, time to leave?]]></description>
+        </item>
         <item>
             <title><![CDATA[蔚藍的用戶，最近槽位交換壞了嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=31029192</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30876179</guid>
             <pubDate>Fri, 01 Apr 2022 08:15:30 GMT</pubDate>
             <description><![CDATA[Ask HN: Companies innovating with WebAssembly?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的團隊有警報的運行簿嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30875614</link>
-            <guid>https://news.ycombinator.com/item?id=30875614</guid>
-            <pubDate>Fri, 01 Apr 2022 06:11:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does your team have runbooks for alerts?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[家庭網絡設計的最佳實踐]]></title>
-            <link>https://news.ycombinator.com/item?id=30875035</link>
-            <guid>https://news.ycombinator.com/item?id=30875035</guid>
-            <pubDate>Fri, 01 Apr 2022 03:59:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best practice for home network design]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有關於實施Hacker News的技術文章？]]></title>
-            <link>https://news.ycombinator.com/item?id=30874967</link>
-            <guid>https://news.ycombinator.com/item?id=30874967</guid>
-            <pubDate>Fri, 01 Apr 2022 03:46:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a technical writeup on the implementation of Hacker News?]]></description>
         </item>
     </channel>
 </rss>

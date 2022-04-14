@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T16:52:55.204Z</updated>
+    <updated>2022-04-14T17:22:04.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会和4-6个陌生人一起住在Airbnb吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31029861</id>
+        <link href="https://news.ycombinator.com/item?id=31029861"/>
+        <updated>2022-04-14T17:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you Airbnb with 4-6 strangers?]]></summary>
+        <author>
+            <name>bjpless</name>
+            <uri>https://news.ycombinator.com/user?id=bjpless</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你对你的同事有多了解？]]></title>
+        <id>https://news.ycombinator.com/item?id=31029698</id>
+        <link href="https://news.ycombinator.com/item?id=31029698"/>
+        <updated>2022-04-14T16:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How well do you know your colleagues?]]></summary>
+        <author>
+            <name>miikavonbell</name>
+            <uri>https://news.ycombinator.com/user?id=miikavonbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[财富500强公司有一个全新的高管团队，是时候离开了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31029536</id>
+        <link href="https://news.ycombinator.com/item?id=31029536"/>
+        <updated>2022-04-14T16:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Fortune 500 company with a whole new team of executives, time to leave?]]></summary>
+        <author>
+            <name>JobReplacing</name>
+            <uri>https://news.ycombinator.com/user?id=JobReplacing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蔚蓝的用户，最近槽位交换坏了吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31029192</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>talhof8</name>
             <uri>https://news.ycombinator.com/user?id=talhof8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的团队有警报的运行簿吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30875614</id>
-        <link href="https://news.ycombinator.com/item?id=30875614"/>
-        <updated>2022-04-01T06:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does your team have runbooks for alerts?]]></summary>
-        <author>
-            <name>rozenmd</name>
-            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭网络设计的最佳实践]]></title>
-        <id>https://news.ycombinator.com/item?id=30875035</id>
-        <link href="https://news.ycombinator.com/item?id=30875035"/>
-        <updated>2022-04-01T03:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best practice for home network design]]></summary>
-        <author>
-            <name>kjellsbells</name>
-            <uri>https://news.ycombinator.com/user?id=kjellsbells</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有关于实施Hacker News的技术文章？]]></title>
-        <id>https://news.ycombinator.com/item?id=30874967</id>
-        <link href="https://news.ycombinator.com/item?id=30874967"/>
-        <updated>2022-04-01T03:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a technical writeup on the implementation of Hacker News?]]></summary>
-        <author>
-            <name>brundolf</name>
-            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
         </author>
     </entry>
 </feed>
