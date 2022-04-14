@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哪里是托管mercurial代码库的最佳地点？]]></title>
+            <link>https://news.ycombinator.com/item?id=31033752</link>
+            <guid>https://news.ycombinator.com/item?id=31033752</guid>
+            <pubDate>Thu, 14 Apr 2022 21:50:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where is the best place to host mercurial code repos?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你今天开一家公司，你会使用什么技术栈？]]></title>
             <link>https://news.ycombinator.com/item?id=31033391</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30878760</guid>
             <pubDate>Fri, 01 Apr 2022 15:02:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Freelancer? Seeking freelancer? (April 2022)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁想被录用？(2022年4月)]]></title>
-            <link>https://news.ycombinator.com/item?id=30878759</link>
-            <guid>https://news.ycombinator.com/item?id=30878759</guid>
-            <pubDate>Fri, 01 Apr 2022 15:02:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who wants to be hired? (April 2022)]]></description>
         </item>
     </channel>
 </rss>
