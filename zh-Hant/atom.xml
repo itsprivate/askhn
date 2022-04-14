@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-14T15:15:04.057Z</updated>
+    <updated>2022-04-14T15:38:30.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你發現的預測業績的面試方式是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31028095</id>
+        <link href="https://news.ycombinator.com/item?id=31028095"/>
+        <updated>2022-04-14T15:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ways of interviewing you found to be predictive of performance?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於探索性分析10-100GB圖表的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31027933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼簡單易行的方法可以與人進行專業的在線聊天？]]></title>
-        <id>https://news.ycombinator.com/item?id=30873561</id>
-        <link href="https://news.ycombinator.com/item?id=30873561"/>
-        <updated>2022-03-31T23:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a simple easy way to chat online with someone professionally?]]></summary>
-        <author>
-            <name>ilrwbwrkhv</name>
-            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
         </author>
     </entry>
 </feed>
