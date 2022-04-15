@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T11:12:14.942Z</updated>
+    <updated>2022-04-15T11:30:43.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會如何與一群人保持10年的聯繫？]]></title>
+        <id>https://news.ycombinator.com/item?id=31038863</id>
+        <link href="https://news.ycombinator.com/item?id=31038863"/>
+        <updated>2022-04-15T11:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you keep in touch with a group of people for 10 years?]]></summary>
+        <author>
+            <name>sodality2</name>
+            <uri>https://news.ycombinator.com/user?id=sodality2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將LaTeX數學納入演示文稿幻燈片的最佳方式？]]></title>
+        <id>https://news.ycombinator.com/item?id=31038841</id>
+        <link href="https://news.ycombinator.com/item?id=31038841"/>
+        <updated>2022-04-15T11:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best way to include LaTeX math in presentation slides?]]></summary>
+        <author>
+            <name>john-titor</name>
+            <uri>https://news.ycombinator.com/user?id=john-titor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foursquare發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31038699</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>david927</name>
             <uri>https://news.ycombinator.com/user?id=david927</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際象棋的替代品，人類頂級棋手比計算機更強？]]></title>
-        <id>https://news.ycombinator.com/item?id=30883103</id>
-        <link href="https://news.ycombinator.com/item?id=30883103"/>
-        <updated>2022-04-01T20:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternatives to chess where top human players are better than computers?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在創業公司的世界裡，"建立它，他們就會來 "的說法什麼時候起過作用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30882974</id>
-        <link href="https://news.ycombinator.com/item?id=30882974"/>
-        <updated>2022-04-01T20:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When has “build it and they will come” worked in the startup world?]]></summary>
-        <author>
-            <name>arjunb023</name>
-            <uri>https://news.ycombinator.com/user?id=arjunb023</uri>
         </author>
     </entry>
 </feed>
