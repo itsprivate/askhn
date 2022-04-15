@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T20:35:06.945Z</updated>
+    <updated>2022-04-15T20:52:04.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在荷蘭的一家創業公司被愚弄了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31045615</id>
+        <link href="https://news.ycombinator.com/item?id=31045615"/>
+        <updated>2022-04-15T20:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I being fooled at a Dutch startup?]]></summary>
+        <author>
+            <name>throwaway106720</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway106720</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能語言模型是否也讓搜索引擎對你無法使用？]]></title>
         <id>https://news.ycombinator.com/item?id=31045373</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mettamage</name>
             <uri>https://news.ycombinator.com/user?id=mettamage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3k個博物館提交數據。怎麼會這樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30887223</id>
-        <link href="https://news.ycombinator.com/item?id=30887223"/>
-        <updated>2022-04-02T10:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: 3k museums submitting data. How?]]></summary>
-        <author>
-            <name>dmje</name>
-            <uri>https://news.ycombinator.com/user?id=dmje</uri>
         </author>
     </entry>
 </feed>
