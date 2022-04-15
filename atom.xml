@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T02:55:35.711Z</updated>
+    <updated>2022-04-15T04:33:15.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当两位同事都认为对方是错的时候，该如何进行？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036540</id>
+        <link href="https://news.ycombinator.com/item?id=31036540"/>
+        <updated>2022-04-15T04:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When both colleagues think the other is wrong, how to proceed?]]></summary>
+        <author>
+            <name>throwaway488933</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway488933</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊搜索发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036537</id>
+        <link href="https://news.ycombinator.com/item?id=31036537"/>
+        <updated>2022-04-15T04:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's Going on with Amazon Search?]]></summary>
+        <author>
+            <name>mywaifuismeta</name>
+            <uri>https://news.ycombinator.com/user?id=mywaifuismeta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在寻找一篇关于游戏编程的具体博文，有什么帮助吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036500</id>
+        <link href="https://news.ycombinator.com/item?id=31036500"/>
+        <updated>2022-04-15T03:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm looking for a specific blog post about game programming, any help?]]></summary>
+        <author>
+            <name>ChadNauseam</name>
+            <uri>https://news.ycombinator.com/user?id=ChadNauseam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何应对墙对墙的缩放会议的？]]></title>
         <id>https://news.ycombinator.com/item?id=31035906</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pranshum</name>
             <uri>https://news.ycombinator.com/user?id=pranshum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN上有谁在打造产品时需要营销帮助？]]></title>
-        <id>https://news.ycombinator.com/item?id=30880715</id>
-        <link href="https://news.ycombinator.com/item?id=30880715"/>
-        <updated>2022-04-01T17:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone on HN building a product need marketing help?]]></summary>
-        <author>
-            <name>akippity</name>
-            <uri>https://news.ycombinator.com/user?id=akippity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[列出顶级钱币持有者的API？]]></title>
-        <id>https://news.ycombinator.com/item?id=30880480</id>
-        <link href="https://news.ycombinator.com/item?id=30880480"/>
-        <updated>2022-04-01T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: An API to list top coin holders?]]></summary>
-        <author>
-            <name>visox</name>
-            <uri>https://news.ycombinator.com/user?id=visox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们为什么要为大规模生产的印刷电路板进行丝网印刷？]]></title>
-        <id>https://news.ycombinator.com/item?id=30880439</id>
-        <link href="https://news.ycombinator.com/item?id=30880439"/>
-        <updated>2022-04-01T16:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do we bother screenprinting mass-produced PCBs?]]></summary>
-        <author>
-            <name>mwint</name>
-            <uri>https://news.ycombinator.com/user?id=mwint</uri>
         </author>
     </entry>
 </feed>
