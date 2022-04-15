@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T04:33:15.619Z</updated>
+    <updated>2022-04-15T05:43:07.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個參與的公民可以做什麼來為世界做出貢獻？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036843</id>
+        <link href="https://news.ycombinator.com/item?id=31036843"/>
+        <updated>2022-04-15T05:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What can an engaged citizen do to contribute to the world?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當兩位同事都認為對方是錯的時候，該如何進行？]]></title>
         <id>https://news.ycombinator.com/item?id=31036540</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>killjoywashere</name>
             <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理你的投資？]]></title>
-        <id>https://news.ycombinator.com/item?id=30881071</id>
-        <link href="https://news.ycombinator.com/item?id=30881071"/>
-        <updated>2022-04-01T17:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your investments?]]></summary>
-        <author>
-            <name>pranshum</name>
-            <uri>https://news.ycombinator.com/user?id=pranshum</uri>
         </author>
     </entry>
 </feed>
