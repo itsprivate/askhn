@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T20:52:04.830Z</updated>
+    <updated>2022-04-15T21:12:17.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与第三方共享密码？]]></title>
+        <id>https://news.ycombinator.com/item?id=31045777</id>
+        <link href="https://news.ycombinator.com/item?id=31045777"/>
+        <updated>2022-04-15T21:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Password Sharing with 3rd Parties?]]></summary>
+        <author>
+            <name>manyManny</name>
+            <uri>https://news.ycombinator.com/user?id=manyManny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在荷兰的一家创业公司被愚弄了吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31045615</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thebitrot</name>
             <uri>https://news.ycombinator.com/user?id=thebitrot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在美国和欧盟都工作过的软件工程师，哪一个？]]></title>
-        <id>https://news.ycombinator.com/item?id=30887716</id>
-        <link href="https://news.ycombinator.com/item?id=30887716"/>
-        <updated>2022-04-02T12:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Software engineers that have worked in both US and EU, which one?]]></summary>
-        <author>
-            <name>mettamage</name>
-            <uri>https://news.ycombinator.com/user?id=mettamage</uri>
         </author>
     </entry>
 </feed>
