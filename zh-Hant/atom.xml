@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T15:13:54.428Z</updated>
+    <updated>2022-04-15T15:37:33.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在生產中使用Solaris嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31041331</id>
+        <link href="https://news.ycombinator.com/item?id=31041331"/>
+        <updated>2022-04-15T15:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone use Solaris in production?]]></summary>
+        <author>
+            <name>phendrenad2</name>
+            <uri>https://news.ycombinator.com/user?id=phendrenad2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你為哪些贊助人/Substacks付費？]]></title>
+        <id>https://news.ycombinator.com/item?id=31041102</id>
+        <link href="https://news.ycombinator.com/item?id=31041102"/>
+        <updated>2022-04-15T15:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Patreons / Substacks do you pay for?]]></summary>
+        <author>
+            <name>admn2</name>
+            <uri>https://news.ycombinator.com/user?id=admn2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創始人--你是在哪裡學會做銷售的？]]></title>
         <id>https://news.ycombinator.com/item?id=31041062</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>xoptions</name>
             <uri>https://news.ycombinator.com/user?id=xoptions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真空管是否有助於發展晶體管？]]></title>
-        <id>https://news.ycombinator.com/item?id=30885031</id>
-        <link href="https://news.ycombinator.com/item?id=30885031"/>
-        <updated>2022-04-02T01:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did vacuum tubes help develop transistors?]]></summary>
-        <author>
-            <name>hyperpallium2</name>
-            <uri>https://news.ycombinator.com/user?id=hyperpallium2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這裡有人是加拿大或美國的 "自由運動 "的一部分嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30885010</id>
-        <link href="https://news.ycombinator.com/item?id=30885010"/>
-        <updated>2022-04-02T01:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone Here Part of the “Freedom Movement” in Canada or the USA?]]></summary>
-        <author>
-            <name>Jonovono</name>
-            <uri>https://news.ycombinator.com/user?id=Jonovono</uri>
         </author>
     </entry>
 </feed>
