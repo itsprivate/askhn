@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T20:14:07.012Z</updated>
+    <updated>2022-04-15T20:35:06.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能语言模型是否也让搜索引擎对你无法使用？]]></title>
+        <id>https://news.ycombinator.com/item?id=31045373</id>
+        <link href="https://news.ycombinator.com/item?id=31045373"/>
+        <updated>2022-04-15T20:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are AI language models making search engines unusable for you too?]]></summary>
+        <author>
+            <name>f38zf5vdt</name>
+            <uri>https://news.ycombinator.com/user?id=f38zf5vdt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果马斯克成功收购了推特，推特应该加入联邦宇宙吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31044990</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dmje</name>
             <uri>https://news.ycombinator.com/user?id=dmje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有免费的航班API？]]></title>
-        <id>https://news.ycombinator.com/item?id=30886809</id>
-        <link href="https://news.ycombinator.com/item?id=30886809"/>
-        <updated>2022-04-02T08:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a free flights API?]]></summary>
-        <author>
-            <name>trashtestcrash</name>
-            <uri>https://news.ycombinator.com/user?id=trashtestcrash</uri>
         </author>
     </entry>
 </feed>
