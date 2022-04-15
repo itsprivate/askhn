@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T21:12:17.877Z</updated>
+    <updated>2022-04-15T21:41:27.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推薦用於家庭辦公室的路由器]]></title>
+        <id>https://news.ycombinator.com/item?id=31046088</id>
+        <link href="https://news.ycombinator.com/item?id=31046088"/>
+        <updated>2022-04-15T21:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended Router for Home Office]]></summary>
+        <author>
+            <name>lax4ever</name>
+            <uri>https://news.ycombinator.com/user?id=lax4ever</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與第三方共享密碼？]]></title>
         <id>https://news.ycombinator.com/item?id=31045777</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>username_my1</name>
             <uri>https://news.ycombinator.com/user?id=username_my1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼雲供應商不能提供預付費選項？]]></title>
-        <id>https://news.ycombinator.com/item?id=30887789</id>
-        <link href="https://news.ycombinator.com/item?id=30887789"/>
-        <updated>2022-04-02T12:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why can't cloud providers offer a prepay option?]]></summary>
-        <author>
-            <name>thebitrot</name>
-            <uri>https://news.ycombinator.com/user?id=thebitrot</uri>
         </author>
     </entry>
 </feed>
