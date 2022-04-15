@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T19:31:10.706Z</updated>
+    <updated>2022-04-15T20:14:07.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果馬斯克成功收購了推特，推特應該加入聯邦宇宙嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31044990</id>
+        <link href="https://news.ycombinator.com/item?id=31044990"/>
+        <updated>2022-04-15T19:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If Musk succeeded in buying Twitter, should Twitter join the Fediverse?]]></summary>
+        <author>
+            <name>drKarl</name>
+            <uri>https://news.ycombinator.com/user?id=drKarl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什麼方法來集中注意力並保持放鬆？]]></title>
         <id>https://news.ycombinator.com/item?id=31044532</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>trashtestcrash</name>
             <uri>https://news.ycombinator.com/user?id=trashtestcrash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建立創新工程文化？(案例研究/視頻？)]]></title>
-        <id>https://news.ycombinator.com/item?id=30886783</id>
-        <link href="https://news.ycombinator.com/item?id=30886783"/>
-        <updated>2022-04-02T08:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to build innovation engineering culture? (case Studies/ Videos?)]]></summary>
-        <author>
-            <name>Anurag8701</name>
-            <uri>https://news.ycombinator.com/user?id=Anurag8701</uri>
         </author>
     </entry>
 </feed>
