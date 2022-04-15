@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T05:43:07.779Z</updated>
+    <updated>2022-04-15T06:58:16.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[组织不同时区的会议]]></title>
+        <id>https://news.ycombinator.com/item?id=31037256</id>
+        <link href="https://news.ycombinator.com/item?id=31037256"/>
+        <updated>2022-04-15T06:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Organize meetings across different timezones]]></summary>
+        <author>
+            <name>SevrainHacker</name>
+            <uri>https://news.ycombinator.com/user?id=SevrainHacker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir的情况如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=31037183</id>
+        <link href="https://news.ycombinator.com/item?id=31037183"/>
+        <updated>2022-04-15T06:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whatever Happened to Elixir?]]></summary>
+        <author>
+            <name>princevegeta89</name>
+            <uri>https://news.ycombinator.com/user?id=princevegeta89</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个参与的公民可以做什么来为世界做出贡献？]]></title>
         <id>https://news.ycombinator.com/item?id=31036843</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Sincere</name>
             <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在FB/Instagram上用冷冰冰的DMing有什么风险？]]></title>
-        <id>https://news.ycombinator.com/item?id=30881202</id>
-        <link href="https://news.ycombinator.com/item?id=30881202"/>
-        <updated>2022-04-01T17:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Risk with cold DMing on FB / Instagram?]]></summary>
-        <author>
-            <name>qnsi</name>
-            <uri>https://news.ycombinator.com/user?id=qnsi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你明年要参加哪些会议？]]></title>
-        <id>https://news.ycombinator.com/item?id=30881128</id>
-        <link href="https://news.ycombinator.com/item?id=30881128"/>
-        <updated>2022-04-01T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which conferences are you going to next year?]]></summary>
-        <author>
-            <name>killjoywashere</name>
-            <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
         </author>
     </entry>
 </feed>
