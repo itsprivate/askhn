@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T09:13:13.945Z</updated>
+    <updated>2022-04-15T09:33:35.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一名初级开发人员，我应该在薪酬谈判中提出什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31038133</id>
+        <link href="https://news.ycombinator.com/item?id=31038133"/>
+        <updated>2022-04-15T09:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I bring up during salary negotiation as a junior developer?]]></summary>
+        <author>
+            <name>K5EiS</name>
+            <uri>https://news.ycombinator.com/user?id=K5EiS</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终于准备好分享我的个人作品了，如何管理预期？]]></title>
         <id>https://news.ycombinator.com/item?id=31037947</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司在培训有自由职业经验和没有学位的初级工程师？]]></title>
-        <id>https://news.ycombinator.com/item?id=30881530</id>
-        <link href="https://news.ycombinator.com/item?id=30881530"/>
-        <updated>2022-04-01T18:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which companies train junior engineers with freelance exp and no degree]]></summary>
-        <author>
-            <name>stasy</name>
-            <uri>https://news.ycombinator.com/user?id=stasy</uri>
         </author>
     </entry>
 </feed>
