@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T09:33:36.147Z</updated>
+    <updated>2022-04-15T11:12:14.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Foursquare發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31038699</id>
+        <link href="https://news.ycombinator.com/item?id=31038699"/>
+        <updated>2022-04-15T10:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Foursquare?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一名初級開發人員，我應該在薪酬談判中提出什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31038133</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arjunb023</name>
             <uri>https://news.ycombinator.com/user?id=arjunb023</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯為什麼要入侵烏克蘭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30882282</id>
-        <link href="https://news.ycombinator.com/item?id=30882282"/>
-        <updated>2022-04-01T19:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Russia invade Ukraine?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
