@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T21:41:27.121Z</updated>
+    <updated>2022-04-15T22:43:55.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會如何為一個基於規則的聊天機器人或網絡應用編程？]]></title>
+        <id>https://news.ycombinator.com/item?id=31046782</id>
+        <link href="https://news.ycombinator.com/item?id=31046782"/>
+        <updated>2022-04-15T22:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you program a rule-based chatbot or web app?]]></summary>
+        <author>
+            <name>dogweather</name>
+            <uri>https://news.ycombinator.com/user?id=dogweather</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推薦用於家庭辦公室的路由器]]></title>
         <id>https://news.ycombinator.com/item?id=31046088</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PHANTOM9009</name>
             <uri>https://news.ycombinator.com/user?id=PHANTOM9009</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何作為CTO每月賺取500-3千美元的副業收入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30887926</id>
-        <link href="https://news.ycombinator.com/item?id=30887926"/>
-        <updated>2022-04-02T13:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make side income of 500-3k$ a month as a CTO?]]></summary>
-        <author>
-            <name>username_my1</name>
-            <uri>https://news.ycombinator.com/user?id=username_my1</uri>
         </author>
     </entry>
 </feed>
