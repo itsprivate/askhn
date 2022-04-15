@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 15 Apr 2022 18:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 19:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[段落--是否应包含换行符？]]></title>
+            <link>https://news.ycombinator.com/item?id=31044314</link>
+            <guid>https://news.ycombinator.com/item?id=31044314</guid>
+            <pubDate>Fri, 15 Apr 2022 19:03:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Paragraphs – should they contain line breaks?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么没有GUI的开源解压缩应用程序？]]></title>
             <link>https://news.ycombinator.com/item?id=31044127</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30886707</guid>
             <pubDate>Sat, 02 Apr 2022 08:28:06 GMT</pubDate>
             <description><![CDATA[Ask HN: Find a topic-specific professional to answer questions on a paid basis?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁在筹款？(2022年4月)]]></title>
-            <link>https://news.ycombinator.com/item?id=30886280</link>
-            <guid>https://news.ycombinator.com/item?id=30886280</guid>
-            <pubDate>Sat, 02 Apr 2022 06:39:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who's Fundraising? (April 2022)]]></description>
         </item>
     </channel>
 </rss>
