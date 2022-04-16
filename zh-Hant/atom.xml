@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T22:42:45.148Z</updated>
+    <updated>2022-04-16T23:32:14.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技術面試教練？]]></title>
+        <id>https://news.ycombinator.com/item?id=31056971</id>
+        <link href="https://news.ycombinator.com/item?id=31056971"/>
+        <updated>2022-04-16T23:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tech Interview Coaches?]]></summary>
+        <author>
+            <name>yasp</name>
+            <uri>https://news.ycombinator.com/user?id=yasp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能克服對操作系統的痴迷呢？]]></title>
         <id>https://news.ycombinator.com/item?id=31056712</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mkdirpepper</name>
             <uri>https://news.ycombinator.com/user?id=mkdirpepper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼這個Racket代碼這麼快？]]></title>
-        <id>https://news.ycombinator.com/item?id=30898503</id>
-        <link href="https://news.ycombinator.com/item?id=30898503"/>
-        <updated>2022-04-03T17:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is this Racket code so fast?]]></summary>
-        <author>
-            <name>exdsq</name>
-            <uri>https://news.ycombinator.com/user?id=exdsq</uri>
         </author>
     </entry>
 </feed>
