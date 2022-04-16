@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T06:14:39.812Z</updated>
+    <updated>2022-04-16T07:30:23.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博爾特商業模式]]></title>
+        <id>https://news.ycombinator.com/item?id=31050277</id>
+        <link href="https://news.ycombinator.com/item?id=31050277"/>
+        <updated>2022-04-16T07:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Bolt Business Model]]></summary>
+        <author>
+            <name>dska</name>
+            <uri>https://news.ycombinator.com/user?id=dska</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼德國不能冷處理，關閉俄羅斯天然氣？]]></title>
         <id>https://news.ycombinator.com/item?id=31049897</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fishbotics</name>
             <uri>https://news.ycombinator.com/user?id=fishbotics</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪所大學的畢業生對民主的破壞最大？]]></title>
-        <id>https://news.ycombinator.com/item?id=30890383</id>
-        <link href="https://news.ycombinator.com/item?id=30890383"/>
-        <updated>2022-04-02T18:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What university’s graduates have done most to damage democracy?]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
         </author>
     </entry>
 </feed>
