@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T00:43:22.993Z</updated>
+    <updated>2022-04-16T02:20:48.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初級開發的申請建議]]></title>
+        <id>https://news.ycombinator.com/item?id=31048329</id>
+        <link href="https://news.ycombinator.com/item?id=31048329"/>
+        <updated>2022-04-16T01:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Application Advice for Junior Dev]]></summary>
+        <author>
+            <name>exitoxic</name>
+            <uri>https://news.ycombinator.com/user?id=exitoxic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克如何擁有430億美元的流動現金？]]></title>
+        <id>https://news.ycombinator.com/item?id=31048324</id>
+        <link href="https://news.ycombinator.com/item?id=31048324"/>
+        <updated>2022-04-16T01:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Elon Musk have $43B of liquid cash?]]></summary>
+        <author>
+            <name>nyjah</name>
+            <uri>https://news.ycombinator.com/user?id=nyjah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在參加完編碼學院的學習後找到了工作嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31048259</id>
+        <link href="https://news.ycombinator.com/item?id=31048259"/>
+        <updated>2022-04-16T01:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you gotten a job after attending a coding academy?]]></summary>
+        <author>
+            <name>WheelsAtLarge</name>
+            <uri>https://news.ycombinator.com/user?id=WheelsAtLarge</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜間友好CLI顯示？]]></title>
+        <id>https://news.ycombinator.com/item?id=31047843</id>
+        <link href="https://news.ycombinator.com/item?id=31047843"/>
+        <updated>2022-04-16T00:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Night Friendly CLI Displays?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你和你父母的關係如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31047608</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>CharlesW</name>
             <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在react-native中給每個列表項一個左掃的手勢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889522</id>
-        <link href="https://news.ycombinator.com/item?id=30889522"/>
-        <updated>2022-04-02T16:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to give each list item a left swipe gesture in react-native?]]></summary>
-        <author>
-            <name>Coffee63</name>
-            <uri>https://news.ycombinator.com/user?id=Coffee63</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果俄羅斯贏了怎麼辦？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889160</id>
-        <link href="https://news.ycombinator.com/item?id=30889160"/>
-        <updated>2022-04-02T15:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What If Russia Wins?]]></summary>
-        <author>
-            <name>umberwall</name>
-            <uri>https://news.ycombinator.com/user?id=umberwall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[問：7次採訪何時成為 "正常"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889019</id>
-        <link href="https://news.ycombinator.com/item?id=30889019"/>
-        <updated>2022-04-02T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ASK HN: When did 7 interviews become “normal”?]]></summary>
-        <author>
-            <name>geeky4qwerty</name>
-            <uri>https://news.ycombinator.com/user?id=geeky4qwerty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10年盈虧平衡的通貨膨脹率 "有用嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30888888</id>
-        <link href="https://news.ycombinator.com/item?id=30888888"/>
-        <updated>2022-04-02T15:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the “10-Year Breakeven Inflation Rate” Useful?]]></summary>
-        <author>
-            <name>mcculley</name>
-            <uri>https://news.ycombinator.com/user?id=mcculley</uri>
         </author>
     </entry>
 </feed>
