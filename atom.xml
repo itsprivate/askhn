@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T13:21:30.103Z</updated>
+    <updated>2022-04-16T14:30:27.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[独自创业的创始人，你们是如何扩大规模的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31052580</id>
+        <link href="https://news.ycombinator.com/item?id=31052580"/>
+        <updated>2022-04-16T14:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Solo bootstrapped founders, how did you scale?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成为C级高管是否有证书主义？]]></title>
         <id>https://news.ycombinator.com/item?id=31051987</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rootsofallevil</name>
             <uri>https://news.ycombinator.com/user?id=rootsofallevil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教会我的伙伴SQL]]></title>
-        <id>https://news.ycombinator.com/item?id=30895351</id>
-        <link href="https://news.ycombinator.com/item?id=30895351"/>
-        <updated>2022-04-03T08:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Teaching My Partner SQL]]></summary>
-        <author>
-            <name>m88m</name>
-            <uri>https://news.ycombinator.com/user?id=m88m</uri>
         </author>
     </entry>
 </feed>
