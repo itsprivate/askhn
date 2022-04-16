@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T14:30:28.036Z</updated>
+    <updated>2022-04-16T15:12:47.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在日常使用中，哪個瀏覽器消耗的CPU更少，Chromium還是Firefox？]]></title>
+        <id>https://news.ycombinator.com/item?id=31052836</id>
+        <link href="https://news.ycombinator.com/item?id=31052836"/>
+        <updated>2022-04-16T14:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which browser consumes less CPU for day to day use, Chromium or Firefox?]]></summary>
+        <author>
+            <name>urlwolf</name>
+            <uri>https://news.ycombinator.com/user?id=urlwolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受密碼保護的年齡密鑰的代理？]]></title>
+        <id>https://news.ycombinator.com/item?id=31052805</id>
+        <link href="https://news.ycombinator.com/item?id=31052805"/>
+        <updated>2022-04-16T14:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Agents for Password Protected Age Keys?]]></summary>
+        <author>
+            <name>_wldu</name>
+            <uri>https://news.ycombinator.com/user?id=_wldu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獨自創業的創始人，你們是如何擴大規模的？]]></title>
         <id>https://news.ycombinator.com/item?id=31052580</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rco8786</name>
             <uri>https://news.ycombinator.com/user?id=rco8786</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一個工具可以從規範中生成二進制協議數字？]]></title>
-        <id>https://news.ycombinator.com/item?id=30895905</id>
-        <link href="https://news.ycombinator.com/item?id=30895905"/>
-        <updated>2022-04-03T10:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a tool to generate binary protocol figures out of a spec?]]></summary>
-        <author>
-            <name>vodou</name>
-            <uri>https://news.ycombinator.com/user?id=vodou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於教授高中生的C++或偽代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30895657</id>
-        <link href="https://news.ycombinator.com/item?id=30895657"/>
-        <updated>2022-04-03T09:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: C++ or Pseudocode for teaching high schoolers]]></summary>
-        <author>
-            <name>rootsofallevil</name>
-            <uri>https://news.ycombinator.com/user?id=rootsofallevil</uri>
         </author>
     </entry>
 </feed>
