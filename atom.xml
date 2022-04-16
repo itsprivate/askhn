@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T04:42:20.365Z</updated>
+    <updated>2022-04-16T05:30:07.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在制定我自己的附属结构计划方面有什么好的资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=31049688</id>
+        <link href="https://news.ycombinator.com/item?id=31049688"/>
+        <updated>2022-04-16T05:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a good resource for developing my own accessory structure plans?]]></summary>
+        <author>
+            <name>a1pulley</name>
+            <uri>https://news.ycombinator.com/user?id=a1pulley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该保留这个代码吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31049463</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mit20220401</name>
             <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[端到端加密的谷歌文档]]></title>
-        <id>https://news.ycombinator.com/item?id=30890118</id>
-        <link href="https://news.ycombinator.com/item?id=30890118"/>
-        <updated>2022-04-02T17:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: End-to-end encrypted Google Docs]]></summary>
-        <author>
-            <name>coolmints</name>
-            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
         </author>
     </entry>
 </feed>
