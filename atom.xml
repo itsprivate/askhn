@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-15T22:43:55.506Z</updated>
+    <updated>2022-04-16T00:43:22.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你和你父母的关系如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=31047608</id>
+        <link href="https://news.ycombinator.com/item?id=31047608"/>
+        <updated>2022-04-16T00:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How's your relationship with your parent(s)?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食肉动物饮食的伦理？]]></title>
+        <id>https://news.ycombinator.com/item?id=31047452</id>
+        <link href="https://news.ycombinator.com/item?id=31047452"/>
+        <updated>2022-04-15T23:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ethics of a carnivore diet?]]></summary>
+        <author>
+            <name>meatythrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=meatythrowaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你会如何为一个基于规则的聊天机器人或网络应用编程？]]></title>
         <id>https://news.ycombinator.com/item?id=31046782</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mcculley</name>
             <uri>https://news.ycombinator.com/user?id=mcculley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人喜欢音乐制作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30888916</id>
-        <link href="https://news.ycombinator.com/item?id=30888916"/>
-        <updated>2022-04-02T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone into Music Production?]]></summary>
-        <author>
-            <name>labarilem</name>
-            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何为你的软件找到第一批测试人员的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30888407</id>
-        <link href="https://news.ycombinator.com/item?id=30888407"/>
-        <updated>2022-04-02T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you find first testers for your software?]]></summary>
-        <author>
-            <name>PHANTOM9009</name>
-            <uri>https://news.ycombinator.com/user?id=PHANTOM9009</uri>
         </author>
     </entry>
 </feed>
