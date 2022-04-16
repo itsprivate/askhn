@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T15:54:41.008Z</updated>
+    <updated>2022-04-16T16:47:25.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教導學生，編程就像在他們的大腦中添加一個GPU？]]></title>
+        <id>https://news.ycombinator.com/item?id=31053784</id>
+        <link href="https://news.ycombinator.com/item?id=31053784"/>
+        <updated>2022-04-16T16:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Teach students that programming is like adding a GPU to their brains?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通貨膨脹和神奇的99]]></title>
+        <id>https://news.ycombinator.com/item?id=31053644</id>
+        <link href="https://news.ycombinator.com/item?id=31053644"/>
+        <updated>2022-04-16T16:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Inflation and the Magic 99]]></summary>
+        <author>
+            <name>groundthrower</name>
+            <uri>https://news.ycombinator.com/user?id=groundthrower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開發人員，你在開發文檔中錯過了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31053244</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sideway</name>
             <uri>https://news.ycombinator.com/user?id=sideway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高我的生產力 - 如何監控我的應用程序和瀏覽器的使用情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30896493</id>
-        <link href="https://news.ycombinator.com/item?id=30896493"/>
-        <updated>2022-04-03T12:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Improving my productivity – how to monitor my usage of apps and browser]]></summary>
-        <author>
-            <name>epimetheus3</name>
-            <uri>https://news.ycombinator.com/user?id=epimetheus3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個白痴的SVG動畫工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896373</id>
-        <link href="https://news.ycombinator.com/item?id=30896373"/>
-        <updated>2022-04-03T12:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: An SVG animation tool for idiots?]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
