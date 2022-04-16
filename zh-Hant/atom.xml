@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T12:18:04.562Z</updated>
+    <updated>2022-04-16T12:54:17.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[同行評審是否經常剝奪了教授的學術自由？]]></title>
+        <id>https://news.ycombinator.com/item?id=31051801</id>
+        <link href="https://news.ycombinator.com/item?id=31051801"/>
+        <updated>2022-04-16T12:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does peer review often take away a professor's academic freedom?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我正在改變我的工作，從堆棧Java到鐵鏽？這值得嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31051786</id>
+        <link href="https://news.ycombinator.com/item?id=31051786"/>
+        <updated>2022-04-16T12:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I am changing my job from stack Java to rust? Does it worth it?]]></summary>
+        <author>
+            <name>khnov</name>
+            <uri>https://news.ycombinator.com/user?id=khnov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文章認為平臺層比網絡效應更重要]]></title>
         <id>https://news.ycombinator.com/item?id=31051594</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wolpoli</name>
             <uri>https://news.ycombinator.com/user?id=wolpoli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找技術作家工作的好地方？]]></title>
-        <id>https://news.ycombinator.com/item?id=30893361</id>
-        <link href="https://news.ycombinator.com/item?id=30893361"/>
-        <updated>2022-04-03T01:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good places to find work as a technical writer?]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼工具或技術使你的生活更美好？如何做到的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30893238</id>
-        <link href="https://news.ycombinator.com/item?id=30893238"/>
-        <updated>2022-04-03T01:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a tool or technology that makes your life better? How?]]></summary>
-        <author>
-            <name>andrei_says_</name>
-            <uri>https://news.ycombinator.com/user?id=andrei_says_</uri>
         </author>
     </entry>
 </feed>
