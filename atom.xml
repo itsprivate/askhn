@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T02:20:47.980Z</updated>
+    <updated>2022-04-16T03:06:47.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么相当好的备用搜索引擎吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31048956</id>
+        <link href="https://news.ycombinator.com/item?id=31048956"/>
+        <updated>2022-04-16T03:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any resonably good alternate search engines?]]></summary>
+        <author>
+            <name>capybara_2020</name>
+            <uri>https://news.ycombinator.com/user?id=capybara_2020</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初级开发的申请建议]]></title>
         <id>https://news.ycombinator.com/item?id=31048329</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AndrewSwift</name>
             <uri>https://news.ycombinator.com/user?id=AndrewSwift</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API货币化的最佳服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889711</id>
-        <link href="https://news.ycombinator.com/item?id=30889711"/>
-        <updated>2022-04-02T16:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Services for API Monetization?]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
         </author>
     </entry>
 </feed>
