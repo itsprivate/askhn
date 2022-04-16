@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T15:12:47.598Z</updated>
+    <updated>2022-04-16T15:54:40.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开发人员，你在开发文档中错过了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31053244</id>
+        <link href="https://news.ycombinator.com/item?id=31053244"/>
+        <updated>2022-04-16T15:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Developers, what do you miss in dev docs?]]></summary>
+        <author>
+            <name>mlejva</name>
+            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在日常使用中，哪个浏览器消耗的CPU更少，Chromium还是Firefox？]]></title>
         <id>https://news.ycombinator.com/item?id=31052836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linkdd</name>
             <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年，技术写作的最佳平台是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896189</id>
-        <link href="https://news.ycombinator.com/item?id=30896189"/>
-        <updated>2022-04-03T11:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best platform for technical writing in 2022?]]></summary>
-        <author>
-            <name>rco8786</name>
-            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
         </author>
     </entry>
 </feed>

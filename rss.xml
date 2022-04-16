@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 16 Apr 2022 15:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开发人员，你在开发文档中错过了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31053244</link>
+            <guid>https://news.ycombinator.com/item?id=31053244</guid>
+            <pubDate>Sat, 16 Apr 2022 15:47:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Developers, what do you miss in dev docs?]]></description>
+        </item>
         <item>
             <title><![CDATA[在日常使用中，哪个浏览器消耗的CPU更少，Chromium还是Firefox？]]></title>
             <link>https://news.ycombinator.com/item?id=31052836</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30896373</guid>
             <pubDate>Sun, 03 Apr 2022 12:35:12 GMT</pubDate>
             <description><![CDATA[Ask HN: An SVG animation tool for idiots?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年，技术写作的最佳平台是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30896189</link>
-            <guid>https://news.ycombinator.com/item?id=30896189</guid>
-            <pubDate>Sun, 03 Apr 2022 11:55:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the best platform for technical writing in 2022?]]></description>
         </item>
     </channel>
 </rss>
