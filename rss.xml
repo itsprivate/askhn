@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 16 Apr 2022 08:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的母语是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31050854</link>
+            <guid>https://news.ycombinator.com/item?id=31050854</guid>
+            <pubDate>Sat, 16 Apr 2022 09:03:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your native language?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何想出副业项目的想法的？]]></title>
             <link>https://news.ycombinator.com/item?id=31050776</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30892645</guid>
             <pubDate>Sat, 02 Apr 2022 23:35:03 GMT</pubDate>
             <description><![CDATA[Ask HN: Science Hypotheses That Fail?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么公共图书馆仍有实体书？]]></title>
-            <link>https://news.ycombinator.com/item?id=30892549</link>
-            <guid>https://news.ycombinator.com/item?id=30892549</guid>
-            <pubDate>Sat, 02 Apr 2022 23:17:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do public libraries still have physical books?]]></description>
         </item>
     </channel>
 </rss>

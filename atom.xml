@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T08:53:44.964Z</updated>
+    <updated>2022-04-16T09:12:50.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的母语是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31050854</id>
+        <link href="https://news.ycombinator.com/item?id=31050854"/>
+        <updated>2022-04-16T09:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your native language?]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何想出副业项目的想法的？]]></title>
         <id>https://news.ycombinator.com/item?id=31050776</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mojomark</name>
             <uri>https://news.ycombinator.com/user?id=mojomark</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么公共图书馆仍有实体书？]]></title>
-        <id>https://news.ycombinator.com/item?id=30892549</id>
-        <link href="https://news.ycombinator.com/item?id=30892549"/>
-        <updated>2022-04-02T23:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do public libraries still have physical books?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
