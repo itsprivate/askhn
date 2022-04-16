@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-16T05:30:07.696Z</updated>
+    <updated>2022-04-16T05:51:23.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN螺纹不能折叠？]]></title>
+        <id>https://news.ycombinator.com/item?id=31049845</id>
+        <link href="https://news.ycombinator.com/item?id=31049845"/>
+        <updated>2022-04-16T05:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are HN threads not collapsible?]]></summary>
+        <author>
+            <name>jv22222</name>
+            <uri>https://news.ycombinator.com/user?id=jv22222</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在制定我自己的附属结构计划方面有什么好的资源？]]></title>
         <id>https://news.ycombinator.com/item?id=31049688</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chernevik</name>
             <uri>https://news.ycombinator.com/user?id=chernevik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源软件的一个贡献者可以禁止别人的分叉吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30887004</id>
-        <link href="https://news.ycombinator.com/item?id=30887004"/>
-        <updated>2022-04-02T09:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can one contributor of an open source software forbid someone's fork?]]></summary>
-        <author>
-            <name>mit20220401</name>
-            <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
         </author>
     </entry>
 </feed>
