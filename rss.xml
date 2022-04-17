@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Apr 2022 11:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 12:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为大型开源项目构建系统]]></title>
+            <link>https://news.ycombinator.com/item?id=31060360</link>
+            <guid>https://news.ycombinator.com/item?id=31060360</guid>
+            <pubDate>Sun, 17 Apr 2022 12:23:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Build systems for large open source projects]]></description>
+        </item>
         <item>
             <title><![CDATA[如何培养孩子对科学的兴趣？]]></title>
             <link>https://news.ycombinator.com/item?id=31060117</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30902258</guid>
             <pubDate>Mon, 04 Apr 2022 00:38:31 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you have a guide on how to use feature flags?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的孩子在你家哪里玩？]]></title>
-            <link>https://news.ycombinator.com/item?id=30902050</link>
-            <guid>https://news.ycombinator.com/item?id=30902050</guid>
-            <pubDate>Mon, 04 Apr 2022 00:03:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where do your kids play in your house?]]></description>
         </item>
     </channel>
 </rss>

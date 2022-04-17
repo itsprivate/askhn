@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T11:37:12.979Z</updated>
+    <updated>2022-04-17T12:52:12.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为大型开源项目构建系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31060360</id>
+        <link href="https://news.ycombinator.com/item?id=31060360"/>
+        <updated>2022-04-17T12:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Build systems for large open source projects]]></summary>
+        <author>
+            <name>tiernano</name>
+            <uri>https://news.ycombinator.com/user?id=tiernano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何培养孩子对科学的兴趣？]]></title>
         <id>https://news.ycombinator.com/item?id=31060117</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>victor_e</name>
             <uri>https://news.ycombinator.com/user?id=victor_e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的孩子在你家哪里玩？]]></title>
-        <id>https://news.ycombinator.com/item?id=30902050</id>
-        <link href="https://news.ycombinator.com/item?id=30902050"/>
-        <updated>2022-04-04T00:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do your kids play in your house?]]></summary>
-        <author>
-            <name>l2silver</name>
-            <uri>https://news.ycombinator.com/user?id=l2silver</uri>
         </author>
     </entry>
 </feed>
