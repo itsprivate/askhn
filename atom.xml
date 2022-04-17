@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T20:13:29.958Z</updated>
+    <updated>2022-04-17T20:43:18.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[父母如何向他们年幼的孩子隐瞒乌克兰的战争？]]></title>
+        <id>https://news.ycombinator.com/item?id=31064215</id>
+        <link href="https://news.ycombinator.com/item?id=31064215"/>
+        <updated>2022-04-17T20:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do parents hide the war in Ukraine from their young children?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[离婚后如何继续前进？]]></title>
         <id>https://news.ycombinator.com/item?id=31063960</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这里有人成功地创办了一家电子游戏公司吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30906739</id>
-        <link href="https://news.ycombinator.com/item?id=30906739"/>
-        <updated>2022-04-04T14:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anybody here successfully start a videogame company?]]></summary>
-        <author>
-            <name>eezurr</name>
-            <uri>https://news.ycombinator.com/user?id=eezurr</uri>
         </author>
     </entry>
 </feed>
