@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T19:27:45.826Z</updated>
+    <updated>2022-04-17T20:13:29.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[离婚后如何继续前进？]]></title>
+        <id>https://news.ycombinator.com/item?id=31063960</id>
+        <link href="https://news.ycombinator.com/item?id=31063960"/>
+        <updated>2022-04-17T20:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does one move on after a divorce?]]></summary>
+        <author>
+            <name>DevToRecruiter</name>
+            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[整合FedRAMP有多大的痛苦？]]></title>
         <id>https://news.ycombinator.com/item?id=31063454</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eezurr</name>
             <uri>https://news.ycombinator.com/user?id=eezurr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的数字遗产计划是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30905654</id>
-        <link href="https://news.ycombinator.com/item?id=30905654"/>
-        <updated>2022-04-04T12:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Your Digital Estate Plan?]]></summary>
-        <author>
-            <name>pards</name>
-            <uri>https://news.ycombinator.com/user?id=pards</uri>
         </author>
     </entry>
 </feed>
