@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T15:47:49.004Z</updated>
+    <updated>2022-04-17T16:47:19.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該養雞嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31062111</id>
+        <link href="https://news.ycombinator.com/item?id=31062111"/>
+        <updated>2022-04-17T16:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I Get Chickens?]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼LEB128和VLQ使用128進制而不是64進制？]]></title>
+        <id>https://news.ycombinator.com/item?id=31061955</id>
+        <link href="https://news.ycombinator.com/item?id=31061955"/>
+        <updated>2022-04-17T16:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why LEB128 and VLQ use Base 128 instead of 64?]]></summary>
+        <author>
+            <name>conaclos</name>
+            <uri>https://news.ycombinator.com/user?id=conaclos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在漫長的項目中建立和保持勢頭？]]></title>
         <id>https://news.ycombinator.com/item?id=31061563</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在哪裡可以銷售不盈利的SaaS？]]></title>
-        <id>https://news.ycombinator.com/item?id=30904208</id>
-        <link href="https://news.ycombinator.com/item?id=30904208"/>
-        <updated>2022-04-04T07:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can you sell a non-profitable SaaS?]]></summary>
-        <author>
-            <name>AlexandrBel</name>
-            <uri>https://news.ycombinator.com/user?id=AlexandrBel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何現代智能手機的電池都是可拆卸的電池嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30903714</id>
-        <link href="https://news.ycombinator.com/item?id=30903714"/>
-        <updated>2022-04-04T06:06:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any modern smartphone battery being as removable battery?]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>

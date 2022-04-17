@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我應該養雞嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31062111</link>
+            <guid>https://news.ycombinator.com/item?id=31062111</guid>
+            <pubDate>Sun, 17 Apr 2022 16:39:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should I Get Chickens?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼LEB128和VLQ使用128進制而不是64進制？]]></title>
+            <link>https://news.ycombinator.com/item?id=31061955</link>
+            <guid>https://news.ycombinator.com/item?id=31061955</guid>
+            <pubDate>Sun, 17 Apr 2022 16:20:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why LEB128 and VLQ use Base 128 instead of 64?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何在漫長的項目中建立和保持勢頭？]]></title>
             <link>https://news.ycombinator.com/item?id=31061563</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30904462</guid>
             <pubDate>Mon, 04 Apr 2022 08:35:23 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you know when you need a break?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在哪裡可以銷售不盈利的SaaS？]]></title>
-            <link>https://news.ycombinator.com/item?id=30904208</link>
-            <guid>https://news.ycombinator.com/item?id=30904208</guid>
-            <pubDate>Mon, 04 Apr 2022 07:43:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can you sell a non-profitable SaaS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[任何現代智能手機的電池都是可拆卸的電池嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30903714</link>
-            <guid>https://news.ycombinator.com/item?id=30903714</guid>
-            <pubDate>Mon, 04 Apr 2022 06:06:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any modern smartphone battery being as removable battery?]]></description>
         </item>
     </channel>
 </rss>
