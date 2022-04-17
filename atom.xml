@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T00:43:43.677Z</updated>
+    <updated>2022-04-17T02:26:11.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能停止被动攻击？]]></title>
+        <id>https://news.ycombinator.com/item?id=31057622</id>
+        <link href="https://news.ycombinator.com/item?id=31057622"/>
+        <updated>2022-04-17T01:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I stop being passive-aggressive?]]></summary>
+        <author>
+            <name>SMAAART</name>
+            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来20-50年耐用的照片库应用]]></title>
         <id>https://news.ycombinator.com/item?id=31057140</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kite_and_code</name>
             <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉创意处理器/思维导图工具的推荐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30898811</id>
-        <link href="https://news.ycombinator.com/item?id=30898811"/>
-        <updated>2022-04-03T17:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for visual idea processor / mind mapping tools?]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
