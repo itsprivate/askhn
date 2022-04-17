@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T20:51:45.201Z</updated>
+    <updated>2022-04-17T21:13:17.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪部电影最能代表你的黑客文化？]]></title>
+        <id>https://news.ycombinator.com/item?id=31064488</id>
+        <link href="https://news.ycombinator.com/item?id=31064488"/>
+        <updated>2022-04-17T21:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which movie(s) best represent hacker culture for you?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人们尝试了哪些真正创新的方式来打击假新闻]]></title>
         <id>https://news.ycombinator.com/item?id=31064274</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>krrishd</name>
             <uri>https://news.ycombinator.com/user?id=krrishd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS计费？]]></title>
-        <id>https://news.ycombinator.com/item?id=30907308</id>
-        <link href="https://news.ycombinator.com/item?id=30907308"/>
-        <updated>2022-04-04T14:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: SaaS Billing?]]></summary>
-        <author>
-            <name>3000</name>
-            <uri>https://news.ycombinator.com/user?id=3000</uri>
         </author>
     </entry>
 </feed>
