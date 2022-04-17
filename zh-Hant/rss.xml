@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Apr 2022 03:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 04:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你寫代碼只是為了練習嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31058479</link>
+            <guid>https://news.ycombinator.com/item?id=31058479</guid>
+            <pubDate>Sun, 17 Apr 2022 04:23:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you write code just for practice?]]></description>
+        </item>
         <item>
             <title><![CDATA[冠狀病毒抗原檢測面具？]]></title>
             <link>https://news.ycombinator.com/item?id=31057925</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30900152</guid>
             <pubDate>Sun, 03 Apr 2022 20:09:01 GMT</pubDate>
             <description><![CDATA[Ask HN: Is Stack Overflow jobs gone?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我如何寫出快速而骯髒的意大利語代碼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30899914</link>
-            <guid>https://news.ycombinator.com/item?id=30899914</guid>
-            <pubDate>Sun, 03 Apr 2022 19:40:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do I write quick and dirty, spaghetti code?]]></description>
         </item>
     </channel>
 </rss>
