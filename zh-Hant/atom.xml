@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T10:34:30.019Z</updated>
+    <updated>2022-04-17T10:53:06.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DDoS防禦的文章、參考資料和最佳實踐]]></title>
+        <id>https://news.ycombinator.com/item?id=31059939</id>
+        <link href="https://news.ycombinator.com/item?id=31059939"/>
+        <updated>2022-04-17T10:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Articles, references and best practices of DDoS defense]]></summary>
+        <author>
+            <name>lenovouser</name>
+            <uri>https://news.ycombinator.com/user?id=lenovouser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何實現密碼輸入系統--。]]></title>
+        <id>https://news.ycombinator.com/item?id=31059932</id>
+        <link href="https://news.ycombinator.com/item?id=31059932"/>
+        <updated>2022-04-17T10:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you implement a password input system –.?]]></summary>
+        <author>
+            <name>28194608</name>
+            <uri>https://news.ycombinator.com/user?id=28194608</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何組織瀏覽器窗口以提高工作效率？]]></title>
         <id>https://news.ycombinator.com/item?id=31059846</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>w4rh4wk5</name>
             <uri>https://news.ycombinator.com/user?id=w4rh4wk5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[承包商合同的資源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30901189</id>
-        <link href="https://news.ycombinator.com/item?id=30901189"/>
-        <updated>2022-04-03T22:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Resources for Contractor Contracts?]]></summary>
-        <author>
-            <name>culpable_pickle</name>
-            <uri>https://news.ycombinator.com/user?id=culpable_pickle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[製造一個電燈開關有多少個依賴性？]]></title>
-        <id>https://news.ycombinator.com/item?id=30901156</id>
-        <link href="https://news.ycombinator.com/item?id=30901156"/>
-        <updated>2022-04-03T22:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many dependencies does manufacturing a light switch have?]]></summary>
-        <author>
-            <name>qbilius</name>
-            <uri>https://news.ycombinator.com/user?id=qbilius</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Apr 2022 10:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DDoS防禦的文章、參考資料和最佳實踐]]></title>
+            <link>https://news.ycombinator.com/item?id=31059939</link>
+            <guid>https://news.ycombinator.com/item?id=31059939</guid>
+            <pubDate>Sun, 17 Apr 2022 10:48:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: Articles, references and best practices of DDoS defense]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何實現密碼輸入系統--。]]></title>
+            <link>https://news.ycombinator.com/item?id=31059932</link>
+            <guid>https://news.ycombinator.com/item?id=31059932</guid>
+            <pubDate>Sun, 17 Apr 2022 10:45:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you implement a password input system –.?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何組織瀏覽器窗口以提高工作效率？]]></title>
             <link>https://news.ycombinator.com/item?id=31059846</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30901226</guid>
             <pubDate>Sun, 03 Apr 2022 22:11:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Literate Programming Tool Recommendation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[承包商合同的資源？]]></title>
-            <link>https://news.ycombinator.com/item?id=30901189</link>
-            <guid>https://news.ycombinator.com/item?id=30901189</guid>
-            <pubDate>Sun, 03 Apr 2022 22:06:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Resources for Contractor Contracts?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[製造一個電燈開關有多少個依賴性？]]></title>
-            <link>https://news.ycombinator.com/item?id=30901156</link>
-            <guid>https://news.ycombinator.com/item?id=30901156</guid>
-            <pubDate>Sun, 03 Apr 2022 22:02:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: How many dependencies does manufacturing a light switch have?]]></description>
         </item>
     </channel>
 </rss>
