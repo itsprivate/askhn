@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T10:53:06.612Z</updated>
+    <updated>2022-04-17T11:37:13.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何培養孩子對科學的興趣？]]></title>
+        <id>https://news.ycombinator.com/item?id=31060117</id>
+        <link href="https://news.ycombinator.com/item?id=31060117"/>
+        <updated>2022-04-17T11:29:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Cultivate Child's Interest in Science?]]></summary>
+        <author>
+            <name>BOOSTERHIDROGEN</name>
+            <uri>https://news.ycombinator.com/user?id=BOOSTERHIDROGEN</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由職業者？尋找自由職業者？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=31060108</id>
+        <link href="https://news.ycombinator.com/item?id=31060108"/>
+        <updated>2022-04-17T11:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Freelancer? Seeking freelancer? (April 2022)]]></summary>
+        <author>
+            <name>antonschantz</name>
+            <uri>https://news.ycombinator.com/user?id=antonschantz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DDoS防禦的文章、參考資料和最佳實踐]]></title>
         <id>https://news.ycombinator.com/item?id=31059939</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>l2silver</name>
             <uri>https://news.ycombinator.com/user?id=l2silver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只使用基於TOTP的認證是否安全或有隱私問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30901282</id>
-        <link href="https://news.ycombinator.com/item?id=30901282"/>
-        <updated>2022-04-03T22:18:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is using just a TOTP based authenticatation safe or a privacy issue]]></summary>
-        <author>
-            <name>ab_testing</name>
-            <uri>https://news.ycombinator.com/user?id=ab_testing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[識字編程工具推薦]]></title>
-        <id>https://news.ycombinator.com/item?id=30901226</id>
-        <link href="https://news.ycombinator.com/item?id=30901226"/>
-        <updated>2022-04-03T22:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Literate Programming Tool Recommendation]]></summary>
-        <author>
-            <name>w4rh4wk5</name>
-            <uri>https://news.ycombinator.com/user?id=w4rh4wk5</uri>
         </author>
     </entry>
 </feed>
