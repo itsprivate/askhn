@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-17T08:37:06.423Z</updated>
+    <updated>2022-04-17T10:34:29.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何组织浏览器窗口以提高工作效率？]]></title>
+        <id>https://news.ycombinator.com/item?id=31059846</id>
+        <link href="https://news.ycombinator.com/item?id=31059846"/>
+        <updated>2022-04-17T10:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you organize the browser windows for better productivity?]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改变你生活的技术行为变化？]]></title>
         <id>https://news.ycombinator.com/item?id=31059415</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>qbilius</name>
             <uri>https://news.ycombinator.com/user?id=qbilius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当前加密货币发展的指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30900876</id>
-        <link href="https://news.ycombinator.com/item?id=30900876"/>
-        <updated>2022-04-03T21:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Guide of the Current Crypto Developments]]></summary>
-        <author>
-            <name>atatomir</name>
-            <uri>https://news.ycombinator.com/user?id=atatomir</uri>
         </author>
     </entry>
 </feed>
