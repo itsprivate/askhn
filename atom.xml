@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T17:22:35.610Z</updated>
+    <updated>2022-04-18T17:41:44.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lambda-the-Ultimate.org发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31073922</id>
+        <link href="https://news.ycombinator.com/item?id=31073922"/>
+        <updated>2022-04-18T17:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Lambda-the-Ultimate.org?]]></summary>
+        <author>
+            <name>psczvnadfjk</name>
+            <uri>https://news.ycombinator.com/user?id=psczvnadfjk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么无法下载CA 540小册子？]]></title>
+        <id>https://news.ycombinator.com/item?id=31073593</id>
+        <link href="https://news.ycombinator.com/item?id=31073593"/>
+        <updated>2022-04-18T17:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is one unable to download CA 540 booklet?]]></summary>
+        <author>
+            <name>anonymousnotme</name>
+            <uri>https://news.ycombinator.com/user?id=anonymousnotme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理CSV？]]></title>
         <id>https://news.ycombinator.com/item?id=31073429</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汉堡王的应用程序无法向BK门店发送订单，谁能解决这个问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30914272</id>
-        <link href="https://news.ycombinator.com/item?id=30914272"/>
-        <updated>2022-04-05T01:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Burger King's app won't send orders to BK stores, who can fix it?]]></summary>
-        <author>
-            <name>orionblastar</name>
-            <uri>https://news.ycombinator.com/user?id=orionblastar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在风险投资电话中，什么是好的自我介绍？]]></title>
-        <id>https://news.ycombinator.com/item?id=30914187</id>
-        <link href="https://news.ycombinator.com/item?id=30914187"/>
-        <updated>2022-04-05T01:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a good self introduction on a VC call?]]></summary>
-        <author>
-            <name>pxue</name>
-            <uri>https://news.ycombinator.com/user?id=pxue</uri>
         </author>
     </entry>
 </feed>
