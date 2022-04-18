@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T11:38:32.162Z</updated>
+    <updated>2022-04-18T13:27:59.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這怎麼可能在沒有電話暗中監聽的情況下發生？]]></title>
+        <id>https://news.ycombinator.com/item?id=31070161</id>
+        <link href="https://news.ycombinator.com/item?id=31070161"/>
+        <updated>2022-04-18T13:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can this happen without the phone covertly listening?]]></summary>
+        <author>
+            <name>MobileVet</name>
+            <uri>https://news.ycombinator.com/user?id=MobileVet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為我的諮詢公司提供諮詢？]]></title>
+        <id>https://news.ycombinator.com/item?id=31069973</id>
+        <link href="https://news.ycombinator.com/item?id=31069973"/>
+        <updated>2022-04-18T12:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Consulting for My Consultancy?]]></summary>
+        <author>
+            <name>__afk__</name>
+            <uri>https://news.ycombinator.com/user?id=__afk__</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS激活創始人之後的生活]]></title>
         <id>https://news.ycombinator.com/item?id=31069380</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>psikomanjak</name>
             <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰是網站的用戶，他們為什麼使用網站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30912517</id>
-        <link href="https://news.ycombinator.com/item?id=30912517"/>
-        <updated>2022-04-04T22:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who are the users of the website and why are they using it?]]></summary>
-        <author>
-            <name>nguyenlehoang</name>
-            <uri>https://news.ycombinator.com/user?id=nguyenlehoang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些最好的DevOps/engops社區值得加入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30912279</id>
-        <link href="https://news.ycombinator.com/item?id=30912279"/>
-        <updated>2022-04-04T21:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best DevOps / engops communities out there worth joining?]]></summary>
-        <author>
-            <name>vgordon</name>
-            <uri>https://news.ycombinator.com/user?id=vgordon</uri>
         </author>
     </entry>
 </feed>
