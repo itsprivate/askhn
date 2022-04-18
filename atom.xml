@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T11:30:05.115Z</updated>
+    <updated>2022-04-18T11:38:32.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS激活创始人之后的生活]]></title>
+        <id>https://news.ycombinator.com/item?id=31069380</id>
+        <link href="https://news.ycombinator.com/item?id=31069380"/>
+        <updated>2022-04-18T11:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Life After AWS Activate Founders]]></summary>
+        <author>
+            <name>alexwarwick</name>
+            <uri>https://news.ycombinator.com/user?id=alexwarwick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何挑选专业？]]></title>
         <id>https://news.ycombinator.com/item?id=31069332</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vgordon</name>
             <uri>https://news.ycombinator.com/user?id=vgordon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你相信俄罗斯谋杀了无辜的平民吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30911925</id>
-        <link href="https://news.ycombinator.com/item?id=30911925"/>
-        <updated>2022-04-04T21:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you believe Russia murdered innocent civilians?]]></summary>
-        <author>
-            <name>firebaze</name>
-            <uri>https://news.ycombinator.com/user?id=firebaze</uri>
         </author>
     </entry>
 </feed>
