@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T16:17:23.432Z</updated>
+    <updated>2022-04-18T16:56:02.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼DMCA規避禁令沒有被廢除？]]></title>
+        <id>https://news.ycombinator.com/item?id=31072931</id>
+        <link href="https://news.ycombinator.com/item?id=31072931"/>
+        <updated>2022-04-18T16:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has DMCA Circumvention Prohibition not been repealed?]]></summary>
+        <author>
+            <name>throwaway894345</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway894345</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我燒掉了，但我不想讓我的團隊失望]]></title>
         <id>https://news.ycombinator.com/item?id=31072465</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sincere</name>
             <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Meta的創建元空間的計劃會受到如此多的批評？]]></title>
-        <id>https://news.ycombinator.com/item?id=30913854</id>
-        <link href="https://news.ycombinator.com/item?id=30913854"/>
-        <updated>2022-04-05T00:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Meta's plan to create a metaverse getting so much criticism?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>

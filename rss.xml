@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 18 Apr 2022 16:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 16:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么DMCA规避禁令没有被废除？]]></title>
+            <link>https://news.ycombinator.com/item?id=31072931</link>
+            <guid>https://news.ycombinator.com/item?id=31072931</guid>
+            <pubDate>Mon, 18 Apr 2022 16:30:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why has DMCA Circumvention Prohibition not been repealed?]]></description>
+        </item>
         <item>
             <title><![CDATA[我烧掉了，但我不想让我的团队失望]]></title>
             <link>https://news.ycombinator.com/item?id=31072465</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30914029</guid>
             <pubDate>Tue, 05 Apr 2022 01:02:28 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you prepare for interviewers that don't do ds/algos questions?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么Meta的创建元空间的计划会受到如此多的批评？]]></title>
-            <link>https://news.ycombinator.com/item?id=30913854</link>
-            <guid>https://news.ycombinator.com/item?id=30913854</guid>
-            <pubDate>Tue, 05 Apr 2022 00:38:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is Meta's plan to create a metaverse getting so much criticism?]]></description>
         </item>
     </channel>
 </rss>
