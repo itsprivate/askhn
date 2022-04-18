@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T11:13:17.022Z</updated>
+    <updated>2022-04-18T11:30:05.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何挑选专业？]]></title>
+        <id>https://news.ycombinator.com/item?id=31069332</id>
+        <link href="https://news.ycombinator.com/item?id=31069332"/>
+        <updated>2022-04-18T11:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Pick a Specialisation?]]></summary>
+        <author>
+            <name>dizzydiz</name>
+            <uri>https://news.ycombinator.com/user?id=dizzydiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个有经验的开发者，你是如何学习一种新的编程语言的？]]></title>
         <id>https://news.ycombinator.com/item?id=31069246</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>firebaze</name>
             <uri>https://news.ycombinator.com/user?id=firebaze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能开始进行硬件设计（为我的电路设计一个案例）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30911545</id>
-        <link href="https://news.ycombinator.com/item?id=30911545"/>
-        <updated>2022-04-04T20:24:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I get started with hardware design (a case for my circuits)?]]></summary>
-        <author>
-            <name>deepbluesome</name>
-            <uri>https://news.ycombinator.com/user?id=deepbluesome</uri>
         </author>
     </entry>
 </feed>
