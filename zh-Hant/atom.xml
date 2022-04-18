@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T14:13:19.170Z</updated>
+    <updated>2022-04-18T14:32:18.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那麼，我們該如何應對氣候變化？]]></title>
+        <id>https://news.ycombinator.com/item?id=31070991</id>
+        <link href="https://news.ycombinator.com/item?id=31070991"/>
+        <updated>2022-04-18T14:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: So, what do we do about climate change?]]></summary>
+        <author>
+            <name>rizoma_dev</name>
+            <uri>https://news.ycombinator.com/user?id=rizoma_dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是大型非結構化文本數據的SQL接口等價物？]]></title>
         <id>https://news.ycombinator.com/item?id=31070588</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>going_ham</name>
             <uri>https://news.ycombinator.com/user?id=going_ham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多少次跳槽才算多？]]></title>
-        <id>https://news.ycombinator.com/item?id=30912794</id>
-        <link href="https://news.ycombinator.com/item?id=30912794"/>
-        <updated>2022-04-04T22:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much job hopping is too much?]]></summary>
-        <author>
-            <name>ishiz</name>
-            <uri>https://news.ycombinator.com/user?id=ishiz</uri>
         </author>
     </entry>
 </feed>
