@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T03:38:24.477Z</updated>
+    <updated>2022-04-18T04:47:46.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的P2P软件的下载速度怎么能超过我的56K应该允许的速度？]]></title>
+        <id>https://news.ycombinator.com/item?id=31067470</id>
+        <link href="https://news.ycombinator.com/item?id=31067470"/>
+        <updated>2022-04-18T04:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can my P2P software download faster than what my 56K should allow?]]></summary>
+        <author>
+            <name>wonderbore</name>
+            <uri>https://news.ycombinator.com/user?id=wonderbore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根据你的经验，康威法则的反面是否有效？]]></title>
         <id>https://news.ycombinator.com/item?id=31066817</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ethanwillis</name>
             <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的办公室是否有大屏幕显示激励性的统计数据？]]></title>
-        <id>https://news.ycombinator.com/item?id=30909678</id>
-        <link href="https://news.ycombinator.com/item?id=30909678"/>
-        <updated>2022-04-04T17:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does your office have big screens showing motivational stats?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
