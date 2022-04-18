@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T23:11:43.816Z</updated>
+    <updated>2022-04-18T23:37:13.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[极端的MacBook发货延迟？]]></title>
+        <id>https://news.ycombinator.com/item?id=31078038</id>
+        <link href="https://news.ycombinator.com/item?id=31078038"/>
+        <updated>2022-04-18T23:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Extreme MacBook Shipping Delays?]]></summary>
+        <author>
+            <name>dv35z</name>
+            <uri>https://news.ycombinator.com/user?id=dv35z</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是否应该从SRE转到Security？]]></title>
+        <id>https://news.ycombinator.com/item?id=31078029</id>
+        <link href="https://news.ycombinator.com/item?id=31078029"/>
+        <updated>2022-04-18T23:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I switch from SRE to Security?]]></summary>
+        <author>
+            <name>woodbinebeach</name>
+            <uri>https://news.ycombinator.com/user?id=woodbinebeach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Yann LeCun的主页现在有密码保护？]]></title>
         <id>https://news.ycombinator.com/item?id=31077780</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chrisfrantz</name>
             <uri>https://news.ycombinator.com/user?id=chrisfrantz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么一个公司只给员工提供台式电脑是合法的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30920861</id>
-        <link href="https://news.ycombinator.com/item?id=30920861"/>
-        <updated>2022-04-05T16:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is it legal for a company to only give employees desktop computers?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语法方面的书籍推荐，因为它与计算机有关？]]></title>
-        <id>https://news.ycombinator.com/item?id=30920097</id>
-        <link href="https://news.ycombinator.com/item?id=30920097"/>
-        <updated>2022-04-05T15:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Book recommendations for grammar as it relates to computing?]]></summary>
-        <author>
-            <name>davegauer</name>
-            <uri>https://news.ycombinator.com/user?id=davegauer</uri>
         </author>
     </entry>
 </feed>
