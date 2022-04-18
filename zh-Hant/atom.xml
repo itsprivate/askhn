@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T19:52:27.016Z</updated>
+    <updated>2022-04-18T20:16:04.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在JWST上工作過嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31075780</id>
+        <link href="https://news.ycombinator.com/item?id=31075780"/>
+        <updated>2022-04-18T20:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have You Worked on JWST?]]></summary>
+        <author>
+            <name>V__</name>
+            <uri>https://news.ycombinator.com/user?id=V__</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有人面臨3DS中斷的情況？]]></title>
+        <id>https://news.ycombinator.com/item?id=31075587</id>
+        <link href="https://news.ycombinator.com/item?id=31075587"/>
+        <updated>2022-04-18T19:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone facing 3DS outage on stripe?]]></summary>
+        <author>
+            <name>jinen83</name>
+            <uri>https://news.ycombinator.com/user?id=jinen83</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什麼阻止了一個隨機的USB設備對Windows進行ROOT？]]></title>
+        <id>https://news.ycombinator.com/item?id=31075571</id>
+        <link href="https://news.ycombinator.com/item?id=31075571"/>
+        <updated>2022-04-18T19:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What stops a random USB device from rooting Windows?]]></summary>
+        <author>
+            <name>5ESS</name>
+            <uri>https://news.ycombinator.com/user?id=5ESS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司是如何做到既保密又保證發佈質量的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31073754</id>
+        <link href="https://news.ycombinator.com/item?id=31073754"/>
+        <updated>2022-04-18T17:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Apple achieve both secrecy and quality for a release?]]></summary>
+        <author>
+            <name>billti</name>
+            <uri>https://news.ycombinator.com/user?id=billti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從Java後端開發轉向系統編程開發？]]></title>
         <id>https://news.ycombinator.com/item?id=31075470</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Arcanite</name>
             <uri>https://news.ycombinator.com/user?id=Arcanite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國在人權方面的優勢很低嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30917170</id>
-        <link href="https://news.ycombinator.com/item?id=30917170"/>
-        <updated>2022-04-05T10:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does the US have a low human rights advantage?]]></summary>
-        <author>
-            <name>diamondyuan</name>
-            <uri>https://news.ycombinator.com/user?id=diamondyuan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該購買用於軟件開發的MacBook M1 Pro還是M1 Max？]]></title>
-        <id>https://news.ycombinator.com/item?id=30917142</id>
-        <link href="https://news.ycombinator.com/item?id=30917142"/>
-        <updated>2022-04-05T10:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I buy MacBook M1 Pro or M1 Max for software development]]></summary>
-        <author>
-            <name>mr_o47</name>
-            <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型/受監管的）科技公司如何部署？]]></title>
-        <id>https://news.ycombinator.com/item?id=30916909</id>
-        <link href="https://news.ycombinator.com/item?id=30916909"/>
-        <updated>2022-04-05T09:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do (big/regulated) tech companies deploy?]]></summary>
-        <author>
-            <name>indale</name>
-            <uri>https://news.ycombinator.com/user?id=indale</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的生活的 "數字尺寸 "是多少，有什麼東西會進入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30916302</id>
-        <link href="https://news.ycombinator.com/item?id=30916302"/>
-        <updated>2022-04-05T07:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the “digital size” of your life, and what goes in?]]></summary>
-        <author>
-            <name>netfortius</name>
-            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
         </author>
     </entry>
 </feed>
