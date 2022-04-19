@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘋果M1硅上的Docker]]></title>
+            <link>https://news.ycombinator.com/item?id=31081193</link>
+            <guid>https://news.ycombinator.com/item?id=31081193</guid>
+            <pubDate>Tue, 19 Apr 2022 09:39:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Docker on Apple M1 Silicon]]></description>
+        </item>
         <item>
             <title><![CDATA[推薦一些僱用遠程開發人員的好機構？]]></title>
             <link>https://news.ycombinator.com/item?id=31080461</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30925719</guid>
             <pubDate>Tue, 05 Apr 2022 22:09:57 GMT</pubDate>
             <description><![CDATA[Ask HN: How does HN algrorithm work for displaying entries on the front page?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我們要忍受 "算法 "一詞的腐敗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30925638</link>
-            <guid>https://news.ycombinator.com/item?id=30925638</guid>
-            <pubDate>Tue, 05 Apr 2022 22:03:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do we put up with the corruption of the word “algorithm”?]]></description>
         </item>
     </channel>
 </rss>
