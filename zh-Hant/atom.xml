@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T16:16:27.267Z</updated>
+    <updated>2022-04-19T16:58:46.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能從Quickbooks中拿回我的錢？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085559</id>
+        <link href="https://news.ycombinator.com/item?id=31085559"/>
+        <updated>2022-04-19T16:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I get my money back from Quickbooks?]]></summary>
+        <author>
+            <name>throw_away_01</name>
+            <uri>https://news.ycombinator.com/user?id=throw_away_01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟為什麼要保持answer.microsoft.com的狀態？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085479</id>
+        <link href="https://news.ycombinator.com/item?id=31085479"/>
+        <updated>2022-04-19T16:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does Microsoft keep answers.microsoft.com up?]]></summary>
+        <author>
+            <name>gtirloni</name>
+            <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[諾託 "的字體和 "不再吃豆腐 "是無意的種族主義者嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085461</id>
+        <link href="https://news.ycombinator.com/item?id=31085461"/>
+        <updated>2022-04-19T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is “Noto” fonts and “No More Tofu” is unintentional racist?]]></summary>
+        <author>
+            <name>asiachick</name>
+            <uri>https://news.ycombinator.com/user?id=asiachick</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的博主/互聯網人士有哪些？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085283</id>
+        <link href="https://news.ycombinator.com/item?id=31085283"/>
+        <updated>2022-04-19T16:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who are some of your favorite bloggers / internet people?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的一生中，有哪些技術的出現和消失]]></title>
         <id>https://news.ycombinator.com/item?id=31085005</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>oger</name>
             <uri>https://news.ycombinator.com/user?id=oger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Markdown/reStructuredText寫STEM領域的博士論文？]]></title>
-        <id>https://news.ycombinator.com/item?id=30931168</id>
-        <link href="https://news.ycombinator.com/item?id=30931168"/>
-        <updated>2022-04-06T12:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Markdown/reStructuredText to write a PhD thesis in STEM fields?]]></summary>
-        <author>
-            <name>s1291</name>
-            <uri>https://news.ycombinator.com/user?id=s1291</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對Apache Isis有什麼經驗嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30930827</id>
-        <link href="https://news.ycombinator.com/item?id=30930827"/>
-        <updated>2022-04-06T11:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Experience with Apache Isis?]]></summary>
-        <author>
-            <name>rlawson</name>
-            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投資者報告的最佳工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30930766</id>
-        <link href="https://news.ycombinator.com/item?id=30930766"/>
-        <updated>2022-04-06T11:15:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Tool for Investors Reporting?]]></summary>
-        <author>
-            <name>kodjima33</name>
-            <uri>https://news.ycombinator.com/user?id=kodjima33</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何索引所有可能的HN新鏈接？]]></title>
-        <id>https://news.ycombinator.com/item?id=30930552</id>
-        <link href="https://news.ycombinator.com/item?id=30930552"/>
-        <updated>2022-04-06T10:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to index all possible HN new links?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
         </author>
     </entry>
 </feed>
