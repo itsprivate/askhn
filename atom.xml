@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T21:12:53.610Z</updated>
+    <updated>2022-04-19T21:32:24.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网站的最佳宽度？]]></title>
+        <id>https://news.ycombinator.com/item?id=31089367</id>
+        <link href="https://news.ycombinator.com/item?id=31089367"/>
+        <updated>2022-04-19T21:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Width for Website?]]></summary>
+        <author>
+            <name>iio7</name>
+            <uri>https://news.ycombinator.com/user?id=iio7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在为他们的视频游戏工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=31089284</id>
+        <link href="https://news.ycombinator.com/item?id=31089284"/>
+        <updated>2022-04-19T21:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who's working on their video game?]]></summary>
+        <author>
+            <name>YesBox</name>
+            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专业人士的自定义域名电子邮件？]]></title>
         <id>https://news.ycombinator.com/item?id=31088920</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>me_me_mu_mu</name>
             <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对跟踪黑客马拉松有兴趣吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30934807</id>
-        <link href="https://news.ycombinator.com/item?id=30934807"/>
-        <updated>2022-04-06T17:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Interest in Following a Hackathon?]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享你的个人网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30934529</id>
-        <link href="https://news.ycombinator.com/item?id=30934529"/>
-        <updated>2022-04-06T16:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share Your Personal Site]]></summary>
-        <author>
-            <name>MaxLeiter</name>
-            <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
         </author>
     </entry>
 </feed>
