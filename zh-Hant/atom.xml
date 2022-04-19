@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T21:32:25.063Z</updated>
+    <updated>2022-04-19T21:41:02.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一個針對Elixir的增強協議（即Python的PEP）？]]></title>
+        <id>https://news.ycombinator.com/item?id=31089560</id>
+        <link href="https://news.ycombinator.com/item?id=31089560"/>
+        <updated>2022-04-19T21:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there an enhancement protocol (i.e. PEP for Python) for Elixir?]]></summary>
+        <author>
+            <name>arthurcolle</name>
+            <uri>https://news.ycombinator.com/user?id=arthurcolle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網站的最佳寬度？]]></title>
         <id>https://news.ycombinator.com/item?id=31089367</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密貨幣/區塊鏈基本上是對數據隱私終結的一種軟性推動？]]></title>
-        <id>https://news.ycombinator.com/item?id=30934862</id>
-        <link href="https://news.ycombinator.com/item?id=30934862"/>
-        <updated>2022-04-06T17:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is crypto/blockchain basically a soft push into end of data privacy?]]></summary>
-        <author>
-            <name>me_me_mu_mu</name>
-            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
         </author>
     </entry>
 </feed>

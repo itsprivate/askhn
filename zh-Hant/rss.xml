@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 21:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 21:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有一個針對Elixir的增強協議（即Python的PEP）？]]></title>
+            <link>https://news.ycombinator.com/item?id=31089560</link>
+            <guid>https://news.ycombinator.com/item?id=31089560</guid>
+            <pubDate>Tue, 19 Apr 2022 21:35:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there an enhancement protocol (i.e. PEP for Python) for Elixir?]]></description>
+        </item>
         <item>
             <title><![CDATA[網站的最佳寬度？]]></title>
             <link>https://news.ycombinator.com/item?id=31089367</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30934876</guid>
             <pubDate>Wed, 06 Apr 2022 17:13:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Favorite Dataset Search Engine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密貨幣/區塊鏈基本上是對數據隱私終結的一種軟性推動？]]></title>
-            <link>https://news.ycombinator.com/item?id=30934862</link>
-            <guid>https://news.ycombinator.com/item?id=30934862</guid>
-            <pubDate>Wed, 06 Apr 2022 17:12:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is crypto/blockchain basically a soft push into end of data privacy?]]></description>
         </item>
     </channel>
 </rss>
