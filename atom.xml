@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T10:53:03.444Z</updated>
+    <updated>2022-04-19T11:13:25.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于写论文的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=31081568</id>
+        <link href="https://news.ycombinator.com/item?id=31081568"/>
+        <updated>2022-04-19T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on Writing Papers]]></summary>
+        <author>
+            <name>drapado</name>
+            <uri>https://news.ycombinator.com/user?id=drapado</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[结构完全不同的电子商务网站？]]></title>
         <id>https://news.ycombinator.com/item?id=31081484</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>highwayman47</name>
             <uri>https://news.ycombinator.com/user?id=highwayman47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在2022年4月的月度更新是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30927085</id>
-        <link href="https://news.ycombinator.com/item?id=30927085"/>
-        <updated>2022-04-06T00:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your monthly updates for April 2022?]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
         </author>
     </entry>
 </feed>
