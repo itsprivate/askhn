@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T18:41:26.628Z</updated>
+    <updated>2022-04-19T19:00:50.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪個電子郵件應用程序可以信任我的數據？]]></title>
+        <id>https://news.ycombinator.com/item?id=31087248</id>
+        <link href="https://news.ycombinator.com/item?id=31087248"/>
+        <updated>2022-04-19T18:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which email app can be trusted with my data?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你們對塔羅牌或其他形而上學的東西有什麼看法？]]></title>
         <id>https://news.ycombinator.com/item?id=31086805</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hugohamelcom</name>
             <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼從風險投資公司籌集資金被當作一種榮譽的標誌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30925205</id>
-        <link href="https://news.ycombinator.com/item?id=30925205"/>
-        <updated>2022-04-05T21:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is raising money from VCs worn as a badge of honour?]]></summary>
-        <author>
-            <name>ilrwbwrkhv</name>
-            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
         </author>
     </entry>
 </feed>
