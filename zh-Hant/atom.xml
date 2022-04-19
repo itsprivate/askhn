@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T14:42:56.848Z</updated>
+    <updated>2022-04-19T15:40:36.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gsuite賬戶突然收不到郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=31084448</id>
+        <link href="https://news.ycombinator.com/item?id=31084448"/>
+        <updated>2022-04-19T15:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Gsuite account suddenly not receiving emails]]></summary>
+        <author>
+            <name>churchill</name>
+            <uri>https://news.ycombinator.com/user?id=churchill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何確保文檔中的代碼片段是有效的和最新的？]]></title>
         <id>https://news.ycombinator.com/item?id=31083679</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PavleMiha</name>
             <uri>https://news.ycombinator.com/user?id=PavleMiha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有孩子的工程師們，你們圍繞洗衣服建立了哪些流程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30930412</id>
-        <link href="https://news.ycombinator.com/item?id=30930412"/>
-        <updated>2022-04-06T10:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Engineers with kids, what processes have you built around laundry?]]></summary>
-        <author>
-            <name>markessien</name>
-            <uri>https://news.ycombinator.com/user?id=markessien</uri>
         </author>
     </entry>
 </feed>
