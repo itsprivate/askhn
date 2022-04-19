@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T17:49:18.550Z</updated>
+    <updated>2022-04-19T18:15:37.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[愚蠢的数据库？]]></title>
+        <id>https://news.ycombinator.com/item?id=31086651</id>
+        <link href="https://news.ycombinator.com/item?id=31086651"/>
+        <updated>2022-04-19T18:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A Dumb Database?]]></summary>
+        <author>
+            <name>kashnote</name>
+            <uri>https://news.ycombinator.com/user?id=kashnote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何理解你被技术面试拒绝的原因？]]></title>
         <id>https://news.ycombinator.com/item?id=31086010</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sad-throwaway</name>
             <uri>https://news.ycombinator.com/user?id=sad-throwaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有应对急性焦虑症的技巧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30932645</id>
-        <link href="https://news.ycombinator.com/item?id=30932645"/>
-        <updated>2022-04-06T14:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there techniques to cope with acute anxiety?]]></summary>
-        <author>
-            <name>FreeHugs</name>
-            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
         </author>
     </entry>
 </feed>
