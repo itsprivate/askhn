@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T11:13:25.666Z</updated>
+    <updated>2022-04-19T11:40:22.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名開發人員，每天有哪些事情讓你感到煩惱？]]></title>
+        <id>https://news.ycombinator.com/item?id=31081799</id>
+        <link href="https://news.ycombinator.com/item?id=31081799"/>
+        <updated>2022-04-19T11:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the things that annoy you daily as a dev?]]></summary>
+        <author>
+            <name>iamandras</name>
+            <uri>https://news.ycombinator.com/user?id=iamandras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於寫論文的建議]]></title>
         <id>https://news.ycombinator.com/item?id=31081568</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>assemblylang</name>
             <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據科學是如何在風險投資中得到應用的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30927519</id>
-        <link href="https://news.ycombinator.com/item?id=30927519"/>
-        <updated>2022-04-06T01:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is data science being used in venture capital?]]></summary>
-        <author>
-            <name>highwayman47</name>
-            <uri>https://news.ycombinator.com/user?id=highwayman47</uri>
         </author>
     </entry>
 </feed>

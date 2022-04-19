@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作為一名開發人員，每天有哪些事情讓你感到煩惱？]]></title>
+            <link>https://news.ycombinator.com/item?id=31081799</link>
+            <guid>https://news.ycombinator.com/item?id=31081799</guid>
+            <pubDate>Tue, 19 Apr 2022 11:35:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the things that annoy you daily as a dev?]]></description>
+        </item>
         <item>
             <title><![CDATA[關於寫論文的建議]]></title>
             <link>https://news.ycombinator.com/item?id=31081568</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30927727</guid>
             <pubDate>Wed, 06 Apr 2022 02:17:40 GMT</pubDate>
             <description><![CDATA[Ask HN: What old or deprecated software do you wish was still updated?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[數據科學是如何在風險投資中得到應用的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30927519</link>
-            <guid>https://news.ycombinator.com/item?id=30927519</guid>
-            <pubDate>Wed, 06 Apr 2022 01:48:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: How is data science being used in venture capital?]]></description>
         </item>
     </channel>
 </rss>
