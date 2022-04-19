@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 15:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 16:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在你的一生中，有哪些技术的出现和消失]]></title>
+            <link>https://news.ycombinator.com/item?id=31085005</link>
+            <guid>https://news.ycombinator.com/item?id=31085005</guid>
+            <pubDate>Tue, 19 Apr 2022 16:05:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: What technologies have come and gone in your lifetime]]></description>
+        </item>
         <item>
             <title><![CDATA[Gsuite账户突然收不到邮件]]></title>
             <link>https://news.ycombinator.com/item?id=31084448</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30930552</guid>
             <pubDate>Wed, 06 Apr 2022 10:43:46 GMT</pubDate>
             <description><![CDATA[Ask HN: How to index all possible HN new links?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌的新PaLM模型的训练成本是多少？]]></title>
-            <link>https://news.ycombinator.com/item?id=30930462</link>
-            <guid>https://news.ycombinator.com/item?id=30930462</guid>
-            <pubDate>Wed, 06 Apr 2022 10:28:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: How much did Google's new PaLM model cost to train?]]></description>
         </item>
     </channel>
 </rss>
