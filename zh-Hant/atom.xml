@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T16:58:46.745Z</updated>
+    <updated>2022-04-19T17:23:24.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理改變生活的決定？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085918</id>
+        <link href="https://news.ycombinator.com/item?id=31085918"/>
+        <updated>2022-04-19T17:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with life altering decisions?]]></summary>
+        <author>
+            <name>agingcat85</name>
+            <uri>https://news.ycombinator.com/user?id=agingcat85</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否存在這樣的工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=31085784</id>
+        <link href="https://news.ycombinator.com/item?id=31085784"/>
+        <updated>2022-04-19T17:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does a tool like this exist?]]></summary>
+        <author>
+            <name>TrevorJ</name>
+            <uri>https://news.ycombinator.com/user?id=TrevorJ</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能從Quickbooks中拿回我的錢？]]></title>
         <id>https://news.ycombinator.com/item?id=31085559</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於自閉症患者來說，在IT行業找到一份遠程工作有什麼建議嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30932014</id>
-        <link href="https://news.ycombinator.com/item?id=30932014"/>
-        <updated>2022-04-06T13:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any tips on finding a remote Job in IT for someone with autism?]]></summary>
-        <author>
-            <name>ITemployee</name>
-            <uri>https://news.ycombinator.com/user?id=ITemployee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的項目維護者--哪些項目處於危險之中？]]></title>
-        <id>https://news.ycombinator.com/item?id=30931601</id>
-        <link href="https://news.ycombinator.com/item?id=30931601"/>
-        <updated>2022-04-06T13:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Project maintainers in Ukraine – which projects are in danger?]]></summary>
-        <author>
-            <name>oger</name>
-            <uri>https://news.ycombinator.com/user?id=oger</uri>
         </author>
     </entry>
 </feed>
