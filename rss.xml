@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[走容易的路还是难走的路？]]></title>
+            <link>https://news.ycombinator.com/item?id=31082014</link>
+            <guid>https://news.ycombinator.com/item?id=31082014</guid>
+            <pubDate>Tue, 19 Apr 2022 12:06:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: Take the easy road or the hard road?]]></description>
+        </item>
         <item>
             <title><![CDATA[作为一名开发人员，每天有哪些事情让你感到烦恼？]]></title>
             <link>https://news.ycombinator.com/item?id=31081799</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30928012</guid>
             <pubDate>Wed, 06 Apr 2022 03:03:06 GMT</pubDate>
             <description><![CDATA[Ask HN: Examples of great “wow, this is a pain point” moment?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你希望哪些旧的或已废弃的软件仍能更新？]]></title>
-            <link>https://news.ycombinator.com/item?id=30927727</link>
-            <guid>https://news.ycombinator.com/item?id=30927727</guid>
-            <pubDate>Wed, 06 Apr 2022 02:17:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: What old or deprecated software do you wish was still updated?]]></description>
         </item>
     </channel>
 </rss>

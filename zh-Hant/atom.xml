@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T11:40:22.721Z</updated>
+    <updated>2022-04-19T12:22:12.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[走容易的路還是難走的路？]]></title>
+        <id>https://news.ycombinator.com/item?id=31082014</id>
+        <link href="https://news.ycombinator.com/item?id=31082014"/>
+        <updated>2022-04-19T12:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Take the easy road or the hard road?]]></summary>
+        <author>
+            <name>ryeguy_24</name>
+            <uri>https://news.ycombinator.com/user?id=ryeguy_24</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一名開發人員，每天有哪些事情讓你感到煩惱？]]></title>
         <id>https://news.ycombinator.com/item?id=31081799</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>greentfrapp</name>
             <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望哪些舊的或已廢棄的軟件仍能更新？]]></title>
-        <id>https://news.ycombinator.com/item?id=30927727</id>
-        <link href="https://news.ycombinator.com/item?id=30927727"/>
-        <updated>2022-04-06T02:17:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What old or deprecated software do you wish was still updated?]]></summary>
-        <author>
-            <name>assemblylang</name>
-            <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
         </author>
     </entry>
 </feed>
