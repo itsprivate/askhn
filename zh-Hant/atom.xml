@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T12:22:12.931Z</updated>
+    <updated>2022-04-19T13:06:13.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎麼知道什麼時候新穎的遊戲機制已經足夠好，可以發佈？]]></title>
+        <id>https://news.ycombinator.com/item?id=31082304</id>
+        <link href="https://news.ycombinator.com/item?id=31082304"/>
+        <updated>2022-04-19T12:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you know when novel game mechanics are good enough for release?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[走容易的路還是難走的路？]]></title>
         <id>https://news.ycombinator.com/item?id=31082014</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["哇，這是一個痛點 "的偉大時刻的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30928012</id>
-        <link href="https://news.ycombinator.com/item?id=30928012"/>
-        <updated>2022-04-06T03:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Examples of great “wow, this is a pain point” moment?]]></summary>
-        <author>
-            <name>greentfrapp</name>
-            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
         </author>
     </entry>
 </feed>
