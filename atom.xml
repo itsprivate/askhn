@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T19:29:25.164Z</updated>
+    <updated>2022-04-19T19:53:37.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果ID出现奇怪的错误]]></title>
+        <id>https://news.ycombinator.com/item?id=31087958</id>
+        <link href="https://news.ycombinator.com/item?id=31087958"/>
+        <updated>2022-04-19T19:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Strange Errors on Apple ID]]></summary>
+        <author>
+            <name>yourkin</name>
+            <uri>https://news.ycombinator.com/user?id=yourkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的进程只在M1效率核心上得到调度]]></title>
         <id>https://news.ycombinator.com/item?id=31087550</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SongofEarth</name>
             <uri>https://news.ycombinator.com/user?id=SongofEarth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为人类的智慧是分段的吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30933476</id>
-        <link href="https://news.ycombinator.com/item?id=30933476"/>
-        <updated>2022-04-06T15:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think human intelligence is segmented?]]></summary>
-        <author>
-            <name>Randolf_Scott</name>
-            <uri>https://news.ycombinator.com/user?id=Randolf_Scott</uri>
         </author>
     </entry>
 </feed>
