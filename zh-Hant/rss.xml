@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 19 Apr 2022 19:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 20:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[渲染圖形的框架]]></title>
+            <link>https://news.ycombinator.com/item?id=31088065</link>
+            <guid>https://news.ycombinator.com/item?id=31088065</guid>
+            <pubDate>Tue, 19 Apr 2022 19:50:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: A Framework for Rendering Graphs]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果ID出現奇怪的錯誤]]></title>
             <link>https://news.ycombinator.com/item?id=31087958</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30934512</guid>
             <pubDate>Wed, 06 Apr 2022 16:47:35 GMT</pubDate>
             <description><![CDATA[Ask HN: Shared Database Anti(?)-Pattern]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你對什麼硬件技術/創業公司感到興奮？]]></title>
-            <link>https://news.ycombinator.com/item?id=30933572</link>
-            <guid>https://news.ycombinator.com/item?id=30933572</guid>
-            <pubDate>Wed, 06 Apr 2022 15:51:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: What hardware technology/startup are you excited about?]]></description>
         </item>
     </channel>
 </rss>
