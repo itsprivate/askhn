@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T09:45:05.219Z</updated>
+    <updated>2022-04-19T10:37:50.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉汽车公司应该致力于大众运输/公共交通的发展]]></title>
+        <id>https://news.ycombinator.com/item?id=31081339</id>
+        <link href="https://news.ycombinator.com/item?id=31081339"/>
+        <updated>2022-04-19T10:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tesla Motors should be working on mass transport/public transport]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果M1硅上的Docker]]></title>
         <id>https://news.ycombinator.com/item?id=31081193</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chiefalchemist</name>
             <uri>https://news.ycombinator.com/user?id=chiefalchemist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的算法是如何在头版显示条目的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30925719</id>
-        <link href="https://news.ycombinator.com/item?id=30925719"/>
-        <updated>2022-04-05T22:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does HN algrorithm work for displaying entries on the front page?]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
         </author>
     </entry>
 </feed>
