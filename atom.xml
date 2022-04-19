@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T22:53:25.116Z</updated>
+    <updated>2022-04-19T23:51:51.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自由移民不应该是一项人权吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31090787</id>
+        <link href="https://news.ycombinator.com/item?id=31090787"/>
+        <updated>2022-04-19T23:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Shouldn't free migration be a human right?]]></summary>
+        <author>
+            <name>Avtomatk</name>
+            <uri>https://news.ycombinator.com/user?id=Avtomatk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何创建一个简单的博客？]]></title>
         <id>https://news.ycombinator.com/item?id=31090355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rococode</name>
             <uri>https://news.ycombinator.com/user?id=rococode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全导出AWS配置的工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30934910</id>
-        <link href="https://news.ycombinator.com/item?id=30934910"/>
-        <updated>2022-04-06T17:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tool to export AWS configuration entirely?]]></summary>
-        <author>
-            <name>rfraile</name>
-            <uri>https://news.ycombinator.com/user?id=rfraile</uri>
         </author>
     </entry>
 </feed>
