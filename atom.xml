@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-18T23:52:41.754Z</updated>
+    <updated>2022-04-19T00:42:39.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN上有这么多的讽刺？]]></title>
+        <id>https://news.ycombinator.com/item?id=31078452</id>
+        <link href="https://news.ycombinator.com/item?id=31078452"/>
+        <updated>2022-04-19T00:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there so much snark on HN?]]></summary>
+        <author>
+            <name>bjourne</name>
+            <uri>https://news.ycombinator.com/user?id=bjourne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天你需要得到多少钱才能永远24小时待命？]]></title>
         <id>https://news.ycombinator.com/item?id=31078112</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tiffanyh</name>
             <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否注意到UpWork上的垃圾帖子的增加？]]></title>
-        <id>https://news.ycombinator.com/item?id=30921841</id>
-        <link href="https://news.ycombinator.com/item?id=30921841"/>
-        <updated>2022-04-05T17:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you noticed the rise of spam posts on UpWork?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
