@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T04:22:33.504Z</updated>
+    <updated>2022-04-19T06:16:54.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為寶寶準備的GNU/Linux發行版]]></title>
+        <id>https://news.ycombinator.com/item?id=31080090</id>
+        <link href="https://news.ycombinator.com/item?id=31080090"/>
+        <updated>2022-04-19T06:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: GNU/Linux Distro for a Baby]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼SaaS公司的銷售成本這麼高？]]></title>
         <id>https://news.ycombinator.com/item?id=31079649</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hmmokidk</name>
             <uri>https://news.ycombinator.com/user?id=hmmokidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在編程時，播客是否比音樂更不容易分心？]]></title>
-        <id>https://news.ycombinator.com/item?id=30925168</id>
-        <link href="https://news.ycombinator.com/item?id=30925168"/>
-        <updated>2022-04-05T21:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are podcasts less distracting than music when programming?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
