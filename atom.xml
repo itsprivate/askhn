@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T07:33:45.939Z</updated>
+    <updated>2022-04-20T07:51:55.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些是数据科学职业的新技能？]]></title>
+        <id>https://news.ycombinator.com/item?id=31093910</id>
+        <link href="https://news.ycombinator.com/item?id=31093910"/>
+        <updated>2022-04-20T07:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which new skills for a data science career?]]></summary>
+        <author>
+            <name>dsbyaccident</name>
+            <uri>https://news.ycombinator.com/user?id=dsbyaccident</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最近的倦怠程度如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31093839</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ilovecaching</name>
             <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会在家里建造它，还是先辞掉工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935587</id>
-        <link href="https://news.ycombinator.com/item?id=30935587"/>
-        <updated>2022-04-06T18:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you build it in house or quit your job first?]]></summary>
-        <author>
-            <name>wilhow</name>
-            <uri>https://news.ycombinator.com/user?id=wilhow</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:51:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哪些是数据科学职业的新技能？]]></title>
+            <link>https://news.ycombinator.com/item?id=31093910</link>
+            <guid>https://news.ycombinator.com/item?id=31093910</guid>
+            <pubDate>Wed, 20 Apr 2022 07:42:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which new skills for a data science career?]]></description>
+        </item>
         <item>
             <title><![CDATA[你最近的倦怠程度如何？]]></title>
             <link>https://news.ycombinator.com/item?id=31093839</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30935918</guid>
             <pubDate>Wed, 06 Apr 2022 18:44:16 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you believe in GNU's Free Software?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你会在家里建造它，还是先辞掉工作？]]></title>
-            <link>https://news.ycombinator.com/item?id=30935587</link>
-            <guid>https://news.ycombinator.com/item?id=30935587</guid>
-            <pubDate>Wed, 06 Apr 2022 18:16:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Would you build it in house or quit your job first?]]></description>
         </item>
     </channel>
 </rss>
