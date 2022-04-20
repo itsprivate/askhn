@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T07:51:55.829Z</updated>
+    <updated>2022-04-20T08:41:39.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何开源的Spotify客户端？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094158</id>
+        <link href="https://news.ycombinator.com/item?id=31094158"/>
+        <updated>2022-04-20T08:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any open-source Spotify Clients?]]></summary>
+        <author>
+            <name>thebiblelover7</name>
+            <uri>https://news.ycombinator.com/user?id=thebiblelover7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是数据科学职业的新技能？]]></title>
         <id>https://news.ycombinator.com/item?id=31093910</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>novateg</name>
             <uri>https://news.ycombinator.com/user?id=novateg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你相信GNU的自由软件吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935918</id>
-        <link href="https://news.ycombinator.com/item?id=30935918"/>
-        <updated>2022-04-06T18:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you believe in GNU's Free Software?]]></summary>
-        <author>
-            <name>ilovecaching</name>
-            <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
         </author>
     </entry>
 </feed>
