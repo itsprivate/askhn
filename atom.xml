@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T19:52:54.684Z</updated>
+    <updated>2022-04-20T20:16:44.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在智能手表上进行无创葡萄糖监测在技术上是否可行？]]></title>
+        <id>https://news.ycombinator.com/item?id=31102229</id>
+        <link href="https://news.ycombinator.com/item?id=31102229"/>
+        <updated>2022-04-20T20:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is non-invasive glucose monitoring technically feasible on a smartwatch?]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么这个图像看起来是3D的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31102152</id>
+        <link href="https://news.ycombinator.com/item?id=31102152"/>
+        <updated>2022-04-20T19:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does this image look 3D?]]></summary>
+        <author>
+            <name>LeoPanthera</name>
+            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们怎样才能改善慢性健康状况的诊断和治疗？]]></title>
         <id>https://news.ycombinator.com/item?id=31101899</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>logicallee</name>
             <uri>https://news.ycombinator.com/user?id=logicallee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于网络开发的最佳视频编辑工具库？]]></title>
-        <id>https://news.ycombinator.com/item?id=30943151</id>
-        <link href="https://news.ycombinator.com/item?id=30943151"/>
-        <updated>2022-04-07T11:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Video editing tool library for web development?]]></summary>
-        <author>
-            <name>noamski</name>
-            <uri>https://news.ycombinator.com/user?id=noamski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何跟上HN的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30943126</id>
-        <link href="https://news.ycombinator.com/item?id=30943126"/>
-        <updated>2022-04-07T11:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you keep up with HN?]]></summary>
-        <author>
-            <name>wseqyrku</name>
-            <uri>https://news.ycombinator.com/user?id=wseqyrku</uri>
         </author>
     </entry>
 </feed>
