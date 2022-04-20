@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-19T23:51:51.103Z</updated>
+    <updated>2022-04-20T03:05:28.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你创造了什么（技术和其他）？]]></title>
+        <id>https://news.ycombinator.com/item?id=31092292</id>
+        <link href="https://news.ycombinator.com/item?id=31092292"/>
+        <updated>2022-04-20T02:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you create (tech and otherwise)?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讨论WIP编程项目的在线社区（我的和其他的）？]]></title>
+        <id>https://news.ycombinator.com/item?id=31092110</id>
+        <link href="https://news.ycombinator.com/item?id=31092110"/>
+        <updated>2022-04-20T02:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Online comunities to discuss WIP programming projects (mine and others)?]]></summary>
+        <author>
+            <name>emi2k01</name>
+            <uri>https://news.ycombinator.com/user?id=emi2k01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对你的思维方式有很大影响的思想家？]]></title>
+        <id>https://news.ycombinator.com/item?id=31092008</id>
+        <link href="https://news.ycombinator.com/item?id=31092008"/>
+        <updated>2022-04-20T02:14:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thinkers that have greatly influenced your way of thinking?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由移民不应该是一项人权吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31090787</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对0-downtime管理的Postgres迁移工具感兴趣吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935206</id>
-        <link href="https://news.ycombinator.com/item?id=30935206"/>
-        <updated>2022-04-06T17:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Interest in a 0-downtime managed Postgres migration tool?]]></summary>
-        <author>
-            <name>teaearlgraycold</name>
-            <uri>https://news.ycombinator.com/user?id=teaearlgraycold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM/IEEE会员。值得吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935101</id>
-        <link href="https://news.ycombinator.com/item?id=30935101"/>
-        <updated>2022-04-06T17:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ACM/IEEE membership. Worth it?]]></summary>
-        <author>
-            <name>sdevonoes</name>
-            <uri>https://news.ycombinator.com/user?id=sdevonoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜欢学习什么话题来取乐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935094</id>
-        <link href="https://news.ycombinator.com/item?id=30935094"/>
-        <updated>2022-04-06T17:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What topics do you enjoy learning about for fun?]]></summary>
-        <author>
-            <name>rococode</name>
-            <uri>https://news.ycombinator.com/user?id=rococode</uri>
         </author>
     </entry>
 </feed>
