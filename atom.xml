@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T21:33:45.772Z</updated>
+    <updated>2022-04-20T21:51:52.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN上有没有人在新的网络项目中使用Vanilla JavaScript？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103460</id>
+        <link href="https://news.ycombinator.com/item?id=31103460"/>
+        <updated>2022-04-20T21:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Anyone on HN Using Vanilla JavaScript for New Web Projects?]]></summary>
+        <author>
+            <name>__app_dev__</name>
+            <uri>https://news.ycombinator.com/user?id=__app_dev__</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就经济增长而言，是否就是这样？]]></title>
         <id>https://news.ycombinator.com/item?id=31103041</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hugohamelcom</name>
             <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对导师制感兴趣？构建社区，付出行动]]></title>
-        <id>https://news.ycombinator.com/item?id=30943556</id>
-        <link href="https://news.ycombinator.com/item?id=30943556"/>
-        <updated>2022-04-07T12:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Interested in mentorship? Building community, paying it forward]]></summary>
-        <author>
-            <name>throwlllllllll</name>
-            <uri>https://news.ycombinator.com/user?id=throwlllllllll</uri>
         </author>
     </entry>
 </feed>
