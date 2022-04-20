@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T13:06:53.090Z</updated>
+    <updated>2022-04-20T13:41:14.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果工作很糟糕，該怎麼辦？]]></title>
+        <id>https://news.ycombinator.com/item?id=31095379</id>
+        <link href="https://news.ycombinator.com/item?id=31095379"/>
+        <updated>2022-04-20T11:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do if job sucks?]]></summary>
+        <author>
+            <name>intronextron</name>
+            <uri>https://news.ycombinator.com/user?id=intronextron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼方法可以同時閃現多個安卓設備嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31096030</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>icapybara</name>
             <uri>https://news.ycombinator.com/user?id=icapybara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我62歲的父親如何才能找到工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30940069</id>
-        <link href="https://news.ycombinator.com/item?id=30940069"/>
-        <updated>2022-04-07T02:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can my 62 year old father get a job?]]></summary>
-        <author>
-            <name>notuger</name>
-            <uri>https://news.ycombinator.com/user?id=notuger</uri>
         </author>
     </entry>
 </feed>
