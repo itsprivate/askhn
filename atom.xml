@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T11:39:08.330Z</updated>
+    <updated>2022-04-20T11:52:11.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教授们很聪明，但厌恶风险，这就是他们想获得终身职位的原因吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31095475</id>
+        <link href="https://news.ycombinator.com/item?id=31095475"/>
+        <updated>2022-04-20T11:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are professors smart but risk averse and that's why they want tenure?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解计算机历史的最佳途径]]></title>
         <id>https://news.ycombinator.com/item?id=31095360</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sincere</name>
             <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["向上管理"--与C级人员合作]]></title>
-        <id>https://news.ycombinator.com/item?id=30939120</id>
-        <link href="https://news.ycombinator.com/item?id=30939120"/>
-        <updated>2022-04-07T00:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: “Managing Up” – Working with the C-level]]></summary>
-        <author>
-            <name>JBlue42</name>
-            <uri>https://news.ycombinator.com/user?id=JBlue42</uri>
         </author>
     </entry>
 </feed>
