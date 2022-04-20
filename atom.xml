@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T09:12:54.082Z</updated>
+    <updated>2022-04-20T09:45:58.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[目前大规模代码搜索的最先进水平？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094542</id>
+        <link href="https://news.ycombinator.com/item?id=31094542"/>
+        <updated>2022-04-20T09:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Current state-of-the-art for large scale code search?]]></summary>
+        <author>
+            <name>csqask</name>
+            <uri>https://news.ycombinator.com/user?id=csqask</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows开发设置？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094486</id>
+        <link href="https://news.ycombinator.com/item?id=31094486"/>
+        <updated>2022-04-20T09:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Windows Dev Setup?]]></summary>
+        <author>
+            <name>iansowinski</name>
+            <uri>https://news.ycombinator.com/user?id=iansowinski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人给他们的工作文件提供版本？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094443</id>
+        <link href="https://news.ycombinator.com/item?id=31094443"/>
+        <updated>2022-04-20T09:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Nobody versions their work files?]]></summary>
+        <author>
+            <name>ttoinou</name>
+            <uri>https://news.ycombinator.com/user?id=ttoinou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在-2000美元范围内，什么是适合软件开发的笔记本电脑？]]></title>
         <id>https://news.ycombinator.com/item?id=31094361</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>captaincrunch</name>
             <uri>https://news.ycombinator.com/user?id=captaincrunch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Mac的工具，从文件系统创建数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=30936319</id>
-        <link href="https://news.ycombinator.com/item?id=30936319"/>
-        <updated>2022-04-06T19:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tool for Mac, create database from filesystem]]></summary>
-        <author>
-            <name>beamatronic</name>
-            <uri>https://news.ycombinator.com/user?id=beamatronic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁是（Dev/Ops/SEC）技术领域最吸引人的作家/博主？]]></title>
-        <id>https://news.ycombinator.com/item?id=30936163</id>
-        <link href="https://news.ycombinator.com/item?id=30936163"/>
-        <updated>2022-04-06T19:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who are the most engaging writers / bloggers in (Dev/Ops/SEC) Tech?]]></summary>
-        <author>
-            <name>historynops</name>
-            <uri>https://news.ycombinator.com/user?id=historynops</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该拒绝带有最惠国条款的YC投资吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30936150</id>
-        <link href="https://news.ycombinator.com/item?id=30936150"/>
-        <updated>2022-04-06T19:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I turn down an investment with an MFN clause for YC?]]></summary>
-        <author>
-            <name>mfn-throw</name>
-            <uri>https://news.ycombinator.com/user?id=mfn-throw</uri>
         </author>
     </entry>
 </feed>
