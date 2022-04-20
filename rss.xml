@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 16:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Product Hunt发生了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31099836</link>
+            <guid>https://news.ycombinator.com/item?id=31099836</guid>
+            <pubDate>Wed, 20 Apr 2022 16:58:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to Product Hunt?]]></description>
+        </item>
         <item>
             <title><![CDATA[你使用优化求解器吗？哪一个？为什么？你喜欢它吗？]]></title>
             <link>https://news.ycombinator.com/item?id=31099186</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30942366</guid>
             <pubDate>Thu, 07 Apr 2022 09:24:54 GMT</pubDate>
             <description><![CDATA[Ask HN: What is On-Call compensation like at your company?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么银行可以为Atlas公司提供服务，而不是SVB？]]></title>
-            <link>https://news.ycombinator.com/item?id=30942332</link>
-            <guid>https://news.ycombinator.com/item?id=30942332</guid>
-            <pubDate>Thu, 07 Apr 2022 09:18:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: What bank is available for Atlas companies that is not SVB?]]></description>
         </item>
     </channel>
 </rss>
