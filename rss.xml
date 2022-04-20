@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 22:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 23:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[B2B客户的讨论区]]></title>
+            <link>https://news.ycombinator.com/item?id=31104279</link>
+            <guid>https://news.ycombinator.com/item?id=31104279</guid>
+            <pubDate>Wed, 20 Apr 2022 23:14:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Discussion Board for B2B Customers]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何保证你的API的安全？]]></title>
             <link>https://news.ycombinator.com/item?id=31103983</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30945339</guid>
             <pubDate>Thu, 07 Apr 2022 15:02:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Writing a Windows Program in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在产品交流中，我应该使用 "我们 "还是 "我"？]]></title>
-            <link>https://news.ycombinator.com/item?id=30945142</link>
-            <guid>https://news.ycombinator.com/item?id=30945142</guid>
-            <pubDate>Thu, 07 Apr 2022 14:50:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I use “we” or “I” in product communication?]]></description>
         </item>
     </channel>
 </rss>
