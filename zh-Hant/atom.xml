@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T03:05:28.933Z</updated>
+    <updated>2022-04-20T07:00:27.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年，你如何管理你的網站內容？]]></title>
+        <id>https://news.ycombinator.com/item?id=31093585</id>
+        <link href="https://news.ycombinator.com/item?id=31093585"/>
+        <updated>2022-04-20T06:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you manage your site content in 2022]]></summary>
+        <author>
+            <name>m88m</name>
+            <uri>https://news.ycombinator.com/user?id=m88m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你創造了什麼（技術和其他）？]]></title>
         <id>https://news.ycombinator.com/item?id=31092292</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rockbruno</name>
             <uri>https://news.ycombinator.com/user?id=rockbruno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在西方，婦女的生活更容易嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935224</id>
-        <link href="https://news.ycombinator.com/item?id=30935224"/>
-        <updated>2022-04-06T17:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do women have an easier life in the west?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
