@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T15:41:17.436Z</updated>
+    <updated>2022-04-20T16:16:06.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能建議一個3.5立方英尺的冰箱嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31098981</id>
+        <link href="https://news.ycombinator.com/item?id=31098981"/>
+        <updated>2022-04-20T16:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could you suggest a 3.5 cu ft refrigerator (no Macs)]]></summary>
+        <author>
+            <name>JabavuAdams</name>
+            <uri>https://news.ycombinator.com/user?id=JabavuAdams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你們公司工作是什麼感覺？]]></title>
         <id>https://news.ycombinator.com/item?id=31098319</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戒酒的非酗酒者，你為什麼決定，以及發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30940872</id>
-        <link href="https://news.ycombinator.com/item?id=30940872"/>
-        <updated>2022-04-07T05:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-Alcoholics Who Quit Drinking, Why Did You Decide, and What Happened?]]></summary>
-        <author>
-            <name>idontwantthis</name>
-            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
         </author>
     </entry>
 </feed>
