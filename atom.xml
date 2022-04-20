@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T16:16:06.434Z</updated>
+    <updated>2022-04-20T16:59:40.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用优化求解器吗？哪一个？为什么？你喜欢它吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31099186</id>
+        <link href="https://news.ycombinator.com/item?id=31099186"/>
+        <updated>2022-04-20T16:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use an optimization solver? Which one? Why? Do you like it?]]></summary>
+        <author>
+            <name>ryan-nextmv</name>
+            <uri>https://news.ycombinator.com/user?id=ryan-nextmv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能建议一个3.5立方英尺的冰箱吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31098981</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DoubleMalt</name>
             <uri>https://news.ycombinator.com/user?id=DoubleMalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你还在使用Facebook.com进行商业活动吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30941236</id>
-        <link href="https://news.ycombinator.com/item?id=30941236"/>
-        <updated>2022-04-07T06:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you still use Facebook.com for business anymore?]]></summary>
-        <author>
-            <name>nowherebeen</name>
-            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
         </author>
     </entry>
 </feed>
