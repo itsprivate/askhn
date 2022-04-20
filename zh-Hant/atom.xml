@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T21:51:52.843Z</updated>
+    <updated>2022-04-20T22:13:24.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube是否對你的每個視頻都默認為360p？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103719</id>
+        <link href="https://news.ycombinator.com/item?id=31103719"/>
+        <updated>2022-04-20T22:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has YouTube been defaulting every video to 360p for you?]]></summary>
+        <author>
+            <name>SUPERCILEX</name>
+            <uri>https://news.ycombinator.com/user?id=SUPERCILEX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN上有沒有人在新的網絡項目中使用Vanilla JavaScript？]]></title>
         <id>https://news.ycombinator.com/item?id=31103460</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rlawson</name>
             <uri>https://news.ycombinator.com/user?id=rlawson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何跟蹤你的財務狀況？]]></title>
-        <id>https://news.ycombinator.com/item?id=30943948</id>
-        <link href="https://news.ycombinator.com/item?id=30943948"/>
-        <updated>2022-04-07T13:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you track your finances?]]></summary>
-        <author>
-            <name>hugohamelcom</name>
-            <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
         </author>
     </entry>
 </feed>
