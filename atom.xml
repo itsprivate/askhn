@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T13:41:14.634Z</updated>
+    <updated>2022-04-20T14:02:09.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[循序渐进的增强发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31096946</id>
+        <link href="https://news.ycombinator.com/item?id=31096946"/>
+        <updated>2022-04-20T13:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whatever Happened to Progressive Enhancement?]]></summary>
+        <author>
+            <name>louissan</name>
+            <uri>https://news.ycombinator.com/user?id=louissan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果工作很糟糕，该怎么办？]]></title>
         <id>https://news.ycombinator.com/item?id=31095379</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arikr</name>
             <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么地图应用程序在不移动的情况下搞清楚方向的能力这么差？]]></title>
-        <id>https://news.ycombinator.com/item?id=30940287</id>
-        <link href="https://news.ycombinator.com/item?id=30940287"/>
-        <updated>2022-04-07T03:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are map apps so bad at figuring out direction when not moving?]]></summary>
-        <author>
-            <name>icapybara</name>
-            <uri>https://news.ycombinator.com/user?id=icapybara</uri>
         </author>
     </entry>
 </feed>
