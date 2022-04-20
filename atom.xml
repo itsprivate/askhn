@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T22:36:10.797Z</updated>
+    <updated>2022-04-20T22:49:14.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何保证你的API的安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103983</id>
+        <link href="https://news.ycombinator.com/item?id=31103983"/>
+        <updated>2022-04-20T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How you do secure your APIs?]]></summary>
+        <author>
+            <name>cmdli</name>
+            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在哪里可以轻松部署Docker容器？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103946</id>
+        <link href="https://news.ycombinator.com/item?id=31103946"/>
+        <updated>2022-04-20T22:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to deploy a Docker container easily?]]></summary>
+        <author>
+            <name>thiht</name>
+            <uri>https://news.ycombinator.com/user?id=thiht</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ELI5，从经济上讲，什么是增长？]]></title>
         <id>https://news.ycombinator.com/item?id=31103816</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>robbiejs</name>
             <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享一篇你花了很多时间的长篇文章]]></title>
-        <id>https://news.ycombinator.com/item?id=30944990</id>
-        <link href="https://news.ycombinator.com/item?id=30944990"/>
-        <updated>2022-04-07T14:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share a long-form post you spent a lot of time on]]></summary>
-        <author>
-            <name>panphora</name>
-            <uri>https://news.ycombinator.com/user?id=panphora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何有用/有趣的公共MQTT馈送？]]></title>
-        <id>https://news.ycombinator.com/item?id=30944717</id>
-        <link href="https://news.ycombinator.com/item?id=30944717"/>
-        <updated>2022-04-07T14:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any useful/interesting public MQTT feeds?]]></summary>
-        <author>
-            <name>FerretFred</name>
-            <uri>https://news.ycombinator.com/user?id=FerretFred</uri>
         </author>
     </entry>
 </feed>

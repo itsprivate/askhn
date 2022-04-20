@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 22:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 22:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何保证你的API的安全？]]></title>
+            <link>https://news.ycombinator.com/item?id=31103983</link>
+            <guid>https://news.ycombinator.com/item?id=31103983</guid>
+            <pubDate>Wed, 20 Apr 2022 22:38:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: How you do secure your APIs?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在哪里可以轻松部署Docker容器？]]></title>
+            <link>https://news.ycombinator.com/item?id=31103946</link>
+            <guid>https://news.ycombinator.com/item?id=31103946</guid>
+            <pubDate>Wed, 20 Apr 2022 22:33:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to deploy a Docker container easily?]]></description>
+        </item>
         <item>
             <title><![CDATA[ELI5，从经济上讲，什么是增长？]]></title>
             <link>https://news.ycombinator.com/item?id=31103816</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30945142</guid>
             <pubDate>Thu, 07 Apr 2022 14:50:04 GMT</pubDate>
             <description><![CDATA[Ask HN: Should I use “we” or “I” in product communication?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分享一篇你花了很多时间的长篇文章]]></title>
-            <link>https://news.ycombinator.com/item?id=30944990</link>
-            <guid>https://news.ycombinator.com/item?id=30944990</guid>
-            <pubDate>Thu, 07 Apr 2022 14:38:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Share a long-form post you spent a lot of time on]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有任何有用/有趣的公共MQTT馈送？]]></title>
-            <link>https://news.ycombinator.com/item?id=30944717</link>
-            <guid>https://news.ycombinator.com/item?id=30944717</guid>
-            <pubDate>Thu, 07 Apr 2022 14:15:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are there any useful/interesting public MQTT feeds?]]></description>
         </item>
     </channel>
 </rss>
