@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T19:28:58.593Z</updated>
+    <updated>2022-04-20T19:52:54.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們怎樣才能改善慢性健康狀況的診斷和治療？]]></title>
+        <id>https://news.ycombinator.com/item?id=31101899</id>
+        <link href="https://news.ycombinator.com/item?id=31101899"/>
+        <updated>2022-04-20T19:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can we improve diagnosis and treatment of chronic health conditions?]]></summary>
+        <author>
+            <name>yourabstraction</name>
+            <uri>https://news.ycombinator.com/user?id=yourabstraction</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個普通人，開始感到幻滅和困惑]]></title>
         <id>https://news.ycombinator.com/item?id=31101583</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wseqyrku</name>
             <uri>https://news.ycombinator.com/user?id=wseqyrku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享你的產品價值主張，我們找到一個競爭者]]></title>
-        <id>https://news.ycombinator.com/item?id=30943074</id>
-        <link href="https://news.ycombinator.com/item?id=30943074"/>
-        <updated>2022-04-07T11:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share your products value proposition and we find a competitor]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>
