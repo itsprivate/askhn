@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T10:15:24.131Z</updated>
+    <updated>2022-04-20T10:37:48.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼價格比較網站在美國不大？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094899</id>
+        <link href="https://news.ycombinator.com/item?id=31094899"/>
+        <updated>2022-04-20T10:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't price comparison websites big in the US?]]></summary>
+        <author>
+            <name>jn31415</name>
+            <uri>https://news.ycombinator.com/user?id=jn31415</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有誰願意嘗試一下任務控制的替代方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094893</id>
+        <link href="https://news.ycombinator.com/item?id=31094893"/>
+        <updated>2022-04-20T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone willing to try a Mission Control alternative?]]></summary>
+        <author>
+            <name>offbeatport</name>
+            <uri>https://news.ycombinator.com/user?id=offbeatport</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果一半的比特幣開採將用於慈善事業，那麼需要資助什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31094772</id>
+        <link href="https://news.ycombinator.com/item?id=31094772"/>
+        <updated>2022-04-20T10:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If half of Bitcoin mining will go for charity, what needs to be funded?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[離開軟件工程的經驗]]></title>
+        <id>https://news.ycombinator.com/item?id=31094743</id>
+        <link href="https://news.ycombinator.com/item?id=31094743"/>
+        <updated>2022-04-20T10:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experience Leaving Software Engineering]]></summary>
+        <author>
+            <name>supernihil</name>
+            <uri>https://news.ycombinator.com/user?id=supernihil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在一個足夠大的公司成為工程總監/CTO？]]></title>
         <id>https://news.ycombinator.com/item?id=31094682</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>hijp</name>
             <uri>https://news.ycombinator.com/user?id=hijp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你們做了多少個綠地項目？]]></title>
-        <id>https://news.ycombinator.com/item?id=30937764</id>
-        <link href="https://news.ycombinator.com/item?id=30937764"/>
-        <updated>2022-04-06T21:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many greenfield projects have you done?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼可視化編程在遊戲編程中如此受歡迎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30937201</id>
-        <link href="https://news.ycombinator.com/item?id=30937201"/>
-        <updated>2022-04-06T20:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is visual programming so popular for game programming?]]></summary>
-        <author>
-            <name>arduinomancer</name>
-            <uri>https://news.ycombinator.com/user?id=arduinomancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一週一次的社交媒體？]]></title>
-        <id>https://news.ycombinator.com/item?id=30937043</id>
-        <link href="https://news.ycombinator.com/item?id=30937043"/>
-        <updated>2022-04-06T20:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Once a Week Social Media?]]></summary>
-        <author>
-            <name>palidanx</name>
-            <uri>https://news.ycombinator.com/user?id=palidanx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該如何使用LeetCode？]]></title>
-        <id>https://news.ycombinator.com/item?id=30936833</id>
-        <link href="https://news.ycombinator.com/item?id=30936833"/>
-        <updated>2022-04-06T20:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you supposed to use LeetCode?]]></summary>
-        <author>
-            <name>leetthrowaway</name>
-            <uri>https://news.ycombinator.com/user?id=leetthrowaway</uri>
         </author>
     </entry>
 </feed>
