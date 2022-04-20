@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T11:52:11.156Z</updated>
+    <updated>2022-04-20T12:20:20.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什么让Cloudflare有权查封暴露网站真实IP的应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=31095709</id>
+        <link href="https://news.ycombinator.com/item?id=31095709"/>
+        <updated>2022-04-20T12:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What gives Cloudflare the right to takedown apps revealing site real IP?]]></summary>
+        <author>
+            <name>5ESS</name>
+            <uri>https://news.ycombinator.com/user?id=5ESS</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教授们很聪明，但厌恶风险，这就是他们想获得终身职位的原因吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31095475</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bytethis</name>
             <uri>https://news.ycombinator.com/user?id=bytethis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在LeetCode风格的采访中，明智地承认之前看到了一个问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30939319</id>
-        <link href="https://news.ycombinator.com/item?id=30939319"/>
-        <updated>2022-04-07T00:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: In a LeetCode-style interview, wise to admit to seeing a problem before?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
         </author>
     </entry>
 </feed>
