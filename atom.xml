@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T22:13:24.791Z</updated>
+    <updated>2022-04-20T22:36:10.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ELI5，从经济上讲，什么是增长？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103816</id>
+        <link href="https://news.ycombinator.com/item?id=31103816"/>
+        <updated>2022-04-20T22:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ELI5, what is growth, economically speaking?]]></summary>
+        <author>
+            <name>MKais</name>
+            <uri>https://news.ycombinator.com/user?id=MKais</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube是否对你的每个视频都默认为360p？]]></title>
         <id>https://news.ycombinator.com/item?id=31103719</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>FerretFred</name>
             <uri>https://news.ycombinator.com/user?id=FerretFred</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java世界中最接近Django的东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30944137</id>
-        <link href="https://news.ycombinator.com/item?id=30944137"/>
-        <updated>2022-04-07T13:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Closest thing to Django in Java world?]]></summary>
-        <author>
-            <name>rlawson</name>
-            <uri>https://news.ycombinator.com/user?id=rlawson</uri>
         </author>
     </entry>
 </feed>
