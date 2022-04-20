@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 14:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 14:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[博客、在Stackoverflow上回答问题或GitHub简介？]]></title>
+            <link>https://news.ycombinator.com/item?id=31097140</link>
+            <guid>https://news.ycombinator.com/item?id=31097140</guid>
+            <pubDate>Wed, 20 Apr 2022 14:06:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: Blog, answering on Stackoverflow or GitHub profile?]]></description>
+        </item>
         <item>
             <title><![CDATA[循序渐进的增强发生了什么？]]></title>
             <link>https://news.ycombinator.com/item?id=31096946</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30940646</guid>
             <pubDate>Thu, 07 Apr 2022 04:36:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Have Cloud Provider outages caused your business tangible harm?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有相当规模的网络粉丝的人，怎么样？]]></title>
-            <link>https://news.ycombinator.com/item?id=30940516</link>
-            <guid>https://news.ycombinator.com/item?id=30940516</guid>
-            <pubDate>Thu, 07 Apr 2022 04:09:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: People with decently sized internet followings, how is it?]]></description>
         </item>
     </channel>
 </rss>

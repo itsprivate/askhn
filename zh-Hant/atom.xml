@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T14:02:09.341Z</updated>
+    <updated>2022-04-20T14:14:40.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博客、在Stackoverflow上回答問題或GitHub簡介？]]></title>
+        <id>https://news.ycombinator.com/item?id=31097140</id>
+        <link href="https://news.ycombinator.com/item?id=31097140"/>
+        <updated>2022-04-20T14:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Blog, answering on Stackoverflow or GitHub profile?]]></summary>
+        <author>
+            <name>lapaz17</name>
+            <uri>https://news.ycombinator.com/user?id=lapaz17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[循序漸進的增強發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31096946</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chologrande</name>
             <uri>https://news.ycombinator.com/user?id=chologrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有相當規模的網絡粉絲的人，怎麼樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30940516</id>
-        <link href="https://news.ycombinator.com/item?id=30940516"/>
-        <updated>2022-04-07T04:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: People with decently sized internet followings, how is it?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
         </author>
     </entry>
 </feed>
