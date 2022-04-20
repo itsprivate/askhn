@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T11:31:33.531Z</updated>
+    <updated>2022-04-20T11:39:08.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瞭解計算機歷史的最佳途徑]]></title>
+        <id>https://news.ycombinator.com/item?id=31095360</id>
+        <link href="https://news.ycombinator.com/item?id=31095360"/>
+        <updated>2022-04-20T11:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best way to learn about computing history]]></summary>
+        <author>
+            <name>Tmkly</name>
+            <uri>https://news.ycombinator.com/user?id=Tmkly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何處理跑腿的內疚感的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31095345</id>
+        <link href="https://news.ycombinator.com/item?id=31095345"/>
+        <updated>2022-04-20T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with running errands guilt?]]></summary>
+        <author>
+            <name>mib32</name>
+            <uri>https://news.ycombinator.com/user?id=mib32</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非常規的角色？]]></title>
         <id>https://news.ycombinator.com/item?id=31095306</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>JBlue42</name>
             <uri>https://news.ycombinator.com/user?id=JBlue42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對一個10歲的編碼員來說，什麼是好的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30939065</id>
-        <link href="https://news.ycombinator.com/item?id=30939065"/>
-        <updated>2022-04-07T00:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's good for a 10-year-old coder?]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些是最好的技術營銷博客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30937825</id>
-        <link href="https://news.ycombinator.com/item?id=30937825"/>
-        <updated>2022-04-06T21:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best Technical Marketing Blogs?]]></summary>
-        <author>
-            <name>jppope</name>
-            <uri>https://news.ycombinator.com/user?id=jppope</uri>
         </author>
     </entry>
 </feed>
