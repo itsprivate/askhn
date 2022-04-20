@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T14:14:40.798Z</updated>
+    <updated>2022-04-20T15:15:20.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流程自动化需要学习的最佳技能？]]></title>
+        <id>https://news.ycombinator.com/item?id=31097913</id>
+        <link href="https://news.ycombinator.com/item?id=31097913"/>
+        <updated>2022-04-20T14:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best skills to learn for process automation?]]></summary>
+        <author>
+            <name>aiyen</name>
+            <uri>https://news.ycombinator.com/user?id=aiyen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DB迁移和部署竞赛策略]]></title>
+        <id>https://news.ycombinator.com/item?id=31097819</id>
+        <link href="https://news.ycombinator.com/item?id=31097819"/>
+        <updated>2022-04-20T14:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: DB Migration and Deployment Race Strategy]]></summary>
+        <author>
+            <name>andrew_</name>
+            <uri>https://news.ycombinator.com/user?id=andrew_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客、在Stackoverflow上回答问题或GitHub简介？]]></title>
         <id>https://news.ycombinator.com/item?id=31097140</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dybber</name>
             <uri>https://news.ycombinator.com/user?id=dybber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混合/远程软件团队的仪式感]]></title>
-        <id>https://news.ycombinator.com/item?id=30940747</id>
-        <link href="https://news.ycombinator.com/item?id=30940747"/>
-        <updated>2022-04-07T04:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hybrid/Remote software team rituals]]></summary>
-        <author>
-            <name>codemac</name>
-            <uri>https://news.ycombinator.com/user?id=codemac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云供应商的中断是否给你的企业带来了切实的伤害？]]></title>
-        <id>https://news.ycombinator.com/item?id=30940646</id>
-        <link href="https://news.ycombinator.com/item?id=30940646"/>
-        <updated>2022-04-07T04:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have Cloud Provider outages caused your business tangible harm?]]></summary>
-        <author>
-            <name>chologrande</name>
-            <uri>https://news.ycombinator.com/user?id=chologrande</uri>
         </author>
     </entry>
 </feed>
