@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-20T07:00:27.245Z</updated>
+    <updated>2022-04-20T07:33:45.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近的倦怠程度如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=31093839</id>
+        <link href="https://news.ycombinator.com/item?id=31093839"/>
+        <updated>2022-04-20T07:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your Burnout level lately?]]></summary>
+        <author>
+            <name>kronop</name>
+            <uri>https://news.ycombinator.com/user?id=kronop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何处理从事多份全职工作的远程人员的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31093734</id>
+        <link href="https://news.ycombinator.com/item?id=31093734"/>
+        <updated>2022-04-20T07:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with remote ppl working multiple full-time jobs?]]></summary>
+        <author>
+            <name>NaTopp</name>
+            <uri>https://news.ycombinator.com/user?id=NaTopp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，你如何管理你的网站内容？]]></title>
         <id>https://news.ycombinator.com/item?id=31093585</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wilhow</name>
             <uri>https://news.ycombinator.com/user?id=wilhow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何处理那些比别人快得多的开发者？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935392</id>
-        <link href="https://news.ycombinator.com/item?id=30935392"/>
-        <updated>2022-04-06T17:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to deal with developers that go much faster than the others?]]></summary>
-        <author>
-            <name>pathfinder_X</name>
-            <uri>https://news.ycombinator.com/user?id=pathfinder_X</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们的知识足以模拟出一个宇宙吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30935234</id>
-        <link href="https://news.ycombinator.com/item?id=30935234"/>
-        <updated>2022-04-06T17:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we know enough to simulate a universe?]]></summary>
-        <author>
-            <name>rockbruno</name>
-            <uri>https://news.ycombinator.com/user?id=rockbruno</uri>
         </author>
     </entry>
 </feed>

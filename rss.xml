@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最近的倦怠程度如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=31093839</link>
+            <guid>https://news.ycombinator.com/item?id=31093839</guid>
+            <pubDate>Wed, 20 Apr 2022 07:29:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your Burnout level lately?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你是如何处理从事多份全职工作的远程人员的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31093734</link>
+            <guid>https://news.ycombinator.com/item?id=31093734</guid>
+            <pubDate>Wed, 20 Apr 2022 07:12:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you deal with remote ppl working multiple full-time jobs?]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年，你如何管理你的网站内容？]]></title>
             <link>https://news.ycombinator.com/item?id=31093585</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30935587</guid>
             <pubDate>Wed, 06 Apr 2022 18:16:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Would you build it in house or quit your job first?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何处理那些比别人快得多的开发者？]]></title>
-            <link>https://news.ycombinator.com/item?id=30935392</link>
-            <guid>https://news.ycombinator.com/item?id=30935392</guid>
-            <pubDate>Wed, 06 Apr 2022 17:58:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to deal with developers that go much faster than the others?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们的知识足以模拟出一个宇宙吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30935234</link>
-            <guid>https://news.ycombinator.com/item?id=30935234</guid>
-            <pubDate>Wed, 06 Apr 2022 17:44:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do we know enough to simulate a universe?]]></description>
         </item>
     </channel>
 </rss>
