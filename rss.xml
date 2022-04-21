@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在提交频率较高的repo中，如何整合拉动请求？]]></title>
+            <link>https://news.ycombinator.com/item?id=31108828</link>
+            <guid>https://news.ycombinator.com/item?id=31108828</guid>
+            <pubDate>Thu, 21 Apr 2022 13:04:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are pull requests integrated in a repo with high commit frequency?]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些公司公开分享他们的工程水平指南？]]></title>
             <link>https://news.ycombinator.com/item?id=31108569</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30944014</guid>
             <pubDate>Thu, 07 Apr 2022 13:16:37 GMT</pubDate>
             <description><![CDATA[Ask HN: Why are companies pushing working from the office?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术带头人从开源的GitHub repo复制代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30953313</link>
-            <guid>https://news.ycombinator.com/item?id=30953313</guid>
-            <pubDate>Fri, 08 Apr 2022 04:22:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Tech lead copying code from open source GitHub repo]]></description>
         </item>
     </channel>
 </rss>
