@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T08:57:51.914Z</updated>
+    <updated>2022-04-21T09:13:50.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發開源 "休息 "的社會保障網可能嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31107289</id>
+        <link href="https://news.ycombinator.com/item?id=31107289"/>
+        <updated>2022-04-21T08:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Developing open source “resting” on the social security net possible?]]></summary>
+        <author>
+            <name>freemint</name>
+            <uri>https://news.ycombinator.com/user?id=freemint</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您是否使用AWS CDK？]]></title>
+        <id>https://news.ycombinator.com/item?id=31107270</id>
+        <link href="https://news.ycombinator.com/item?id=31107270"/>
+        <updated>2022-04-21T08:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Use AWS CDK?]]></summary>
+        <author>
+            <name>shlosky</name>
+            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機器人、人工智能和深度學習的代碼/模型共享平臺]]></title>
         <id>https://news.ycombinator.com/item?id=31107237</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gear_envy</name>
             <uri>https://news.ycombinator.com/user?id=gear_envy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬克-安德森在談論什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30949267</id>
-        <link href="https://news.ycombinator.com/item?id=30949267"/>
-        <updated>2022-04-07T19:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is Marc Andreessen talking about]]></summary>
-        <author>
-            <name>limteary</name>
-            <uri>https://news.ycombinator.com/user?id=limteary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用DeFi能賺多少錢，能持續多久？]]></title>
-        <id>https://news.ycombinator.com/item?id=30948610</id>
-        <link href="https://news.ycombinator.com/item?id=30948610"/>
-        <updated>2022-04-07T18:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much money can you make with DeFi and how long will it last?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
         </author>
     </entry>
 </feed>
