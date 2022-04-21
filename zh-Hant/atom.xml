@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T15:57:50.750Z</updated>
+    <updated>2022-04-21T16:59:27.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基準化的想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=31111842</id>
+        <link href="https://news.ycombinator.com/item?id=31111842"/>
+        <updated>2022-04-21T16:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Benchmarking Ideas?]]></summary>
+        <author>
+            <name>jcun4128</name>
+            <uri>https://news.ycombinator.com/user?id=jcun4128</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的網絡習慣是什麼？除了HN，你還經常去哪些網站等？]]></title>
+        <id>https://news.ycombinator.com/item?id=31111394</id>
+        <link href="https://news.ycombinator.com/item?id=31111394"/>
+        <updated>2022-04-21T16:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your web routine? which sites etc. do you frequent besides HN?]]></summary>
+        <author>
+            <name>hans1729</name>
+            <uri>https://news.ycombinator.com/user?id=hans1729</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何尋找人評價我的想法]]></title>
         <id>https://news.ycombinator.com/item?id=31110960</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>elevaet</name>
             <uri>https://news.ycombinator.com/user?id=elevaet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的日常禮儀是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955057</id>
-        <link href="https://news.ycombinator.com/item?id=30955057"/>
-        <updated>2022-04-08T09:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your daily rituals?]]></summary>
-        <author>
-            <name>petecooper</name>
-            <uri>https://news.ycombinator.com/user?id=petecooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你為什麼要在創業公司工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30954905</id>
-        <link href="https://news.ycombinator.com/item?id=30954905"/>
-        <updated>2022-04-08T09:12:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you work at a startup?]]></summary>
-        <author>
-            <name>searchableguy</name>
-            <uri>https://news.ycombinator.com/user?id=searchableguy</uri>
         </author>
     </entry>
 </feed>
