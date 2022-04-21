@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T02:54:32.850Z</updated>
+    <updated>2022-04-21T03:56:56.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網站的用戶體驗或註冊體驗最差]]></title>
+        <id>https://news.ycombinator.com/item?id=31105857</id>
+        <link href="https://news.ycombinator.com/item?id=31105857"/>
+        <updated>2022-04-21T03:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Website with worst UX or Registration experience]]></summary>
+        <author>
+            <name>shermablanca</name>
+            <uri>https://news.ycombinator.com/user?id=shermablanca</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任何類似於ActiveRecord的ORM，但更輕量級。]]></title>
+        <id>https://news.ycombinator.com/item?id=31105574</id>
+        <link href="https://news.ycombinator.com/item?id=31105574"/>
+        <updated>2022-04-21T02:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any ORM like ActiveRecord but more light weight]]></summary>
+        <author>
+            <name>totetsu</name>
+            <uri>https://news.ycombinator.com/user?id=totetsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼普京沒有把他所有的籌碼投入到敖德薩？]]></title>
         <id>https://news.ycombinator.com/item?id=31105265</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>scoot</name>
             <uri>https://news.ycombinator.com/user?id=scoot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼來查看日誌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30946797</id>
-        <link href="https://news.ycombinator.com/item?id=30946797"/>
-        <updated>2022-04-07T16:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use to view logs?]]></summary>
-        <author>
-            <name>iimpact</name>
-            <uri>https://news.ycombinator.com/user?id=iimpact</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免電子遊戲成癮？]]></title>
-        <id>https://news.ycombinator.com/item?id=30946641</id>
-        <link href="https://news.ycombinator.com/item?id=30946641"/>
-        <updated>2022-04-07T16:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you avoid video game addiction?]]></summary>
-        <author>
-            <name>Volrath89</name>
-            <uri>https://news.ycombinator.com/user?id=Volrath89</uri>
         </author>
     </entry>
 </feed>
