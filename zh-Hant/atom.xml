@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T05:28:50.927Z</updated>
+    <updated>2022-04-21T05:57:57.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[房產中介和個人數據收集？]]></title>
+        <id>https://news.ycombinator.com/item?id=31106373</id>
+        <link href="https://news.ycombinator.com/item?id=31106373"/>
+        <updated>2022-04-21T05:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Real estate agents and personal data collection?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[構建高績效網絡應用的推薦書籍？]]></title>
         <id>https://news.ycombinator.com/item?id=31106231</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>coolmints</name>
             <uri>https://news.ycombinator.com/user?id=coolmints</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全民基本收入會導致通貨膨脹嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30943530</id>
-        <link href="https://news.ycombinator.com/item?id=30943530"/>
-        <updated>2022-04-07T12:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would a universal basic income lead to inflation?]]></summary>
-        <author>
-            <name>Overtonwindow</name>
-            <uri>https://news.ycombinator.com/user?id=Overtonwindow</uri>
         </author>
     </entry>
 </feed>
