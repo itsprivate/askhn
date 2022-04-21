@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T19:10:04.833Z</updated>
+    <updated>2022-04-21T19:38:21.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我们致力于电动车，我们在城市中会得到多少更多的太阳能发电？]]></title>
+        <id>https://news.ycombinator.com/item?id=31114130</id>
+        <link href="https://news.ycombinator.com/item?id=31114130"/>
+        <updated>2022-04-21T19:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If we commit to EV how much more solar power would we get in cities?]]></summary>
+        <author>
+            <name>boringg</name>
+            <uri>https://news.ycombinator.com/user?id=boringg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录良好的用户界面的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=31114129</id>
+        <link href="https://news.ycombinator.com/item?id=31114129"/>
+        <updated>2022-04-21T19:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of Well-Documented UIs?]]></summary>
+        <author>
+            <name>aarondia</name>
+            <uri>https://news.ycombinator.com/user?id=aarondia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN是否改变了它的样式表？水平滚动问题]]></title>
         <id>https://news.ycombinator.com/item?id=31113821</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ameasure</name>
             <uri>https://news.ycombinator.com/user?id=ameasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果一个路由器仍然支持IPv4，它就是IPv6路由器吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955334</id>
-        <link href="https://news.ycombinator.com/item?id=30955334"/>
-        <updated>2022-04-08T10:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If a router still supports IPv4 is it IPv6 router?]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook的新员工，得到了奇怪的邪教氛围]]></title>
-        <id>https://news.ycombinator.com/item?id=30955290</id>
-        <link href="https://news.ycombinator.com/item?id=30955290"/>
-        <updated>2022-04-08T10:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: New hire at Facebook, getting weird cult vibes]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
