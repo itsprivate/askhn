@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T03:56:56.175Z</updated>
+    <updated>2022-04-21T04:39:46.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你有3-6個月的時間來展示你的技能？]]></title>
+        <id>https://news.ycombinator.com/item?id=31105968</id>
+        <link href="https://news.ycombinator.com/item?id=31105968"/>
+        <updated>2022-04-21T04:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you had 3-6 months to demonstrate your skills?]]></summary>
+        <author>
+            <name>nimbleal</name>
+            <uri>https://news.ycombinator.com/user?id=nimbleal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網站的用戶體驗或註冊體驗最差]]></title>
         <id>https://news.ycombinator.com/item?id=31105857</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>athrvakhrbde</name>
             <uri>https://news.ycombinator.com/user?id=athrvakhrbde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌字體沒有有效的許可證。對商業用途不安全？]]></title>
-        <id>https://news.ycombinator.com/item?id=30947563</id>
-        <link href="https://news.ycombinator.com/item?id=30947563"/>
-        <updated>2022-04-07T17:21:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google fonts don't have a valid license. Unsafe for commercial use?]]></summary>
-        <author>
-            <name>scoot</name>
-            <uri>https://news.ycombinator.com/user?id=scoot</uri>
         </author>
     </entry>
 </feed>
