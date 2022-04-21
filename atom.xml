@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T14:15:22.879Z</updated>
+    <updated>2022-04-21T14:42:41.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有些初创企业即使创始人的人脉为零也会走红，为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31109919</id>
+        <link href="https://news.ycombinator.com/item?id=31109919"/>
+        <updated>2022-04-21T14:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Some startups go viral even if the founder's network is zero, why?]]></summary>
+        <author>
+            <name>kaliyarachan</name>
+            <uri>https://news.ycombinator.com/user?id=kaliyarachan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拥有最多域名的最小的公司是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31109424</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>slekker</name>
             <uri>https://news.ycombinator.com/user?id=slekker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TDD和项目管理的创意是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30953692</id>
-        <link href="https://news.ycombinator.com/item?id=30953692"/>
-        <updated>2022-04-08T05:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's creative about TDD and Project Mgmt]]></summary>
-        <author>
-            <name>lifeisstillgood</name>
-            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
         </author>
     </entry>
 </feed>
