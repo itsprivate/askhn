@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T08:42:04.505Z</updated>
+    <updated>2022-04-21T08:57:51.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器人、人工智能和深度學習的代碼/模型共享平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=31107237</id>
+        <link href="https://news.ycombinator.com/item?id=31107237"/>
+        <updated>2022-04-21T08:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Code / Model Sharing Platforms for Robotics, AI and Deep Learning]]></summary>
+        <author>
+            <name>jmiseikis</name>
+            <uri>https://news.ycombinator.com/user?id=jmiseikis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[購買以前由已故人士擁有的域名]]></title>
         <id>https://news.ycombinator.com/item?id=31107178</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arikr</name>
             <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何防止我的電話號碼通過LinkedIn洩露出去？]]></title>
-        <id>https://news.ycombinator.com/item?id=30948415</id>
-        <link href="https://news.ycombinator.com/item?id=30948415"/>
-        <updated>2022-04-07T18:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I prevent my phone number from leaking via LinkedIn?]]></summary>
-        <author>
-            <name>calrueb</name>
-            <uri>https://news.ycombinator.com/user?id=calrueb</uri>
         </author>
     </entry>
 </feed>
