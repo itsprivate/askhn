@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T07:01:53.639Z</updated>
+    <updated>2022-04-21T08:16:39.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分享你對副業的想法]]></title>
+        <id>https://news.ycombinator.com/item?id=31106956</id>
+        <link href="https://news.ycombinator.com/item?id=31106956"/>
+        <updated>2022-04-21T07:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Share your ideas for a side project]]></summary>
+        <author>
+            <name>poushkar</name>
+            <uri>https://news.ycombinator.com/user?id=poushkar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmail的收件箱暫停的替代方案？]]></title>
         <id>https://news.ycombinator.com/item?id=31106600</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ducktective</name>
             <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[足夠的YoE是高級的，但沒有CS背景，如何找到工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30947850</id>
-        <link href="https://news.ycombinator.com/item?id=30947850"/>
-        <updated>2022-04-07T17:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Enough YoE to be senior, but no CS background, how to find work?]]></summary>
-        <author>
-            <name>pakop</name>
-            <uri>https://news.ycombinator.com/user?id=pakop</uri>
         </author>
     </entry>
 </feed>
