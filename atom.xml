@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T22:51:51.231Z</updated>
+    <updated>2022-04-21T23:13:27.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道有什么类似于Airbnb的社区中心的社区平台吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31116253</id>
+        <link href="https://news.ycombinator.com/item?id=31116253"/>
+        <updated>2022-04-21T23:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you know of a community platform similar to Airbnb's community center]]></summary>
+        <author>
+            <name>vivekmgeorge</name>
+            <uri>https://news.ycombinator.com/user?id=vivekmgeorge</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请为CMU SCS录像带保存项目捐款]]></title>
+        <id>https://news.ycombinator.com/item?id=31116188</id>
+        <link href="https://news.ycombinator.com/item?id=31116188"/>
+        <updated>2022-04-21T22:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Please donate to the CMU SCS Videotape preservation project]]></summary>
+        <author>
+            <name>dhanna</name>
+            <uri>https://news.ycombinator.com/user?id=dhanna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[论文的分布式盲审网站]]></title>
         <id>https://news.ycombinator.com/item?id=31116119</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>NoboruWataya</name>
             <uri>https://news.ycombinator.com/user?id=NoboruWataya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐浏览器的DNS路由]]></title>
-        <id>https://news.ycombinator.com/item?id=30956122</id>
-        <link href="https://news.ycombinator.com/item?id=30956122"/>
-        <updated>2022-04-08T12:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Firefox DNS Routing]]></summary>
-        <author>
-            <name>version_five</name>
-            <uri>https://news.ycombinator.com/user?id=version_five</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请说出那些限制用户每天登录的网站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955908</id>
-        <link href="https://news.ycombinator.com/item?id=30955908"/>
-        <updated>2022-04-08T12:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Name those websites that limit user logins per day?]]></summary>
-        <author>
-            <name>saradhi</name>
-            <uri>https://news.ycombinator.com/user?id=saradhi</uri>
         </author>
     </entry>
 </feed>
