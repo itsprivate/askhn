@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T21:32:26.284Z</updated>
+    <updated>2022-04-21T22:33:48.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼退出並重新加載一個應用程序後不能撤銷更改？]]></title>
+        <id>https://news.ycombinator.com/item?id=31115879</id>
+        <link href="https://news.ycombinator.com/item?id=31115879"/>
+        <updated>2022-04-21T22:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't you undo changes after quitting and reloading an app?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於在幾十年前的代碼庫上開始工作，有什麼建議？]]></title>
         <id>https://news.ycombinator.com/item?id=31115410</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>labarilem</name>
             <uri>https://news.ycombinator.com/user?id=labarilem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN讀者的典型或通常的非IT/技術背景是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955821</id>
-        <link href="https://news.ycombinator.com/item?id=30955821"/>
-        <updated>2022-04-08T11:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the typical or usual non-IT/Tech backgrounds of HN readers?]]></summary>
-        <author>
-            <name>L0in</name>
-            <uri>https://news.ycombinator.com/user?id=L0in</uri>
         </author>
     </entry>
 </feed>
