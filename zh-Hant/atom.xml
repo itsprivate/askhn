@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T12:19:39.168Z</updated>
+    <updated>2022-04-21T13:02:36.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些公司公開分享他們的工程水平指南？]]></title>
+        <id>https://news.ycombinator.com/item?id=31108569</id>
+        <link href="https://news.ycombinator.com/item?id=31108569"/>
+        <updated>2022-04-21T12:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What companies share their engineering leveling guides publicly?]]></summary>
+        <author>
+            <name>t3rabytes</name>
+            <uri>https://news.ycombinator.com/user?id=t3rabytes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰能以相對容易理解的方式解釋一下Phong的陰影嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31108432</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>l33tc0de</name>
             <uri>https://news.ycombinator.com/user?id=l33tc0de</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人對事物/人有強迫性的依戀嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30953177</id>
-        <link href="https://news.ycombinator.com/item?id=30953177"/>
-        <updated>2022-04-08T03:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone else get obsessively attached to things/people?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
