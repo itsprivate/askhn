@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T06:43:07.276Z</updated>
+    <updated>2022-04-21T07:01:53.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gmail的收件箱暫停的替代方案？]]></title>
+        <id>https://news.ycombinator.com/item?id=31106600</id>
+        <link href="https://news.ycombinator.com/item?id=31106600"/>
+        <updated>2022-04-21T06:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternative to Inbox Pause for Gmail?]]></summary>
+        <author>
+            <name>minhducdoo</name>
+            <uri>https://news.ycombinator.com/user?id=minhducdoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能將Google Colab drive的訪問限制在一個文件夾內嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31106466</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pakop</name>
             <uri>https://news.ycombinator.com/user?id=pakop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理生存危機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30947757</id>
-        <link href="https://news.ycombinator.com/item?id=30947757"/>
-        <updated>2022-04-07T17:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with existential crisis?]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
         </author>
     </entry>
 </feed>
