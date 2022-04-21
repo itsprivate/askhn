@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T22:33:48.886Z</updated>
+    <updated>2022-04-21T22:51:51.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[論文的分佈式盲審網站]]></title>
+        <id>https://news.ycombinator.com/item?id=31116119</id>
+        <link href="https://news.ycombinator.com/item?id=31116119"/>
+        <updated>2022-04-21T22:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Distributed blind review site for papers]]></summary>
+        <author>
+            <name>jonas_kgomo</name>
+            <uri>https://news.ycombinator.com/user?id=jonas_kgomo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼退出並重新加載一個應用程序後不能撤銷更改？]]></title>
         <id>https://news.ycombinator.com/item?id=31115879</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>saradhi</name>
             <uri>https://news.ycombinator.com/user?id=saradhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道哪些基於生物理唸的算法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955837</id>
-        <link href="https://news.ycombinator.com/item?id=30955837"/>
-        <updated>2022-04-08T11:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which algorithms based on biological ideas do you know?]]></summary>
-        <author>
-            <name>labarilem</name>
-            <uri>https://news.ycombinator.com/user?id=labarilem</uri>
         </author>
     </entry>
 </feed>

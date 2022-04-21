@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Apr 2022 22:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 22:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[论文的分布式盲审网站]]></title>
+            <link>https://news.ycombinator.com/item?id=31116119</link>
+            <guid>https://news.ycombinator.com/item?id=31116119</guid>
+            <pubDate>Thu, 21 Apr 2022 22:47:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Distributed blind review site for papers]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么退出并重新加载一个应用程序后不能撤销更改？]]></title>
             <link>https://news.ycombinator.com/item?id=31115879</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30955908</guid>
             <pubDate>Fri, 08 Apr 2022 12:06:31 GMT</pubDate>
             <description><![CDATA[Ask HN: Name those websites that limit user logins per day?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你知道哪些基于生物理念的算法？]]></title>
-            <link>https://news.ycombinator.com/item?id=30955837</link>
-            <guid>https://news.ycombinator.com/item?id=30955837</guid>
-            <pubDate>Fri, 08 Apr 2022 11:57:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which algorithms based on biological ideas do you know?]]></description>
         </item>
     </channel>
 </rss>
