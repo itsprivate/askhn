@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T11:32:06.276Z</updated>
+    <updated>2022-04-21T11:39:34.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[製作安卓應用與蘋果應用有什麼不同？]]></title>
+        <id>https://news.ycombinator.com/item?id=31108135</id>
+        <link href="https://news.ycombinator.com/item?id=31108135"/>
+        <updated>2022-04-21T11:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How different is it to make an Android app vs. an Apple app?]]></summary>
+        <author>
+            <name>taurusnoises</name>
+            <uri>https://news.ycombinator.com/user?id=taurusnoises</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於人類如何設法結束自己，你的個人寵物理論是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31108069</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粘貼並保留源格式，合法的使用案例？]]></title>
-        <id>https://news.ycombinator.com/item?id=30952091</id>
-        <link href="https://news.ycombinator.com/item?id=30952091"/>
-        <updated>2022-04-08T00:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Paste and keep source formatting, legitimate use cases?]]></summary>
-        <author>
-            <name>jeffybefffy519</name>
-            <uri>https://news.ycombinator.com/user?id=jeffybefffy519</uri>
         </author>
     </entry>
 </feed>
