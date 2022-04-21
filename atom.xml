@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T14:42:41.891Z</updated>
+    <updated>2022-04-21T15:16:06.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有这样的事情，即从风险投资公司的 "要求 "太少？]]></title>
+        <id>https://news.ycombinator.com/item?id=31110382</id>
+        <link href="https://news.ycombinator.com/item?id=31110382"/>
+        <updated>2022-04-21T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there such a thing as too little 'ask' from VCs]]></summary>
+        <author>
+            <name>davehcker</name>
+            <uri>https://news.ycombinator.com/user?id=davehcker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有些初创企业即使创始人的人脉为零也会走红，为什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31109919</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到一份具有社会影响力的工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30953830</id>
-        <link href="https://news.ycombinator.com/item?id=30953830"/>
-        <updated>2022-04-08T06:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find a job with social impact?]]></summary>
-        <author>
-            <name>slekker</name>
-            <uri>https://news.ycombinator.com/user?id=slekker</uri>
         </author>
     </entry>
 </feed>
