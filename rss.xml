@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 15:57:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何寻找人评价我的想法]]></title>
+            <link>https://news.ycombinator.com/item?id=31110960</link>
+            <guid>https://news.ycombinator.com/item?id=31110960</guid>
+            <pubDate>Thu, 21 Apr 2022 15:43:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: how to looking for people eval my idea]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有哪些来源可以显示某个应用程序的活跃用户数量？]]></title>
+            <link>https://news.ycombinator.com/item?id=31110902</link>
+            <guid>https://news.ycombinator.com/item?id=31110902</guid>
+            <pubDate>Thu, 21 Apr 2022 15:40:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are some sources that show a given app's number of active users?]]></description>
+        </item>
         <item>
             <title><![CDATA[除了月度/年度之外，是否有SaaS在做日常订阅？]]></title>
             <link>https://news.ycombinator.com/item?id=31110784</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30954905</guid>
             <pubDate>Fri, 08 Apr 2022 09:12:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Why do you work at a startup?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么会有这么多不同的文本编辑器？]]></title>
-            <link>https://news.ycombinator.com/item?id=30954713</link>
-            <guid>https://news.ycombinator.com/item?id=30954713</guid>
-            <pubDate>Fri, 08 Apr 2022 08:38:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is there so many different text editors?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[追踪YT频道的非YouTube工具？]]></title>
-            <link>https://news.ycombinator.com/item?id=30954209</link>
-            <guid>https://news.ycombinator.com/item?id=30954209</guid>
-            <pubDate>Fri, 08 Apr 2022 07:17:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Non-YouTube tools for tracking YT channels?]]></description>
         </item>
     </channel>
 </rss>

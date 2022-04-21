@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T15:40:00.672Z</updated>
+    <updated>2022-04-21T15:57:50.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何寻找人评价我的想法]]></title>
+        <id>https://news.ycombinator.com/item?id=31110960</id>
+        <link href="https://news.ycombinator.com/item?id=31110960"/>
+        <updated>2022-04-21T15:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: how to looking for people eval my idea]]></summary>
+        <author>
+            <name>momofarm</name>
+            <uri>https://news.ycombinator.com/user?id=momofarm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些来源可以显示某个应用程序的活跃用户数量？]]></title>
+        <id>https://news.ycombinator.com/item?id=31110902</id>
+        <link href="https://news.ycombinator.com/item?id=31110902"/>
+        <updated>2022-04-21T15:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some sources that show a given app's number of active users?]]></summary>
+        <author>
+            <name>throwaway743</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway743</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了月度/年度之外，是否有SaaS在做日常订阅？]]></title>
         <id>https://news.ycombinator.com/item?id=31110784</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>searchableguy</name>
             <uri>https://news.ycombinator.com/user?id=searchableguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么会有这么多不同的文本编辑器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30954713</id>
-        <link href="https://news.ycombinator.com/item?id=30954713"/>
-        <updated>2022-04-08T08:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there so many different text editors?]]></summary>
-        <author>
-            <name>routeroff</name>
-            <uri>https://news.ycombinator.com/user?id=routeroff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追踪YT频道的非YouTube工具？]]></title>
-        <id>https://news.ycombinator.com/item?id=30954209</id>
-        <link href="https://news.ycombinator.com/item?id=30954209"/>
-        <updated>2022-04-08T07:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-YouTube tools for tracking YT channels?]]></summary>
-        <author>
-            <name>PaulDavisThe1st</name>
-            <uri>https://news.ycombinator.com/user?id=PaulDavisThe1st</uri>
         </author>
     </entry>
 </feed>
