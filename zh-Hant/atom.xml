@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T20:39:27.461Z</updated>
+    <updated>2022-04-21T21:32:26.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於在幾十年前的代碼庫上開始工作，有什麼建議？]]></title>
+        <id>https://news.ycombinator.com/item?id=31115410</id>
+        <link href="https://news.ycombinator.com/item?id=31115410"/>
+        <updated>2022-04-21T21:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is some advice for starting work on a decades old codebase?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[失敗的創始人訪談錄]]></title>
         <id>https://news.ycombinator.com/item?id=31114624</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>L0in</name>
             <uri>https://news.ycombinator.com/user?id=L0in</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長時間坐著的時候，你用什麼辦公椅？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955797</id>
-        <link href="https://news.ycombinator.com/item?id=30955797"/>
-        <updated>2022-04-08T11:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What office chair do you use for long hour sitting?]]></summary>
-        <author>
-            <name>aviCC</name>
-            <uri>https://news.ycombinator.com/user?id=aviCC</uri>
         </author>
     </entry>
 </feed>
