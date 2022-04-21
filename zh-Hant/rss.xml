@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你能將Google Colab drive的訪問限制在一個文件夾內嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31106466</link>
+            <guid>https://news.ycombinator.com/item?id=31106466</guid>
+            <pubDate>Thu, 21 Apr 2022 06:12:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can you restrict Google Colab drive access to a single folder?]]></description>
+        </item>
         <item>
             <title><![CDATA[房產中介和個人數據收集？]]></title>
             <link>https://news.ycombinator.com/item?id=31106373</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30947757</guid>
             <pubDate>Thu, 07 Apr 2022 17:36:01 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you deal with existential crisis?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為B2B SaaS理念驗證而建立的最小的東西]]></title>
-            <link>https://news.ycombinator.com/item?id=30947755</link>
-            <guid>https://news.ycombinator.com/item?id=30947755</guid>
-            <pubDate>Thu, 07 Apr 2022 17:35:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: Minimal thing to build for B2B SaaS idea validation]]></description>
         </item>
     </channel>
 </rss>

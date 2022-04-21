@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T05:57:57.170Z</updated>
+    <updated>2022-04-21T06:43:07.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能将Google Colab drive的访问限制在一个文件夹内吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31106466</id>
+        <link href="https://news.ycombinator.com/item?id=31106466"/>
+        <updated>2022-04-21T06:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you restrict Google Colab drive access to a single folder?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[房产中介和个人数据收集？]]></title>
         <id>https://news.ycombinator.com/item?id=31106373</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>markus_zhang</name>
             <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为B2B SaaS理念验证而建立的最小的东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30947755</id>
-        <link href="https://news.ycombinator.com/item?id=30947755"/>
-        <updated>2022-04-07T17:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Minimal thing to build for B2B SaaS idea validation]]></summary>
-        <author>
-            <name>coolmints</name>
-            <uri>https://news.ycombinator.com/user?id=coolmints</uri>
         </author>
     </entry>
 </feed>
