@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-21T16:59:27.607Z</updated>
+    <updated>2022-04-21T18:59:24.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spotify for Mac发生了什么事？]]></title>
+        <id>https://news.ycombinator.com/item?id=31113707</id>
+        <link href="https://news.ycombinator.com/item?id=31113707"/>
+        <updated>2022-04-21T18:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is going on with Spotify for Mac?]]></summary>
+        <author>
+            <name>ciguy</name>
+            <uri>https://news.ycombinator.com/user?id=ciguy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基准化的想法？]]></title>
         <id>https://news.ycombinator.com/item?id=31111842</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thepra</name>
             <uri>https://news.ycombinator.com/user?id=thepra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何处理客户对 "低于 "你的任务的要求？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955109</id>
-        <link href="https://news.ycombinator.com/item?id=30955109"/>
-        <updated>2022-04-08T09:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with clients' requests for tasks that are “below” you?]]></summary>
-        <author>
-            <name>elevaet</name>
-            <uri>https://news.ycombinator.com/user?id=elevaet</uri>
         </author>
     </entry>
 </feed>
