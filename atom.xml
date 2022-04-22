@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T09:14:10.564Z</updated>
+    <updated>2022-04-22T09:34:56.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有人被Slack中的键盘滞后所困扰吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31119702</id>
+        <link href="https://news.ycombinator.com/item?id=31119702"/>
+        <updated>2022-04-22T09:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else being bothered by keyboard lag in Slack?]]></summary>
+        <author>
+            <name>sgt</name>
+            <uri>https://news.ycombinator.com/user?id=sgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的科学论文是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31119574</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aranchelk</name>
             <uri>https://news.ycombinator.com/user?id=aranchelk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在新的行业中寻找新的角色]]></title>
-        <id>https://news.ycombinator.com/item?id=30960211</id>
-        <link href="https://news.ycombinator.com/item?id=30960211"/>
-        <updated>2022-04-08T17:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Finding a new role in a new industry]]></summary>
-        <author>
-            <name>pdx_flyer</name>
-            <uri>https://news.ycombinator.com/user?id=pdx_flyer</uri>
         </author>
     </entry>
 </feed>
