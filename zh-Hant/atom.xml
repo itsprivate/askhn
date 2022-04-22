@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T04:09:37.946Z</updated>
+    <updated>2022-04-22T08:57:03.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何處理Unicode密碼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31119478</id>
+        <link href="https://news.ycombinator.com/item?id=31119478"/>
+        <updated>2022-04-22T08:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I handle Unicode passwords?]]></summary>
+        <author>
+            <name>unipassword</name>
+            <uri>https://news.ycombinator.com/user?id=unipassword</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何進行先進的個人項目]]></title>
+        <id>https://news.ycombinator.com/item?id=31119448</id>
+        <link href="https://news.ycombinator.com/item?id=31119448"/>
+        <updated>2022-04-22T08:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to proceed with advanced personal project]]></summary>
+        <author>
+            <name>yasserf</name>
+            <uri>https://news.ycombinator.com/user?id=yasserf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有誰厭倦了所有公司的胡說八道？]]></title>
         <id>https://news.ycombinator.com/item?id=31117981</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>thedangler</name>
             <uri>https://news.ycombinator.com/user?id=thedangler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當作為初級汗水的掙扎時，該怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959782</id>
-        <link href="https://news.ycombinator.com/item?id=30959782"/>
-        <updated>2022-04-08T17:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What to do when struggling as junior swe?]]></summary>
-        <author>
-            <name>3a2d29</name>
-            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何避免自行車脫落？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959723</id>
-        <link href="https://news.ycombinator.com/item?id=30959723"/>
-        <updated>2022-04-08T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you avoid bikeshedding?]]></summary>
-        <author>
-            <name>chrisshroba</name>
-            <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
         </author>
     </entry>
 </feed>
