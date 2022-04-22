@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T15:37:55.031Z</updated>
+    <updated>2022-04-22T16:55:59.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼電子郵件和聊天記錄是保密的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31123948</id>
+        <link href="https://news.ycombinator.com/item?id=31123948"/>
+        <updated>2022-04-22T16:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are emails and chats private?]]></summary>
+        <author>
+            <name>logicallee</name>
+            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[批評我們的PropTech客戶投稿。- 在幾個小時內發生]]></title>
         <id>https://news.ycombinator.com/item?id=31122878</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pc2g4d</name>
             <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要寫博客？]]></title>
-        <id>https://news.ycombinator.com/item?id=30965485</id>
-        <link href="https://news.ycombinator.com/item?id=30965485"/>
-        <updated>2022-04-09T05:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Blog at All?]]></summary>
-        <author>
-            <name>pragmatic1</name>
-            <uri>https://news.ycombinator.com/user?id=pragmatic1</uri>
         </author>
     </entry>
 </feed>
