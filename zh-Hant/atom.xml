@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T19:37:50.945Z</updated>
+    <updated>2022-04-22T20:15:09.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特列表有秘密規則，一般都會被破壞]]></title>
+        <id>https://news.ycombinator.com/item?id=31127290</id>
+        <link href="https://news.ycombinator.com/item?id=31127290"/>
+        <updated>2022-04-22T19:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Twitter Lists has secret rules and is generally broken]]></summary>
+        <author>
+            <name>austinbeer</name>
+            <uri>https://news.ycombinator.com/user?id=austinbeer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於拍賣的人才市場]]></title>
+        <id>https://news.ycombinator.com/item?id=31127272</id>
+        <link href="https://news.ycombinator.com/item?id=31127272"/>
+        <updated>2022-04-22T19:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Auction-Based Talent Marketplace]]></summary>
+        <author>
+            <name>snake_doc</name>
+            <uri>https://news.ycombinator.com/user?id=snake_doc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[應屆本科生網絡設計的工作申請建議]]></title>
         <id>https://news.ycombinator.com/item?id=31126926</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vletal</name>
             <uri>https://news.ycombinator.com/user?id=vletal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一天的工作之後，你會做什麼來充電？]]></title>
-        <id>https://news.ycombinator.com/item?id=30969437</id>
-        <link href="https://news.ycombinator.com/item?id=30969437"/>
-        <updated>2022-04-09T16:28:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do to recharge after a day of work?]]></summary>
-        <author>
-            <name>ali92hm</name>
-            <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰的Spotify在回到應用程序時出現了問題嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30969319</id>
-        <link href="https://news.ycombinator.com/item?id=30969319"/>
-        <updated>2022-04-09T16:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyones Spotify bugging out when going back to the app?]]></summary>
-        <author>
-            <name>amznbyebyebye</name>
-            <uri>https://news.ycombinator.com/user?id=amznbyebyebye</uri>
         </author>
     </entry>
 </feed>
