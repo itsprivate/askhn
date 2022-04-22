@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T08:57:03.890Z</updated>
+    <updated>2022-04-22T09:14:10.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的科学论文是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31119574</id>
+        <link href="https://news.ycombinator.com/item?id=31119574"/>
+        <updated>2022-04-22T09:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite scientific essays?]]></summary>
+        <author>
+            <name>lmc</name>
+            <uri>https://news.ycombinator.com/user?id=lmc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理Unicode密码？]]></title>
         <id>https://news.ycombinator.com/item?id=31119478</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pdx_flyer</name>
             <uri>https://news.ycombinator.com/user?id=pdx_flyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的网站上接受ETH付款]]></title>
-        <id>https://news.ycombinator.com/item?id=30959955</id>
-        <link href="https://news.ycombinator.com/item?id=30959955"/>
-        <updated>2022-04-08T17:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Accepting ETH payments on my website]]></summary>
-        <author>
-            <name>thedangler</name>
-            <uri>https://news.ycombinator.com/user?id=thedangler</uri>
         </author>
     </entry>
 </feed>
