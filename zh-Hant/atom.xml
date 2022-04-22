@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T21:12:39.788Z</updated>
+    <updated>2022-04-22T21:51:37.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個充滿好奇心的人，你是如何管理多條調查線的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31128483</id>
+        <link href="https://news.ycombinator.com/item?id=31128483"/>
+        <updated>2022-04-22T21:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you manage multiple lines of inquiry as a curious person?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[80年代以來，GPU有什麼新變化？(請提供技術細節)]]></title>
         <id>https://news.ycombinator.com/item?id=31128107</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dataspun</name>
             <uri>https://news.ycombinator.com/user?id=dataspun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國人在談到家人時要用他們的名字，好像我們認識他們一樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30969575</id>
-        <link href="https://news.ycombinator.com/item?id=30969575"/>
-        <updated>2022-04-09T16:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do Americans speak about family by their names, like we know them?]]></summary>
-        <author>
-            <name>enw</name>
-            <uri>https://news.ycombinator.com/user?id=enw</uri>
         </author>
     </entry>
 </feed>
