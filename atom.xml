@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T03:07:43.196Z</updated>
+    <updated>2022-04-22T04:09:37.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有谁厌倦了所有公司的胡说八道？]]></title>
+        <id>https://news.ycombinator.com/item?id=31117981</id>
+        <link href="https://news.ycombinator.com/item?id=31117981"/>
+        <updated>2022-04-22T03:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else is tired of all the corporate bs?]]></summary>
+        <author>
+            <name>boredemployee</name>
+            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为开始新工作做准备的资源]]></title>
+        <id>https://news.ycombinator.com/item?id=31117867</id>
+        <link href="https://news.ycombinator.com/item?id=31117867"/>
+        <updated>2022-04-22T03:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources to prepare for starting a new job]]></summary>
+        <author>
+            <name>SashaRuvin</name>
+            <uri>https://news.ycombinator.com/user?id=SashaRuvin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在太空公司工作是什么感觉？]]></title>
         <id>https://news.ycombinator.com/item?id=31117660</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chrisshroba</name>
             <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为MVP推荐工程公司/开发公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959674</id>
-        <link href="https://news.ycombinator.com/item?id=30959674"/>
-        <updated>2022-04-08T17:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended engineering firms / dev shops for MVPs?]]></summary>
-        <author>
-            <name>afridi</name>
-            <uri>https://news.ycombinator.com/user?id=afridi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的2FA？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959447</id>
-        <link href="https://news.ycombinator.com/item?id=30959447"/>
-        <updated>2022-04-08T16:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: 2FA for HN?]]></summary>
-        <author>
-            <name>jonny_eh</name>
-            <uri>https://news.ycombinator.com/user?id=jonny_eh</uri>
         </author>
     </entry>
 </feed>
