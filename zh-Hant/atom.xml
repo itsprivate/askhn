@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T21:51:37.846Z</updated>
+    <updated>2022-04-22T22:14:28.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分佈式數據庫的標誌性論文]]></title>
+        <id>https://news.ycombinator.com/item?id=31128730</id>
+        <link href="https://news.ycombinator.com/item?id=31128730"/>
+        <updated>2022-04-22T21:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Seminal Papers on Distributed Databases]]></summary>
+        <author>
+            <name>GGfpc</name>
+            <uri>https://news.ycombinator.com/user?id=GGfpc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個充滿好奇心的人，你是如何管理多條調查線的？]]></title>
         <id>https://news.ycombinator.com/item?id=31128483</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sargstuff</name>
             <uri>https://news.ycombinator.com/user?id=sargstuff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTPS如何比SFTP更復雜/不復雜？]]></title>
-        <id>https://news.ycombinator.com/item?id=30969797</id>
-        <link href="https://news.ycombinator.com/item?id=30969797"/>
-        <updated>2022-04-09T17:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is FTPS more/less complicated than SFTP?]]></summary>
-        <author>
-            <name>dataspun</name>
-            <uri>https://news.ycombinator.com/user?id=dataspun</uri>
         </author>
     </entry>
 </feed>
