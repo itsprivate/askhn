@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T09:34:56.638Z</updated>
+    <updated>2022-04-22T09:53:07.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發移動、網絡和桌面應用程序的單一框架？]]></title>
+        <id>https://news.ycombinator.com/item?id=31119811</id>
+        <link href="https://news.ycombinator.com/item?id=31119811"/>
+        <updated>2022-04-22T09:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: One Single Framework for Developing Mobile, Web and Desktop App?]]></summary>
+        <author>
+            <name>ravirajx7</name>
+            <uri>https://news.ycombinator.com/user?id=ravirajx7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人被Slack中的鍵盤滯後所困擾嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31119702</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>plibither8</name>
             <uri>https://news.ycombinator.com/user?id=plibither8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於在Sedo購買域名的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30960267</id>
-        <link href="https://news.ycombinator.com/item?id=30960267"/>
-        <updated>2022-04-08T17:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice for Buying a Domain on Sedo]]></summary>
-        <author>
-            <name>aranchelk</name>
-            <uri>https://news.ycombinator.com/user?id=aranchelk</uri>
         </author>
     </entry>
 </feed>
