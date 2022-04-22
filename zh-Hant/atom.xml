@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T16:55:59.213Z</updated>
+    <updated>2022-04-22T17:23:55.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更多的內存和CPU如何提高網站性能？]]></title>
+        <id>https://news.ycombinator.com/item?id=31124684</id>
+        <link href="https://news.ycombinator.com/item?id=31124684"/>
+        <updated>2022-04-22T17:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does more RAM and CPU increase website performance?]]></summary>
+        <author>
+            <name>throwingdisaway</name>
+            <uri>https://news.ycombinator.com/user?id=throwingdisaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼電子郵件和聊天記錄是保密的？]]></title>
         <id>https://news.ycombinator.com/item?id=31123948</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>de-asis-kevin</name>
             <uri>https://news.ycombinator.com/user?id=de-asis-kevin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化的約會協議？]]></title>
-        <id>https://news.ycombinator.com/item?id=30965786</id>
-        <link href="https://news.ycombinator.com/item?id=30965786"/>
-        <updated>2022-04-09T06:56:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Decentralized Dating Protocol?]]></summary>
-        <author>
-            <name>pc2g4d</name>
-            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
         </author>
     </entry>
 </feed>
