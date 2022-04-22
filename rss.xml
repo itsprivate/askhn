@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁想说话？]]></title>
+            <link>https://news.ycombinator.com/item?id=31121824</link>
+            <guid>https://news.ycombinator.com/item?id=31121824</guid>
+            <pubDate>Fri, 22 Apr 2022 14:16:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who Wants to Talk?]]></description>
+        </item>
         <item>
             <title><![CDATA[CNN+软件工程师]]></title>
             <link>https://news.ycombinator.com/item?id=31121245</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30964460</guid>
             <pubDate>Sat, 09 Apr 2022 01:29:57 GMT</pubDate>
             <description><![CDATA[Ask HN: Performance of SSDs on M1 so far]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你所在地区有历史上的并排地图吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30964056</link>
-            <guid>https://news.ycombinator.com/item?id=30964056</guid>
-            <pubDate>Sat, 09 Apr 2022 00:22:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Historical side-by-side maps available in your region?]]></description>
         </item>
     </channel>
 </rss>
