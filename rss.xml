@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CNN+软件工程师]]></title>
+            <link>https://news.ycombinator.com/item?id=31121245</link>
+            <guid>https://news.ycombinator.com/item?id=31121245</guid>
+            <pubDate>Fri, 22 Apr 2022 13:23:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: CNN+ Software Engineers]]></description>
+        </item>
         <item>
             <title><![CDATA[你有什么仪式或典礼？]]></title>
             <link>https://news.ycombinator.com/item?id=31120682</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30964056</guid>
             <pubDate>Sat, 09 Apr 2022 00:22:03 GMT</pubDate>
             <description><![CDATA[Ask HN: Historical side-by-side maps available in your region?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[还有人发现OS X 12.2.1在网页表单中呼应密码吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30962841</link>
-            <guid>https://news.ycombinator.com/item?id=30962841</guid>
-            <pubDate>Fri, 08 Apr 2022 21:41:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anybody else find OS X 12.2.1 echoes password in web forms?]]></description>
         </item>
     </channel>
 </rss>
