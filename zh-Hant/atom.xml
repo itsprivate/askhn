@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T23:34:09.565Z</updated>
+    <updated>2022-04-22T23:52:35.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的數據庫有多大？]]></title>
+        <id>https://news.ycombinator.com/item?id=31129655</id>
+        <link href="https://news.ycombinator.com/item?id=31129655"/>
+        <updated>2022-04-22T23:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How big is your database?]]></summary>
+        <author>
+            <name>gcau</name>
+            <uri>https://news.ycombinator.com/user?id=gcau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你見過的最優雅的代碼？]]></title>
         <id>https://news.ycombinator.com/item?id=31129471</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>perplexedparent</name>
             <uri>https://news.ycombinator.com/user?id=perplexedparent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是物聯網的做和不做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30971462</id>
-        <link href="https://news.ycombinator.com/item?id=30971462"/>
-        <updated>2022-04-09T19:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are IoT's do and don't?]]></summary>
-        <author>
-            <name>danamit</name>
-            <uri>https://news.ycombinator.com/user?id=danamit</uri>
         </author>
     </entry>
 </feed>

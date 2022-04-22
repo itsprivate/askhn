@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 22 Apr 2022 23:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 23:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的数据库有多大？]]></title>
+            <link>https://news.ycombinator.com/item?id=31129655</link>
+            <guid>https://news.ycombinator.com/item?id=31129655</guid>
+            <pubDate>Fri, 22 Apr 2022 23:42:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: How big is your database?]]></description>
+        </item>
         <item>
             <title><![CDATA[你见过的最优雅的代码？]]></title>
             <link>https://news.ycombinator.com/item?id=31129471</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30971692</guid>
             <pubDate>Sat, 09 Apr 2022 20:25:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Any Parents to “Average” Children?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是物联网的做和不做？]]></title>
-            <link>https://news.ycombinator.com/item?id=30971462</link>
-            <guid>https://news.ycombinator.com/item?id=30971462</guid>
-            <pubDate>Sat, 09 Apr 2022 19:59:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are IoT's do and don't?]]></description>
         </item>
     </channel>
 </rss>
