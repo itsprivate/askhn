@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 22 Apr 2022 14:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 15:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在办公室工作的人，为你们提供了哪些设备？]]></title>
+            <link>https://news.ycombinator.com/item?id=31122498</link>
+            <guid>https://news.ycombinator.com/item?id=31122498</guid>
+            <pubDate>Fri, 22 Apr 2022 15:05:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: People who work in an office, what equipment are you provided with?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[archive.md/is/ph/vn怎么了？]]></title>
+            <link>https://news.ycombinator.com/item?id=31122493</link>
+            <guid>https://news.ycombinator.com/item?id=31122493</guid>
+            <pubDate>Fri, 22 Apr 2022 15:05:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What happened to archive.md/is/ph/vn?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么源文件夹被称为 "src"？]]></title>
+            <link>https://news.ycombinator.com/item?id=31122343</link>
+            <guid>https://news.ycombinator.com/item?id=31122343</guid>
+            <pubDate>Fri, 22 Apr 2022 14:55:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is the source folder called 'src'?]]></description>
+        </item>
         <item>
             <title><![CDATA[分发市场研究调查的最佳方式？]]></title>
             <link>https://news.ycombinator.com/item?id=31122242</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30965408</guid>
             <pubDate>Sat, 09 Apr 2022 05:08:56 GMT</pubDate>
             <description><![CDATA[Ask HN: What work is least likely to be taken over by scaling deep learning?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否在Golang上使用全栈式网络框架，如vaadin/RoR？]]></title>
-            <link>https://news.ycombinator.com/item?id=30965299</link>
-            <guid>https://news.ycombinator.com/item?id=30965299</guid>
-            <pubDate>Sat, 09 Apr 2022 04:37:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you use full stack web framework like vaadin/RoR on Golang?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何处理心碎/单恋的问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30965124</link>
-            <guid>https://news.ycombinator.com/item?id=30965124</guid>
-            <pubDate>Sat, 09 Apr 2022 03:45:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you deal with heartbreak/unrequited love]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在漫长的项目中，你如何建立、保持和重获动力？]]></title>
-            <link>https://news.ycombinator.com/item?id=30964931</link>
-            <guid>https://news.ycombinator.com/item?id=30964931</guid>
-            <pubDate>Sat, 09 Apr 2022 03:02:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you build, maintain, and regain momentum during lengthy projects?]]></description>
         </item>
     </channel>
 </rss>

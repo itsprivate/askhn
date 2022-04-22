@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T14:53:49.078Z</updated>
+    <updated>2022-04-22T15:13:56.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在辦公室工作的人，為你們提供了哪些設備？]]></title>
+        <id>https://news.ycombinator.com/item?id=31122498</id>
+        <link href="https://news.ycombinator.com/item?id=31122498"/>
+        <updated>2022-04-22T15:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People who work in an office, what equipment are you provided with?]]></summary>
+        <author>
+            <name>fy20</name>
+            <uri>https://news.ycombinator.com/user?id=fy20</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[archive.md/is/ph/vn怎麼了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31122493</id>
+        <link href="https://news.ycombinator.com/item?id=31122493"/>
+        <updated>2022-04-22T15:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happened to archive.md/is/ph/vn?]]></summary>
+        <author>
+            <name>kaladin-jasnah</name>
+            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼源文件夾被稱為 "src"？]]></title>
+        <id>https://news.ycombinator.com/item?id=31122343</id>
+        <link href="https://news.ycombinator.com/item?id=31122343"/>
+        <updated>2022-04-22T14:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the source folder called 'src'?]]></summary>
+        <author>
+            <name>jshxr</name>
+            <uri>https://news.ycombinator.com/user?id=jshxr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分發市場研究調查的最佳方式？]]></title>
         <id>https://news.ycombinator.com/item?id=31122242</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>abhaynayar</name>
             <uri>https://news.ycombinator.com/user?id=abhaynayar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在Golang上使用全棧式網絡框架，如vaadin/RoR？]]></title>
-        <id>https://news.ycombinator.com/item?id=30965299</id>
-        <link href="https://news.ycombinator.com/item?id=30965299"/>
-        <updated>2022-04-09T04:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use full stack web framework like vaadin/RoR on Golang?]]></summary>
-        <author>
-            <name>tomerbd</name>
-            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理心碎/單戀的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30965124</id>
-        <link href="https://news.ycombinator.com/item?id=30965124"/>
-        <updated>2022-04-09T03:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with heartbreak/unrequited love]]></summary>
-        <author>
-            <name>DevToRecruiter</name>
-            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在漫長的項目中，你如何建立、保持和重獲動力？]]></title>
-        <id>https://news.ycombinator.com/item?id=30964931</id>
-        <link href="https://news.ycombinator.com/item?id=30964931"/>
-        <updated>2022-04-09T03:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you build, maintain, and regain momentum during lengthy projects?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
