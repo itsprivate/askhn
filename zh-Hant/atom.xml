@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T23:12:54.482Z</updated>
+    <updated>2022-04-22T23:34:09.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你見過的最優雅的代碼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31129471</id>
+        <link href="https://news.ycombinator.com/item?id=31129471"/>
+        <updated>2022-04-22T23:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Most elegant code you’ve ever seen?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些替代Storybook的產品？]]></title>
+        <id>https://news.ycombinator.com/item?id=31129470</id>
+        <link href="https://news.ycombinator.com/item?id=31129470"/>
+        <updated>2022-04-22T23:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best alternatives to Storybook]]></summary>
+        <author>
+            <name>dynamite-ready</name>
+            <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我還有什麼可以做的，我有向人提問的強烈願望？]]></title>
         <id>https://news.ycombinator.com/item?id=31129262</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>danamit</name>
             <uri>https://news.ycombinator.com/user?id=danamit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有一種服務可以為好奇的普通人分解數學論文？]]></title>
-        <id>https://news.ycombinator.com/item?id=30971086</id>
-        <link href="https://news.ycombinator.com/item?id=30971086"/>
-        <updated>2022-04-09T19:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a service that breaks down math papers for the curious layman?]]></summary>
-        <author>
-            <name>zydex</name>
-            <uri>https://news.ycombinator.com/user?id=zydex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是我的問題，還是世界上的一切都停止了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30970964</id>
-        <link href="https://news.ycombinator.com/item?id=30970964"/>
-        <updated>2022-04-09T19:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it just me or has everything stopped happening in the world?]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
         </author>
     </entry>
 </feed>
