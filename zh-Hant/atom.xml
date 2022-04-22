@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T10:55:31.345Z</updated>
+    <updated>2022-04-22T11:12:09.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人可以免費閱讀Lenny Rachitsky的通訊？]]></title>
+        <id>https://news.ycombinator.com/item?id=31120203</id>
+        <link href="https://news.ycombinator.com/item?id=31120203"/>
+        <updated>2022-04-22T11:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any to read Lenny Rachitsky's newsletter free of cost?]]></summary>
+        <author>
+            <name>gogo61</name>
+            <uri>https://news.ycombinator.com/user?id=gogo61</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你討厭Slack的什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31120157</id>
+        <link href="https://news.ycombinator.com/item?id=31120157"/>
+        <updated>2022-04-22T10:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you hate about Slack?]]></summary>
+        <author>
+            <name>Lior539</name>
+            <uri>https://news.ycombinator.com/user?id=Lior539</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub的搜索怎麼可能如此糟糕呢？]]></title>
         <id>https://news.ycombinator.com/item?id=31120084</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arikr</name>
             <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼辦法能讓敏捷變得正確嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30961400</id>
-        <link href="https://news.ycombinator.com/item?id=30961400"/>
-        <updated>2022-04-08T19:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a way to get Agile right?]]></summary>
-        <author>
-            <name>yakytaky</name>
-            <uri>https://news.ycombinator.com/user?id=yakytaky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該（努力）把什麼技能傳給今年的實習生？]]></title>
-        <id>https://news.ycombinator.com/item?id=30960530</id>
-        <link href="https://news.ycombinator.com/item?id=30960530"/>
-        <updated>2022-04-08T18:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What skills should I (try to) pass on to this year's intern?]]></summary>
-        <author>
-            <name>travisgriggs</name>
-            <uri>https://news.ycombinator.com/user?id=travisgriggs</uri>
         </author>
     </entry>
 </feed>
