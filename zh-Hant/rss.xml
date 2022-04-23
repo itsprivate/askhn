@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 19:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 19:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[由在該領域有豐富經驗的人撰寫的非小說類書籍]]></title>
+            <link>https://news.ycombinator.com/item?id=31137397</link>
+            <guid>https://news.ycombinator.com/item?id=31137397</guid>
+            <pubDate>Sat, 23 Apr 2022 19:11:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Non-fiction books written by people with lots of experience in the field]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼移動應用程序的福音日誌會被遺棄？]]></title>
+            <link>https://news.ycombinator.com/item?id=31137375</link>
+            <guid>https://news.ycombinator.com/item?id=31137375</guid>
+            <pubDate>Sat, 23 Apr 2022 19:09:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why did mobile App-Changelogs did become abandoned]]></description>
+        </item>
         <item>
             <title><![CDATA[你對智力的定義是什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=31137216</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30977765</guid>
             <pubDate>Sun, 10 Apr 2022 15:16:20 GMT</pubDate>
             <description><![CDATA[Ask HN: Would you partner with Chernov Studio?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在哪裡可以得到一個IPv6]]></title>
-            <link>https://news.ycombinator.com/item?id=30977625</link>
-            <guid>https://news.ycombinator.com/item?id=30977625</guid>
-            <pubDate>Sun, 10 Apr 2022 15:07:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can I get an IPv6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Go在學術界採用C語言時，沒有作為Course:101被採用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30977125</link>
-            <guid>https://news.ycombinator.com/item?id=30977125</guid>
-            <pubDate>Sun, 10 Apr 2022 14:22:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why isn't Go adopted as Course:101 in academia when it adopted C?]]></description>
         </item>
     </channel>
 </rss>

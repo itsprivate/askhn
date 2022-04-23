@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T19:11:23.696Z</updated>
+    <updated>2022-04-23T19:27:26.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由在该领域有丰富经验的人撰写的非小说类书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=31137397</id>
+        <link href="https://news.ycombinator.com/item?id=31137397"/>
+        <updated>2022-04-23T19:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-fiction books written by people with lots of experience in the field]]></summary>
+        <author>
+            <name>gymshoes</name>
+            <uri>https://news.ycombinator.com/user?id=gymshoes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么移动应用程序的福音日志会被遗弃？]]></title>
+        <id>https://news.ycombinator.com/item?id=31137375</id>
+        <link href="https://news.ycombinator.com/item?id=31137375"/>
+        <updated>2022-04-23T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did mobile App-Changelogs did become abandoned]]></summary>
+        <author>
+            <name>Zeik0s</name>
+            <uri>https://news.ycombinator.com/user?id=Zeik0s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对智力的定义是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31137216</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ch1c0t</name>
             <uri>https://news.ycombinator.com/user?id=ch1c0t</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以得到一个IPv6]]></title>
-        <id>https://news.ycombinator.com/item?id=30977625</id>
-        <link href="https://news.ycombinator.com/item?id=30977625"/>
-        <updated>2022-04-10T15:07:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I get an IPv6]]></summary>
-        <author>
-            <name>warent</name>
-            <uri>https://news.ycombinator.com/user?id=warent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Go在学术界采用C语言时，没有作为Course:101被采用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30977125</id>
-        <link href="https://news.ycombinator.com/item?id=30977125"/>
-        <updated>2022-04-10T14:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't Go adopted as Course:101 in academia when it adopted C?]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
