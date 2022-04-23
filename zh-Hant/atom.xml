@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T04:46:14.010Z</updated>
+    <updated>2022-04-23T05:11:42.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理你的死亡（旋轉盤）硬盤？]]></title>
+        <id>https://news.ycombinator.com/item?id=31131562</id>
+        <link href="https://news.ycombinator.com/item?id=31131562"/>
+        <updated>2022-04-23T05:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you dispose of your dead (spinning platter) HDDs?]]></summary>
+        <author>
+            <name>thomassmith65</name>
+            <uri>https://news.ycombinator.com/user?id=thomassmith65</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS的Safari擴展可以在其他瀏覽器中使用嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31131554</id>
+        <link href="https://news.ycombinator.com/item?id=31131554"/>
+        <updated>2022-04-23T05:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can Safari extensions for iOS work in other browsers?]]></summary>
+        <author>
+            <name>captn3m0</name>
+            <uri>https://news.ycombinator.com/user?id=captn3m0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用在線開發工具的風險]]></title>
         <id>https://news.ycombinator.com/item?id=31131467</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lakeeffect</name>
             <uri>https://news.ycombinator.com/user?id=lakeeffect</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是否應該調查所有的海洋？]]></title>
-        <id>https://news.ycombinator.com/item?id=30973771</id>
-        <link href="https://news.ycombinator.com/item?id=30973771"/>
-        <updated>2022-04-10T01:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should we survey all the oceans?]]></summary>
-        <author>
-            <name>FrenchAmerican</name>
-            <uri>https://news.ycombinator.com/user?id=FrenchAmerican</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你寫過哪些讓你後悔的代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30973037</id>
-        <link href="https://news.ycombinator.com/item?id=30973037"/>
-        <updated>2022-04-09T23:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What code have you written that you regret?]]></summary>
-        <author>
-            <name>tinycabbage</name>
-            <uri>https://news.ycombinator.com/user?id=tinycabbage</uri>
         </author>
     </entry>
 </feed>
