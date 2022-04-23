@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T00:42:47.667Z</updated>
+    <updated>2022-04-23T02:27:37.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux IPv4和IPv6端口文章]]></title>
+        <id>https://news.ycombinator.com/item?id=31130441</id>
+        <link href="https://news.ycombinator.com/item?id=31130441"/>
+        <updated>2022-04-23T01:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Linux IPv4 and IPv6 ports article]]></summary>
+        <author>
+            <name>jesse_faden</name>
+            <uri>https://news.ycombinator.com/user?id=jesse_faden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp网络版现在提示Firefox更新]]></title>
+        <id>https://news.ycombinator.com/item?id=31130420</id>
+        <link href="https://news.ycombinator.com/item?id=31130420"/>
+        <updated>2022-04-23T01:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: WhatsApp web now prompts for Firefox update]]></summary>
+        <author>
+            <name>blmayer</name>
+            <uri>https://news.ycombinator.com/user?id=blmayer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是抑郁症吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31130012</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对未来几个18个月有什么预测？]]></title>
-        <id>https://news.ycombinator.com/item?id=30972270</id>
-        <link href="https://news.ycombinator.com/item?id=30972270"/>
-        <updated>2022-04-09T21:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your predictions for the next few 18 months?]]></summary>
-        <author>
-            <name>de-asis-kevin</name>
-            <uri>https://news.ycombinator.com/user?id=de-asis-kevin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何思考人生/职业的方向？]]></title>
-        <id>https://news.ycombinator.com/item?id=30972009</id>
-        <link href="https://news.ycombinator.com/item?id=30972009"/>
-        <updated>2022-04-09T21:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to think about direction in life/career?]]></summary>
-        <author>
-            <name>genmaicha123</name>
-            <uri>https://news.ycombinator.com/user?id=genmaicha123</uri>
         </author>
     </entry>
 </feed>
