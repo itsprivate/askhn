@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 04:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用在線開發工具的風險]]></title>
+            <link>https://news.ycombinator.com/item?id=31131467</link>
+            <guid>https://news.ycombinator.com/item?id=31131467</guid>
+            <pubDate>Sat, 23 Apr 2022 04:41:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Risks of using online developer tools]]></description>
+        </item>
         <item>
             <title><![CDATA[如何避免侵犯軟件專利？]]></title>
             <link>https://news.ycombinator.com/item?id=31131287</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30973037</guid>
             <pubDate>Sat, 09 Apr 2022 23:12:14 GMT</pubDate>
             <description><![CDATA[Ask HN: What code have you written that you regret?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[您使用亞馬遜S3服務的創意方式？]]></title>
-            <link>https://news.ycombinator.com/item?id=30972863</link>
-            <guid>https://news.ycombinator.com/item?id=30972863</guid>
-            <pubDate>Sat, 09 Apr 2022 22:40:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Creative ways that you use Amazon S3 service?]]></description>
         </item>
     </channel>
 </rss>

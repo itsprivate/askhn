@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T04:20:07.722Z</updated>
+    <updated>2022-04-23T04:46:14.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用在線開發工具的風險]]></title>
+        <id>https://news.ycombinator.com/item?id=31131467</id>
+        <link href="https://news.ycombinator.com/item?id=31131467"/>
+        <updated>2022-04-23T04:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Risks of using online developer tools]]></summary>
+        <author>
+            <name>narengowda</name>
+            <uri>https://news.ycombinator.com/user?id=narengowda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何避免侵犯軟件專利？]]></title>
         <id>https://news.ycombinator.com/item?id=31131287</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tinycabbage</name>
             <uri>https://news.ycombinator.com/user?id=tinycabbage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您使用亞馬遜S3服務的創意方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30972863</id>
-        <link href="https://news.ycombinator.com/item?id=30972863"/>
-        <updated>2022-04-09T22:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Creative ways that you use Amazon S3 service?]]></summary>
-        <author>
-            <name>jusonchan81</name>
-            <uri>https://news.ycombinator.com/user?id=jusonchan81</uri>
         </author>
     </entry>
 </feed>
