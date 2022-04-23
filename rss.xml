@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 14:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我应该为成为一名研究工程师而攻读硕士学位吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=31134742</link>
+            <guid>https://news.ycombinator.com/item?id=31134742</guid>
+            <pubDate>Sat, 23 Apr 2022 14:52:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should I purse a masters to become a Research Engineer?]]></description>
+        </item>
         <item>
             <title><![CDATA[更便宜的Algolia替代品？]]></title>
             <link>https://news.ycombinator.com/item?id=31134320</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30976365</guid>
             <pubDate>Sun, 10 Apr 2022 12:17:01 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you use a CLI based email client?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么PyTorch的einsum明显比transpose慢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30975887</link>
-            <guid>https://news.ycombinator.com/item?id=30975887</guid>
-            <pubDate>Sun, 10 Apr 2022 10:32:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why PyTorch einsum is significantly slower than transpose]]></description>
         </item>
     </channel>
 </rss>

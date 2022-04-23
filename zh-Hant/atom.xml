@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T14:13:13.142Z</updated>
+    <updated>2022-04-23T15:13:04.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該為成為一名研究工程師而攻讀碩士學位嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31134742</id>
+        <link href="https://news.ycombinator.com/item?id=31134742"/>
+        <updated>2022-04-23T14:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I purse a masters to become a Research Engineer?]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更便宜的Algolia替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=31134320</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>artpar</name>
             <uri>https://news.ycombinator.com/user?id=artpar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼PyTorch的einsum明顯比transpose慢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30975887</id>
-        <link href="https://news.ycombinator.com/item?id=30975887"/>
-        <updated>2022-04-10T10:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why PyTorch einsum is significantly slower than transpose]]></summary>
-        <author>
-            <name>rcshubhadeep</name>
-            <uri>https://news.ycombinator.com/user?id=rcshubhadeep</uri>
         </author>
     </entry>
 </feed>
