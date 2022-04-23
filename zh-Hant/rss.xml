@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 13:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 14:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[更便宜的Algolia替代品？]]></title>
+            <link>https://news.ycombinator.com/item?id=31134320</link>
+            <guid>https://news.ycombinator.com/item?id=31134320</guid>
+            <pubDate>Sat, 23 Apr 2022 13:58:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Cheaper Algolia Alternative?]]></description>
+        </item>
         <item>
             <title><![CDATA[你停放了多少個域名，你在這些域名上花了多少錢？]]></title>
             <link>https://news.ycombinator.com/item?id=31133956</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30975887</guid>
             <pubDate>Sun, 10 Apr 2022 10:32:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Why PyTorch einsum is significantly slower than transpose]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你不懂CSS，你是一個前端工程師嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30975767</link>
-            <guid>https://news.ycombinator.com/item?id=30975767</guid>
-            <pubDate>Sun, 10 Apr 2022 10:08:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are you a front end engineer if you don’t know CSS?]]></description>
         </item>
     </channel>
 </rss>
