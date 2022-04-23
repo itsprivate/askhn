@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T21:12:51.768Z</updated>
+    <updated>2022-04-23T21:31:31.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[參與招聘的人，你會給CTCI增加什麼評論？]]></title>
+        <id>https://news.ycombinator.com/item?id=31138626</id>
+        <link href="https://news.ycombinator.com/item?id=31138626"/>
+        <updated>2022-04-23T21:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People involved with hiring, what commentary would you add to CTCI?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用工具/軟件來認可你的員工？]]></title>
         <id>https://news.ycombinator.com/item?id=31138447</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tungle</name>
             <uri>https://news.ycombinator.com/user?id=tungle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有多動症的人，你是如何集中精力看書的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30978569</id>
-        <link href="https://news.ycombinator.com/item?id=30978569"/>
-        <updated>2022-04-10T16:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: People with ADHD, how do you focus for reading books?]]></summary>
-        <author>
-            <name>not_a_noogler</name>
-            <uri>https://news.ycombinator.com/user?id=not_a_noogler</uri>
         </author>
     </entry>
 </feed>
