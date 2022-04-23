@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T18:14:15.386Z</updated>
+    <updated>2022-04-23T18:38:45.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何稱呼啟蒙的對立面？]]></title>
+        <id>https://news.ycombinator.com/item?id=31136886</id>
+        <link href="https://news.ycombinator.com/item?id=31136886"/>
+        <updated>2022-04-23T18:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Call the Opposite of Enlightenment?]]></summary>
+        <author>
+            <name>kite_and_code</name>
+            <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[計算機科學學位應該與軟件工程分開嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31136579</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cebert</name>
             <uri>https://news.ycombinator.com/user?id=cebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有沒有從Headspace、Fabulous等應用程序中獲得任何真正的好處？]]></title>
-        <id>https://news.ycombinator.com/item?id=30976971</id>
-        <link href="https://news.ycombinator.com/item?id=30976971"/>
-        <updated>2022-04-10T14:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you had any real benefits from apps like Headspace, Fabulous, etc.?]]></summary>
-        <author>
-            <name>thyrox</name>
-            <uri>https://news.ycombinator.com/user?id=thyrox</uri>
         </author>
     </entry>
 </feed>
