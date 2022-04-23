@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T16:48:50.862Z</updated>
+    <updated>2022-04-23T18:14:15.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算机科学学位应该与软件工程分开吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31136579</id>
+        <link href="https://news.ycombinator.com/item?id=31136579"/>
+        <updated>2022-04-23T17:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should computer science degrees be separated from software engineering?]]></summary>
+        <author>
+            <name>khaled_ismaeel</name>
+            <uri>https://news.ycombinator.com/user?id=khaled_ismaeel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中等水平的HN读者不知道哪些重要的最新技术？]]></title>
         <id>https://news.ycombinator.com/item?id=31135743</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thyrox</name>
             <uri>https://news.ycombinator.com/user?id=thyrox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一个互联网基础设施问题是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30976594</id>
-        <link href="https://news.ycombinator.com/item?id=30976594"/>
-        <updated>2022-04-10T12:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the next internet infra problems?]]></summary>
-        <author>
-            <name>vabahe7646</name>
-            <uri>https://news.ycombinator.com/user?id=vabahe7646</uri>
         </author>
     </entry>
 </feed>
