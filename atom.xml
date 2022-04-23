@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T21:39:38.228Z</updated>
+    <updated>2022-04-23T22:13:03.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电子邮件治疗]]></title>
+        <id>https://news.ycombinator.com/item?id=31139069</id>
+        <link href="https://news.ycombinator.com/item?id=31139069"/>
+        <updated>2022-04-23T22:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Email Therapy]]></summary>
+        <author>
+            <name>stigz</name>
+            <uri>https://news.ycombinator.com/user?id=stigz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你对Chrome浏览器成为浏览器垄断者有什么看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=31138993</id>
+        <link href="https://news.ycombinator.com/item?id=31138993"/>
+        <updated>2022-04-23T21:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you feel about Chrome becoming a browser monopoly?]]></summary>
+        <author>
+            <name>tribejri</name>
+            <uri>https://news.ycombinator.com/user?id=tribejri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果这意味着没有老板，你是否愿意独自生活一辈子？]]></title>
         <id>https://news.ycombinator.com/item?id=31138783</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>unixhero</name>
             <uri>https://news.ycombinator.com/user?id=unixhero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么iOS从来没有限制应用程序的网络访问的控件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30980095</id>
-        <link href="https://news.ycombinator.com/item?id=30980095"/>
-        <updated>2022-04-10T18:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why has iOS never had a control for restricting an app's network access?]]></summary>
-        <author>
-            <name>davidbarker</name>
-            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作中感到被认可吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30979022</id>
-        <link href="https://news.ycombinator.com/item?id=30979022"/>
-        <updated>2022-04-10T16:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you feel recognized at work?]]></summary>
-        <author>
-            <name>axg11</name>
-            <uri>https://news.ycombinator.com/user?id=axg11</uri>
         </author>
     </entry>
 </feed>
