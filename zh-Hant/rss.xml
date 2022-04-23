@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 12:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 12:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Chrome擴展可以獲得從現在開始的最後10分鐘的屏幕記錄。]]></title>
+            <link>https://news.ycombinator.com/item?id=31133776</link>
+            <guid>https://news.ycombinator.com/item?id=31133776</guid>
+            <pubDate>Sat, 23 Apr 2022 12:42:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Chrome Extension to get a screen recording of last 10 minutes from now.]]></description>
+        </item>
         <item>
             <title><![CDATA[Leet代碼/相當於數據科學/ML角色的CTCI。]]></title>
             <link>https://news.ycombinator.com/item?id=31133544</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30975583</guid>
             <pubDate>Sun, 10 Apr 2022 09:26:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Why are chess problems attack oriented?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何激勵開發人員編寫文檔？]]></title>
-            <link>https://news.ycombinator.com/item?id=30975405</link>
-            <guid>https://news.ycombinator.com/item?id=30975405</guid>
-            <pubDate>Sun, 10 Apr 2022 08:45:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you motivate developers to write documentation?]]></description>
         </item>
     </channel>
 </rss>

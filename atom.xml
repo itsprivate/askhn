@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T12:18:37.411Z</updated>
+    <updated>2022-04-23T12:55:07.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome扩展可以获得从现在开始的最后10分钟的屏幕记录。]]></title>
+        <id>https://news.ycombinator.com/item?id=31133776</id>
+        <link href="https://news.ycombinator.com/item?id=31133776"/>
+        <updated>2022-04-23T12:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Chrome Extension to get a screen recording of last 10 minutes from now.]]></summary>
+        <author>
+            <name>raxrb</name>
+            <uri>https://news.ycombinator.com/user?id=raxrb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leet代码/相当于数据科学/ML角色的CTCI。]]></title>
         <id>https://news.ycombinator.com/item?id=31133544</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>A_No_Name_Mouse</name>
             <uri>https://news.ycombinator.com/user?id=A_No_Name_Mouse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何激励开发人员编写文档？]]></title>
-        <id>https://news.ycombinator.com/item?id=30975405</id>
-        <link href="https://news.ycombinator.com/item?id=30975405"/>
-        <updated>2022-04-10T08:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you motivate developers to write documentation?]]></summary>
-        <author>
-            <name>aromaticbanana</name>
-            <uri>https://news.ycombinator.com/user?id=aromaticbanana</uri>
         </author>
     </entry>
 </feed>
