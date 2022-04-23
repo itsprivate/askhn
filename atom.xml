@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T11:30:28.707Z</updated>
+    <updated>2022-04-23T12:18:37.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Leet代码/相当于数据科学/ML角色的CTCI。]]></title>
+        <id>https://news.ycombinator.com/item?id=31133544</id>
+        <link href="https://news.ycombinator.com/item?id=31133544"/>
+        <updated>2022-04-23T12:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Leet code/CTCI equivalent for Data science/ML roles]]></summary>
+        <author>
+            <name>MmdYw</name>
+            <uri>https://news.ycombinator.com/user?id=MmdYw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何创建一个数字禁运？]]></title>
+        <id>https://news.ycombinator.com/item?id=31133444</id>
+        <link href="https://news.ycombinator.com/item?id=31133444"/>
+        <updated>2022-04-23T11:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you create a digital embargo?]]></summary>
+        <author>
+            <name>caldarons</name>
+            <uri>https://news.ycombinator.com/user?id=caldarons</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持SaaS]]></title>
         <id>https://news.ycombinator.com/item?id=31133297</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aromaticbanana</name>
             <uri>https://news.ycombinator.com/user?id=aromaticbanana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们应该让Stormkit成为开源的Vercel替代品吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30975339</id>
-        <link href="https://news.ycombinator.com/item?id=30975339"/>
-        <updated>2022-04-10T08:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Shall we make Stormkit an open source Vercel alternative?]]></summary>
-        <author>
-            <name>svedova</name>
-            <uri>https://news.ycombinator.com/user?id=svedova</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果应用商店阻止向乌克兰付款？]]></title>
-        <id>https://news.ycombinator.com/item?id=30975337</id>
-        <link href="https://news.ycombinator.com/item?id=30975337"/>
-        <updated>2022-04-10T08:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Apple Appstore blocks payouts to Ukraine?]]></summary>
-        <author>
-            <name>f137</name>
-            <uri>https://news.ycombinator.com/user?id=f137</uri>
         </author>
     </entry>
 </feed>
