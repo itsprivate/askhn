@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T10:53:10.639Z</updated>
+    <updated>2022-04-23T11:30:28.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支持SaaS]]></title>
+        <id>https://news.ycombinator.com/item?id=31133297</id>
+        <link href="https://news.ycombinator.com/item?id=31133297"/>
+        <updated>2022-04-23T11:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Support SaaS]]></summary>
+        <author>
+            <name>3000</name>
+            <uri>https://news.ycombinator.com/user?id=3000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有过HostCircle的经验吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31133234</id>
+        <link href="https://news.ycombinator.com/item?id=31133234"/>
+        <updated>2022-04-23T11:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experiences with HostCircle?]]></summary>
+        <author>
+            <name>rocciu</name>
+            <uri>https://news.ycombinator.com/user?id=rocciu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于Lineage OS用户来说，什么是最好的流媒体设备？]]></title>
         <id>https://news.ycombinator.com/item?id=31132966</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>f137</name>
             <uri>https://news.ycombinator.com/user?id=f137</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Postcrossing上有常客吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30974974</id>
-        <link href="https://news.ycombinator.com/item?id=30974974"/>
-        <updated>2022-04-10T06:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Regulars on Postcrossing?]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是最好的或你常用的TOTP/2FA独立的开源应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30974774</id>
-        <link href="https://news.ycombinator.com/item?id=30974774"/>
-        <updated>2022-04-10T06:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best or your go-to TOTP/2FA Standalone Open Source App?]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
