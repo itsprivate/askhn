@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-22T23:52:35.622Z</updated>
+    <updated>2022-04-23T00:42:47.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这是抑郁症吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31130012</id>
+        <link href="https://news.ycombinator.com/item?id=31130012"/>
+        <updated>2022-04-23T00:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is This Depression?]]></summary>
+        <author>
+            <name>xorica</name>
+            <uri>https://news.ycombinator.com/user?id=xorica</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌的某位工程师能否在Chrome上添加对IPFS的支持？]]></title>
+        <id>https://news.ycombinator.com/item?id=31129883</id>
+        <link href="https://news.ycombinator.com/item?id=31129883"/>
+        <updated>2022-04-23T00:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can one of the Google engineers add support for IPFS on Chrome?]]></summary>
+        <author>
+            <name>davidajackson</name>
+            <uri>https://news.ycombinator.com/user?id=davidajackson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Mac G4的任何用途？]]></title>
+        <id>https://news.ycombinator.com/item?id=31129763</id>
+        <link href="https://news.ycombinator.com/item?id=31129763"/>
+        <updated>2022-04-22T23:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Use for a Power Mac G4?]]></summary>
+        <author>
+            <name>gandalfff</name>
+            <uri>https://news.ycombinator.com/user?id=gandalfff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的数据库有多大？]]></title>
         <id>https://news.ycombinator.com/item?id=31129655</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>genmaicha123</name>
             <uri>https://news.ycombinator.com/user?id=genmaicha123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么作为你的嵌入式BI解决方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=30972006</id>
-        <link href="https://news.ycombinator.com/item?id=30972006"/>
-        <updated>2022-04-09T21:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use as your embedded BI solution?]]></summary>
-        <author>
-            <name>lostsoul8282</name>
-            <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在大洗牌期间换了工作而后悔？]]></title>
-        <id>https://news.ycombinator.com/item?id=30971950</id>
-        <link href="https://news.ycombinator.com/item?id=30971950"/>
-        <updated>2022-04-09T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did you change jobs during the Great Reshuffling and regret it?]]></summary>
-        <author>
-            <name>buttocks</name>
-            <uri>https://news.ycombinator.com/user?id=buttocks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁是 "普通 "孩子的父母？]]></title>
-        <id>https://news.ycombinator.com/item?id=30971692</id>
-        <link href="https://news.ycombinator.com/item?id=30971692"/>
-        <updated>2022-04-09T20:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Parents to “Average” Children?]]></summary>
-        <author>
-            <name>perplexedparent</name>
-            <uri>https://news.ycombinator.com/user?id=perplexedparent</uri>
         </author>
     </entry>
 </feed>
