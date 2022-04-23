@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T15:13:04.125Z</updated>
+    <updated>2022-04-23T16:48:50.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中等水平的HN读者不知道哪些重要的最新技术？]]></title>
+        <id>https://news.ycombinator.com/item?id=31135743</id>
+        <link href="https://news.ycombinator.com/item?id=31135743"/>
+        <updated>2022-04-23T16:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What important recent technologies is the median HN reader unaware of?]]></summary>
+        <author>
+            <name>maxutility</name>
+            <uri>https://news.ycombinator.com/user?id=maxutility</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何给出建议的呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=31135656</id>
+        <link href="https://news.ycombinator.com/item?id=31135656"/>
+        <updated>2022-04-23T16:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you give advice?]]></summary>
+        <author>
+            <name>pattyj</name>
+            <uri>https://news.ycombinator.com/user?id=pattyj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该为成为一名研究工程师而攻读硕士学位吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31134742</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vabahe7646</name>
             <uri>https://news.ycombinator.com/user?id=vabahe7646</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是不是太有野心了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30976497</id>
-        <link href="https://news.ycombinator.com/item?id=30976497"/>
-        <updated>2022-04-10T12:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I being too ambitious?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否使用基于CLI的电子邮件客户端？]]></title>
-        <id>https://news.ycombinator.com/item?id=30976365</id>
-        <link href="https://news.ycombinator.com/item?id=30976365"/>
-        <updated>2022-04-10T12:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use a CLI based email client?]]></summary>
-        <author>
-            <name>artpar</name>
-            <uri>https://news.ycombinator.com/user?id=artpar</uri>
         </author>
     </entry>
 </feed>
