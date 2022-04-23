@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T09:32:25.624Z</updated>
+    <updated>2022-04-23T10:16:29.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[盧布為什麼會穩定下來，發生了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31132780</id>
+        <link href="https://news.ycombinator.com/item?id=31132780"/>
+        <updated>2022-04-23T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did Ruble stabilize and what's going on?]]></summary>
+        <author>
+            <name>helij</name>
+            <uri>https://news.ycombinator.com/user?id=helij</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於自然語言理解的書籍推薦]]></title>
+        <id>https://news.ycombinator.com/item?id=31132779</id>
+        <link href="https://news.ycombinator.com/item?id=31132779"/>
+        <updated>2022-04-23T10:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Book recommendations for Natural Language Understanding]]></summary>
+        <author>
+            <name>kovac</name>
+            <uri>https://news.ycombinator.com/user?id=kovac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的面試被拒教會了你什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31132619</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>djellybeans</name>
             <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼密碼管理器有TOTP？]]></title>
-        <id>https://news.ycombinator.com/item?id=30974585</id>
-        <link href="https://news.ycombinator.com/item?id=30974585"/>
-        <updated>2022-04-10T05:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do password managers have TOTP?]]></summary>
-        <author>
-            <name>daenz</name>
-            <uri>https://news.ycombinator.com/user?id=daenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個掙扎的初級汗青，如何提高？]]></title>
-        <id>https://news.ycombinator.com/item?id=30974544</id>
-        <link href="https://news.ycombinator.com/item?id=30974544"/>
-        <updated>2022-04-10T04:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to improve as a struggling junior swe?]]></summary>
-        <author>
-            <name>3a2d29</name>
-            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
         </author>
     </entry>
 </feed>
