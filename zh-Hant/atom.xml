@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T21:31:31.122Z</updated>
+    <updated>2022-04-23T21:39:38.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果這意味著沒有老闆，你是否願意獨自生活一輩子？]]></title>
+        <id>https://news.ycombinator.com/item?id=31138783</id>
+        <link href="https://news.ycombinator.com/item?id=31138783"/>
+        <updated>2022-04-23T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you rather live alone for life if it means not having a boss?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[參與招聘的人，你會給CTCI增加什麼評論？]]></title>
         <id>https://news.ycombinator.com/item?id=31138626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>axg11</name>
             <uri>https://news.ycombinator.com/user?id=axg11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何檢查一箇中央銀行是否在印錢]]></title>
-        <id>https://news.ycombinator.com/item?id=30978891</id>
-        <link href="https://news.ycombinator.com/item?id=30978891"/>
-        <updated>2022-04-10T16:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to check if a central bank is printing money]]></summary>
-        <author>
-            <name>tungle</name>
-            <uri>https://news.ycombinator.com/user?id=tungle</uri>
         </author>
     </entry>
 </feed>
