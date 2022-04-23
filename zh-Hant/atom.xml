@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-23T02:27:37.546Z</updated>
+    <updated>2022-04-23T03:20:05.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我有20-25歐元買書 - 你推薦哪幾本書？]]></title>
+        <id>https://news.ycombinator.com/item?id=31130981</id>
+        <link href="https://news.ycombinator.com/item?id=31130981"/>
+        <updated>2022-04-23T03:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I have 20-25€ for books – What few books do you recommend?]]></summary>
+        <author>
+            <name>L0in</name>
+            <uri>https://news.ycombinator.com/user?id=L0in</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux IPv4和IPv6端口文章]]></title>
         <id>https://news.ycombinator.com/item?id=31130441</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jzer0cool</name>
             <uri>https://news.ycombinator.com/user?id=jzer0cool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既然大多數玩家都關閉了聲音，為什麼還要在手機遊戲中添加聲音？]]></title>
-        <id>https://news.ycombinator.com/item?id=30972331</id>
-        <link href="https://news.ycombinator.com/item?id=30972331"/>
-        <updated>2022-04-09T21:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why add sound to a mobile game given that most players turn it off?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
