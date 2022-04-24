@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 24 Apr 2022 20:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 21:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么自动驾驶汽车不使用信号？]]></title>
+            <link>https://news.ycombinator.com/item?id=31148316</link>
+            <guid>https://news.ycombinator.com/item?id=31148316</guid>
+            <pubDate>Sun, 24 Apr 2022 21:02:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why aren’t autonomous cars using signals?]]></description>
+        </item>
         <item>
             <title><![CDATA[学习CS，对金融感兴趣，我应该学什么？]]></title>
             <link>https://news.ycombinator.com/item?id=31148034</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30988090</guid>
             <pubDate>Mon, 11 Apr 2022 13:04:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Linux users, what is your setup to minimise mouse usage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何为我建立的应用程序撰写案例研究？]]></title>
-            <link>https://news.ycombinator.com/item?id=30988045</link>
-            <guid>https://news.ycombinator.com/item?id=30988045</guid>
-            <pubDate>Mon, 11 Apr 2022 12:58:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to write case studies for apps I've built?]]></description>
         </item>
     </channel>
 </rss>

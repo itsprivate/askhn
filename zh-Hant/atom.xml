@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T20:44:58.890Z</updated>
+    <updated>2022-04-24T21:12:05.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼自動駕駛汽車不使用信號？]]></title>
+        <id>https://news.ycombinator.com/item?id=31148316</id>
+        <link href="https://news.ycombinator.com/item?id=31148316"/>
+        <updated>2022-04-24T21:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren’t autonomous cars using signals?]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習CS，對金融感興趣，我應該學什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31148034</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何為我建立的應用程序撰寫案例研究？]]></title>
-        <id>https://news.ycombinator.com/item?id=30988045</id>
-        <link href="https://news.ycombinator.com/item?id=30988045"/>
-        <updated>2022-04-11T12:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to write case studies for apps I've built?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
         </author>
     </entry>
 </feed>
