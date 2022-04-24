@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T11:37:14.172Z</updated>
+    <updated>2022-04-24T12:17:51.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何推銷一個有兩個不同用例的產品？]]></title>
+        <id>https://news.ycombinator.com/item?id=31143209</id>
+        <link href="https://news.ycombinator.com/item?id=31143209"/>
+        <updated>2022-04-24T11:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to market a product with two distinct use cases?]]></summary>
+        <author>
+            <name>konschubert</name>
+            <uri>https://news.ycombinator.com/user?id=konschubert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼NordVPN要改變我的路由器設置？]]></title>
         <id>https://news.ycombinator.com/item?id=31143053</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>locusofself</name>
             <uri>https://news.ycombinator.com/user?id=locusofself</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些好地方可以讓你對加密貨幣的發展狀況有一個初步的瞭解？]]></title>
-        <id>https://news.ycombinator.com/item?id=30983845</id>
-        <link href="https://news.ycombinator.com/item?id=30983845"/>
-        <updated>2022-04-11T02:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good places to get a jump start on the state of crypto dev]]></summary>
-        <author>
-            <name>b20000</name>
-            <uri>https://news.ycombinator.com/user?id=b20000</uri>
         </author>
     </entry>
 </feed>
