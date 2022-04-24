@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T09:51:49.322Z</updated>
+    <updated>2022-04-24T10:14:36.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是全球性、低吞吐量、低延迟的消息总线服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=31142631</id>
+        <link href="https://news.ycombinator.com/item?id=31142631"/>
+        <updated>2022-04-24T10:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a global, low throughput, low latency message bus service?]]></summary>
+        <author>
+            <name>viraptor</name>
+            <uri>https://news.ycombinator.com/user?id=viraptor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么采用英特尔/AMD的无风扇笔记本电脑这么少？]]></title>
+        <id>https://news.ycombinator.com/item?id=31142209</id>
+        <link href="https://news.ycombinator.com/item?id=31142209"/>
+        <updated>2022-04-24T08:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are there so few fanless laptops with Intel/AMD?]]></summary>
+        <author>
+            <name>pappeyrome</name>
+            <uri>https://news.ycombinator.com/user?id=pappeyrome</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在保留银行功能的情况下脱离安卓系统？]]></title>
         <id>https://news.ycombinator.com/item?id=31142556</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sebastian_z</name>
             <uri>https://news.ycombinator.com/user?id=sebastian_z</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜欢哪些超关注的行业通讯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30983517</id>
-        <link href="https://news.ycombinator.com/item?id=30983517"/>
-        <updated>2022-04-11T01:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What hyper-focused industry newsletters do you enjoy?]]></summary>
-        <author>
-            <name>vwcx</name>
-            <uri>https://news.ycombinator.com/user?id=vwcx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用PassRight或Bay移民法申请O-1？]]></title>
-        <id>https://news.ycombinator.com/item?id=30983070</id>
-        <link href="https://news.ycombinator.com/item?id=30983070"/>
-        <updated>2022-04-11T00:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Using PassRight or Bay Immigration Law for O-1?]]></summary>
-        <author>
-            <name>sherryxychen</name>
-            <uri>https://news.ycombinator.com/user?id=sherryxychen</uri>
         </author>
     </entry>
 </feed>
