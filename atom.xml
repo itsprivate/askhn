@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T02:24:02.722Z</updated>
+    <updated>2022-04-24T03:13:53.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁是你公司的FAANG爸爸？]]></title>
+        <id>https://news.ycombinator.com/item?id=31140842</id>
+        <link href="https://news.ycombinator.com/item?id=31140842"/>
+        <updated>2022-04-24T02:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who's your company's FAANG Daddy?]]></summary>
+        <author>
+            <name>wly_cdgr</name>
+            <uri>https://news.ycombinator.com/user?id=wly_cdgr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁能解释一下影响汽车行业的芯片短缺问题？]]></title>
         <id>https://news.ycombinator.com/item?id=31140260</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kaladin-jasnah</name>
             <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能拥有一份有人工智能老板而没有人际互动的工作吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30981896</id>
-        <link href="https://news.ycombinator.com/item?id=30981896"/>
-        <updated>2022-04-10T21:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to have a job with an AI boss and no human interaction?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
