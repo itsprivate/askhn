@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T18:40:36.241Z</updated>
+    <updated>2022-04-24T20:14:16.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫-乔布斯专注于设计，是因为他缺乏技术知识吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31147670</id>
+        <link href="https://news.ycombinator.com/item?id=31147670"/>
+        <updated>2022-04-24T19:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did Steve Jobs focus on design due to his lack of technical knowledge?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些技能对创始人来说是必不可少的，哪些是可以学习的？]]></title>
         <id>https://news.ycombinator.com/item?id=31146659</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>E_Evan</name>
             <uri>https://news.ycombinator.com/user?id=E_Evan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何最好地设计用户账户、组织和产品的层次结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30987764</id>
-        <link href="https://news.ycombinator.com/item?id=30987764"/>
-        <updated>2022-04-11T12:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to best design a hierarchy of user accounts, orgs and products]]></summary>
-        <author>
-            <name>ko3us</name>
-            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
         </author>
     </entry>
 </feed>

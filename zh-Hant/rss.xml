@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 24 Apr 2022 18:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 20:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[史蒂夫-喬布斯專注於設計，是因為他缺乏技術知識嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31147670</link>
+            <guid>https://news.ycombinator.com/item?id=31147670</guid>
+            <pubDate>Sun, 24 Apr 2022 19:51:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did Steve Jobs focus on design due to his lack of technical knowledge?]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些技能對創始人來說是必不可少的，哪些是可以學習的？]]></title>
             <link>https://news.ycombinator.com/item?id=31146659</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30987770</guid>
             <pubDate>Mon, 11 Apr 2022 12:28:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Editing remote code locally: Best practices?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何最好地設計用戶賬戶、組織和產品的層次結構]]></title>
-            <link>https://news.ycombinator.com/item?id=30987764</link>
-            <guid>https://news.ycombinator.com/item?id=30987764</guid>
-            <pubDate>Mon, 11 Apr 2022 12:27:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to best design a hierarchy of user accounts, orgs and products]]></description>
         </item>
     </channel>
 </rss>
