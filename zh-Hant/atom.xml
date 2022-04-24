@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T10:14:37.051Z</updated>
+    <updated>2022-04-24T10:35:33.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡現在還能瀏覽嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31142714</id>
+        <link href="https://news.ycombinator.com/item?id=31142714"/>
+        <updated>2022-04-24T10:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the web even browsable anymore?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是全球性、低吞吐量、低延遲的消息總線服務？]]></title>
         <id>https://news.ycombinator.com/item?id=31142631</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eigenvalue</name>
             <uri>https://news.ycombinator.com/user?id=eigenvalue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的外部CD/DVD驅動器嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30983581</id>
-        <link href="https://news.ycombinator.com/item?id=30983581"/>
-        <updated>2022-04-11T01:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any good external CD/DVD drives?]]></summary>
-        <author>
-            <name>sebastian_z</name>
-            <uri>https://news.ycombinator.com/user?id=sebastian_z</uri>
         </author>
     </entry>
 </feed>
