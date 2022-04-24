@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T17:06:04.123Z</updated>
+    <updated>2022-04-24T17:25:11.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何記錄你的待辦事項？ 長期項目？]]></title>
+        <id>https://news.ycombinator.com/item?id=31146073</id>
+        <link href="https://news.ycombinator.com/item?id=31146073"/>
+        <updated>2022-04-24T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you keep track of your to-dos? longer-term projects?]]></summary>
+        <author>
+            <name>uger</name>
+            <uri>https://news.ycombinator.com/user?id=uger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具有合理的私人瀏覽模式的安卓瀏覽器？]]></title>
+        <id>https://news.ycombinator.com/item?id=31146012</id>
+        <link href="https://news.ycombinator.com/item?id=31146012"/>
+        <updated>2022-04-24T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Android browser with reasonable private browsing mode?]]></summary>
+        <author>
+            <name>hedora</name>
+            <uri>https://news.ycombinator.com/user?id=hedora</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iCloud私人中繼的情況如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31145807</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kamroot</name>
             <uri>https://news.ycombinator.com/user?id=kamroot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在沒有確切名稱的情況下找到一個很久以前被上調的帖子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30986641</id>
-        <link href="https://news.ycombinator.com/item?id=30986641"/>
-        <updated>2022-04-11T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find a post upvoted long time ago without the exact name]]></summary>
-        <author>
-            <name>ripitrust</name>
-            <uri>https://news.ycombinator.com/user?id=ripitrust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找以前提交的關於API安全協議的文章]]></title>
-        <id>https://news.ycombinator.com/item?id=30986501</id>
-        <link href="https://news.ycombinator.com/item?id=30986501"/>
-        <updated>2022-04-11T09:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a previously submitted article on API security protocols]]></summary>
-        <author>
-            <name>kedyr</name>
-            <uri>https://news.ycombinator.com/user?id=kedyr</uri>
         </author>
     </entry>
 </feed>
