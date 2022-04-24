@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T20:14:16.903Z</updated>
+    <updated>2022-04-24T20:44:58.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習CS，對金融感興趣，我應該學什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31148034</id>
+        <link href="https://news.ycombinator.com/item?id=31148034"/>
+        <updated>2022-04-24T20:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Studying CS, interested in Finance, what should I study?]]></summary>
+        <author>
+            <name>washedDeveloper</name>
+            <uri>https://news.ycombinator.com/user?id=washedDeveloper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平安三號每2年就會出現故障]]></title>
+        <id>https://news.ycombinator.com/item?id=31148022</id>
+        <link href="https://news.ycombinator.com/item?id=31148022"/>
+        <updated>2022-04-24T20:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Pax 3 fails every 2 years]]></summary>
+        <author>
+            <name>stevenalowe</name>
+            <uri>https://news.ycombinator.com/user?id=stevenalowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[史蒂夫-喬布斯專注於設計，是因為他缺乏技術知識嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31147670</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>codingclaws</name>
             <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你還在監控你的SSL證書的有效性嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30987825</id>
-        <link href="https://news.ycombinator.com/item?id=30987825"/>
-        <updated>2022-04-11T12:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you still monitor your SSL certificate validity?]]></summary>
-        <author>
-            <name>rozenmd</name>
-            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在本地編輯遠程代碼。最佳實踐？]]></title>
-        <id>https://news.ycombinator.com/item?id=30987770</id>
-        <link href="https://news.ycombinator.com/item?id=30987770"/>
-        <updated>2022-04-11T12:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Editing remote code locally: Best practices?]]></summary>
-        <author>
-            <name>E_Evan</name>
-            <uri>https://news.ycombinator.com/user?id=E_Evan</uri>
         </author>
     </entry>
 </feed>
