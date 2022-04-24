@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T22:12:48.297Z</updated>
+    <updated>2022-04-24T22:52:38.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[形象的Linux发行]]></title>
+        <id>https://news.ycombinator.com/item?id=31148972</id>
+        <link href="https://news.ycombinator.com/item?id=31148972"/>
+        <updated>2022-04-24T22:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Appimage Linux Distribution]]></summary>
+        <author>
+            <name>BarbaPeru</name>
+            <uri>https://news.ycombinator.com/user?id=BarbaPeru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用自由开发者来制作应用程序？]]></title>
         <id>https://news.ycombinator.com/item?id=31148768</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway24124</name>
             <uri>https://news.ycombinator.com/user?id=throwaway24124</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出售二手书的电子商务应用程序是否有市场？]]></title>
-        <id>https://news.ycombinator.com/item?id=30988221</id>
-        <link href="https://news.ycombinator.com/item?id=30988221"/>
-        <updated>2022-04-11T13:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a market available for e-commerce app for selling used books?]]></summary>
-        <author>
-            <name>vikram0230</name>
-            <uri>https://news.ycombinator.com/user?id=vikram0230</uri>
         </author>
     </entry>
 </feed>
