@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Apr 2022 23:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 00:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何記錄我的POV？]]></title>
+            <link>https://news.ycombinator.com/item?id=31140124</link>
+            <guid>https://news.ycombinator.com/item?id=31140124</guid>
+            <pubDate>Sun, 24 Apr 2022 00:34:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Record My POV?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何克服申請工作時對未知的恐懼]]></title>
             <link>https://news.ycombinator.com/item?id=31139586</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30981032</guid>
             <pubDate>Sun, 10 Apr 2022 19:52:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Any search engineers at Google see responses to the bad press?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python編程書籍]]></title>
-            <link>https://news.ycombinator.com/item?id=30980813</link>
-            <guid>https://news.ycombinator.com/item?id=30980813</guid>
-            <pubDate>Sun, 10 Apr 2022 19:30:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Python Programming Books]]></description>
         </item>
     </channel>
 </rss>
