@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T21:31:32.677Z</updated>
+    <updated>2022-04-24T22:12:48.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用自由开发者来制作应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=31148768</id>
+        <link href="https://news.ycombinator.com/item?id=31148768"/>
+        <updated>2022-04-24T22:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use freelance developers to make apps?]]></summary>
+        <author>
+            <name>productceo</name>
+            <uri>https://news.ycombinator.com/user?id=productceo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学历高就能得到更有趣的工作吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31148388</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vikram0230</name>
             <uri>https://news.ycombinator.com/user?id=vikram0230</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有一个可靠的来源可以找到免费托管的开源软件？]]></title>
-        <id>https://news.ycombinator.com/item?id=30988203</id>
-        <link href="https://news.ycombinator.com/item?id=30988203"/>
-        <updated>2022-04-11T13:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a reliable source to find freely hosted open-source software?]]></summary>
-        <author>
-            <name>julkali</name>
-            <uri>https://news.ycombinator.com/user?id=julkali</uri>
         </author>
     </entry>
 </feed>
