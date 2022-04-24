@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 03:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你用什么做RSS阅读器？]]></title>
+            <link>https://news.ycombinator.com/item?id=31141160</link>
+            <guid>https://news.ycombinator.com/item?id=31141160</guid>
+            <pubDate>Sun, 24 Apr 2022 03:54:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are you using for a RSS Reader?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[任何网络黑客都可以将Twitter视频复制到PC存储中？]]></title>
+            <link>https://news.ycombinator.com/item?id=31141134</link>
+            <guid>https://news.ycombinator.com/item?id=31141134</guid>
+            <pubDate>Sun, 24 Apr 2022 03:47:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any web hacker can copy Twitter video into PC storage?]]></description>
+        </item>
         <item>
             <title><![CDATA[谁是你公司的FAANG爸爸？]]></title>
             <link>https://news.ycombinator.com/item?id=31140842</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30982655</guid>
             <pubDate>Sun, 10 Apr 2022 23:05:53 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you think cookie prompts on websites are a bad thing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何关闭我的用户喜欢的项目？]]></title>
-            <link>https://news.ycombinator.com/item?id=30982320</link>
-            <guid>https://news.ycombinator.com/item?id=30982320</guid>
-            <pubDate>Sun, 10 Apr 2022 22:22:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do I shutdown a project my users love?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia正在制作一个开源的Linux驱动程序吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30982158</link>
-            <guid>https://news.ycombinator.com/item?id=30982158</guid>
-            <pubDate>Sun, 10 Apr 2022 22:01:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Nvidia making an open-source Linux driver?]]></description>
         </item>
     </channel>
 </rss>
