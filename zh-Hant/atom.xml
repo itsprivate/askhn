@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-24T10:53:29.101Z</updated>
+    <updated>2022-04-24T11:37:14.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼NordVPN要改變我的路由器設置？]]></title>
+        <id>https://news.ycombinator.com/item?id=31143053</id>
+        <link href="https://news.ycombinator.com/item?id=31143053"/>
+        <updated>2022-04-24T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is NordVPN changing my router settings?]]></summary>
+        <author>
+            <name>kuba-orlik</name>
+            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox是否暗示我在儲存性剝削的內容？]]></title>
         <id>https://news.ycombinator.com/item?id=31142811</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>b20000</name>
             <uri>https://news.ycombinator.com/user?id=b20000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail屏蔽了我的郵件，該怎麼辦？]]></title>
-        <id>https://news.ycombinator.com/item?id=30983779</id>
-        <link href="https://news.ycombinator.com/item?id=30983779"/>
-        <updated>2022-04-11T02:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What to do about Gmail blocking my email?]]></summary>
-        <author>
-            <name>CyberRabbi</name>
-            <uri>https://news.ycombinator.com/user?id=CyberRabbi</uri>
         </author>
     </entry>
 </feed>
