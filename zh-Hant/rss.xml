@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 24 Apr 2022 17:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 17:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你用什麼來做四軸數控和激光？]]></title>
+            <link>https://news.ycombinator.com/item?id=31146324</link>
+            <guid>https://news.ycombinator.com/item?id=31146324</guid>
+            <pubDate>Sun, 24 Apr 2022 17:44:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are you using for 4 axis CNC and laser?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何記錄你的待辦事項？ 長期項目？]]></title>
             <link>https://news.ycombinator.com/item?id=31146073</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30986893</guid>
             <pubDate>Mon, 11 Apr 2022 10:39:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Where can I see many examples of real companies' software architecture?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[值得取代谷歌套件免費版]]></title>
-            <link>https://news.ycombinator.com/item?id=30986661</link>
-            <guid>https://news.ycombinator.com/item?id=30986661</guid>
-            <pubDate>Mon, 11 Apr 2022 10:02:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: Worthwhile replacement for Google suite free edition]]></description>
         </item>
     </channel>
 </rss>
