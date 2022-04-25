@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[运行时修改软件的实际例子]]></title>
+            <link>https://news.ycombinator.com/item?id=31151452</link>
+            <guid>https://news.ycombinator.com/item?id=31151452</guid>
+            <pubDate>Mon, 25 Apr 2022 07:17:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Practical examples of runtime modified software]]></description>
+        </item>
         <item>
             <title><![CDATA[我对黑暗模式的年度诉求]]></title>
             <link>https://news.ycombinator.com/item?id=31151392</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30993166</guid>
             <pubDate>Mon, 11 Apr 2022 19:01:18 GMT</pubDate>
             <description><![CDATA[Ask HN: What are your favorite podcasts or other audio-based content?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么当别人不同意他们的观点时，人们会生气？]]></title>
-            <link>https://news.ycombinator.com/item?id=30992774</link>
-            <guid>https://news.ycombinator.com/item?id=30992774</guid>
-            <pubDate>Mon, 11 Apr 2022 18:32:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do people get angry when other people disagree with them?]]></description>
         </item>
     </channel>
 </rss>
