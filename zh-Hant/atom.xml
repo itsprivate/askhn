@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T05:44:09.063Z</updated>
+    <updated>2022-04-25T06:43:13.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什麼博客來學習所有的建築產品、市場和開發？]]></title>
+        <id>https://news.ycombinator.com/item?id=31151214</id>
+        <link href="https://news.ycombinator.com/item?id=31151214"/>
+        <updated>2022-04-25T06:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What blogs do u use to learn everything building products, mkt and dev?]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教授如何管理個人財務的資源？]]></title>
         <id>https://news.ycombinator.com/item?id=31151032</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Phileosopher</name>
             <uri>https://news.ycombinator.com/user?id=Phileosopher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最後一次休假是什麼時候？]]></title>
-        <id>https://news.ycombinator.com/item?id=30991316</id>
-        <link href="https://news.ycombinator.com/item?id=30991316"/>
-        <updated>2022-04-11T16:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When was the last time you took a vacation?]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
         </author>
     </entry>
 </feed>
