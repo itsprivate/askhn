@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 18:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 18:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[无密码？]]></title>
+            <link>https://news.ycombinator.com/item?id=31158760</link>
+            <guid>https://news.ycombinator.com/item?id=31158760</guid>
+            <pubDate>Mon, 25 Apr 2022 18:24:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Passwordless?]]></description>
+        </item>
         <item>
             <title><![CDATA[Google Worskpaces被G公司删除了:(用什么来做自我托管的电子邮件？]]></title>
             <link>https://news.ycombinator.com/item?id=31158429</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31001175</guid>
             <pubDate>Tue, 12 Apr 2022 11:32:58 GMT</pubDate>
             <description><![CDATA[Ask HN: How important is ontology engineering today?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术什么时候不再酷了？]]></title>
-            <link>https://news.ycombinator.com/item?id=31001155</link>
-            <guid>https://news.ycombinator.com/item?id=31001155</guid>
-            <pubDate>Tue, 12 Apr 2022 11:31:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: When Did Tech Stop Being Cool?]]></description>
         </item>
     </channel>
 </rss>
