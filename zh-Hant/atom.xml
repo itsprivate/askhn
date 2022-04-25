@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T20:15:35.413Z</updated>
+    <updated>2022-04-25T20:35:10.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼不把非社會人作為受保護的階層？]]></title>
+        <id>https://news.ycombinator.com/item?id=31160156</id>
+        <link href="https://news.ycombinator.com/item?id=31160156"/>
+        <updated>2022-04-25T20:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren’t asocial people a protected class?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶泛型的Go會在Web3中超過Rust嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31159720</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jstx1</name>
             <uri>https://news.ycombinator.com/user?id=jstx1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以在工作電腦上安裝什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31003868</id>
-        <link href="https://news.ycombinator.com/item?id=31003868"/>
-        <updated>2022-04-12T15:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What can you install on a work computer?]]></summary>
-        <author>
-            <name>emacs28</name>
-            <uri>https://news.ycombinator.com/user?id=emacs28</uri>
         </author>
     </entry>
 </feed>
