@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T11:52:27.861Z</updated>
+    <updated>2022-04-25T13:01:23.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於管理研發項目的建議閱讀]]></title>
+        <id>https://news.ycombinator.com/item?id=31153774</id>
+        <link href="https://news.ycombinator.com/item?id=31153774"/>
+        <updated>2022-04-25T12:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Suggested reading about managing R&D projects]]></summary>
+        <author>
+            <name>random_moonwalk</name>
+            <uri>https://news.ycombinator.com/user?id=random_moonwalk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果會不會收購Netflix？]]></title>
         <id>https://news.ycombinator.com/item?id=31153169</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>themerone</name>
             <uri>https://news.ycombinator.com/user?id=themerone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用文字來表示節點圖？]]></title>
-        <id>https://news.ycombinator.com/item?id=30996966</id>
-        <link href="https://news.ycombinator.com/item?id=30996966"/>
-        <updated>2022-04-12T00:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ways to represent graph of nodes with text?]]></summary>
-        <author>
-            <name>ffhhj</name>
-            <uri>https://news.ycombinator.com/user?id=ffhhj</uri>
         </author>
     </entry>
 </feed>
