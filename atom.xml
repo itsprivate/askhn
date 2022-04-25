@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T14:15:01.525Z</updated>
+    <updated>2022-04-25T14:33:53.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的研究过程是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155282</id>
+        <link href="https://news.ycombinator.com/item?id=31155282"/>
+        <updated>2022-04-25T14:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's Your Research Process?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习会取代动物实验吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155268</id>
+        <link href="https://news.ycombinator.com/item?id=31155268"/>
+        <updated>2022-04-25T14:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will Machine Learning replace animal experiments?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁还在使用电子表格来管理项目？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155173</id>
+        <link href="https://news.ycombinator.com/item?id=31155173"/>
+        <updated>2022-04-25T14:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is still using Spreadsheet for project mngt?]]></summary>
+        <author>
+            <name>mrsaidoutbitch</name>
+            <uri>https://news.ycombinator.com/user?id=mrsaidoutbitch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌的互联网是否更快？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155155</id>
+        <link href="https://news.ycombinator.com/item?id=31155155"/>
+        <updated>2022-04-25T14:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the Internet Faster for Google?]]></summary>
+        <author>
+            <name>flerovium</name>
+            <uri>https://news.ycombinator.com/user?id=flerovium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由职业者和顾问你的费率、地点和专长是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31154782</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>brycelarkin</name>
             <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会因为有一份好工作而感到难过吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998586</id>
-        <link href="https://news.ycombinator.com/item?id=30998586"/>
-        <updated>2022-04-12T04:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you feel bad for having a good job?]]></summary>
-        <author>
-            <name>paulwooden</name>
-            <uri>https://news.ycombinator.com/user?id=paulwooden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以看到真实公司的用户角色的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998508</id>
-        <link href="https://news.ycombinator.com/item?id=30998508"/>
-        <updated>2022-04-12T04:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I see examples of real companies User Personas?]]></summary>
-        <author>
-            <name>phuturedoom</name>
-            <uri>https://news.ycombinator.com/user?id=phuturedoom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastmail用户，你是否注意到垃圾邮件检查的质量比Gmail差？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998400</id>
-        <link href="https://news.ycombinator.com/item?id=30998400"/>
-        <updated>2022-04-12T03:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fastmail users, do you notice quality of spam check worse than Gmail?]]></summary>
-        <author>
-            <name>tuananh</name>
-            <uri>https://news.ycombinator.com/user?id=tuananh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对开放源代码的windows应用程序进行代码签名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998363</id>
-        <link href="https://news.ycombinator.com/item?id=30998363"/>
-        <updated>2022-04-12T03:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Code signing open source windows applications?]]></summary>
-        <author>
-            <name>Rodeoclash</name>
-            <uri>https://news.ycombinator.com/user?id=Rodeoclash</uri>
         </author>
     </entry>
 </feed>
