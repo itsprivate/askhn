@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T02:43:22.075Z</updated>
+    <updated>2022-04-25T03:40:25.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的面試官和壞的面試官之間的區別是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150397</id>
+        <link href="https://news.ycombinator.com/item?id=31150397"/>
+        <updated>2022-04-25T03:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What separates a good interviewer from a bad one?]]></summary>
+        <author>
+            <name>Sincere</name>
+            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何查看拉動請求前後的UI變化？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150336</id>
+        <link href="https://news.ycombinator.com/item?id=31150336"/>
+        <updated>2022-04-25T02:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to view UI changes before & after a pull request?]]></summary>
+        <author>
+            <name>seestraw</name>
+            <uri>https://news.ycombinator.com/user?id=seestraw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找非營利組織並與之合作的經驗？]]></title>
         <id>https://news.ycombinator.com/item?id=31150198</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>potta_coffee</name>
             <uri>https://news.ycombinator.com/user?id=potta_coffee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找回被限制的Facebook業務經理？]]></title>
-        <id>https://news.ycombinator.com/item?id=30990451</id>
-        <link href="https://news.ycombinator.com/item?id=30990451"/>
-        <updated>2022-04-11T15:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ho to get back restricted Facebook Business Manager?]]></summary>
-        <author>
-            <name>Maxmanseau</name>
-            <uri>https://news.ycombinator.com/user?id=Maxmanseau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該使用我自己的設備（筆記本電腦）還是公司提供的設備來工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30990421</id>
-        <link href="https://news.ycombinator.com/item?id=30990421"/>
-        <updated>2022-04-11T15:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I use my own device (laptop) or company-supplied one for work?]]></summary>
-        <author>
-            <name>nelsonic</name>
-            <uri>https://news.ycombinator.com/user?id=nelsonic</uri>
         </author>
     </entry>
 </feed>
