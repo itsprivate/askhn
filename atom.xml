@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T23:13:40.119Z</updated>
+    <updated>2022-04-25T23:35:46.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您推荐哪种由人类策划的音乐流媒体服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=31162205</id>
+        <link href="https://news.ycombinator.com/item?id=31162205"/>
+        <updated>2022-04-25T23:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What human-curated music streaming service do you recommend?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zig、Hara和V之间的主要区别是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31162042</id>
+        <link href="https://news.ycombinator.com/item?id=31162042"/>
+        <updated>2022-04-25T23:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the main difference between Zig, Hara and V?]]></summary>
+        <author>
+            <name>iio7</name>
+            <uri>https://news.ycombinator.com/user?id=iio7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么没有一个开源的谷歌，可以挑选你的算法？]]></title>
         <id>https://news.ycombinator.com/item?id=31161877</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有与国防有关的初创企业？]]></title>
-        <id>https://news.ycombinator.com/item?id=31005955</id>
-        <link href="https://news.ycombinator.com/item?id=31005955"/>
-        <updated>2022-04-12T17:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Defense Related Startups?]]></summary>
-        <author>
-            <name>rhacker</name>
-            <uri>https://news.ycombinator.com/user?id=rhacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一个不使用该语言的国家获得双语？]]></title>
-        <id>https://news.ycombinator.com/item?id=31005777</id>
-        <link href="https://news.ycombinator.com/item?id=31005777"/>
-        <updated>2022-04-12T17:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get bilingual in a country where the language is not used?]]></summary>
-        <author>
-            <name>corderop</name>
-            <uri>https://news.ycombinator.com/user?id=corderop</uri>
         </author>
     </entry>
 </feed>
