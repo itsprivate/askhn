@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T18:46:21.171Z</updated>
+    <updated>2022-04-25T19:02:58.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，你會用什麼來做Python REST API？]]></title>
+        <id>https://news.ycombinator.com/item?id=31159033</id>
+        <link href="https://news.ycombinator.com/item?id=31159033"/>
+        <updated>2022-04-25T18:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would you use for a Python REST API in 2022?]]></summary>
+        <author>
+            <name>oblio</name>
+            <uri>https://news.ycombinator.com/user?id=oblio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該為後端學習哪種語言？]]></title>
+        <id>https://news.ycombinator.com/item?id=31158970</id>
+        <link href="https://news.ycombinator.com/item?id=31158970"/>
+        <updated>2022-04-25T18:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which language should I learn for Back end?]]></summary>
+        <author>
+            <name>b3tameche</name>
+            <uri>https://news.ycombinator.com/user?id=b3tameche</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無密碼？]]></title>
         <id>https://news.ycombinator.com/item?id=31158760</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們在哪裡可以找到不性感的工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=31001537</id>
-        <link href="https://news.ycombinator.com/item?id=31001537"/>
-        <updated>2022-04-12T12:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can we find the unsexy jobs?]]></summary>
-        <author>
-            <name>throw1138</name>
-            <uri>https://news.ycombinator.com/user?id=throw1138</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本體工程在今天有多重要？]]></title>
-        <id>https://news.ycombinator.com/item?id=31001175</id>
-        <link href="https://news.ycombinator.com/item?id=31001175"/>
-        <updated>2022-04-12T11:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How important is ontology engineering today?]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>
