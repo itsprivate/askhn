@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T20:53:18.145Z</updated>
+    <updated>2022-04-25T21:13:52.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[留在大型科技公司以獲得管理經驗，還是轉到創業公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=31160565</id>
+        <link href="https://news.ycombinator.com/item?id=31160565"/>
+        <updated>2022-04-25T21:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Stay on big tech for management experience, or move to startup?]]></summary>
+        <author>
+            <name>jangletown</name>
+            <uri>https://news.ycombinator.com/user?id=jangletown</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有可行的方法來替代Twitter？]]></title>
         <id>https://news.ycombinator.com/item?id=31160382</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>srirangr</name>
             <uri>https://news.ycombinator.com/user?id=srirangr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSN被破解，我現在該怎麼辦？]]></title>
-        <id>https://news.ycombinator.com/item?id=31004380</id>
-        <link href="https://news.ycombinator.com/item?id=31004380"/>
-        <updated>2022-04-12T15:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: SSN breached, what should I do now?]]></summary>
-        <author>
-            <name>whyage</name>
-            <uri>https://news.ycombinator.com/user?id=whyage</uri>
         </author>
     </entry>
 </feed>
