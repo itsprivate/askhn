@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T19:02:58.668Z</updated>
+    <updated>2022-04-25T19:15:09.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为远程工作者提供的农村租房]]></title>
+        <id>https://news.ycombinator.com/item?id=31159302</id>
+        <link href="https://news.ycombinator.com/item?id=31159302"/>
+        <updated>2022-04-25T19:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Rural Rentals for Remote Workers]]></summary>
+        <author>
+            <name>voakbasda</name>
+            <uri>https://news.ycombinator.com/user?id=voakbasda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，你会用什么来做Python REST API？]]></title>
         <id>https://news.ycombinator.com/item?id=31159033</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>k_sze</name>
             <uri>https://news.ycombinator.com/user?id=k_sze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何对冲通货膨胀？]]></title>
-        <id>https://news.ycombinator.com/item?id=31002858</id>
-        <link href="https://news.ycombinator.com/item?id=31002858"/>
-        <updated>2022-04-12T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you hedge against inflation?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
