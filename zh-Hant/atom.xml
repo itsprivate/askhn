@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T15:17:10.668Z</updated>
+    <updated>2022-04-25T15:41:22.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解決娛樂業初創公司的內容可發現性問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=31156239</id>
+        <link href="https://news.ycombinator.com/item?id=31156239"/>
+        <updated>2022-04-25T15:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Solving content discoverability for entertainment startup?]]></summary>
+        <author>
+            <name>_hl_</name>
+            <uri>https://news.ycombinator.com/user?id=_hl_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is '-- \n' still relevant as email signature delimeter?]]></title>
+        <id>https://news.ycombinator.com/item?id=31155960</id>
+        <link href="https://news.ycombinator.com/item?id=31155960"/>
+        <updated>2022-04-25T15:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Is '-- \n' still relevant as email signature delimeter?]]></summary>
+        <author>
+            <name>geekifier</name>
+            <uri>https://news.ycombinator.com/user?id=geekifier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡應用和移動應用以及後端=分佈式系統？]]></title>
         <id>https://news.ycombinator.com/item?id=31155805</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>georgia_peach</name>
             <uri>https://news.ycombinator.com/user?id=georgia_peach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何評價你的工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30999084</id>
-        <link href="https://news.ycombinator.com/item?id=30999084"/>
-        <updated>2022-04-12T05:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you value your work?]]></summary>
-        <author>
-            <name>manuelmoreale</name>
-            <uri>https://news.ycombinator.com/user?id=manuelmoreale</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將國家分解成更小的國家？]]></title>
-        <id>https://news.ycombinator.com/item?id=30999040</id>
-        <link href="https://news.ycombinator.com/item?id=30999040"/>
-        <updated>2022-04-12T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Breaking Countries into Smaller Ones?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
