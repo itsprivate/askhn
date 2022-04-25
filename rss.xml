@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的iOS/Android/无服务器上线清单是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31152312</link>
+            <guid>https://news.ycombinator.com/item?id=31152312</guid>
+            <pubDate>Mon, 25 Apr 2022 09:43:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your iOS/Android/serverless go-live checklist?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么 Node.js 比 PHP 等更容易受到供应链的攻击？]]></title>
             <link>https://news.ycombinator.com/item?id=31152148</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30995976</guid>
             <pubDate>Mon, 11 Apr 2022 22:33:36 GMT</pubDate>
             <description><![CDATA[Ask HN: What's a good list of companies that aren't big on LeetCode interviews?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是好的更新日志？]]></title>
-            <link>https://news.ycombinator.com/item?id=30995647</link>
-            <guid>https://news.ycombinator.com/item?id=30995647</guid>
-            <pubDate>Mon, 11 Apr 2022 22:01:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Makes a Good Changelog?]]></description>
         </item>
     </channel>
 </rss>
