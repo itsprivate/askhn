@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T08:16:16.082Z</updated>
+    <updated>2022-04-25T08:41:06.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要帮助为我们的产品挑选一个名字]]></title>
+        <id>https://news.ycombinator.com/item?id=31151777</id>
+        <link href="https://news.ycombinator.com/item?id=31151777"/>
+        <updated>2022-04-25T08:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I need help picking a name for our product]]></summary>
+        <author>
+            <name>farnoud</name>
+            <uri>https://news.ycombinator.com/user?id=farnoud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复古计算是实用主义的电力用户的桌面的未来吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31151735</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tusslewake</name>
             <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有替代HN的视频游戏开发？]]></title>
-        <id>https://news.ycombinator.com/item?id=30993317</id>
-        <link href="https://news.ycombinator.com/item?id=30993317"/>
-        <updated>2022-04-11T19:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a video game dev alternative to HN?]]></summary>
-        <author>
-            <name>eezurr</name>
-            <uri>https://news.ycombinator.com/user?id=eezurr</uri>
         </author>
     </entry>
 </feed>
