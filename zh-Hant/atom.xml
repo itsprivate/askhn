@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T14:33:53.814Z</updated>
+    <updated>2022-04-25T15:17:10.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡應用和移動應用以及後端=分佈式系統？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155805</id>
+        <link href="https://news.ycombinator.com/item?id=31155805"/>
+        <updated>2022-04-25T14:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Web apps and mobile apps and back end = distributed system?]]></summary>
+        <author>
+            <name>ElFitz</name>
+            <uri>https://news.ycombinator.com/user?id=ElFitz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在住房危機期間，你是如何管理的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31155786</id>
+        <link href="https://news.ycombinator.com/item?id=31155786"/>
+        <updated>2022-04-25T14:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you managing during the housing crisis?]]></summary>
+        <author>
+            <name>tediousdemise</name>
+            <uri>https://news.ycombinator.com/user?id=tediousdemise</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的研究過程是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31155282</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>desertraven</name>
             <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何啟動一個創業公司？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998663</id>
-        <link href="https://news.ycombinator.com/item?id=30998663"/>
-        <updated>2022-04-12T04:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Do I Start a Startup?]]></summary>
-        <author>
-            <name>deathandgravity</name>
-            <uri>https://news.ycombinator.com/user?id=deathandgravity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快手是如何獲得5.8億美元的估值的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30998623</id>
-        <link href="https://news.ycombinator.com/item?id=30998623"/>
-        <updated>2022-04-12T04:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did Fast get a $580mm valuation?]]></summary>
-        <author>
-            <name>brycelarkin</name>
-            <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
         </author>
     </entry>
 </feed>
