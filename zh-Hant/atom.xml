@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T20:35:10.055Z</updated>
+    <updated>2022-04-25T20:46:36.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特員工對埃隆可能的接管有什麼看法？]]></title>
+        <id>https://news.ycombinator.com/item?id=31160216</id>
+        <link href="https://news.ycombinator.com/item?id=31160216"/>
+        <updated>2022-04-25T20:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do Twitter employees feel about the potential Elon take over?]]></summary>
+        <author>
+            <name>throw03172019</name>
+            <uri>https://news.ycombinator.com/user?id=throw03172019</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不把非社會人作為受保護的階層？]]></title>
         <id>https://news.ycombinator.com/item?id=31160156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Venkatesh10</name>
             <uri>https://news.ycombinator.com/user?id=Venkatesh10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這種心理技巧叫什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31003912</id>
-        <link href="https://news.ycombinator.com/item?id=31003912"/>
-        <updated>2022-04-12T15:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is this mental technique called?]]></summary>
-        <author>
-            <name>jstx1</name>
-            <uri>https://news.ycombinator.com/user?id=jstx1</uri>
         </author>
     </entry>
 </feed>
