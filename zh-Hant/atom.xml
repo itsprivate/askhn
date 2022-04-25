@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T13:31:50.594Z</updated>
+    <updated>2022-04-25T14:15:01.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自由職業者和顧問你的費率、地點和專長是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31154782</id>
+        <link href="https://news.ycombinator.com/item?id=31154782"/>
+        <updated>2022-04-25T13:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Freelancers and consultants what are your rates, location and expertise?]]></summary>
+        <author>
+            <name>chirau</name>
+            <uri>https://news.ycombinator.com/user?id=chirau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這裡有誰在處理兩份或多份遠程工作？它是如何運作的？]]></title>
         <id>https://news.ycombinator.com/item?id=31154119</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Rodeoclash</name>
             <uri>https://news.ycombinator.com/user?id=Rodeoclash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦一些學習計算機網絡的好資源]]></title>
-        <id>https://news.ycombinator.com/item?id=30997392</id>
-        <link href="https://news.ycombinator.com/item?id=30997392"/>
-        <updated>2022-04-12T01:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Suggest some good sources to learn computer networking]]></summary>
-        <author>
-            <name>madhavan_pari</name>
-            <uri>https://news.ycombinator.com/user?id=madhavan_pari</uri>
         </author>
     </entry>
 </feed>
