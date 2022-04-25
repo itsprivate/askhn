@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T17:40:43.419Z</updated>
+    <updated>2022-04-25T17:56:13.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Twitter，未归属的补助金会如何处理？]]></title>
+        <id>https://news.ycombinator.com/item?id=31158336</id>
+        <link href="https://news.ycombinator.com/item?id=31158336"/>
+        <updated>2022-04-25T17:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens to unvested grants at Twitter?]]></summary>
+        <author>
+            <name>backslash_16</name>
+            <uri>https://news.ycombinator.com/user?id=backslash_16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于云的/基于浏览器的台式电脑推荐？]]></title>
+        <id>https://news.ycombinator.com/item?id=31158321</id>
+        <link href="https://news.ycombinator.com/item?id=31158321"/>
+        <updated>2022-04-25T17:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cloud-based / browser-based desktop PC recommendations?]]></summary>
+        <author>
+            <name>favourable</name>
+            <uri>https://news.ycombinator.com/user?id=favourable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter的毒丸是怎么回事？]]></title>
         <id>https://news.ycombinator.com/item?id=31157969</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nanna</name>
             <uri>https://news.ycombinator.com/user?id=nanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国治疗多动症的情况如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=31001108</id>
-        <link href="https://news.ycombinator.com/item?id=31001108"/>
-        <updated>2022-04-12T11:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How's the situation with treating ADHD in UK]]></summary>
-        <author>
-            <name>shetill</name>
-            <uri>https://news.ycombinator.com/user?id=shetill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Pathrise的经验？]]></title>
-        <id>https://news.ycombinator.com/item?id=31000560</id>
-        <link href="https://news.ycombinator.com/item?id=31000560"/>
-        <updated>2022-04-12T09:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Experiences with Pathrise?]]></summary>
-        <author>
-            <name>MrWiffles</name>
-            <uri>https://news.ycombinator.com/user?id=MrWiffles</uri>
         </author>
     </entry>
 </feed>
