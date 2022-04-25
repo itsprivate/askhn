@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T08:57:26.420Z</updated>
+    <updated>2022-04-25T09:13:19.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些語言有真正的本地合作多任務？]]></title>
+        <id>https://news.ycombinator.com/item?id=31152087</id>
+        <link href="https://news.ycombinator.com/item?id=31152087"/>
+        <updated>2022-04-25T09:07:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What languages have true native cooperative multitasking?]]></summary>
+        <author>
+            <name>nrdvana</name>
+            <uri>https://news.ycombinator.com/user?id=nrdvana</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何實現電子商務數據的可視化]]></title>
         <id>https://news.ycombinator.com/item?id=31151930</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jyu</name>
             <uri>https://news.ycombinator.com/user?id=jyu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你不做你的工作，你想以什麼為生？]]></title>
-        <id>https://news.ycombinator.com/item?id=30994127</id>
-        <link href="https://news.ycombinator.com/item?id=30994127"/>
-        <updated>2022-04-11T20:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would you like to do for a living if you weren't doing what you do?]]></summary>
-        <author>
-            <name>adg001</name>
-            <uri>https://news.ycombinator.com/user?id=adg001</uri>
         </author>
     </entry>
 </feed>
