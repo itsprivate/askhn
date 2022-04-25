@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 22:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tauri或Node-GUI？]]></title>
+            <link>https://news.ycombinator.com/item?id=31161719</link>
+            <guid>https://news.ycombinator.com/item?id=31161719</guid>
+            <pubDate>Mon, 25 Apr 2022 22:38:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Tauri or Node-GUI?]]></description>
+        </item>
         <item>
             <title><![CDATA[推特现在是否要求注册才能查看推文？]]></title>
             <link>https://news.ycombinator.com/item?id=31161605</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31005338</guid>
             <pubDate>Tue, 12 Apr 2022 17:01:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Why has Facebook stopped improving?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果应用剪辑已死吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=31004940</link>
-            <guid>https://news.ycombinator.com/item?id=31004940</guid>
-            <pubDate>Tue, 12 Apr 2022 16:35:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are Apple App Clips Dead?]]></description>
         </item>
     </channel>
 </rss>
