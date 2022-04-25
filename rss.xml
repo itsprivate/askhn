@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 10:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 11:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么reddit.com不轮流担任版主？]]></title>
+            <link>https://news.ycombinator.com/item?id=31152817</link>
+            <guid>https://news.ycombinator.com/item?id=31152817</guid>
+            <pubDate>Mon, 25 Apr 2022 10:54:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why isn't reddit.com rotating moderators?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否使用过SQLite作为主数据库？]]></title>
             <link>https://news.ycombinator.com/item?id=31152490</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30996318</guid>
             <pubDate>Mon, 11 Apr 2022 23:06:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Set up different email address for 'meaningful' personal correspondence?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我想开一家公司，但我目前就业过剩]]></title>
-            <link>https://news.ycombinator.com/item?id=30996097</link>
-            <guid>https://news.ycombinator.com/item?id=30996097</guid>
-            <pubDate>Mon, 11 Apr 2022 22:45:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: I want to start a company, but I am currently overemployed]]></description>
         </item>
     </channel>
 </rss>
