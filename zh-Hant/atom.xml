@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T19:15:09.939Z</updated>
+    <updated>2022-04-25T20:15:35.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶泛型的Go會在Web3中超過Rust嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31159720</id>
+        <link href="https://news.ycombinator.com/item?id=31159720"/>
+        <updated>2022-04-25T19:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will Go with generics overtake Rust in Web3?]]></summary>
+        <author>
+            <name>neuralquantum</name>
+            <uri>https://news.ycombinator.com/user?id=neuralquantum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為遠程工作者提供的農村租房]]></title>
         <id>https://news.ycombinator.com/item?id=31159302</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>emacs28</name>
             <uri>https://news.ycombinator.com/user?id=emacs28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擅長在大型團隊/機構中更新依賴關係的團隊成員？]]></title>
-        <id>https://news.ycombinator.com/item?id=31003753</id>
-        <link href="https://news.ycombinator.com/item?id=31003753"/>
-        <updated>2022-04-12T15:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Team member who specializes at updating dependencies in large team/org?]]></summary>
-        <author>
-            <name>k_sze</name>
-            <uri>https://news.ycombinator.com/user?id=k_sze</uri>
         </author>
     </entry>
 </feed>

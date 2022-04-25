@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶泛型的Go會在Web3中超過Rust嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=31159720</link>
+            <guid>https://news.ycombinator.com/item?id=31159720</guid>
+            <pubDate>Mon, 25 Apr 2022 19:55:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will Go with generics overtake Rust in Web3?]]></description>
+        </item>
         <item>
             <title><![CDATA[為遠程工作者提供的農村租房]]></title>
             <link>https://news.ycombinator.com/item?id=31159302</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31003868</guid>
             <pubDate>Tue, 12 Apr 2022 15:20:43 GMT</pubDate>
             <description><![CDATA[Ask HN: What can you install on a work computer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[擅長在大型團隊/機構中更新依賴關係的團隊成員？]]></title>
-            <link>https://news.ycombinator.com/item?id=31003753</link>
-            <guid>https://news.ycombinator.com/item?id=31003753</guid>
-            <pubDate>Tue, 12 Apr 2022 15:12:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Team member who specializes at updating dependencies in large team/org?]]></description>
         </item>
     </channel>
 </rss>
