@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T00:39:58.720Z</updated>
+    <updated>2022-04-25T02:43:22.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找非營利組織並與之合作的經驗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150198</id>
+        <link href="https://news.ycombinator.com/item?id=31150198"/>
+        <updated>2022-04-25T02:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experiences Finding and Working with Nonprofits?]]></summary>
+        <author>
+            <name>andai</name>
+            <uri>https://news.ycombinator.com/user?id=andai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有沒有人利用收入分成投資進行種子輪融資？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150110</id>
+        <link href="https://news.ycombinator.com/item?id=31150110"/>
+        <updated>2022-04-25T02:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone leveraged revenue share investing for their seed round?]]></summary>
+        <author>
+            <name>unsurecofounder</name>
+            <uri>https://news.ycombinator.com/user?id=unsurecofounder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什麼適合初學者的、低成本的方法來構建一個Linux平板電腦嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150005</id>
+        <link href="https://news.ycombinator.com/item?id=31150005"/>
+        <updated>2022-04-25T01:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any beginner-friendly, low-cost approach to building a Linux tablet?]]></summary>
+        <author>
+            <name>antran22</name>
+            <uri>https://news.ycombinator.com/user?id=antran22</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有大規模的程序來合成一個細胞？]]></title>
+        <id>https://news.ycombinator.com/item?id=31149805</id>
+        <link href="https://news.ycombinator.com/item?id=31149805"/>
+        <updated>2022-04-25T01:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why there are no large scale programs to synthesize a cell?]]></summary>
+        <author>
+            <name>callmekit</name>
+            <uri>https://news.ycombinator.com/user?id=callmekit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是最穩定的數字存儲形式？]]></title>
         <id>https://news.ycombinator.com/item?id=31149427</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>nelsonic</name>
             <uri>https://news.ycombinator.com/user?id=nelsonic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理你的音樂庫？]]></title>
-        <id>https://news.ycombinator.com/item?id=30989377</id>
-        <link href="https://news.ycombinator.com/item?id=30989377"/>
-        <updated>2022-04-11T14:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your music library?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼網頁版的Google Play看起來像是停留在2013年？]]></title>
-        <id>https://news.ycombinator.com/item?id=30989337</id>
-        <link href="https://news.ycombinator.com/item?id=30989337"/>
-        <updated>2022-04-11T14:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does web version of Google Play look like it’s stuck in 2013?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於注重隱私的瀏覽器來說，Safari是一個不錯的選擇嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30988673</id>
-        <link href="https://news.ycombinator.com/item?id=30988673"/>
-        <updated>2022-04-11T13:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Safari a good option for a privacy focused browser?]]></summary>
-        <author>
-            <name>anotherQuarter</name>
-            <uri>https://news.ycombinator.com/user?id=anotherQuarter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼HTML在網絡之外沒有更多的相關性？]]></title>
-        <id>https://news.ycombinator.com/item?id=30988548</id>
-        <link href="https://news.ycombinator.com/item?id=30988548"/>
-        <updated>2022-04-11T13:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't HTML more relevant outside of the web?]]></summary>
-        <author>
-            <name>WHA8m</name>
-            <uri>https://news.ycombinator.com/user?id=WHA8m</uri>
         </author>
     </entry>
 </feed>
