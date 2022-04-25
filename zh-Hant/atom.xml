@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-25T13:01:23.405Z</updated>
+    <updated>2022-04-25T13:31:50.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這裡有誰在處理兩份或多份遠程工作？它是如何運作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31154119</id>
+        <link href="https://news.ycombinator.com/item?id=31154119"/>
+        <updated>2022-04-25T13:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who here is juggling two or more remote jobs? How is it working out?]]></summary>
+        <author>
+            <name>beeks10</name>
+            <uri>https://news.ycombinator.com/user?id=beeks10</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何進行屏幕共享/遠程管理的工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31153802</id>
+        <link href="https://news.ycombinator.com/item?id=31153802"/>
+        <updated>2022-04-25T12:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you doing screensharing/remote admin work?]]></summary>
+        <author>
+            <name>idealmedtech</name>
+            <uri>https://news.ycombinator.com/user?id=idealmedtech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於管理研發項目的建議閱讀]]></title>
         <id>https://news.ycombinator.com/item?id=31153774</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>madhavan_pari</name>
             <uri>https://news.ycombinator.com/user?id=madhavan_pari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何備份你的Notion數據？]]></title>
-        <id>https://news.ycombinator.com/item?id=30997301</id>
-        <link href="https://news.ycombinator.com/item?id=30997301"/>
-        <updated>2022-04-12T01:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you back up your Notion data?]]></summary>
-        <author>
-            <name>yawnxyz</name>
-            <uri>https://news.ycombinator.com/user?id=yawnxyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATX和ITX標準在哪裡發佈？]]></title>
-        <id>https://news.ycombinator.com/item?id=30997073</id>
-        <link href="https://news.ycombinator.com/item?id=30997073"/>
-        <updated>2022-04-12T00:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are ATX and ITX standards published?]]></summary>
-        <author>
-            <name>themerone</name>
-            <uri>https://news.ycombinator.com/user?id=themerone</uri>
         </author>
     </entry>
 </feed>
