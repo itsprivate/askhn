@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 22:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于时间管理的最佳书籍/课程？]]></title>
+            <link>https://news.ycombinator.com/item?id=31174038</link>
+            <guid>https://news.ycombinator.com/item?id=31174038</guid>
+            <pubDate>Tue, 26 Apr 2022 22:37:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best book/course on time management?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你必须将数字数据保存100年，你会怎么做？]]></title>
             <link>https://news.ycombinator.com/item?id=31173733</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31016123</guid>
             <pubDate>Wed, 13 Apr 2022 15:49:11 GMT</pubDate>
             <description><![CDATA[Ask HN: How to extract information from mutiple (unstructured text) documents?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪种密码更安全？]]></title>
-            <link>https://news.ycombinator.com/item?id=31015972</link>
-            <guid>https://news.ycombinator.com/item?id=31015972</guid>
-            <pubDate>Wed, 13 Apr 2022 15:38:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which password is more secure?]]></description>
         </item>
     </channel>
 </rss>
