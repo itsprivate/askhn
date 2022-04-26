@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T22:44:56.500Z</updated>
+    <updated>2022-04-26T23:13:28.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網平臺上的機器人是否意味著驗證碼實際上是無用的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31174287</id>
+        <link href="https://news.ycombinator.com/item?id=31174287"/>
+        <updated>2022-04-26T23:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do the bots on internet platforms mean captchas are effectively useless?]]></summary>
+        <author>
+            <name>solenoidalslide</name>
+            <uri>https://news.ycombinator.com/user?id=solenoidalslide</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於時間管理的最佳書籍/課程？]]></title>
         <id>https://news.ycombinator.com/item?id=31174038</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KianT</name>
             <uri>https://news.ycombinator.com/user?id=KianT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從多個（非結構化文本）文件中提取信息？]]></title>
-        <id>https://news.ycombinator.com/item?id=31016123</id>
-        <link href="https://news.ycombinator.com/item?id=31016123"/>
-        <updated>2022-04-13T15:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to extract information from mutiple (unstructured text) documents?]]></summary>
-        <author>
-            <name>gpa</name>
-            <uri>https://news.ycombinator.com/user?id=gpa</uri>
         </author>
     </entry>
 </feed>

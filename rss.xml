@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 23:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互联网平台上的机器人是否意味着验证码实际上是无用的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31174287</link>
+            <guid>https://news.ycombinator.com/item?id=31174287</guid>
+            <pubDate>Tue, 26 Apr 2022 23:07:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do the bots on internet platforms mean captchas are effectively useless?]]></description>
+        </item>
         <item>
             <title><![CDATA[关于时间管理的最佳书籍/课程？]]></title>
             <link>https://news.ycombinator.com/item?id=31174038</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31016224</guid>
             <pubDate>Wed, 13 Apr 2022 15:56:15 GMT</pubDate>
             <description><![CDATA[Ask HN: How to find users if the problem you're working on is widespread?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何从多个（非结构化文本）文件中提取信息？]]></title>
-            <link>https://news.ycombinator.com/item?id=31016123</link>
-            <guid>https://news.ycombinator.com/item?id=31016123</guid>
-            <pubDate>Wed, 13 Apr 2022 15:49:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to extract information from mutiple (unstructured text) documents?]]></description>
         </item>
     </channel>
 </rss>
