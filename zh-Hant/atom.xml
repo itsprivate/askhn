@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T21:34:45.342Z</updated>
+    <updated>2022-04-26T22:14:10.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你必須將數字數據保存100年，你會怎麼做？]]></title>
+        <id>https://news.ycombinator.com/item?id=31173733</id>
+        <link href="https://news.ycombinator.com/item?id=31173733"/>
+        <updated>2022-04-26T22:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you had to preserve digital data for 100 years how would you do it?]]></summary>
+        <author>
+            <name>unknownaccount</name>
+            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何處理與壓力有關的疾病]]></title>
         <id>https://news.ycombinator.com/item?id=31173428</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>_justinfunk</name>
             <uri>https://news.ycombinator.com/user?id=_justinfunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何掌握Java泛型？]]></title>
-        <id>https://news.ycombinator.com/item?id=31015596</id>
-        <link href="https://news.ycombinator.com/item?id=31015596"/>
-        <updated>2022-04-13T15:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Master Java Generics?]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
