@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁从Heroku转过来了？去了哪里？]]></title>
+            <link>https://news.ycombinator.com/item?id=31165046</link>
+            <guid>https://news.ycombinator.com/item?id=31165046</guid>
+            <pubDate>Tue, 26 Apr 2022 07:51:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who has moved on from Heroku? Where to?]]></description>
+        </item>
         <item>
             <title><![CDATA[有CS/数据科学背景的人开始从事生物学工作]]></title>
             <link>https://news.ycombinator.com/item?id=31164945</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31009260</guid>
             <pubDate>Tue, 12 Apr 2022 23:00:56 GMT</pubDate>
             <description><![CDATA[Ask HN: How to deal with burnout?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对于Rust在线编译器来说，什么才是最好的解决方案？]]></title>
-            <link>https://news.ycombinator.com/item?id=31008749</link>
-            <guid>https://news.ycombinator.com/item?id=31008749</guid>
-            <pubDate>Tue, 12 Apr 2022 21:59:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: What would be the best solution for a Rust online compiler?]]></description>
         </item>
     </channel>
 </rss>
