@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T19:28:44.657Z</updated>
+    <updated>2022-04-26T21:34:45.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何處理與壓力有關的疾病]]></title>
+        <id>https://news.ycombinator.com/item?id=31173428</id>
+        <link href="https://news.ycombinator.com/item?id=31173428"/>
+        <updated>2022-04-26T21:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to handle stress related diseases]]></summary>
+        <author>
+            <name>DennisMaHa</name>
+            <uri>https://news.ycombinator.com/user?id=DennisMaHa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼父母仍然鼓勵他們的孩子學鋼琴？]]></title>
         <id>https://news.ycombinator.com/item?id=31166178</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼監控攝像頭看起來不像會移動和眨眼的眼球？]]></title>
-        <id>https://news.ycombinator.com/item?id=31015029</id>
-        <link href="https://news.ycombinator.com/item?id=31015029"/>
-        <updated>2022-04-13T14:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't security cameras look like eyeballs that move and blink?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
