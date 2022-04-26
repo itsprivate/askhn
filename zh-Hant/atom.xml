@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T11:32:29.885Z</updated>
+    <updated>2022-04-26T11:55:10.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特員工的股票授予會發生什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31166225</id>
+        <link href="https://news.ycombinator.com/item?id=31166225"/>
+        <updated>2022-04-26T11:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens with stock grants for Twitter employees?]]></summary>
+        <author>
+            <name>rmedranollamas</name>
+            <uri>https://news.ycombinator.com/user?id=rmedranollamas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否被困在Flutter依賴性地獄中？你是如何處理的？]]></title>
         <id>https://news.ycombinator.com/item?id=31166120</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rococode</name>
             <uri>https://news.ycombinator.com/user?id=rococode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何設定目標？]]></title>
-        <id>https://news.ycombinator.com/item?id=31009966</id>
-        <link href="https://news.ycombinator.com/item?id=31009966"/>
-        <updated>2022-04-13T00:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you set goals?]]></summary>
-        <author>
-            <name>psikomanjak</name>
-            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
         </author>
     </entry>
 </feed>
