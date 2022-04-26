@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T02:58:36.890Z</updated>
+    <updated>2022-04-26T03:49:23.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我应该用什么策略来决定是否进入一个应用市场？]]></title>
+        <id>https://news.ycombinator.com/item?id=31163681</id>
+        <link href="https://news.ycombinator.com/item?id=31163681"/>
+        <updated>2022-04-26T03:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What strategy should I use to determine whether to enter an app market?]]></summary>
+        <author>
+            <name>archeantus</name>
+            <uri>https://news.ycombinator.com/user?id=archeantus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否将你的工作电脑直接连接到你的家庭网络？]]></title>
         <id>https://news.ycombinator.com/item?id=31163279</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aftook</name>
             <uri>https://news.ycombinator.com/user?id=aftook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天YouTube出现问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=31007621</id>
-        <link href="https://news.ycombinator.com/item?id=31007621"/>
-        <updated>2022-04-12T20:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: YouTube Problems Today?]]></summary>
-        <author>
-            <name>jstx1</name>
-            <uri>https://news.ycombinator.com/user?id=jstx1</uri>
         </author>
     </entry>
 </feed>
