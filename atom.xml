@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T17:45:43.780Z</updated>
+    <updated>2022-04-26T19:02:01.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人被三星骗了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31171597</id>
+        <link href="https://news.ycombinator.com/item?id=31171597"/>
+        <updated>2022-04-26T18:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone been scammed by Samsung?]]></summary>
+        <author>
+            <name>osmode</name>
+            <uri>https://news.ycombinator.com/user?id=osmode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你相信上帝吗？如果是，你能给他/她赋予性别吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31171564</id>
+        <link href="https://news.ycombinator.com/item?id=31171564"/>
+        <updated>2022-04-26T18:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you believe in God? If yes can you ascribe gender to him/her?]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails上的Ruby仍然相关吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31170481</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>devstein</name>
             <uri>https://news.ycombinator.com/user?id=devstein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司的自助维修计划怎么了？]]></title>
-        <id>https://news.ycombinator.com/item?id=31014998</id>
-        <link href="https://news.ycombinator.com/item?id=31014998"/>
-        <updated>2022-04-13T14:24:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happened to Apple's self service repair program?]]></summary>
-        <author>
-            <name>adtac</name>
-            <uri>https://news.ycombinator.com/user?id=adtac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年代是同质化高峰的十年吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31014508</id>
-        <link href="https://news.ycombinator.com/item?id=31014508"/>
-        <updated>2022-04-13T13:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are the 2020s the decade of peak homogenisation?]]></summary>
-        <author>
-            <name>spiffotron</name>
-            <uri>https://news.ycombinator.com/user?id=spiffotron</uri>
         </author>
     </entry>
 </feed>
