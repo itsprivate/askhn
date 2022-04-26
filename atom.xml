@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T15:59:01.911Z</updated>
+    <updated>2022-04-26T16:18:20.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[南为HDF-5数据格式]]></title>
+        <id>https://news.ycombinator.com/item?id=31169115</id>
+        <link href="https://news.ycombinator.com/item?id=31169115"/>
+        <updated>2022-04-26T15:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Nan for HDF-5 Data Format]]></summary>
+        <author>
+            <name>Eddy_Viscosity2</name>
+            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伪英语领域专用语言的解析器？]]></title>
         <id>https://news.ycombinator.com/item?id=31168819</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kiraken</name>
             <uri>https://news.ycombinator.com/user?id=kiraken</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能在工作和生活中变得更加积极主动？]]></title>
-        <id>https://news.ycombinator.com/item?id=31013297</id>
-        <link href="https://news.ycombinator.com/item?id=31013297"/>
-        <updated>2022-04-13T11:11:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I become more proactive in work and life?]]></summary>
-        <author>
-            <name>weavie</name>
-            <uri>https://news.ycombinator.com/user?id=weavie</uri>
         </author>
     </entry>
 </feed>
