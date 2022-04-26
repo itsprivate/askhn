@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rails上的Ruby仍然相关吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=31170481</link>
+            <guid>https://news.ycombinator.com/item?id=31170481</guid>
+            <pubDate>Tue, 26 Apr 2022 17:35:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Ruby on Rails still relevant?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何更新你对技术的兴趣？]]></title>
             <link>https://news.ycombinator.com/item?id=31169876</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31014508</guid>
             <pubDate>Wed, 13 Apr 2022 13:38:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Are the 2020s the decade of peak homogenisation?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对浏览器插件统计的程序化访问？]]></title>
-            <link>https://news.ycombinator.com/item?id=31014473</link>
-            <guid>https://news.ycombinator.com/item?id=31014473</guid>
-            <pubDate>Wed, 13 Apr 2022 13:35:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Programmatic access to browser plug-in stats?]]></description>
         </item>
     </channel>
 </rss>
