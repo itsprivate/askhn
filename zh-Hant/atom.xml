@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T12:23:29.626Z</updated>
+    <updated>2022-04-26T13:09:31.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一種服務可以存儲信息，如果我死了，這些信息就會變得公開。]]></title>
+        <id>https://news.ycombinator.com/item?id=31166863</id>
+        <link href="https://news.ycombinator.com/item?id=31166863"/>
+        <updated>2022-04-26T12:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a service to store information that becomes public if I die]]></summary>
+        <author>
+            <name>dezmou</name>
+            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何休息？]]></title>
+        <id>https://news.ycombinator.com/item?id=31166666</id>
+        <link href="https://news.ycombinator.com/item?id=31166666"/>
+        <updated>2022-04-26T12:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Rest?]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在技術討論中信心不足，還是冒名頂替者綜合症？]]></title>
+        <id>https://news.ycombinator.com/item?id=31166622</id>
+        <link href="https://news.ycombinator.com/item?id=31166622"/>
+        <updated>2022-04-26T12:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Low confidence in tech discussions, or impostor syndrome?]]></summary>
+        <author>
+            <name>yamoriyamori</name>
+            <uri>https://news.ycombinator.com/user?id=yamoriyamori</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去一年，HN的流量/參與度是否有所下降？]]></title>
+        <id>https://news.ycombinator.com/item?id=31166605</id>
+        <link href="https://news.ycombinator.com/item?id=31166605"/>
+        <updated>2022-04-26T12:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has HN traffic / engagement declined over the past year?]]></summary>
+        <author>
+            <name>rexreed</name>
+            <uri>https://news.ycombinator.com/user?id=rexreed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於關鍵的CS理念的頂級激勵性書籍？]]></title>
         <id>https://news.ycombinator.com/item?id=31166475</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>8as746fd4a5df</name>
             <uri>https://news.ycombinator.com/user?id=8as746fd4a5df</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在向上爬的同時保持編碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31011564</id>
-        <link href="https://news.ycombinator.com/item?id=31011564"/>
-        <updated>2022-04-13T05:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to keep coding while moving up the ladder?]]></summary>
-        <author>
-            <name>ruph123</name>
-            <uri>https://news.ycombinator.com/user?id=ruph123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outline.com發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31011333</id>
-        <link href="https://news.ycombinator.com/item?id=31011333"/>
-        <updated>2022-04-13T04:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Outline.com?]]></summary>
-        <author>
-            <name>disqard</name>
-            <uri>https://news.ycombinator.com/user?id=disqard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客是如何入侵MongoDB實例的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31010892</id>
-        <link href="https://news.ycombinator.com/item?id=31010892"/>
-        <updated>2022-04-13T03:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do hackers hack MongoDB instances?]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望有什麼命令行工具存在？]]></title>
-        <id>https://news.ycombinator.com/item?id=31010408</id>
-        <link href="https://news.ycombinator.com/item?id=31010408"/>
-        <updated>2022-04-13T01:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What command line tool do you wish existed?]]></summary>
-        <author>
-            <name>yesenadam</name>
-            <uri>https://news.ycombinator.com/user?id=yesenadam</uri>
         </author>
     </entry>
 </feed>
