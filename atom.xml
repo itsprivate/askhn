@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T13:58:15.735Z</updated>
+    <updated>2022-04-26T14:14:28.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[运行推特与登上火星有什么关系？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167518</id>
+        <link href="https://news.ycombinator.com/item?id=31167518"/>
+        <updated>2022-04-26T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What good does running Twitter have to do with getting to mars?]]></summary>
+        <author>
+            <name>cphoover</name>
+            <uri>https://news.ycombinator.com/user?id=cphoover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你是上帝，你会从世界上消除哪个问题？]]></title>
         <id>https://news.ycombinator.com/item?id=31167347</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>BuleBule</name>
             <uri>https://news.ycombinator.com/user?id=BuleBule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人任务/文件管理]]></title>
-        <id>https://news.ycombinator.com/item?id=31012986</id>
-        <link href="https://news.ycombinator.com/item?id=31012986"/>
-        <updated>2022-04-13T10:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Personal Task/File Management]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
         </author>
     </entry>
 </feed>
