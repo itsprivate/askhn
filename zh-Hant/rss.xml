@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 15:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[偽英語領域專用語言的解析器？]]></title>
+            <link>https://news.ycombinator.com/item?id=31168819</link>
+            <guid>https://news.ycombinator.com/item?id=31168819</guid>
+            <pubDate>Tue, 26 Apr 2022 15:35:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Parser for pseudo-English domain-specific languages?]]></description>
+        </item>
         <item>
             <title><![CDATA[我想學習C++而不是Rust!]]></title>
             <link>https://news.ycombinator.com/item?id=31168656</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31013297</guid>
             <pubDate>Wed, 13 Apr 2022 11:11:48 GMT</pubDate>
             <description><![CDATA[Ask HN: How can I become more proactive in work and life?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Slack機器人擴展公司特定的縮寫和行話？]]></title>
-            <link>https://news.ycombinator.com/item?id=31013119</link>
-            <guid>https://news.ycombinator.com/item?id=31013119</guid>
-            <pubDate>Wed, 13 Apr 2022 10:47:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Slack bot expanding company-specific abbreviations and jargon?]]></description>
         </item>
     </channel>
 </rss>
