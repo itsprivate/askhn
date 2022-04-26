@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否被困在Flutter依赖性地狱中？你是如何处理的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31166120</link>
+            <guid>https://news.ycombinator.com/item?id=31166120</guid>
+            <pubDate>Tue, 26 Apr 2022 11:27:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you get stuck in Flutter dependency hell? How do you deal?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么行业受计算/软件的影响最大？]]></title>
+            <link>https://news.ycombinator.com/item?id=31166030</link>
+            <guid>https://news.ycombinator.com/item?id=31166030</guid>
+            <pubDate>Tue, 26 Apr 2022 11:11:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: What industry was the most impacted by computing/software?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何要求雇主配合通货膨胀率，与加薪无关]]></title>
             <link>https://news.ycombinator.com/item?id=31166006</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31009966</guid>
             <pubDate>Wed, 13 Apr 2022 00:47:48 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you set goals?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪些是最好的产品负责人/项目管理人留言板？]]></title>
-            <link>https://news.ycombinator.com/item?id=31009922</link>
-            <guid>https://news.ycombinator.com/item?id=31009922</guid>
-            <pubDate>Wed, 13 Apr 2022 00:41:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are the best Product Owner/PM message boards?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何找到一个专家？]]></title>
-            <link>https://news.ycombinator.com/item?id=31009800</link>
-            <guid>https://news.ycombinator.com/item?id=31009800</guid>
-            <pubDate>Wed, 13 Apr 2022 00:22:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you find an expert?]]></description>
         </item>
     </channel>
 </rss>
