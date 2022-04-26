@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T04:20:23.658Z</updated>
+    <updated>2022-04-26T05:17:20.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰會後悔選擇了Elixir？]]></title>
+        <id>https://news.ycombinator.com/item?id=31164138</id>
+        <link href="https://news.ycombinator.com/item?id=31164138"/>
+        <updated>2022-04-26T05:05:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Regrets Choosing Elixir?]]></summary>
+        <author>
+            <name>princevegeta89</name>
+            <uri>https://news.ycombinator.com/user?id=princevegeta89</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI測試作為一種產品化的服務是否可行？]]></title>
+        <id>https://news.ycombinator.com/item?id=31164070</id>
+        <link href="https://news.ycombinator.com/item?id=31164070"/>
+        <updated>2022-04-26T04:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is UI testing viable as a productized service?]]></summary>
+        <author>
+            <name>sssslyz</name>
+            <uri>https://news.ycombinator.com/user?id=sssslyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了LibreOffice以外的開源辦公套件？]]></title>
         <id>https://news.ycombinator.com/item?id=31163876</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>xnx</name>
             <uri>https://news.ycombinator.com/user?id=xnx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我覺得自己被困住了，如何才能擺脫困境？]]></title>
-        <id>https://news.ycombinator.com/item?id=31008477</id>
-        <link href="https://news.ycombinator.com/item?id=31008477"/>
-        <updated>2022-04-12T21:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm feeling stuck, how do I get out of it?]]></summary>
-        <author>
-            <name>almostright</name>
-            <uri>https://news.ycombinator.com/user?id=almostright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男人真的想為自己的國家而戰，而不是逃亡嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31008340</id>
-        <link href="https://news.ycombinator.com/item?id=31008340"/>
-        <updated>2022-04-12T21:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do men really want to fight for their country instead of fleeing?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
