@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T16:18:20.449Z</updated>
+    <updated>2022-04-26T16:53:59.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過亞馬遜SDE在線評估有難度嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31169490</id>
+        <link href="https://news.ycombinator.com/item?id=31169490"/>
+        <updated>2022-04-26T16:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it difficult to pass Amazon SDE online assessment?]]></summary>
+        <author>
+            <name>nada_ss</name>
+            <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南為HDF-5數據格式]]></title>
         <id>https://news.ycombinator.com/item?id=31169115</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>drdunce</name>
             <uri>https://news.ycombinator.com/user?id=drdunce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會如何處理為兩家不同公司擔任團隊領導的工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=31013980</id>
-        <link href="https://news.ycombinator.com/item?id=31013980"/>
-        <updated>2022-04-13T12:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you handle working as a team lead for two different companies?]]></summary>
-        <author>
-            <name>kiraken</name>
-            <uri>https://news.ycombinator.com/user?id=kiraken</uri>
         </author>
     </entry>
 </feed>
