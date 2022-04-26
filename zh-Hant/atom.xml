@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T14:41:23.784Z</updated>
+    <updated>2022-04-26T15:38:16.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想學習C++而不是Rust!]]></title>
+        <id>https://news.ycombinator.com/item?id=31168656</id>
+        <link href="https://news.ycombinator.com/item?id=31168656"/>
+        <updated>2022-04-26T15:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I whant to Learn C++ not Rust!!]]></summary>
+        <author>
+            <name>sptth</name>
+            <uri>https://news.ycombinator.com/user?id=sptth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國防初創企業如何運作？]]></title>
         <id>https://news.ycombinator.com/item?id=31167985</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>josefrichter</name>
             <uri>https://news.ycombinator.com/user?id=josefrichter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何查看電子郵件的HTML部分？]]></title>
-        <id>https://news.ycombinator.com/item?id=31013103</id>
-        <link href="https://news.ycombinator.com/item?id=31013103"/>
-        <updated>2022-04-13T10:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to View the HTML Part of an Email?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>

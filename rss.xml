@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我想学习C++而不是Rust!]]></title>
+            <link>https://news.ycombinator.com/item?id=31168656</link>
+            <guid>https://news.ycombinator.com/item?id=31168656</guid>
+            <pubDate>Tue, 26 Apr 2022 15:26:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: I whant to Learn C++ not Rust!!]]></description>
+        </item>
         <item>
             <title><![CDATA[国防初创企业如何运作？]]></title>
             <link>https://news.ycombinator.com/item?id=31167985</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31013119</guid>
             <pubDate>Wed, 13 Apr 2022 10:47:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Slack bot expanding company-specific abbreviations and jargon?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何查看电子邮件的HTML部分？]]></title>
-            <link>https://news.ycombinator.com/item?id=31013103</link>
-            <guid>https://news.ycombinator.com/item?id=31013103</guid>
-            <pubDate>Wed, 13 Apr 2022 10:44:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to View the HTML Part of an Email?]]></description>
         </item>
     </channel>
 </rss>
