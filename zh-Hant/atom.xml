@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T13:09:31.338Z</updated>
+    <updated>2022-04-26T13:58:15.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你是上帝，你會從世界上消除哪個問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167347</id>
+        <link href="https://news.ycombinator.com/item?id=31167347"/>
+        <updated>2022-04-26T13:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you were God, which problem would you remove from the world?]]></summary>
+        <author>
+            <name>kite_and_code</name>
+            <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一個Linux的化學暗室模擬器？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167062</id>
+        <link href="https://news.ycombinator.com/item?id=31167062"/>
+        <updated>2022-04-26T13:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a chemical darkroom emulator for Linux]]></summary>
+        <author>
+            <name>roomey</name>
+            <uri>https://news.ycombinator.com/user?id=roomey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以使我的整個網絡服務完全透明嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167046</id>
+        <link href="https://news.ycombinator.com/item?id=31167046"/>
+        <updated>2022-04-26T13:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I make my whole web service completely transparent?]]></summary>
+        <author>
+            <name>cosmorocket</name>
+            <uri>https://news.ycombinator.com/user?id=cosmorocket</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass - 共享條目的加密是如何進行的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167029</id>
+        <link href="https://news.ycombinator.com/item?id=31167029"/>
+        <updated>2022-04-26T13:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: LastPass - How encryption works for shared entries?]]></summary>
+        <author>
+            <name>trojanski</name>
+            <uri>https://news.ycombinator.com/user?id=trojanski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這個網站是什麼：equation.com？]]></title>
+        <id>https://news.ycombinator.com/item?id=31166992</id>
+        <link href="https://news.ycombinator.com/item?id=31166992"/>
+        <updated>2022-04-26T13:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is this site: equation.com?]]></summary>
+        <author>
+            <name>xaxaxb</name>
+            <uri>https://news.ycombinator.com/user?id=xaxaxb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一種服務可以存儲信息，如果我死了，這些信息就會變得公開。]]></title>
         <id>https://news.ycombinator.com/item?id=31166863</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在B2B SaaS中，你如何處理非緊急的客戶電子郵件？]]></title>
-        <id>https://news.ycombinator.com/item?id=31012930</id>
-        <link href="https://news.ycombinator.com/item?id=31012930"/>
-        <updated>2022-04-13T10:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you handle non-urgent customer email in a B2B SaaS?]]></summary>
-        <author>
-            <name>rodoni</name>
-            <uri>https://news.ycombinator.com/user?id=rodoni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的團隊是如何管理環境變量的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31012832</id>
-        <link href="https://news.ycombinator.com/item?id=31012832"/>
-        <updated>2022-04-13T09:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does your team manage environment variables?]]></summary>
-        <author>
-            <name>p-ross</name>
-            <uri>https://news.ycombinator.com/user?id=p-ross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從ML到遊戲？]]></title>
-        <id>https://news.ycombinator.com/item?id=31012546</id>
-        <link href="https://news.ycombinator.com/item?id=31012546"/>
-        <updated>2022-04-13T09:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: From ML to Games?]]></summary>
-        <author>
-            <name>horsellama</name>
-            <uri>https://news.ycombinator.com/user?id=horsellama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流程隔離替代Docker]]></title>
-        <id>https://news.ycombinator.com/item?id=31012465</id>
-        <link href="https://news.ycombinator.com/item?id=31012465"/>
-        <updated>2022-04-13T08:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Process isolation alternative do Docker]]></summary>
-        <author>
-            <name>tuyiown</name>
-            <uri>https://news.ycombinator.com/user?id=tuyiown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鍵盤上的錯別字與手工書寫中的錯別字頻率的原因？]]></title>
-        <id>https://news.ycombinator.com/item?id=31012187</id>
-        <link href="https://news.ycombinator.com/item?id=31012187"/>
-        <updated>2022-04-13T07:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: reasons for frequency of mistypings on a keyboard vs. in manual writing?]]></summary>
-        <author>
-            <name>8as746fd4a5df</name>
-            <uri>https://news.ycombinator.com/user?id=8as746fd4a5df</uri>
         </author>
     </entry>
 </feed>
