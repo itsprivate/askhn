@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T09:35:06.007Z</updated>
+    <updated>2022-04-26T09:53:10.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你写通讯吗？有多少人读它？]]></title>
+        <id>https://news.ycombinator.com/item?id=31165573</id>
+        <link href="https://news.ycombinator.com/item?id=31165573"/>
+        <updated>2022-04-26T09:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you write a newsletter? How many people read it?]]></summary>
+        <author>
+            <name>FreeHugs</name>
+            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UML仍然很酷吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31165471</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aryanvdesh</name>
             <uri>https://news.ycombinator.com/user?id=aryanvdesh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们能不能在手机上把字体变大？]]></title>
-        <id>https://news.ycombinator.com/item?id=31009525</id>
-        <link href="https://news.ycombinator.com/item?id=31009525"/>
-        <updated>2022-04-12T23:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can we make the font bigger for mobile view?]]></summary>
-        <author>
-            <name>mc4ndr3</name>
-            <uri>https://news.ycombinator.com/user?id=mc4ndr3</uri>
         </author>
     </entry>
 </feed>
