@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T16:53:59.443Z</updated>
+    <updated>2022-04-26T17:22:17.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何更新你对技术的兴趣？]]></title>
+        <id>https://news.ycombinator.com/item?id=31169876</id>
+        <link href="https://news.ycombinator.com/item?id=31169876"/>
+        <updated>2022-04-26T16:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you renew your interest in technology?]]></summary>
+        <author>
+            <name>xthestreams</name>
+            <uri>https://news.ycombinator.com/user?id=xthestreams</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是女人？]]></title>
+        <id>https://news.ycombinator.com/item?id=31169826</id>
+        <link href="https://news.ycombinator.com/item?id=31169826"/>
+        <updated>2022-04-26T16:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Is a Woman?]]></summary>
+        <author>
+            <name>MathCodeLove</name>
+            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过亚马逊SDE在线评估有难度吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31169490</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>falafelite</name>
             <uri>https://news.ycombinator.com/user?id=falafelite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Ferdi"--"多人信使 "怎么了？]]></title>
-        <id>https://news.ycombinator.com/item?id=31014370</id>
-        <link href="https://news.ycombinator.com/item?id=31014370"/>
-        <updated>2022-04-13T13:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happened to “Ferdi” – the “multi-messenger”?]]></summary>
-        <author>
-            <name>FabianBeiner</name>
-            <uri>https://news.ycombinator.com/user?id=FabianBeiner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全领域自我任命的监管机构是怎么回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=31014326</id>
-        <link href="https://news.ycombinator.com/item?id=31014326"/>
-        <updated>2022-04-13T13:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the deal with self appointed regulating bodies in security?]]></summary>
-        <author>
-            <name>drdunce</name>
-            <uri>https://news.ycombinator.com/user?id=drdunce</uri>
         </author>
     </entry>
 </feed>
