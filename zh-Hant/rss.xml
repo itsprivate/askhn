@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Apr 2022 15:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對於最近的安全漏洞，heroku是否會履行任何服務協議？]]></title>
+            <link>https://news.ycombinator.com/item?id=31180902</link>
+            <guid>https://news.ycombinator.com/item?id=31180902</guid>
+            <pubDate>Wed, 27 Apr 2022 15:12:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will heroku honor any SLA in regards to the recent security breach]]></description>
+        </item>
         <item>
             <title><![CDATA[開源軟件作者--你為什麼要這樣做？]]></title>
             <link>https://news.ycombinator.com/item?id=31180838</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31024696</guid>
             <pubDate>Thu, 14 Apr 2022 09:05:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Basic Image Editing on iOS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於剖析和檢測洩漏的macOS儀器有什麼用嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=31024173</link>
-            <guid>https://news.ycombinator.com/item?id=31024173</guid>
-            <pubDate>Thu, 14 Apr 2022 07:12:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: macOS Instruments for profiling and detecting leaks any good?]]></description>
         </item>
     </channel>
 </rss>

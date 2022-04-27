@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T15:17:09.880Z</updated>
+    <updated>2022-04-27T15:40:58.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于最近的安全漏洞，heroku是否会履行任何服务协议？]]></title>
+        <id>https://news.ycombinator.com/item?id=31180902</id>
+        <link href="https://news.ycombinator.com/item?id=31180902"/>
+        <updated>2022-04-27T15:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will heroku honor any SLA in regards to the recent security breach]]></summary>
+        <author>
+            <name>allen-munsch</name>
+            <uri>https://news.ycombinator.com/user?id=allen-munsch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源软件作者--你为什么要这样做？]]></title>
         <id>https://news.ycombinator.com/item?id=31180838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>forgotmypw17</name>
             <uri>https://news.ycombinator.com/user?id=forgotmypw17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于剖析和检测泄漏的macOS仪器有什么用吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31024173</id>
-        <link href="https://news.ycombinator.com/item?id=31024173"/>
-        <updated>2022-04-14T07:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: macOS Instruments for profiling and detecting leaks any good?]]></summary>
-        <author>
-            <name>hahnchen</name>
-            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
         </author>
     </entry>
 </feed>
