@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T21:14:00.013Z</updated>
+    <updated>2022-04-27T22:14:30.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你为云计算基础设施支付多少钱？]]></title>
+        <id>https://news.ycombinator.com/item?id=31186281</id>
+        <link href="https://news.ycombinator.com/item?id=31186281"/>
+        <updated>2022-04-27T21:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much do you pay for cloud infrastructure?]]></summary>
+        <author>
+            <name>aserdak</name>
+            <uri>https://news.ycombinator.com/user?id=aserdak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Pages vs. Netlify vs. Others?]]></title>
         <id>https://news.ycombinator.com/item?id=31185817</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bluesroo</name>
             <uri>https://news.ycombinator.com/user?id=bluesroo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会和4-6个陌生人一起住在Airbnb吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31029861</id>
-        <link href="https://news.ycombinator.com/item?id=31029861"/>
-        <updated>2022-04-14T17:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you Airbnb with 4-6 strangers?]]></summary>
-        <author>
-            <name>bjpless</name>
-            <uri>https://news.ycombinator.com/user?id=bjpless</uri>
         </author>
     </entry>
 </feed>
