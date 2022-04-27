@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-26T23:13:28.226Z</updated>
+    <updated>2022-04-27T00:51:53.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[品牌故意拼错名字，这叫什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31174614</id>
+        <link href="https://news.ycombinator.com/item?id=31174614"/>
+        <updated>2022-04-26T23:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is it called when brands deliberately misspell names]]></summary>
+        <author>
+            <name>asimjalis</name>
+            <uri>https://news.ycombinator.com/user?id=asimjalis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互联网平台上的机器人是否意味着验证码实际上是无用的？]]></title>
         <id>https://news.ycombinator.com/item?id=31174287</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>princevegeta89</name>
             <uri>https://news.ycombinator.com/user?id=princevegeta89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你正在研究的问题是普遍存在的，如何找到用户？]]></title>
-        <id>https://news.ycombinator.com/item?id=31016224</id>
-        <link href="https://news.ycombinator.com/item?id=31016224"/>
-        <updated>2022-04-13T15:56:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find users if the problem you're working on is widespread?]]></summary>
-        <author>
-            <name>KianT</name>
-            <uri>https://news.ycombinator.com/user?id=KianT</uri>
         </author>
     </entry>
 </feed>
