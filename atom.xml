@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T19:00:22.261Z</updated>
+    <updated>2022-04-27T19:11:57.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初创企业的SoC/ISO/HIPAA认证？]]></title>
+        <id>https://news.ycombinator.com/item?id=31184353</id>
+        <link href="https://news.ycombinator.com/item?id=31184353"/>
+        <updated>2022-04-27T19:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SoC/ISO/HIPAA certifications for startups?]]></summary>
+        <author>
+            <name>h99</name>
+            <uri>https://news.ycombinator.com/user?id=h99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会如何投资100万美元以获得被动收入/现金流？]]></title>
+        <id>https://news.ycombinator.com/item?id=31184269</id>
+        <link href="https://news.ycombinator.com/item?id=31184269"/>
+        <updated>2022-04-27T18:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you invest $1M for passive income/cash flow?]]></summary>
+        <author>
+            <name>Trias11</name>
+            <uri>https://news.ycombinator.com/user?id=Trias11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克为什么想拥有Twitter？]]></title>
         <id>https://news.ycombinator.com/item?id=31184235</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nada_ss</name>
             <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪种存储客户的RSA公钥的方式是正确的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31028480</id>
-        <link href="https://news.ycombinator.com/item?id=31028480"/>
-        <updated>2022-04-14T15:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which way for storing client's RSA public key is correct?]]></summary>
-        <author>
-            <name>airswimmer</name>
-            <uri>https://news.ycombinator.com/user?id=airswimmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你发现的预测业绩的面试方式是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31028095</id>
-        <link href="https://news.ycombinator.com/item?id=31028095"/>
-        <updated>2022-04-14T15:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ways of interviewing you found to be predictive of performance?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
         </author>
     </entry>
 </feed>
