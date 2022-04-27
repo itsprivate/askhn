@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T17:24:59.678Z</updated>
+    <updated>2022-04-27T17:50:52.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对实际通货膨胀数字的估计是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=31183162</id>
+        <link href="https://news.ycombinator.com/item?id=31183162"/>
+        <updated>2022-04-27T17:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your estimate for the real inflation number?]]></summary>
+        <author>
+            <name>rhacker</name>
+            <uri>https://news.ycombinator.com/user?id=rhacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解语言功能添加时间的最佳途径？]]></title>
         <id>https://news.ycombinator.com/item?id=31182517</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>crecker</name>
             <uri>https://news.ycombinator.com/user?id=crecker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同一个人在编程方面的成就能比证明更多吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31026865</id>
-        <link href="https://news.ycombinator.com/item?id=31026865"/>
-        <updated>2022-04-14T13:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can the same individual accomplish more with programming than proofs?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
