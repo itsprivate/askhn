@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T18:16:16.676Z</updated>
+    <updated>2022-04-27T18:43:23.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解释代码应用程序的编码挑战]]></title>
+        <id>https://news.ycombinator.com/item?id=31183826</id>
+        <link href="https://news.ycombinator.com/item?id=31183826"/>
+        <updated>2022-04-27T18:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Explain Code App Coding Challenge]]></summary>
+        <author>
+            <name>allynjalford</name>
+            <uri>https://news.ycombinator.com/user?id=allynjalford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有Yubikey支持的银行？]]></title>
+        <id>https://news.ycombinator.com/item?id=31183763</id>
+        <link href="https://news.ycombinator.com/item?id=31183763"/>
+        <updated>2022-04-27T18:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Bank with Yubikey support?]]></summary>
+        <author>
+            <name>jez</name>
+            <uri>https://news.ycombinator.com/user?id=jez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN不向公众宣传自己，是否限制了自由言论？]]></title>
         <id>https://news.ycombinator.com/item?id=31183459</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lelima</name>
             <uri>https://news.ycombinator.com/user?id=lelima</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否管理你的家人的数字安全？]]></title>
-        <id>https://news.ycombinator.com/item?id=31027766</id>
-        <link href="https://news.ycombinator.com/item?id=31027766"/>
-        <updated>2022-04-14T14:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you manage your family's digital safety?]]></summary>
-        <author>
-            <name>arzmir</name>
-            <uri>https://news.ycombinator.com/user?id=arzmir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个在三藩市/萨尔瓦多的科技工作者，你*的生活是怎样的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31027748</id>
-        <link href="https://news.ycombinator.com/item?id=31027748"/>
-        <updated>2022-04-14T14:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is *your* life like as a tech worker in SF/SV?]]></summary>
-        <author>
-            <name>hipereal</name>
-            <uri>https://news.ycombinator.com/user?id=hipereal</uri>
         </author>
     </entry>
 </feed>
