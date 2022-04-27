@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T10:15:21.245Z</updated>
+    <updated>2022-04-27T10:37:39.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何讓工程師在 "專業服務 "團隊中保持快樂？]]></title>
+        <id>https://news.ycombinator.com/item?id=31178255</id>
+        <link href="https://news.ycombinator.com/item?id=31178255"/>
+        <updated>2022-04-27T10:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you keep engineers happy in “Professional Services” teams?]]></summary>
+        <author>
+            <name>elevatortrim</name>
+            <uri>https://news.ycombinator.com/user?id=elevatortrim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你在2050年有24小時，你會問什麼問題？]]></title>
         <id>https://news.ycombinator.com/item?id=31178130</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>parentheses</name>
             <uri>https://news.ycombinator.com/user?id=parentheses</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在面試或接受之前，你對一個角色有多少了解？]]></title>
-        <id>https://news.ycombinator.com/item?id=31019887</id>
-        <link href="https://news.ycombinator.com/item?id=31019887"/>
-        <updated>2022-04-13T20:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much do you learn about a role before interviewing or accepting?]]></summary>
-        <author>
-            <name>wnolens</name>
-            <uri>https://news.ycombinator.com/user?id=wnolens</uri>
         </author>
     </entry>
 </feed>
