@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T16:16:20.528Z</updated>
+    <updated>2022-04-27T16:58:14.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在你的创业公司使用什么决策框架？]]></title>
+        <id>https://news.ycombinator.com/item?id=31182217</id>
+        <link href="https://news.ycombinator.com/item?id=31182217"/>
+        <updated>2022-04-27T16:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What decision making framework do you use at your startup?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品和工程部门的副总裁应该是一个人吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31182208</id>
+        <link href="https://news.ycombinator.com/item?id=31182208"/>
+        <updated>2022-04-27T16:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should a VP of product and engineering be a single person?]]></summary>
+        <author>
+            <name>cbono1</name>
+            <uri>https://news.ycombinator.com/user?id=cbono1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一个傲慢的人，还是我身边有很多无能的人？]]></title>
+        <id>https://news.ycombinator.com/item?id=31182149</id>
+        <link href="https://news.ycombinator.com/item?id=31182149"/>
+        <updated>2022-04-27T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I an arrogant or am I surrounded by incompetent people?]]></summary>
+        <author>
+            <name>AmIAnElitist</name>
+            <uri>https://news.ycombinator.com/user?id=AmIAnElitist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果我错过了我的83(b)，我应该怎么做？]]></title>
+        <id>https://news.ycombinator.com/item?id=31181973</id>
+        <link href="https://news.ycombinator.com/item?id=31181973"/>
+        <updated>2022-04-27T16:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I do if I miss my 83(b)?]]></summary>
+        <author>
+            <name>ryanbrwr</name>
+            <uri>https://news.ycombinator.com/user?id=ryanbrwr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[邓宁-克鲁格和冒名顶替综合症有关系吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31181777</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>sam-mmm</name>
             <uri>https://news.ycombinator.com/user?id=sam-mmm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络钓鱼--曾经落入骗局吗？还是躲过了一次企图？]]></title>
-        <id>https://news.ycombinator.com/item?id=31026049</id>
-        <link href="https://news.ycombinator.com/item?id=31026049"/>
-        <updated>2022-04-14T12:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Phishing – ever fallen to a scam? Or dodged an attempt?]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚加入了一家小型上市公司，我想介绍一下GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=31023088</id>
-        <link href="https://news.ycombinator.com/item?id=31023088"/>
-        <updated>2022-04-14T03:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I just joined a small but public company and I want to introduce GitHub]]></summary>
-        <author>
-            <name>throwaway415864</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway415864</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在雇用加拿大人？]]></title>
-        <id>https://news.ycombinator.com/item?id=31025080</id>
-        <link href="https://news.ycombinator.com/item?id=31025080"/>
-        <updated>2022-04-14T10:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Is Hiring in Canada?]]></summary>
-        <author>
-            <name>rpi1337</name>
-            <uri>https://news.ycombinator.com/user?id=rpi1337</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为密码管理器应用程序中哪些功能是必不可少的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31024984</id>
-        <link href="https://news.ycombinator.com/item?id=31024984"/>
-        <updated>2022-04-14T10:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What features are you considering essential in a password manager app?]]></summary>
-        <author>
-            <name>ImKevinArcher</name>
-            <uri>https://news.ycombinator.com/user?id=ImKevinArcher</uri>
         </author>
     </entry>
 </feed>
