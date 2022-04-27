@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T22:46:33.026Z</updated>
+    <updated>2022-04-27T23:13:02.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软是否将Teams用于内部通信？]]></title>
+        <id>https://news.ycombinator.com/item?id=31186894</id>
+        <link href="https://news.ycombinator.com/item?id=31186894"/>
+        <updated>2022-04-27T23:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Microsoft use Teams for internal comm?]]></summary>
+        <author>
+            <name>nittanymount</name>
+            <uri>https://news.ycombinator.com/user?id=nittanymount</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互联网服务提供商是否在浏览器中注入广告？]]></title>
         <id>https://news.ycombinator.com/item?id=31186664</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>no-dr-onboard</name>
             <uri>https://news.ycombinator.com/user?id=no-dr-onboard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么办法可以让线条画得更流畅，也许可以转换为贝塞尔曲线？]]></title>
-        <id>https://news.ycombinator.com/item?id=31031112</id>
-        <link href="https://news.ycombinator.com/item?id=31031112"/>
-        <updated>2022-04-14T18:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any solution to smooth line drawings, maybe converts to bezier?]]></summary>
-        <author>
-            <name>Gys</name>
-            <uri>https://news.ycombinator.com/user?id=Gys</uri>
         </author>
     </entry>
 </feed>

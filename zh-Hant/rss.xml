@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 23:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微軟是否將Teams用於內部通信？]]></title>
+            <link>https://news.ycombinator.com/item?id=31186894</link>
+            <guid>https://news.ycombinator.com/item?id=31186894</guid>
+            <pubDate>Wed, 27 Apr 2022 23:02:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does Microsoft use Teams for internal comm?]]></description>
+        </item>
         <item>
             <title><![CDATA[互聯網服務提供商是否在瀏覽器中注入廣告？]]></title>
             <link>https://news.ycombinator.com/item?id=31186664</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31031238</guid>
             <pubDate>Thu, 14 Apr 2022 18:29:42 GMT</pubDate>
             <description><![CDATA[Ask HN: Has TinyDNS' Site Been Subtly Hacked?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什麼辦法可以讓線條畫得更流暢，也許可以轉換為貝塞爾曲線？]]></title>
-            <link>https://news.ycombinator.com/item?id=31031112</link>
-            <guid>https://news.ycombinator.com/item?id=31031112</guid>
-            <pubDate>Thu, 14 Apr 2022 18:20:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any solution to smooth line drawings, maybe converts to bezier?]]></description>
         </item>
     </channel>
 </rss>
