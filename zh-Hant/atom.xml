@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T09:35:36.213Z</updated>
+    <updated>2022-04-27T10:15:21.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你在2050年有24小時，你會問什麼問題？]]></title>
+        <id>https://news.ycombinator.com/item?id=31178130</id>
+        <link href="https://news.ycombinator.com/item?id=31178130"/>
+        <updated>2022-04-27T09:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you had 24 hours in the year 2050, what questions would you ask?]]></summary>
+        <author>
+            <name>pmohun</name>
+            <uri>https://news.ycombinator.com/user?id=pmohun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fullstack "的含義是否已經轉變為指前端框架的開發？]]></title>
         <id>https://news.ycombinator.com/item?id=31177993</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wnolens</name>
             <uri>https://news.ycombinator.com/user?id=wnolens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年，你會選擇哪種數據倉庫作為你的基礎設施？]]></title>
-        <id>https://news.ycombinator.com/item?id=31019559</id>
-        <link href="https://news.ycombinator.com/item?id=31019559"/>
-        <updated>2022-04-13T20:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which data warehouse would you choose for your infrastructure in 2022?]]></summary>
-        <author>
-            <name>bhaprayan</name>
-            <uri>https://news.ycombinator.com/user?id=bhaprayan</uri>
         </author>
     </entry>
 </feed>
