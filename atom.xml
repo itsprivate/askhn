@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T22:14:30.987Z</updated>
+    <updated>2022-04-27T22:34:22.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gmail有问题吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31186486</id>
+        <link href="https://news.ycombinator.com/item?id=31186486"/>
+        <updated>2022-04-27T22:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Gmail Having Issues?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你为云计算基础设施支付多少钱？]]></title>
         <id>https://news.ycombinator.com/item?id=31186281</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ss48</name>
             <uri>https://news.ycombinator.com/user?id=ss48</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何才能最好地协助我的妻子进行职业转型？]]></title>
-        <id>https://news.ycombinator.com/item?id=31030740</id>
-        <link href="https://news.ycombinator.com/item?id=31030740"/>
-        <updated>2022-04-14T18:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I best assist my wife with a career transition?]]></summary>
-        <author>
-            <name>bluesroo</name>
-            <uri>https://news.ycombinator.com/user?id=bluesroo</uri>
         </author>
     </entry>
 </feed>
