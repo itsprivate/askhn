@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T07:45:40.854Z</updated>
+    <updated>2022-04-27T08:55:54.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰設計了Flutter？]]></title>
+        <id>https://news.ycombinator.com/item?id=31177726</id>
+        <link href="https://news.ycombinator.com/item?id=31177726"/>
+        <updated>2022-04-27T08:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Designed Flutter?]]></summary>
+        <author>
+            <name>wg0</name>
+            <uri>https://news.ycombinator.com/user?id=wg0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[舌尖上的中國--反向路徑無線電源解決方案？]]></title>
         <id>https://news.ycombinator.com/item?id=31177349</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>assemblylang</name>
             <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以稱自己為長者嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31018941</id>
-        <link href="https://news.ycombinator.com/item?id=31018941"/>
-        <updated>2022-04-13T19:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I call myself a senior?]]></summary>
-        <author>
-            <name>azoth128</name>
-            <uri>https://news.ycombinator.com/user?id=azoth128</uri>
         </author>
     </entry>
 </feed>
