@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T04:07:53.032Z</updated>
+    <updated>2022-04-27T05:04:01.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大的技术工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=31176475</id>
+        <link href="https://news.ycombinator.com/item?id=31176475"/>
+        <updated>2022-04-27T04:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Canada for Tech Jobs?]]></summary>
+        <author>
+            <name>stwrong</name>
+            <uri>https://news.ycombinator.com/user?id=stwrong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你从哪里得到你的付费新闻？]]></title>
+        <id>https://news.ycombinator.com/item?id=31176286</id>
+        <link href="https://news.ycombinator.com/item?id=31176286"/>
+        <updated>2022-04-27T04:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you get your paid news?]]></summary>
+        <author>
+            <name>throwaway8829</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway8829</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否应将远程工作的选择权写进合同？]]></title>
         <id>https://news.ycombinator.com/item?id=31176096</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>daolf</name>
             <uri>https://news.ycombinator.com/user?id=daolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS/应用商店的更新规模是怎么回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=31017412</id>
-        <link href="https://news.ycombinator.com/item?id=31017412"/>
-        <updated>2022-04-13T17:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's up with the size of macOS/App Store updates?]]></summary>
-        <author>
-            <name>smspillaz</name>
-            <uri>https://news.ycombinator.com/user?id=smspillaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一本关于技术优势如何赢得战争的书？]]></title>
-        <id>https://news.ycombinator.com/item?id=31017335</id>
-        <link href="https://news.ycombinator.com/item?id=31017335"/>
-        <updated>2022-04-13T17:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a book about how a technological advantage wins wars?]]></summary>
-        <author>
-            <name>richardreeze</name>
-            <uri>https://news.ycombinator.com/user?id=richardreeze</uri>
         </author>
     </entry>
 </feed>
