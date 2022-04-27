@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T11:12:09.650Z</updated>
+    <updated>2022-04-27T13:38:23.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么美国电影经常先在台湾上映？]]></title>
+        <id>https://news.ycombinator.com/item?id=31179436</id>
+        <link href="https://news.ycombinator.com/item?id=31179436"/>
+        <updated>2022-04-27T13:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are American movies often first released in Taiwan?]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不知道会议上说的是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31178475</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年很多电动汽车上市，有人在做充电网络吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31020290</id>
-        <link href="https://news.ycombinator.com/item?id=31020290"/>
-        <updated>2022-04-13T21:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Many electric cars launch this year, is anyone making charging networks?]]></summary>
-        <author>
-            <name>cgb223</name>
-            <uri>https://news.ycombinator.com/user?id=cgb223</uri>
         </author>
     </entry>
 </feed>
