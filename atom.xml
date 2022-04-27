@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T19:11:57.785Z</updated>
+    <updated>2022-04-27T19:29:51.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[管理家庭的最佳IT解决方案/应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=31184502</id>
+        <link href="https://news.ycombinator.com/item?id=31184502"/>
+        <updated>2022-04-27T19:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best IT solution/App for managing a household?]]></summary>
+        <author>
+            <name>negroni</name>
+            <uri>https://news.ycombinator.com/user?id=negroni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业的SoC/ISO/HIPAA认证？]]></title>
         <id>https://news.ycombinator.com/item?id=31184353</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>CuteDepravity</name>
             <uri>https://news.ycombinator.com/user?id=CuteDepravity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我的帖子在HN上没有显示]]></title>
-        <id>https://news.ycombinator.com/item?id=31028544</id>
-        <link href="https://news.ycombinator.com/item?id=31028544"/>
-        <updated>2022-04-14T15:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why my post is not showing on HN]]></summary>
-        <author>
-            <name>nada_ss</name>
-            <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
         </author>
     </entry>
 </feed>
