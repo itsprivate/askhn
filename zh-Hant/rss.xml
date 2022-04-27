@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Apr 2022 17:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 18:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN不向公眾宣傳自己，是否限制了自由言論？]]></title>
+            <link>https://news.ycombinator.com/item?id=31183459</link>
+            <guid>https://news.ycombinator.com/item?id=31183459</guid>
+            <pubDate>Wed, 27 Apr 2022 17:57:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does HN limit free speach by not advertising itself to general public?]]></description>
+        </item>
         <item>
             <title><![CDATA[Pinboard發生了什麼（4月22日版）？]]></title>
             <link>https://news.ycombinator.com/item?id=31183419</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31027748</guid>
             <pubDate>Thu, 14 Apr 2022 14:49:46 GMT</pubDate>
             <description><![CDATA[Ask HN: What is *your* life like as a tech worker in SF/SV?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼沒有一個標準的網絡音頻協議？]]></title>
-            <link>https://news.ycombinator.com/item?id=31027526</link>
-            <guid>https://news.ycombinator.com/item?id=31027526</guid>
-            <pubDate>Thu, 14 Apr 2022 14:30:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why isn't there a standard network audio protocol?]]></description>
         </item>
     </channel>
 </rss>

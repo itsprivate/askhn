@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T17:58:35.623Z</updated>
+    <updated>2022-04-27T18:16:16.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN不向公眾宣傳自己，是否限制了自由言論？]]></title>
+        <id>https://news.ycombinator.com/item?id=31183459</id>
+        <link href="https://news.ycombinator.com/item?id=31183459"/>
+        <updated>2022-04-27T17:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does HN limit free speach by not advertising itself to general public?]]></summary>
+        <author>
+            <name>McLaren_Ferrari</name>
+            <uri>https://news.ycombinator.com/user?id=McLaren_Ferrari</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinboard發生了什麼（4月22日版）？]]></title>
         <id>https://news.ycombinator.com/item?id=31183419</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hipereal</name>
             <uri>https://news.ycombinator.com/user?id=hipereal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有一個標準的網絡音頻協議？]]></title>
-        <id>https://news.ycombinator.com/item?id=31027526</id>
-        <link href="https://news.ycombinator.com/item?id=31027526"/>
-        <updated>2022-04-14T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't there a standard network audio protocol?]]></summary>
-        <author>
-            <name>armagon</name>
-            <uri>https://news.ycombinator.com/user?id=armagon</uri>
         </author>
     </entry>
 </feed>
