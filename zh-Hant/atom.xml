@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T22:34:22.160Z</updated>
+    <updated>2022-04-27T22:46:33.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網服務提供商是否在瀏覽器中注入廣告？]]></title>
+        <id>https://news.ycombinator.com/item?id=31186664</id>
+        <link href="https://news.ycombinator.com/item?id=31186664"/>
+        <updated>2022-04-27T22:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do ISP's inject ads into browsers?]]></summary>
+        <author>
+            <name>HoppedUpMenace</name>
+            <uri>https://news.ycombinator.com/user?id=HoppedUpMenace</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmail有問題嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31186486</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Gys</name>
             <uri>https://news.ycombinator.com/user?id=Gys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞上的混音評論按鈕？]]></title>
-        <id>https://news.ycombinator.com/item?id=31030765</id>
-        <link href="https://news.ycombinator.com/item?id=31030765"/>
-        <updated>2022-04-14T18:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Remix Comments Button on Hacker News?]]></summary>
-        <author>
-            <name>ss48</name>
-            <uri>https://news.ycombinator.com/user?id=ss48</uri>
         </author>
     </entry>
 </feed>
