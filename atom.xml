@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T03:10:21.148Z</updated>
+    <updated>2022-04-27T04:07:53.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否应将远程工作的选择权写进合同？]]></title>
+        <id>https://news.ycombinator.com/item?id=31176096</id>
+        <link href="https://news.ycombinator.com/item?id=31176096"/>
+        <updated>2022-04-27T03:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should the option to work remote be written into the contract?]]></summary>
+        <author>
+            <name>StefanWestfal</name>
+            <uri>https://news.ycombinator.com/user?id=StefanWestfal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪里可以出售我的应用程序？]]></title>
         <id>https://news.ycombinator.com/item?id=31175448</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>richardreeze</name>
             <uri>https://news.ycombinator.com/user?id=richardreeze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B2C产品所有者，通货膨胀对你的收入有什么影响？]]></title>
-        <id>https://news.ycombinator.com/item?id=31017206</id>
-        <link href="https://news.ycombinator.com/item?id=31017206"/>
-        <updated>2022-04-13T17:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: B2C product owners how has inflation affected your revenue?]]></summary>
-        <author>
-            <name>Abishek_Muthian</name>
-            <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
         </author>
     </entry>
 </feed>
