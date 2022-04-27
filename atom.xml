@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-27T09:14:10.678Z</updated>
+    <updated>2022-04-27T09:35:36.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fullstack "的含义是否已经转变为指前端框架的开发？]]></title>
+        <id>https://news.ycombinator.com/item?id=31177993</id>
+        <link href="https://news.ycombinator.com/item?id=31177993"/>
+        <updated>2022-04-27T09:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has the 'Fullstack' meaning shifted to mean dev in front end frameworks?]]></summary>
+        <author>
+            <name>jzer0cool</name>
+            <uri>https://news.ycombinator.com/user?id=jzer0cool</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以强迫大邮件公司不把我的邮件标记为垃圾邮件吗？]]></title>
         <id>https://news.ycombinator.com/item?id=31177890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bhaprayan</name>
             <uri>https://news.ycombinator.com/user?id=bhaprayan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问：什么是边缘计算，如何超越基本原理来思考它？]]></title>
-        <id>https://news.ycombinator.com/item?id=31019351</id>
-        <link href="https://news.ycombinator.com/item?id=31019351"/>
-        <updated>2022-04-13T19:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ASK HN: What is edge-computing and how to think of it beyond the fundaments?]]></summary>
-        <author>
-            <name>lucid-quiet</name>
-            <uri>https://news.ycombinator.com/user?id=lucid-quiet</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fullstack "的含义是否已经转变为指前端框架的开发？]]></title>
+            <link>https://news.ycombinator.com/item?id=31177993</link>
+            <guid>https://news.ycombinator.com/item?id=31177993</guid>
+            <pubDate>Wed, 27 Apr 2022 09:29:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has the 'Fullstack' meaning shifted to mean dev in front end frameworks?]]></description>
+        </item>
         <item>
             <title><![CDATA[我可以强迫大邮件公司不把我的邮件标记为垃圾邮件吗？]]></title>
             <link>https://news.ycombinator.com/item?id=31177890</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31019559</guid>
             <pubDate>Wed, 13 Apr 2022 20:02:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Which data warehouse would you choose for your infrastructure in 2022?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[问：什么是边缘计算，如何超越基本原理来思考它？]]></title>
-            <link>https://news.ycombinator.com/item?id=31019351</link>
-            <guid>https://news.ycombinator.com/item?id=31019351</guid>
-            <pubDate>Wed, 13 Apr 2022 19:47:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: ASK HN: What is edge-computing and how to think of it beyond the fundaments?]]></description>
         </item>
     </channel>
 </rss>
