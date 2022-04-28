@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T09:14:01.552Z</updated>
+    <updated>2022-04-28T10:16:50.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dang - Dupe Url Filter?]]></title>
+        <id>https://news.ycombinator.com/item?id=31190728</id>
+        <link href="https://news.ycombinator.com/item?id=31190728"/>
+        <updated>2022-04-28T10:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Dang – Dupe Url Filter?]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有iPhone，我可以用Apple Watch做什么吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31190681</id>
+        <link href="https://news.ycombinator.com/item?id=31190681"/>
+        <updated>2022-04-28T10:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there anything I can do with an Apple Watch without an iPhone?]]></summary>
+        <author>
+            <name>bojangleslover</name>
+            <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在磁盘上保存数据结构？]]></title>
         <id>https://news.ycombinator.com/item?id=31190263</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>closeparen</name>
             <uri>https://news.ycombinator.com/user?id=closeparen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在得到我的第一台新MacBook后，我应该做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31035887</id>
-        <link href="https://news.ycombinator.com/item?id=31035887"/>
-        <updated>2022-04-15T01:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What should I do after getting my first new MacBook?]]></summary>
-        <author>
-            <name>mraza007</name>
-            <uri>https://news.ycombinator.com/user?id=mraza007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的人不使用Gmail吗？他们为什么不改进它？]]></title>
-        <id>https://news.ycombinator.com/item?id=31035734</id>
-        <link href="https://news.ycombinator.com/item?id=31035734"/>
-        <updated>2022-04-15T01:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do people at Google not use Gmail? Why don't they improve it?]]></summary>
-        <author>
-            <name>mr-pink</name>
-            <uri>https://news.ycombinator.com/user?id=mr-pink</uri>
         </author>
     </entry>
 </feed>
