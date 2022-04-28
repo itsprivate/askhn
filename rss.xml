@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果发生核战争，如何保护数字信息]]></title>
+            <link>https://news.ycombinator.com/item?id=31189858</link>
+            <guid>https://news.ycombinator.com/item?id=31189858</guid>
+            <pubDate>Thu, 28 Apr 2022 07:55:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to protect digital information if there is a nuclear war]]></description>
+        </item>
         <item>
             <title><![CDATA[Facebook的未来和第三方Cookies]]></title>
             <link>https://news.ycombinator.com/item?id=31189600</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31035520</guid>
             <pubDate>Fri, 15 Apr 2022 01:00:53 GMT</pubDate>
             <description><![CDATA[Ask HN: Does a static site need anything more than a simple VM running a server?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[替代Alexa排名（和Cisco Umbrella排名）的产品]]></title>
-            <link>https://news.ycombinator.com/item?id=31035494</link>
-            <guid>https://news.ycombinator.com/item?id=31035494</guid>
-            <pubDate>Fri, 15 Apr 2022 00:56:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Alternatives to Alexa Rank (and Cisco Umbrella Rank)]]></description>
         </item>
     </channel>
 </rss>

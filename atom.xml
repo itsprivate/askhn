@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T07:32:50.939Z</updated>
+    <updated>2022-04-28T08:16:56.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果发生核战争，如何保护数字信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31189858</id>
+        <link href="https://news.ycombinator.com/item?id=31189858"/>
+        <updated>2022-04-28T07:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to protect digital information if there is a nuclear war]]></summary>
+        <author>
+            <name>thraneh</name>
+            <uri>https://news.ycombinator.com/user?id=thraneh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook的未来和第三方Cookies]]></title>
         <id>https://news.ycombinator.com/item?id=31189600</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>swidi</name>
             <uri>https://news.ycombinator.com/user?id=swidi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[替代Alexa排名（和Cisco Umbrella排名）的产品]]></title>
-        <id>https://news.ycombinator.com/item?id=31035494</id>
-        <link href="https://news.ycombinator.com/item?id=31035494"/>
-        <updated>2022-04-15T00:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternatives to Alexa Rank (and Cisco Umbrella Rank)]]></summary>
-        <author>
-            <name>altdataseller</name>
-            <uri>https://news.ycombinator.com/user?id=altdataseller</uri>
         </author>
     </entry>
 </feed>
