@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T05:39:39.213Z</updated>
+    <updated>2022-04-28T06:30:19.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用深度学习模型来解释数学？]]></title>
+        <id>https://news.ycombinator.com/item?id=31189307</id>
+        <link href="https://news.ycombinator.com/item?id=31189307"/>
+        <updated>2022-04-28T06:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to interpret mathematics in terms of deep learning models?]]></summary>
+        <author>
+            <name>starboyy</name>
+            <uri>https://news.ycombinator.com/user?id=starboyy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁负责教育和抚养孩子？]]></title>
         <id>https://news.ycombinator.com/item?id=31189083</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>version_five</name>
             <uri>https://news.ycombinator.com/user?id=version_five</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人们认为地球是围绕着太阳转的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31034390</id>
-        <link href="https://news.ycombinator.com/item?id=31034390"/>
-        <updated>2022-04-14T22:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do people think the Earth revolves around the Sun?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
