@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T06:53:35.534Z</updated>
+    <updated>2022-04-28T07:32:50.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Facebook的未来和第三方Cookies]]></title>
+        <id>https://news.ycombinator.com/item?id=31189600</id>
+        <link href="https://news.ycombinator.com/item?id=31189600"/>
+        <updated>2022-04-28T07:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Facebook's Future and 3rd Party Cookies]]></summary>
+        <author>
+            <name>weatherlite</name>
+            <uri>https://news.ycombinator.com/user?id=weatherlite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是JAMStack？它与带有SSR的SPA有什么不同，如果有的话？]]></title>
         <id>https://news.ycombinator.com/item?id=31189355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>altdataseller</name>
             <uri>https://news.ycombinator.com/user?id=altdataseller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有没有试过黑掉一个门锁？]]></title>
-        <id>https://news.ycombinator.com/item?id=31035343</id>
-        <link href="https://news.ycombinator.com/item?id=31035343"/>
-        <updated>2022-04-15T00:37:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you tried hacking a fob?]]></summary>
-        <author>
-            <name>Jason_Protell</name>
-            <uri>https://news.ycombinator.com/user?id=Jason_Protell</uri>
         </author>
     </entry>
 </feed>
