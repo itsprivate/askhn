@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T01:00:38.169Z</updated>
+    <updated>2022-04-28T03:43:51.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你關注哪些好的RSS提要？]]></title>
+        <id>https://news.ycombinator.com/item?id=31188463</id>
+        <link href="https://news.ycombinator.com/item?id=31188463"/>
+        <updated>2022-04-28T03:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are good RSS feeds you follow?]]></summary>
+        <author>
+            <name>rammy1234</name>
+            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼雲供應商不能顯示瞬時消費/成本？]]></title>
+        <id>https://news.ycombinator.com/item?id=31188131</id>
+        <link href="https://news.ycombinator.com/item?id=31188131"/>
+        <updated>2022-04-28T02:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can’t cloud providers show the instantaneous consumption / cost?]]></summary>
+        <author>
+            <name>SnowHill9902</name>
+            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[還有人經歷過 "AI恐懼症 "嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31187447</id>
+        <link href="https://news.ycombinator.com/item?id=31187447"/>
+        <updated>2022-04-28T00:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone else experiencing 'AI dread'?]]></summary>
+        <author>
+            <name>rebelos</name>
+            <uri>https://news.ycombinator.com/user?id=rebelos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何寫一個X86反彙編程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=31187339</id>
+        <link href="https://news.ycombinator.com/item?id=31187339"/>
+        <updated>2022-04-28T00:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I write an x86 disassembler?]]></summary>
+        <author>
+            <name>houhou312</name>
+            <uri>https://news.ycombinator.com/user?id=houhou312</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[硬件啟動？在預測你的業務方面，有什麼讓你感到驚訝？]]></title>
         <id>https://news.ycombinator.com/item?id=31187280</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>calderwoodra</name>
             <uri>https://news.ycombinator.com/user?id=calderwoodra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你今天開一家公司，你會使用什麼技術棧？]]></title>
-        <id>https://news.ycombinator.com/item?id=31033391</id>
-        <link href="https://news.ycombinator.com/item?id=31033391"/>
-        <updated>2022-04-14T21:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you start a company today, what tech stack would you use?]]></summary>
-        <author>
-            <name>aecorredor</name>
-            <uri>https://news.ycombinator.com/user?id=aecorredor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近的帖子包含美麗的單頁筆記？]]></title>
-        <id>https://news.ycombinator.com/item?id=31032943</id>
-        <link href="https://news.ycombinator.com/item?id=31032943"/>
-        <updated>2022-04-14T20:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recent post containing beautiful single page notes?]]></summary>
-        <author>
-            <name>more_corn</name>
-            <uri>https://news.ycombinator.com/user?id=more_corn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在不破壞早期水平的情況下逐步引入遊戲規則？]]></title>
-        <id>https://news.ycombinator.com/item?id=31032888</id>
-        <link href="https://news.ycombinator.com/item?id=31032888"/>
-        <updated>2022-04-14T20:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to introduce game rules gradually without breaking earlier levels?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果錢不是問題，你會建議一個程序員做什麼職位？]]></title>
-        <id>https://news.ycombinator.com/item?id=31032076</id>
-        <link href="https://news.ycombinator.com/item?id=31032076"/>
-        <updated>2022-04-14T19:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If money were no problem, what chair would you suggest for a programmer?]]></summary>
-        <author>
-            <name>ent101</name>
-            <uri>https://news.ycombinator.com/user?id=ent101</uri>
         </author>
     </entry>
 </feed>
