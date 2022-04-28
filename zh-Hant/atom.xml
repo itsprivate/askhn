@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-04-28T11:13:06.874Z</updated>
+    <updated>2022-04-28T11:28:48.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能幫我找到一個流行的開源工具嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31191141</id>
+        <link href="https://news.ycombinator.com/item?id=31191141"/>
+        <updated>2022-04-28T11:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you help me find a popular open-source tool?]]></summary>
+        <author>
+            <name>speedylight</name>
+            <uri>https://news.ycombinator.com/user?id=speedylight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在不 "洩露 "提案的情況下進行有效的推銷？]]></title>
         <id>https://news.ycombinator.com/item?id=31191089</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway488933</name>
             <uri>https://news.ycombinator.com/user?id=throwaway488933</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜搜索發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31036537</id>
-        <link href="https://news.ycombinator.com/item?id=31036537"/>
-        <updated>2022-04-15T04:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Going on with Amazon Search?]]></summary>
-        <author>
-            <name>mywaifuismeta</name>
-            <uri>https://news.ycombinator.com/user?id=mywaifuismeta</uri>
         </author>
     </entry>
 </feed>
