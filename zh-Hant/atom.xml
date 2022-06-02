@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T18:40:25.158Z</updated>
+    <updated>2022-06-02T19:27:50.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脊科醫生如何工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599170</id>
+        <link href="https://news.ycombinator.com/item?id=31599170"/>
+        <updated>2022-06-02T19:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Do Chiropractors Work?]]></summary>
+        <author>
+            <name>hereforphone</name>
+            <uri>https://news.ycombinator.com/user?id=hereforphone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件能否像汽車一樣具有美感？
 ]]></title>
@@ -6663,17 +6675,6 @@
         <author>
             <name>MichaelRazum</name>
             <uri>https://news.ycombinator.com/user?id=MichaelRazum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼有些網站使用廣告攔截器會變得很慢，如何防止這種情況？]]></title>
-        <id>https://news.ycombinator.com/item?id=31054053</id>
-        <link href="https://news.ycombinator.com/item?id=31054053"/>
-        <updated>2022-04-16T17:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do some sites become slow with ad-blocker and how to prevent that?]]></summary>
-        <author>
-            <name>hidden-spyder</name>
-            <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
         </author>
     </entry>
 </feed>
