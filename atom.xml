@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T15:59:14.156Z</updated>
+    <updated>2022-06-02T16:59:13.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数学/科技研究人员更喜欢使用功能语言吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597112</id>
+        <link href="https://news.ycombinator.com/item?id=31597112"/>
+        <updated>2022-06-02T16:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do math/TCS researchers prefer to use functional languages?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRE在你的组织中意味着什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596830</id>
+        <link href="https://news.ycombinator.com/item?id=31596830"/>
+        <updated>2022-06-02T16:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does SRE mean at your organization?]]></summary>
+        <author>
+            <name>weakfish</name>
+            <uri>https://news.ycombinator.com/user?id=weakfish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的桌面是什么样子的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596745</id>
+        <link href="https://news.ycombinator.com/item?id=31596745"/>
+        <updated>2022-06-02T16:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does your desktop look like?]]></summary>
+        <author>
+            <name>xrayarx</name>
+            <uri>https://news.ycombinator.com/user?id=xrayarx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你喜欢Svelte还是SolidJS？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596572</id>
+        <link href="https://news.ycombinator.com/item?id=31596572"/>
+        <updated>2022-06-02T16:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you prefer Svelte or SolidJS?]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有任何高级别的TUI工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596561</id>
+        <link href="https://news.ycombinator.com/item?id=31596561"/>
+        <updated>2022-06-02T16:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any high-level TUI tools?]]></summary>
+        <author>
+            <name>monroewalker</name>
+            <uri>https://news.ycombinator.com/user?id=monroewalker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习Solidity的最佳资源是什么？
 ]]></title>
@@ -6606,61 +6666,6 @@
         <author>
             <name>_wldu</name>
             <uri>https://news.ycombinator.com/user?id=_wldu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独自创业的创始人，你们是如何扩大规模的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31052580</id>
-        <link href="https://news.ycombinator.com/item?id=31052580"/>
-        <updated>2022-04-16T14:26:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Solo bootstrapped founders, how did you scale?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成为C级高管是否有证书主义？]]></title>
-        <id>https://news.ycombinator.com/item?id=31051987</id>
-        <link href="https://news.ycombinator.com/item?id=31051987"/>
-        <updated>2022-04-16T13:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there credentialism for becoming a C level executive?]]></summary>
-        <author>
-            <name>nnoitra</name>
-            <uri>https://news.ycombinator.com/user?id=nnoitra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会选择高薪还是更有趣的工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=31051955</id>
-        <link href="https://news.ycombinator.com/item?id=31051955"/>
-        <updated>2022-04-16T12:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you choose good pay or more interesting job?]]></summary>
-        <author>
-            <name>euphetar</name>
-            <uri>https://news.ycombinator.com/user?id=euphetar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同行评审是否经常剥夺了教授的学术自由？]]></title>
-        <id>https://news.ycombinator.com/item?id=31051801</id>
-        <link href="https://news.ycombinator.com/item?id=31051801"/>
-        <updated>2022-04-16T12:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does peer review often take away a professor's academic freedom?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在改变我的工作，从堆栈Java到铁锈？这值得吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31051786</id>
-        <link href="https://news.ycombinator.com/item?id=31051786"/>
-        <updated>2022-04-16T12:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I am changing my job from stack Java to rust? Does it worth it?]]></summary>
-        <author>
-            <name>khnov</name>
-            <uri>https://news.ycombinator.com/user?id=khnov</uri>
         </author>
     </entry>
 </feed>
