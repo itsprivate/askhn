@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 02 Jun 2022 17:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 18:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在做什麼工作？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31598206</link>
+            <guid>https://news.ycombinator.com/item?id=31598206</guid>
+            <pubDate>Thu, 02 Jun 2022 17:49:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Are You Working On?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[評估雲供應商的最佳方式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31597839</link>
+            <guid>https://news.ycombinator.com/item?id=31597839</guid>
+            <pubDate>Thu, 02 Jun 2022 17:22:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best ways to eval cloud providers]]></description>
+        </item>
         <item>
             <title><![CDATA[請提及正在從事很酷的項目的開發集體
 ]]></title>
@@ -4255,20 +4271,6 @@
             <guid>https://news.ycombinator.com/item?id=31053836</guid>
             <pubDate>Sat, 16 Apr 2022 16:46:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Are you getting an inflation-adjusted raise this year?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教導學生，編程就像在他們的大腦中添加一個GPU？]]></title>
-            <link>https://news.ycombinator.com/item?id=31053784</link>
-            <guid>https://news.ycombinator.com/item?id=31053784</guid>
-            <pubDate>Sat, 16 Apr 2022 16:41:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Teach students that programming is like adding a GPU to their brains?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通貨膨脹和神奇的99]]></title>
-            <link>https://news.ycombinator.com/item?id=31053644</link>
-            <guid>https://news.ycombinator.com/item?id=31053644</guid>
-            <pubDate>Sat, 16 Apr 2022 16:27:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Inflation and the Magic 99]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T17:27:39.356Z</updated>
+    <updated>2022-06-02T18:01:48.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在做什么工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31598206</id>
+        <link href="https://news.ycombinator.com/item?id=31598206"/>
+        <updated>2022-06-02T17:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Are You Working On?]]></summary>
+        <author>
+            <name>adawg4</name>
+            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[评估云供应商的最佳方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597839</id>
+        <link href="https://news.ycombinator.com/item?id=31597839"/>
+        <updated>2022-06-02T17:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best ways to eval cloud providers]]></summary>
+        <author>
+            <name>AtlasBarfed</name>
+            <uri>https://news.ycombinator.com/user?id=AtlasBarfed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[请提及正在从事很酷的项目的开发集体
 ]]></title>
@@ -6647,28 +6671,6 @@
         <author>
             <name>ferdowsi</name>
             <uri>https://news.ycombinator.com/user?id=ferdowsi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教导学生，编程就像在他们的大脑中添加一个GPU？]]></title>
-        <id>https://news.ycombinator.com/item?id=31053784</id>
-        <link href="https://news.ycombinator.com/item?id=31053784"/>
-        <updated>2022-04-16T16:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Teach students that programming is like adding a GPU to their brains?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通货膨胀和神奇的99]]></title>
-        <id>https://news.ycombinator.com/item?id=31053644</id>
-        <link href="https://news.ycombinator.com/item?id=31053644"/>
-        <updated>2022-04-16T16:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Inflation and the Magic 99]]></summary>
-        <author>
-            <name>groundthrower</name>
-            <uri>https://news.ycombinator.com/user?id=groundthrower</uri>
         </author>
     </entry>
 </feed>
