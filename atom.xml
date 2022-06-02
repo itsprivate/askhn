@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T20:32:30.810Z</updated>
+    <updated>2022-06-02T21:00:16.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么软件工程师的收入比医生高？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600296</id>
+        <link href="https://news.ycombinator.com/item?id=31600296"/>
+        <updated>2022-06-02T20:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do software engineers earn more than doctors?]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在规模化学习系统架构方面有哪些好的资源？
 ]]></title>
@@ -6667,17 +6679,6 @@
         <author>
             <name>pwnna</name>
             <uri>https://news.ycombinator.com/user?id=pwnna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术面试教练？]]></title>
-        <id>https://news.ycombinator.com/item?id=31056971</id>
-        <link href="https://news.ycombinator.com/item?id=31056971"/>
-        <updated>2022-04-16T23:22:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tech Interview Coaches?]]></summary>
-        <author>
-            <name>yasp</name>
-            <uri>https://news.ycombinator.com/user?id=yasp</uri>
         </author>
     </entry>
 </feed>
