@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T21:00:16.258Z</updated>
+    <updated>2022-06-02T22:00:16.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將ublock origin移植到Mac Safari有多難？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600932</id>
+        <link href="https://news.ycombinator.com/item?id=31600932"/>
+        <updated>2022-06-02T21:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How hard would it be to port ublock origin to Mac Safari?]]></summary>
+        <author>
+            <name>librarianscott</name>
+            <uri>https://news.ycombinator.com/user?id=librarianscott</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼軟件工程師的收入比醫生高？
 ]]></title>
@@ -6668,17 +6680,6 @@
         <author>
             <name>SMAAART</name>
             <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未來20-50年耐用的照片庫應用]]></title>
-        <id>https://news.ycombinator.com/item?id=31057140</id>
-        <link href="https://news.ycombinator.com/item?id=31057140"/>
-        <updated>2022-04-16T23:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Durable photo gallery application for the next 20-50 years]]></summary>
-        <author>
-            <name>pwnna</name>
-            <uri>https://news.ycombinator.com/user?id=pwnna</uri>
         </author>
     </entry>
 </feed>
