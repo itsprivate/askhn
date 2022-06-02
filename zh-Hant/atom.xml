@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-02T19:27:50.972Z</updated>
+    <updated>2022-06-02T19:44:43.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的父母告訴他們的朋友，你是做什麼的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599416</id>
+        <link href="https://news.ycombinator.com/item?id=31599416"/>
+        <updated>2022-06-02T19:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does your parent(s) tell their friends that you do?]]></summary>
+        <author>
+            <name>franze</name>
+            <uri>https://news.ycombinator.com/user?id=franze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脊科醫生如何工作？
 ]]></title>
@@ -6664,17 +6676,6 @@
         <author>
             <name>mrmrch</name>
             <uri>https://news.ycombinator.com/user?id=mrmrch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脫機工作8小時？]]></title>
-        <id>https://news.ycombinator.com/item?id=31054415</id>
-        <link href="https://news.ycombinator.com/item?id=31054415"/>
-        <updated>2022-04-16T17:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Working Offline for 8 Hours?]]></summary>
-        <author>
-            <name>MichaelRazum</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelRazum</uri>
         </author>
     </entry>
 </feed>
