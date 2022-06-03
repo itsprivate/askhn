@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T17:09:21.345Z</updated>
+    <updated>2022-06-03T17:39:51.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果美国发生政变，全球金融体系会怎样？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611179</id>
+        <link href="https://news.ycombinator.com/item?id=31611179"/>
+        <updated>2022-06-03T17:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens to the global financial system if the USA has a coup?]]></summary>
+        <author>
+            <name>bwb</name>
+            <uri>https://news.ycombinator.com/user?id=bwb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要更多的工作，该怎么做？
 ]]></title>
@@ -6705,17 +6717,6 @@
         <author>
             <name>simonebrunozzi</name>
             <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人被诊断出患有强迫症吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31067595</id>
-        <link href="https://news.ycombinator.com/item?id=31067595"/>
-        <updated>2022-04-18T04:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else diagnosed with OCD?]]></summary>
-        <author>
-            <name>ocdsmh</name>
-            <uri>https://news.ycombinator.com/user?id=ocdsmh</uri>
         </author>
     </entry>
 </feed>
