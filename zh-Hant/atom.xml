@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T18:00:38.374Z</updated>
+    <updated>2022-06-03T18:36:16.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一個使用權益證明的比特幣分叉？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611924</id>
+        <link href="https://news.ycombinator.com/item?id=31611924"/>
+        <updated>2022-06-03T18:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a fork of Bitcoin that uses Proof of Stake?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[體面的互聯網路由器推薦？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611638</id>
+        <link href="https://news.ycombinator.com/item?id=31611638"/>
+        <updated>2022-06-03T17:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Decent Internet Router Recommendations?]]></summary>
+        <author>
+            <name>axismundi</name>
+            <uri>https://news.ycombinator.com/user?id=axismundi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能倒著播放TENET？
 ]]></title>
@@ -6696,28 +6720,6 @@
         <author>
             <name>dizzydiz</name>
             <uri>https://news.ycombinator.com/user?id=dizzydiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個有經驗的開發者，你是如何學習一種新的編程語言的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31069246</id>
-        <link href="https://news.ycombinator.com/item?id=31069246"/>
-        <updated>2022-04-18T10:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you learn a new programming language as an experienced dev?]]></summary>
-        <author>
-            <name>iamandras</name>
-            <uri>https://news.ycombinator.com/user?id=iamandras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼播客應用程序不使用人工智能來修復語音障礙（例如，口齒不清）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31069233</id>
-        <link href="https://news.ycombinator.com/item?id=31069233"/>
-        <updated>2022-04-18T10:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't podcast apps fix speech impediments (e.g., lisps) using AI?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
