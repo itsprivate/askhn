@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T07:27:42.723Z</updated>
+    <updated>2022-06-03T08:35:17.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何積極的Jira經驗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605556</id>
+        <link href="https://news.ycombinator.com/item?id=31605556"/>
+        <updated>2022-06-03T08:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Positive Jira Experiences?]]></summary>
+        <author>
+            <name>SteadBytes</name>
+            <uri>https://news.ycombinator.com/user?id=SteadBytes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有一個免費計劃嗎？在這裡分享你的產品
 ]]></title>
@@ -6680,17 +6692,6 @@
         <author>
             <name>BOOSTERHIDROGEN</name>
             <uri>https://news.ycombinator.com/user?id=BOOSTERHIDROGEN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由職業者？尋找自由職業者？(2022年4月)]]></title>
-        <id>https://news.ycombinator.com/item?id=31060108</id>
-        <link href="https://news.ycombinator.com/item?id=31060108"/>
-        <updated>2022-04-17T11:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Freelancer? Seeking freelancer? (April 2022)]]></summary>
-        <author>
-            <name>antonschantz</name>
-            <uri>https://news.ycombinator.com/user?id=antonschantz</uri>
         </author>
     </entry>
 </feed>
