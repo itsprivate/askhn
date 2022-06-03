@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T20:48:29.437Z</updated>
+    <updated>2022-06-03T21:46:36.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些在大科技公司工作的人，你們為什麼不開心？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31613898</id>
+        <link href="https://news.ycombinator.com/item?id=31613898"/>
+        <updated>2022-06-03T21:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Those who are working at big tech, why aren't you happy?]]></summary>
+        <author>
+            <name>going_ham</name>
+            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些有趣的、可以對話的GitHub倉庫可以供人使用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31613893</id>
+        <link href="https://news.ycombinator.com/item?id=31613893"/>
+        <updated>2022-06-03T21:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some fun, conversational GitHub repos to contribute to?]]></summary>
+        <author>
+            <name>julianeon</name>
+            <uri>https://news.ycombinator.com/user?id=julianeon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何將敏感數據從數以千計的不信任的設備上寫入S3？
 ]]></title>
@@ -6699,28 +6723,6 @@
         <author>
             <name>MobileVet</name>
             <uri>https://news.ycombinator.com/user?id=MobileVet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為我的諮詢公司提供諮詢？]]></title>
-        <id>https://news.ycombinator.com/item?id=31069973</id>
-        <link href="https://news.ycombinator.com/item?id=31069973"/>
-        <updated>2022-04-18T12:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Consulting for My Consultancy?]]></summary>
-        <author>
-            <name>__afk__</name>
-            <uri>https://news.ycombinator.com/user?id=__afk__</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS激活創始人之後的生活]]></title>
-        <id>https://news.ycombinator.com/item?id=31069380</id>
-        <link href="https://news.ycombinator.com/item?id=31069380"/>
-        <updated>2022-04-18T11:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Life After AWS Activate Founders]]></summary>
-        <author>
-            <name>alexwarwick</name>
-            <uri>https://news.ycombinator.com/user?id=alexwarwick</uri>
         </author>
     </entry>
 </feed>
