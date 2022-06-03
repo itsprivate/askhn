@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 03 Jun 2022 10:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 11:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[現代C++工作流程？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31606799</link>
+            <guid>https://news.ycombinator.com/item?id=31606799</guid>
+            <pubDate>Fri, 03 Jun 2022 11:13:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Modern C++ Workflow?]]></description>
+        </item>
         <item>
             <title><![CDATA[Docker Swarm模式對你來說足夠了嗎？
 ]]></title>
@@ -4290,13 +4298,6 @@
             <guid>https://news.ycombinator.com/item?id=31062111</guid>
             <pubDate>Sun, 17 Apr 2022 16:39:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Should I Get Chickens?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼LEB128和VLQ使用128進制而不是64進制？]]></title>
-            <link>https://news.ycombinator.com/item?id=31061955</link>
-            <guid>https://news.ycombinator.com/item?id=31061955</guid>
-            <pubDate>Sun, 17 Apr 2022 16:20:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why LEB128 and VLQ use Base 128 instead of 64?]]></description>
         </item>
     </channel>
 </rss>

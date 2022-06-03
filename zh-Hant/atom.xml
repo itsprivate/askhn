@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T10:34:32.122Z</updated>
+    <updated>2022-06-03T11:26:05.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現代C++工作流程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31606799</id>
+        <link href="https://news.ycombinator.com/item?id=31606799"/>
+        <updated>2022-06-03T11:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Modern C++ Workflow?]]></summary>
+        <author>
+            <name>DistrictFun7572</name>
+            <uri>https://news.ycombinator.com/user?id=DistrictFun7572</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker Swarm模式對你來說足夠了嗎？
 ]]></title>
@@ -6686,17 +6698,6 @@
         <author>
             <name>pkdpic</name>
             <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼LEB128和VLQ使用128進制而不是64進制？]]></title>
-        <id>https://news.ycombinator.com/item?id=31061955</id>
-        <link href="https://news.ycombinator.com/item?id=31061955"/>
-        <updated>2022-04-17T16:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why LEB128 and VLQ use Base 128 instead of 64?]]></summary>
-        <author>
-            <name>conaclos</name>
-            <uri>https://news.ycombinator.com/user?id=conaclos</uri>
         </author>
     </entry>
 </feed>
