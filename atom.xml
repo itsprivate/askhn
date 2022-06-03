@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T14:47:44.041Z</updated>
+    <updated>2022-06-03T15:35:26.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[缩放和测量工程生产力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609471</id>
+        <link href="https://news.ycombinator.com/item?id=31609471"/>
+        <updated>2022-06-03T15:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Scaling and Measuring Engineering Productivity]]></summary>
+        <author>
+            <name>cube2222</name>
+            <uri>https://news.ycombinator.com/user?id=cube2222</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何维护一个杀手级的产品文档页面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609219</id>
+        <link href="https://news.ycombinator.com/item?id=31609219"/>
+        <updated>2022-06-03T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to maintain a killer product documentation page]]></summary>
+        <author>
+            <name>kostarelo</name>
+            <uri>https://news.ycombinator.com/user?id=kostarelo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索歌词的最佳方式？
 ]]></title>
@@ -6685,28 +6709,6 @@
         <author>
             <name>iamstupidsimple</name>
             <uri>https://news.ycombinator.com/user?id=iamstupidsimple</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知道一些好的C语言编程社区吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31064717</id>
-        <link href="https://news.ycombinator.com/item?id=31064717"/>
-        <updated>2022-04-17T21:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Know some Good C programming communities?]]></summary>
-        <author>
-            <name>leakbang</name>
-            <uri>https://news.ycombinator.com/user?id=leakbang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta就是垃圾邮件吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31064714</id>
-        <link href="https://news.ycombinator.com/item?id=31064714"/>
-        <updated>2022-04-17T21:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Okta Just Spam?]]></summary>
-        <author>
-            <name>jjtheblunt</name>
-            <uri>https://news.ycombinator.com/user?id=jjtheblunt</uri>
         </author>
     </entry>
 </feed>
