@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T17:39:51.753Z</updated>
+    <updated>2022-06-03T18:00:38.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能倒著播放TENET？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611460</id>
+        <link href="https://news.ycombinator.com/item?id=31611460"/>
+        <updated>2022-06-03T17:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I play TENET backwards?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果美國發生政變，全球金融體系會怎樣？
 ]]></title>
@@ -6706,17 +6718,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有現代克隆的桌面塔防？]]></title>
-        <id>https://news.ycombinator.com/item?id=31068799</id>
-        <link href="https://news.ycombinator.com/item?id=31068799"/>
-        <updated>2022-04-18T09:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why there's no modern clone of Desktop Tower Defense?]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
         </author>
     </entry>
 </feed>
