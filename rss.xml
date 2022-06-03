@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 03 Jun 2022 15:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 16:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你对NFT有什么看法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31610020</link>
+            <guid>https://news.ycombinator.com/item?id=31610020</guid>
+            <pubDate>Fri, 03 Jun 2022 15:53:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you think about NFTs?]]></description>
+        </item>
         <item>
             <title><![CDATA[对变更数据采集的完整代码实例感兴趣？
 ]]></title>
@@ -4305,13 +4313,6 @@
             <guid>https://news.ycombinator.com/item?id=31066817</guid>
             <pubDate>Mon, 18 Apr 2022 02:53:40 GMT</pubDate>
             <description><![CDATA[Ask HN: Is the inverse of Conway's Law valid, in your experience?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否迷失/困惑/困顿？我可以尝试帮助你]]></title>
-            <link>https://news.ycombinator.com/item?id=31065876</link>
-            <guid>https://news.ycombinator.com/item?id=31065876</guid>
-            <pubDate>Mon, 18 Apr 2022 00:15:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are you lost / confused / stuck? I can try to help]]></description>
         </item>
     </channel>
 </rss>
