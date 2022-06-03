@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T14:26:36.021Z</updated>
+    <updated>2022-06-03T14:47:44.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索歌词的最佳方式？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31608811</id>
+        <link href="https://news.ycombinator.com/item?id=31608811"/>
+        <updated>2022-06-03T14:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Way to Search for Lyrics?]]></summary>
+        <author>
+            <name>johan_felisaz</name>
+            <uri>https://news.ycombinator.com/user?id=johan_felisaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉和其他自动驾驶团队做了多少负面测试？
 ]]></title>
@@ -6695,17 +6707,6 @@
         <author>
             <name>jjtheblunt</name>
             <uri>https://news.ycombinator.com/user?id=jjtheblunt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪部电影最能代表你的黑客文化？]]></title>
-        <id>https://news.ycombinator.com/item?id=31064488</id>
-        <link href="https://news.ycombinator.com/item?id=31064488"/>
-        <updated>2022-04-17T21:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which movie(s) best represent hacker culture for you?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
