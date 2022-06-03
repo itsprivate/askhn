@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 03 Jun 2022 18:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 20:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何将敏感数据从数以千计的不信任的设备上写入S3？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31613327</link>
+            <guid>https://news.ycombinator.com/item?id=31613327</guid>
+            <pubDate>Fri, 03 Jun 2022 20:37:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to write sensitive data to S3 from thousands of untrusted devices?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有一个使用权益证明的比特币分叉？
 ]]></title>
@@ -4313,13 +4321,6 @@
             <guid>https://news.ycombinator.com/item?id=31069380</guid>
             <pubDate>Mon, 18 Apr 2022 11:29:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Life After AWS Activate Founders]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何挑选专业？]]></title>
-            <link>https://news.ycombinator.com/item?id=31069332</link>
-            <guid>https://news.ycombinator.com/item?id=31069332</guid>
-            <pubDate>Mon, 18 Apr 2022 11:18:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to Pick a Specialisation?]]></description>
         </item>
     </channel>
 </rss>
