@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T16:04:10.831Z</updated>
+    <updated>2022-06-03T16:46:31.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在溝通方面做得更好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31610220</id>
+        <link href="https://news.ycombinator.com/item?id=31610220"/>
+        <updated>2022-06-03T16:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Get Better at Communication?]]></summary>
+        <author>
+            <name>girgiti</name>
+            <uri>https://news.ycombinator.com/user?id=girgiti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對NFT有什麼看法？
 ]]></title>
@@ -6702,17 +6714,6 @@
         <author>
             <name>wonderbore</name>
             <uri>https://news.ycombinator.com/user?id=wonderbore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據你的經驗，康威法則的反面是否有效？]]></title>
-        <id>https://news.ycombinator.com/item?id=31066817</id>
-        <link href="https://news.ycombinator.com/item?id=31066817"/>
-        <updated>2022-04-18T02:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the inverse of Conway's Law valid, in your experience?]]></summary>
-        <author>
-            <name>toomanyrichies</name>
-            <uri>https://news.ycombinator.com/user?id=toomanyrichies</uri>
         </author>
     </entry>
 </feed>
