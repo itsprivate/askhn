@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-03T08:35:17.404Z</updated>
+    <updated>2022-06-03T08:51:03.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在计算机科学中获得更好的数学符号知识
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605783</id>
+        <link href="https://news.ycombinator.com/item?id=31605783"/>
+        <updated>2022-06-03T08:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get better knowledge about math notations in computer science]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何记录你的个人财务状况？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605741</id>
+        <link href="https://news.ycombinator.com/item?id=31605741"/>
+        <updated>2022-06-03T08:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you record your personal finances?]]></summary>
+        <author>
+            <name>mdrzn</name>
+            <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何积极的Jira经验？
 ]]></title>
@@ -6670,28 +6694,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为大型开源项目构建系统]]></title>
-        <id>https://news.ycombinator.com/item?id=31060360</id>
-        <link href="https://news.ycombinator.com/item?id=31060360"/>
-        <updated>2022-04-17T12:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Build systems for large open source projects]]></summary>
-        <author>
-            <name>tiernano</name>
-            <uri>https://news.ycombinator.com/user?id=tiernano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何培养孩子对科学的兴趣？]]></title>
-        <id>https://news.ycombinator.com/item?id=31060117</id>
-        <link href="https://news.ycombinator.com/item?id=31060117"/>
-        <updated>2022-04-17T11:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Cultivate Child's Interest in Science?]]></summary>
-        <author>
-            <name>BOOSTERHIDROGEN</name>
-            <uri>https://news.ycombinator.com/user?id=BOOSTERHIDROGEN</uri>
         </author>
     </entry>
 </feed>
