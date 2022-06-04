@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T05:24:22.144Z</updated>
+    <updated>2022-06-04T05:58:47.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[能正确使用一种语言教授设计模式的资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617377</id>
+        <link href="https://news.ycombinator.com/item?id=31617377"/>
+        <updated>2022-06-04T05:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources that teach design patterns using a language correctly?]]></summary>
+        <author>
+            <name>gymshoes</name>
+            <uri>https://news.ycombinator.com/user?id=gymshoes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该如何处理围绕分析和销售的故意不当行为？
 ]]></title>
@@ -6717,17 +6729,6 @@
         <author>
             <name>throwaway894345</name>
             <uri>https://news.ycombinator.com/user?id=throwaway894345</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我烧掉了，但我不想让我的团队失望]]></title>
-        <id>https://news.ycombinator.com/item?id=31072465</id>
-        <link href="https://news.ycombinator.com/item?id=31072465"/>
-        <updated>2022-04-18T15:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I burned out but I don't want to let my team down]]></summary>
-        <author>
-            <name>burnedoutanon</name>
-            <uri>https://news.ycombinator.com/user?id=burnedoutanon</uri>
         </author>
     </entry>
 </feed>
