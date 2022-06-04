@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T05:58:47.129Z</updated>
+    <updated>2022-06-04T07:43:49.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於一個糟糕的招聘人員，我有什麼辦法嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617949</id>
+        <link href="https://news.ycombinator.com/item?id=31617949"/>
+        <updated>2022-06-04T07:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there anything I can do about a terrible recruiter?]]></summary>
+        <author>
+            <name>AdvicePlz</name>
+            <uri>https://news.ycombinator.com/user?id=AdvicePlz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能正確使用一種語言教授設計模式的資源？
 ]]></title>
@@ -6718,17 +6730,6 @@
         <author>
             <name>pdevr</name>
             <uri>https://news.ycombinator.com/user?id=pdevr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼DMCA規避禁令沒有被廢除？]]></title>
-        <id>https://news.ycombinator.com/item?id=31072931</id>
-        <link href="https://news.ycombinator.com/item?id=31072931"/>
-        <updated>2022-04-18T16:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why has DMCA Circumvention Prohibition not been repealed?]]></summary>
-        <author>
-            <name>throwaway894345</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway894345</uri>
         </author>
     </entry>
 </feed>
