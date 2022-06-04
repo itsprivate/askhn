@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T15:47:54.297Z</updated>
+    <updated>2022-06-04T16:00:48.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的生活中，有哪些变化是你所做的，并且从不回头的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621780</id>
+        <link href="https://news.ycombinator.com/item?id=31621780"/>
+        <updated>2022-06-04T15:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the changes you made in your life and never look back?]]></summary>
+        <author>
+            <name>saadalem</name>
+            <uri>https://news.ycombinator.com/user?id=saadalem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你从哪里获得演讲用的剪贴画？
 ]]></title>
@@ -6736,17 +6748,6 @@
         <author>
             <name>airbreather</name>
             <uri>https://news.ycombinator.com/user?id=airbreather</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最喜欢的电影海报？]]></title>
-        <id>https://news.ycombinator.com/item?id=31076907</id>
-        <link href="https://news.ycombinator.com/item?id=31076907"/>
-        <updated>2022-04-18T21:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Favourite Movie Poster(s)?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
         </author>
     </entry>
 </feed>
