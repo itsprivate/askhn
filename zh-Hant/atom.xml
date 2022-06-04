@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T20:45:45.447Z</updated>
+    <updated>2022-06-04T20:59:51.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你不覺得注意力經濟已經吞噬了信息時代嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624879</id>
+        <link href="https://news.ycombinator.com/item?id=31624879"/>
+        <updated>2022-06-04T20:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Don't you feel attention economy has cannibalized the age of information]]></summary>
+        <author>
+            <name>wilmerags</name>
+            <uri>https://news.ycombinator.com/user?id=wilmerags</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的碩士/研究生課程值得嗎？
 ]]></title>
@@ -6748,17 +6760,6 @@
         <author>
             <name>nodesocket</name>
             <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理你的家人的電子郵件？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079215</id>
-        <link href="https://news.ycombinator.com/item?id=31079215"/>
-        <updated>2022-04-19T02:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your family's email?]]></summary>
-        <author>
-            <name>KennyFromIT</name>
-            <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
         </author>
     </entry>
 </feed>
