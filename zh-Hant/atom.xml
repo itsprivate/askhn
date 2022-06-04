@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T17:28:11.204Z</updated>
+    <updated>2022-06-04T17:46:47.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你寫了一本書嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31623057</id>
+        <link href="https://news.ycombinator.com/item?id=31623057"/>
+        <updated>2022-06-04T17:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did You Write a Book?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何（從法律上）管理一個地理分佈的社區？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31623024</id>
+        <link href="https://news.ycombinator.com/item?id=31623024"/>
+        <updated>2022-06-04T17:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to manage (legally) a geographically distributed community?]]></summary>
+        <author>
+            <name>rambojazz</name>
+            <uri>https://news.ycombinator.com/user?id=rambojazz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量子計算發生了什麼？
 ]]></title>
@@ -6729,28 +6753,6 @@
         <author>
             <name>logicallee</name>
             <uri>https://news.ycombinator.com/user?id=logicallee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[極端的MacBook發貨延遲？]]></title>
-        <id>https://news.ycombinator.com/item?id=31078038</id>
-        <link href="https://news.ycombinator.com/item?id=31078038"/>
-        <updated>2022-04-18T23:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Extreme MacBook Shipping Delays?]]></summary>
-        <author>
-            <name>dv35z</name>
-            <uri>https://news.ycombinator.com/user?id=dv35z</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否應該從SRE轉到Security？]]></title>
-        <id>https://news.ycombinator.com/item?id=31078029</id>
-        <link href="https://news.ycombinator.com/item?id=31078029"/>
-        <updated>2022-04-18T23:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I switch from SRE to Security?]]></summary>
-        <author>
-            <name>woodbinebeach</name>
-            <uri>https://news.ycombinator.com/user?id=woodbinebeach</uri>
         </author>
     </entry>
 </feed>

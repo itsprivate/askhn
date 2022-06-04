@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 04 Jun 2022 17:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你写了一本书吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31623057</link>
+            <guid>https://news.ycombinator.com/item?id=31623057</guid>
+            <pubDate>Sat, 04 Jun 2022 17:34:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did You Write a Book?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何（从法律上）管理一个地理分布的社区？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31623024</link>
+            <guid>https://news.ycombinator.com/item?id=31623024</guid>
+            <pubDate>Sat, 04 Jun 2022 17:31:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to manage (legally) a geographically distributed community?]]></description>
+        </item>
         <item>
             <title><![CDATA[量子计算发生了什么？
 ]]></title>
@@ -4337,20 +4353,6 @@
             <guid>https://news.ycombinator.com/item?id=31078112</guid>
             <pubDate>Mon, 18 Apr 2022 23:37:23 GMT</pubDate>
             <description><![CDATA[Ask HN: How much would you need to be paid today to be on-call 24/7 forever]]></description>
-        </item>
-        <item>
-            <title><![CDATA[极端的MacBook发货延迟？]]></title>
-            <link>https://news.ycombinator.com/item?id=31078038</link>
-            <guid>https://news.ycombinator.com/item?id=31078038</guid>
-            <pubDate>Mon, 18 Apr 2022 23:29:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Extreme MacBook Shipping Delays?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是否应该从SRE转到Security？]]></title>
-            <link>https://news.ycombinator.com/item?id=31078029</link>
-            <guid>https://news.ycombinator.com/item?id=31078029</guid>
-            <pubDate>Mon, 18 Apr 2022 23:28:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I switch from SRE to Security?]]></description>
         </item>
     </channel>
 </rss>
