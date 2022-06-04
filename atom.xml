@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T18:50:35.119Z</updated>
+    <updated>2022-06-04T20:00:10.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有人对亚马逊迅速失去信心吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624401</id>
+        <link href="https://news.ycombinator.com/item?id=31624401"/>
+        <updated>2022-06-04T19:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else quickly losing confidence in Amazon?]]></summary>
+        <author>
+            <name>d23</name>
+            <uri>https://news.ycombinator.com/user?id=d23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Perl被认为是一种糟糕的语言？
 ]]></title>
@@ -6743,17 +6755,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么HN上有这么多的讽刺？]]></title>
-        <id>https://news.ycombinator.com/item?id=31078452</id>
-        <link href="https://news.ycombinator.com/item?id=31078452"/>
-        <updated>2022-04-19T00:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there so much snark on HN?]]></summary>
-        <author>
-            <name>bjourne</name>
-            <uri>https://news.ycombinator.com/user?id=bjourne</uri>
         </author>
     </entry>
 </feed>
