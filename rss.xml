@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 04 Jun 2022 14:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 14:58:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RAII的术语应该是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31621013</link>
+            <guid>https://news.ycombinator.com/item?id=31621013</guid>
+            <pubDate>Sat, 04 Jun 2022 14:55:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What should have been the term for RAII?]]></description>
+        </item>
         <item>
             <title><![CDATA[对于国际分布的团队来说，什么是最好的管辖权？
 ]]></title>
@@ -4337,13 +4345,6 @@
             <guid>https://news.ycombinator.com/item?id=31076786</guid>
             <pubDate>Mon, 18 Apr 2022 21:25:54 GMT</pubDate>
             <description><![CDATA[Ask HN: Crawl HN Linked Articles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何回应雇主拒绝开放我的图书馆的请求？]]></title>
-            <link>https://news.ycombinator.com/item?id=31076446</link>
-            <guid>https://news.ycombinator.com/item?id=31076446</guid>
-            <pubDate>Mon, 18 Apr 2022 20:57:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to respond to employer denying request to open source my library?]]></description>
         </item>
     </channel>
 </rss>

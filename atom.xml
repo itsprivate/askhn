@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T14:44:38.697Z</updated>
+    <updated>2022-06-04T14:58:57.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RAII的术语应该是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621013</id>
+        <link href="https://news.ycombinator.com/item?id=31621013"/>
+        <updated>2022-06-04T14:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should have been the term for RAII?]]></summary>
+        <author>
+            <name>beaukin</name>
+            <uri>https://news.ycombinator.com/user?id=beaukin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于国际分布的团队来说，什么是最好的管辖权？
 ]]></title>
@@ -6733,17 +6745,6 @@
         <author>
             <name>agencies</name>
             <uri>https://news.ycombinator.com/user?id=agencies</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何回应雇主拒绝开放我的图书馆的请求？]]></title>
-        <id>https://news.ycombinator.com/item?id=31076446</id>
-        <link href="https://news.ycombinator.com/item?id=31076446"/>
-        <updated>2022-04-18T20:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to respond to employer denying request to open source my library?]]></summary>
-        <author>
-            <name>mfbx9da4</name>
-            <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
         </author>
     </entry>
 </feed>
