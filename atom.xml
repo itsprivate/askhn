@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T11:25:43.305Z</updated>
+    <updated>2022-06-04T11:59:14.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在欧洲开办有机农场的SWE，你去了哪里？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619263</id>
+        <link href="https://news.ycombinator.com/item?id=31619263"/>
+        <updated>2022-06-04T11:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SWE who started an organic farm in Europe, where did you go?]]></summary>
+        <author>
+            <name>recvonline</name>
+            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是在元老院里闲逛吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619206</id>
+        <link href="https://news.ycombinator.com/item?id=31619206"/>
+        <updated>2022-06-04T11:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you hanging out in the metaverse?]]></summary>
+        <author>
+            <name>recvonline</name>
+            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在任何地方，最便宜的（商业上可用的）虚拟机是什么？
 ]]></title>
@@ -6716,28 +6740,6 @@
         <author>
             <name>5ESS</name>
             <uri>https://news.ycombinator.com/user?id=5ESS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司是如何做到既保密又保证发布质量的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31073754</id>
-        <link href="https://news.ycombinator.com/item?id=31073754"/>
-        <updated>2022-04-18T17:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does Apple achieve both secrecy and quality for a release?]]></summary>
-        <author>
-            <name>billti</name>
-            <uri>https://news.ycombinator.com/user?id=billti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Java后端开发转向系统编程开发？]]></title>
-        <id>https://news.ycombinator.com/item?id=31075470</id>
-        <link href="https://news.ycombinator.com/item?id=31075470"/>
-        <updated>2022-04-18T19:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Switching from Java Back end dev to systems programming dev?]]></summary>
-        <author>
-            <name>3a2d29</name>
-            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
         </author>
     </entry>
 </feed>
