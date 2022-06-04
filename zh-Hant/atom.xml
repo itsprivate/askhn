@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T17:46:47.129Z</updated>
+    <updated>2022-06-04T18:50:35.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Perl被認為是一種糟糕的語言？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31623729</id>
+        <link href="https://news.ycombinator.com/item?id=31623729"/>
+        <updated>2022-06-04T18:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Perl considered a bad language?]]></summary>
+        <author>
+            <name>thatwasunusual</name>
+            <uri>https://news.ycombinator.com/user?id=thatwasunusual</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你寫了一本書嗎？
 ]]></title>
@@ -6742,17 +6754,6 @@
         <author>
             <name>bjourne</name>
             <uri>https://news.ycombinator.com/user?id=bjourne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天你需要得到多少錢才能永遠24小時待命？]]></title>
-        <id>https://news.ycombinator.com/item?id=31078112</id>
-        <link href="https://news.ycombinator.com/item?id=31078112"/>
-        <updated>2022-04-18T23:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much would you need to be paid today to be on-call 24/7 forever]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
         </author>
     </entry>
 </feed>

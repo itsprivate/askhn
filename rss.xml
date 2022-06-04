@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 04 Jun 2022 17:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 18:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Perl被认为是一种糟糕的语言？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31623729</link>
+            <guid>https://news.ycombinator.com/item?id=31623729</guid>
+            <pubDate>Sat, 04 Jun 2022 18:37:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is Perl considered a bad language?]]></description>
+        </item>
         <item>
             <title><![CDATA[你写了一本书吗？
 ]]></title>
@@ -4346,13 +4354,6 @@
             <guid>https://news.ycombinator.com/item?id=31078452</guid>
             <pubDate>Tue, 19 Apr 2022 00:28:07 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is there so much snark on HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今天你需要得到多少钱才能永远24小时待命？]]></title>
-            <link>https://news.ycombinator.com/item?id=31078112</link>
-            <guid>https://news.ycombinator.com/item?id=31078112</guid>
-            <pubDate>Mon, 18 Apr 2022 23:37:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: How much would you need to be paid today to be on-call 24/7 forever]]></description>
         </item>
     </channel>
 </rss>
