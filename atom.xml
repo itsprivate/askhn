@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T15:27:21.449Z</updated>
+    <updated>2022-06-04T15:47:54.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你从哪里获得演讲用的剪贴画？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621443</id>
+        <link href="https://news.ycombinator.com/item?id=31621443"/>
+        <updated>2022-06-04T15:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you get clip arts for presentations?]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[列出正在招聘的有趣的IPO前创业公司的网站
 ]]></title>
@@ -6735,17 +6747,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有办法注销谷歌账户？]]></title>
-        <id>https://news.ycombinator.com/item?id=31076881</id>
-        <link href="https://news.ycombinator.com/item?id=31076881"/>
-        <updated>2022-04-18T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no way to log out of a Google account?]]></summary>
-        <author>
-            <name>ent101</name>
-            <uri>https://news.ycombinator.com/user?id=ent101</uri>
         </author>
     </entry>
 </feed>
