@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T12:43:12.115Z</updated>
+    <updated>2022-06-04T13:39:38.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么代码图的生成工具没有更普遍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31620002</id>
+        <link href="https://news.ycombinator.com/item?id=31620002"/>
+        <updated>2022-06-04T13:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't code diagram generating tools more common?]]></summary>
+        <author>
+            <name>lurker137</name>
+            <uri>https://news.ycombinator.com/user?id=lurker137</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当工具很糟糕时，广告如何成为谷歌的主要收入来源？
 ]]></title>
@@ -6730,17 +6742,6 @@
         <author>
             <name>V__</name>
             <uri>https://news.ycombinator.com/user?id=V__</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有人面临3DS中断的情况？]]></title>
-        <id>https://news.ycombinator.com/item?id=31075587</id>
-        <link href="https://news.ycombinator.com/item?id=31075587"/>
-        <updated>2022-04-18T19:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone facing 3DS outage on stripe?]]></summary>
-        <author>
-            <name>jinen83</name>
-            <uri>https://news.ycombinator.com/user?id=jinen83</uri>
         </author>
     </entry>
 </feed>
