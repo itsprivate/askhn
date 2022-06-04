@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T07:43:48.963Z</updated>
+    <updated>2022-06-04T08:32:30.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些网站可以帮助我完善我的简历？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618113</id>
+        <link href="https://news.ycombinator.com/item?id=31618113"/>
+        <updated>2022-06-04T08:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What sites are there which can help me refine my CV?]]></summary>
+        <author>
+            <name>adam_ellsworth</name>
+            <uri>https://news.ycombinator.com/user?id=adam_ellsworth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有其他软件/网络像比特币一样有弹性？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618047</id>
+        <link href="https://news.ycombinator.com/item?id=31618047"/>
+        <updated>2022-06-04T08:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any other software/networks as resilient as Bitcoin?]]></summary>
+        <author>
+            <name>rjakobsson</name>
+            <uri>https://news.ycombinator.com/user?id=rjakobsson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于一个糟糕的招聘人员，我有什么办法吗？
 ]]></title>
@@ -6708,28 +6732,6 @@
         <author>
             <name>anonymousnotme</name>
             <uri>https://news.ycombinator.com/user?id=anonymousnotme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何处理CSV？]]></title>
-        <id>https://news.ycombinator.com/item?id=31073429</id>
-        <link href="https://news.ycombinator.com/item?id=31073429"/>
-        <updated>2022-04-18T17:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Deal with CSVs?]]></summary>
-        <author>
-            <name>nullbytesmatter</name>
-            <uri>https://news.ycombinator.com/user?id=nullbytesmatter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新的主流解析器是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31073421</id>
-        <link href="https://news.ycombinator.com/item?id=31073421"/>
-        <updated>2022-04-18T17:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the latest mainstream parser?]]></summary>
-        <author>
-            <name>pdevr</name>
-            <uri>https://news.ycombinator.com/user?id=pdevr</uri>
         </author>
     </entry>
 </feed>
