@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T20:59:51.216Z</updated>
+    <updated>2022-06-04T21:26:29.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在生活中，有哪些反直覺的事情？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31625095</id>
+        <link href="https://news.ycombinator.com/item?id=31625095"/>
+        <updated>2022-06-04T21:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some counterintuitive things in life?]]></summary>
+        <author>
+            <name>joeamroo</name>
+            <uri>https://news.ycombinator.com/user?id=joeamroo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你不覺得注意力經濟已經吞噬了信息時代嗎？
 ]]></title>
@@ -6749,17 +6761,6 @@
         <author>
             <name>hn_throwaway_99</name>
             <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面具任務剛剛在聯邦法院被駁回，卻沒有故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079275</id>
-        <link href="https://news.ycombinator.com/item?id=31079275"/>
-        <updated>2022-04-19T02:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: The mask mandate was just struck down in federal court, yet no stories?]]></summary>
-        <author>
-            <name>nodesocket</name>
-            <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
         </author>
     </entry>
 </feed>
