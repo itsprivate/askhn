@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 04 Jun 2022 14:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 15:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[列出正在招聘的有趣的IPO前创业公司的网站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31621218</link>
+            <guid>https://news.ycombinator.com/item?id=31621218</guid>
+            <pubDate>Sat, 04 Jun 2022 15:11:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Website listing interesting pre-IPO startups that are hiring]]></description>
+        </item>
         <item>
             <title><![CDATA[RAII的术语应该是什么？
 ]]></title>
@@ -4338,13 +4346,6 @@
             <guid>https://news.ycombinator.com/item?id=31076881</guid>
             <pubDate>Mon, 18 Apr 2022 21:34:00 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is there no way to log out of a Google account?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[抓取HN链接文章]]></title>
-            <link>https://news.ycombinator.com/item?id=31076786</link>
-            <guid>https://news.ycombinator.com/item?id=31076786</guid>
-            <pubDate>Mon, 18 Apr 2022 21:25:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Crawl HN Linked Articles]]></description>
         </item>
     </channel>
 </rss>
