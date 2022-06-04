@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T11:59:14.737Z</updated>
+    <updated>2022-06-04T12:43:12.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當工具很糟糕時，廣告如何成為谷歌的主要收入來源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619540</id>
+        <link href="https://news.ycombinator.com/item?id=31619540"/>
+        <updated>2022-06-04T12:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is ads Google's primary source of income when the tooling is awful?]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在歐洲開辦有機農場的SWE，你去了哪裡？
 ]]></title>
@@ -6729,17 +6741,6 @@
         <author>
             <name>jinen83</name>
             <uri>https://news.ycombinator.com/user?id=jinen83</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什麼阻止了一個隨機的USB設備對Windows進行ROOT？]]></title>
-        <id>https://news.ycombinator.com/item?id=31075571</id>
-        <link href="https://news.ycombinator.com/item?id=31075571"/>
-        <updated>2022-04-18T19:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What stops a random USB device from rooting Windows?]]></summary>
-        <author>
-            <name>5ESS</name>
-            <uri>https://news.ycombinator.com/user?id=5ESS</uri>
         </author>
     </entry>
 </feed>

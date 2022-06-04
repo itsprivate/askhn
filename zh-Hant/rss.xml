@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 04 Jun 2022 11:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 12:43:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[當工具很糟糕時，廣告如何成為谷歌的主要收入來源？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619540</link>
+            <guid>https://news.ycombinator.com/item?id=31619540</guid>
+            <pubDate>Sat, 04 Jun 2022 12:29:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: How is ads Google's primary source of income when the tooling is awful?]]></description>
+        </item>
         <item>
             <title><![CDATA[在歐洲開辦有機農場的SWE，你去了哪裡？
 ]]></title>
@@ -4333,13 +4341,6 @@
             <guid>https://news.ycombinator.com/item?id=31075587</guid>
             <pubDate>Mon, 18 Apr 2022 19:51:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Is anyone facing 3DS outage on stripe?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什麼阻止了一個隨機的USB設備對Windows進行ROOT？]]></title>
-            <link>https://news.ycombinator.com/item?id=31075571</link>
-            <guid>https://news.ycombinator.com/item?id=31075571</guid>
-            <pubDate>Mon, 18 Apr 2022 19:50:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: What stops a random USB device from rooting Windows?]]></description>
         </item>
     </channel>
 </rss>
