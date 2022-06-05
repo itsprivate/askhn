@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T21:45:34.808Z</updated>
+    <updated>2022-06-05T22:26:38.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為學習型索引保留順序的哈希值
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31635291</id>
+        <link href="https://news.ycombinator.com/item?id=31635291"/>
+        <updated>2022-06-05T22:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Order preserving hashes for learned Indexes]]></summary>
+        <author>
+            <name>scrubs</name>
+            <uri>https://news.ycombinator.com/user?id=scrubs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從技術中設計產品的啟發式方法？
 ]]></title>
@@ -6781,17 +6793,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你們對塔羅牌或其他形而上學的東西有什麼看法？]]></title>
-        <id>https://news.ycombinator.com/item?id=31086805</id>
-        <link href="https://news.ycombinator.com/item?id=31086805"/>
-        <updated>2022-04-19T18:19:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you guys think of Tarot or other metaphysical things?]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
         </author>
     </entry>
 </feed>
