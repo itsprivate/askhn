@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T16:38:34.440Z</updated>
+    <updated>2022-06-05T17:28:24.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么垂直视频如此受欢迎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31632917</id>
+        <link href="https://news.ycombinator.com/item?id=31632917"/>
+        <updated>2022-06-05T17:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is vertical video so popular?]]></summary>
+        <author>
+            <name>night-rider</name>
+            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于现有的程序员来说，学习JavaScript的最佳资源是什么？
 ]]></title>
@@ -6774,17 +6786,6 @@
         <author>
             <name>throw_away_01</name>
             <uri>https://news.ycombinator.com/user?id=throw_away_01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软为什么要保持answer.microsoft.com的状态？]]></title>
-        <id>https://news.ycombinator.com/item?id=31085479</id>
-        <link href="https://news.ycombinator.com/item?id=31085479"/>
-        <updated>2022-04-19T16:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does Microsoft keep answers.microsoft.com up?]]></summary>
-        <author>
-            <name>gtirloni</name>
-            <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
         </author>
     </entry>
 </feed>
