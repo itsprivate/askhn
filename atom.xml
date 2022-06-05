@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T20:59:03.913Z</updated>
+    <updated>2022-06-05T21:45:34.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从技术中设计产品的启发式方法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634967</id>
+        <link href="https://news.ycombinator.com/item?id=31634967"/>
+        <updated>2022-06-05T21:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Heuristics on Designing a Product from a Technology?]]></summary>
+        <author>
+            <name>zufiusrufus</name>
+            <uri>https://news.ycombinator.com/user?id=zufiusrufus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人成功地将LibreOffice用于他们的业务吗？
 ]]></title>
@@ -6780,17 +6792,6 @@
         <author>
             <name>trifit</name>
             <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你玩什么（休息时间）的游戏？]]></title>
-        <id>https://news.ycombinator.com/item?id=31086802</id>
-        <link href="https://news.ycombinator.com/item?id=31086802"/>
-        <updated>2022-04-19T18:19:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What (break time) games to do you play]]></summary>
-        <author>
-            <name>golanggeek</name>
-            <uri>https://news.ycombinator.com/user?id=golanggeek</uri>
         </author>
     </entry>
 </feed>
