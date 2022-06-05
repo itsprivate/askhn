@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-04T23:58:04.118Z</updated>
+    <updated>2022-06-05T02:25:35.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人用CharaChorder做软件开发吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31626605</id>
+        <link href="https://news.ycombinator.com/item?id=31626605"/>
+        <updated>2022-06-05T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone used CharaChorder for software dev?]]></summary>
+        <author>
+            <name>daenz</name>
+            <uri>https://news.ycombinator.com/user?id=daenz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何应对裁员的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31626492</id>
+        <link href="https://news.ycombinator.com/item?id=31626492"/>
+        <updated>2022-06-05T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you coping with layoffs?]]></summary>
+        <author>
+            <name>gunnr15</name>
+            <uri>https://news.ycombinator.com/user?id=gunnr15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技创业空间是否已经过饱和？
 ]]></title>
@@ -6742,28 +6766,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果M1硅上的Docker]]></title>
-        <id>https://news.ycombinator.com/item?id=31081193</id>
-        <link href="https://news.ycombinator.com/item?id=31081193"/>
-        <updated>2022-04-19T09:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Docker on Apple M1 Silicon]]></summary>
-        <author>
-            <name>goingindi</name>
-            <uri>https://news.ycombinator.com/user?id=goingindi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐一些雇用远程开发人员的好机构？]]></title>
-        <id>https://news.ycombinator.com/item?id=31080461</id>
-        <link href="https://news.ycombinator.com/item?id=31080461"/>
-        <updated>2022-04-19T07:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations for good agencies for hiring remote developers?]]></summary>
-        <author>
-            <name>pinter69</name>
-            <uri>https://news.ycombinator.com/user?id=pinter69</uri>
         </author>
     </entry>
 </feed>
