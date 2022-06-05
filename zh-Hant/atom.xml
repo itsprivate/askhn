@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T14:59:02.084Z</updated>
+    <updated>2022-06-05T15:28:28.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在閱讀信息量過大的密集書籍時有什麼策略？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31631539</id>
+        <link href="https://news.ycombinator.com/item?id=31631539"/>
+        <updated>2022-06-05T14:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your strategy for reading dense books with too much information?]]></summary>
+        <author>
+            <name>aerovistae</name>
+            <uri>https://news.ycombinator.com/user?id=aerovistae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪裡可以買到低電壓觸點的無線開關？
 ]]></title>
@@ -6769,17 +6781,6 @@
         <author>
             <name>churchill</name>
             <uri>https://news.ycombinator.com/user?id=churchill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何確保文檔中的代碼片段是有效的和最新的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31083679</id>
-        <link href="https://news.ycombinator.com/item?id=31083679"/>
-        <updated>2022-04-19T14:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you make sure code snippets in docs are working and up to date?]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
         </author>
     </entry>
 </feed>
