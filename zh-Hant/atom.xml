@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T02:25:35.100Z</updated>
+    <updated>2022-06-05T03:23:49.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何輕鬆地使專利無效
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627501</id>
+        <link href="https://news.ycombinator.com/item?id=31627501"/>
+        <updated>2022-06-05T02:45:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Easily Invalidate Patent]]></summary>
+        <author>
+            <name>notlukesky</name>
+            <uri>https://news.ycombinator.com/user?id=notlukesky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人用CharaChorder做軟件開發嗎？
 ]]></title>
@@ -6755,17 +6767,6 @@
         <author>
             <name>endofreach</name>
             <uri>https://news.ycombinator.com/user?id=endofreach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉汽車公司應該致力於大眾運輸/公共交通的發展]]></title>
-        <id>https://news.ycombinator.com/item?id=31081339</id>
-        <link href="https://news.ycombinator.com/item?id=31081339"/>
-        <updated>2022-04-19T10:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tesla Motors should be working on mass transport/public transport]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
