@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 05 Jun 2022 14:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 14:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[解決我的一個問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31631245</link>
+            <guid>https://news.ycombinator.com/item?id=31631245</guid>
+            <pubDate>Sun, 05 Jun 2022 14:24:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: Solve My 1 Problem]]></description>
+        </item>
         <item>
             <title><![CDATA[好的技術寫作的例子？
 ]]></title>
@@ -4371,13 +4379,6 @@
             <guid>https://news.ycombinator.com/item?id=31083551</guid>
             <pubDate>Tue, 19 Apr 2022 14:23:37 GMT</pubDate>
             <description><![CDATA[Ask HN: What Is the Modern StumbleUpon?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有5G "功能手機"？]]></title>
-            <link>https://news.ycombinator.com/item?id=31083506</link>
-            <guid>https://news.ycombinator.com/item?id=31083506</guid>
-            <pubDate>Tue, 19 Apr 2022 14:20:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are there 5G “Feature Phones?”]]></description>
         </item>
     </channel>
 </rss>
