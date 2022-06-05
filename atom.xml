@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T08:49:53.912Z</updated>
+    <updated>2022-06-05T09:01:56.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推荐用于GitHub个人访问令牌的OAuth作用域
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629152</id>
+        <link href="https://news.ycombinator.com/item?id=31629152"/>
+        <updated>2022-06-05T08:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended OAuth scopes for GitHub personal access tokens]]></summary>
+        <author>
+            <name>ethanwillis</name>
+            <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是经济衰退期间的一个反脆弱的软件垂直领域？
 ]]></title>
@@ -6759,17 +6771,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走容易的路还是难走的路？]]></title>
-        <id>https://news.ycombinator.com/item?id=31082014</id>
-        <link href="https://news.ycombinator.com/item?id=31082014"/>
-        <updated>2022-04-19T12:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Take the easy road or the hard road?]]></summary>
-        <author>
-            <name>ryeguy_24</name>
-            <uri>https://news.ycombinator.com/user?id=ryeguy_24</uri>
         </author>
     </entry>
 </feed>
