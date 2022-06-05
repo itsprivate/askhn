@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T03:23:49.317Z</updated>
+    <updated>2022-06-05T04:54:54.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雇用一个具有领域专长的PM是否被认为是有害的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628108</id>
+        <link href="https://news.ycombinator.com/item?id=31628108"/>
+        <updated>2022-06-05T04:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is hiring a PM with domain expertise considered harmful?]]></summary>
+        <author>
+            <name>jehlakj</name>
+            <uri>https://news.ycombinator.com/user?id=jehlakj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何轻松地使专利无效
 ]]></title>
@@ -6756,17 +6768,6 @@
         <author>
             <name>drapado</name>
             <uri>https://news.ycombinator.com/user?id=drapado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[结构完全不同的电子商务网站？]]></title>
-        <id>https://news.ycombinator.com/item?id=31081484</id>
-        <link href="https://news.ycombinator.com/item?id=31081484"/>
-        <updated>2022-04-19T10:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Radically different structured eCommerce sites?]]></summary>
-        <author>
-            <name>endofreach</name>
-            <uri>https://news.ycombinator.com/user?id=endofreach</uri>
         </author>
     </entry>
 </feed>
