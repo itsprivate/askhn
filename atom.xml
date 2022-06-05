@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T13:40:23.231Z</updated>
+    <updated>2022-06-05T14:00:19.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的技术写作的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630915</id>
+        <link href="https://news.ycombinator.com/item?id=31630915"/>
+        <updated>2022-06-05T13:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of Good Technical Writing?]]></summary>
+        <author>
+            <name>u385639</name>
+            <uri>https://news.ycombinator.com/user?id=u385639</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计一个自我激励的方案，以建立和运送项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630875</id>
+        <link href="https://news.ycombinator.com/item?id=31630875"/>
+        <updated>2022-06-05T13:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Designing a self-motivating program to build and ship projects]]></summary>
+        <author>
+            <name>SMAAART</name>
+            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何创建矢量艺术？
 ]]></title>
@@ -6754,28 +6778,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否会减轻国防部每周的应用负担？]]></title>
-        <id>https://news.ycombinator.com/item?id=31083480</id>
-        <link href="https://news.ycombinator.com/item?id=31083480"/>
-        <updated>2022-04-19T14:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you reduce the weekly burden of DoD applications]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆分一个巨大的Git repo的最好方法是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31083268</id>
-        <link href="https://news.ycombinator.com/item?id=31083268"/>
-        <updated>2022-04-19T14:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best way to split a giant Git repo?]]></summary>
-        <author>
-            <name>martibravo</name>
-            <uri>https://news.ycombinator.com/user?id=martibravo</uri>
         </author>
     </entry>
 </feed>
