@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T21:47:30.955Z</updated>
+    <updated>2022-06-06T23:28:21.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的工作是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31647179</id>
+        <link href="https://news.ycombinator.com/item?id=31647179"/>
+        <updated>2022-06-06T22:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Is My Job?]]></summary>
+        <author>
+            <name>throwaway303293</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway303293</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为产品支持技术人员，了解用户体验/产品设计？
 ]]></title>
@@ -6812,17 +6824,6 @@
         <author>
             <name>mib32</name>
             <uri>https://news.ycombinator.com/user?id=mib32</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非常规的角色？]]></title>
-        <id>https://news.ycombinator.com/item?id=31095306</id>
-        <link href="https://news.ycombinator.com/item?id=31095306"/>
-        <updated>2022-04-20T11:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Unconventional Role?]]></summary>
-        <author>
-            <name>beaker52</name>
-            <uri>https://news.ycombinator.com/user?id=beaker52</uri>
         </author>
     </entry>
 </feed>
