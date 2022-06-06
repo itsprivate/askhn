@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T02:20:57.704Z</updated>
+    <updated>2022-06-06T03:44:15.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼1Password似乎再也打不開了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636896</id>
+        <link href="https://news.ycombinator.com/item?id=31636896"/>
+        <updated>2022-06-06T02:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does 1Password seem to never open anymore?]]></summary>
+        <author>
+            <name>akouri</name>
+            <uri>https://news.ycombinator.com/user?id=akouri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你為什麼要寫文件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636753</id>
+        <link href="https://news.ycombinator.com/item?id=31636753"/>
+        <updated>2022-06-06T02:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you write documentation?]]></summary>
+        <author>
+            <name>KennyFromIT</name>
+            <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我如何重新學習現代Java？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636694</id>
+        <link href="https://news.ycombinator.com/item?id=31636694"/>
+        <updated>2022-06-06T02:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I re-learn modern Java?]]></summary>
+        <author>
+            <name>120bits</name>
+            <uri>https://news.ycombinator.com/user?id=120bits</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是Linux上的字面/根目錄
 ]]></title>
@@ -6764,39 +6800,6 @@
         <author>
             <name>iio7</name>
             <uri>https://news.ycombinator.com/user?id=iio7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在為他們的視頻遊戲工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=31089284</id>
-        <link href="https://news.ycombinator.com/item?id=31089284"/>
-        <updated>2022-04-19T21:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who's working on their video game?]]></summary>
-        <author>
-            <name>YesBox</name>
-            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專業人士的自定義域名電子郵件？]]></title>
-        <id>https://news.ycombinator.com/item?id=31088920</id>
-        <link href="https://news.ycombinator.com/item?id=31088920"/>
-        <updated>2022-04-19T20:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Custom domain email for professionals?]]></summary>
-        <author>
-            <name>antoineMoPa</name>
-            <uri>https://news.ycombinator.com/user?id=antoineMoPa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渲染圖形的框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31088065</id>
-        <link href="https://news.ycombinator.com/item?id=31088065"/>
-        <updated>2022-04-19T19:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A Framework for Rendering Graphs]]></summary>
-        <author>
-            <name>Pennamancer</name>
-            <uri>https://news.ycombinator.com/user?id=Pennamancer</uri>
         </author>
     </entry>
 </feed>
