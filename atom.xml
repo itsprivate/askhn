@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T14:26:48.870Z</updated>
+    <updated>2022-06-06T14:58:59.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪一种科技产品你仍然无法理解它是如何建造的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31641153</id>
+        <link href="https://news.ycombinator.com/item?id=31641153"/>
+        <updated>2022-06-06T14:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is one tech product you still can’t comprehend how it’s built?]]></summary>
+        <author>
+            <name>devstein</name>
+            <uri>https://news.ycombinator.com/user?id=devstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么苹果公司不允许在他们的YouTube活动直播中使用DVR？
 ]]></title>
@@ -6799,17 +6811,6 @@
         <author>
             <name>thebiblelover7</name>
             <uri>https://news.ycombinator.com/user?id=thebiblelover7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些是数据科学职业的新技能？]]></title>
-        <id>https://news.ycombinator.com/item?id=31093910</id>
-        <link href="https://news.ycombinator.com/item?id=31093910"/>
-        <updated>2022-04-20T07:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which new skills for a data science career?]]></summary>
-        <author>
-            <name>dsbyaccident</name>
-            <uri>https://news.ycombinator.com/user?id=dsbyaccident</uri>
         </author>
     </entry>
 </feed>
