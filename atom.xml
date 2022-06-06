@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-05T22:26:38.364Z</updated>
+    <updated>2022-06-06T02:20:57.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是Linux上的字面/根目录
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636596</id>
+        <link href="https://news.ycombinator.com/item?id=31636596"/>
+        <updated>2022-06-06T01:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is literal /root directory on Linux]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国有哪些好的混合用途社区？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636565</id>
+        <link href="https://news.ycombinator.com/item?id=31636565"/>
+        <updated>2022-06-06T01:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which are some good mixed-use neighborhoods in the US?]]></summary>
+        <author>
+            <name>sbmthakur</name>
+            <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些使用premake构建系统的（复杂的）项目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636291</id>
+        <link href="https://news.ycombinator.com/item?id=31636291"/>
+        <updated>2022-06-06T00:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some (complex?) projects that use the premake build system?]]></summary>
+        <author>
+            <name>geffgeff</name>
+            <uri>https://news.ycombinator.com/user?id=geffgeff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以技术为重点的初创企业书籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636233</id>
+        <link href="https://news.ycombinator.com/item?id=31636233"/>
+        <updated>2022-06-06T00:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Technically focused books on start ups]]></summary>
+        <author>
+            <name>mrhands556</name>
+            <uri>https://news.ycombinator.com/user?id=mrhands556</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为学习型索引保留顺序的哈希值
 ]]></title>
@@ -6749,50 +6797,6 @@
         <author>
             <name>Pennamancer</name>
             <uri>https://news.ycombinator.com/user?id=Pennamancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果ID出现奇怪的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=31087958</id>
-        <link href="https://news.ycombinator.com/item?id=31087958"/>
-        <updated>2022-04-19T19:41:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Strange Errors on Apple ID]]></summary>
-        <author>
-            <name>yourkin</name>
-            <uri>https://news.ycombinator.com/user?id=yourkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的进程只在M1效率核心上得到调度]]></title>
-        <id>https://news.ycombinator.com/item?id=31087550</id>
-        <link href="https://news.ycombinator.com/item?id=31087550"/>
-        <updated>2022-04-19T19:15:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: My process only gets scheduled on M1 efficiency cores]]></summary>
-        <author>
-            <name>ThemalSpan</name>
-            <uri>https://news.ycombinator.com/user?id=ThemalSpan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么巨魔对我的问题投了反对票？]]></title>
-        <id>https://news.ycombinator.com/item?id=31087368</id>
-        <link href="https://news.ycombinator.com/item?id=31087368"/>
-        <updated>2022-04-19T18:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are trolls down voting my questions?]]></summary>
-        <author>
-            <name>smaudet</name>
-            <uri>https://news.ycombinator.com/user?id=smaudet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪个电子邮件应用程序可以信任我的数据？]]></title>
-        <id>https://news.ycombinator.com/item?id=31087248</id>
-        <link href="https://news.ycombinator.com/item?id=31087248"/>
-        <updated>2022-04-19T18:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which email app can be trusted with my data?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
