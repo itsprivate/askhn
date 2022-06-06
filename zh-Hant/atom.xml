@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T19:46:04.373Z</updated>
+    <updated>2022-06-06T20:31:16.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該使用我的舊電腦而不是雲計算嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31645335</id>
+        <link href="https://news.ycombinator.com/item?id=31645335"/>
+        <updated>2022-06-06T19:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I use my old computer instead of cloud?]]></summary>
+        <author>
+            <name>me_me_mu_mu</name>
+            <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有好的筆記應用程序
 ]]></title>
@@ -6809,17 +6821,6 @@
         <author>
             <name>offbeatport</name>
             <uri>https://news.ycombinator.com/user?id=offbeatport</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果一半的比特幣開採將用於慈善事業，那麼需要資助什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094772</id>
-        <link href="https://news.ycombinator.com/item?id=31094772"/>
-        <updated>2022-04-20T10:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If half of Bitcoin mining will go for charity, what needs to be funded?]]></summary>
-        <author>
-            <name>eimrine</name>
-            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
         </author>
     </entry>
 </feed>
