@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T18:45:26.892Z</updated>
+    <updated>2022-06-06T18:55:41.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼埃隆-馬斯克如此關注人口下降問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31644101</id>
+        <link href="https://news.ycombinator.com/item?id=31644101"/>
+        <updated>2022-06-06T18:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is Elon Musk so concerned with population decline?]]></summary>
+        <author>
+            <name>pigtailgirl</name>
+            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何照顧你的心理健康？
 ]]></title>
@@ -6807,17 +6819,6 @@
         <author>
             <name>supernihil</name>
             <uri>https://news.ycombinator.com/user?id=supernihil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一個足夠大的公司成為工程總監/CTO？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094682</id>
-        <link href="https://news.ycombinator.com/item?id=31094682"/>
-        <updated>2022-04-20T10:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you become an Engineering Director / CTO in a big enough company?]]></summary>
-        <author>
-            <name>aristofun</name>
-            <uri>https://news.ycombinator.com/user?id=aristofun</uri>
         </author>
     </entry>
 </feed>
