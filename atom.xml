@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T11:09:11.966Z</updated>
+    <updated>2022-06-06T11:43:29.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一个平台可以让我用来管理我的医疗记录？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639103</id>
+        <link href="https://news.ycombinator.com/item?id=31639103"/>
+        <updated>2022-06-06T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a platform I can use to manage my medical records?]]></summary>
+        <author>
+            <name>onemiketwelve</name>
+            <uri>https://news.ycombinator.com/user?id=onemiketwelve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[历史上最有影响力的计算机科学家是谁？
 ]]></title>
@@ -6794,17 +6806,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讨论WIP编程项目的在线社区（我的和其他的）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31092110</id>
-        <link href="https://news.ycombinator.com/item?id=31092110"/>
-        <updated>2022-04-20T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Online comunities to discuss WIP programming projects (mine and others)?]]></summary>
-        <author>
-            <name>emi2k01</name>
-            <uri>https://news.ycombinator.com/user?id=emi2k01</uri>
         </author>
     </entry>
 </feed>
