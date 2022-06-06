@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T16:50:27.186Z</updated>
+    <updated>2022-06-06T17:19:26.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于高压输电/变电站的博文？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31642980</id>
+        <link href="https://news.ycombinator.com/item?id=31642980"/>
+        <updated>2022-06-06T17:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Blog post about high-voltage electricity transmission / sub-station?]]></summary>
+        <author>
+            <name>sloucher</name>
+            <uri>https://news.ycombinator.com/user?id=sloucher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一名工程经理，你是如何制定个人成长战略的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31642933</id>
+        <link href="https://news.ycombinator.com/item?id=31642933"/>
+        <updated>2022-06-06T17:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you strategize personal growth as an engineering manager?]]></summary>
+        <author>
+            <name>yalogin</name>
+            <uri>https://news.ycombinator.com/user?id=yalogin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是你最喜欢的开发者文档？
 ]]></title>
@@ -6792,28 +6816,6 @@
         <author>
             <name>csqask</name>
             <uri>https://news.ycombinator.com/user?id=csqask</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows开发设置？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094486</id>
-        <link href="https://news.ycombinator.com/item?id=31094486"/>
-        <updated>2022-04-20T09:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Windows Dev Setup?]]></summary>
-        <author>
-            <name>iansowinski</name>
-            <uri>https://news.ycombinator.com/user?id=iansowinski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有人给他们的工作文件提供版本？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094443</id>
-        <link href="https://news.ycombinator.com/item?id=31094443"/>
-        <updated>2022-04-20T09:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Nobody versions their work files?]]></summary>
-        <author>
-            <name>ttoinou</name>
-            <uri>https://news.ycombinator.com/user?id=ttoinou</uri>
         </author>
     </entry>
 </feed>
