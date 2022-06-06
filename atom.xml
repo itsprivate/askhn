@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T03:44:15.294Z</updated>
+    <updated>2022-06-06T05:07:08.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS被黑了吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637356</id>
+        <link href="https://news.ycombinator.com/item?id=31637356"/>
+        <updated>2022-06-06T04:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has AWS Been Hacked?]]></summary>
+        <author>
+            <name>drzel</name>
+            <uri>https://news.ycombinator.com/user?id=drzel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在你的职业生涯中，哪些数学书对你的启发最大？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637291</id>
+        <link href="https://news.ycombinator.com/item?id=31637291"/>
+        <updated>2022-06-06T04:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which mathematics books taught you the most in your career?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么1Password似乎再也打不开了？
 ]]></title>
@@ -6778,28 +6802,6 @@
         <author>
             <name>sibila</name>
             <uri>https://news.ycombinator.com/user?id=sibila</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个针对Elixir的增强协议（即Python的PEP）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31089560</id>
-        <link href="https://news.ycombinator.com/item?id=31089560"/>
-        <updated>2022-04-19T21:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there an enhancement protocol (i.e. PEP for Python) for Elixir?]]></summary>
-        <author>
-            <name>arthurcolle</name>
-            <uri>https://news.ycombinator.com/user?id=arthurcolle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网站的最佳宽度？]]></title>
-        <id>https://news.ycombinator.com/item?id=31089367</id>
-        <link href="https://news.ycombinator.com/item?id=31089367"/>
-        <updated>2022-04-19T21:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Width for Website?]]></summary>
-        <author>
-            <name>iio7</name>
-            <uri>https://news.ycombinator.com/user?id=iio7</uri>
         </author>
     </entry>
 </feed>
