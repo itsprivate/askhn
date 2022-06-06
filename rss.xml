@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 06 Jun 2022 11:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 12:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这里有人用BSD作为他们的主操作系统吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31639797</link>
+            <guid>https://news.ycombinator.com/item?id=31639797</guid>
+            <pubDate>Mon, 06 Jun 2022 12:49:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does anyone here use a BSD for their main OS?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你购买服务器吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31639761</link>
+            <guid>https://news.ycombinator.com/item?id=31639761</guid>
+            <pubDate>Mon, 06 Jun 2022 12:45:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do You Buy Servers?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有一个平台可以让我用来管理我的医疗记录？
 ]]></title>
@@ -4392,20 +4408,6 @@
             <guid>https://news.ycombinator.com/item?id=31093734</guid>
             <pubDate>Wed, 20 Apr 2022 07:12:47 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you deal with remote ppl working multiple full-time jobs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在2022年，你如何管理你的网站内容？]]></title>
-            <link>https://news.ycombinator.com/item?id=31093585</link>
-            <guid>https://news.ycombinator.com/item?id=31093585</guid>
-            <pubDate>Wed, 20 Apr 2022 06:44:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you manage your site content in 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你创造了什么（技术和其他）？]]></title>
-            <link>https://news.ycombinator.com/item?id=31092292</link>
-            <guid>https://news.ycombinator.com/item?id=31092292</guid>
-            <pubDate>Wed, 20 Apr 2022 02:55:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you create (tech and otherwise)?]]></description>
         </item>
     </channel>
 </rss>

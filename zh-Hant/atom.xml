@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-06T11:43:29.353Z</updated>
+    <updated>2022-06-06T12:59:45.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這裡有人用BSD作為他們的主操作系統嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639797</id>
+        <link href="https://news.ycombinator.com/item?id=31639797"/>
+        <updated>2022-06-06T12:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone here use a BSD for their main OS?]]></summary>
+        <author>
+            <name>lynndotpy</name>
+            <uri>https://news.ycombinator.com/user?id=lynndotpy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你購買服務器嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639761</id>
+        <link href="https://news.ycombinator.com/item?id=31639761"/>
+        <updated>2022-06-06T12:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Buy Servers?]]></summary>
+        <author>
+            <name>balex</name>
+            <uri>https://news.ycombinator.com/user?id=balex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一個平臺可以讓我用來管理我的醫療記錄？
 ]]></title>
@@ -6784,28 +6808,6 @@
         <author>
             <name>NaTopp</name>
             <uri>https://news.ycombinator.com/user?id=NaTopp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年，你如何管理你的網站內容？]]></title>
-        <id>https://news.ycombinator.com/item?id=31093585</id>
-        <link href="https://news.ycombinator.com/item?id=31093585"/>
-        <updated>2022-04-20T06:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your site content in 2022]]></summary>
-        <author>
-            <name>m88m</name>
-            <uri>https://news.ycombinator.com/user?id=m88m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你創造了什麼（技術和其他）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31092292</id>
-        <link href="https://news.ycombinator.com/item?id=31092292"/>
-        <updated>2022-04-20T02:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you create (tech and otherwise)?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
