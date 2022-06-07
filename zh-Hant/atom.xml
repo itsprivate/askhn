@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T23:00:40.254Z</updated>
+    <updated>2022-06-07T23:28:26.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪本書/網站上學到了你所在領域的最多基礎知識？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31661097</id>
+        <link href="https://news.ycombinator.com/item?id=31661097"/>
+        <updated>2022-06-07T23:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which book/site you learned the most basics of your field?]]></summary>
+        <author>
+            <name>gautamsomani</name>
+            <uri>https://news.ycombinator.com/user?id=gautamsomani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何處理輕微的記憶障礙？
 ]]></title>
@@ -6856,17 +6868,6 @@
         <author>
             <name>drakonka</name>
             <uri>https://news.ycombinator.com/user?id=drakonka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對一個可以存儲新學的單詞的應用程序的意見（不是字典）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31107200</id>
-        <link href="https://news.ycombinator.com/item?id=31107200"/>
-        <updated>2022-04-21T08:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Opinion on an app that can store newly learned words (Not a dictionary)]]></summary>
-        <author>
-            <name>random_0</name>
-            <uri>https://news.ycombinator.com/user?id=random_0</uri>
         </author>
     </entry>
 </feed>
