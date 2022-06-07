@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T11:03:23.533Z</updated>
+    <updated>2022-06-07T11:28:42.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RFC 你會在公共領域（CC0）許可下分享照片嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652181</id>
+        <link href="https://news.ycombinator.com/item?id=31652181"/>
+        <updated>2022-06-07T10:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: RFC Would you share photos under public domain (CC0) license?]]></summary>
+        <author>
+            <name>rockingclimber</name>
+            <uri>https://news.ycombinator.com/user?id=rockingclimber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼可執行格式客觀上是最好的？
 ]]></title>
@@ -6831,17 +6843,6 @@
         <author>
             <name>LeoPanthera</name>
             <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們怎樣才能改善慢性健康狀況的診斷和治療？]]></title>
-        <id>https://news.ycombinator.com/item?id=31101899</id>
-        <link href="https://news.ycombinator.com/item?id=31101899"/>
-        <updated>2022-04-20T19:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can we improve diagnosis and treatment of chronic health conditions?]]></summary>
-        <author>
-            <name>yourabstraction</name>
-            <uri>https://news.ycombinator.com/user?id=yourabstraction</uri>
         </author>
     </entry>
 </feed>
