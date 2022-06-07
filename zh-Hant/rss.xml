@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你參加過夏令營嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31651796</link>
+            <guid>https://news.ycombinator.com/item?id=31651796</guid>
+            <pubDate>Tue, 07 Jun 2022 09:30:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Did You Go to Camp]]></description>
+        </item>
         <item>
             <title><![CDATA[有沒有人能夠在不上傳身份證的情況下恢復FB賬戶？
 ]]></title>
@@ -4431,13 +4439,6 @@
             <guid>https://news.ycombinator.com/item?id=31100967</guid>
             <pubDate>Wed, 20 Apr 2022 18:23:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Is it still possible to live without a bank account?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在哪裡可以找到更高層次的UI組件？]]></title>
-            <link>https://news.ycombinator.com/item?id=31100679</link>
-            <guid>https://news.ycombinator.com/item?id=31100679</guid>
-            <pubDate>Wed, 20 Apr 2022 18:01:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can I find higher-level UI components?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T08:38:58.022Z</updated>
+    <updated>2022-06-07T09:47:48.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你參加過夏令營嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651796</id>
+        <link href="https://news.ycombinator.com/item?id=31651796"/>
+        <updated>2022-06-07T09:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did You Go to Camp]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有人能夠在不上傳身份證的情況下恢復FB賬戶？
 ]]></title>
@@ -6827,17 +6839,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪裡可以找到更高層次的UI組件？]]></title>
-        <id>https://news.ycombinator.com/item?id=31100679</id>
-        <link href="https://news.ycombinator.com/item?id=31100679"/>
-        <updated>2022-04-20T18:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I find higher-level UI components?]]></summary>
-        <author>
-            <name>miguelrochefort</name>
-            <uri>https://news.ycombinator.com/user?id=miguelrochefort</uri>
         </author>
     </entry>
 </feed>
