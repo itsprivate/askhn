@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T07:44:39.562Z</updated>
+    <updated>2022-06-07T08:38:58.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人能夠在不上傳身份證的情況下恢復FB賬戶？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651264</id>
+        <link href="https://news.ycombinator.com/item?id=31651264"/>
+        <updated>2022-06-07T08:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone been able to recover FB account without uploading ID?]]></summary>
+        <author>
+            <name>Legogris</name>
+            <uri>https://news.ycombinator.com/user?id=Legogris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DVC、Git LFS 或 lakeFS？哪個是數據版本管理的最佳選擇？
 ]]></title>
@@ -6826,17 +6838,6 @@
         <author>
             <name>miguelrochefort</name>
             <uri>https://news.ycombinator.com/user?id=miguelrochefort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Hunt發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31099836</id>
-        <link href="https://news.ycombinator.com/item?id=31099836"/>
-        <updated>2022-04-20T16:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Product Hunt?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
