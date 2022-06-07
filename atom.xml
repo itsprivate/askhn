@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T20:32:50.004Z</updated>
+    <updated>2022-06-07T21:00:04.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立一个气候技术/硬科技创业公司
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659927</id>
+        <link href="https://news.ycombinator.com/item?id=31659927"/>
+        <updated>2022-06-07T20:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to build a Climate Tech/Hardtech startup]]></summary>
+        <author>
+            <name>gt14</name>
+            <uri>https://news.ycombinator.com/user?id=gt14</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的问题是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659862</id>
+        <link href="https://news.ycombinator.com/item?id=31659862"/>
+        <updated>2022-06-07T20:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Is Your Problem?]]></summary>
+        <author>
+            <name>blingojames</name>
+            <uri>https://news.ycombinator.com/user?id=blingojames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在技术上学到最多的书是什么？
 ]]></title>
@@ -6836,28 +6860,6 @@
         <author>
             <name>minhducdoo</name>
             <uri>https://news.ycombinator.com/user?id=minhducdoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能将Google Colab drive的访问限制在一个文件夹内吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31106466</id>
-        <link href="https://news.ycombinator.com/item?id=31106466"/>
-        <updated>2022-04-21T06:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you restrict Google Colab drive access to a single folder?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[房产中介和个人数据收集？]]></title>
-        <id>https://news.ycombinator.com/item?id=31106373</id>
-        <link href="https://news.ycombinator.com/item?id=31106373"/>
-        <updated>2022-04-21T05:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Real estate agents and personal data collection?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
