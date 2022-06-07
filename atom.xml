@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T07:29:27.485Z</updated>
+    <updated>2022-06-07T07:44:39.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DVC、Git LFS 或 lakeFS？哪个是数据版本管理的最佳选择？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650954</id>
+        <link href="https://news.ycombinator.com/item?id=31650954"/>
+        <updated>2022-06-07T07:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: DVC, Git LFS or lakeFS? Which is the best for data versioning?]]></summary>
+        <author>
+            <name>idonov</name>
+            <uri>https://news.ycombinator.com/user?id=idonov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伪造的GitHub个人资料数据是一件事吗？
 ]]></title>
@@ -6825,17 +6837,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用优化求解器吗？哪一个？为什么？你喜欢它吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31099186</id>
-        <link href="https://news.ycombinator.com/item?id=31099186"/>
-        <updated>2022-04-20T16:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use an optimization solver? Which one? Why? Do you like it?]]></summary>
-        <author>
-            <name>ryan-nextmv</name>
-            <uri>https://news.ycombinator.com/user?id=ryan-nextmv</uri>
         </author>
     </entry>
 </feed>
