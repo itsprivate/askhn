@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T04:24:05.418Z</updated>
+    <updated>2022-06-07T05:43:35.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当你在工作中编码时，你在休息时间是如何编码的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650268</id>
+        <link href="https://news.ycombinator.com/item?id=31650268"/>
+        <updated>2022-06-07T05:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When you code at work, how do you code in your time off?]]></summary>
+        <author>
+            <name>john-titor</name>
+            <uri>https://news.ycombinator.com/user?id=john-titor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一、帮助解释在叙利亚发生的事情的逻辑因果关系
 ]]></title>
@@ -6819,17 +6831,6 @@
         <author>
             <name>lapaz17</name>
             <uri>https://news.ycombinator.com/user?id=lapaz17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[循序渐进的增强发生了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31096946</id>
-        <link href="https://news.ycombinator.com/item?id=31096946"/>
-        <updated>2022-04-20T13:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Whatever Happened to Progressive Enhancement?]]></summary>
-        <author>
-            <name>louissan</name>
-            <uri>https://news.ycombinator.com/user?id=louissan</uri>
         </author>
     </entry>
 </feed>
