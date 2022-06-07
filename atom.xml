@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T10:00:24.378Z</updated>
+    <updated>2022-06-07T10:34:30.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[登记员最不可能搞砸的是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652127</id>
+        <link href="https://news.ycombinator.com/item?id=31652127"/>
+        <updated>2022-06-07T10:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Registrars least likely to screw up?]]></summary>
+        <author>
+            <name>ekns</name>
+            <uri>https://news.ycombinator.com/user?id=ekns</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为macOS上的美图秀秀将如何运作？
 ]]></title>
@@ -6829,17 +6841,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[应该如何预测维护新软件功能的成本？]]></title>
-        <id>https://news.ycombinator.com/item?id=31101347</id>
-        <link href="https://news.ycombinator.com/item?id=31101347"/>
-        <updated>2022-04-20T18:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How should the cost of maintaining new software features be forecast?]]></summary>
-        <author>
-            <name>cwkoss</name>
-            <uri>https://news.ycombinator.com/user?id=cwkoss</uri>
         </author>
     </entry>
 </feed>
