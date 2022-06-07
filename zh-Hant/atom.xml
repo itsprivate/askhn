@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T05:43:35.385Z</updated>
+    <updated>2022-06-07T06:35:43.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於開發者來說，在獲得M1 MacBook Air上有什麼遺憾嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650535</id>
+        <link href="https://news.ycombinator.com/item?id=31650535"/>
+        <updated>2022-06-07T06:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: For devs, any regrets on getting the M1 MacBook Air?]]></summary>
+        <author>
+            <name>__warlord__</name>
+            <uri>https://news.ycombinator.com/user?id=__warlord__</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數學和CS書籍，既教如何做，又教為什麼做？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650459</id>
+        <link href="https://news.ycombinator.com/item?id=31650459"/>
+        <updated>2022-06-07T06:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Math and CS books that teach both the how and the why of the subject?]]></summary>
+        <author>
+            <name>newsoul</name>
+            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當你在工作中編碼時，你在休息時間是如何編碼的？
 ]]></title>
@@ -6809,28 +6833,6 @@
         <author>
             <name>aiyen</name>
             <uri>https://news.ycombinator.com/user?id=aiyen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DB遷移和部署競賽策略]]></title>
-        <id>https://news.ycombinator.com/item?id=31097819</id>
-        <link href="https://news.ycombinator.com/item?id=31097819"/>
-        <updated>2022-04-20T14:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: DB Migration and Deployment Race Strategy]]></summary>
-        <author>
-            <name>andrew_</name>
-            <uri>https://news.ycombinator.com/user?id=andrew_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客、在Stackoverflow上回答問題或GitHub簡介？]]></title>
-        <id>https://news.ycombinator.com/item?id=31097140</id>
-        <link href="https://news.ycombinator.com/item?id=31097140"/>
-        <updated>2022-04-20T14:06:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Blog, answering on Stackoverflow or GitHub profile?]]></summary>
-        <author>
-            <name>lapaz17</name>
-            <uri>https://news.ycombinator.com/user?id=lapaz17</uri>
         </author>
     </entry>
 </feed>
