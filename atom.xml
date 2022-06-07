@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T11:28:42.106Z</updated>
+    <updated>2022-06-07T11:44:48.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公司收购和关闭初创企业的做法是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652645</id>
+        <link href="https://news.ycombinator.com/item?id=31652645"/>
+        <updated>2022-06-07T11:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do companies acquire and shutdown a startups?]]></summary>
+        <author>
+            <name>keosariel</name>
+            <uri>https://news.ycombinator.com/user?id=keosariel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RFC 你会在公共领域（CC0）许可下分享照片吗？
 ]]></title>
@@ -6832,17 +6844,6 @@
         <author>
             <name>Austin_Conlon</name>
             <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么这个图像看起来是3D的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31102152</id>
-        <link href="https://news.ycombinator.com/item?id=31102152"/>
-        <updated>2022-04-20T19:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does this image look 3D?]]></summary>
-        <author>
-            <name>LeoPanthera</name>
-            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
         </author>
     </entry>
 </feed>
