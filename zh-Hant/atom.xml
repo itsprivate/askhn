@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T19:32:50.093Z</updated>
+    <updated>2022-06-07T19:44:44.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，SEO仍然是一個東西嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659070</id>
+        <link href="https://news.ycombinator.com/item?id=31659070"/>
+        <updated>2022-06-07T19:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is SEO still a thing in 2022?]]></summary>
+        <author>
+            <name>b20000</name>
+            <uri>https://news.ycombinator.com/user?id=b20000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼軟盤仍有市場？
 ]]></title>
@@ -6845,17 +6857,6 @@
         <author>
             <name>hegemon8</name>
             <uri>https://news.ycombinator.com/user?id=hegemon8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你有3-6個月的時間來展示你的技能？]]></title>
-        <id>https://news.ycombinator.com/item?id=31105968</id>
-        <link href="https://news.ycombinator.com/item?id=31105968"/>
-        <updated>2022-04-21T04:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you had 3-6 months to demonstrate your skills?]]></summary>
-        <author>
-            <name>nimbleal</name>
-            <uri>https://news.ycombinator.com/user?id=nimbleal</uri>
         </author>
     </entry>
 </feed>
