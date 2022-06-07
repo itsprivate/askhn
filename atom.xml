@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T22:30:28.612Z</updated>
+    <updated>2022-06-07T22:48:52.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小型网站/应用程序的 "过时 "技能的最佳替代工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660869</id>
+        <link href="https://news.ycombinator.com/item?id=31660869"/>
+        <updated>2022-06-07T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?]]></summary>
+        <author>
+            <name>spearingthehead</name>
+            <uri>https://news.ycombinator.com/user?id=spearingthehead</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初到湾区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660784</id>
+        <link href="https://news.ycombinator.com/item?id=31660784"/>
+        <updated>2022-06-07T22:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: New to Bay Area]]></summary>
+        <author>
+            <name>obaid</name>
+            <uri>https://news.ycombinator.com/user?id=obaid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何坚持长期目标的？
 ]]></title>
@@ -6842,28 +6866,6 @@
         <author>
             <name>freemint</name>
             <uri>https://news.ycombinator.com/user?id=freemint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否使用AWS CDK？]]></title>
-        <id>https://news.ycombinator.com/item?id=31107270</id>
-        <link href="https://news.ycombinator.com/item?id=31107270"/>
-        <updated>2022-04-21T08:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Use AWS CDK?]]></summary>
-        <author>
-            <name>shlosky</name>
-            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人、人工智能和深度学习的代码/模型共享平台]]></title>
-        <id>https://news.ycombinator.com/item?id=31107237</id>
-        <link href="https://news.ycombinator.com/item?id=31107237"/>
-        <updated>2022-04-21T08:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Code / Model Sharing Platforms for Robotics, AI and Deep Learning]]></summary>
-        <author>
-            <name>jmiseikis</name>
-            <uri>https://news.ycombinator.com/user?id=jmiseikis</uri>
         </author>
     </entry>
 </feed>
