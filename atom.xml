@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T14:07:31.656Z</updated>
+    <updated>2022-06-07T14:41:16.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初学者Arduino套件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654876</id>
+        <link href="https://news.ycombinator.com/item?id=31654876"/>
+        <updated>2022-06-07T14:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Beginner Arduino Kits]]></summary>
+        <author>
+            <name>searchingalways</name>
+            <uri>https://news.ycombinator.com/user?id=searchingalways</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐浏览器更新 - 太过激进？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654541</id>
+        <link href="https://news.ycombinator.com/item?id=31654541"/>
+        <updated>2022-06-07T14:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Firefox Updates – Too Aggressive?]]></summary>
+        <author>
+            <name>couchand</name>
+            <uri>https://news.ycombinator.com/user?id=couchand</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmail不太安全的应用程序不再可用？
 ]]></title>
@@ -6827,28 +6851,6 @@
         <author>
             <name>coolmints</name>
             <uri>https://news.ycombinator.com/user?id=coolmints</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保证你的API的安全？]]></title>
-        <id>https://news.ycombinator.com/item?id=31103983</id>
-        <link href="https://news.ycombinator.com/item?id=31103983"/>
-        <updated>2022-04-20T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How you do secure your APIs?]]></summary>
-        <author>
-            <name>cmdli</name>
-            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在哪里可以轻松部署Docker容器？]]></title>
-        <id>https://news.ycombinator.com/item?id=31103946</id>
-        <link href="https://news.ycombinator.com/item?id=31103946"/>
-        <updated>2022-04-20T22:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to deploy a Docker container easily?]]></summary>
-        <author>
-            <name>thiht</name>
-            <uri>https://news.ycombinator.com/user?id=thiht</uri>
         </author>
     </entry>
 </feed>
