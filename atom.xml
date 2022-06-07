@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-07T11:44:48.121Z</updated>
+    <updated>2022-06-07T13:51:20.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么 "有用 "的副业想法吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654089</id>
+        <link href="https://news.ycombinator.com/item?id=31654089"/>
+        <updated>2022-06-07T13:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any “useful” side project ideas?]]></summary>
+        <author>
+            <name>tonmoy</name>
+            <uri>https://news.ycombinator.com/user?id=tonmoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司要求进行计划外的面试阶段？我应该接受吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653351</id>
+        <link href="https://news.ycombinator.com/item?id=31653351"/>
+        <updated>2022-06-07T12:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Company is asking for unplanned interview stage? Should I accept it?]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个有两个小孩的SWE，我应该搬到加州还是德国？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653233</id>
+        <link href="https://news.ycombinator.com/item?id=31653233"/>
+        <updated>2022-06-07T12:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I move to California or Germany as a SWE with 2 small kids?]]></summary>
+        <author>
+            <name>de_or_ca</name>
+            <uri>https://news.ycombinator.com/user?id=de_or_ca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司收购和关闭初创企业的做法是什么？
 ]]></title>
@@ -6811,39 +6847,6 @@
         <author>
             <name>SUPERCILEX</name>
             <uri>https://news.ycombinator.com/user?id=SUPERCILEX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN上有没有人在新的网络项目中使用Vanilla JavaScript？]]></title>
-        <id>https://news.ycombinator.com/item?id=31103460</id>
-        <link href="https://news.ycombinator.com/item?id=31103460"/>
-        <updated>2022-04-20T21:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Anyone on HN Using Vanilla JavaScript for New Web Projects?]]></summary>
-        <author>
-            <name>__app_dev__</name>
-            <uri>https://news.ycombinator.com/user?id=__app_dev__</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就经济增长而言，是否就是这样？]]></title>
-        <id>https://news.ycombinator.com/item?id=31103041</id>
-        <link href="https://news.ycombinator.com/item?id=31103041"/>
-        <updated>2022-04-20T21:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Was that it in terms of economic growth?]]></summary>
-        <author>
-            <name>ManuelKiessling</name>
-            <uri>https://news.ycombinator.com/user?id=ManuelKiessling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在智能手表上进行无创葡萄糖监测在技术上是否可行？]]></title>
-        <id>https://news.ycombinator.com/item?id=31102229</id>
-        <link href="https://news.ycombinator.com/item?id=31102229"/>
-        <updated>2022-04-20T20:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is non-invasive glucose monitoring technically feasible on a smartwatch?]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
         </author>
     </entry>
 </feed>
