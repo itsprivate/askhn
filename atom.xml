@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T19:59:49.180Z</updated>
+    <updated>2022-06-08T20:49:26.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁经历了个人电脑时代的开始？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31673567</id>
+        <link href="https://news.ycombinator.com/item?id=31673567"/>
+        <updated>2022-06-08T20:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who where lived through the beginning of the personal computer era?]]></summary>
+        <author>
+            <name>endofreach</name>
+            <uri>https://news.ycombinator.com/user?id=endofreach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪个iOS应用可以记录噪音污染和振动？
 ]]></title>
@@ -6906,17 +6918,6 @@
         <author>
             <name>emerongi</name>
             <uri>https://news.ycombinator.com/user?id=emerongi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNN+软件工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=31121245</id>
-        <link href="https://news.ycombinator.com/item?id=31121245"/>
-        <updated>2022-04-22T13:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: CNN+ Software Engineers]]></summary>
-        <author>
-            <name>ransom1538</name>
-            <uri>https://news.ycombinator.com/user?id=ransom1538</uri>
         </author>
     </entry>
 </feed>
