@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T21:47:29.499Z</updated>
+    <updated>2022-06-08T22:47:19.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高级域名的价格标签是否可靠？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31675253</id>
+        <link href="https://news.ycombinator.com/item?id=31675253"/>
+        <updated>2022-06-08T22:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the price tag on premium domain names reliable?]]></summary>
+        <author>
+            <name>daneel_w</name>
+            <uri>https://news.ycombinator.com/user?id=daneel_w</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么不以不给尖子生布置作业来取代资优教育？
 ]]></title>
@@ -6909,17 +6921,6 @@
         <author>
             <name>buzzthro</name>
             <uri>https://news.ycombinator.com/user?id=buzzthro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为需要一个支持gRPC的Postgres池服务吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31119386</id>
-        <link href="https://news.ycombinator.com/item?id=31119386"/>
-        <updated>2022-04-22T08:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think a Postgres pooling service with gRPC support is needed?]]></summary>
-        <author>
-            <name>mrrabbittee</name>
-            <uri>https://news.ycombinator.com/user?id=mrrabbittee</uri>
         </author>
     </entry>
 </feed>
