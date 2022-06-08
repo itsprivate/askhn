@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T09:06:57.175Z</updated>
+    <updated>2022-06-08T09:28:47.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么欧盟只为手机充电器制定了法律，而不是，比如说，笔记本电脑？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664980</id>
+        <link href="https://news.ycombinator.com/item?id=31664980"/>
+        <updated>2022-06-08T09:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why the EU did a law only for phone chargers and not, say, laptops?]]></summary>
+        <author>
+            <name>fedeb95</name>
+            <uri>https://news.ycombinator.com/user?id=fedeb95</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[产品狩猎值得吗？
 ]]></title>
@@ -6869,17 +6881,6 @@
         <author>
             <name>kaliyarachan</name>
             <uri>https://news.ycombinator.com/user?id=kaliyarachan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拥有最多域名的最小的公司是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31109424</id>
-        <link href="https://news.ycombinator.com/item?id=31109424"/>
-        <updated>2022-04-21T13:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the smallest company that has the most domains?]]></summary>
-        <author>
-            <name>overlisted</name>
-            <uri>https://news.ycombinator.com/user?id=overlisted</uri>
         </author>
     </entry>
 </feed>
