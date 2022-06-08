@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T11:27:12.979Z</updated>
+    <updated>2022-06-08T11:46:57.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些心理健康的應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665775</id>
+        <link href="https://news.ycombinator.com/item?id=31665775"/>
+        <updated>2022-06-08T11:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some mentally healthy apps to have?]]></summary>
+        <author>
+            <name>rco8786</name>
+            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一名首席執行官，你將如何致力於改善一家大品牌公司？
 ]]></title>
@@ -6873,17 +6885,6 @@
         <author>
             <name>throwaway743</name>
             <uri>https://news.ycombinator.com/user?id=throwaway743</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了月度/年度之外，是否有SaaS在做日常訂閱？]]></title>
-        <id>https://news.ycombinator.com/item?id=31110784</id>
-        <link href="https://news.ycombinator.com/item?id=31110784"/>
-        <updated>2022-04-21T15:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any SaaS doing daily subscription, in addition to monthly/annual?]]></summary>
-        <author>
-            <name>wenbin</name>
-            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
         </author>
     </entry>
 </feed>
