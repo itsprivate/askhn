@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T15:42:00.067Z</updated>
+    <updated>2022-06-08T15:52:56.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[联合创始人的支点，我有什么选择？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668788</id>
+        <link href="https://news.ycombinator.com/item?id=31668788"/>
+        <updated>2022-06-08T15:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Co-Founder pivoting, what are my options?]]></summary>
+        <author>
+            <name>weusedto</name>
+            <uri>https://news.ycombinator.com/user?id=weusedto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSS阅读器如何处理缺少pubDate的项目？
 ]]></title>
@@ -6885,17 +6897,6 @@
         <author>
             <name>dhanna</name>
             <uri>https://news.ycombinator.com/user?id=dhanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[论文的分布式盲审网站]]></title>
-        <id>https://news.ycombinator.com/item?id=31116119</id>
-        <link href="https://news.ycombinator.com/item?id=31116119"/>
-        <updated>2022-04-21T22:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Distributed blind review site for papers]]></summary>
-        <author>
-            <name>jonas_kgomo</name>
-            <uri>https://news.ycombinator.com/user?id=jonas_kgomo</uri>
         </author>
     </entry>
 </feed>
