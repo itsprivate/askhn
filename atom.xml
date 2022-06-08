@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T02:17:47.379Z</updated>
+    <updated>2022-06-08T03:49:26.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使你的数据分析报告自动化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31662713</id>
+        <link href="https://news.ycombinator.com/item?id=31662713"/>
+        <updated>2022-06-08T03:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you automate your data analytics report?]]></summary>
+        <author>
+            <name>mohon</name>
+            <uri>https://news.ycombinator.com/user?id=mohon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何戒掉社交媒体？
 ]]></title>
@@ -6863,17 +6875,6 @@
         <author>
             <name>taurusnoises</name>
             <uri>https://news.ycombinator.com/user?id=taurusnoises</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于人类如何设法结束自己，你的个人宠物理论是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31108069</id>
-        <link href="https://news.ycombinator.com/item?id=31108069"/>
-        <updated>2022-04-21T11:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your personal pet theory on how humanity manages to end itself?]]></summary>
-        <author>
-            <name>Zircom</name>
-            <uri>https://news.ycombinator.com/user?id=Zircom</uri>
         </author>
     </entry>
 </feed>
