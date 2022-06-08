@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T16:44:42.814Z</updated>
+    <updated>2022-06-08T17:11:04.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於純在線業務，我應該收集哪些用戶數據？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31670273</id>
+        <link href="https://news.ycombinator.com/item?id=31670273"/>
+        <updated>2022-06-08T16:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What user data should I collect for online-only business?]]></summary>
+        <author>
+            <name>pru567</name>
+            <uri>https://news.ycombinator.com/user?id=pru567</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未使用的科洛空間轉移？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31669920</id>
+        <link href="https://news.ycombinator.com/item?id=31669920"/>
+        <updated>2022-06-08T16:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Unused Colo Space Transfer?]]></summary>
+        <author>
+            <name>incognition</name>
+            <uri>https://news.ycombinator.com/user?id=incognition</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Python擴展的跨平臺開發環境的建議
 ]]></title>
@@ -6877,28 +6901,6 @@
         <author>
             <name>kite_and_code</name>
             <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到處使用不同電子郵件的人，誰把你賣給了垃圾郵件發送者？]]></title>
-        <id>https://news.ycombinator.com/item?id=31116861</id>
-        <link href="https://news.ycombinator.com/item?id=31116861"/>
-        <updated>2022-04-22T00:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: People who use different emails everywhere, who sold you to spammers?]]></summary>
-        <author>
-            <name>dyingkneepad</name>
-            <uri>https://news.ycombinator.com/user?id=dyingkneepad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發商求職/面試顧問是一個東西嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31116275</id>
-        <link href="https://news.ycombinator.com/item?id=31116275"/>
-        <updated>2022-04-21T23:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are developer job search/interview consultants a thing?]]></summary>
-        <author>
-            <name>MrWiffles</name>
-            <uri>https://news.ycombinator.com/user?id=MrWiffles</uri>
         </author>
     </entry>
 </feed>
