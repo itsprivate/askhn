@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T06:36:03.864Z</updated>
+    <updated>2022-06-08T09:06:57.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[產品狩獵值得嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664595</id>
+        <link href="https://news.ycombinator.com/item?id=31664595"/>
+        <updated>2022-06-08T08:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Product Hunt Worth It?]]></summary>
+        <author>
+            <name>Lior539</name>
+            <uri>https://news.ycombinator.com/user?id=Lior539</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你會不會去設計一個無法破解的大學入學考試？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664494</id>
+        <link href="https://news.ycombinator.com/item?id=31664494"/>
+        <updated>2022-06-08T07:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you go about designing an unhackable college admissions test]]></summary>
+        <author>
+            <name>MahajanVardhan</name>
+            <uri>https://news.ycombinator.com/user?id=MahajanVardhan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[外部應用程序如何跟蹤WhatsApp的在線狀態/最後一次看到？
 ]]></title>
@@ -6856,28 +6880,6 @@
         <author>
             <name>overlisted</name>
             <uri>https://news.ycombinator.com/user?id=overlisted</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在提交頻率較高的repo中，如何整合拉動請求？]]></title>
-        <id>https://news.ycombinator.com/item?id=31108828</id>
-        <link href="https://news.ycombinator.com/item?id=31108828"/>
-        <updated>2022-04-21T13:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are pull requests integrated in a repo with high commit frequency?]]></summary>
-        <author>
-            <name>dist1ll</name>
-            <uri>https://news.ycombinator.com/user?id=dist1ll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司公開分享他們的工程水平指南？]]></title>
-        <id>https://news.ycombinator.com/item?id=31108569</id>
-        <link href="https://news.ycombinator.com/item?id=31108569"/>
-        <updated>2022-04-21T12:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What companies share their engineering leveling guides publicly?]]></summary>
-        <author>
-            <name>t3rabytes</name>
-            <uri>https://news.ycombinator.com/user?id=t3rabytes</uri>
         </author>
     </entry>
 </feed>
