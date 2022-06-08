@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T05:30:17.888Z</updated>
+    <updated>2022-06-08T06:36:03.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[外部应用程序如何跟踪WhatsApp的在线状态/最后一次看到？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663997</id>
+        <link href="https://news.ycombinator.com/item?id=31663997"/>
+        <updated>2022-06-08T06:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can an external app track WhatsApp online status/last seen?]]></summary>
+        <author>
+            <name>abskscdv</name>
+            <uri>https://news.ycombinator.com/user?id=abskscdv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌网络之光的OSS替代品？
 ]]></title>
@@ -6866,17 +6878,6 @@
         <author>
             <name>t3rabytes</name>
             <uri>https://news.ycombinator.com/user?id=t3rabytes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁能以相对容易理解的方式解释一下Phong的阴影吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31108432</id>
-        <link href="https://news.ycombinator.com/item?id=31108432"/>
-        <updated>2022-04-21T12:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could anyone explain Phong shading in a relatively accessible way?]]></summary>
-        <author>
-            <name>ComradeUlyanov</name>
-            <uri>https://news.ycombinator.com/user?id=ComradeUlyanov</uri>
         </author>
     </entry>
 </feed>
