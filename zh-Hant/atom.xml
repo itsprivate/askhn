@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-08T19:47:46.480Z</updated>
+    <updated>2022-06-08T19:59:49.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪個iOS應用可以記錄噪音汙染和振動？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31673089</id>
+        <link href="https://news.ycombinator.com/item?id=31673089"/>
+        <updated>2022-06-08T19:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which iOS app can record noise pollution and vibration?]]></summary>
+        <author>
+            <name>todotask</name>
+            <uri>https://news.ycombinator.com/user?id=todotask</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法律專家。馬斯克真的能退出Twitter交易嗎？
 ]]></title>
@@ -6905,17 +6917,6 @@
         <author>
             <name>ransom1538</name>
             <uri>https://news.ycombinator.com/user?id=ransom1538</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有什麼儀式或典禮？]]></title>
-        <id>https://news.ycombinator.com/item?id=31120682</id>
-        <link href="https://news.ycombinator.com/item?id=31120682"/>
-        <updated>2022-04-22T12:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What rituals or rites do you perform?]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
         </author>
     </entry>
 </feed>
