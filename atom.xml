@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T15:31:40.676Z</updated>
+    <updated>2022-06-09T15:50:40.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[替代Dropbox的产品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682477</id>
+        <link href="https://news.ycombinator.com/item?id=31682477"/>
+        <updated>2022-06-09T15:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to Dropbox?]]></summary>
+        <author>
+            <name>nimbius</name>
+            <uri>https://news.ycombinator.com/user?id=nimbius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有锁定的人工智能平台
 ]]></title>
@@ -6938,17 +6950,6 @@
         <author>
             <name>davidajackson</name>
             <uri>https://news.ycombinator.com/user?id=davidajackson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Mac G4的任何用途？]]></title>
-        <id>https://news.ycombinator.com/item?id=31129763</id>
-        <link href="https://news.ycombinator.com/item?id=31129763"/>
-        <updated>2022-04-22T23:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Use for a Power Mac G4?]]></summary>
-        <author>
-            <name>gandalfff</name>
-            <uri>https://news.ycombinator.com/user?id=gandalfff</uri>
         </author>
     </entry>
 </feed>
