@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T06:34:26.445Z</updated>
+    <updated>2022-06-09T07:28:39.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁知道无服务器的企业软件应用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678277</id>
+        <link href="https://news.ycombinator.com/item?id=31678277"/>
+        <updated>2022-06-09T06:55:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone Know of Serverless Enterprise Software Applications?]]></summary>
+        <author>
+            <name>parsley27</name>
+            <uri>https://news.ycombinator.com/user?id=parsley27</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在哪里购买营销网站模板？
 ]]></title>
@@ -6915,17 +6927,6 @@
         <author>
             <name>throwingdisaway</name>
             <uri>https://news.ycombinator.com/user?id=throwingdisaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么电子邮件和聊天记录是保密的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31123948</id>
-        <link href="https://news.ycombinator.com/item?id=31123948"/>
-        <updated>2022-04-22T16:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are emails and chats private?]]></summary>
-        <author>
-            <name>logicallee</name>
-            <uri>https://news.ycombinator.com/user?id=logicallee</uri>
         </author>
     </entry>
 </feed>
