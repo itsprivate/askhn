@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T19:46:15.395Z</updated>
+    <updated>2022-06-09T20:00:23.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的投资建议来自哪里？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31685714</id>
+        <link href="https://news.ycombinator.com/item?id=31685714"/>
+        <updated>2022-06-09T19:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you get your investment advice from?]]></summary>
+        <author>
+            <name>anyhoneydew</name>
+            <uri>https://news.ycombinator.com/user?id=anyhoneydew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高中辍学，有FAANG面试，不知道DS/algos
 ]]></title>
@@ -6950,17 +6962,6 @@
         <author>
             <name>ak_111</name>
             <uri>https://news.ycombinator.com/user?id=ak_111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于编程问题，是否有和IRC一样好/更好的东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132557</id>
-        <link href="https://news.ycombinator.com/item?id=31132557"/>
-        <updated>2022-04-23T09:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there something as good / better as IRC for programming questions?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
