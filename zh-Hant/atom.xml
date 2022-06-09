@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T21:27:07.887Z</updated>
+    <updated>2022-06-09T23:32:16.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉車主--你有什麼反饋？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31688189</id>
+        <link href="https://news.ycombinator.com/item?id=31688189"/>
+        <updated>2022-06-09T23:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tesla owners – what's your feedback]]></summary>
+        <author>
+            <name>TheAlchemist</name>
+            <uri>https://news.ycombinator.com/user?id=TheAlchemist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬件資產管理和預訂系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31688117</id>
+        <link href="https://news.ycombinator.com/item?id=31688117"/>
+        <updated>2022-06-09T23:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hardware asset management and booking system]]></summary>
+        <author>
+            <name>thangalin</name>
+            <uri>https://news.ycombinator.com/user?id=thangalin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧森-斯科特-卡德是一名程序員嗎？
 ]]></title>
@@ -6942,28 +6966,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盧布為什麼會穩定下來，發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132780</id>
-        <link href="https://news.ycombinator.com/item?id=31132780"/>
-        <updated>2022-04-23T10:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Ruble stabilize and what's going on?]]></summary>
-        <author>
-            <name>helij</name>
-            <uri>https://news.ycombinator.com/user?id=helij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於自然語言理解的書籍推薦]]></title>
-        <id>https://news.ycombinator.com/item?id=31132779</id>
-        <link href="https://news.ycombinator.com/item?id=31132779"/>
-        <updated>2022-04-23T10:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Book recommendations for Natural Language Understanding]]></summary>
-        <author>
-            <name>kovac</name>
-            <uri>https://news.ycombinator.com/user?id=kovac</uri>
         </author>
     </entry>
 </feed>
