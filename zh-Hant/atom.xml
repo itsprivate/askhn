@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T15:50:40.853Z</updated>
+    <updated>2022-06-09T16:03:39.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們所談論的那些緩慢的網站都在哪裡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682698</id>
+        <link href="https://news.ycombinator.com/item?id=31682698"/>
+        <updated>2022-06-09T15:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where are all of the slow websites people are talking about?]]></summary>
+        <author>
+            <name>adroitboss</name>
+            <uri>https://news.ycombinator.com/user?id=adroitboss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代Dropbox的產品？
 ]]></title>
@@ -6939,17 +6951,6 @@
         <author>
             <name>xorica</name>
             <uri>https://news.ycombinator.com/user?id=xorica</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的某位工程師能否在Chrome上添加對IPFS的支持？]]></title>
-        <id>https://news.ycombinator.com/item?id=31129883</id>
-        <link href="https://news.ycombinator.com/item?id=31129883"/>
-        <updated>2022-04-23T00:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can one of the Google engineers add support for IPFS on Chrome?]]></summary>
-        <author>
-            <name>davidajackson</name>
-            <uri>https://news.ycombinator.com/user?id=davidajackson</uri>
         </author>
     </entry>
 </feed>
