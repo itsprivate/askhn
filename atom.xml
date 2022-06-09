@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T20:32:49.316Z</updated>
+    <updated>2022-06-09T21:27:07.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥森-斯科特-卡德是一名程序员吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31686850</id>
+        <link href="https://news.ycombinator.com/item?id=31686850"/>
+        <updated>2022-06-09T21:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Was Orson Scott Card a Programmer?]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的团队中有一个人话太多了。该怎么做？
 ]]></title>
@@ -6952,17 +6964,6 @@
         <author>
             <name>kovac</name>
             <uri>https://news.ycombinator.com/user?id=kovac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的面试被拒教会了你什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132619</id>
-        <link href="https://news.ycombinator.com/item?id=31132619"/>
-        <updated>2022-04-23T09:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did your interview rejections teach you?]]></summary>
-        <author>
-            <name>Sincere</name>
-            <uri>https://news.ycombinator.com/user?id=Sincere</uri>
         </author>
     </entry>
 </feed>
