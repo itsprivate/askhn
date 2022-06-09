@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T18:02:21.566Z</updated>
+    <updated>2022-06-09T18:35:57.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何留心CS的下一个热门领域？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31684821</id>
+        <link href="https://news.ycombinator.com/item?id=31684821"/>
+        <updated>2022-06-09T18:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to keep a lookout for the next hot field in CS?]]></summary>
+        <author>
+            <name>overclk64</name>
+            <uri>https://news.ycombinator.com/user?id=overclk64</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧的iPad，无法使用？
 ]]></title>
@@ -6946,17 +6958,6 @@
         <author>
             <name>thomassmith65</name>
             <uri>https://news.ycombinator.com/user?id=thomassmith65</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS的Safari扩展可以在其他浏览器中使用吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31131554</id>
-        <link href="https://news.ycombinator.com/item?id=31131554"/>
-        <updated>2022-04-23T05:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can Safari extensions for iOS work in other browsers?]]></summary>
-        <author>
-            <name>captn3m0</name>
-            <uri>https://news.ycombinator.com/user?id=captn3m0</uri>
         </author>
     </entry>
 </feed>
