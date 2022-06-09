@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T07:45:17.193Z</updated>
+    <updated>2022-06-09T08:03:28.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何设置与高管的初创企业研究访谈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678630</id>
+        <link href="https://news.ycombinator.com/item?id=31678630"/>
+        <updated>2022-06-09T07:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to setup startup research interviews with executives]]></summary>
+        <author>
+            <name>sarfrazarshad</name>
+            <uri>https://news.ycombinator.com/user?id=sarfrazarshad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找侧面项目
 ]]></title>
@@ -6917,17 +6929,6 @@
         <author>
             <name>swe_throwaway_3</name>
             <uri>https://news.ycombinator.com/user?id=swe_throwaway_3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按成分分类的食品数据库？]]></title>
-        <id>https://news.ycombinator.com/item?id=31124786</id>
-        <link href="https://news.ycombinator.com/item?id=31124786"/>
-        <updated>2022-04-22T17:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Database of Food by Ingredients?]]></summary>
-        <author>
-            <name>illwrks</name>
-            <uri>https://news.ycombinator.com/user?id=illwrks</uri>
         </author>
     </entry>
 </feed>
