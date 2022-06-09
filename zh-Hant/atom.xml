@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T16:50:48.973Z</updated>
+    <updated>2022-06-09T17:12:12.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何Fastmail客戶端支持用別名發送？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31683844</id>
+        <link href="https://news.ycombinator.com/item?id=31683844"/>
+        <updated>2022-06-09T17:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any Fastmail clients that support sending with aliases?]]></summary>
+        <author>
+            <name>yosito</name>
+            <uri>https://news.ycombinator.com/user?id=yosito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能停止被利用？
 ]]></title>
@@ -6942,17 +6954,6 @@
         <author>
             <name>L0in</name>
             <uri>https://news.ycombinator.com/user?id=L0in</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux IPv4和IPv6端口文章]]></title>
-        <id>https://news.ycombinator.com/item?id=31130441</id>
-        <link href="https://news.ycombinator.com/item?id=31130441"/>
-        <updated>2022-04-23T01:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Linux IPv4 and IPv6 ports article]]></summary>
-        <author>
-            <name>jesse_faden</name>
-            <uri>https://news.ycombinator.com/user?id=jesse_faden</uri>
         </author>
     </entry>
 </feed>
