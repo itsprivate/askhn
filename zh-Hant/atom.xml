@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T14:33:23.721Z</updated>
+    <updated>2022-06-09T15:02:28.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[請分享對編碼後 "奇點 "事件的看法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681881</id>
+        <link href="https://news.ycombinator.com/item?id=31681881"/>
+        <updated>2022-06-09T14:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Please share opinions on coding post “singularity” event]]></summary>
+        <author>
+            <name>iExploder</name>
+            <uri>https://news.ycombinator.com/user?id=iExploder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我如何選擇？亞馬遜與晚期創業公司
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681854</id>
+        <link href="https://news.ycombinator.com/item?id=31681854"/>
+        <updated>2022-06-09T14:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I choose? Amazon vs. Late Stage Startup]]></summary>
+        <author>
+            <name>sanman811</name>
+            <uri>https://news.ycombinator.com/user?id=sanman811</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼新的社交網絡讓你感到興奮嗎？
 ]]></title>
@@ -6924,28 +6948,6 @@
         <author>
             <name>gcau</name>
             <uri>https://news.ycombinator.com/user?id=gcau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你見過的最優雅的代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31129471</id>
-        <link href="https://news.ycombinator.com/item?id=31129471"/>
-        <updated>2022-04-22T23:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Most elegant code you’ve ever seen?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些替代Storybook的產品？]]></title>
-        <id>https://news.ycombinator.com/item?id=31129470</id>
-        <link href="https://news.ycombinator.com/item?id=31129470"/>
-        <updated>2022-04-22T23:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best alternatives to Storybook]]></summary>
-        <author>
-            <name>dynamite-ready</name>
-            <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
         </author>
     </entry>
 </feed>
