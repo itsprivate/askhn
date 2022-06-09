@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T13:54:47.638Z</updated>
+    <updated>2022-06-09T14:02:37.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公共Slack/Discord的開發者工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681195</id>
+        <link href="https://news.ycombinator.com/item?id=31681195"/>
+        <updated>2022-06-09T13:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: public Slack/Discord for developer tooling?]]></summary>
+        <author>
+            <name>rvcdbn</name>
+            <uri>https://news.ycombinator.com/user?id=rvcdbn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在過去20年裡，科技公司的面試發生了怎樣的變化？
 ]]></title>
@@ -6928,17 +6940,6 @@
         <author>
             <name>austinbeer</name>
             <uri>https://news.ycombinator.com/user?id=austinbeer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於拍賣的人才市場]]></title>
-        <id>https://news.ycombinator.com/item?id=31127272</id>
-        <link href="https://news.ycombinator.com/item?id=31127272"/>
-        <updated>2022-04-22T19:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Auction-Based Talent Marketplace]]></summary>
-        <author>
-            <name>snake_doc</name>
-            <uri>https://news.ycombinator.com/user?id=snake_doc</uri>
         </author>
     </entry>
 </feed>
