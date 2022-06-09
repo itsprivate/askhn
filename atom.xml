@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-09T12:59:43.692Z</updated>
+    <updated>2022-06-09T13:54:47.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在过去20年里，科技公司的面试发生了怎样的变化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680627</id>
+        <link href="https://news.ycombinator.com/item?id=31680627"/>
+        <updated>2022-06-09T12:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Tech Company interviews changed over last two decades?]]></summary>
+        <author>
+            <name>prakashqwerty</name>
+            <uri>https://news.ycombinator.com/user?id=prakashqwerty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你所知道的最大的静态网站是什么？
 ]]></title>
@@ -6927,17 +6939,6 @@
         <author>
             <name>snake_doc</name>
             <uri>https://news.ycombinator.com/user?id=snake_doc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[应届本科生网络设计的工作申请建议]]></title>
-        <id>https://news.ycombinator.com/item?id=31126926</id>
-        <link href="https://news.ycombinator.com/item?id=31126926"/>
-        <updated>2022-04-22T19:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Job application advice fresh undergrad web dev]]></summary>
-        <author>
-            <name>exitoxic</name>
-            <uri>https://news.ycombinator.com/user?id=exitoxic</uri>
         </author>
     </entry>
 </feed>
