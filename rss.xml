@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 10 Jun 2022 15:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 16:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微服务之所以好，是因为它们解决了技术或商业问题？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31696117</link>
+            <guid>https://news.ycombinator.com/item?id=31696117</guid>
+            <pubDate>Fri, 10 Jun 2022 16:11:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are microservices good because they solve tech or business problems?]]></description>
+        </item>
         <item>
             <title><![CDATA[这个周末你在做什么？
 ]]></title>
@@ -4584,13 +4592,6 @@
             <guid>https://news.ycombinator.com/item?id=31139586</guid>
             <pubDate>Sat, 23 Apr 2022 23:11:41 GMT</pubDate>
             <description><![CDATA[Ask HN: How to overcome fear of the unknown when applying to jobs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪里可以找到开放的数据集来玩耍，以学习ML？]]></title>
-            <link>https://news.ycombinator.com/item?id=31139368</link>
-            <guid>https://news.ycombinator.com/item?id=31139368</guid>
-            <pubDate>Sat, 23 Apr 2022 22:41:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where to find open data sets to play around with to learn ML?]]></description>
         </item>
     </channel>
 </rss>

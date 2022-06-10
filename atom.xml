@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T15:33:49.770Z</updated>
+    <updated>2022-06-10T16:50:39.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微服务之所以好，是因为它们解决了技术或商业问题？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696117</id>
+        <link href="https://news.ycombinator.com/item?id=31696117"/>
+        <updated>2022-06-10T16:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are microservices good because they solve tech or business problems?]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这个周末你在做什么？
 ]]></title>
@@ -6980,17 +6992,6 @@
         <author>
             <name>adecentcoder</name>
             <uri>https://news.ycombinator.com/user?id=adecentcoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪里可以找到开放的数据集来玩耍，以学习ML？]]></title>
-        <id>https://news.ycombinator.com/item?id=31139368</id>
-        <link href="https://news.ycombinator.com/item?id=31139368"/>
-        <updated>2022-04-23T22:41:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to find open data sets to play around with to learn ML?]]></summary>
-        <author>
-            <name>imperio59</name>
-            <uri>https://news.ycombinator.com/user?id=imperio59</uri>
         </author>
     </entry>
 </feed>
