@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T14:45:59.281Z</updated>
+    <updated>2022-06-10T15:33:49.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這個週末你在做什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31695411</id>
+        <link href="https://news.ycombinator.com/item?id=31695411"/>
+        <updated>2022-06-10T15:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you working on this weekend?]]></summary>
+        <author>
+            <name>WhiteOwlEd</name>
+            <uri>https://news.ycombinator.com/user?id=WhiteOwlEd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React中的SwiftUI佈局概念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31695340</id>
+        <link href="https://news.ycombinator.com/item?id=31695340"/>
+        <updated>2022-06-10T15:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SwiftUI Layout Concepts in React]]></summary>
+        <author>
+            <name>MrGrinst</name>
+            <uri>https://news.ycombinator.com/user?id=MrGrinst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle仍然是你日常生活的一部分嗎？
 ]]></title>
@@ -6967,28 +6991,6 @@
         <author>
             <name>imperio59</name>
             <uri>https://news.ycombinator.com/user?id=imperio59</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舉辦大型國際象棋比賽的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=31139172</id>
-        <link href="https://news.ycombinator.com/item?id=31139172"/>
-        <updated>2022-04-23T22:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice running a big scale chess tournament]]></summary>
-        <author>
-            <name>tahoslav</name>
-            <uri>https://news.ycombinator.com/user?id=tahoslav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子郵件治療]]></title>
-        <id>https://news.ycombinator.com/item?id=31139069</id>
-        <link href="https://news.ycombinator.com/item?id=31139069"/>
-        <updated>2022-04-23T22:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Email Therapy]]></summary>
-        <author>
-            <name>stigz</name>
-            <uri>https://news.ycombinator.com/user?id=stigz</uri>
         </author>
     </entry>
 </feed>
