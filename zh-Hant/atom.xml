@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T07:29:30.174Z</updated>
+    <updated>2022-06-10T08:35:46.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於網站的加密貨幣礦工能否取代所有互聯網廣告？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31691480</id>
+        <link href="https://news.ycombinator.com/item?id=31691480"/>
+        <updated>2022-06-10T08:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could website based crypto miners replace all internet ads?]]></summary>
+        <author>
+            <name>LoveMortuus</name>
+            <uri>https://news.ycombinator.com/user?id=LoveMortuus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與Twitter Decahose合作
 ]]></title>
@@ -6970,17 +6982,6 @@
         <author>
             <name>gymshoes</name>
             <uri>https://news.ycombinator.com/user?id=gymshoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼移動應用程序的福音日誌會被遺棄？]]></title>
-        <id>https://news.ycombinator.com/item?id=31137375</id>
-        <link href="https://news.ycombinator.com/item?id=31137375"/>
-        <updated>2022-04-23T19:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did mobile App-Changelogs did become abandoned]]></summary>
-        <author>
-            <name>Zeik0s</name>
-            <uri>https://news.ycombinator.com/user?id=Zeik0s</uri>
         </author>
     </entry>
 </feed>
