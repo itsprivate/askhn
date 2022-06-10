@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T03:45:36.054Z</updated>
+    <updated>2022-06-10T06:55:49.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[知道算法，或者知道如何实现算法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31690864</id>
+        <link href="https://news.ycombinator.com/item?id=31690864"/>
+        <updated>2022-06-10T06:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Know algorithms, or know how to implement them?]]></summary>
+        <author>
+            <name>baalimago</name>
+            <uri>https://news.ycombinator.com/user?id=baalimago</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的科技/商业播客是什么？
 ]]></title>
@@ -6966,17 +6978,6 @@
         <author>
             <name>khaled_ismaeel</name>
             <uri>https://news.ycombinator.com/user?id=khaled_ismaeel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中等水平的HN读者不知道哪些重要的最新技术？]]></title>
-        <id>https://news.ycombinator.com/item?id=31135743</id>
-        <link href="https://news.ycombinator.com/item?id=31135743"/>
-        <updated>2022-04-23T16:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What important recent technologies is the median HN reader unaware of?]]></summary>
-        <author>
-            <name>maxutility</name>
-            <uri>https://news.ycombinator.com/user?id=maxutility</uri>
         </author>
     </entry>
 </feed>
