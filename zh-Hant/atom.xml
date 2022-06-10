@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T19:27:26.080Z</updated>
+    <updated>2022-06-10T19:45:11.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在2022年推廣RSS訂閱？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31698496</id>
+        <link href="https://news.ycombinator.com/item?id=31698496"/>
+        <updated>2022-06-10T19:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to promote RSS subscriptions in 2022?]]></summary>
+        <author>
+            <name>oliwarner</name>
+            <uri>https://news.ycombinator.com/user?id=oliwarner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政府數據科學家應該使用哪些工具？
 ]]></title>
@@ -6986,17 +6998,6 @@
         <author>
             <name>sqwrell</name>
             <uri>https://news.ycombinator.com/user?id=sqwrell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何網絡黑客都可以將Twitter視頻複製到PC存儲中？]]></title>
-        <id>https://news.ycombinator.com/item?id=31141134</id>
-        <link href="https://news.ycombinator.com/item?id=31141134"/>
-        <updated>2022-04-24T03:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any web hacker can copy Twitter video into PC storage?]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>
