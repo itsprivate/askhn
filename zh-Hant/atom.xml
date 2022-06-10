@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T20:59:24.927Z</updated>
+    <updated>2022-06-10T21:46:10.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為無狀態的應用程序構建專門的Kubernetes
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699513</id>
+        <link href="https://news.ycombinator.com/item?id=31699513"/>
+        <updated>2022-06-10T21:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Building a Kubernetes just for stateless applications]]></summary>
+        <author>
+            <name>websap</name>
+            <uri>https://news.ycombinator.com/user?id=websap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人在他們的M1 MacBook上有音頻故障和爆音嗎？
 ]]></title>
@@ -6992,17 +7004,6 @@
         <author>
             <name>viraptor</name>
             <uri>https://news.ycombinator.com/user?id=viraptor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼採用英特爾/AMD的無風扇筆記本電腦這麼少？]]></title>
-        <id>https://news.ycombinator.com/item?id=31142209</id>
-        <link href="https://news.ycombinator.com/item?id=31142209"/>
-        <updated>2022-04-24T08:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there so few fanless laptops with Intel/AMD?]]></summary>
-        <author>
-            <name>pappeyrome</name>
-            <uri>https://news.ycombinator.com/user?id=pappeyrome</uri>
         </author>
     </entry>
 </feed>
