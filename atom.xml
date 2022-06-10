@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T02:24:19.979Z</updated>
+    <updated>2022-06-10T03:45:36.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的科技/商业播客是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689591</id>
+        <link href="https://news.ycombinator.com/item?id=31689591"/>
+        <updated>2022-06-10T03:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite tech/business podcasts]]></summary>
+        <author>
+            <name>mr_o47</name>
+            <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到目前为止，您是如何使用GitHub Copilot的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689320</id>
+        <link href="https://news.ycombinator.com/item?id=31689320"/>
+        <updated>2022-06-10T02:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How have you used GitHub Copilot so far?]]></summary>
+        <author>
+            <name>raunak</name>
+            <uri>https://news.ycombinator.com/user?id=raunak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你为你的智能手机支付了多少钱？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689312</id>
+        <link href="https://news.ycombinator.com/item?id=31689312"/>
+        <updated>2022-06-10T02:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much did you pay for your smartphone?]]></summary>
+        <author>
+            <name>slategruen</name>
+            <uri>https://news.ycombinator.com/user?id=slategruen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从跌落中恢复
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689306</id>
+        <link href="https://news.ycombinator.com/item?id=31689306"/>
+        <updated>2022-06-10T02:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recovering from a Nosedive]]></summary>
+        <author>
+            <name>anonthrow</name>
+            <uri>https://news.ycombinator.com/user?id=anonthrow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何克服 "音乐阅读障碍症"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689274</id>
+        <link href="https://news.ycombinator.com/item?id=31689274"/>
+        <updated>2022-06-10T02:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Overcome “Musical Dyslexia?”]]></summary>
+        <author>
+            <name>Leftium</name>
+            <uri>https://news.ycombinator.com/user?id=Leftium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁在仲裁中遇到过不利于他们的情况？
 ]]></title>
@@ -6917,61 +6977,6 @@
         <author>
             <name>maxutility</name>
             <uri>https://news.ycombinator.com/user?id=maxutility</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何给出建议的呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=31135656</id>
-        <link href="https://news.ycombinator.com/item?id=31135656"/>
-        <updated>2022-04-23T16:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you give advice?]]></summary>
-        <author>
-            <name>pattyj</name>
-            <uri>https://news.ycombinator.com/user?id=pattyj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该为成为一名研究工程师而攻读硕士学位吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31134742</id>
-        <link href="https://news.ycombinator.com/item?id=31134742"/>
-        <updated>2022-04-23T14:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I purse a masters to become a Research Engineer?]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更便宜的Algolia替代品？]]></title>
-        <id>https://news.ycombinator.com/item?id=31134320</id>
-        <link href="https://news.ycombinator.com/item?id=31134320"/>
-        <updated>2022-04-23T13:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cheaper Algolia Alternative?]]></summary>
-        <author>
-            <name>h99</name>
-            <uri>https://news.ycombinator.com/user?id=h99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你停放了多少个域名，你在这些域名上花了多少钱？]]></title>
-        <id>https://news.ycombinator.com/item?id=31133956</id>
-        <link href="https://news.ycombinator.com/item?id=31133956"/>
-        <updated>2022-04-23T13:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many domain names did you park and what have you spent on them?]]></summary>
-        <author>
-            <name>berkeshire</name>
-            <uri>https://news.ycombinator.com/user?id=berkeshire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试图追求我自己的愿景，被所有的挑战压得喘不过气来]]></title>
-        <id>https://news.ycombinator.com/item?id=31133826</id>
-        <link href="https://news.ycombinator.com/item?id=31133826"/>
-        <updated>2022-04-23T12:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Trying to pursue my own vision, overwhelmed by all the challenges]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
