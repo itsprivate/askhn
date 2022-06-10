@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-10T21:46:10.098Z</updated>
+    <updated>2022-06-10T22:29:15.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的可觀察性工具是否創建了太多的日誌？主要原因是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699865</id>
+        <link href="https://news.ycombinator.com/item?id=31699865"/>
+        <updated>2022-06-10T22:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do your observability tools create too many logs? What are main causes?]]></summary>
+        <author>
+            <name>fluffybird628</name>
+            <uri>https://news.ycombinator.com/user?id=fluffybird628</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為無狀態的應用程序構建專門的Kubernetes
 ]]></title>
@@ -6993,17 +7005,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是全球性、低吞吐量、低延遲的消息總線服務？]]></title>
-        <id>https://news.ycombinator.com/item?id=31142631</id>
-        <link href="https://news.ycombinator.com/item?id=31142631"/>
-        <updated>2022-04-24T10:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a global, low throughput, low latency message bus service?]]></summary>
-        <author>
-            <name>viraptor</name>
-            <uri>https://news.ycombinator.com/user?id=viraptor</uri>
         </author>
     </entry>
 </feed>
