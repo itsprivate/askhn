@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T20:28:34.670Z</updated>
+    <updated>2022-06-11T20:59:27.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的纯文本网站的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708245</id>
+        <link href="https://news.ycombinator.com/item?id=31708245"/>
+        <updated>2022-06-11T20:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of good plain text websites?]]></summary>
+        <author>
+            <name>etataetaet</name>
+            <uri>https://news.ycombinator.com/user?id=etataetaet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪种iOS浏览器可以方便地复制文本？
 ]]></title>
@@ -7030,17 +7042,6 @@
         <author>
             <name>omot</name>
             <uri>https://news.ycombinator.com/user?id=omot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么技巧可以让iOS应用程序的提交更容易？]]></title>
-        <id>https://news.ycombinator.com/item?id=31151330</id>
-        <link href="https://news.ycombinator.com/item?id=31151330"/>
-        <updated>2022-04-25T06:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any tips on making iOS App submission easier?]]></summary>
-        <author>
-            <name>toshk</name>
-            <uri>https://news.ycombinator.com/user?id=toshk</uri>
         </author>
     </entry>
 </feed>
