@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T15:49:22.083Z</updated>
+    <updated>2022-06-11T17:04:19.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些书籍或网站对学习网络知识有好处？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705854</id>
+        <link href="https://news.ycombinator.com/item?id=31705854"/>
+        <updated>2022-06-11T16:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What books or websites are good for learning about networks?]]></summary>
+        <author>
+            <name>Brystephor</name>
+            <uri>https://news.ycombinator.com/user?id=Brystephor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有 "匹配范围 "的Rgex Python库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705850</id>
+        <link href="https://news.ycombinator.com/item?id=31705850"/>
+        <updated>2022-06-11T16:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Python library for regex with “extent-of-match”]]></summary>
+        <author>
+            <name>georgeam</name>
+            <uri>https://news.ycombinator.com/user?id=georgeam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你喜欢在代码示例中使用非包装行？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705768</id>
+        <link href="https://news.ycombinator.com/item?id=31705768"/>
+        <updated>2022-06-11T16:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you prefer non-wrapping lines in code examples?]]></summary>
+        <author>
+            <name>0des</name>
+            <uri>https://news.ycombinator.com/user?id=0des</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么大多数事情都会失败？
 ]]></title>
@@ -6991,39 +7027,6 @@
         <author>
             <name>productceo</name>
             <uri>https://news.ycombinator.com/user?id=productceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学历高就能得到更有趣的工作吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31148388</id>
-        <link href="https://news.ycombinator.com/item?id=31148388"/>
-        <updated>2022-04-24T21:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you get more interesting jobs with a higher degree?]]></summary>
-        <author>
-            <name>exitoxic</name>
-            <uri>https://news.ycombinator.com/user?id=exitoxic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么自动驾驶汽车不使用信号？]]></title>
-        <id>https://news.ycombinator.com/item?id=31148316</id>
-        <link href="https://news.ycombinator.com/item?id=31148316"/>
-        <updated>2022-04-24T21:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren’t autonomous cars using signals?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习CS，对金融感兴趣，我应该学什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31148034</id>
-        <link href="https://news.ycombinator.com/item?id=31148034"/>
-        <updated>2022-04-24T20:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Studying CS, interested in Finance, what should I study?]]></summary>
-        <author>
-            <name>washedDeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=washedDeveloper</uri>
         </author>
     </entry>
 </feed>
