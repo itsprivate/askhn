@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T11:44:01.658Z</updated>
+    <updated>2022-06-11T14:47:54.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪个领域对新的创业公司来说更有潜力。Web3或AI？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31704663</id>
+        <link href="https://news.ycombinator.com/item?id=31704663"/>
+        <updated>2022-06-11T14:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which area has more potential for a new startup: Web3 or AI?]]></summary>
+        <author>
+            <name>MaxRush</name>
+            <uri>https://news.ycombinator.com/user?id=MaxRush</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何利用金钱来赚钱？
 ]]></title>
@@ -7008,17 +7020,6 @@
         <author>
             <name>adawg4</name>
             <uri>https://news.ycombinator.com/user?id=adawg4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米加杜? 邮政？Mxroute？或任何其他使用这种模式的邮件服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=31143847</id>
-        <link href="https://news.ycombinator.com/item?id=31143847"/>
-        <updated>2022-04-24T13:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Migadu? Postale? Mxroute? Or any other mail services using this model?]]></summary>
-        <author>
-            <name>Normille</name>
-            <uri>https://news.ycombinator.com/user?id=Normille</uri>
         </author>
     </entry>
 </feed>
