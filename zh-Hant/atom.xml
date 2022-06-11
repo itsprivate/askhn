@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T19:03:59.296Z</updated>
+    <updated>2022-06-11T19:25:42.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最適合初學者的線性代數書？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31707163</id>
+        <link href="https://news.ycombinator.com/item?id=31707163"/>
+        <updated>2022-06-11T19:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best beginner friendly linear algebra book?]]></summary>
+        <author>
+            <name>belfalas</name>
+            <uri>https://news.ycombinator.com/user?id=belfalas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何記住那些你不是每天都在使用/參考的技術主題？
 ]]></title>
@@ -7026,17 +7038,6 @@
         <author>
             <name>amd64</name>
             <uri>https://news.ycombinator.com/user?id=amd64</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨著Meta、Netflix等公司的掙扎，技術員工的薪酬將下降？]]></title>
-        <id>https://news.ycombinator.com/item?id=31150742</id>
-        <link href="https://news.ycombinator.com/item?id=31150742"/>
-        <updated>2022-04-25T04:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tech employees' comp about go down with Meta, Netflix, etc. struggling?]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
         </author>
     </entry>
 </feed>
