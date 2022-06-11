@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T19:46:15.899Z</updated>
+    <updated>2022-06-11T20:28:34.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪种iOS浏览器可以方便地复制文本？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31707739</id>
+        <link href="https://news.ycombinator.com/item?id=31707739"/>
+        <updated>2022-06-11T19:59:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which iOS browser makes it easy to copy text?]]></summary>
+        <author>
+            <name>forgotmypw17</name>
+            <uri>https://news.ycombinator.com/user?id=forgotmypw17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[需要为一个慈善机构提供简单的裸露的静态登陆网站服务
 ]]></title>
@@ -7029,17 +7041,6 @@
         <author>
             <name>toshk</name>
             <uri>https://news.ycombinator.com/user?id=toshk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高我的电子邮件技能的最佳方法是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31151295</id>
-        <link href="https://news.ycombinator.com/item?id=31151295"/>
-        <updated>2022-04-25T06:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best way to improve my email skills?]]></summary>
-        <author>
-            <name>prakashqwerty</name>
-            <uri>https://news.ycombinator.com/user?id=prakashqwerty</uri>
         </author>
     </entry>
 </feed>
