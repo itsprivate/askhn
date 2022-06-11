@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T06:33:09.571Z</updated>
+    <updated>2022-06-11T07:27:02.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于模糊的隐私政策，可以做些什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702592</id>
+        <link href="https://news.ycombinator.com/item?id=31702592"/>
+        <updated>2022-06-11T07:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What can be done about vague privacy policies?]]></summary>
+        <author>
+            <name>totetsu</name>
+            <uri>https://news.ycombinator.com/user?id=totetsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[监视器的亮度/对比度有实体拨盘吗？
 ]]></title>
@@ -7002,17 +7014,6 @@
         <author>
             <name>sillycube</name>
             <uri>https://news.ycombinator.com/user?id=sillycube</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust嵌入式测试框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31144800</id>
-        <link href="https://news.ycombinator.com/item?id=31144800"/>
-        <updated>2022-04-24T15:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Rust embedded testing frameworks]]></summary>
-        <author>
-            <name>ostenning</name>
-            <uri>https://news.ycombinator.com/user?id=ostenning</uri>
         </author>
     </entry>
 </feed>
