@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T21:46:27.307Z</updated>
+    <updated>2022-06-11T22:45:20.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個新畢業生，我應該擔心嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709186</id>
+        <link href="https://news.ycombinator.com/item?id=31709186"/>
+        <updated>2022-06-11T22:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a New Grad, should I be worried?]]></summary>
+        <author>
+            <name>Jcowell</name>
+            <uri>https://news.ycombinator.com/user?id=Jcowell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於一夜之間成為第一任經理的建議？
 ]]></title>
@@ -7033,17 +7045,6 @@
         <author>
             <name>farnoud</name>
             <uri>https://news.ycombinator.com/user?id=farnoud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[復古計算是實用主義的電力用戶的桌面的未來嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31151735</id>
-        <link href="https://news.ycombinator.com/item?id=31151735"/>
-        <updated>2022-04-25T08:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is retrocomputing the pragmatist power user's future of the desktop?]]></summary>
-        <author>
-            <name>gyulai</name>
-            <uri>https://news.ycombinator.com/user?id=gyulai</uri>
         </author>
     </entry>
 </feed>
