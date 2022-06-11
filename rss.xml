@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 11 Jun 2022 18:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 18:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[市场上是否有没有 "智能电视 "功能的电视？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31706835</link>
+            <guid>https://news.ycombinator.com/item?id=31706835</guid>
+            <pubDate>Sat, 11 Jun 2022 18:28:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a TV on the market without “Smart TV” features?]]></description>
+        </item>
         <item>
             <title><![CDATA[关于将科技纳入法律/监督的政策？
 ]]></title>
@@ -4628,13 +4636,6 @@
             <guid>https://news.ycombinator.com/item?id=31150397</guid>
             <pubDate>Mon, 25 Apr 2022 03:04:59 GMT</pubDate>
             <description><![CDATA[Ask HN: What separates a good interviewer from a bad one?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何查看拉动请求前后的UI变化？]]></title>
-            <link>https://news.ycombinator.com/item?id=31150336</link>
-            <guid>https://news.ycombinator.com/item?id=31150336</guid>
-            <pubDate>Mon, 25 Apr 2022 02:51:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to view UI changes before & after a pull request?]]></description>
         </item>
     </channel>
 </rss>

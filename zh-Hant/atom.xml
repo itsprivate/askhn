@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T18:41:55.484Z</updated>
+    <updated>2022-06-11T18:51:09.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[市場上是否有沒有 "智能電視 "功能的電視？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31706835</id>
+        <link href="https://news.ycombinator.com/item?id=31706835"/>
+        <updated>2022-06-11T18:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a TV on the market without “Smart TV” features?]]></summary>
+        <author>
+            <name>nborwankar</name>
+            <uri>https://news.ycombinator.com/user?id=nborwankar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於將科技納入法律/監督的政策？
 ]]></title>
@@ -7024,17 +7036,6 @@
         <author>
             <name>Sincere</name>
             <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何查看拉動請求前後的UI變化？]]></title>
-        <id>https://news.ycombinator.com/item?id=31150336</id>
-        <link href="https://news.ycombinator.com/item?id=31150336"/>
-        <updated>2022-04-25T02:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to view UI changes before & after a pull request?]]></summary>
-        <author>
-            <name>seestraw</name>
-            <uri>https://news.ycombinator.com/user?id=seestraw</uri>
         </author>
     </entry>
 </feed>
