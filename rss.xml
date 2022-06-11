@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 11 Jun 2022 21:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 21:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于一夜之间成为第一任经理的建议？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31708620</link>
+            <guid>https://news.ycombinator.com/item?id=31708620</guid>
+            <pubDate>Sat, 11 Jun 2022 21:31:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Advice on becoming a first-time manager overnight?]]></description>
+        </item>
         <item>
             <title><![CDATA[你知道的最酷的网站是什么？
 ]]></title>
@@ -4636,13 +4644,6 @@
             <guid>https://news.ycombinator.com/item?id=31151735</guid>
             <pubDate>Mon, 25 Apr 2022 08:10:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Is retrocomputing the pragmatist power user's future of the desktop?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[运行时修改软件的实际例子]]></title>
-            <link>https://news.ycombinator.com/item?id=31151452</link>
-            <guid>https://news.ycombinator.com/item?id=31151452</guid>
-            <pubDate>Mon, 25 Apr 2022 07:17:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Practical examples of runtime modified software]]></description>
         </item>
     </channel>
 </rss>

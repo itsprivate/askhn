@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T21:23:49.394Z</updated>
+    <updated>2022-06-11T21:46:27.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於一夜之間成為第一任經理的建議？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708620</id>
+        <link href="https://news.ycombinator.com/item?id=31708620"/>
+        <updated>2022-06-11T21:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on becoming a first-time manager overnight?]]></summary>
+        <author>
+            <name>abbadadda</name>
+            <uri>https://news.ycombinator.com/user?id=abbadadda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道的最酷的網站是什麼？
 ]]></title>
@@ -7032,17 +7044,6 @@
         <author>
             <name>gyulai</name>
             <uri>https://news.ycombinator.com/user?id=gyulai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運行時修改軟件的實際例子]]></title>
-        <id>https://news.ycombinator.com/item?id=31151452</id>
-        <link href="https://news.ycombinator.com/item?id=31151452"/>
-        <updated>2022-04-25T07:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Practical examples of runtime modified software]]></summary>
-        <author>
-            <name>roeles</name>
-            <uri>https://news.ycombinator.com/user?id=roeles</uri>
         </author>
     </entry>
 </feed>
