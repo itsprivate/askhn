@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T16:39:25.360Z</updated>
+    <updated>2022-06-12T17:06:46.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你曾经在一个非资本主义的编码集体中工作过吗？它是怎样的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716051</id>
+        <link href="https://news.ycombinator.com/item?id=31716051"/>
+        <updated>2022-06-12T17:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you ever worked in a non-capitalist coding collective? How was it?]]></summary>
+        <author>
+            <name>jesushax</name>
+            <uri>https://news.ycombinator.com/user?id=jesushax</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个人可以为网上的手柄申请版权吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715890</id>
+        <link href="https://news.ycombinator.com/item?id=31715890"/>
+        <updated>2022-06-12T16:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can one copyright an online handle?]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收藏是一种拖延的形式吗？
 ]]></title>
@@ -7042,28 +7066,6 @@
         <author>
             <name>pvinis</name>
             <uri>https://news.ycombinator.com/user?id=pvinis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决娱乐业初创公司的内容可发现性问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=31156239</id>
-        <link href="https://news.ycombinator.com/item?id=31156239"/>
-        <updated>2022-04-25T15:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Solving content discoverability for entertainment startup?]]></summary>
-        <author>
-            <name>_hl_</name>
-            <uri>https://news.ycombinator.com/user?id=_hl_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is '-- \n' still relevant as email signature delimeter?]]></title>
-        <id>https://news.ycombinator.com/item?id=31155960</id>
-        <link href="https://news.ycombinator.com/item?id=31155960"/>
-        <updated>2022-04-25T15:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Is '-- \n' still relevant as email signature delimeter?]]></summary>
-        <author>
-            <name>geekifier</name>
-            <uri>https://news.ycombinator.com/user?id=geekifier</uri>
         </author>
     </entry>
 </feed>
