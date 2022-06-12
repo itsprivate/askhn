@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-11T22:45:20.780Z</updated>
+    <updated>2022-06-12T02:36:59.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼工具可以根據音頻來搜索視頻嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710238</id>
+        <link href="https://news.ycombinator.com/item?id=31710238"/>
+        <updated>2022-06-12T01:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any tools to search video based on audio?]]></summary>
+        <author>
+            <name>muxneo</name>
+            <uri>https://news.ycombinator.com/user?id=muxneo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個新畢業生，我應該擔心嗎？
 ]]></title>
@@ -7034,17 +7046,6 @@
         <author>
             <name>martin_a</name>
             <uri>https://news.ycombinator.com/user?id=martin_a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要幫助為我們的產品挑選一個名字]]></title>
-        <id>https://news.ycombinator.com/item?id=31151777</id>
-        <link href="https://news.ycombinator.com/item?id=31151777"/>
-        <updated>2022-04-25T08:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I need help picking a name for our product]]></summary>
-        <author>
-            <name>farnoud</name>
-            <uri>https://news.ycombinator.com/user?id=farnoud</uri>
         </author>
     </entry>
 </feed>
