@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 20:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 21:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作為一名SWE，你如何挑選正確的職業道路？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31718085</link>
+            <guid>https://news.ycombinator.com/item?id=31718085</guid>
+            <pubDate>Sun, 12 Jun 2022 20:44:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you pick the right career path as a SWE?]]></description>
+        </item>
         <item>
             <title><![CDATA[我們能否將提交的最大標題長度增加到80個字符以上？
 ]]></title>
@@ -4665,13 +4673,6 @@
             <guid>https://news.ycombinator.com/item?id=31158970</guid>
             <pubDate>Mon, 25 Apr 2022 18:42:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Which language should I learn for Back end?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[無密碼？]]></title>
-            <link>https://news.ycombinator.com/item?id=31158760</link>
-            <guid>https://news.ycombinator.com/item?id=31158760</guid>
-            <pubDate>Mon, 25 Apr 2022 18:24:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Passwordless?]]></description>
         </item>
     </channel>
 </rss>

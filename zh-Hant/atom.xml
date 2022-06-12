@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T20:48:21.003Z</updated>
+    <updated>2022-06-12T21:00:00.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名SWE，你如何挑選正確的職業道路？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718085</id>
+        <link href="https://news.ycombinator.com/item?id=31718085"/>
+        <updated>2022-06-12T20:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you pick the right career path as a SWE?]]></summary>
+        <author>
+            <name>yellowBrickCode</name>
+            <uri>https://news.ycombinator.com/user?id=yellowBrickCode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們能否將提交的最大標題長度增加到80個字符以上？
 ]]></title>
@@ -7061,17 +7073,6 @@
         <author>
             <name>b3tameche</name>
             <uri>https://news.ycombinator.com/user?id=b3tameche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無密碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31158760</id>
-        <link href="https://news.ycombinator.com/item?id=31158760"/>
-        <updated>2022-04-25T18:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Passwordless?]]></summary>
-        <author>
-            <name>3000</name>
-            <uri>https://news.ycombinator.com/user?id=3000</uri>
         </author>
     </entry>
 </feed>
