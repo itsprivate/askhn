@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T21:00:00.116Z</updated>
+    <updated>2022-06-12T21:47:18.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在谷歌地图上获得街道名称？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718419</id>
+        <link href="https://news.ycombinator.com/item?id=31718419"/>
+        <updated>2022-06-12T21:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get street name onto Google Maps?]]></summary>
+        <author>
+            <name>tnjm</name>
+            <uri>https://news.ycombinator.com/user?id=tnjm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名SWE，你如何挑选正确的职业道路？
 ]]></title>
@@ -7062,17 +7074,6 @@
         <author>
             <name>oblio</name>
             <uri>https://news.ycombinator.com/user?id=oblio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该为后端学习哪种语言？]]></title>
-        <id>https://news.ycombinator.com/item?id=31158970</id>
-        <link href="https://news.ycombinator.com/item?id=31158970"/>
-        <updated>2022-04-25T18:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which language should I learn for Back end?]]></summary>
-        <author>
-            <name>b3tameche</name>
-            <uri>https://news.ycombinator.com/user?id=b3tameche</uri>
         </author>
     </entry>
 </feed>
