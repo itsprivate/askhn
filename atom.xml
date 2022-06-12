@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T02:36:59.685Z</updated>
+    <updated>2022-06-12T04:18:10.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Git克隆的默认值是所有的提交，而不是最后的提交呢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711056</id>
+        <link href="https://news.ycombinator.com/item?id=31711056"/>
+        <updated>2022-06-12T03:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How come Git clone defaults to be all commits instead the last]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在是买房的 "最坏 "时机吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710907</id>
+        <link href="https://news.ycombinator.com/item?id=31710907"/>
+        <updated>2022-06-12T03:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it the “worst” time to buy a house?]]></summary>
+        <author>
+            <name>rootsudo</name>
+            <uri>https://news.ycombinator.com/user?id=rootsudo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么工具可以根据音频来搜索视频吗？
 ]]></title>
@@ -7024,28 +7048,6 @@
         <author>
             <name>noduerme</name>
             <uri>https://news.ycombinator.com/user?id=noduerme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些语言有真正的本地合作多任务？]]></title>
-        <id>https://news.ycombinator.com/item?id=31152087</id>
-        <link href="https://news.ycombinator.com/item?id=31152087"/>
-        <updated>2022-04-25T09:07:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What languages have true native cooperative multitasking?]]></summary>
-        <author>
-            <name>nrdvana</name>
-            <uri>https://news.ycombinator.com/user?id=nrdvana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何实现电子商务数据的可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=31151930</id>
-        <link href="https://news.ycombinator.com/item?id=31151930"/>
-        <updated>2022-04-25T08:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to visualize e-commerce data]]></summary>
-        <author>
-            <name>martin_a</name>
-            <uri>https://news.ycombinator.com/user?id=martin_a</uri>
         </author>
     </entry>
 </feed>

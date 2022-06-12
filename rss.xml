@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 02:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 04:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Git克隆的默认值是所有的提交，而不是最后的提交呢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31711056</link>
+            <guid>https://news.ycombinator.com/item?id=31711056</guid>
+            <pubDate>Sun, 12 Jun 2022 03:25:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: How come Git clone defaults to be all commits instead the last]]></description>
+        </item>
+        <item>
+            <title><![CDATA[现在是买房的 "最坏 "时机吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31710907</link>
+            <guid>https://news.ycombinator.com/item?id=31710907</guid>
+            <pubDate>Sun, 12 Jun 2022 03:02:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it the “worst” time to buy a house?]]></description>
+        </item>
         <item>
             <title><![CDATA[有什么工具可以根据音频来搜索视频吗？
 ]]></title>
@@ -4632,20 +4648,6 @@
             <guid>https://news.ycombinator.com/item?id=31152148</guid>
             <pubDate>Mon, 25 Apr 2022 09:16:58 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is Node.js more susceptible to supply chain attacks than e.g. PHP?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪些语言有真正的本地合作多任务？]]></title>
-            <link>https://news.ycombinator.com/item?id=31152087</link>
-            <guid>https://news.ycombinator.com/item?id=31152087</guid>
-            <pubDate>Mon, 25 Apr 2022 09:07:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: What languages have true native cooperative multitasking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何实现电子商务数据的可视化]]></title>
-            <link>https://news.ycombinator.com/item?id=31151930</link>
-            <guid>https://news.ycombinator.com/item?id=31151930</guid>
-            <pubDate>Mon, 25 Apr 2022 08:42:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to visualize e-commerce data]]></description>
         </item>
     </channel>
 </rss>
