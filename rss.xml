@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 04:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 05:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Chrome手机不提供将标签保存到谷歌文档中的功能？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31711543</link>
+            <guid>https://news.ycombinator.com/item?id=31711543</guid>
+            <pubDate>Sun, 12 Jun 2022 04:51:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't Chrome mobile offer to save your tabs to a Google Doc?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么Git克隆的默认值是所有的提交，而不是最后的提交呢？
 ]]></title>
@@ -4641,13 +4649,6 @@
             <guid>https://news.ycombinator.com/item?id=31152312</guid>
             <pubDate>Mon, 25 Apr 2022 09:43:06 GMT</pubDate>
             <description><![CDATA[Ask HN: What is your iOS/Android/serverless go-live checklist?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么 Node.js 比 PHP 等更容易受到供应链的攻击？]]></title>
-            <link>https://news.ycombinator.com/item?id=31152148</link>
-            <guid>https://news.ycombinator.com/item?id=31152148</guid>
-            <pubDate>Mon, 25 Apr 2022 09:16:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is Node.js more susceptible to supply chain attacks than e.g. PHP?]]></description>
         </item>
     </channel>
 </rss>

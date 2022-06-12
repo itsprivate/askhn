@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T04:18:10.440Z</updated>
+    <updated>2022-06-12T05:02:51.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Chrome手機不提供將標籤保存到谷歌文檔中的功能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711543</id>
+        <link href="https://news.ycombinator.com/item?id=31711543"/>
+        <updated>2022-06-12T04:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't Chrome mobile offer to save your tabs to a Google Doc?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Git克隆的默認值是所有的提交，而不是最後的提交呢？
 ]]></title>
@@ -7037,17 +7049,6 @@
         <author>
             <name>barryhennessy</name>
             <uri>https://news.ycombinator.com/user?id=barryhennessy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 Node.js 比 PHP 等更容易受到供應鏈的攻擊？]]></title>
-        <id>https://news.ycombinator.com/item?id=31152148</id>
-        <link href="https://news.ycombinator.com/item?id=31152148"/>
-        <updated>2022-04-25T09:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Node.js more susceptible to supply chain attacks than e.g. PHP?]]></summary>
-        <author>
-            <name>noduerme</name>
-            <uri>https://news.ycombinator.com/user?id=noduerme</uri>
         </author>
     </entry>
 </feed>
