@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T09:01:50.363Z</updated>
+    <updated>2022-06-12T10:30:20.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java受到身份問題的困擾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713403</id>
+        <link href="https://news.ycombinator.com/item?id=31713403"/>
+        <updated>2022-06-12T10:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Java Suffers from an Identity Problem]]></summary>
+        <author>
+            <name>itsmefaz</name>
+            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20世紀80年代和90年代的計算機都在哪裡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713331</id>
+        <link href="https://news.ycombinator.com/item?id=31713331"/>
+        <updated>2022-06-12T10:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where are all the computers from the 1980's and 1990's?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據工程師，你用哪種編程語言工作？
 ]]></title>
@@ -7032,28 +7056,6 @@
         <author>
             <name>beeks10</name>
             <uri>https://news.ycombinator.com/user?id=beeks10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何進行屏幕共享/遠程管理的工作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31153802</id>
-        <link href="https://news.ycombinator.com/item?id=31153802"/>
-        <updated>2022-04-25T12:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you doing screensharing/remote admin work?]]></summary>
-        <author>
-            <name>idealmedtech</name>
-            <uri>https://news.ycombinator.com/user?id=idealmedtech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於管理研發項目的建議閱讀]]></title>
-        <id>https://news.ycombinator.com/item?id=31153774</id>
-        <link href="https://news.ycombinator.com/item?id=31153774"/>
-        <updated>2022-04-25T12:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Suggested reading about managing R&D projects]]></summary>
-        <author>
-            <name>random_moonwalk</name>
-            <uri>https://news.ycombinator.com/user?id=random_moonwalk</uri>
         </author>
     </entry>
 </feed>
