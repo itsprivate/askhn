@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T16:01:52.945Z</updated>
+    <updated>2022-06-12T16:39:25.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收藏是一種拖延的形式嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715594</id>
+        <link href="https://news.ycombinator.com/item?id=31715594"/>
+        <updated>2022-06-12T16:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Bookmarking a Form of Procrastination?]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indy遊戲開發者，你使用哪種遊戲引擎？
 ]]></title>
@@ -7052,17 +7064,6 @@
         <author>
             <name>geekifier</name>
             <uri>https://news.ycombinator.com/user?id=geekifier</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡應用和移動應用以及後端=分佈式系統？]]></title>
-        <id>https://news.ycombinator.com/item?id=31155805</id>
-        <link href="https://news.ycombinator.com/item?id=31155805"/>
-        <updated>2022-04-25T14:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Web apps and mobile apps and back end = distributed system?]]></summary>
-        <author>
-            <name>ElFitz</name>
-            <uri>https://news.ycombinator.com/user?id=ElFitz</uri>
         </author>
     </entry>
 </feed>
