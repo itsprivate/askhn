@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T05:02:51.227Z</updated>
+    <updated>2022-06-12T05:45:01.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你经常阅读哪些个人博客或网站？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711705</id>
+        <link href="https://news.ycombinator.com/item?id=31711705"/>
+        <updated>2022-06-12T05:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which personal blogs or websites do you read regularly?]]></summary>
+        <author>
+            <name>newsoul</name>
+            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Chrome手机不提供将标签保存到谷歌文档中的功能？
 ]]></title>
@@ -7035,17 +7047,6 @@
         <link href="https://news.ycombinator.com/item?id=31152490"/>
         <updated>2022-04-25T10:06:05.000Z</updated>
         <summary type="html"><![CDATA[Ask HN: Have you used SQLite as a primary database?]]></summary>
-        <author>
-            <name>barryhennessy</name>
-            <uri>https://news.ycombinator.com/user?id=barryhennessy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的iOS/Android/无服务器上线清单是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31152312</id>
-        <link href="https://news.ycombinator.com/item?id=31152312"/>
-        <updated>2022-04-25T09:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your iOS/Android/serverless go-live checklist?]]></summary>
         <author>
             <name>barryhennessy</name>
             <uri>https://news.ycombinator.com/user?id=barryhennessy</uri>
