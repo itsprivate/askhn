@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T22:45:59.083Z</updated>
+    <updated>2022-06-12T23:58:46.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何利用虚拟个人助理服务？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31719380</id>
+        <link href="https://news.ycombinator.com/item?id=31719380"/>
+        <updated>2022-06-12T23:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make use of Virtual Personal Assistance services?]]></summary>
+        <author>
+            <name>cvsv</name>
+            <uri>https://news.ycombinator.com/user?id=cvsv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何投资你的钱？
 ]]></title>
@@ -7065,17 +7077,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带泛型的Go会在Web3中超过Rust吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31159720</id>
-        <link href="https://news.ycombinator.com/item?id=31159720"/>
-        <updated>2022-04-25T19:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will Go with generics overtake Rust in Web3?]]></summary>
-        <author>
-            <name>neuralquantum</name>
-            <uri>https://news.ycombinator.com/user?id=neuralquantum</uri>
         </author>
     </entry>
 </feed>
