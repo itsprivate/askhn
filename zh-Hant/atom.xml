@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T13:14:16.393Z</updated>
+    <updated>2022-06-12T16:01:52.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Indy遊戲開發者，你使用哪種遊戲引擎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715396</id>
+        <link href="https://news.ycombinator.com/item?id=31715396"/>
+        <updated>2022-06-12T15:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Indy Game developers, which game engine do you use?]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰在行業內與Community Detection合作？
 ]]></title>
@@ -7051,17 +7063,6 @@
         <author>
             <name>ElFitz</name>
             <uri>https://news.ycombinator.com/user?id=ElFitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在住房危機期間，你是如何管理的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31155786</id>
-        <link href="https://news.ycombinator.com/item?id=31155786"/>
-        <updated>2022-04-25T14:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you managing during the housing crisis?]]></summary>
-        <author>
-            <name>tediousdemise</name>
-            <uri>https://news.ycombinator.com/user?id=tediousdemise</uri>
         </author>
     </entry>
 </feed>
