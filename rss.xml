@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 05:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 07:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Windows会随着时间的推移而变慢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31712206</link>
+            <guid>https://news.ycombinator.com/item?id=31712206</guid>
+            <pubDate>Sun, 12 Jun 2022 06:57:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why does Windows slow down over time?]]></description>
+        </item>
         <item>
             <title><![CDATA[你经常阅读哪些个人博客或网站？
 ]]></title>
@@ -4643,13 +4651,6 @@
             <guid>https://news.ycombinator.com/item?id=31152817</guid>
             <pubDate>Mon, 25 Apr 2022 10:54:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Why isn't reddit.com rotating moderators?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否使用过SQLite作为主数据库？]]></title>
-            <link>https://news.ycombinator.com/item?id=31152490</link>
-            <guid>https://news.ycombinator.com/item?id=31152490</guid>
-            <pubDate>Mon, 25 Apr 2022 10:06:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you used SQLite as a primary database?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T05:45:01.534Z</updated>
+    <updated>2022-06-12T07:26:01.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Windows會隨著時間的推移而變慢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712206</id>
+        <link href="https://news.ycombinator.com/item?id=31712206"/>
+        <updated>2022-06-12T06:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does Windows slow down over time?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你經常閱讀哪些個人博客或網站？
 ]]></title>
@@ -7039,17 +7051,6 @@
         <author>
             <name>jdrc</name>
             <uri>https://news.ycombinator.com/user?id=jdrc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否使用過SQLite作為主數據庫？]]></title>
-        <id>https://news.ycombinator.com/item?id=31152490</id>
-        <link href="https://news.ycombinator.com/item?id=31152490"/>
-        <updated>2022-04-25T10:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you used SQLite as a primary database?]]></summary>
-        <author>
-            <name>barryhennessy</name>
-            <uri>https://news.ycombinator.com/user?id=barryhennessy</uri>
         </author>
     </entry>
 </feed>
