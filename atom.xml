@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T08:32:55.519Z</updated>
+    <updated>2022-06-12T08:49:28.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有哪些博客是值得关注的？类似这样的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712770</id>
+        <link href="https://news.ycombinator.com/item?id=31712770"/>
+        <updated>2022-06-12T08:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which other blogs are worthy of following? Something like this]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是最好的开放源码书籍？
 ]]></title>
@@ -7041,17 +7053,6 @@
         <author>
             <name>atlasunshrugged</name>
             <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人利用收入分成投资进行种子轮融资？]]></title>
-        <id>https://news.ycombinator.com/item?id=31153137</id>
-        <link href="https://news.ycombinator.com/item?id=31153137"/>
-        <updated>2022-04-25T11:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone leveraged revenue share investing for their seed round?]]></summary>
-        <author>
-            <name>unsurecofounder</name>
-            <uri>https://news.ycombinator.com/user?id=unsurecofounder</uri>
         </author>
     </entry>
 </feed>
