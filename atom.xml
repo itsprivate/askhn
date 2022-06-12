@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T19:58:30.191Z</updated>
+    <updated>2022-06-12T20:29:50.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么WWDC的浏览量是谷歌I/O的10倍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717821</id>
+        <link href="https://news.ycombinator.com/item?id=31717821"/>
+        <updated>2022-06-12T20:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does WWDC get 10x more views than Google I/O?]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冰川是否适合用于发电？
 ]]></title>
@@ -7058,17 +7070,6 @@
         <author>
             <name>backslash_16</name>
             <uri>https://news.ycombinator.com/user?id=backslash_16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于云的/基于浏览器的台式电脑推荐？]]></title>
-        <id>https://news.ycombinator.com/item?id=31158321</id>
-        <link href="https://news.ycombinator.com/item?id=31158321"/>
-        <updated>2022-04-25T17:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cloud-based / browser-based desktop PC recommendations?]]></summary>
-        <author>
-            <name>favourable</name>
-            <uri>https://news.ycombinator.com/user?id=favourable</uri>
         </author>
     </entry>
 </feed>
