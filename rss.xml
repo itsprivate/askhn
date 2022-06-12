@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 20:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 20:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们能否将提交的最大标题长度增加到80个字符以上？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31718019</link>
+            <guid>https://news.ycombinator.com/item?id=31718019</guid>
+            <pubDate>Sun, 12 Jun 2022 20:34:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can we increase max submission title length to more than 80 chars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个状态机可以是无状态的吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31718004</link>
+            <guid>https://news.ycombinator.com/item?id=31718004</guid>
+            <pubDate>Sun, 12 Jun 2022 20:33:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can a state machine be stateless?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么WWDC的浏览量是谷歌I/O的10倍？
 ]]></title>
@@ -4656,20 +4672,6 @@
             <guid>https://news.ycombinator.com/item?id=31158760</guid>
             <pubDate>Mon, 25 Apr 2022 18:24:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Passwordless?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Google Worskpaces被G公司删除了:(用什么来做自我托管的电子邮件？]]></title>
-            <link>https://news.ycombinator.com/item?id=31158429</link>
-            <guid>https://news.ycombinator.com/item?id=31158429</guid>
-            <pubDate>Mon, 25 Apr 2022 17:58:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: Google Worskpaces got deleted by G:( what to use for self-hosted email?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Twitter，未归属的补助金会如何处理？]]></title>
-            <link>https://news.ycombinator.com/item?id=31158336</link>
-            <guid>https://news.ycombinator.com/item?id=31158336</guid>
-            <pubDate>Mon, 25 Apr 2022 17:50:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: What happens to unvested grants at Twitter?]]></description>
         </item>
     </channel>
 </rss>
