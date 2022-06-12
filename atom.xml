@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T19:44:37.604Z</updated>
+    <updated>2022-06-12T19:58:30.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冰川是否适合用于发电？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717610</id>
+        <link href="https://news.ycombinator.com/item?id=31717610"/>
+        <updated>2022-06-12T19:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Glaciers Suitable for Power Generation?]]></summary>
+        <author>
+            <name>ghastmaster</name>
+            <uri>https://news.ycombinator.com/user?id=ghastmaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何征服你的手机瘾？
 ]]></title>
@@ -7057,17 +7069,6 @@
         <author>
             <name>favourable</name>
             <uri>https://news.ycombinator.com/user?id=favourable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter的毒丸是怎么回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=31157969</id>
-        <link href="https://news.ycombinator.com/item?id=31157969"/>
-        <updated>2022-04-25T17:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happened to Twitter poison pill?]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
         </author>
     </entry>
 </feed>
