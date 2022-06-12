@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T08:49:28.175Z</updated>
+    <updated>2022-06-12T09:01:50.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據工程師，你用哪種編程語言工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712950</id>
+        <link href="https://news.ycombinator.com/item?id=31712950"/>
+        <updated>2022-06-12T08:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Data Engineers, which programming language(s) do you work with?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有哪些博客是值得關注的？類似這樣的東西
 ]]></title>
@@ -7042,17 +7054,6 @@
         <author>
             <name>random_moonwalk</name>
             <uri>https://news.ycombinator.com/user?id=random_moonwalk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果會不會收購Netflix？]]></title>
-        <id>https://news.ycombinator.com/item?id=31153169</id>
-        <link href="https://news.ycombinator.com/item?id=31153169"/>
-        <updated>2022-04-25T11:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will Apple ever buy Netflix?]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
         </author>
     </entry>
 </feed>

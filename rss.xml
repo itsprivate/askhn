@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 12 Jun 2022 08:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 09:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[数据工程师，你用哪种编程语言工作？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31712950</link>
+            <guid>https://news.ycombinator.com/item?id=31712950</guid>
+            <pubDate>Sun, 12 Jun 2022 08:54:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Data Engineers, which programming language(s) do you work with?]]></description>
+        </item>
         <item>
             <title><![CDATA[还有哪些博客是值得关注的？类似这样的东西
 ]]></title>
@@ -4646,13 +4654,6 @@
             <guid>https://news.ycombinator.com/item?id=31153774</guid>
             <pubDate>Mon, 25 Apr 2022 12:56:19 GMT</pubDate>
             <description><![CDATA[Ask HN: Suggested reading about managing R&D projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果会不会收购Netflix？]]></title>
-            <link>https://news.ycombinator.com/item?id=31153169</link>
-            <guid>https://news.ycombinator.com/item?id=31153169</guid>
-            <pubDate>Mon, 25 Apr 2022 11:44:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Will Apple ever buy Netflix?]]></description>
         </item>
     </channel>
 </rss>
