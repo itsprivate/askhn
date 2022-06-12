@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T18:50:51.734Z</updated>
+    <updated>2022-06-12T19:44:37.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何征服你的手机瘾？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717404</id>
+        <link href="https://news.ycombinator.com/item?id=31717404"/>
+        <updated>2022-06-12T19:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you conquer your phone addiction?]]></summary>
+        <author>
+            <name>meisterbrendan</name>
+            <uri>https://news.ycombinator.com/user?id=meisterbrendan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone个人热点对你来说也是坏的吗？
 ]]></title>
@@ -7056,17 +7068,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么应用程序或浏览器扩展来更快地阅读文章？]]></title>
-        <id>https://news.ycombinator.com/item?id=31157260</id>
-        <link href="https://news.ycombinator.com/item?id=31157260"/>
-        <updated>2022-04-25T16:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What apps or browser extensions do you use to read articles quicker?]]></summary>
-        <author>
-            <name>ryanSrich</name>
-            <uri>https://news.ycombinator.com/user?id=ryanSrich</uri>
         </author>
     </entry>
 </feed>
