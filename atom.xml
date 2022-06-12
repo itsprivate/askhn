@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-12T17:06:46.271Z</updated>
+    <updated>2022-06-12T18:50:51.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[iPhone个人热点对你来说也是坏的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717035</id>
+        <link href="https://news.ycombinator.com/item?id=31717035"/>
+        <updated>2022-06-12T18:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is iPhone Personal Hotspot broken for you too?]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你曾经在一个非资本主义的编码集体中工作过吗？它是怎样的？
 ]]></title>
@@ -7055,17 +7067,6 @@
         <author>
             <name>ryanSrich</name>
             <uri>https://news.ycombinator.com/user?id=ryanSrich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一种利用我所有机器的方法？]]></title>
-        <id>https://news.ycombinator.com/item?id=31156914</id>
-        <link href="https://news.ycombinator.com/item?id=31156914"/>
-        <updated>2022-04-25T16:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A way to utilize all my machines?]]></summary>
-        <author>
-            <name>pvinis</name>
-            <uri>https://news.ycombinator.com/user?id=pvinis</uri>
         </author>
     </entry>
 </feed>
