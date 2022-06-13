@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 12:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你会如何处理迂腐的代码审查？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31724183</link>
+            <guid>https://news.ycombinator.com/item?id=31724183</guid>
+            <pubDate>Mon, 13 Jun 2022 11:56:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: How would you handle pedantic code reviews?]]></description>
+        </item>
         <item>
             <title><![CDATA[最好的软件工程YouTube视频/截屏/代码演练？
 ]]></title>
@@ -4682,13 +4690,6 @@
             <guid>https://news.ycombinator.com/item?id=31162967</guid>
             <pubDate>Tue, 26 Apr 2022 01:25:19 GMT</pubDate>
             <description><![CDATA[Ask HN: How does USB PD 3.0 determine voltage?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是最方便用户的在线分享3D模型的方式？]]></title>
-            <link>https://news.ycombinator.com/item?id=31162935</link>
-            <guid>https://news.ycombinator.com/item?id=31162935</guid>
-            <pubDate>Tue, 26 Apr 2022 01:20:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the most user-friendly way to share a 3D model online?]]></description>
         </item>
     </channel>
 </rss>

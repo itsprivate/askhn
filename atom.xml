@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T11:45:20.948Z</updated>
+    <updated>2022-06-13T12:58:56.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会如何处理迂腐的代码审查？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724183</id>
+        <link href="https://news.ycombinator.com/item?id=31724183"/>
+        <updated>2022-06-13T11:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you handle pedantic code reviews?]]></summary>
+        <author>
+            <name>thisiswrongggg</name>
+            <uri>https://news.ycombinator.com/user?id=thisiswrongggg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最好的软件工程YouTube视频/截屏/代码演练？
 ]]></title>
@@ -7078,17 +7090,6 @@
         <author>
             <name>giantg2</name>
             <uri>https://news.ycombinator.com/user?id=giantg2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是最方便用户的在线分享3D模型的方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162935</id>
-        <link href="https://news.ycombinator.com/item?id=31162935"/>
-        <updated>2022-04-26T01:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the most user-friendly way to share a 3D model online?]]></summary>
-        <author>
-            <name>Vladimof</name>
-            <uri>https://news.ycombinator.com/user?id=Vladimof</uri>
         </author>
     </entry>
 </feed>
