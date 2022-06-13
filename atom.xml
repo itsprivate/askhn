@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T11:28:14.435Z</updated>
+    <updated>2022-06-13T11:45:20.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最好的软件工程YouTube视频/截屏/代码演练？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723990</id>
+        <link href="https://news.ycombinator.com/item?id=31723990"/>
+        <updated>2022-06-13T11:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best software engineering YouTube videos/screencasts/code walkthroughs?]]></summary>
+        <author>
+            <name>0x008</name>
+            <uri>https://news.ycombinator.com/user?id=0x008</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的LaTeX模板有哪些，用于图片量大的演示？
 ]]></title>
@@ -7077,17 +7089,6 @@
         <author>
             <name>Vladimof</name>
             <uri>https://news.ycombinator.com/user?id=Vladimof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自大流行以来，你是如何增强你的社区意识的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162542</id>
-        <link href="https://news.ycombinator.com/item?id=31162542"/>
-        <updated>2022-04-26T00:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How have you increased your sense of community since the pandemic?]]></summary>
-        <author>
-            <name>calflegal</name>
-            <uri>https://news.ycombinator.com/user?id=calflegal</uri>
         </author>
     </entry>
 </feed>
