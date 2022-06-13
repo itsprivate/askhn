@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T19:28:07.384Z</updated>
+    <updated>2022-06-13T19:47:06.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道有什麼網站可以找到按學科分類的最佳書籍嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31730350</id>
+        <link href="https://news.ycombinator.com/item?id=31730350"/>
+        <updated>2022-06-13T19:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you know any webs to find best books by discipline?]]></summary>
+        <author>
+            <name>mezod</name>
+            <uri>https://news.ycombinator.com/user?id=mezod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社會/行業對我們說過的或仍在說的最大謊言是什麼？
 ]]></title>
@@ -7095,17 +7107,6 @@
         <author>
             <name>aristofun</name>
             <uri>https://news.ycombinator.com/user?id=aristofun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特員工的股票授予會發生什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31166225</id>
-        <link href="https://news.ycombinator.com/item?id=31166225"/>
-        <updated>2022-04-26T11:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happens with stock grants for Twitter employees?]]></summary>
-        <author>
-            <name>rmedranollamas</name>
-            <uri>https://news.ycombinator.com/user?id=rmedranollamas</uri>
         </author>
     </entry>
 </feed>
