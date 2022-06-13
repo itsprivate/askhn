@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T05:33:23.495Z</updated>
+    <updated>2022-06-13T05:48:27.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自从在家工作后，你的休息日是多了还是少了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31721631</id>
+        <link href="https://news.ycombinator.com/item?id=31721631"/>
+        <updated>2022-06-13T05:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Since work from home do you took more or less day off?]]></summary>
+        <author>
+            <name>mandaputtra</name>
+            <uri>https://news.ycombinator.com/user?id=mandaputtra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为技术经理提供的关于教育科技开发的FERPA合规性的资源
 ]]></title>
@@ -7070,17 +7082,6 @@
         <author>
             <name>metadat</name>
             <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的简历上，你是否使用了与你的雇主不同的头衔？]]></title>
-        <id>https://news.ycombinator.com/item?id=31161537</id>
-        <link href="https://news.ycombinator.com/item?id=31161537"/>
-        <updated>2022-04-25T22:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: On your CV do you use a different title from the one your employer uses?]]></summary>
-        <author>
-            <name>jstx1</name>
-            <uri>https://news.ycombinator.com/user?id=jstx1</uri>
         </author>
     </entry>
 </feed>
