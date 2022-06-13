@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T05:48:27.778Z</updated>
+    <updated>2022-06-13T07:46:03.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您在轉錄時使用什麼語音轉文字工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722371</id>
+        <link href="https://news.ycombinator.com/item?id=31722371"/>
+        <updated>2022-06-13T07:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What voice-to-text tools do you use for transcription?]]></summary>
+        <author>
+            <name>DavidPiper</name>
+            <uri>https://news.ycombinator.com/user?id=DavidPiper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自從在家工作後，你的休息日是多了還是少了？
 ]]></title>
@@ -7071,17 +7083,6 @@
         <author>
             <name>sebastianconcpt</name>
             <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特現在是否要求註冊才能查看推文？]]></title>
-        <id>https://news.ycombinator.com/item?id=31161605</id>
-        <link href="https://news.ycombinator.com/item?id=31161605"/>
-        <updated>2022-04-25T22:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Twitter now demanding registration to view a tweet?]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>

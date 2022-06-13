@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 13 Jun 2022 05:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[您在轉錄時使用什麼語音轉文字工具？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31722371</link>
+            <guid>https://news.ycombinator.com/item?id=31722371</guid>
+            <pubDate>Mon, 13 Jun 2022 07:31:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: What voice-to-text tools do you use for transcription?]]></description>
+        </item>
         <item>
             <title><![CDATA[自從在家工作後，你的休息日是多了還是少了？
 ]]></title>
@@ -4675,13 +4683,6 @@
             <guid>https://news.ycombinator.com/item?id=31161719</guid>
             <pubDate>Mon, 25 Apr 2022 22:38:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Tauri or Node-GUI?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特現在是否要求註冊才能查看推文？]]></title>
-            <link>https://news.ycombinator.com/item?id=31161605</link>
-            <guid>https://news.ycombinator.com/item?id=31161605</guid>
-            <pubDate>Mon, 25 Apr 2022 22:28:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Twitter now demanding registration to view a tweet?]]></description>
         </item>
     </channel>
 </rss>
