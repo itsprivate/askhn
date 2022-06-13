@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 13 Jun 2022 16:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 16:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有誰知道蘋果M1芯片是否支持iGPU穿透？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31727964</link>
+            <guid>https://news.ycombinator.com/item?id=31727964</guid>
+            <pubDate>Mon, 13 Jun 2022 16:41:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anybody know if Apple M1 chip support iGPU passthrough?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[正規的CS教育重要嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31727795</link>
+            <guid>https://news.ycombinator.com/item?id=31727795</guid>
+            <pubDate>Mon, 13 Jun 2022 16:30:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does a formal education in CS matter?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是第一次看到Youtube廣告嗎？
 ]]></title>
@@ -4680,20 +4696,6 @@
             <guid>https://news.ycombinator.com/item?id=31164138</guid>
             <pubDate>Tue, 26 Apr 2022 05:05:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Who Regrets Choosing Elixir?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[UI測試作為一種產品化的服務是否可行？]]></title>
-            <link>https://news.ycombinator.com/item?id=31164070</link>
-            <guid>https://news.ycombinator.com/item?id=31164070</guid>
-            <pubDate>Tue, 26 Apr 2022 04:57:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is UI testing viable as a productized service?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[除了LibreOffice以外的開源辦公套件？]]></title>
-            <link>https://news.ycombinator.com/item?id=31163876</link>
-            <guid>https://news.ycombinator.com/item?id=31163876</guid>
-            <pubDate>Tue, 26 Apr 2022 04:14:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Open-source office suite other than LibreOffice?]]></description>
         </item>
     </channel>
 </rss>
