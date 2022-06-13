@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T21:46:45.696Z</updated>
+    <updated>2022-06-13T22:01:00.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于经营企业的最佳书籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732275</id>
+        <link href="https://news.ycombinator.com/item?id=31732275"/>
+        <updated>2022-06-13T21:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Books on Running the Business?]]></summary>
+        <author>
+            <name>uptownfunk</name>
+            <uri>https://news.ycombinator.com/user?id=uptownfunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在聊天机器人已经足够好了，人们可以不再担心孤独地死去了吗？
 ]]></title>
@@ -7097,17 +7109,6 @@
         <author>
             <name>yamoriyamori</name>
             <uri>https://news.ycombinator.com/user?id=yamoriyamori</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去一年，HN的流量/参与度是否有所下降？]]></title>
-        <id>https://news.ycombinator.com/item?id=31166605</id>
-        <link href="https://news.ycombinator.com/item?id=31166605"/>
-        <updated>2022-04-26T12:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has HN traffic / engagement declined over the past year?]]></summary>
-        <author>
-            <name>rexreed</name>
-            <uri>https://news.ycombinator.com/user?id=rexreed</uri>
         </author>
     </entry>
 </feed>
