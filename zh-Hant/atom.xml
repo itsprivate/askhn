@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T19:47:06.412Z</updated>
+    <updated>2022-06-13T21:46:45.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在聊天機器人已經足夠好了，人們可以不再擔心孤獨地死去了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31731995</id>
+        <link href="https://news.ycombinator.com/item?id=31731995"/>
+        <updated>2022-06-13T21:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are chatbots good enough now for people to worry less about dying alone?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道有什麼網站可以找到按學科分類的最佳書籍嗎？
 ]]></title>
@@ -7096,17 +7108,6 @@
         <author>
             <name>rexreed</name>
             <uri>https://news.ycombinator.com/user?id=rexreed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於關鍵的CS理念的頂級激勵性書籍？]]></title>
-        <id>https://news.ycombinator.com/item?id=31166475</id>
-        <link href="https://news.ycombinator.com/item?id=31166475"/>
-        <updated>2022-04-26T12:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Top inspiring books on crucial CS ideas?]]></summary>
-        <author>
-            <name>aristofun</name>
-            <uri>https://news.ycombinator.com/user?id=aristofun</uri>
         </author>
     </entry>
 </feed>
