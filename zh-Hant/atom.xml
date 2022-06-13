@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T22:01:00.790Z</updated>
+    <updated>2022-06-13T23:01:15.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在的YouTube有多破？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732767</id>
+        <link href="https://news.ycombinator.com/item?id=31732767"/>
+        <updated>2022-06-13T22:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How broken is YouTube these days?]]></summary>
+        <author>
+            <name>martin_a</name>
+            <uri>https://news.ycombinator.com/user?id=martin_a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於經營企業的最佳書籍？
 ]]></title>
@@ -7098,17 +7110,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在技術討論中信心不足，還是冒名頂替者綜合症？]]></title>
-        <id>https://news.ycombinator.com/item?id=31166622</id>
-        <link href="https://news.ycombinator.com/item?id=31166622"/>
-        <updated>2022-04-26T12:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Low confidence in tech discussions, or impostor syndrome?]]></summary>
-        <author>
-            <name>yamoriyamori</name>
-            <uri>https://news.ycombinator.com/user?id=yamoriyamori</uri>
         </author>
     </entry>
 </feed>
