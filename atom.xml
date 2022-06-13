@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T10:02:20.596Z</updated>
+    <updated>2022-06-13T11:28:14.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的LaTeX模板有哪些，用于图片量大的演示？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723826</id>
+        <link href="https://news.ycombinator.com/item?id=31723826"/>
+        <updated>2022-06-13T11:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite LaTeX templates for image heavy presentations?]]></summary>
+        <author>
+            <name>dontbenebby</name>
+            <uri>https://news.ycombinator.com/user?id=dontbenebby</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何检查你的软件功能是否已被授予专利？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723691</id>
+        <link href="https://news.ycombinator.com/item?id=31723691"/>
+        <updated>2022-06-13T11:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to check if your software feature might already be patented?]]></summary>
+        <author>
+            <name>jb1991</name>
+            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在没有特殊程序的情况下收获漏洞赏金
 ]]></title>
@@ -7064,28 +7088,6 @@
         <author>
             <name>calflegal</name>
             <uri>https://news.ycombinator.com/user?id=calflegal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索和爬虫是否符合GDPR？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162468</id>
-        <link href="https://news.ycombinator.com/item?id=31162468"/>
-        <updated>2022-04-26T00:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Google search and crawler comply with GDPR?]]></summary>
-        <author>
-            <name>lemax</name>
-            <uri>https://news.ycombinator.com/user?id=lemax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您推荐哪种由人类策划的音乐流媒体服务？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162205</id>
-        <link href="https://news.ycombinator.com/item?id=31162205"/>
-        <updated>2022-04-25T23:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What human-curated music streaming service do you recommend?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
