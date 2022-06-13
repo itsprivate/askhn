@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T08:36:37.922Z</updated>
+    <updated>2022-06-13T10:02:20.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在沒有特殊程序的情況下收穫漏洞賞金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723198</id>
+        <link href="https://news.ycombinator.com/item?id=31723198"/>
+        <updated>2022-06-13T09:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reaping bug bounty without a special program]]></summary>
+        <author>
+            <name>therusskiy</name>
+            <uri>https://news.ycombinator.com/user?id=therusskiy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT的熱潮結束了嗎？
 ]]></title>
@@ -7074,17 +7086,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig、Hara和V之間的主要區別是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162042</id>
-        <link href="https://news.ycombinator.com/item?id=31162042"/>
-        <updated>2022-04-25T23:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the main difference between Zig, Hara and V?]]></summary>
-        <author>
-            <name>iio7</name>
-            <uri>https://news.ycombinator.com/user?id=iio7</uri>
         </author>
     </entry>
 </feed>
