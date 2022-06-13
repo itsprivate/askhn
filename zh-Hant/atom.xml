@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T07:46:03.591Z</updated>
+    <updated>2022-06-13T08:36:37.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFT的熱潮結束了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722605</id>
+        <link href="https://news.ycombinator.com/item?id=31722605"/>
+        <updated>2022-06-13T08:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the NFT Craze Over?]]></summary>
+        <author>
+            <name>d--b</name>
+            <uri>https://news.ycombinator.com/user?id=d--b</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能像GAN一樣訓練一個聊天機器人嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722511</id>
+        <link href="https://news.ycombinator.com/item?id=31722511"/>
+        <updated>2022-06-13T07:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could you train a chatbot like a GAN?]]></summary>
+        <author>
+            <name>julianbuse</name>
+            <uri>https://news.ycombinator.com/user?id=julianbuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您在轉錄時使用什麼語音轉文字工具？
 ]]></title>
@@ -7061,28 +7085,6 @@
         <author>
             <name>iio7</name>
             <uri>https://news.ycombinator.com/user?id=iio7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有一個開源的谷歌，可以挑選你的算法？]]></title>
-        <id>https://news.ycombinator.com/item?id=31161877</id>
-        <link href="https://news.ycombinator.com/item?id=31161877"/>
-        <updated>2022-04-25T22:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn’t there an open source Google with pick your algorithm?]]></summary>
-        <author>
-            <name>yogi123</name>
-            <uri>https://news.ycombinator.com/user?id=yogi123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauri或Node-GUI？]]></title>
-        <id>https://news.ycombinator.com/item?id=31161719</id>
-        <link href="https://news.ycombinator.com/item?id=31161719"/>
-        <updated>2022-04-25T22:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tauri or Node-GUI?]]></summary>
-        <author>
-            <name>sebastianconcpt</name>
-            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
         </author>
     </entry>
 </feed>
