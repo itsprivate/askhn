@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T12:58:56.969Z</updated>
+    <updated>2022-06-13T13:53:54.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兒童博客作家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724953</id>
+        <link href="https://news.ycombinator.com/item?id=31724953"/>
+        <updated>2022-06-13T13:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Kid Blog Writers]]></summary>
+        <author>
+            <name>aruanavekar</name>
+            <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會如何處理迂腐的代碼審查？
 ]]></title>
@@ -7079,17 +7091,6 @@
         <author>
             <name>yesenadam</name>
             <uri>https://news.ycombinator.com/user?id=yesenadam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB PD 3.0是如何確定電壓的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31162967</id>
-        <link href="https://news.ycombinator.com/item?id=31162967"/>
-        <updated>2022-04-26T01:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does USB PD 3.0 determine voltage?]]></summary>
-        <author>
-            <name>giantg2</name>
-            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 13 Jun 2022 12:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[儿童博客作家
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31724953</link>
+            <guid>https://news.ycombinator.com/item?id=31724953</guid>
+            <pubDate>Mon, 13 Jun 2022 13:03:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Kid Blog Writers]]></description>
+        </item>
         <item>
             <title><![CDATA[你会如何处理迂腐的代码审查？
 ]]></title>
@@ -4683,13 +4691,6 @@
             <guid>https://news.ycombinator.com/item?id=31163215</guid>
             <pubDate>Tue, 26 Apr 2022 02:07:25 GMT</pubDate>
             <description><![CDATA[Ask HN: Trying to get a copy of a hard-to-get book/pdf]]></description>
-        </item>
-        <item>
-            <title><![CDATA[USB PD 3.0是如何确定电压的？]]></title>
-            <link>https://news.ycombinator.com/item?id=31162967</link>
-            <guid>https://news.ycombinator.com/item?id=31162967</guid>
-            <pubDate>Tue, 26 Apr 2022 01:25:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: How does USB PD 3.0 determine voltage?]]></description>
         </item>
     </channel>
 </rss>
