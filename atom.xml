@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T19:28:03.193Z</updated>
+    <updated>2022-06-14T19:47:18.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用浏览器地址栏进行搜索？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744862</id>
+        <link href="https://news.ycombinator.com/item?id=31744862"/>
+        <updated>2022-06-14T19:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use the browser address bar to search?]]></summary>
+        <author>
+            <name>dumbfool666</name>
+            <uri>https://news.ycombinator.com/user?id=dumbfool666</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你还访问哪些论坛？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744682</id>
+        <link href="https://news.ycombinator.com/item?id=31744682"/>
+        <updated>2022-06-14T19:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What other forums do you visit?]]></summary>
+        <author>
+            <name>jawmes8</name>
+            <uri>https://news.ycombinator.com/user?id=jawmes8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，哪种编程语言适合首次编程的人？
 ]]></title>
@@ -7135,28 +7159,6 @@
         <author>
             <name>reddragonblue</name>
             <uri>https://news.ycombinator.com/user?id=reddragonblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产生产品分析SQL的最佳方式？]]></title>
-        <id>https://news.ycombinator.com/item?id=31181606</id>
-        <link href="https://news.ycombinator.com/item?id=31181606"/>
-        <updated>2022-04-27T15:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best way to generate product analytics SQL?]]></summary>
-        <author>
-            <name>colinplamondon</name>
-            <uri>https://news.ycombinator.com/user?id=colinplamondon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于最近的安全漏洞，heroku是否会履行任何服务协议？]]></title>
-        <id>https://news.ycombinator.com/item?id=31180902</id>
-        <link href="https://news.ycombinator.com/item?id=31180902"/>
-        <updated>2022-04-27T15:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will heroku honor any SLA in regards to the recent security breach]]></summary>
-        <author>
-            <name>allen-munsch</name>
-            <uri>https://news.ycombinator.com/user?id=allen-munsch</uri>
         </author>
     </entry>
 </feed>
