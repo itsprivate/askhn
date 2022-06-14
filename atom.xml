@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T08:36:59.369Z</updated>
+    <updated>2022-06-14T09:50:58.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在Linux上提高高效的在线流媒体
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31736522</id>
+        <link href="https://news.ycombinator.com/item?id=31736522"/>
+        <updated>2022-06-14T09:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to raise efficient online streaming on Linux]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的组织有安全卫士计划吗？它是否有用？
 ]]></title>
@@ -7114,17 +7126,6 @@
         <author>
             <name>trifit</name>
             <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails上的Ruby仍然相关吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31170481</id>
-        <link href="https://news.ycombinator.com/item?id=31170481"/>
-        <updated>2022-04-26T17:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Ruby on Rails still relevant?]]></summary>
-        <author>
-            <name>contr-error</name>
-            <uri>https://news.ycombinator.com/user?id=contr-error</uri>
         </author>
     </entry>
 </feed>
