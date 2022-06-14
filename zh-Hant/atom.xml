@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T19:59:29.441Z</updated>
+    <updated>2022-06-14T20:33:30.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於教學視頻的簡單視頻編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745463</id>
+        <link href="https://news.ycombinator.com/item?id=31745463"/>
+        <updated>2022-06-14T20:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Simple video editor for instructional videos]]></summary>
+        <author>
+            <name>samspenc</name>
+            <uri>https://news.ycombinator.com/user?id=samspenc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些彙編器的抽象比C更好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745357</id>
+        <link href="https://news.ycombinator.com/item?id=31745357"/>
+        <updated>2022-06-14T20:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What assembler abstractions are better than C?]]></summary>
+        <author>
+            <name>sebastianconcpt</name>
+            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習leetcode的庫和陣列方法的資源？
 ]]></title>
@@ -7139,28 +7163,6 @@
         <author>
             <name>cbono1</name>
             <uri>https://news.ycombinator.com/user?id=cbono1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是一個傲慢的人，還是我身邊有很多無能的人？]]></title>
-        <id>https://news.ycombinator.com/item?id=31182149</id>
-        <link href="https://news.ycombinator.com/item?id=31182149"/>
-        <updated>2022-04-27T16:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I an arrogant or am I surrounded by incompetent people?]]></summary>
-        <author>
-            <name>AmIAnElitist</name>
-            <uri>https://news.ycombinator.com/user?id=AmIAnElitist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我錯過了我的83(b)，我應該怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=31181973</id>
-        <link href="https://news.ycombinator.com/item?id=31181973"/>
-        <updated>2022-04-27T16:20:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What should I do if I miss my 83(b)?]]></summary>
-        <author>
-            <name>ryanbrwr</name>
-            <uri>https://news.ycombinator.com/user?id=ryanbrwr</uri>
         </author>
     </entry>
 </feed>
