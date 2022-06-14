@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T12:56:42.720Z</updated>
+    <updated>2022-06-14T13:48:19.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是不是對量子力學有誤解？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31739200</id>
+        <link href="https://news.ycombinator.com/item?id=31739200"/>
+        <updated>2022-06-14T13:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I misunderstanding quantum mechanics?]]></summary>
+        <author>
+            <name>dojitza1</name>
+            <uri>https://news.ycombinator.com/user?id=dojitza1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有視覺策展人嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31738870</id>
+        <link href="https://news.ycombinator.com/item?id=31738870"/>
+        <updated>2022-06-14T13:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Visual Curators?]]></summary>
+        <author>
+            <name>lahirurlt</name>
+            <uri>https://news.ycombinator.com/user?id=lahirurlt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否嘗試過製作自己的博客平臺？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31738778</id>
+        <link href="https://news.ycombinator.com/item?id=31738778"/>
+        <updated>2022-06-14T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you tried making your own blogging platform?]]></summary>
+        <author>
+            <name>annagrigoryan2</name>
+            <uri>https://news.ycombinator.com/user?id=annagrigoryan2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何處理互聯網和信息成癮的問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31738667</id>
+        <link href="https://news.ycombinator.com/item?id=31738667"/>
+        <updated>2022-06-14T12:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with Internet and information addiction?]]></summary>
+        <author>
+            <name>annyeonghada</name>
+            <uri>https://news.ycombinator.com/user?id=annyeonghada</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初學者如何繞過Ubuntu 18 GRUB中的root passsw/passphrase？
 ]]></title>
@@ -7086,50 +7134,6 @@
         <author>
             <name>teh_klev</name>
             <uri>https://news.ycombinator.com/user?id=teh_klev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[品牌故意拼錯名字，這叫什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31174614</id>
-        <link href="https://news.ycombinator.com/item?id=31174614"/>
-        <updated>2022-04-26T23:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is it called when brands deliberately misspell names]]></summary>
-        <author>
-            <name>asimjalis</name>
-            <uri>https://news.ycombinator.com/user?id=asimjalis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網平臺上的機器人是否意味著驗證碼實際上是無用的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31174287</id>
-        <link href="https://news.ycombinator.com/item?id=31174287"/>
-        <updated>2022-04-26T23:07:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do the bots on internet platforms mean captchas are effectively useless?]]></summary>
-        <author>
-            <name>solenoidalslide</name>
-            <uri>https://news.ycombinator.com/user?id=solenoidalslide</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於時間管理的最佳書籍/課程？]]></title>
-        <id>https://news.ycombinator.com/item?id=31174038</id>
-        <link href="https://news.ycombinator.com/item?id=31174038"/>
-        <updated>2022-04-26T22:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best book/course on time management?]]></summary>
-        <author>
-            <name>krm01</name>
-            <uri>https://news.ycombinator.com/user?id=krm01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你必須將數字數據保存100年，你會怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=31173733</id>
-        <link href="https://news.ycombinator.com/item?id=31173733"/>
-        <updated>2022-04-26T22:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you had to preserve digital data for 100 years how would you do it?]]></summary>
-        <author>
-            <name>unknownaccount</name>
-            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
         </author>
     </entry>
 </feed>
