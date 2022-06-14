@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T15:35:23.482Z</updated>
+    <updated>2022-06-14T16:50:38.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有销售工程师在这里？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741881</id>
+        <link href="https://news.ycombinator.com/item?id=31741881"/>
+        <updated>2022-06-14T16:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Sales Engineers out here?]]></summary>
+        <author>
+            <name>jklein11</name>
+            <uri>https://news.ycombinator.com/user?id=jklein11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开放采购SaaS产品时需要考虑的事项
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741495</id>
+        <link href="https://news.ycombinator.com/item?id=31741495"/>
+        <updated>2022-06-14T16:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Things to consider when open sourcing a SaaS product]]></summary>
+        <author>
+            <name>longrod</name>
+            <uri>https://news.ycombinator.com/user?id=longrod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何管理群发短信？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741292</id>
+        <link href="https://news.ycombinator.com/item?id=31741292"/>
+        <updated>2022-06-14T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Manage Group Texts?]]></summary>
+        <author>
+            <name>WhompingWindows</name>
+            <uri>https://news.ycombinator.com/user?id=WhompingWindows</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有ICANN的定制域名？
 ]]></title>
@@ -7107,39 +7143,6 @@
         <author>
             <name>kuboble</name>
             <uri>https://news.ycombinator.com/user?id=kuboble</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁设计了Flutter？]]></title>
-        <id>https://news.ycombinator.com/item?id=31177726</id>
-        <link href="https://news.ycombinator.com/item?id=31177726"/>
-        <updated>2022-04-27T08:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Designed Flutter?]]></summary>
-        <author>
-            <name>wg0</name>
-            <uri>https://news.ycombinator.com/user?id=wg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舌尖上的中国--反向路径无线电源解决方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=31177349</id>
-        <link href="https://news.ycombinator.com/item?id=31177349"/>
-        <updated>2022-04-27T07:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tip of my tongue – Reverse path wireless power solution?]]></summary>
-        <author>
-            <name>jamesdwilson</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdwilson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链技术已经是我们需要的一切了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31177331</id>
-        <link href="https://news.ycombinator.com/item?id=31177331"/>
-        <updated>2022-04-27T07:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is blockchain tech already everything we need it to be?]]></summary>
-        <author>
-            <name>telecomsteve</name>
-            <uri>https://news.ycombinator.com/user?id=telecomsteve</uri>
         </author>
     </entry>
 </feed>
