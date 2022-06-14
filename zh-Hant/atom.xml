@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T02:36:09.896Z</updated>
+    <updated>2022-06-14T04:10:29.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你推薦哪種開源的安卓鍵盤？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31734102</id>
+        <link href="https://news.ycombinator.com/item?id=31734102"/>
+        <updated>2022-06-14T02:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which open source Android keyboard do you recommned]]></summary>
+        <author>
+            <name>Sparkenstein</name>
+            <uri>https://news.ycombinator.com/user?id=Sparkenstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些書是讀者通過建造項目來學習的？
 ]]></title>
@@ -7103,17 +7115,6 @@
         <author>
             <name>roomey</name>
             <uri>https://news.ycombinator.com/user?id=roomey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以使我的整個網絡服務完全透明嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31167046</id>
-        <link href="https://news.ycombinator.com/item?id=31167046"/>
-        <updated>2022-04-26T13:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I make my whole web service completely transparent?]]></summary>
-        <author>
-            <name>cosmorocket</name>
-            <uri>https://news.ycombinator.com/user?id=cosmorocket</uri>
         </author>
     </entry>
 </feed>
