@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T07:45:16.494Z</updated>
+    <updated>2022-06-14T07:57:56.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何找到博客文章的想法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735987</id>
+        <link href="https://news.ycombinator.com/item?id=31735987"/>
+        <updated>2022-06-14T07:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you find blog post ideas?]]></summary>
+        <author>
+            <name>hidden-spyder</name>
+            <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市场上最先进/最真实的TTS工具是什么？
 ]]></title>
@@ -7110,17 +7122,6 @@
         <author>
             <name>nada_ss</name>
             <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南为HDF-5数据格式]]></title>
-        <id>https://news.ycombinator.com/item?id=31169115</id>
-        <link href="https://news.ycombinator.com/item?id=31169115"/>
-        <updated>2022-04-26T15:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Nan for HDF-5 Data Format]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
         </author>
     </entry>
 </feed>
