@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么通过代理链的Tor有时能工作，有时不能？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31734571</link>
+            <guid>https://news.ycombinator.com/item?id=31734571</guid>
+            <pubDate>Tue, 14 Jun 2022 03:56:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why does Tor via proxychains sometimes work and sometimes not?]]></description>
+        </item>
         <item>
             <title><![CDATA[你推荐哪种开源的安卓键盘？
 ]]></title>
@@ -4708,13 +4716,6 @@
             <guid>https://news.ycombinator.com/item?id=31167347</guid>
             <pubDate>Tue, 26 Apr 2022 13:41:43 GMT</pubDate>
             <description><![CDATA[Ask HN: If you were God, which problem would you remove from the world?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一个Linux的化学暗室模拟器？]]></title>
-            <link>https://news.ycombinator.com/item?id=31167062</link>
-            <guid>https://news.ycombinator.com/item?id=31167062</guid>
-            <pubDate>Tue, 26 Apr 2022 13:13:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a chemical darkroom emulator for Linux]]></description>
         </item>
     </channel>
 </rss>
