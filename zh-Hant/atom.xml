@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T20:33:30.373Z</updated>
+    <updated>2022-06-14T20:50:23.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪個Linux發行版 "就是好用"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745747</id>
+        <link href="https://news.ycombinator.com/item?id=31745747"/>
+        <updated>2022-06-14T20:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which Linux distro „just works“?]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[請求對開發工具進行定價反饋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745651</id>
+        <link href="https://news.ycombinator.com/item?id=31745651"/>
+        <updated>2022-06-14T20:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Requesting Pricing Feedback for a Developer Tool]]></summary>
+        <author>
+            <name>mesadb</name>
+            <uri>https://news.ycombinator.com/user?id=mesadb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於教學視頻的簡單視頻編輯器
 ]]></title>
@@ -7141,28 +7165,6 @@
         <author>
             <name>sowhat1639</name>
             <uri>https://news.ycombinator.com/user?id=sowhat1639</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在你的創業公司使用什麼決策框架？]]></title>
-        <id>https://news.ycombinator.com/item?id=31182217</id>
-        <link href="https://news.ycombinator.com/item?id=31182217"/>
-        <updated>2022-04-27T16:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What decision making framework do you use at your startup?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[產品和工程部門的副總裁應該是一個人嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31182208</id>
-        <link href="https://news.ycombinator.com/item?id=31182208"/>
-        <updated>2022-04-27T16:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should a VP of product and engineering be a single person?]]></summary>
-        <author>
-            <name>cbono1</name>
-            <uri>https://news.ycombinator.com/user?id=cbono1</uri>
         </author>
     </entry>
 </feed>
