@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T14:31:43.593Z</updated>
+    <updated>2022-06-14T15:00:02.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會報告錯誤嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31740373</id>
+        <link href="https://news.ycombinator.com/item?id=31740373"/>
+        <updated>2022-06-14T14:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Report Bugs?]]></summary>
+        <author>
+            <name>GRBurst</name>
+            <uri>https://news.ycombinator.com/user?id=GRBurst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果要求你重新學習你的專業領域，你會怎麼做？
 ]]></title>
@@ -7125,17 +7137,6 @@
         <author>
             <name>throwaway8829</name>
             <uri>https://news.ycombinator.com/user?id=throwaway8829</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否應將遠程工作的選擇權寫進合同？]]></title>
-        <id>https://news.ycombinator.com/item?id=31176096</id>
-        <link href="https://news.ycombinator.com/item?id=31176096"/>
-        <updated>2022-04-27T03:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should the option to work remote be written into the contract?]]></summary>
-        <author>
-            <name>StefanWestfal</name>
-            <uri>https://news.ycombinator.com/user?id=StefanWestfal</uri>
         </author>
     </entry>
 </feed>
