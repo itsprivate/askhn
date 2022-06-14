@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-13T23:48:47.832Z</updated>
+    <updated>2022-06-14T00:00:18.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將企業作為馬爾可夫鏈的模型？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31733165</id>
+        <link href="https://news.ycombinator.com/item?id=31733165"/>
+        <updated>2022-06-13T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Model Business as Markov Chains?]]></summary>
+        <author>
+            <name>nkmnz</name>
+            <uri>https://news.ycombinator.com/user?id=nkmnz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[檢查利率與抵押貸款？
 ]]></title>
@@ -7100,17 +7112,6 @@
         <author>
             <name>xaxaxb</name>
             <uri>https://news.ycombinator.com/user?id=xaxaxb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一種服務可以存儲信息，如果我死了，這些信息就會變得公開。]]></title>
-        <id>https://news.ycombinator.com/item?id=31166863</id>
-        <link href="https://news.ycombinator.com/item?id=31166863"/>
-        <updated>2022-04-26T12:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a service to store information that becomes public if I die]]></summary>
-        <author>
-            <name>dezmou</name>
-            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
         </author>
     </entry>
 </feed>
