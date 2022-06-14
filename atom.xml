@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-14T05:09:39.129Z</updated>
+    <updated>2022-06-14T05:43:16.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰文斯悖论是否预测了软件可持续性的失败？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735017</id>
+        <link href="https://news.ycombinator.com/item?id=31735017"/>
+        <updated>2022-06-14T05:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Jevons Paradox predict the failure of software sustainability?]]></summary>
+        <author>
+            <name>harrylove</name>
+            <uri>https://news.ycombinator.com/user?id=harrylove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么通过代理链的Tor有时能工作，有时不能？
 ]]></title>
@@ -7105,17 +7117,6 @@
         <author>
             <name>cphoover</name>
             <uri>https://news.ycombinator.com/user?id=cphoover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你是上帝，你会从世界上消除哪个问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=31167347</id>
-        <link href="https://news.ycombinator.com/item?id=31167347"/>
-        <updated>2022-04-26T13:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you were God, which problem would you remove from the world?]]></summary>
-        <author>
-            <name>kite_and_code</name>
-            <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
         </author>
     </entry>
 </feed>
