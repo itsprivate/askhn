@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T06:35:05.156Z</updated>
+    <updated>2022-06-15T07:47:23.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[把我們不認識的人當作 "天才 "是怎麼回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31750160</id>
+        <link href="https://news.ycombinator.com/item?id=31750160"/>
+        <updated>2022-06-15T07:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's up with treating people we don't know as `genius`?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基礎設施儲存庫？
 ]]></title>
@@ -7164,17 +7176,6 @@
         <author>
             <name>h99</name>
             <uri>https://news.ycombinator.com/user?id=h99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會如何投資100萬美元以獲得被動收入/現金流？]]></title>
-        <id>https://news.ycombinator.com/item?id=31184269</id>
-        <link href="https://news.ycombinator.com/item?id=31184269"/>
-        <updated>2022-04-27T18:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you invest $1M for passive income/cash flow?]]></summary>
-        <author>
-            <name>Trias11</name>
-            <uri>https://news.ycombinator.com/user?id=Trias11</uri>
         </author>
     </entry>
 </feed>
