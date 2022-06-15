@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T05:40:12.355Z</updated>
+    <updated>2022-06-15T06:35:05.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基础设施储存库？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749721</id>
+        <link href="https://news.ycombinator.com/item?id=31749721"/>
+        <updated>2022-06-15T06:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Infrastructure Repository?]]></summary>
+        <author>
+            <name>ggeorgovassilis</name>
+            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有1TB硬盘的廉价VPS？
 ]]></title>
@@ -7163,17 +7175,6 @@
         <author>
             <name>Trias11</name>
             <uri>https://news.ycombinator.com/user?id=Trias11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克为什么想拥有Twitter？]]></title>
-        <id>https://news.ycombinator.com/item?id=31184235</id>
-        <link href="https://news.ycombinator.com/item?id=31184235"/>
-        <updated>2022-04-27T18:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does Musk want to own Twitter?]]></summary>
-        <author>
-            <name>strangattractor</name>
-            <uri>https://news.ycombinator.com/user?id=strangattractor</uri>
         </author>
     </entry>
 </feed>
