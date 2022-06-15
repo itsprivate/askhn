@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T05:09:28.480Z</updated>
+    <updated>2022-06-15T05:40:12.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有1TB硬盘的廉价VPS？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749449</id>
+        <link href="https://news.ycombinator.com/item?id=31749449"/>
+        <updated>2022-06-15T05:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cheap VPS with 1TB HDD?]]></summary>
+        <author>
+            <name>rambojazz</name>
+            <uri>https://news.ycombinator.com/user?id=rambojazz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什么来阅读Twitter？
 ]]></title>
@@ -7162,17 +7174,6 @@
         <author>
             <name>strangattractor</name>
             <uri>https://news.ycombinator.com/user?id=strangattractor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计一个文明模式]]></title>
-        <id>https://news.ycombinator.com/item?id=31184114</id>
-        <link href="https://news.ycombinator.com/item?id=31184114"/>
-        <updated>2022-04-27T18:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Devise a Civilizational Model]]></summary>
-        <author>
-            <name>eternalban</name>
-            <uri>https://news.ycombinator.com/user?id=eternalban</uri>
         </author>
     </entry>
 </feed>
