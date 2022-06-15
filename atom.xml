@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T17:42:52.831Z</updated>
+    <updated>2022-06-15T18:01:16.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在构建音频时，你会和CSP打交道吗--Chrome扩展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756567</id>
+        <link href="https://news.ycombinator.com/item?id=31756567"/>
+        <updated>2022-06-15T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you deal with CSPs when building audio- Chrome Extensions]]></summary>
+        <author>
+            <name>s_mausi</name>
+            <uri>https://news.ycombinator.com/user?id=s_mausi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在是购买汽油机的好时机吗？
 ]]></title>
@@ -7186,17 +7198,6 @@
         <author>
             <name>techsin101</name>
             <uri>https://news.ycombinator.com/user?id=techsin101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果发生核战争，如何保护数字信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31189858</id>
-        <link href="https://news.ycombinator.com/item?id=31189858"/>
-        <updated>2022-04-28T07:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to protect digital information if there is a nuclear war]]></summary>
-        <author>
-            <name>thraneh</name>
-            <uri>https://news.ycombinator.com/user?id=thraneh</uri>
         </author>
     </entry>
 </feed>
