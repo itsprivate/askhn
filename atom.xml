@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T21:59:51.726Z</updated>
+    <updated>2022-06-15T22:30:51.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LeetCode风格的编码测试有用吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760187</id>
+        <link href="https://news.ycombinator.com/item?id=31760187"/>
+        <updated>2022-06-15T22:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are LeetCode-style coding tests useful?]]></summary>
+        <author>
+            <name>am391</name>
+            <uri>https://news.ycombinator.com/user?id=am391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30多岁的单身男子，我应该搬到哪个城市？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760058</id>
+        <link href="https://news.ycombinator.com/item?id=31760058"/>
+        <updated>2022-06-15T22:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: 30s single man, which city should I move to?]]></summary>
+        <author>
+            <name>swman</name>
+            <uri>https://news.ycombinator.com/user?id=swman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你对通货膨胀有什么预测？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760028</id>
+        <link href="https://news.ycombinator.com/item?id=31760028"/>
+        <updated>2022-06-15T22:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your predictions for inflation?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对无服务器有什么看法？
 ]]></title>
@@ -7172,39 +7208,6 @@
         <author>
             <name>ecmascript</name>
             <uri>https://news.ycombinator.com/user?id=ecmascript</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重金属音乐用于编程？]]></title>
-        <id>https://news.ycombinator.com/item?id=31191810</id>
-        <link href="https://news.ycombinator.com/item?id=31191810"/>
-        <updated>2022-04-28T12:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Heavy Metal Music for Programming?]]></summary>
-        <author>
-            <name>rullopat</name>
-            <uri>https://news.ycombinator.com/user?id=rullopat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们认为动物不能设想出更高层次的意识？]]></title>
-        <id>https://news.ycombinator.com/item?id=31191743</id>
-        <link href="https://news.ycombinator.com/item?id=31191743"/>
-        <updated>2022-04-28T12:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do we assume animals can't conceive of a higher level conciousness?]]></summary>
-        <author>
-            <name>linuxdeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=linuxdeveloper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用容器的本地开发环境]]></title>
-        <id>https://news.ycombinator.com/item?id=31191620</id>
-        <link href="https://news.ycombinator.com/item?id=31191620"/>
-        <updated>2022-04-28T12:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Local Development Environment with Containers]]></summary>
-        <author>
-            <name>sean_ruffatti</name>
-            <uri>https://news.ycombinator.com/user?id=sean_ruffatti</uri>
         </author>
     </entry>
 </feed>
