@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 15 Jun 2022 13:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 14:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你對沒有實施什麼想法感到遺憾？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31752998</link>
+            <guid>https://news.ycombinator.com/item?id=31752998</guid>
+            <pubDate>Wed, 15 Jun 2022 14:01:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: What idea(s) do you regret not implementing?]]></description>
+        </item>
         <item>
             <title><![CDATA[磨練編碼技能的最佳方式？
 ]]></title>
@@ -4781,13 +4789,6 @@
             <guid>https://news.ycombinator.com/item?id=31187339</guid>
             <pubDate>Thu, 28 Apr 2022 00:06:06 GMT</pubDate>
             <description><![CDATA[Ask HN: How do I write an x86 disassembler?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[硬件啟動？在預測你的業務方面，有什麼讓你感到驚訝？]]></title>
-            <link>https://news.ycombinator.com/item?id=31187280</link>
-            <guid>https://news.ycombinator.com/item?id=31187280</guid>
-            <pubDate>Wed, 27 Apr 2022 23:58:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Hardware startup? What surprised you about forecasting your business?]]></description>
         </item>
     </channel>
 </rss>

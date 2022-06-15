@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T13:57:01.437Z</updated>
+    <updated>2022-06-15T14:30:40.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對沒有實施什麼想法感到遺憾？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31752998</id>
+        <link href="https://news.ycombinator.com/item?id=31752998"/>
+        <updated>2022-06-15T14:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What idea(s) do you regret not implementing?]]></summary>
+        <author>
+            <name>nunorbatista</name>
+            <uri>https://news.ycombinator.com/user?id=nunorbatista</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[磨練編碼技能的最佳方式？
 ]]></title>
@@ -7177,17 +7189,6 @@
         <author>
             <name>houhou312</name>
             <uri>https://news.ycombinator.com/user?id=houhou312</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬件啟動？在預測你的業務方面，有什麼讓你感到驚訝？]]></title>
-        <id>https://news.ycombinator.com/item?id=31187280</id>
-        <link href="https://news.ycombinator.com/item?id=31187280"/>
-        <updated>2022-04-27T23:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hardware startup? What surprised you about forecasting your business?]]></summary>
-        <author>
-            <name>pedalpete</name>
-            <uri>https://news.ycombinator.com/user?id=pedalpete</uri>
         </author>
     </entry>
 </feed>
