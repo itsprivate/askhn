@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 15 Jun 2022 18:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 18:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何改進文檔？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31757037</link>
+            <guid>https://news.ycombinator.com/item?id=31757037</guid>
+            <pubDate>Wed, 15 Jun 2022 18:19:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Improve Documentation?]]></description>
+        </item>
         <item>
             <title><![CDATA[在構建音頻時，你會和CSP打交道嗎--Chrome擴展程序
 ]]></title>
@@ -4791,13 +4799,6 @@
             <guid>https://news.ycombinator.com/item?id=31190681</guid>
             <pubDate>Thu, 28 Apr 2022 10:03:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there anything I can do with an Apple Watch without an iPhone?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何在磁盤上保存數據結構？]]></title>
-            <link>https://news.ycombinator.com/item?id=31190263</link>
-            <guid>https://news.ycombinator.com/item?id=31190263</guid>
-            <pubDate>Thu, 28 Apr 2022 09:08:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you save data structures on disk?]]></description>
         </item>
     </channel>
 </rss>

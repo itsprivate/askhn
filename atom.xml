@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T18:01:16.381Z</updated>
+    <updated>2022-06-15T18:45:40.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何改进文档？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757037</id>
+        <link href="https://news.ycombinator.com/item?id=31757037"/>
+        <updated>2022-06-15T18:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Improve Documentation?]]></summary>
+        <author>
+            <name>shreythecray</name>
+            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在构建音频时，你会和CSP打交道吗--Chrome扩展程序
 ]]></title>
@@ -7187,17 +7199,6 @@
         <author>
             <name>bojangleslover</name>
             <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在磁盘上保存数据结构？]]></title>
-        <id>https://news.ycombinator.com/item?id=31190263</id>
-        <link href="https://news.ycombinator.com/item?id=31190263"/>
-        <updated>2022-04-28T09:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you save data structures on disk?]]></summary>
-        <author>
-            <name>techsin101</name>
-            <uri>https://news.ycombinator.com/user?id=techsin101</uri>
         </author>
     </entry>
 </feed>
