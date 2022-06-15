@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T20:34:28.072Z</updated>
+    <updated>2022-06-15T20:49:40.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼不優化每個員工的工作時間？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759067</id>
+        <link href="https://news.ycombinator.com/item?id=31759067"/>
+        <updated>2022-06-15T20:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why not optimize the number of working hours for each employee?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了Heap、Amplitude之外，有什麼隱私友好的用戶旅程替代方案嗎？
 ]]></title>
@@ -7191,17 +7203,6 @@
         <author>
             <name>speedylight</name>
             <uri>https://news.ycombinator.com/user?id=speedylight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在不 "洩露 "提案的情況下進行有效的推銷？]]></title>
-        <id>https://news.ycombinator.com/item?id=31191089</id>
-        <link href="https://news.ycombinator.com/item?id=31191089"/>
-        <updated>2022-04-28T11:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does one make an effective pitch without 'giving away' the proposal?]]></summary>
-        <author>
-            <name>mattwilsonn888</name>
-            <uri>https://news.ycombinator.com/user?id=mattwilsonn888</uri>
         </author>
     </entry>
 </feed>
