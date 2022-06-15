@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T15:56:55.839Z</updated>
+    <updated>2022-06-15T16:48:02.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你多长时间配对一次节目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31755453</id>
+        <link href="https://news.ycombinator.com/item?id=31755453"/>
+        <updated>2022-06-15T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How often do you pair program?]]></summary>
+        <author>
+            <name>Siecje</name>
+            <uri>https://news.ycombinator.com/user?id=Siecje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何使用Notion？
 ]]></title>
@@ -7181,17 +7193,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你关注哪些好的RSS提要？]]></title>
-        <id>https://news.ycombinator.com/item?id=31188463</id>
-        <link href="https://news.ycombinator.com/item?id=31188463"/>
-        <updated>2022-04-28T03:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are good RSS feeds you follow?]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
         </author>
     </entry>
 </feed>
