@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 15 Jun 2022 15:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何使用Notion？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31754659</link>
+            <guid>https://news.ycombinator.com/item?id=31754659</guid>
+            <pubDate>Wed, 15 Jun 2022 15:39:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you use Notion?]]></description>
+        </item>
         <item>
             <title><![CDATA[構建具有支付功能的網絡應用程序的最快捷方式是什麼2022年？
 ]]></title>
@@ -4784,13 +4792,6 @@
             <guid>https://news.ycombinator.com/item?id=31188463</guid>
             <pubDate>Thu, 28 Apr 2022 03:33:45 GMT</pubDate>
             <description><![CDATA[Ask HN: What are good RSS feeds you follow?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼雲供應商不能顯示瞬時消費/成本？]]></title>
-            <link>https://news.ycombinator.com/item?id=31188131</link>
-            <guid>https://news.ycombinator.com/item?id=31188131</guid>
-            <pubDate>Thu, 28 Apr 2022 02:21:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why can’t cloud providers show the instantaneous consumption / cost?]]></description>
         </item>
     </channel>
 </rss>
