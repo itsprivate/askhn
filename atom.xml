@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T04:47:18.372Z</updated>
+    <updated>2022-06-15T05:09:28.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什么来阅读Twitter？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749280</id>
+        <link href="https://news.ycombinator.com/item?id=31749280"/>
+        <updated>2022-06-15T04:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use to read Twitter?]]></summary>
+        <author>
+            <name>triyambakam</name>
+            <uri>https://news.ycombinator.com/user?id=triyambakam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java/Kotlin ORM/Schema 迁移管理器？
 ]]></title>
@@ -7161,17 +7173,6 @@
         <author>
             <name>eternalban</name>
             <uri>https://news.ycombinator.com/user?id=eternalban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解释代码应用程序的编码挑战]]></title>
-        <id>https://news.ycombinator.com/item?id=31183826</id>
-        <link href="https://news.ycombinator.com/item?id=31183826"/>
-        <updated>2022-04-27T18:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Explain Code App Coding Challenge]]></summary>
-        <author>
-            <name>allynjalford</name>
-            <uri>https://news.ycombinator.com/user?id=allynjalford</uri>
         </author>
     </entry>
 </feed>
