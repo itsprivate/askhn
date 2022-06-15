@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T18:45:40.374Z</updated>
+    <updated>2022-06-15T19:25:45.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪个朋友喜欢一起工作，想一起参加新的演出？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757698</id>
+        <link href="https://news.ycombinator.com/item?id=31757698"/>
+        <updated>2022-06-15T18:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any group of friends like working together and want a new gig together?]]></summary>
+        <author>
+            <name>ilrwbwrkhv</name>
+            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何改进文档？
 ]]></title>
@@ -7188,17 +7200,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有iPhone，我可以用Apple Watch做什么吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31190681</id>
-        <link href="https://news.ycombinator.com/item?id=31190681"/>
-        <updated>2022-04-28T10:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there anything I can do with an Apple Watch without an iPhone?]]></summary>
-        <author>
-            <name>bojangleslover</name>
-            <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
         </author>
     </entry>
 </feed>
