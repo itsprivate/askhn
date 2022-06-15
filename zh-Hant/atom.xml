@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T07:47:23.487Z</updated>
+    <updated>2022-06-15T08:37:14.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2.5英寸的固態硬盤會繼續存在嗎？多久？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31750441</id>
+        <link href="https://news.ycombinator.com/item?id=31750441"/>
+        <updated>2022-06-15T08:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are 2.5“ SSDs here to stay? For how long?]]></summary>
+        <author>
+            <name>slategruen</name>
+            <uri>https://news.ycombinator.com/user?id=slategruen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把我們不認識的人當作 "天才 "是怎麼回事？
 ]]></title>
@@ -7165,17 +7177,6 @@
         <author>
             <name>negroni</name>
             <uri>https://news.ycombinator.com/user?id=negroni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初創企業的SoC/ISO/HIPAA認證？]]></title>
-        <id>https://news.ycombinator.com/item?id=31184353</id>
-        <link href="https://news.ycombinator.com/item?id=31184353"/>
-        <updated>2022-04-27T19:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: SoC/ISO/HIPAA certifications for startups?]]></summary>
-        <author>
-            <name>h99</name>
-            <uri>https://news.ycombinator.com/user?id=h99</uri>
         </author>
     </entry>
 </feed>
