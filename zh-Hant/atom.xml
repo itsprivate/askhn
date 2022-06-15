@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T20:49:40.064Z</updated>
+    <updated>2022-06-15T21:47:35.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼適合Linux初學者的音樂創作程序嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759783</id>
+        <link href="https://news.ycombinator.com/item?id=31759783"/>
+        <updated>2022-06-15T21:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any music composition programs for Linux beginners?]]></summary>
+        <author>
+            <name>ohiovr</name>
+            <uri>https://news.ycombinator.com/user?id=ohiovr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不優化每個員工的工作時間？
 ]]></title>
@@ -7192,17 +7204,6 @@
         <author>
             <name>SMAAART</name>
             <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能幫我找到一個流行的開源工具嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31191141</id>
-        <link href="https://news.ycombinator.com/item?id=31191141"/>
-        <updated>2022-04-28T11:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you help me find a popular open-source tool?]]></summary>
-        <author>
-            <name>speedylight</name>
-            <uri>https://news.ycombinator.com/user?id=speedylight</uri>
         </author>
     </entry>
 </feed>
