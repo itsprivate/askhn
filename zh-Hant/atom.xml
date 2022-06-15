@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-15T11:59:01.136Z</updated>
+    <updated>2022-06-15T12:55:16.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果微策略公司被追繳保證金會怎樣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31751703</id>
+        <link href="https://news.ycombinator.com/item?id=31751703"/>
+        <updated>2022-06-15T12:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens if MicroStrategy gets a margin call?]]></summary>
+        <author>
+            <name>Eddy_Viscosity2</name>
+            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲今天加息--50、75或100個基點？
 ]]></title>
@@ -7173,17 +7185,6 @@
         <author>
             <name>nittanymount</name>
             <uri>https://news.ycombinator.com/user?id=nittanymount</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網服務提供商是否在瀏覽器中注入廣告？]]></title>
-        <id>https://news.ycombinator.com/item?id=31186664</id>
-        <link href="https://news.ycombinator.com/item?id=31186664"/>
-        <updated>2022-04-27T22:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do ISP's inject ads into browsers?]]></summary>
-        <author>
-            <name>HoppedUpMenace</name>
-            <uri>https://news.ycombinator.com/user?id=HoppedUpMenace</uri>
         </author>
     </entry>
 </feed>
