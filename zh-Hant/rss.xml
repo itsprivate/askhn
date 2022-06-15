@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 15 Jun 2022 22:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 23:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在擴大規模的組織中，你如何扭轉基於委員會的決策方式？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31760445</link>
+            <guid>https://news.ycombinator.com/item?id=31760445</guid>
+            <pubDate>Wed, 15 Jun 2022 22:51:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you reverse committee-based decision making in scaling orgs?]]></description>
+        </item>
         <item>
             <title><![CDATA[LeetCode風格的編碼測試有用嗎？
 ]]></title>
@@ -4801,13 +4809,6 @@
             <guid>https://news.ycombinator.com/item?id=31191916</guid>
             <pubDate>Thu, 28 Apr 2022 13:00:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Which magazines do you recommend?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人用Raspberry Pi作為你的主電腦嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=31191817</link>
-            <guid>https://news.ycombinator.com/item?id=31191817</guid>
-            <pubDate>Thu, 28 Apr 2022 12:48:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does anyone use a Raspberry Pi as your main computer?]]></description>
         </item>
     </channel>
 </rss>
