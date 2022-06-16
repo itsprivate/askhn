@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T02:18:25.724Z</updated>
+    <updated>2022-06-16T03:55:04.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查找動態庫文件的Linux命令
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762175</id>
+        <link href="https://news.ycombinator.com/item?id=31762175"/>
+        <updated>2022-06-16T03:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Linux command to find a dynamic library file]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的YouTube佈局是怎麼回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762027</id>
+        <link href="https://news.ycombinator.com/item?id=31762027"/>
+        <updated>2022-06-16T02:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is going on with the new YouTube layout?]]></summary>
+        <author>
+            <name>twayt</name>
+            <uri>https://news.ycombinator.com/user?id=twayt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有估計WebSocket成本的經驗嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31761951</id>
+        <link href="https://news.ycombinator.com/item?id=31761951"/>
+        <updated>2022-06-16T02:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experience with estimating WebSocket Costs?]]></summary>
+        <author>
+            <name>aerovistae</name>
+            <uri>https://news.ycombinator.com/user?id=aerovistae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運行TLD服務器的費用是多少？
 ]]></title>
@@ -7177,40 +7213,6 @@
         <author>
             <name>epimetheus3</name>
             <uri>https://news.ycombinator.com/user?id=epimetheus3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司是否準備結束遠程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31585170</id>
-        <link href="https://news.ycombinator.com/item?id=31585170"/>
-        <updated>2022-06-01T17:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are companies preparing to end Remote?]]></summary>
-        <author>
-            <name>mouzogu</name>
-            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何培養閱讀文化？]]></title>
-        <id>https://news.ycombinator.com/item?id=31192173</id>
-        <link href="https://news.ycombinator.com/item?id=31192173"/>
-        <updated>2022-04-28T13:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Nuture a Culture of Reading?]]></summary>
-        <author>
-            <name>djlewald</name>
-            <uri>https://news.ycombinator.com/user?id=djlewald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何找到自己擅長的東西？]]></title>
-        <id>https://news.ycombinator.com/item?id=31192084</id>
-        <link href="https://news.ycombinator.com/item?id=31192084"/>
-        <updated>2022-04-28T13:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you find what you're good at?]]></summary>
-        <author>
-            <name>giantg2</name>
-            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
         </author>
     </entry>
 </feed>
