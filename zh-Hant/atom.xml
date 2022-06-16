@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T06:34:26.635Z</updated>
+    <updated>2022-06-16T07:03:07.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更高的燃料成本是否會使零售店的競爭環境更加公平？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763179</id>
+        <link href="https://news.ycombinator.com/item?id=31763179"/>
+        <updated>2022-06-16T06:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will higher fuel costs even the playing field for retail stores]]></summary>
+        <author>
+            <name>farseer</name>
+            <uri>https://news.ycombinator.com/user?id=farseer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能開始準備面試？以及如何保持積極性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ChadNauseam</name>
             <uri>https://news.ycombinator.com/user?id=ChadNauseam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星鏈是否可以防止竊聽？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586066</id>
-        <link href="https://news.ycombinator.com/item?id=31586066"/>
-        <updated>2022-06-01T18:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Starlink secure against eavesdropping?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
         </author>
     </entry>
 </feed>
