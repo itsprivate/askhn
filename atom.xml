@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T17:45:25.010Z</updated>
+    <updated>2022-06-16T18:05:01.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近处理过的最难的问题是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768822</id>
+        <link href="https://news.ycombinator.com/item?id=31768822"/>
+        <updated>2022-06-16T17:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the hardest problem you've worked on recently?]]></summary>
+        <author>
+            <name>gffrd</name>
+            <uri>https://news.ycombinator.com/user?id=gffrd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何保持你的个人稿件有条理？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lawgimenez</name>
             <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个天使投资人或早期投资人的名单？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31592372</id>
-        <link href="https://news.ycombinator.com/item?id=31592372"/>
-        <updated>2022-06-02T07:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a list of angel investors or early stage investors?]]></summary>
-        <author>
-            <name>buf</name>
-            <uri>https://news.ycombinator.com/user?id=buf</uri>
         </author>
     </entry>
 </feed>
