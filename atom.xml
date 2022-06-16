@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T09:50:01.075Z</updated>
+    <updated>2022-06-16T10:36:02.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[核能不是太贵了吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764310</id>
+        <link href="https://news.ycombinator.com/item?id=31764310"/>
+        <updated>2022-06-16T10:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Isn't Nuclear Too Expensive?]]></summary>
+        <author>
+            <name>skitout</name>
+            <uri>https://news.ycombinator.com/user?id=skitout</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近有什么东西融化了你的大脑？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>battery_glasses</name>
             <uri>https://news.ycombinator.com/user?id=battery_glasses</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股市的增长在很大程度上除了通货膨胀之外还有什么吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586325</id>
-        <link href="https://news.ycombinator.com/item?id=31586325"/>
-        <updated>2022-06-01T18:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the stock market's growth largely anything more than inflation?]]></summary>
-        <author>
-            <name>coned88</name>
-            <uri>https://news.ycombinator.com/user?id=coned88</uri>
         </author>
     </entry>
 </feed>
