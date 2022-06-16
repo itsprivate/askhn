@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T07:50:05.669Z</updated>
+    <updated>2022-06-16T09:50:01.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最近有什麼東西融化了你的大腦？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764041</id>
+        <link href="https://news.ycombinator.com/item?id=31764041"/>
+        <updated>2022-06-16T09:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What has melted your brain recently?]]></summary>
+        <author>
+            <name>ID1452319</name>
+            <uri>https://news.ycombinator.com/user?id=ID1452319</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如今，保持匿名開發者的身份仍然是可以想象的嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>coned88</name>
             <uri>https://news.ycombinator.com/user?id=coned88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰想被解僱？ (2022年6月)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586253</id>
-        <link href="https://news.ycombinator.com/item?id=31586253"/>
-        <updated>2022-06-01T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Wants to Be Fired? (June 2022)]]></summary>
-        <author>
-            <name>devKnight</name>
-            <uri>https://news.ycombinator.com/user?id=devKnight</uri>
         </author>
     </entry>
 </feed>
