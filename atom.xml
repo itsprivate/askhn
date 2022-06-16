@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T06:04:23.983Z</updated>
+    <updated>2022-06-16T06:34:26.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能开始准备面试？以及如何保持积极性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763001</id>
+        <link href="https://news.ycombinator.com/item?id=31763001"/>
+        <updated>2022-06-16T06:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I start preparing for interviews? And how to stay motivated]]></summary>
+        <author>
+            <name>bovem</name>
+            <uri>https://news.ycombinator.com/user?id=bovem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业公司的CEO们，你们目前是如何从账户中获得洞察力的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>night-rider</name>
             <uri>https://news.ycombinator.com/user?id=night-rider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN，但要看表现
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31585952</id>
-        <link href="https://news.ycombinator.com/item?id=31585952"/>
-        <updated>2022-06-01T18:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: HN but for Performance]]></summary>
-        <author>
-            <name>agencies</name>
-            <uri>https://news.ycombinator.com/user?id=agencies</uri>
         </author>
     </entry>
 </feed>
