@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 16 Jun 2022 18:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 18:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否在任何地方分享你的leetcode簡介鏈接？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769166</link>
+            <guid>https://news.ycombinator.com/item?id=31769166</guid>
+            <pubDate>Thu, 16 Jun 2022 18:10:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you share your leetcode profile link anywhere?]]></description>
+        </item>
         <item>
             <title><![CDATA[你最近處理過的最難的問題是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31593160</guid>
             <pubDate>Thu, 02 Jun 2022 10:04:22 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you increase the performance / impact of an engineering team?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Android沒有自己的HTTP庫？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31593131</link>
-            <guid>https://news.ycombinator.com/item?id=31593131</guid>
-            <pubDate>Thu, 02 Jun 2022 09:58:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why does Android not have its own HTTP library?]]></description>
         </item>
     </channel>
 </rss>

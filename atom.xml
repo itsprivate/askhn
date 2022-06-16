@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T18:05:01.751Z</updated>
+    <updated>2022-06-16T18:38:04.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否在任何地方分享你的leetcode简介链接？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769166</id>
+        <link href="https://news.ycombinator.com/item?id=31769166"/>
+        <updated>2022-06-16T18:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you share your leetcode profile link anywhere?]]></summary>
+        <author>
+            <name>supportengineer</name>
+            <uri>https://news.ycombinator.com/user?id=supportengineer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最近处理过的最难的问题是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harrylucas</name>
             <uri>https://news.ycombinator.com/user?id=harrylucas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Android没有自己的HTTP库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593131</id>
-        <link href="https://news.ycombinator.com/item?id=31593131"/>
-        <updated>2022-06-02T09:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does Android not have its own HTTP library?]]></summary>
-        <author>
-            <name>lawgimenez</name>
-            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
         </author>
     </entry>
 </feed>
