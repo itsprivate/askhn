@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T18:57:43.191Z</updated>
+    <updated>2022-06-16T19:24:02.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何制作一个上镜的机房
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769811</id>
+        <link href="https://news.ycombinator.com/item?id=31769811"/>
+        <updated>2022-06-16T19:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make a photogenic server room]]></summary>
+        <author>
+            <name>focusedone</name>
+            <uri>https://news.ycombinator.com/user?id=focusedone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微处理器是抄袭自自然界吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769808</id>
+        <link href="https://news.ycombinator.com/item?id=31769808"/>
+        <updated>2022-06-16T19:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Microprocessors Copied from Nature?]]></summary>
+        <author>
+            <name>4maz1n</name>
+            <uri>https://news.ycombinator.com/user?id=4maz1n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解计算机有多快的文章/书籍？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>artur_makly</name>
             <uri>https://news.ycombinator.com/user?id=artur_makly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未来十年或二十年最容易就业的编程语言？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593354</id>
-        <link href="https://news.ycombinator.com/item?id=31593354"/>
-        <updated>2022-06-02T10:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Most employable programming languages for next decade or two?]]></summary>
-        <author>
-            <name>upxx</name>
-            <uri>https://news.ycombinator.com/user?id=upxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该选择哪种编程语言？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593308</id>
-        <link href="https://news.ycombinator.com/item?id=31593308"/>
-        <updated>2022-06-02T10:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which programming language should I choose?]]></summary>
-        <author>
-            <name>lukaszwojtow</name>
-            <uri>https://news.ycombinator.com/user?id=lukaszwojtow</uri>
         </author>
     </entry>
 </feed>
