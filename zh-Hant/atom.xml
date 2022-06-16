@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T21:27:12.047Z</updated>
+    <updated>2022-06-16T23:47:20.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有一種打字軟件可以預測你最容易/最難打的字？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31772255</id>
+        <link href="https://news.ycombinator.com/item?id=31772255"/>
+        <updated>2022-06-16T23:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a typing app that predicts your easiest/hardest words to type?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5G無線能影響表皮免疫嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nickgubbins</name>
             <uri>https://news.ycombinator.com/user?id=nickgubbins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人活動追蹤器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31594723</id>
-        <link href="https://news.ycombinator.com/item?id=31594723"/>
-        <updated>2022-06-02T13:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Personal Activity Tracker]]></summary>
-        <author>
-            <name>retr0grad3</name>
-            <uri>https://news.ycombinator.com/user?id=retr0grad3</uri>
         </author>
     </entry>
 </feed>
