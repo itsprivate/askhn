@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T11:58:48.912Z</updated>
+    <updated>2022-06-16T12:58:32.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界領導人如何能夠訪問烏克蘭？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31765190</id>
+        <link href="https://news.ycombinator.com/item?id=31765190"/>
+        <updated>2022-06-16T12:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are world leaders able to visit Ukraine?]]></summary>
+        <author>
+            <name>osrec</name>
+            <uri>https://news.ycombinator.com/user?id=osrec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司為什麼要提供遣散費？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31765020</id>
+        <link href="https://news.ycombinator.com/item?id=31765020"/>
+        <updated>2022-06-16T12:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do companies offer severance?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Chromium是個內存大戶？為什麼我們不能修復它？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>weakfish</name>
             <uri>https://news.ycombinator.com/user?id=weakfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些擁有微型SaaS的人，你是如何得到你的想法的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31587637</id>
-        <link href="https://news.ycombinator.com/item?id=31587637"/>
-        <updated>2022-06-01T20:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Those with micro SaaS, how did you get your idea?]]></summary>
-        <author>
-            <name>akudha</name>
-            <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether受到攻擊嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31587477</id>
-        <link href="https://news.ycombinator.com/item?id=31587477"/>
-        <updated>2022-06-01T20:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Tether Under Attack?]]></summary>
-        <author>
-            <name>honksillet</name>
-            <uri>https://news.ycombinator.com/user?id=honksillet</uri>
         </author>
     </entry>
 </feed>
