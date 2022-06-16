@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T03:55:04.225Z</updated>
+    <updated>2022-06-16T04:34:47.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[男性是否在技術領域系統地排斥女性？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762377</id>
+        <link href="https://news.ycombinator.com/item?id=31762377"/>
+        <updated>2022-06-16T04:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are men systemically ecluding women in tech?]]></summary>
+        <author>
+            <name>LoveGracePeace</name>
+            <uri>https://news.ycombinator.com/user?id=LoveGracePeace</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查找動態庫文件的Linux命令
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tzumby</name>
             <uri>https://news.ycombinator.com/user?id=tzumby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在哪裡看創業公司的最新技術工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31585172</id>
-        <link href="https://news.ycombinator.com/item?id=31585172"/>
-        <updated>2022-06-01T17:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you watch latest tech tools for startups]]></summary>
-        <author>
-            <name>epimetheus3</name>
-            <uri>https://news.ycombinator.com/user?id=epimetheus3</uri>
         </author>
     </entry>
 </feed>
