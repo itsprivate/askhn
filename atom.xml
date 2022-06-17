@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T06:54:41.137Z</updated>
+    <updated>2022-06-17T08:01:00.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与Twitter的链接会让你在HN上被禁言吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775258</id>
+        <link href="https://news.ycombinator.com/item?id=31775258"/>
+        <updated>2022-06-17T07:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do links to Twitter get you shadow banned on HN?]]></summary>
+        <author>
+            <name>JonathanBeuys</name>
+            <uri>https://news.ycombinator.com/user?id=JonathanBeuys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在亚马逊要求进行具体的团队面试，这是不是很疯狂？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会投资哪些科技成长股？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596053</id>
-        <link href="https://news.ycombinator.com/item?id=31596053"/>
-        <updated>2022-06-02T15:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the tech growth stocks that you would invest in?]]></summary>
-        <author>
-            <name>_private</name>
-            <uri>https://news.ycombinator.com/user?id=_private</uri>
         </author>
     </entry>
 </feed>
