@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T15:31:23.249Z</updated>
+    <updated>2022-06-17T15:51:23.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些软件对你公司的成功至关重要，即使是在经济低迷时期？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779794</id>
+        <link href="https://news.ycombinator.com/item?id=31779794"/>
+        <updated>2022-06-17T15:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What software are critical to your company success, even in a downturn?]]></summary>
+        <author>
+            <name>notoriousarun</name>
+            <uri>https://news.ycombinator.com/user?id=notoriousarun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["无码 "对于制作游戏来说效果很好，但对于一般的软件来说却不是。为什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hereforphone</name>
             <uri>https://news.ycombinator.com/user?id=hereforphone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件能否像汽车一样具有美感？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598516</id>
-        <link href="https://news.ycombinator.com/item?id=31598516"/>
-        <updated>2022-06-02T18:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can Software Be as Aesthetic as Cars?]]></summary>
-        <author>
-            <name>aquajet</name>
-            <uri>https://news.ycombinator.com/user?id=aquajet</uri>
         </author>
     </entry>
 </feed>
