@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T19:50:46.405Z</updated>
+    <updated>2022-06-17T20:48:10.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何克服心理疲勞？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31784020</id>
+        <link href="https://news.ycombinator.com/item?id=31784020"/>
+        <updated>2022-06-17T20:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Overcome Mental Fatigue?]]></summary>
+        <author>
+            <name>MathCodeLove</name>
+            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用Enum來表示是、否、未設置？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bsg75</name>
             <uri>https://news.ycombinator.com/user?id=bsg75</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[規模較大但被忽視的公司，有很好的培訓文化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602419</id>
-        <link href="https://news.ycombinator.com/item?id=31602419"/>
-        <updated>2022-06-03T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Larger but overlooked companies that have a great training culture?]]></summary>
-        <author>
-            <name>djellybeans</name>
-            <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
         </author>
     </entry>
 </feed>
