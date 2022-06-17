@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T05:08:40.148Z</updated>
+    <updated>2022-06-17T05:46:17.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何处理备用PC？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31774416</id>
+        <link href="https://news.ycombinator.com/item?id=31774416"/>
+        <updated>2022-06-17T05:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do with Spare PC?]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是一个股票的熊市还是一个修正？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>theory_of_10_1</name>
             <uri>https://news.ycombinator.com/user?id=theory_of_10_1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你所在行业的什么问题是一个潜在的创业公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595842</id>
-        <link href="https://news.ycombinator.com/item?id=31595842"/>
-        <updated>2022-06-02T15:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What problem in your industry is a potential startup?]]></summary>
-        <author>
-            <name>anthropodie</name>
-            <uri>https://news.ycombinator.com/user?id=anthropodie</uri>
         </author>
     </entry>
 </feed>
