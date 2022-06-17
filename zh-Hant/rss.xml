@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新聞簡報之後的下一步是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31775642</link>
+            <guid>https://news.ycombinator.com/item?id=31775642</guid>
+            <pubDate>Fri, 17 Jun 2022 08:47:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the next step after Newsletters?]]></description>
+        </item>
         <item>
             <title><![CDATA[在這個不確定的時代，你如何處理焦慮的問題？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31596572</guid>
             <pubDate>Thu, 02 Jun 2022 16:04:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you prefer Svelte or SolidJS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有任何高級別的TUI工具？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31596561</link>
-            <guid>https://news.ycombinator.com/item?id=31596561</guid>
-            <pubDate>Thu, 02 Jun 2022 16:04:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are there any high-level TUI tools?]]></description>
         </item>
     </channel>
 </rss>
