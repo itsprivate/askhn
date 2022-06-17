@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 17 Jun 2022 19:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 19:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否使用Enum来表示是、否、未设置？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31783224</link>
+            <guid>https://news.ycombinator.com/item?id=31783224</guid>
+            <pubDate>Fri, 17 Jun 2022 19:38:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do You Use Enum for Yes, No, Unset?]]></description>
+        </item>
         <item>
             <title><![CDATA[跨站cookies和第三方cookies之间有什么区别？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31602419</guid>
             <pubDate>Fri, 03 Jun 2022 00:20:22 GMT</pubDate>
             <description><![CDATA[Ask HN: Larger but overlooked companies that have a great training culture?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[怎样才能成为一名10倍的QA工程师？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31602216</link>
-            <guid>https://news.ycombinator.com/item?id=31602216</guid>
-            <pubDate>Thu, 02 Jun 2022 23:57:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: What makes for a 10x QA engineer?]]></description>
         </item>
     </channel>
 </rss>
