@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-16T23:47:20.579Z</updated>
+    <updated>2022-06-17T02:21:28.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[存在的藝術博客靜態網站生成器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31772912</id>
+        <link href="https://news.ycombinator.com/item?id=31772912"/>
+        <updated>2022-06-17T01:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Art Blog Static Site Generator That Exists?]]></summary>
+        <author>
+            <name>kradeelav</name>
+            <uri>https://news.ycombinator.com/user?id=kradeelav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有一種打字軟件可以預測你最容易/最難打的字？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>josephcsible</name>
             <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對女王的看法如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31594859</id>
-        <link href="https://news.ycombinator.com/item?id=31594859"/>
-        <updated>2022-06-02T13:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think of the Queen?]]></summary>
-        <author>
-            <name>nickgubbins</name>
-            <uri>https://news.ycombinator.com/user?id=nickgubbins</uri>
         </author>
     </entry>
 </feed>
