@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T18:37:56.858Z</updated>
+    <updated>2022-06-17T19:25:47.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[跨站cookies和第三方cookies之间有什么区别？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782982</id>
+        <link href="https://news.ycombinator.com/item?id=31782982"/>
+        <updated>2022-06-17T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whats the difference between cross-site cookies and third-party cookies?]]></summary>
+        <author>
+            <name>zagrebian</name>
+            <uri>https://news.ycombinator.com/user?id=zagrebian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何保护你的鼻子不受讨厌的气味影响？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782845</id>
+        <link href="https://news.ycombinator.com/item?id=31782845"/>
+        <updated>2022-06-17T19:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to protect your nose from nasty smell?]]></summary>
+        <author>
+            <name>kite_and_code</name>
+            <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像GameStop和AMC这样的纪念性股票怎么没有崩溃？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Sincere</name>
             <uri>https://news.ycombinator.com/user?id=Sincere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会为一个能减少你的云计算成本的服务付费吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601288</id>
-        <link href="https://news.ycombinator.com/item?id=31601288"/>
-        <updated>2022-06-02T22:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you pay for a service that reduces your cloud costs?]]></summary>
-        <author>
-            <name>kamrani</name>
-            <uri>https://news.ycombinator.com/user?id=kamrani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你妈妈对你的工作或就业有什么看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601004</id>
-        <link href="https://news.ycombinator.com/item?id=31601004"/>
-        <updated>2022-06-02T21:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does your Mom tell people about your work or employment?]]></summary>
-        <author>
-            <name>IncRnd</name>
-            <uri>https://news.ycombinator.com/user?id=IncRnd</uri>
         </author>
     </entry>
 </feed>
