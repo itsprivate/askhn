@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T08:01:00.296Z</updated>
+    <updated>2022-06-17T08:36:35.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在這個不確定的時代，你如何處理焦慮的問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775411</id>
+        <link href="https://news.ycombinator.com/item?id=31775411"/>
+        <updated>2022-06-17T08:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: In these uncertain times, how do you handle anxiousness]]></summary>
+        <author>
+            <name>anxioustech</name>
+            <uri>https://news.ycombinator.com/user?id=anxioustech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與Twitter的鏈接會讓你在HN上被禁言嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>monroewalker</name>
             <uri>https://news.ycombinator.com/user?id=monroewalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習Solidity的最佳資源是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596132</id>
-        <link href="https://news.ycombinator.com/item?id=31596132"/>
-        <updated>2022-06-02T15:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best resources to learn Solidity?]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
