@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T04:22:58.176Z</updated>
+    <updated>2022-06-17T05:08:40.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這是一個股票的熊市還是一個修正？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31774218</id>
+        <link href="https://news.ycombinator.com/item?id=31774218"/>
+        <updated>2022-06-17T04:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this a bear market for stocks or a correction?]]></summary>
+        <author>
+            <name>llampx</name>
+            <uri>https://news.ycombinator.com/user?id=llampx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對於一個初級的網絡開發人員來說，合理的範圍是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31774094</id>
+        <link href="https://news.ycombinator.com/item?id=31774094"/>
+        <updated>2022-06-17T04:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reasonable scope for a beginner web dev?]]></summary>
+        <author>
+            <name>tannershmoog</name>
+            <uri>https://news.ycombinator.com/user?id=tannershmoog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT新聞的反面等價物？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>anthropodie</name>
             <uri>https://news.ycombinator.com/user?id=anthropodie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會用一個Mac應用程序來存儲和加密你的照片/視頻嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595500</id>
-        <link href="https://news.ycombinator.com/item?id=31595500"/>
-        <updated>2022-06-02T14:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you use a Mac app to store and encrypt your photos/videos?]]></summary>
-        <author>
-            <name>ImKevinArcher</name>
-            <uri>https://news.ycombinator.com/user?id=ImKevinArcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對一個要獨當一面的通才的建議？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595437</id>
-        <link href="https://news.ycombinator.com/item?id=31595437"/>
-        <updated>2022-06-02T14:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice for a Generalist Going Solo?]]></summary>
-        <author>
-            <name>paulette449</name>
-            <uri>https://news.ycombinator.com/user?id=paulette449</uri>
         </author>
     </entry>
 </feed>
