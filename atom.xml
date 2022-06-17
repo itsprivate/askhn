@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T16:53:04.147Z</updated>
+    <updated>2022-06-17T17:08:35.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您是否在Stripe和您的主（ERP）系统之间同步SKU？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780840</id>
+        <link href="https://news.ycombinator.com/item?id=31780840"/>
+        <updated>2022-06-17T16:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you sync SKUs between Stripe and your main (ERP) system?]]></summary>
+        <author>
+            <name>dhruvkar</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvkar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我创建了一个新闻缩短算法，但不确定如何利用它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779260</id>
+        <link href="https://news.ycombinator.com/item?id=31779260"/>
+        <updated>2022-06-17T15:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I created a news shortening algorithm and am not sure how to utilize it]]></summary>
+        <author>
+            <name>superdario</name>
+            <uri>https://news.ycombinator.com/user?id=superdario</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么不把Zoom和一个连锁餐厅结合起来，提供远程餐饮呢？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在规模化学习系统架构方面有哪些好的资源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600065</id>
-        <link href="https://news.ycombinator.com/item?id=31600065"/>
-        <updated>2022-06-02T20:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good resources for learning system architecture at scale?]]></summary>
-        <author>
-            <name>DougMellon</name>
-            <uri>https://news.ycombinator.com/user?id=DougMellon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我得到了一个工作机会，在技术上我可以降档，但在文化上可以升档。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31599452</id>
-        <link href="https://news.ycombinator.com/item?id=31599452"/>
-        <updated>2022-06-02T19:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Got job offer where I would downshift technically but upshift culturally]]></summary>
-        <author>
-            <name>4ippp</name>
-            <uri>https://news.ycombinator.com/user?id=4ippp</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 17 Jun 2022 16:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[您是否在Stripe和您的主（ERP）系统之间同步SKU？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780840</link>
+            <guid>https://news.ycombinator.com/item?id=31780840</guid>
+            <pubDate>Fri, 17 Jun 2022 16:43:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you sync SKUs between Stripe and your main (ERP) system?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我创建了一个新闻缩短算法，但不确定如何利用它
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31779260</link>
+            <guid>https://news.ycombinator.com/item?id=31779260</guid>
+            <pubDate>Fri, 17 Jun 2022 15:04:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: I created a news shortening algorithm and am not sure how to utilize it]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么不把Zoom和一个连锁餐厅结合起来，提供远程餐饮呢？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31600296</guid>
             <pubDate>Thu, 02 Jun 2022 20:46:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Why do software engineers earn more than doctors?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在规模化学习系统架构方面有哪些好的资源？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31600065</link>
-            <guid>https://news.ycombinator.com/item?id=31600065</guid>
-            <pubDate>Thu, 02 Jun 2022 20:24:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are some good resources for learning system architecture at scale?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我得到了一个工作机会，在技术上我可以降档，但在文化上可以升档。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31599452</link>
-            <guid>https://news.ycombinator.com/item?id=31599452</guid>
-            <pubDate>Thu, 02 Jun 2022 19:27:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Got job offer where I would downshift technically but upshift culturally]]></description>
         </item>
     </channel>
 </rss>
