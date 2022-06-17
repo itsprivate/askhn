@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T09:29:50.726Z</updated>
+    <updated>2022-06-17T11:44:16.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我有足夠的技術，那麼為什麼我感到報酬不足？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776678</id>
+        <link href="https://news.ycombinator.com/item?id=31776678"/>
+        <updated>2022-06-17T11:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If I am skilled enough, then why do I feel underpaid?]]></summary>
+        <author>
+            <name>itsmefaz</name>
+            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希望出現在AMA會議上的創始人，超過170個成員的社區
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>weakfish</name>
             <uri>https://news.ycombinator.com/user?id=weakfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的桌面是什麼樣子的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596745</id>
-        <link href="https://news.ycombinator.com/item?id=31596745"/>
-        <updated>2022-06-02T16:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does your desktop look like?]]></summary>
-        <author>
-            <name>xrayarx</name>
-            <uri>https://news.ycombinator.com/user?id=xrayarx</uri>
         </author>
     </entry>
 </feed>
