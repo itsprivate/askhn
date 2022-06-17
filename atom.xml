@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T09:00:16.519Z</updated>
+    <updated>2022-06-17T09:29:50.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[希望出现在AMA会议上的创始人，超过170个成员的社区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775884</id>
+        <link href="https://news.ycombinator.com/item?id=31775884"/>
+        <updated>2022-06-17T09:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Founder who wants to appear on AMA session over a 170 member community]]></summary>
+        <author>
+            <name>mycomputerlags</name>
+            <uri>https://news.ycombinator.com/user?id=mycomputerlags</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新闻简报之后的下一步是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>xrayarx</name>
             <uri>https://news.ycombinator.com/user?id=xrayarx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜欢Svelte还是SolidJS？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596572</id>
-        <link href="https://news.ycombinator.com/item?id=31596572"/>
-        <updated>2022-06-02T16:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you prefer Svelte or SolidJS?]]></summary>
-        <author>
-            <name>lichtenberger</name>
-            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
         </author>
     </entry>
 </feed>
