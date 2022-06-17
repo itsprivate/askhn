@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T11:44:16.439Z</updated>
+    <updated>2022-06-17T12:01:33.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[經歷 "支點地獄 "的最佳資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776748</id>
+        <link href="https://news.ycombinator.com/item?id=31776748"/>
+        <updated>2022-06-17T11:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best resources to go through “pivot hell”?]]></summary>
+        <author>
+            <name>AnhTho_FR</name>
+            <uri>https://news.ycombinator.com/user?id=AnhTho_FR</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我有足夠的技術，那麼為什麼我感到報酬不足？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE在你的組織中意味著什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596830</id>
-        <link href="https://news.ycombinator.com/item?id=31596830"/>
-        <updated>2022-06-02T16:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does SRE mean at your organization?]]></summary>
-        <author>
-            <name>weakfish</name>
-            <uri>https://news.ycombinator.com/user?id=weakfish</uri>
         </author>
     </entry>
 </feed>
