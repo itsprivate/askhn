@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T05:46:17.718Z</updated>
+    <updated>2022-06-17T06:54:41.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在亚马逊要求进行具体的团队面试，这是不是很疯狂？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31774831</id>
+        <link href="https://news.ycombinator.com/item?id=31774831"/>
+        <updated>2022-06-17T06:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it crazy to ask for team specific interview at Amazon?]]></summary>
+        <author>
+            <name>zaptheimpaler</name>
+            <uri>https://news.ycombinator.com/user?id=zaptheimpaler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理备用PC？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>_private</name>
             <uri>https://news.ycombinator.com/user?id=_private</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐建立教练网络的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595966</id>
-        <link href="https://news.ycombinator.com/item?id=31595966"/>
-        <updated>2022-06-02T15:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommend tools to build a coaching network]]></summary>
-        <author>
-            <name>theory_of_10_1</name>
-            <uri>https://news.ycombinator.com/user?id=theory_of_10_1</uri>
         </author>
     </entry>
 </feed>
