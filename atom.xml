@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-17T14:49:32.000Z</updated>
+    <updated>2022-06-17T15:00:12.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[管理比你更聪明的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779097</id>
+        <link href="https://news.ycombinator.com/item?id=31779097"/>
+        <updated>2022-06-17T14:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Managing people smarter than you]]></summary>
+        <author>
+            <name>raygelogic</name>
+            <uri>https://news.ycombinator.com/user?id=raygelogic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在房租上花了多少钱？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ryeguy_24</name>
             <uri>https://news.ycombinator.com/user?id=ryeguy_24</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在做什么工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598206</id>
-        <link href="https://news.ycombinator.com/item?id=31598206"/>
-        <updated>2022-06-02T17:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Are You Working On?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
