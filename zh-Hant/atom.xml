@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T14:47:54.692Z</updated>
+    <updated>2022-06-18T14:58:02.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國廣播公司正在消亡嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31790240</id>
+        <link href="https://news.ycombinator.com/item?id=31790240"/>
+        <updated>2022-06-18T14:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the BBC Dying?]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的公司在六一節給你放假了嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cube2222</name>
             <uri>https://news.ycombinator.com/user?id=cube2222</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何維護一個殺手級的產品文檔頁面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609219</id>
-        <link href="https://news.ycombinator.com/item?id=31609219"/>
-        <updated>2022-06-03T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to maintain a killer product documentation page]]></summary>
-        <author>
-            <name>kostarelo</name>
-            <uri>https://news.ycombinator.com/user?id=kostarelo</uri>
         </author>
     </entry>
 </feed>
