@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T02:24:36.882Z</updated>
+    <updated>2022-06-18T03:40:02.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对Reddit风格的RSS订阅有何看法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31786980</id>
+        <link href="https://news.ycombinator.com/item?id=31786980"/>
+        <updated>2022-06-18T03:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think of a Reddit style RSS feed?]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个满足于编程能力的高级工程师，接下来要学习什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31786898</id>
+        <link href="https://news.ycombinator.com/item?id=31786898"/>
+        <updated>2022-06-18T02:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a senior engineer content with programming chops, what to learn next?]]></summary>
+        <author>
+            <name>captmorrel</name>
+            <uri>https://news.ycombinator.com/user?id=captmorrel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我们不能对垃圾广告进行评论？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31786793</id>
+        <link href="https://news.ycombinator.com/item?id=31786793"/>
+        <updated>2022-06-18T02:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't we comment on spam advertisements?]]></summary>
+        <author>
+            <name>My100thaccount</name>
+            <uri>https://news.ycombinator.com/user?id=My100thaccount</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我没有通过FAANG的面试，因为我不知道二叉树？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>MathCodeLove</name>
             <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人要去参加电磁场营吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31606014</id>
-        <link href="https://news.ycombinator.com/item?id=31606014"/>
-        <updated>2022-06-03T09:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone going to Electromagnetic Field Camp?]]></summary>
-        <author>
-            <name>amar-laksh</name>
-            <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在计算机科学中获得更好的数学符号知识
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605783</id>
-        <link href="https://news.ycombinator.com/item?id=31605783"/>
-        <updated>2022-06-03T08:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get better knowledge about math notations in computer science]]></summary>
-        <author>
-            <name>lichtenberger</name>
-            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何记录你的个人财务状况？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605741</id>
-        <link href="https://news.ycombinator.com/item?id=31605741"/>
-        <updated>2022-06-03T08:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you record your personal finances?]]></summary>
-        <author>
-            <name>mdrzn</name>
-            <uri>https://news.ycombinator.com/user?id=mdrzn</uri>
         </author>
     </entry>
 </feed>
