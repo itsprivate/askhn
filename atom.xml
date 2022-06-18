@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T14:25:23.930Z</updated>
+    <updated>2022-06-18T14:47:54.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的公司在六一节给你放假了吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31790169</id>
+        <link href="https://news.ycombinator.com/item?id=31790169"/>
+        <updated>2022-06-18T14:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is your company giving you a holiday for Juneteenth?]]></summary>
+        <author>
+            <name>cgb223</name>
+            <uri>https://news.ycombinator.com/user?id=cgb223</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么手机不通知你有恶意软件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kostarelo</name>
             <uri>https://news.ycombinator.com/user?id=kostarelo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搜索歌词的最佳方式？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31608811</id>
-        <link href="https://news.ycombinator.com/item?id=31608811"/>
-        <updated>2022-06-03T14:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Way to Search for Lyrics?]]></summary>
-        <author>
-            <name>johan_felisaz</name>
-            <uri>https://news.ycombinator.com/user?id=johan_felisaz</uri>
         </author>
     </entry>
 </feed>
