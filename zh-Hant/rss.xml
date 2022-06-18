@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 18 Jun 2022 20:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 21:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我怎樣才能使這個項目變得有用？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31793837</link>
+            <guid>https://news.ycombinator.com/item?id=31793837</guid>
+            <pubDate>Sat, 18 Jun 2022 21:07:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I make this project useful?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果給你一個公休日，你會怎麼做？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31613893</guid>
             <pubDate>Fri, 03 Jun 2022 21:30:12 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some fun, conversational GitHub repos to contribute to?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何將敏感數據從數以千計的不信任的設備上寫入S3？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31613327</link>
-            <guid>https://news.ycombinator.com/item?id=31613327</guid>
-            <pubDate>Fri, 03 Jun 2022 20:37:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to write sensitive data to S3 from thousands of untrusted devices?]]></description>
         </item>
     </channel>
 </rss>

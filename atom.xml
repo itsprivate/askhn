@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T20:58:49.460Z</updated>
+    <updated>2022-06-18T21:24:39.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能使这个项目变得有用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31793837</id>
+        <link href="https://news.ycombinator.com/item?id=31793837"/>
+        <updated>2022-06-18T21:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I make this project useful?]]></summary>
+        <author>
+            <name>t_w_s</name>
+            <uri>https://news.ycombinator.com/user?id=t_w_s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果给你一个公休日，你会怎么做？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>julianeon</name>
             <uri>https://news.ycombinator.com/user?id=julianeon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将敏感数据从数以千计的不信任的设备上写入S3？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613327</id>
-        <link href="https://news.ycombinator.com/item?id=31613327"/>
-        <updated>2022-06-03T20:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to write sensitive data to S3 from thousands of untrusted devices?]]></summary>
-        <author>
-            <name>frogger8</name>
-            <uri>https://news.ycombinator.com/user?id=frogger8</uri>
         </author>
     </entry>
 </feed>
