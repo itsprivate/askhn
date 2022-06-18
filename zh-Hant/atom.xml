@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T15:48:26.767Z</updated>
+    <updated>2022-06-18T16:01:24.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有一個風險管理的小抄嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31791012</id>
+        <link href="https://news.ycombinator.com/item?id=31791012"/>
+        <updated>2022-06-18T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you have a risk management cheat sheet?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該停止使用空氣淨化器嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31790910</id>
+        <link href="https://news.ycombinator.com/item?id=31790910"/>
+        <updated>2022-06-18T15:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I stop using air purifiers?]]></summary>
+        <author>
+            <name>randomrubydev</name>
+            <uri>https://news.ycombinator.com/user?id=randomrubydev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司的魔法觸控板是否能提高你的工作效率？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>MoOmer</name>
             <uri>https://news.ycombinator.com/user?id=MoOmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為用戶的查詢優化數據庫表？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609649</id>
-        <link href="https://news.ycombinator.com/item?id=31609649"/>
-        <updated>2022-06-03T15:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Optimizing database table for user-made queries?]]></summary>
-        <author>
-            <name>luke8086</name>
-            <uri>https://news.ycombinator.com/user?id=luke8086</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為後端開發人員提供的最佳前端生成框架？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609608</id>
-        <link href="https://news.ycombinator.com/item?id=31609608"/>
-        <updated>2022-06-03T15:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Front end generation framework for Backend Developers?]]></summary>
-        <author>
-            <name>bootcat</name>
-            <uri>https://news.ycombinator.com/user?id=bootcat</uri>
         </author>
     </entry>
 </feed>
