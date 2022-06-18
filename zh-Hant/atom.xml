@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T16:39:01.158Z</updated>
+    <updated>2022-06-18T17:05:32.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[顯示大數字格式的用戶體驗提示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31791524</id>
+        <link href="https://news.ycombinator.com/item?id=31791524"/>
+        <updated>2022-06-18T16:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: UX tips for displaying large numbers formatted]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在有計算障礙的情況下成功投資？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>girgiti</name>
             <uri>https://news.ycombinator.com/user?id=girgiti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對NFT有什麼看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610020</id>
-        <link href="https://news.ycombinator.com/item?id=31610020"/>
-        <updated>2022-06-03T15:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think about NFTs?]]></summary>
-        <author>
-            <name>filnstuff</name>
-            <uri>https://news.ycombinator.com/user?id=filnstuff</uri>
         </author>
     </entry>
 </feed>
