@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T11:23:50.681Z</updated>
+    <updated>2022-06-18T13:16:03.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對Racket ORM大學獨立工作的建議
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31789516</id>
+        <link href="https://news.ycombinator.com/item?id=31789516"/>
+        <updated>2022-06-18T13:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice for Racket ORM college independent work]]></summary>
+        <author>
+            <name>caaaadr</name>
+            <uri>https://news.ycombinator.com/user?id=caaaadr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序員學習用戶體驗/設計的好資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31789362</id>
+        <link href="https://news.ycombinator.com/item?id=31789362"/>
+        <updated>2022-06-18T12:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good resources for programmers to learn about UX/design?]]></summary>
+        <author>
+            <name>cejast</name>
+            <uri>https://news.ycombinator.com/user?id=cejast</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼PayPal在歐洲不提供比特幣？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰知道（或猜測）賭博軟件是如何製作投注線的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31607887</id>
-        <link href="https://news.ycombinator.com/item?id=31607887"/>
-        <updated>2022-06-03T13:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone know (or guess) how gambling apps make betting lines?]]></summary>
-        <author>
-            <name>hiidrew</name>
-            <uri>https://news.ycombinator.com/user?id=hiidrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國應該如何處理其核廢料？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31607682</id>
-        <link href="https://news.ycombinator.com/item?id=31607682"/>
-        <updated>2022-06-03T13:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What should America do with its nuclear waste?]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
         </author>
     </entry>
 </feed>
