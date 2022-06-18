@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T18:52:36.533Z</updated>
+    <updated>2022-06-18T19:43:50.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們應該如何設計反緊縮通貨膨脹的法律？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792924</id>
+        <link href="https://news.ycombinator.com/item?id=31792924"/>
+        <updated>2022-06-18T19:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should we design anti-shrinkflation laws?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能確定我的工作用MacBook不會在下班後偷窺我？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[體面的互聯網路由器推薦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611638</id>
-        <link href="https://news.ycombinator.com/item?id=31611638"/>
-        <updated>2022-06-03T17:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Decent Internet Router Recommendations?]]></summary>
-        <author>
-            <name>axismundi</name>
-            <uri>https://news.ycombinator.com/user?id=axismundi</uri>
         </author>
     </entry>
 </feed>
