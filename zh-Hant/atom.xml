@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T04:48:59.573Z</updated>
+    <updated>2022-06-18T07:42:56.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有在專業背景下進行情感分析的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787906</id>
+        <link href="https://news.ycombinator.com/item?id=31787906"/>
+        <updated>2022-06-18T07:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there examples of sentiment analysis in a professional context?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忽略流行和軟件包，哪種編程語言是最好的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>social_quotient</name>
             <uri>https://news.ycombinator.com/user?id=social_quotient</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現代C++工作流程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31606799</id>
-        <link href="https://news.ycombinator.com/item?id=31606799"/>
-        <updated>2022-06-03T11:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Modern C++ Workflow?]]></summary>
-        <author>
-            <name>DistrictFun7572</name>
-            <uri>https://news.ycombinator.com/user?id=DistrictFun7572</uri>
         </author>
     </entry>
 </feed>
