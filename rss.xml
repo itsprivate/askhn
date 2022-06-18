@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 04:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[忽略流行和软件包，哪种编程语言是最好的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31787309</link>
+            <guid>https://news.ycombinator.com/item?id=31787309</guid>
+            <pubDate>Sat, 18 Jun 2022 04:41:20 GMT</pubDate>
+            <description><![CDATA[Ask HN: Ignoring popularity and packages, which programming language is best?]]></description>
+        </item>
         <item>
             <title><![CDATA[推特的意义何在
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31606799</guid>
             <pubDate>Fri, 03 Jun 2022 11:13:44 GMT</pubDate>
             <description><![CDATA[Ask HN: Modern C++ Workflow?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Docker Swarm模式对你来说足够了吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31606495</link>
-            <guid>https://news.ycombinator.com/item?id=31606495</guid>
-            <pubDate>Fri, 03 Jun 2022 10:25:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Would Docker Swarm mode be enough for you?]]></description>
         </item>
     </channel>
 </rss>

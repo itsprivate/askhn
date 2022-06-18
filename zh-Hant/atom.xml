@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-18T04:12:20.351Z</updated>
+    <updated>2022-06-18T04:48:59.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[忽略流行和軟件包，哪種編程語言是最好的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787309</id>
+        <link href="https://news.ycombinator.com/item?id=31787309"/>
+        <updated>2022-06-18T04:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ignoring popularity and packages, which programming language is best?]]></summary>
+        <author>
+            <name>m1sta_</name>
+            <uri>https://news.ycombinator.com/user?id=m1sta_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特的意義何在
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DistrictFun7572</name>
             <uri>https://news.ycombinator.com/user?id=DistrictFun7572</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Swarm模式對你來說足夠了嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31606495</id>
-        <link href="https://news.ycombinator.com/item?id=31606495"/>
-        <updated>2022-06-03T10:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would Docker Swarm mode be enough for you?]]></summary>
-        <author>
-            <name>ancieque</name>
-            <uri>https://news.ycombinator.com/user?id=ancieque</uri>
         </author>
     </entry>
 </feed>
