@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T13:59:31.146Z</updated>
+    <updated>2022-06-19T14:25:25.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何不依賴JavaScript的網絡圖形庫？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31799463</id>
+        <link href="https://news.ycombinator.com/item?id=31799463"/>
+        <updated>2022-06-19T14:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any web graphing libraries that don't rely on JavaScript?]]></summary>
+        <author>
+            <name>codingclaws</name>
+            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最好的父親記憶？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有偉大故事的非暴力視頻遊戲？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618955</id>
-        <link href="https://news.ycombinator.com/item?id=31618955"/>
-        <updated>2022-06-04T10:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-violent video games with great stories?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
