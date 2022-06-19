@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T18:52:30.035Z</updated>
+    <updated>2022-06-19T19:24:42.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub的其他用途？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802314</id>
+        <link href="https://news.ycombinator.com/item?id=31802314"/>
+        <updated>2022-06-19T19:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Other Uses for GitHub?]]></summary>
+        <author>
+            <name>night-rider</name>
+            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在本地開發React+Flask，並能輕鬆部署？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802243</id>
+        <link href="https://news.ycombinator.com/item?id=31802243"/>
+        <updated>2022-06-19T18:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to develop React+Flask locally in a way that can easily be deployed?]]></summary>
+        <author>
+            <name>RSchaeffer</name>
+            <uri>https://news.ycombinator.com/user?id=RSchaeffer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何繞過GDPR？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>SkyAndSand</name>
             <uri>https://news.ycombinator.com/user?id=SkyAndSand</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多域名的最佳電子郵件託管和管理解決方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31620425</id>
-        <link href="https://news.ycombinator.com/item?id=31620425"/>
-        <updated>2022-06-04T14:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best email hosting and management solution for multiple domains?]]></summary>
-        <author>
-            <name>sctgrhm</name>
-            <uri>https://news.ycombinator.com/user?id=sctgrhm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼代碼圖的生成工具沒有更普遍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31620002</id>
-        <link href="https://news.ycombinator.com/item?id=31620002"/>
-        <updated>2022-06-04T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't code diagram generating tools more common?]]></summary>
-        <author>
-            <name>lurker137</name>
-            <uri>https://news.ycombinator.com/user?id=lurker137</uri>
         </author>
     </entry>
 </feed>
