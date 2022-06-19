@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T06:52:45.404Z</updated>
+    <updated>2022-06-19T07:57:43.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在沒有Kubernetes的情況下進行滾動部署？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797206</id>
+        <link href="https://news.ycombinator.com/item?id=31797206"/>
+        <updated>2022-06-19T07:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to do rolling deployments without Kubernetes?]]></summary>
+        <author>
+            <name>jsdevtom</name>
+            <uri>https://news.ycombinator.com/user?id=jsdevtom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成為工程總監
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>AdvicePlz</name>
             <uri>https://news.ycombinator.com/user?id=AdvicePlz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能正確使用一種語言教授設計模式的資源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617377</id>
-        <link href="https://news.ycombinator.com/item?id=31617377"/>
-        <updated>2022-06-04T05:45:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Resources that teach design patterns using a language correctly?]]></summary>
-        <author>
-            <name>gymshoes</name>
-            <uri>https://news.ycombinator.com/user?id=gymshoes</uri>
         </author>
     </entry>
 </feed>
