@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T23:27:09.853Z</updated>
+    <updated>2022-06-19T23:44:20.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自由職業者，你是否僱傭一個PM來管理你？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804594</id>
+        <link href="https://news.ycombinator.com/item?id=31804594"/>
+        <updated>2022-06-19T23:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Freelancers, do you hire a PM to manage you?]]></summary>
+        <author>
+            <name>ZoidPeru</name>
+            <uri>https://news.ycombinator.com/user?id=ZoidPeru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在以色列向用戶按月收費的解決方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>julienreszka</name>
             <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何（從法律上）管理一個地理分佈的社區？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31623024</id>
-        <link href="https://news.ycombinator.com/item?id=31623024"/>
-        <updated>2022-06-04T17:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to manage (legally) a geographically distributed community?]]></summary>
-        <author>
-            <name>rambojazz</name>
-            <uri>https://news.ycombinator.com/user?id=rambojazz</uri>
         </author>
     </entry>
 </feed>
