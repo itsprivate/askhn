@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T15:29:33.271Z</updated>
+    <updated>2022-06-19T18:52:30.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何繞過GDPR？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802148</id>
+        <link href="https://news.ycombinator.com/item?id=31802148"/>
+        <updated>2022-06-19T18:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Get Around GDPR?]]></summary>
+        <author>
+            <name>collegeburner</name>
+            <uri>https://news.ycombinator.com/user?id=collegeburner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的軟件工程實用指南是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31801827</id>
+        <link href="https://news.ycombinator.com/item?id=31801827"/>
+        <updated>2022-06-19T18:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favorite practical guides to software engineering?]]></summary>
+        <author>
+            <name>rsr</name>
+            <uri>https://news.ycombinator.com/user?id=rsr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何從頭開始學習數學證明？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lurker137</name>
             <uri>https://news.ycombinator.com/user?id=lurker137</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當工具很糟糕時，廣告如何成為谷歌的主要收入來源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31619540</id>
-        <link href="https://news.ycombinator.com/item?id=31619540"/>
-        <updated>2022-06-04T12:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is ads Google's primary source of income when the tooling is awful?]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在歐洲開辦有機農場的SWE，你去了哪裡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31619263</id>
-        <link href="https://news.ycombinator.com/item?id=31619263"/>
-        <updated>2022-06-04T11:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: SWE who started an organic farm in Europe, where did you go?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>

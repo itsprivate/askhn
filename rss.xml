@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 19 Jun 2022 15:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 18:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何绕过GDPR？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31802148</link>
+            <guid>https://news.ycombinator.com/item?id=31802148</guid>
+            <pubDate>Sun, 19 Jun 2022 18:47:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Get Around GDPR?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你最喜欢的软件工程实用指南是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31801827</link>
+            <guid>https://news.ycombinator.com/item?id=31801827</guid>
+            <pubDate>Sun, 19 Jun 2022 18:13:50 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are your favorite practical guides to software engineering?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何从头开始学习数学证明？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31620002</guid>
             <pubDate>Sat, 04 Jun 2022 13:20:59 GMT</pubDate>
             <description><![CDATA[Ask HN: Why aren't code diagram generating tools more common?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当工具很糟糕时，广告如何成为谷歌的主要收入来源？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31619540</link>
-            <guid>https://news.ycombinator.com/item?id=31619540</guid>
-            <pubDate>Sat, 04 Jun 2022 12:29:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: How is ads Google's primary source of income when the tooling is awful?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在欧洲开办有机农场的SWE，你去了哪里？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31619263</link>
-            <guid>https://news.ycombinator.com/item?id=31619263</guid>
-            <pubDate>Sat, 04 Jun 2022 11:49:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: SWE who started an organic farm in Europe, where did you go?]]></description>
         </item>
     </channel>
 </rss>
