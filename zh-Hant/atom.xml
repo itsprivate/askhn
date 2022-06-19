@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T21:57:43.313Z</updated>
+    <updated>2022-06-19T22:45:08.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有高級開發人員喜歡從靜態類型切換到動態類型？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804221</id>
+        <link href="https://news.ycombinator.com/item?id=31804221"/>
+        <updated>2022-06-19T22:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there senior devs who liked switching from static to dynamic typing?]]></summary>
+        <author>
+            <name>joeldo</name>
+            <uri>https://news.ycombinator.com/user?id=joeldo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人機交互研究對舞臺管理器的可用性有什麼看法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>smorgusofborg</name>
             <uri>https://news.ycombinator.com/user?id=smorgusofborg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的生活中，有哪些變化是你所做的，並且從不回頭的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31621780</id>
-        <link href="https://news.ycombinator.com/item?id=31621780"/>
-        <updated>2022-06-04T15:50:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the changes you made in your life and never look back?]]></summary>
-        <author>
-            <name>saadalem</name>
-            <uri>https://news.ycombinator.com/user?id=saadalem</uri>
         </author>
     </entry>
 </feed>
