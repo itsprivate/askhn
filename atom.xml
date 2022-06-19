@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T12:46:25.493Z</updated>
+    <updated>2022-06-19T13:15:39.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在提高阅读速度方面取得了成功吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798938</id>
+        <link href="https://news.ycombinator.com/item?id=31798938"/>
+        <updated>2022-06-19T13:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you had success with improving your reading speed?]]></summary>
+        <author>
+            <name>towledev</name>
+            <uri>https://news.ycombinator.com/user?id=towledev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个通过预先调整来下载媒体的工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tepix</name>
             <uri>https://news.ycombinator.com/user?id=Tepix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些资源可以学习分解和优先处理问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618617</id>
-        <link href="https://news.ycombinator.com/item?id=31618617"/>
-        <updated>2022-06-04T09:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some resources to learn breaking down and prioritise problems?]]></summary>
-        <author>
-            <name>kirso</name>
-            <uri>https://news.ycombinator.com/user?id=kirso</uri>
         </author>
     </entry>
 </feed>
