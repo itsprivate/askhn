@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T20:46:39.671Z</updated>
+    <updated>2022-06-19T21:57:43.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人机交互研究对舞台管理器的可用性有什么看法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31803886</id>
+        <link href="https://news.ycombinator.com/item?id=31803886"/>
+        <updated>2022-06-19T21:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does HCI research say about the usability of Stage Manager?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实际上，"保险技术 "初创公司是做什么的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saadalem</name>
             <uri>https://news.ycombinator.com/user?id=saadalem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你从哪里获得演讲用的剪贴画？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31621443</id>
-        <link href="https://news.ycombinator.com/item?id=31621443"/>
-        <updated>2022-06-04T15:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you get clip arts for presentations?]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>
