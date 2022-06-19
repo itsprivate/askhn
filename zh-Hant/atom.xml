@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T11:24:19.687Z</updated>
+    <updated>2022-06-19T12:46:25.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個通過預先調整來下載媒體的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798729</id>
+        <link href="https://news.ycombinator.com/item?id=31798729"/>
+        <updated>2022-06-19T12:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A Tool to download a media by having it preadjusted]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何處理~30個Raspberry Pi 3B+？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kirso</name>
             <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於創造產品的書籍/媒體
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618512</id>
-        <link href="https://news.ycombinator.com/item?id=31618512"/>
-        <updated>2022-06-04T09:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books/Media about the creation of a product]]></summary>
-        <author>
-            <name>ForgotIdAgain</name>
-            <uri>https://news.ycombinator.com/user?id=ForgotIdAgain</uri>
         </author>
     </entry>
 </feed>
