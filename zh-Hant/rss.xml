@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 22:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你會給直接回復的內容加分嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31804303</link>
+            <guid>https://news.ycombinator.com/item?id=31804303</guid>
+            <pubDate>Sun, 19 Jun 2022 22:52:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you upvote direct replies?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有高級開發人員喜歡從靜態類型切換到動態類型？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31622751</guid>
             <pubDate>Sat, 04 Jun 2022 17:04:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a use for Twitter hashtags?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一個Modern Python by Katas網站？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31622745</link>
-            <guid>https://news.ycombinator.com/item?id=31622745</guid>
-            <pubDate>Sat, 04 Jun 2022 17:04:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a Modern Python by Katas site?]]></description>
         </item>
     </channel>
 </rss>
