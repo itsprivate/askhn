@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 14:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[没有审查的HN
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31799792</link>
+            <guid>https://news.ycombinator.com/item?id=31799792</guid>
+            <pubDate>Sun, 19 Jun 2022 14:37:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: HN Without the Censorship]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有任何不依赖JavaScript的网络图形库？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31619206</guid>
             <pubDate>Sat, 04 Jun 2022 11:41:27 GMT</pubDate>
             <description><![CDATA[Ask HN: Are you hanging out in the metaverse?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在任何地方，最便宜的（商业上可用的）虚拟机是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31619001</link>
-            <guid>https://news.ycombinator.com/item?id=31619001</guid>
-            <pubDate>Sat, 04 Jun 2022 11:05:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the cheapest (commercially available) virtual machine anywhere?]]></description>
         </item>
     </channel>
 </rss>
