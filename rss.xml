@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 22:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[BeReal显示谁在不通知用户的情况下进行截图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31816377</link>
+            <guid>https://news.ycombinator.com/item?id=31816377</guid>
+            <pubDate>Mon, 20 Jun 2022 21:39:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: BeReal Shows Who Takes Screenshots with No Notice to Users]]></description>
+        </item>
         <item>
             <title><![CDATA[开源银行应用程序的影响？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31635291</guid>
             <pubDate>Sun, 05 Jun 2022 22:11:02 GMT</pubDate>
             <description><![CDATA[Ask HN: Order preserving hashes for learned Indexes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从技术中设计产品的启发式方法？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31634967</link>
-            <guid>https://news.ycombinator.com/item?id=31634967</guid>
-            <pubDate>Sun, 05 Jun 2022 21:22:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Heuristics on Designing a Product from a Technology?]]></description>
         </item>
     </channel>
 </rss>
