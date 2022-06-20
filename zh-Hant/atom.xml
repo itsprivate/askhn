@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T04:08:14.619Z</updated>
+    <updated>2022-06-20T06:38:05.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臉譜網還算酷嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806826</id>
+        <link href="https://news.ycombinator.com/item?id=31806826"/>
+        <updated>2022-06-20T06:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Facebook Still Cool?]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase會持久嗎？[來華實習生]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>atlasunshrugged</name>
             <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[優化既定的功能/代碼，如QS。還有意義嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31624570</id>
-        <link href="https://news.ycombinator.com/item?id=31624570"/>
-        <updated>2022-06-04T20:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Optimizing established functions/code, like QS. There's still a point?]]></summary>
-        <author>
-            <name>MrYellowP</name>
-            <uri>https://news.ycombinator.com/user?id=MrYellowP</uri>
         </author>
     </entry>
 </feed>
