@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T21:29:32.587Z</updated>
+    <updated>2022-06-20T21:46:02.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[个人生活中的过度思考和作为工作的思考
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816280</id>
+        <link href="https://news.ycombinator.com/item?id=31816280"/>
+        <updated>2022-06-20T21:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Overthinking in personal life and Thinking as a job]]></summary>
+        <author>
+            <name>L0in</name>
+            <uri>https://news.ycombinator.com/user?id=L0in</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何阻止所有政治内容出现在网上？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>microflash</name>
             <uri>https://news.ycombinator.com/user?id=microflash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在线本科课程和研究生教育？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31633424</id>
-        <link href="https://news.ycombinator.com/item?id=31633424"/>
-        <updated>2022-06-05T18:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Online undergraduate programs and graduate education?]]></summary>
-        <author>
-            <name>the_only_law</name>
-            <uri>https://news.ycombinator.com/user?id=the_only_law</uri>
         </author>
     </entry>
 </feed>
