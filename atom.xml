@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T14:33:15.679Z</updated>
+    <updated>2022-06-20T14:47:37.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么《DALL-E 2》不给你每张图片被起诉的概率？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810813</id>
+        <link href="https://news.ycombinator.com/item?id=31810813"/>
+        <updated>2022-06-20T14:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't DALL·E 2 give you probability of being sued for each image?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何建立一个匿名的观众群？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810723</id>
+        <link href="https://news.ycombinator.com/item?id=31810723"/>
+        <updated>2022-06-20T14:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Build an Audience, Anonymously?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无服务器是否已经成熟到足以创建面向用户的API？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ethanwillis</name>
             <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是经济衰退期间的一个反脆弱的软件垂直领域？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31629108</id>
-        <link href="https://news.ycombinator.com/item?id=31629108"/>
-        <updated>2022-06-05T08:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is one anti-fragile software vertical during recession?]]></summary>
-        <author>
-            <name>kirso</name>
-            <uri>https://news.ycombinator.com/user?id=kirso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Kubernetes被称为云原生？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628435</id>
-        <link href="https://news.ycombinator.com/item?id=31628435"/>
-        <updated>2022-06-05T06:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Kubernetes is called Cloud-Native?]]></summary>
-        <author>
-            <name>dmpetrov</name>
-            <uri>https://news.ycombinator.com/user?id=dmpetrov</uri>
         </author>
     </entry>
 </feed>

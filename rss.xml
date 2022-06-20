@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 20 Jun 2022 14:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 14:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么《DALL-E 2》不给你每张图片被起诉的概率？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31810813</link>
+            <guid>https://news.ycombinator.com/item?id=31810813</guid>
+            <pubDate>Mon, 20 Jun 2022 14:33:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't DALL·E 2 give you probability of being sued for each image?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何建立一个匿名的观众群？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31810723</link>
+            <guid>https://news.ycombinator.com/item?id=31810723</guid>
+            <pubDate>Mon, 20 Jun 2022 14:26:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Build an Audience, Anonymously?]]></description>
+        </item>
         <item>
             <title><![CDATA[无服务器是否已经成熟到足以创建面向用户的API？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31629152</guid>
             <pubDate>Sun, 05 Jun 2022 08:48:51 GMT</pubDate>
             <description><![CDATA[Ask HN: Recommended OAuth scopes for GitHub personal access tokens]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是经济衰退期间的一个反脆弱的软件垂直领域？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31629108</link>
-            <guid>https://news.ycombinator.com/item?id=31629108</guid>
-            <pubDate>Sun, 05 Jun 2022 08:41:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is one anti-fragile software vertical during recession?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么Kubernetes被称为云原生？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628435</link>
-            <guid>https://news.ycombinator.com/item?id=31628435</guid>
-            <pubDate>Sun, 05 Jun 2022 06:03:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why Kubernetes is called Cloud-Native?]]></description>
         </item>
     </channel>
 </rss>
