@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T06:38:05.701Z</updated>
+    <updated>2022-06-20T08:43:49.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我的主要電子郵件服務器離線，我現在應該怎麼做？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807704</id>
+        <link href="https://news.ycombinator.com/item?id=31807704"/>
+        <updated>2022-06-20T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I do now if my primary email server is offline?]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉譜網還算酷嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>netfortius</name>
             <uri>https://news.ycombinator.com/user?id=netfortius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼動畫節目往往有那麼多的音樂節目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31624624</id>
-        <link href="https://news.ycombinator.com/item?id=31624624"/>
-        <updated>2022-06-04T20:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do animated shows tend to have so many musical numbers?]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
         </author>
     </entry>
 </feed>
