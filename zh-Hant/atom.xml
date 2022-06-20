@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T19:59:59.787Z</updated>
+    <updated>2022-06-20T20:36:47.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼要用id作為翻譯字符串？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31815151</id>
+        <link href="https://news.ycombinator.com/item?id=31815151"/>
+        <updated>2022-06-20T20:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you use ids as translation strings?]]></summary>
+        <author>
+            <name>withinboredom</name>
+            <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球互聯網或AWS停運？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NeutralForest</name>
             <uri>https://news.ycombinator.com/user?id=NeutralForest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼垂直視頻如此受歡迎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632917</id>
-        <link href="https://news.ycombinator.com/item?id=31632917"/>
-        <updated>2022-06-05T17:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is vertical video so popular?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
         </author>
     </entry>
 </feed>
