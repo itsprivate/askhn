@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T10:50:42.259Z</updated>
+    <updated>2022-06-20T11:44:18.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一般来说，数学和物理学之间有什么区别？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808998</id>
+        <link href="https://news.ycombinator.com/item?id=31808998"/>
+        <updated>2022-06-20T11:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the difference between Mathematics and Physics in general?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python的OOP与Lisp的CLOS相比有什么优势？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>joeamroo</name>
             <uri>https://news.ycombinator.com/user?id=joeamroo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不觉得注意力经济已经吞噬了信息时代吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31624879</id>
-        <link href="https://news.ycombinator.com/item?id=31624879"/>
-        <updated>2022-06-04T20:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Don't you feel attention economy has cannibalized the age of information]]></summary>
-        <author>
-            <name>wilmerags</name>
-            <uri>https://news.ycombinator.com/user?id=wilmerags</uri>
         </author>
     </entry>
 </feed>
