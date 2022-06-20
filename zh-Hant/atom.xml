@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T20:36:47.355Z</updated>
+    <updated>2022-06-20T21:29:32.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何阻止所有政治內容出現在網上？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31815880</id>
+        <link href="https://news.ycombinator.com/item?id=31815880"/>
+        <updated>2022-06-20T21:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to block all political content from showing up online?]]></summary>
+        <author>
+            <name>fluffystub</name>
+            <uri>https://news.ycombinator.com/user?id=fluffystub</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼要用id作為翻譯字符串？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>the_only_law</name>
             <uri>https://news.ycombinator.com/user?id=the_only_law</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在數據庫相關領域有哪些有趣的新發展？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31633015</id>
-        <link href="https://news.ycombinator.com/item?id=31633015"/>
-        <updated>2022-06-05T17:27:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are interesting new developments in databases related fields?]]></summary>
-        <author>
-            <name>NeutralForest</name>
-            <uri>https://news.ycombinator.com/user?id=NeutralForest</uri>
         </author>
     </entry>
 </feed>
