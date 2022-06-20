@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T21:59:39.635Z</updated>
+    <updated>2022-06-20T22:29:31.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源銀行應用程序的影響？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816680</id>
+        <link href="https://news.ycombinator.com/item?id=31816680"/>
+        <updated>2022-06-20T22:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Implications of open-source banking apps?]]></summary>
+        <author>
+            <name>p3nm8</name>
+            <uri>https://news.ycombinator.com/user?id=p3nm8</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是 "經驗年限 "的真正定義？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816622</id>
+        <link href="https://news.ycombinator.com/item?id=31816622"/>
+        <updated>2022-06-20T21:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the real definition of “Years of Experience”?]]></summary>
+        <author>
+            <name>bchase</name>
+            <uri>https://news.ycombinator.com/user?id=bchase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何建立一個觀眾群？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zufiusrufus</name>
             <uri>https://news.ycombinator.com/user?id=zufiusrufus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人成功地將LibreOffice用於他們的業務嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31634704</id>
-        <link href="https://news.ycombinator.com/item?id=31634704"/>
-        <updated>2022-06-05T20:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone successfully used LibreOffice for their business?]]></summary>
-        <author>
-            <name>gtf21</name>
-            <uri>https://news.ycombinator.com/user?id=gtf21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦像Azure架構指南這樣的指南？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31633656</id>
-        <link href="https://news.ycombinator.com/item?id=31633656"/>
-        <updated>2022-06-05T18:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendation for guides like Azure Architecture Guide?]]></summary>
-        <author>
-            <name>bytemut</name>
-            <uri>https://news.ycombinator.com/user?id=bytemut</uri>
         </author>
     </entry>
 </feed>
