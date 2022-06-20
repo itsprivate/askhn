@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T22:47:14.512Z</updated>
+    <updated>2022-06-20T23:45:40.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的评论网站和渠道由人类来完成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817628</id>
+        <link href="https://news.ycombinator.com/item?id=31817628"/>
+        <updated>2022-06-20T23:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good review sites and channels by humans]]></summary>
+        <author>
+            <name>GamerUncle</name>
+            <uri>https://news.ycombinator.com/user?id=GamerUncle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何监控你的年轻孩子的电脑使用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817575</id>
+        <link href="https://news.ycombinator.com/item?id=31817575"/>
+        <updated>2022-06-20T23:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you monitor your young kids' computer usage?]]></summary>
+        <author>
+            <name>KennyFromIT</name>
+            <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BeReal显示谁在不通知用户的情况下进行截图
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>geffgeff</name>
             <uri>https://news.ycombinator.com/user?id=geffgeff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以技术为重点的初创企业书籍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636233</id>
-        <link href="https://news.ycombinator.com/item?id=31636233"/>
-        <updated>2022-06-06T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Technically focused books on start ups]]></summary>
-        <author>
-            <name>mrhands556</name>
-            <uri>https://news.ycombinator.com/user?id=mrhands556</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为学习型索引保留顺序的哈希值
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31635291</id>
-        <link href="https://news.ycombinator.com/item?id=31635291"/>
-        <updated>2022-06-05T22:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Order preserving hashes for learned Indexes]]></summary>
-        <author>
-            <name>scrubs</name>
-            <uri>https://news.ycombinator.com/user?id=scrubs</uri>
         </author>
     </entry>
 </feed>
