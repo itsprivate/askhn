@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-19T23:44:20.608Z</updated>
+    <updated>2022-06-20T02:19:57.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何建立一個觀眾群？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31805086</id>
+        <link href="https://news.ycombinator.com/item?id=31805086"/>
+        <updated>2022-06-20T00:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you build an audience?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由職業者，你是否僱傭一個PM來管理你？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thatwasunusual</name>
             <uri>https://news.ycombinator.com/user?id=thatwasunusual</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你寫了一本書嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31623057</id>
-        <link href="https://news.ycombinator.com/item?id=31623057"/>
-        <updated>2022-06-04T17:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did You Write a Book?]]></summary>
-        <author>
-            <name>julienreszka</name>
-            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
         </author>
     </entry>
 </feed>
