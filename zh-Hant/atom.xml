@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-20T13:57:28.683Z</updated>
+    <updated>2022-06-20T14:33:15.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[無服務器是否已經成熟到足以創建面向用戶的API？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810532</id>
+        <link href="https://news.ycombinator.com/item?id=31810532"/>
+        <updated>2022-06-20T14:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has serverless matured enough for creating user facing APIs?]]></summary>
+        <author>
+            <name>ankush38u</name>
+            <uri>https://news.ycombinator.com/user?id=ankush38u</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與紐約市的黑客夥伴們聯繫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810488</id>
+        <link href="https://news.ycombinator.com/item?id=31810488"/>
+        <updated>2022-06-20T14:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Connecting with Fellow Hackers in NYC]]></summary>
+        <author>
+            <name>teekay</name>
+            <uri>https://news.ycombinator.com/user?id=teekay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從被刪除的iPhone中恢復圖像/視頻的最佳方法
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dmpetrov</name>
             <uri>https://news.ycombinator.com/user?id=dmpetrov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僱用一個具有領域專長的PM是否被認為是有害的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628108</id>
-        <link href="https://news.ycombinator.com/item?id=31628108"/>
-        <updated>2022-06-05T04:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is hiring a PM with domain expertise considered harmful?]]></summary>
-        <author>
-            <name>jehlakj</name>
-            <uri>https://news.ycombinator.com/user?id=jehlakj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何輕鬆地使專利無效
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31627501</id>
-        <link href="https://news.ycombinator.com/item?id=31627501"/>
-        <updated>2022-06-05T02:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Easily Invalidate Patent]]></summary>
-        <author>
-            <name>notlukesky</name>
-            <uri>https://news.ycombinator.com/user?id=notlukesky</uri>
         </author>
     </entry>
 </feed>
