@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T02:21:31.952Z</updated>
+    <updated>2022-06-21T04:27:45.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每周通讯，总结HN社区意见
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819834</id>
+        <link href="https://news.ycombinator.com/item?id=31819834"/>
+        <updated>2022-06-21T04:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Weekly newsletter summarising HN community views]]></summary>
+        <author>
+            <name>padheyam</name>
+            <uri>https://news.ycombinator.com/user?id=padheyam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会阅读登陆页面上的所有内容吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819823</id>
+        <link href="https://news.ycombinator.com/item?id=31819823"/>
+        <updated>2022-06-21T04:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you read everything on a landing page?]]></summary>
+        <author>
+            <name>nabi_nafio</name>
+            <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在大型技术工作中需要学习的技能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819542</id>
+        <link href="https://news.ycombinator.com/item?id=31819542"/>
+        <updated>2022-06-21T03:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Skills to learn at big tech job]]></summary>
+        <author>
+            <name>mannymanman</name>
+            <uri>https://news.ycombinator.com/user?id=mannymanman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何培养社交能力？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819193</id>
+        <link href="https://news.ycombinator.com/item?id=31819193"/>
+        <updated>2022-06-21T02:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you cultivate social skills?]]></summary>
+        <author>
+            <name>rassle</name>
+            <uri>https://news.ycombinator.com/user?id=rassle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果硬件问题的增加？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819117</id>
+        <link href="https://news.ycombinator.com/item?id=31819117"/>
+        <updated>2022-06-21T02:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Increasing of Apple Hardware Issues?]]></summary>
+        <author>
+            <name>roflyear</name>
+            <uri>https://news.ycombinator.com/user?id=roflyear</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个90天 高级工程师
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819066</id>
+        <link href="https://news.ycombinator.com/item?id=31819066"/>
+        <updated>2022-06-21T02:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: First 90 Days Senior Engineer]]></summary>
+        <author>
+            <name>StoicMonkey</name>
+            <uri>https://news.ycombinator.com/user?id=StoicMonkey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业应该有一个董事会吗？如果是，该给他们什么？
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>balex</name>
             <uri>https://news.ycombinator.com/user?id=balex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一个平台可以让我用来管理我的医疗记录？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639103</id>
-        <link href="https://news.ycombinator.com/item?id=31639103"/>
-        <updated>2022-06-06T11:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a platform I can use to manage my medical records?]]></summary>
-        <author>
-            <name>onemiketwelve</name>
-            <uri>https://news.ycombinator.com/user?id=onemiketwelve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历史上最有影响力的计算机科学家是谁？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637834</id>
-        <link href="https://news.ycombinator.com/item?id=31637834"/>
-        <updated>2022-06-06T06:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who are the most influential computer scientists in history?]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做数据库的威胁检测？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637768</id>
-        <link href="https://news.ycombinator.com/item?id=31637768"/>
-        <updated>2022-06-06T06:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you do threat detection for databases?]]></summary>
-        <author>
-            <name>JacKTrocinskI</name>
-            <uri>https://news.ycombinator.com/user?id=JacKTrocinskI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果所有男人都留胡子和长发，会阻止气候变化吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637496</id>
-        <link href="https://news.ycombinator.com/item?id=31637496"/>
-        <updated>2022-06-06T05:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If all men grew beards and long hair, will it stop climate change?]]></summary>
-        <author>
-            <name>tapanjk</name>
-            <uri>https://news.ycombinator.com/user?id=tapanjk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS被黑了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637356</id>
-        <link href="https://news.ycombinator.com/item?id=31637356"/>
-        <updated>2022-06-06T04:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has AWS Been Hacked?]]></summary>
-        <author>
-            <name>drzel</name>
-            <uri>https://news.ycombinator.com/user?id=drzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的职业生涯中，哪些数学书对你的启发最大？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637291</id>
-        <link href="https://news.ycombinator.com/item?id=31637291"/>
-        <updated>2022-06-06T04:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which mathematics books taught you the most in your career?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
