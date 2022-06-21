@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T08:06:27.772Z</updated>
+    <updated>2022-06-21T09:27:01.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[点击银行有前途吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31821719</id>
+        <link href="https://news.ycombinator.com/item?id=31821719"/>
+        <updated>2022-06-21T08:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Clickbank Promising?]]></summary>
+        <author>
+            <name>GodRaya</name>
+            <uri>https://news.ycombinator.com/user?id=GodRaya</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN是如何做到始终在线的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vipulb334</name>
             <uri>https://news.ycombinator.com/user?id=vipulb334</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你已经倦怠了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642123</id>
-        <link href="https://news.ycombinator.com/item?id=31642123"/>
-        <updated>2022-06-06T15:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have You Burned Out?]]></summary>
-        <author>
-            <name>dirtybirdnj</name>
-            <uri>https://news.ycombinator.com/user?id=dirtybirdnj</uri>
         </author>
     </entry>
 </feed>
