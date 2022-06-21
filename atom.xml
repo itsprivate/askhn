@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T14:01:14.189Z</updated>
+    <updated>2022-06-21T14:37:25.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊的SDE-2与SDE-3之间有什么区别？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824248</id>
+        <link href="https://news.ycombinator.com/item?id=31824248"/>
+        <updated>2022-06-21T14:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the difference between SDE-2 vs. SDE-3 at Amazon?]]></summary>
+        <author>
+            <name>LecroJS</name>
+            <uri>https://news.ycombinator.com/user?id=LecroJS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还有人在浏览HN时收到HTTP 403的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824110</id>
+        <link href="https://news.ycombinator.com/item?id=31824110"/>
+        <updated>2022-06-21T14:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else getting HTTP 403's when browsing HN?]]></summary>
+        <author>
+            <name>justaj</name>
+            <uri>https://news.ycombinator.com/user?id=justaj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何确定Open Core Legacy Patcher是否值得信赖？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>throwmea</name>
             <uri>https://news.ycombinator.com/user?id=throwmea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么埃隆-马斯克如此关注人口下降问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31644101</id>
-        <link href="https://news.ycombinator.com/item?id=31644101"/>
-        <updated>2022-06-06T18:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Elon Musk so concerned with population decline?]]></summary>
-        <author>
-            <name>pigtailgirl</name>
-            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何照顾你的心理健康？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31643948</id>
-        <link href="https://news.ycombinator.com/item?id=31643948"/>
-        <updated>2022-06-06T18:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you look after your mental health?]]></summary>
-        <author>
-            <name>_private</name>
-            <uri>https://news.ycombinator.com/user?id=_private</uri>
         </author>
     </entry>
 </feed>
