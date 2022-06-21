@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T15:00:58.265Z</updated>
+    <updated>2022-06-21T15:33:18.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare的替代产品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824735</id>
+        <link href="https://news.ycombinator.com/item?id=31824735"/>
+        <updated>2022-06-21T15:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to Cloudflare?]]></summary>
+        <author>
+            <name>mproud</name>
+            <uri>https://news.ycombinator.com/user?id=mproud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代Keybase的端到端加密的Git？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>michaelchisari</name>
             <uri>https://news.ycombinator.com/user?id=michaelchisari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪家芯片制造商将赢得通往1纳米的竞赛？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31646624</id>
-        <link href="https://news.ycombinator.com/item?id=31646624"/>
-        <updated>2022-06-06T21:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which chipmaker will win the race to 1nm?]]></summary>
-        <author>
-            <name>ffhhj</name>
-            <uri>https://news.ycombinator.com/user?id=ffhhj</uri>
         </author>
     </entry>
 </feed>
