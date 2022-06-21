@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T19:59:42.682Z</updated>
+    <updated>2022-06-21T20:48:45.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[承包商的适当权益？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31828894</id>
+        <link href="https://news.ycombinator.com/item?id=31828894"/>
+        <updated>2022-06-21T20:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Appropriate Equity for Contractor?]]></summary>
+        <author>
+            <name>scripta</name>
+            <uri>https://news.ycombinator.com/user?id=scripta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以Lisp编写的版本控制系统（任何Lisp的实现）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vollebregt</name>
             <uri>https://news.ycombinator.com/user?id=vollebregt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何桌面应用程序还没有转为订阅模式？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31650771</id>
-        <link href="https://news.ycombinator.com/item?id=31650771"/>
-        <updated>2022-06-07T07:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any desktop apps that haven't moved to a subscription model?]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
         </author>
     </entry>
 </feed>
