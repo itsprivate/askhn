@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T17:27:21.117Z</updated>
+    <updated>2022-06-21T17:59:19.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學事實比科學思維更重要嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31826944</id>
+        <link href="https://news.ycombinator.com/item?id=31826944"/>
+        <updated>2022-06-21T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is scientific facts more important than scientific thinking?]]></summary>
+        <author>
+            <name>3g4o53g4o5</name>
+            <uri>https://news.ycombinator.com/user?id=3g4o53g4o5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能刪除一個假的LinkedIn資料？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>civicsquid</name>
             <uri>https://news.ycombinator.com/user?id=civicsquid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否厭倦了JavaScript庫頻繁地發佈一個版本？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648445</id>
-        <link href="https://news.ycombinator.com/item?id=31648445"/>
-        <updated>2022-06-07T00:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you tired of JavaScript libs publishing a release so often?]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
