@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T18:38:26.952Z</updated>
+    <updated>2022-06-21T18:57:33.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在努力聘请一名UI/UX设计师，谁能帮帮我？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31827449</id>
+        <link href="https://news.ycombinator.com/item?id=31827449"/>
+        <updated>2022-06-21T18:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I struggle to hire a UI/UX designer, can anyone help?]]></summary>
+        <author>
+            <name>s1k3s</name>
+            <uri>https://news.ycombinator.com/user?id=s1k3s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些公司提供代孕援助计划？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不换工作就能从倦怠中恢复吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31649726</id>
-        <link href="https://news.ycombinator.com/item?id=31649726"/>
-        <updated>2022-06-07T03:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you recover from burnout without switching jobs?]]></summary>
-        <author>
-            <name>annoyingcyclist</name>
-            <uri>https://news.ycombinator.com/user?id=annoyingcyclist</uri>
         </author>
     </entry>
 </feed>
