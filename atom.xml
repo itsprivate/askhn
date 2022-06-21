@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T23:32:42.729Z</updated>
+    <updated>2022-06-21T23:48:26.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FDA的公众意见是否会产生影响？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31830408</id>
+        <link href="https://news.ycombinator.com/item?id=31830408"/>
+        <updated>2022-06-21T23:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does FDA public comment make a difference?]]></summary>
+        <author>
+            <name>hemloc_io</name>
+            <uri>https://news.ycombinator.com/user?id=hemloc_io</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slack的最佳开源替代品？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Legogris</name>
             <uri>https://news.ycombinator.com/user?id=Legogris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DVC、Git LFS 或 lakeFS？哪个是数据版本管理的最佳选择？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31650954</id>
-        <link href="https://news.ycombinator.com/item?id=31650954"/>
-        <updated>2022-06-07T07:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: DVC, Git LFS or lakeFS? Which is the best for data versioning?]]></summary>
-        <author>
-            <name>idonov</name>
-            <uri>https://news.ycombinator.com/user?id=idonov</uri>
         </author>
     </entry>
 </feed>
