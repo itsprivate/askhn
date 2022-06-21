@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T09:27:01.879Z</updated>
+    <updated>2022-06-21T11:42:51.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么公制中位数不如平均数受欢迎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822649</id>
+        <link href="https://news.ycombinator.com/item?id=31822649"/>
+        <updated>2022-06-21T11:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the metric Median less popular than Average?]]></summary>
+        <author>
+            <name>butterNaN</name>
+            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点击银行有前途吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lucasjanon</name>
             <uri>https://news.ycombinator.com/user?id=lucasjanon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程的面试资源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642353</id>
-        <link href="https://news.ycombinator.com/item?id=31642353"/>
-        <updated>2022-06-06T16:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Interview Resources for Software Engineering]]></summary>
-        <author>
-            <name>vipulb334</name>
-            <uri>https://news.ycombinator.com/user?id=vipulb334</uri>
         </author>
     </entry>
 </feed>
