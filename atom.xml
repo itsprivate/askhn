@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T11:42:51.960Z</updated>
+    <updated>2022-06-21T13:00:28.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你经常使用虚拟机做什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822932</id>
+        <link href="https://news.ycombinator.com/item?id=31822932"/>
+        <updated>2022-06-21T12:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use VMs for regularly?]]></summary>
+        <author>
+            <name>pvinis</name>
+            <uri>https://news.ycombinator.com/user?id=pvinis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么公制中位数不如平均数受欢迎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yalogin</name>
             <uri>https://news.ycombinator.com/user?id=yalogin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些是你最喜欢的开发者文档？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642439</id>
-        <link href="https://news.ycombinator.com/item?id=31642439"/>
-        <updated>2022-06-06T16:23:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which are your favorite developer docs?]]></summary>
-        <author>
-            <name>lucasjanon</name>
-            <uri>https://news.ycombinator.com/user?id=lucasjanon</uri>
         </author>
     </entry>
 </feed>
