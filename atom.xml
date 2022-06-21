@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T16:56:27.458Z</updated>
+    <updated>2022-06-21T17:27:21.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能删除一个假的LinkedIn资料？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31826449</id>
+        <link href="https://news.ycombinator.com/item?id=31826449"/>
+        <updated>2022-06-21T17:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I delete a fake LinkedIn profile?]]></summary>
+        <author>
+            <name>rschachte</name>
+            <uri>https://news.ycombinator.com/user?id=rschachte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[绿地项目用JDK 17还是.NET 6？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>linkdd</name>
             <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将闲置的电脑放在营业时间以外工作的利弊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648274</id>
-        <link href="https://news.ycombinator.com/item?id=31648274"/>
-        <updated>2022-06-07T00:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Pros and cons placing idle computers to work outside business hours?]]></summary>
-        <author>
-            <name>stevenjgarner</name>
-            <uri>https://news.ycombinator.com/user?id=stevenjgarner</uri>
         </author>
     </entry>
 </feed>
