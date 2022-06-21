@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T05:58:28.693Z</updated>
+    <updated>2022-06-21T08:06:27.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN是如何做到始终在线的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31821269</id>
+        <link href="https://news.ycombinator.com/item?id=31821269"/>
+        <updated>2022-06-21T07:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does HN manage to be always online?]]></summary>
+        <author>
+            <name>hacsky</name>
+            <uri>https://news.ycombinator.com/user?id=hacsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你怎么做才能收到对你产品的诚实反馈？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dirtybirdnj</name>
             <uri>https://news.ycombinator.com/user?id=dirtybirdnj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪一种科技产品你仍然无法理解它是如何建造的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31641153</id>
-        <link href="https://news.ycombinator.com/item?id=31641153"/>
-        <updated>2022-06-06T14:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is one tech product you still can’t comprehend how it’s built?]]></summary>
-        <author>
-            <name>devstein</name>
-            <uri>https://news.ycombinator.com/user?id=devstein</uri>
         </author>
     </entry>
 </feed>
