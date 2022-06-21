@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-21T21:48:25.685Z</updated>
+    <updated>2022-06-21T23:32:42.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slack的最佳开源替代品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31830251</id>
+        <link href="https://news.ycombinator.com/item?id=31830251"/>
+        <updated>2022-06-21T23:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best open-source alternative to Slack?]]></summary>
+        <author>
+            <name>nobodyCloak</name>
+            <uri>https://news.ycombinator.com/user?id=nobodyCloak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能固定我的睡眠时间？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>idonov</name>
             <uri>https://news.ycombinator.com/user?id=idonov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伪造的GitHub个人资料数据是一件事吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31650896</id>
-        <link href="https://news.ycombinator.com/item?id=31650896"/>
-        <updated>2022-06-07T07:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is fake GitHub profile data a thing?]]></summary>
-        <author>
-            <name>synu</name>
-            <uri>https://news.ycombinator.com/user?id=synu</uri>
         </author>
     </entry>
 </feed>
