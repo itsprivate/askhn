@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T08:39:44.723Z</updated>
+    <updated>2022-06-22T09:48:29.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你為什麼要為你的企業購買Atlassian產品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833773</id>
+        <link href="https://news.ycombinator.com/item?id=31833773"/>
+        <updated>2022-06-22T09:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did you buy Atlassian products for your business?]]></summary>
+        <author>
+            <name>nhgiang</name>
+            <uri>https://news.ycombinator.com/user?id=nhgiang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你目前的設置/基礎設施是什麼，以便在斷電的情況下進行連接？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰知道在哪裡可以找到Linux-libre二進制文件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654214</id>
-        <link href="https://news.ycombinator.com/item?id=31654214"/>
-        <updated>2022-06-07T13:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone know where one can DL Linux-libre binary?]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>
