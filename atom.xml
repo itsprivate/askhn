@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T07:28:31.407Z</updated>
+    <updated>2022-06-22T08:39:44.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你目前的设置/基础设施是什么，以便在断电的情况下进行连接？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833386</id>
+        <link href="https://news.ycombinator.com/item?id=31833386"/>
+        <updated>2022-06-22T08:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your current setup/infrastructure to connect in case of outage?]]></summary>
+        <author>
+            <name>nicofo</name>
+            <uri>https://news.ycombinator.com/user?id=nicofo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作的 "GitHub Copilot"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833366</id>
+        <link href="https://news.ycombinator.com/item?id=31833366"/>
+        <updated>2022-06-22T08:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A “GitHub Copilot” for Writing?]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么开放源码软件许可可以阻止GitHub Co-pilot？我一定要走专利路线吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833262</id>
+        <link href="https://news.ycombinator.com/item?id=31833262"/>
+        <updated>2022-06-22T08:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What OSS licence can stop GitHub Co-pilot? Do I have to go proprietary?]]></summary>
+        <author>
+            <name>LukeEF</name>
+            <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在初创企业中获得领导地位
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么 "有用 "的副业想法吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654089</id>
-        <link href="https://news.ycombinator.com/item?id=31654089"/>
-        <updated>2022-06-07T13:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any “useful” side project ideas?]]></summary>
-        <author>
-            <name>tonmoy</name>
-            <uri>https://news.ycombinator.com/user?id=tonmoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司要求进行计划外的面试阶段？我应该接受吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31653351</id>
-        <link href="https://news.ycombinator.com/item?id=31653351"/>
-        <updated>2022-06-07T12:42:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Company is asking for unplanned interview stage? Should I accept it?]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个有两个小孩的SWE，我应该搬到加州还是德国？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31653233</id>
-        <link href="https://news.ycombinator.com/item?id=31653233"/>
-        <updated>2022-06-07T12:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I move to California or Germany as a SWE with 2 small kids?]]></summary>
-        <author>
-            <name>de_or_ca</name>
-            <uri>https://news.ycombinator.com/user?id=de_or_ca</uri>
         </author>
     </entry>
 </feed>
