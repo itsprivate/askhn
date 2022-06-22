@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T16:48:42.331Z</updated>
+    <updated>2022-06-22T17:26:02.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創建一個離線局域網的簡單設置是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838663</id>
+        <link href="https://news.ycombinator.com/item?id=31838663"/>
+        <updated>2022-06-22T17:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a simple setup for creating an offline LAN?]]></summary>
+        <author>
+            <name>lancesells</name>
+            <uri>https://news.ycombinator.com/user?id=lancesells</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何有效地跟蹤大型（分佈式）數據庫的記錄數？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838476</id>
+        <link href="https://news.ycombinator.com/item?id=31838476"/>
+        <updated>2022-06-22T16:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I efficiently track record count for big (distributed) DBs?]]></summary>
+        <author>
+            <name>extra_rice</name>
+            <uri>https://news.ycombinator.com/user?id=extra_rice</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自然語言方面的能力與編程方面的能力相關？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838472</id>
+        <link href="https://news.ycombinator.com/item?id=31838472"/>
+        <updated>2022-06-22T16:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Competency in natural language correlates to competency in programming?]]></summary>
+        <author>
+            <name>RemoteIsHeaven</name>
+            <uri>https://news.ycombinator.com/user?id=RemoteIsHeaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可以通過REST/HTTP API管理的安卓鬧鐘應用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838433</id>
+        <link href="https://news.ycombinator.com/item?id=31838433"/>
+        <updated>2022-06-22T16:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Android alarm clock app that can be managed over a REST/HTTP API?]]></summary>
+        <author>
+            <name>RemoteIsHeaven</name>
+            <uri>https://news.ycombinator.com/user?id=RemoteIsHeaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該為一個銷售員/代言人聯合創始人支付多少股權？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>me_me_mu_mu</name>
             <uri>https://news.ycombinator.com/user?id=me_me_mu_mu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在哪本書/網站上學到了你所在領域的最多基礎知識？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31661097</id>
-        <link href="https://news.ycombinator.com/item?id=31661097"/>
-        <updated>2022-06-07T23:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which book/site you learned the most basics of your field?]]></summary>
-        <author>
-            <name>gautamsomani</name>
-            <uri>https://news.ycombinator.com/user?id=gautamsomani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何處理輕微的記憶障礙？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31660994</id>
-        <link href="https://news.ycombinator.com/item?id=31660994"/>
-        <updated>2022-06-07T22:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with slight memory impairment?]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型網站/應用程序的 "過時 "技能的最佳替代工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31660869</id>
-        <link href="https://news.ycombinator.com/item?id=31660869"/>
-        <updated>2022-06-07T22:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best alternative jobs for “outdated” skills with small websites/apps?]]></summary>
-        <author>
-            <name>spearingthehead</name>
-            <uri>https://news.ycombinator.com/user?id=spearingthehead</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初到灣區
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31660784</id>
-        <link href="https://news.ycombinator.com/item?id=31660784"/>
-        <updated>2022-06-07T22:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: New to Bay Area]]></summary>
-        <author>
-            <name>obaid</name>
-            <uri>https://news.ycombinator.com/user?id=obaid</uri>
         </author>
     </entry>
 </feed>
