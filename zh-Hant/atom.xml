@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T17:52:29.930Z</updated>
+    <updated>2022-06-22T19:25:21.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HOA的團體郵件列表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31840374</id>
+        <link href="https://news.ycombinator.com/item?id=31840374"/>
+        <updated>2022-06-22T19:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Group Mailing List for HOA?]]></summary>
+        <author>
+            <name>teeray</name>
+            <uri>https://news.ycombinator.com/user?id=teeray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[draw.io, excalidraw, lucidchart - 哪一個，為什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johnnyAghands</name>
             <uri>https://news.ycombinator.com/user?id=johnnyAghands</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從安全領域轉到軟件工程領域時需要利用的技能？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662277</id>
-        <link href="https://news.ycombinator.com/item?id=31662277"/>
-        <updated>2022-06-08T01:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Skills to leverage on when moving from security to software engr?]]></summary>
-        <author>
-            <name>dev_0</name>
-            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
         </author>
     </entry>
 </feed>
