@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T10:34:59.219Z</updated>
+    <updated>2022-06-22T11:26:52.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为工作相关事宜拨打个人电话？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31834539</id>
+        <link href="https://news.ycombinator.com/item?id=31834539"/>
+        <updated>2022-06-22T11:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Calling personal phone for work related matters?]]></summary>
+        <author>
+            <name>rakshithbellare</name>
+            <uri>https://news.ycombinator.com/user?id=rakshithbellare</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[破碎的网络是否正在耗费生命？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gobacktodev</name>
             <uri>https://news.ycombinator.com/user?id=gobacktodev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初学者Arduino套件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654876</id>
-        <link href="https://news.ycombinator.com/item?id=31654876"/>
-        <updated>2022-06-07T14:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Beginner Arduino Kits]]></summary>
-        <author>
-            <name>searchingalways</name>
-            <uri>https://news.ycombinator.com/user?id=searchingalways</uri>
         </author>
     </entry>
 </feed>
