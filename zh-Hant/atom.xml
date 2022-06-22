@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T19:46:34.031Z</updated>
+    <updated>2022-06-22T20:31:43.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼可以替代Ansible的嗎？我討厭DSL
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841421</id>
+        <link href="https://news.ycombinator.com/item?id=31841421"/>
+        <updated>2022-06-22T20:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any replacement to Ansible? I hate the DSL]]></summary>
+        <author>
+            <name>umen</name>
+            <uri>https://news.ycombinator.com/user?id=umen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有沒有人使用基於雲的FPGA進行非ML任務？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841287</id>
+        <link href="https://news.ycombinator.com/item?id=31841287"/>
+        <updated>2022-06-22T20:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using cloud based FPGA for non-ML tasks?]]></summary>
+        <author>
+            <name>tonmoy</name>
+            <uri>https://news.ycombinator.com/user?id=tonmoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有一個GitHub的電子學模擬嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841271</id>
+        <link href="https://news.ycombinator.com/item?id=31841271"/>
+        <updated>2022-06-22T20:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a GitHub analog for electronics?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓HN成癮？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841247</id>
+        <link href="https://news.ycombinator.com/item?id=31841247"/>
+        <updated>2022-06-22T20:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Makes HN Addictive?]]></summary>
+        <author>
+            <name>ramshorst</name>
+            <uri>https://news.ycombinator.com/user?id=ramshorst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數以萬億計的新美元和歐元已經被印製出來--它們在哪裡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841242</id>
+        <link href="https://news.ycombinator.com/item?id=31841242"/>
+        <updated>2022-06-22T20:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Trillions of new Dollars and Euros have been printed – where are they?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西部世界》講述了什麼？第四季於6月26日開始
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>MahajanVardhan</name>
             <uri>https://news.ycombinator.com/user?id=MahajanVardhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外部應用程序如何跟蹤WhatsApp的在線狀態/最後一次看到？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31663997</id>
-        <link href="https://news.ycombinator.com/item?id=31663997"/>
-        <updated>2022-06-08T06:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can an external app track WhatsApp online status/last seen?]]></summary>
-        <author>
-            <name>abskscdv</name>
-            <uri>https://news.ycombinator.com/user?id=abskscdv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌網絡之光的OSS替代品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31663400</id>
-        <link href="https://news.ycombinator.com/item?id=31663400"/>
-        <updated>2022-06-08T04:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: OSS Alternative to Google Web Light?]]></summary>
-        <author>
-            <name>alephnan</name>
-            <uri>https://news.ycombinator.com/user?id=alephnan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些頂級域名是安全和可靠的？(2022)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31663379</id>
-        <link href="https://news.ycombinator.com/item?id=31663379"/>
-        <updated>2022-06-08T04:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which TLDs are safe and reliable? (2022)]]></summary>
-        <author>
-            <name>daniel_iversen</name>
-            <uri>https://news.ycombinator.com/user?id=daniel_iversen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使你的數據分析報告自動化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662713</id>
-        <link href="https://news.ycombinator.com/item?id=31662713"/>
-        <updated>2022-06-08T03:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you automate your data analytics report?]]></summary>
-        <author>
-            <name>mohon</name>
-            <uri>https://news.ycombinator.com/user?id=mohon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何戒掉社交媒體？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662369</id>
-        <link href="https://news.ycombinator.com/item?id=31662369"/>
-        <updated>2022-06-08T01:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Quit Social Media?]]></summary>
-        <author>
-            <name>boredemployee</name>
-            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
         </author>
     </entry>
 </feed>
