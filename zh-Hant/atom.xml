@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T06:37:13.084Z</updated>
+    <updated>2022-06-22T06:56:37.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與一個人的SaaS有關的講座的播客提示？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832682</id>
+        <link href="https://news.ycombinator.com/item?id=31832682"/>
+        <updated>2022-06-22T06:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Podcast tips for talks related to one man SaaS?]]></summary>
+        <author>
+            <name>waspight</name>
+            <uri>https://news.ycombinator.com/user?id=waspight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你使用什麼服務來收集和分析你的API數據？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>keosariel</name>
             <uri>https://news.ycombinator.com/user?id=keosariel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 你會在公共領域（CC0）許可下分享照片嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31652181</id>
-        <link href="https://news.ycombinator.com/item?id=31652181"/>
-        <updated>2022-06-07T10:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: RFC Would you share photos under public domain (CC0) license?]]></summary>
-        <author>
-            <name>rockingclimber</name>
-            <uri>https://news.ycombinator.com/user?id=rockingclimber</uri>
         </author>
     </entry>
 </feed>
