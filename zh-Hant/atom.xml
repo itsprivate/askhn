@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T20:31:43.562Z</updated>
+    <updated>2022-06-22T21:01:26.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼書籍/指南可以建立一個市場創業公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841741</id>
+        <link href="https://news.ycombinator.com/item?id=31841741"/>
+        <updated>2022-06-22T20:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any books/guide to build a marketplace startup?]]></summary>
+        <author>
+            <name>shvilesh</name>
+            <uri>https://news.ycombinator.com/user?id=shvilesh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼可以替代Ansible的嗎？我討厭DSL
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Lior539</name>
             <uri>https://news.ycombinator.com/user?id=Lior539</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會不會去設計一個無法破解的大學入學考試？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31664494</id>
-        <link href="https://news.ycombinator.com/item?id=31664494"/>
-        <updated>2022-06-08T07:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you go about designing an unhackable college admissions test]]></summary>
-        <author>
-            <name>MahajanVardhan</name>
-            <uri>https://news.ycombinator.com/user?id=MahajanVardhan</uri>
         </author>
     </entry>
 </feed>
