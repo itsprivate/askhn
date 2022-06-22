@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T19:25:21.578Z</updated>
+    <updated>2022-06-22T19:46:33.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西部世界》讲述了什么？第四季于6月26日开始
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31840632</id>
+        <link href="https://news.ycombinator.com/item?id=31840632"/>
+        <updated>2022-06-22T19:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is Westworld about? Season 4 starts Jun 26th]]></summary>
+        <author>
+            <name>mwattsun</name>
+            <uri>https://news.ycombinator.com/user?id=mwattsun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOA的团体邮件列表？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>boredemployee</name>
             <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好，有人能邀请我去lobste.rs吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662368</id>
-        <link href="https://news.ycombinator.com/item?id=31662368"/>
-        <updated>2022-06-08T01:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hi, would someone be able to invite me to lobste.rs?]]></summary>
-        <author>
-            <name>johnnyAghands</name>
-            <uri>https://news.ycombinator.com/user?id=johnnyAghands</uri>
         </author>
     </entry>
 </feed>
