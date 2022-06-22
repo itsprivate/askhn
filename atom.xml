@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T10:02:36.984Z</updated>
+    <updated>2022-06-22T10:34:59.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[破碎的网络是否正在耗费生命？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833915</id>
+        <link href="https://news.ycombinator.com/item?id=31833915"/>
+        <updated>2022-06-22T10:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the Broken Web Costing Lives?]]></summary>
+        <author>
+            <name>nonrandomstring</name>
+            <uri>https://news.ycombinator.com/user?id=nonrandomstring</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个类似于React的框架，用于构建pannable/zoomable canvas应用程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>searchingalways</name>
             <uri>https://news.ycombinator.com/user?id=searchingalways</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐浏览器更新 - 太过激进？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654541</id>
-        <link href="https://news.ycombinator.com/item?id=31654541"/>
-        <updated>2022-06-07T14:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Firefox Updates – Too Aggressive?]]></summary>
-        <author>
-            <name>couchand</name>
-            <uri>https://news.ycombinator.com/user?id=couchand</uri>
         </author>
     </entry>
 </feed>
