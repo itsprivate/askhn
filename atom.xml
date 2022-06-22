@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-22T05:08:06.491Z</updated>
+    <updated>2022-06-22T06:37:13.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用什么服务来收集和分析你的API数据？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832569</id>
+        <link href="https://news.ycombinator.com/item?id=31832569"/>
+        <updated>2022-06-22T06:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What service do you use to collect and analyse your API data?]]></summary>
+        <author>
+            <name>pototo666</name>
+            <uri>https://news.ycombinator.com/user?id=pototo666</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook完了吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rockingclimber</name>
             <uri>https://news.ycombinator.com/user?id=rockingclimber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么可执行格式客观上是最好的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31652271</id>
-        <link href="https://news.ycombinator.com/item?id=31652271"/>
-        <updated>2022-06-07T10:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What executable format is objectively the best?]]></summary>
-        <author>
-            <name>thrwawy283</name>
-            <uri>https://news.ycombinator.com/user?id=thrwawy283</uri>
         </author>
     </entry>
 </feed>
