@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T22:59:48.461Z</updated>
+    <updated>2022-06-23T23:47:11.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[請幫我找到一篇關於何時使用網絡應用程序架構的文章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31856408</id>
+        <link href="https://news.ycombinator.com/item?id=31856408"/>
+        <updated>2022-06-23T23:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Please help me find an article about when to use web app architectures]]></summary>
+        <author>
+            <name>jonesnc</name>
+            <uri>https://news.ycombinator.com/user?id=jonesnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於在FAANG無所作為的話題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>max_</name>
             <uri>https://news.ycombinator.com/user?id=max_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在面試中以邏輯流暢和連貫的方式交談
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679251</id>
-        <link href="https://news.ycombinator.com/item?id=31679251"/>
-        <updated>2022-06-09T09:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to talk with logical flow and coherence at interviews]]></summary>
-        <author>
-            <name>pavanto</name>
-            <uri>https://news.ycombinator.com/user?id=pavanto</uri>
         </author>
     </entry>
 </feed>
