@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T21:28:07.109Z</updated>
+    <updated>2022-06-23T22:47:57.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们需要网络浏览器吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855976</id>
+        <link href="https://news.ycombinator.com/item?id=31855976"/>
+        <updated>2022-06-23T22:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do we need Web Browsers?]]></summary>
+        <author>
+            <name>dzonga</name>
+            <uri>https://news.ycombinator.com/user?id=dzonga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么关于获得CIA技能的书可以推荐吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保持对公共回购的个人修改的私密性？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679097</id>
-        <link href="https://news.ycombinator.com/item?id=31679097"/>
-        <updated>2022-06-09T09:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you keep personal modifications to a public repo private?]]></summary>
-        <author>
-            <name>ian_hn</name>
-            <uri>https://news.ycombinator.com/user?id=ian_hn</uri>
         </author>
     </entry>
 </feed>
