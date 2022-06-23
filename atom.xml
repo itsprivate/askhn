@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T11:27:13.839Z</updated>
+    <updated>2022-06-23T11:45:08.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么像样的工作，可以靠岸的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847593</id>
+        <link href="https://news.ycombinator.com/item?id=31847593"/>
+        <updated>2022-06-23T11:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any decent jobs that one can coast through?]]></summary>
+        <author>
+            <name>giantg2</name>
+            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCR或综合系统用于提取公司财务账目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847564</id>
+        <link href="https://news.ycombinator.com/item?id=31847564"/>
+        <updated>2022-06-23T11:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: OCR or integrated system for company financial accounts extraction]]></summary>
+        <author>
+            <name>sails</name>
+            <uri>https://news.ycombinator.com/user?id=sails</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对这项测试的评价是多少个小时？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>annowiki</name>
             <uri>https://news.ycombinator.com/user?id=annowiki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在BigCo的新工作。一切都有摩擦
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31669338</id>
-        <link href="https://news.ycombinator.com/item?id=31669338"/>
-        <updated>2022-06-08T15:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: New job at BigCo. Everything has friction]]></summary>
-        <author>
-            <name>edmcnulty101</name>
-            <uri>https://news.ycombinator.com/user?id=edmcnulty101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合创始人的支点，我有什么选择？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668788</id>
-        <link href="https://news.ycombinator.com/item?id=31668788"/>
-        <updated>2022-06-08T15:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Co-Founder pivoting, what are my options?]]></summary>
-        <author>
-            <name>weusedto</name>
-            <uri>https://news.ycombinator.com/user?id=weusedto</uri>
         </author>
     </entry>
 </feed>
