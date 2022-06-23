@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T22:47:57.518Z</updated>
+    <updated>2022-06-23T22:59:48.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于在FAANG无所作为的话题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31856086</id>
+        <link href="https://news.ycombinator.com/item?id=31856086"/>
+        <updated>2022-06-23T22:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thread about doing nothing at FAANG]]></summary>
+        <author>
+            <name>jimmywetnips</name>
+            <uri>https://news.ycombinator.com/user?id=jimmywetnips</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有谁在这里用Bazel做前端（Vue，TypeScript）的单体？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31856078</id>
+        <link href="https://news.ycombinator.com/item?id=31856078"/>
+        <updated>2022-06-23T22:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone Here Use Bazel for Front End (Vue, TypeScript) Monorepos?]]></summary>
+        <author>
+            <name>no_wizard</name>
+            <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们需要网络浏览器吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pavanto</name>
             <uri>https://news.ycombinator.com/user?id=pavanto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[值得多次阅读的书籍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679226</id>
-        <link href="https://news.ycombinator.com/item?id=31679226"/>
-        <updated>2022-06-09T09:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books worth reading multiple times?]]></summary>
-        <author>
-            <name>manceraio</name>
-            <uri>https://news.ycombinator.com/user?id=manceraio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么电影是你每隔几年就会坚持看一次的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679201</id>
-        <link href="https://news.ycombinator.com/item?id=31679201"/>
-        <updated>2022-06-09T09:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is a movie you keep watching again every couple of years?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
