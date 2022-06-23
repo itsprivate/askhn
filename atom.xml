@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T05:40:23.525Z</updated>
+    <updated>2022-06-23T05:58:35.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于个人理财知识和经济的可靠/可信的来源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845519</id>
+        <link href="https://news.ycombinator.com/item?id=31845519"/>
+        <updated>2022-06-23T05:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reliable/Reputable sources on personal financial literacy and economics]]></summary>
+        <author>
+            <name>Gary_TheSnail_</name>
+            <uri>https://news.ycombinator.com/user?id=Gary_TheSnail_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望什么职业在这里有更多的代表？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vikas19634</name>
             <uri>https://news.ycombinator.com/user?id=vikas19634</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么应用程序/网站不使用表情符号而不是图标？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666285</id>
-        <link href="https://news.ycombinator.com/item?id=31666285"/>
-        <updated>2022-06-08T12:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't apps / sites uses emojis instead of icons?]]></summary>
-        <author>
-            <name>alephnan</name>
-            <uri>https://news.ycombinator.com/user?id=alephnan</uri>
         </author>
     </entry>
 </feed>
