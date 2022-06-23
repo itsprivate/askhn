@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T14:04:34.938Z</updated>
+    <updated>2022-06-23T14:31:46.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows上的防病毒選項？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31849256</id>
+        <link href="https://news.ycombinator.com/item?id=31849256"/>
+        <updated>2022-06-23T14:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Options for Antivirus on Windows?]]></summary>
+        <author>
+            <name>rasikjain</name>
+            <uri>https://news.ycombinator.com/user?id=rasikjain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臨時郵寄服務看起來很可靠，可以延長到30天？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pojzon</name>
             <uri>https://news.ycombinator.com/user?id=pojzon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub拉動請求中的語言感知差異
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31670886</id>
-        <link href="https://news.ycombinator.com/item?id=31670886"/>
-        <updated>2022-06-08T17:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Language Aware Diffs on GitHub Pull Requests]]></summary>
-        <author>
-            <name>difflens</name>
-            <uri>https://news.ycombinator.com/user?id=difflens</uri>
         </author>
     </entry>
 </feed>
