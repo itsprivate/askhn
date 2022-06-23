@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T13:00:08.824Z</updated>
+    <updated>2022-06-23T13:53:18.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot可能被用作一种供应链攻击形式吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848624</id>
+        <link href="https://news.ycombinator.com/item?id=31848624"/>
+        <updated>2022-06-23T13:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could GitHub Copilot be used as a form of supply chain attack?]]></summary>
+        <author>
+            <name>Akronymus</name>
+            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大数据发生了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848594</id>
+        <link href="https://news.ycombinator.com/item?id=31848594"/>
+        <updated>2022-06-23T13:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Big Data?]]></summary>
+        <author>
+            <name>night-rider</name>
+            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你使用哪种密码管理器？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>SMAAART</name>
             <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub拉动请求中的语言感知差异
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31670775</id>
-        <link href="https://news.ycombinator.com/item?id=31670775"/>
-        <updated>2022-06-08T17:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Language Aware Diffs on GitHub Pull Requests]]></summary>
-        <author>
-            <name>difflens</name>
-            <uri>https://news.ycombinator.com/user?id=difflens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在市场分析中，你需要哪些数据？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31670548</id>
-        <link href="https://news.ycombinator.com/item?id=31670548"/>
-        <updated>2022-06-08T17:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What data do you need in a market analysis?]]></summary>
-        <author>
-            <name>sologubtoday</name>
-            <uri>https://news.ycombinator.com/user?id=sologubtoday</uri>
         </author>
     </entry>
 </feed>
