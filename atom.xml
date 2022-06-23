@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T05:58:35.240Z</updated>
+    <updated>2022-06-23T07:58:50.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在谷歌网站上，我可以选择一个页面的元图片吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31846230</id>
+        <link href="https://news.ycombinator.com/item?id=31846230"/>
+        <updated>2022-06-23T07:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: On Google Sites can I Select the meta image of a page?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以从EC2实例的出站HTTP请求中触发事件吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31846219</id>
+        <link href="https://news.ycombinator.com/item?id=31846219"/>
+        <updated>2022-06-23T07:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I trigger events off of outbound HTTP requests from an EC2 instance?]]></summary>
+        <author>
+            <name>lkrubner</name>
+            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于个人理财知识和经济的可靠/可信的来源
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>leach</name>
             <uri>https://news.ycombinator.com/user?id=leach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪里可以找到具有老式Mac应用程序美学的设计师？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666505</id>
-        <link href="https://news.ycombinator.com/item?id=31666505"/>
-        <updated>2022-06-08T12:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to find designers with old Mac apps aesthetics?]]></summary>
-        <author>
-            <name>ilrwbwrkhv</name>
-            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有Gmail API的超人气开源替代方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666288</id>
-        <link href="https://news.ycombinator.com/item?id=31666288"/>
-        <updated>2022-06-08T12:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Superhuman open source alternative with Gmail API?]]></summary>
-        <author>
-            <name>vikas19634</name>
-            <uri>https://news.ycombinator.com/user?id=vikas19634</uri>
         </author>
     </entry>
 </feed>
