@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T21:02:10.311Z</updated>
+    <updated>2022-06-23T21:28:07.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼關於獲得CIA技能的書可以推薦嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855305</id>
+        <link href="https://news.ycombinator.com/item?id=31855305"/>
+        <updated>2022-06-23T21:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any book that you can recommend about adquiring CIA skills?]]></summary>
+        <author>
+            <name>juanse</name>
+            <uri>https://news.ycombinator.com/user?id=juanse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何公司在硬件方面做著有趣的工作？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ian_hn</name>
             <uri>https://news.ycombinator.com/user?id=ian_hn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[身體如何確定要製造哪些新細胞？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679081</id>
-        <link href="https://news.ycombinator.com/item?id=31679081"/>
-        <updated>2022-06-09T09:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does the body determine which new cells to make?]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
