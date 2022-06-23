@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T05:08:17.271Z</updated>
+    <updated>2022-06-23T05:40:23.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望什麼職業在這裡有更多的代表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845377</id>
+        <link href="https://news.ycombinator.com/item?id=31845377"/>
+        <updated>2022-06-23T05:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What profession do you wish was more represented here?]]></summary>
+        <author>
+            <name>remarkEon</name>
+            <uri>https://news.ycombinator.com/user?id=remarkEon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在谷歌上報告一個垃圾郵件的網站？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alephnan</name>
             <uri>https://news.ycombinator.com/user?id=alephnan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果由蘋果公司創建，Jupyter筆記本會是什麼樣子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666134</id>
-        <link href="https://news.ycombinator.com/item?id=31666134"/>
-        <updated>2022-06-08T12:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would Jupyter Notebook look like if created by Apple?]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
         </author>
     </entry>
 </feed>
