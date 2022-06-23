@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T09:48:51.057Z</updated>
+    <updated>2022-06-23T11:27:13.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对这项测试的评价是多少个小时？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847355</id>
+        <link href="https://news.ycombinator.com/item?id=31847355"/>
+        <updated>2022-06-23T10:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Many hours would you rate this test]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[icloud.com怎么会这么差劲？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847289</id>
+        <link href="https://news.ycombinator.com/item?id=31847289"/>
+        <updated>2022-06-23T10:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How come icloud.com sucks so much?]]></summary>
+        <author>
+            <name>juniperplant</name>
+            <uri>https://news.ycombinator.com/user?id=juniperplant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于Degoogling的提示？ (2022年6月)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>weusedto</name>
             <uri>https://news.ycombinator.com/user?id=weusedto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS阅读器如何处理缺少pubDate的项目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668201</id>
-        <link href="https://news.ycombinator.com/item?id=31668201"/>
-        <updated>2022-06-08T14:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do RSS readers handle items missing pubDates?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么需要改变的？我已经厌倦了它
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668180</id>
-        <link href="https://news.ycombinator.com/item?id=31668180"/>
-        <updated>2022-06-08T14:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What has to change? I'm sick of it]]></summary>
-        <author>
-            <name>ethanwillis</name>
-            <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
         </author>
     </entry>
 </feed>
