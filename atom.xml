@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-23T18:59:37.810Z</updated>
+    <updated>2022-06-23T19:25:35.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比较法的工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31853692</id>
+        <link href="https://news.ycombinator.com/item?id=31853692"/>
+        <updated>2022-06-23T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tool for Comparative Method?]]></summary>
+        <author>
+            <name>permo-w</name>
+            <uri>https://news.ycombinator.com/user?id=permo-w</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在YouTube上收藏视频？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>deamanto</name>
             <uri>https://news.ycombinator.com/user?id=deamanto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么阻止我向PayPal提出 "NFT"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31676209</id>
-        <link href="https://news.ycombinator.com/item?id=31676209"/>
-        <updated>2022-06-09T00:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What stops me from making an “NFT” with PayPal?]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
