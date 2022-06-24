@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T22:46:17.163Z</updated>
+    <updated>2022-06-24T23:28:13.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些关于经济、金融或市场的好博客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31870722</id>
+        <link href="https://news.ycombinator.com/item?id=31870722"/>
+        <updated>2022-06-24T23:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good blogs on the economy, finance, or markets?]]></summary>
+        <author>
+            <name>DougMellon</name>
+            <uri>https://news.ycombinator.com/user?id=DougMellon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适用于纸张和网络的最佳免费/廉价日本明朝（衬线）字体
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LoveMortuus</name>
             <uri>https://news.ycombinator.com/user?id=LoveMortuus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与Twitter Decahose合作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691058</id>
-        <link href="https://news.ycombinator.com/item?id=31691058"/>
-        <updated>2022-06-10T07:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Working with Twitter Decahose]]></summary>
-        <author>
-            <name>srvmshr</name>
-            <uri>https://news.ycombinator.com/user?id=srvmshr</uri>
         </author>
     </entry>
 </feed>
