@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T16:47:48.552Z</updated>
+    <updated>2022-06-24T17:13:50.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助我幫助我的聾啞隊友
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31860765</id>
+        <link href="https://news.ycombinator.com/item?id=31860765"/>
+        <updated>2022-06-24T12:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Help me help my deaf teammate]]></summary>
+        <author>
+            <name>iwillmemberthis</name>
+            <uri>https://news.ycombinator.com/user?id=iwillmemberthis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以向HN詢問一些與軟件工程相關的研究想法嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>boredemployee</name>
             <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的投資建議來自哪裡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31685714</id>
-        <link href="https://news.ycombinator.com/item?id=31685714"/>
-        <updated>2022-06-09T19:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you get your investment advice from?]]></summary>
-        <author>
-            <name>anyhoneydew</name>
-            <uri>https://news.ycombinator.com/user?id=anyhoneydew</uri>
         </author>
     </entry>
 </feed>
