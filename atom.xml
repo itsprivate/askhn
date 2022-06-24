@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T17:43:28.883Z</updated>
+    <updated>2022-06-24T17:58:35.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[写得好的开源Swift Mac应用程序可以学习吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866561</id>
+        <link href="https://news.ycombinator.com/item?id=31866561"/>
+        <updated>2022-06-24T17:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Well-written open source Swift Mac apps to learn from?]]></summary>
+        <author>
+            <name>LeoPanthera</name>
+            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向AWS S3上传图片的最佳方式是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866385</id>
+        <link href="https://news.ycombinator.com/item?id=31866385"/>
+        <updated>2022-06-24T17:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best way to Upload Images to AWS S3?]]></summary>
+        <author>
+            <name>fuadnafiz98</name>
+            <uri>https://news.ycombinator.com/user?id=fuadnafiz98</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在每次下载后都会清理你的下载文件夹吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>TheAlchemist</name>
             <uri>https://news.ycombinator.com/user?id=TheAlchemist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬件资产管理和预订系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688117</id>
-        <link href="https://news.ycombinator.com/item?id=31688117"/>
-        <updated>2022-06-09T23:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hardware asset management and booking system]]></summary>
-        <author>
-            <name>thangalin</name>
-            <uri>https://news.ycombinator.com/user?id=thangalin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥森-斯科特-卡德是一名程序员吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686850</id>
-        <link href="https://news.ycombinator.com/item?id=31686850"/>
-        <updated>2022-06-09T21:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Was Orson Scott Card a Programmer?]]></summary>
-        <author>
-            <name>pkdpic</name>
-            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
         </author>
     </entry>
 </feed>
