@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T05:17:06.962Z</updated>
+    <updated>2022-06-24T07:28:10.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在代码审查建议中使用什么语气？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31858604</id>
+        <link href="https://news.ycombinator.com/item?id=31858604"/>
+        <updated>2022-06-24T07:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What tone to use in code review suggestions?]]></summary>
+        <author>
+            <name>zorr</name>
+            <uri>https://news.ycombinator.com/user?id=zorr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到并下载GitHub中的每个Markdown文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chrisshroba</name>
             <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Windows上批量安装软件或配置软件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681384</id>
-        <link href="https://news.ycombinator.com/item?id=31681384"/>
-        <updated>2022-06-09T14:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bulk install software or provisioning software on Windows]]></summary>
-        <author>
-            <name>hnrodey</name>
-            <uri>https://news.ycombinator.com/user?id=hnrodey</uri>
         </author>
     </entry>
 </feed>
