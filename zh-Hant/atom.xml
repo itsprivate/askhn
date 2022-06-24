@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T21:27:00.096Z</updated>
+    <updated>2022-06-24T21:48:30.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何為幻想的地圖開發GIS程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31869757</id>
+        <link href="https://news.ycombinator.com/item?id=31869757"/>
+        <updated>2022-06-24T21:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to develop GIS program for fantasy maps?]]></summary>
+        <author>
+            <name>Otternonsenz</name>
+            <uri>https://news.ycombinator.com/user?id=Otternonsenz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給第一次擔任工程經理的建議
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mr_o47</name>
             <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到目前為止，您是如何使用GitHub Copilot的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31689320</id>
-        <link href="https://news.ycombinator.com/item?id=31689320"/>
-        <updated>2022-06-10T02:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How have you used GitHub Copilot so far?]]></summary>
-        <author>
-            <name>raunak</name>
-            <uri>https://news.ycombinator.com/user?id=raunak</uri>
         </author>
     </entry>
 </feed>
