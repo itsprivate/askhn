@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T11:27:51.057Z</updated>
+    <updated>2022-06-24T12:57:25.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用RSS嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31860969</id>
+        <link href="https://news.ycombinator.com/item?id=31860969"/>
+        <updated>2022-06-24T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Use RSS?]]></summary>
+        <author>
+            <name>falafelite</name>
+            <uri>https://news.ycombinator.com/user?id=falafelite</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你用什麼來管理你團隊中的項目/功能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31860489</id>
+        <link href="https://news.ycombinator.com/item?id=31860489"/>
+        <updated>2022-06-24T12:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you using to manage in your team the projects/features?]]></summary>
+        <author>
+            <name>gls2ro</name>
+            <uri>https://news.ycombinator.com/user?id=gls2ro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你承認的無用的副業項目？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>flying_colours</name>
             <uri>https://news.ycombinator.com/user?id=flying_colours</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜歡快速文化嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31683175</id>
-        <link href="https://news.ycombinator.com/item?id=31683175"/>
-        <updated>2022-06-09T16:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you like fast culture?]]></summary>
-        <author>
-            <name>Roybot</name>
-            <uri>https://news.ycombinator.com/user?id=Roybot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們所談論的那些緩慢的網站都在哪裡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31682698</id>
-        <link href="https://news.ycombinator.com/item?id=31682698"/>
-        <updated>2022-06-09T15:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are all of the slow websites people are talking about?]]></summary>
-        <author>
-            <name>adroitboss</name>
-            <uri>https://news.ycombinator.com/user?id=adroitboss</uri>
         </author>
     </entry>
 </feed>
