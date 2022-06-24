@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T07:28:10.411Z</updated>
+    <updated>2022-06-24T08:37:15.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何提高你的技術寫作水平？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859040</id>
+        <link href="https://news.ycombinator.com/item?id=31859040"/>
+        <updated>2022-06-24T08:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to level up your technical writing?]]></summary>
+        <author>
+            <name>maxekman</name>
+            <uri>https://news.ycombinator.com/user?id=maxekman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從事網絡開發10年。我如何學習網絡安全/白帽黑客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859011</id>
+        <link href="https://news.ycombinator.com/item?id=31859011"/>
+        <updated>2022-06-24T08:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: 10 years in webdev. How do I learn cybersec/white hat hacking?]]></summary>
+        <author>
+            <name>joystuck</name>
+            <uri>https://news.ycombinator.com/user?id=joystuck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在代碼審查建議中使用什麼語氣？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>iExploder</name>
             <uri>https://news.ycombinator.com/user?id=iExploder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何選擇？亞馬遜與晚期創業公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681854</id>
-        <link href="https://news.ycombinator.com/item?id=31681854"/>
-        <updated>2022-06-09T14:47:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I choose? Amazon vs. Late Stage Startup]]></summary>
-        <author>
-            <name>sanman811</name>
-            <uri>https://news.ycombinator.com/user?id=sanman811</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼新的社交網絡讓你感到興奮嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681538</id>
-        <link href="https://news.ycombinator.com/item?id=31681538"/>
-        <updated>2022-06-09T14:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any new social networks you're excited about?]]></summary>
-        <author>
-            <name>chrisshroba</name>
-            <uri>https://news.ycombinator.com/user?id=chrisshroba</uri>
         </author>
     </entry>
 </feed>
