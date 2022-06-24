@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T02:29:18.043Z</updated>
+    <updated>2022-06-24T04:00:45.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能成為一個更好的高級社會工作者？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857374</id>
+        <link href="https://news.ycombinator.com/item?id=31857374"/>
+        <updated>2022-06-24T03:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I become a better Senior SWE?]]></summary>
+        <author>
+            <name>quantumdot</name>
+            <uri>https://news.ycombinator.com/user?id=quantumdot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[找到一份從事Chromium的工作有多難？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857212</id>
+        <link href="https://news.ycombinator.com/item?id=31857212"/>
+        <updated>2022-06-24T02:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How hard is it to get a job working on Chromium]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年的編程書籍/教程訂閱推薦
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>MrsPeaches</name>
             <uri>https://news.ycombinator.com/user?id=MrsPeaches</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的大學輟學故事/路線圖是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681208</id>
-        <link href="https://news.ycombinator.com/item?id=31681208"/>
-        <updated>2022-06-09T13:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your college dropout story / roadmap?]]></summary>
-        <author>
-            <name>iply</name>
-            <uri>https://news.ycombinator.com/user?id=iply</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共Slack/Discord的開發者工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681195</id>
-        <link href="https://news.ycombinator.com/item?id=31681195"/>
-        <updated>2022-06-09T13:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: public Slack/Discord for developer tooling?]]></summary>
-        <author>
-            <name>rvcdbn</name>
-            <uri>https://news.ycombinator.com/user?id=rvcdbn</uri>
         </author>
     </entry>
 </feed>
