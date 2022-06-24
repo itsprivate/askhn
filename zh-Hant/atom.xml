@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T17:13:50.617Z</updated>
+    <updated>2022-06-24T17:43:28.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在每次下載後都會清理你的下載文件夾嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866183</id>
+        <link href="https://news.ycombinator.com/item?id=31866183"/>
+        <updated>2022-06-24T17:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you clean out your downloads folder after each download?]]></summary>
+        <author>
+            <name>ekglimmer</name>
+            <uri>https://news.ycombinator.com/user?id=ekglimmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助我幫助我的聾啞隊友
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pkdpic</name>
             <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的團隊中有一個人話太多了。該怎麼做？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686218</id>
-        <link href="https://news.ycombinator.com/item?id=31686218"/>
-        <updated>2022-06-09T20:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PO of my team talks too much. What to do?]]></summary>
-        <author>
-            <name>boredemployee</name>
-            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
         </author>
     </entry>
 </feed>
