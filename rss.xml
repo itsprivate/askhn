@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 24 Jun 2022 10:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[像1Password和Bitwarden这样的E2E服务如何提供密码重设？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31859820</link>
+            <guid>https://news.ycombinator.com/item?id=31859820</guid>
+            <pubDate>Fri, 24 Jun 2022 10:27:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can E2E services like 1Password and Bitwarden offer password resets?]]></description>
+        </item>
         <item>
             <title><![CDATA[创办科技咨询企业最困难的是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31682477</guid>
             <pubDate>Thu, 09 Jun 2022 15:30:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Alternatives to Dropbox?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[没有锁定的人工智能平台
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31682379</link>
-            <guid>https://news.ycombinator.com/item?id=31682379</guid>
-            <pubDate>Thu, 09 Jun 2022 15:23:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: AI Platforms Without Lock-In]]></description>
         </item>
     </channel>
 </rss>
