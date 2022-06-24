@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T14:47:54.159Z</updated>
+    <updated>2022-06-24T15:38:45.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在欧洲，如何为SWE的技术面试做准备？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31863374</id>
+        <link href="https://news.ycombinator.com/item?id=31863374"/>
+        <updated>2022-06-24T15:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you prepare for technical interviews in Europe for SWEs?]]></summary>
+        <author>
+            <name>thinkingofthing</name>
+            <uri>https://news.ycombinator.com/user?id=thinkingofthing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[编程面试官是否使用第一个问题来解除候选人的武装？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>acadapter</name>
             <uri>https://news.ycombinator.com/user?id=acadapter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何留心CS的下一个热门领域？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31684821</id>
-        <link href="https://news.ycombinator.com/item?id=31684821"/>
-        <updated>2022-06-09T18:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to keep a lookout for the next hot field in CS?]]></summary>
-        <author>
-            <name>overclk64</name>
-            <uri>https://news.ycombinator.com/user?id=overclk64</uri>
         </author>
     </entry>
 </feed>
