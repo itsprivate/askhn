@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-25T14:59:54.365Z</updated>
+    <updated>2022-06-25T16:38:50.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN会让人上瘾？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31876572</id>
+        <link href="https://news.ycombinator.com/item?id=31876572"/>
+        <updated>2022-06-25T16:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is HN mega addictive?]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[棋盘游戏 "Gatlopp "是否存在？如果有，我在哪里可以买到？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tsouth</name>
             <uri>https://news.ycombinator.com/user?id=tsouth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[需要关于与VC和股权共同创办创业公司的建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698060</id>
-        <link href="https://news.ycombinator.com/item?id=31698060"/>
-        <updated>2022-06-10T18:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Need advice about co-founding a startup with a VC and equity]]></summary>
-        <author>
-            <name>torynoter2832</name>
-            <uri>https://news.ycombinator.com/user?id=torynoter2832</uri>
         </author>
     </entry>
 </feed>
