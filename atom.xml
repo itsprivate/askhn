@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-25T06:31:54.936Z</updated>
+    <updated>2022-06-25T07:43:01.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你所建造的最激动人心的东西是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873249</id>
+        <link href="https://news.ycombinator.com/item?id=31873249"/>
+        <updated>2022-06-25T07:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the most exciting thing you've built?]]></summary>
+        <author>
+            <name>ent101</name>
+            <uri>https://news.ycombinator.com/user?id=ent101</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁成功地使用Anki/Spaced-repetition？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>spacebanana7</name>
             <uri>https://news.ycombinator.com/user?id=spacebanana7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码管理器在被破坏的设备上的安全性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692088</id>
-        <link href="https://news.ycombinator.com/item?id=31692088"/>
-        <updated>2022-06-10T10:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Safeties of Password Managers on Compromised Devices]]></summary>
-        <author>
-            <name>janniks</name>
-            <uri>https://news.ycombinator.com/user?id=janniks</uri>
         </author>
     </entry>
 </feed>
