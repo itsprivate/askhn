@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-25T16:38:50.559Z</updated>
+    <updated>2022-06-25T17:06:54.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用Cloudflare Workers / Deno Deploy做什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31876686</id>
+        <link href="https://news.ycombinator.com/item?id=31876686"/>
+        <updated>2022-06-25T16:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: For what you use Cloudflare Workers / Deno Deploy?]]></summary>
+        <author>
+            <name>QuiiBz</name>
+            <uri>https://news.ycombinator.com/user?id=QuiiBz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于一个初创企业来说，一个糟糕的意甲联赛会带来什么后果？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31876677</id>
+        <link href="https://news.ycombinator.com/item?id=31876677"/>
+        <updated>2022-06-25T16:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: For a startup, what are the consequences of a bad serie A ?]]></summary>
+        <author>
+            <name>tarod</name>
+            <uri>https://news.ycombinator.com/user?id=tarod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么HN会让人上瘾？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>xigency</name>
             <uri>https://news.ycombinator.com/user?id=xigency</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在2022年推广RSS订阅？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698496</id>
-        <link href="https://news.ycombinator.com/item?id=31698496"/>
-        <updated>2022-06-10T19:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to promote RSS subscriptions in 2022?]]></summary>
-        <author>
-            <name>oliwarner</name>
-            <uri>https://news.ycombinator.com/user?id=oliwarner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府数据科学家应该使用哪些工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698289</id>
-        <link href="https://news.ycombinator.com/item?id=31698289"/>
-        <updated>2022-06-10T19:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools should government data scientists be using?]]></summary>
-        <author>
-            <name>tsouth</name>
-            <uri>https://news.ycombinator.com/user?id=tsouth</uri>
         </author>
     </entry>
 </feed>
