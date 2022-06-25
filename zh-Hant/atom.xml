@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-25T09:45:37.052Z</updated>
+    <updated>2022-06-25T09:58:26.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋求密碼學認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873896</id>
+        <link href="https://news.ycombinator.com/item?id=31873896"/>
+        <updated>2022-06-25T09:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Seeking Cryptography Certification]]></summary>
+        <author>
+            <name>mfbx9da4</name>
+            <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於那些經歷過的人來說，上一次的.com崩潰情況如何？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MrGrinst</name>
             <uri>https://news.ycombinator.com/user?id=MrGrinst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle仍然是你日常生活的一部分嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31694766</id>
-        <link href="https://news.ycombinator.com/item?id=31694766"/>
-        <updated>2022-06-10T14:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Wordle still part of your daily routine?]]></summary>
-        <author>
-            <name>maxwellito</name>
-            <uri>https://news.ycombinator.com/user?id=maxwellito</uri>
         </author>
     </entry>
 </feed>

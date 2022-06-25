@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 25 Jun 2022 09:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 09:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尋求密碼學認證
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31873896</link>
+            <guid>https://news.ycombinator.com/item?id=31873896</guid>
+            <pubDate>Sat, 25 Jun 2022 09:54:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Seeking Cryptography Certification]]></description>
+        </item>
         <item>
             <title><![CDATA[對於那些經歷過的人來說，上一次的.com崩潰情況如何？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31695340</guid>
             <pubDate>Fri, 10 Jun 2022 15:15:43 GMT</pubDate>
             <description><![CDATA[Ask HN: SwiftUI Layout Concepts in React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wordle仍然是你日常生活的一部分嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31694766</link>
-            <guid>https://news.ycombinator.com/item?id=31694766</guid>
-            <pubDate>Fri, 10 Jun 2022 14:33:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Wordle still part of your daily routine?]]></description>
         </item>
     </channel>
 </rss>
