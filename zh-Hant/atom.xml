@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-24T23:28:13.385Z</updated>
+    <updated>2022-06-25T02:33:41.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[僱用實習生的經濟學原理是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31871715</id>
+        <link href="https://news.ycombinator.com/item?id=31871715"/>
+        <updated>2022-06-25T01:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the economics of hiring interns?]]></summary>
+        <author>
+            <name>spencerchubb</name>
+            <uri>https://news.ycombinator.com/user?id=spencerchubb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些關於經濟、金融或市場的好博客？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於網站的加密貨幣礦工能否取代所有互聯網廣告？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691480</id>
-        <link href="https://news.ycombinator.com/item?id=31691480"/>
-        <updated>2022-06-10T08:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could website based crypto miners replace all internet ads?]]></summary>
-        <author>
-            <name>LoveMortuus</name>
-            <uri>https://news.ycombinator.com/user?id=LoveMortuus</uri>
         </author>
     </entry>
 </feed>
