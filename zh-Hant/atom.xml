@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-25T17:49:54.235Z</updated>
+    <updated>2022-06-25T18:21:20.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什麼來寫日記
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31877333</id>
+        <link href="https://news.ycombinator.com/item?id=31877333"/>
+        <updated>2022-06-25T18:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use for journaling]]></summary>
+        <author>
+            <name>beefhotdawg</name>
+            <uri>https://news.ycombinator.com/user?id=beefhotdawg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在CS領域有什麼真正的創新可以歸功於比特幣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31877239</id>
+        <link href="https://news.ycombinator.com/item?id=31877239"/>
+        <updated>2022-06-25T17:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What real innovation in CS can be attributed to Bitcoin?]]></summary>
+        <author>
+            <name>emadehsan</name>
+            <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你建議人們從哪種ML方言開始？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31877175</id>
+        <link href="https://news.ycombinator.com/item?id=31877175"/>
+        <updated>2022-06-25T17:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What ML dialect do you recommend for someone to start with?]]></summary>
+        <author>
+            <name>cartesius13</name>
+            <uri>https://news.ycombinator.com/user?id=cartesius13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何為新手進行安全審計？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>johtso</name>
             <uri>https://news.ycombinator.com/user?id=johtso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何獲得一個長的電話號碼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699225</id>
-        <link href="https://news.ycombinator.com/item?id=31699225"/>
-        <updated>2022-06-10T20:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get a long phone number?]]></summary>
-        <author>
-            <name>ironmagma</name>
-            <uri>https://news.ycombinator.com/user?id=ironmagma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們又需要美聯儲或其他中央銀行？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699202</id>
-        <link href="https://news.ycombinator.com/item?id=31699202"/>
-        <updated>2022-06-10T20:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why again do we need a Federal Reserve or other central banks?]]></summary>
-        <author>
-            <name>fasteddie31003</name>
-            <uri>https://news.ycombinator.com/user?id=fasteddie31003</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們使用Sublime Text而不是VSCode，為什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698872</id>
-        <link href="https://news.ycombinator.com/item?id=31698872"/>
-        <updated>2022-06-10T20:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: People using Sublime Text instead of VSCode, why?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
