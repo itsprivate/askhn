@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-26T14:44:29.127Z</updated>
+    <updated>2022-06-26T15:50:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們需要研究氧化鎂除臭劑如何影響皮膚的細菌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31884842</id>
+        <link href="https://news.ycombinator.com/item?id=31884842"/>
+        <updated>2022-06-26T15:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: We need studies on how Magnesium Oxyde deodorant impact skin's bacteria]]></summary>
+        <author>
+            <name>kahon65</name>
+            <uri>https://news.ycombinator.com/user?id=kahon65</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何收到關於我在HN上的帖子的通知？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mesadb</name>
             <uri>https://news.ycombinator.com/user?id=mesadb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些書籍或網站對學習網絡知識有好處？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31705854</id>
-        <link href="https://news.ycombinator.com/item?id=31705854"/>
-        <updated>2022-06-11T16:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What books or websites are good for learning about networks?]]></summary>
-        <author>
-            <name>Brystephor</name>
-            <uri>https://news.ycombinator.com/user?id=Brystephor</uri>
         </author>
     </entry>
 </feed>
