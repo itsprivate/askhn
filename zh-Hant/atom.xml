@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-26T13:17:21.503Z</updated>
+    <updated>2022-06-26T13:58:10.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何防範未來的取消和社會信用體系？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883944</id>
+        <link href="https://news.ycombinator.com/item?id=31883944"/>
+        <updated>2022-06-26T13:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to protect against future cancellation and social credit systems?]]></summary>
+        <author>
+            <name>throwcancelling</name>
+            <uri>https://news.ycombinator.com/user?id=throwcancelling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育和培養神經分裂症兒童的最佳國家
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>georgeam</name>
             <uri>https://news.ycombinator.com/user?id=georgeam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼你喜歡在代碼示例中使用非包裝行？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31705768</id>
-        <link href="https://news.ycombinator.com/item?id=31705768"/>
-        <updated>2022-06-11T16:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you prefer non-wrapping lines in code examples?]]></summary>
-        <author>
-            <name>0des</name>
-            <uri>https://news.ycombinator.com/user?id=0des</uri>
         </author>
     </entry>
 </feed>
