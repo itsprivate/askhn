@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-26T13:58:10.407Z</updated>
+    <updated>2022-06-26T14:44:29.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何收到關於我在HN上的帖子的通知？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31884341</id>
+        <link href="https://news.ycombinator.com/item?id=31884341"/>
+        <updated>2022-06-26T14:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I get notifications about my post on HN?]]></summary>
+        <author>
+            <name>KhoiUna</name>
+            <uri>https://news.ycombinator.com/user?id=KhoiUna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何防範未來的取消和社會信用體系？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Brystephor</name>
             <uri>https://news.ycombinator.com/user?id=Brystephor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶有 "匹配範圍 "的Rgex Python庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31705850</id>
-        <link href="https://news.ycombinator.com/item?id=31705850"/>
-        <updated>2022-06-11T16:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Python library for regex with “extent-of-match”]]></summary>
-        <author>
-            <name>georgeam</name>
-            <uri>https://news.ycombinator.com/user?id=georgeam</uri>
         </author>
     </entry>
 </feed>
