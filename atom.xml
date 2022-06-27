@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-27T19:30:01.745Z</updated>
+    <updated>2022-06-27T19:48:47.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在评估一个开源项目时，你在寻找什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31899703</id>
+        <link href="https://news.ycombinator.com/item?id=31899703"/>
+        <updated>2022-06-27T19:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you looking for when evaluating an open source project?]]></summary>
+        <author>
+            <name>fragile_frogs</name>
+            <uri>https://news.ycombinator.com/user?id=fragile_frogs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emojis是有效的CSS选择器吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dontbenebby</name>
             <uri>https://news.ycombinator.com/user?id=dontbenebby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何检查你的软件功能是否已被授予专利？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31723691</id>
-        <link href="https://news.ycombinator.com/item?id=31723691"/>
-        <updated>2022-06-13T11:01:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to check if your software feature might already be patented?]]></summary>
-        <author>
-            <name>jb1991</name>
-            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
         </author>
     </entry>
 </feed>
