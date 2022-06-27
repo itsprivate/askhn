@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-27T22:00:53.412Z</updated>
+    <updated>2022-06-27T22:28:54.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何成功的科技类非营利组织？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901654</id>
+        <link href="https://news.ycombinator.com/item?id=31901654"/>
+        <updated>2022-06-27T22:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any successful Tech non-profits?]]></summary>
+        <author>
+            <name>samemail88</name>
+            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么计算机生成的音乐没有《达利》2那样令人印象深刻？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901499</id>
+        <link href="https://news.ycombinator.com/item?id=31901499"/>
+        <updated>2022-06-27T22:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is computer generated music not as impressive as DALL·E 2?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Firefox不支持.onion链接？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>matt321</name>
             <uri>https://news.ycombinator.com/user?id=matt321</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁知道苹果M1芯片是否支持iGPU穿透？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727964</id>
-        <link href="https://news.ycombinator.com/item?id=31727964"/>
-        <updated>2022-06-13T16:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anybody know if Apple M1 chip support iGPU passthrough?]]></summary>
-        <author>
-            <name>clintonwoo</name>
-            <uri>https://news.ycombinator.com/user?id=clintonwoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正规的CS教育重要吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727795</id>
-        <link href="https://news.ycombinator.com/item?id=31727795"/>
-        <updated>2022-06-13T16:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does a formal education in CS matter?]]></summary>
-        <author>
-            <name>jnac</name>
-            <uri>https://news.ycombinator.com/user?id=jnac</uri>
         </author>
     </entry>
 </feed>
