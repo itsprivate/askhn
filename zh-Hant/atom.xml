@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-27T21:48:31.324Z</updated>
+    <updated>2022-06-27T22:00:53.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Firefox不支持.onion鏈接？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901370</id>
+        <link href="https://news.ycombinator.com/item?id=31901370"/>
+        <updated>2022-06-27T21:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't Firefox support .onion links?]]></summary>
+        <author>
+            <name>thruuavay</name>
+            <uri>https://news.ycombinator.com/user?id=thruuavay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有符合.dev精神的其他頂級域名？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901340</id>
+        <link href="https://news.ycombinator.com/item?id=31901340"/>
+        <updated>2022-06-27T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there alternative TLDs in the spirit of .dev?]]></summary>
+        <author>
+            <name>NiloCK</name>
+            <uri>https://news.ycombinator.com/user?id=NiloCK</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何創建一個像Remix一樣的網頁？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jnac</name>
             <uri>https://news.ycombinator.com/user?id=jnac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是第一次看到Youtube廣告嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727133</id>
-        <link href="https://news.ycombinator.com/item?id=31727133"/>
-        <updated>2022-06-13T15:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you seeing Youtube ads for the 1st time?]]></summary>
-        <author>
-            <name>IG_Semmelweiss</name>
-            <uri>https://news.ycombinator.com/user?id=IG_Semmelweiss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我沒有購買技術支持，供應商是否應該提供替換的安裝人員？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727054</id>
-        <link href="https://news.ycombinator.com/item?id=31727054"/>
-        <updated>2022-06-13T15:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should vendor offer replacement installer if I did not buy suport?]]></summary>
-        <author>
-            <name>textman</name>
-            <uri>https://news.ycombinator.com/user?id=textman</uri>
         </author>
     </entry>
 </feed>

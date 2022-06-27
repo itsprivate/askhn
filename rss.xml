@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 27 Jun 2022 21:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Firefox不支持.onion链接？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901370</link>
+            <guid>https://news.ycombinator.com/item?id=31901370</guid>
+            <pubDate>Mon, 27 Jun 2022 21:55:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why doesn't Firefox support .onion links?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否有符合.dev精神的其他顶级域名？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901340</link>
+            <guid>https://news.ycombinator.com/item?id=31901340</guid>
+            <pubDate>Mon, 27 Jun 2022 21:52:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are there alternative TLDs in the spirit of .dev?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何创建一个像Remix一样的网页？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31727795</guid>
             <pubDate>Mon, 13 Jun 2022 16:30:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Does a formal education in CS matter?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是第一次看到Youtube广告吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31727133</link>
-            <guid>https://news.ycombinator.com/item?id=31727133</guid>
-            <pubDate>Mon, 13 Jun 2022 15:43:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are you seeing Youtube ads for the 1st time?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我没有购买技术支持，供应商是否应该提供替换的安装人员？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31727054</link>
-            <guid>https://news.ycombinator.com/item?id=31727054</guid>
-            <pubDate>Mon, 13 Jun 2022 15:37:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should vendor offer replacement installer if I did not buy suport?]]></description>
         </item>
     </channel>
 </rss>
