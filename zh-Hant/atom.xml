@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-27T19:48:47.969Z</updated>
+    <updated>2022-06-27T19:59:19.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼資源可以建立一個偉大的前端應用程序架構？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31899857</id>
+        <link href="https://news.ycombinator.com/item?id=31899857"/>
+        <updated>2022-06-27T19:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any resources for building a great Front end App Architecture?]]></summary>
+        <author>
+            <name>mandeepj</name>
+            <uri>https://news.ycombinator.com/user?id=mandeepj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在評估一個開源項目時，你在尋找什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0x008</name>
             <uri>https://news.ycombinator.com/user?id=0x008</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的LaTeX模板有哪些，用於圖片量大的演示？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31723826</id>
-        <link href="https://news.ycombinator.com/item?id=31723826"/>
-        <updated>2022-06-13T11:17:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your favorite LaTeX templates for image heavy presentations?]]></summary>
-        <author>
-            <name>dontbenebby</name>
-            <uri>https://news.ycombinator.com/user?id=dontbenebby</uri>
         </author>
     </entry>
 </feed>
