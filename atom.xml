@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-27T18:46:04.090Z</updated>
+    <updated>2022-06-27T19:06:03.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在工作中喜欢写作吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898728</id>
+        <link href="https://news.ycombinator.com/item?id=31898728"/>
+        <updated>2022-06-27T18:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you enjoy writing at your job?]]></summary>
+        <author>
+            <name>bombardier6789</name>
+            <uri>https://news.ycombinator.com/user?id=bombardier6789</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酷炫的通用顶级域名？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>therusskiy</name>
             <uri>https://news.ycombinator.com/user?id=therusskiy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT的热潮结束了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31722605</id>
-        <link href="https://news.ycombinator.com/item?id=31722605"/>
-        <updated>2022-06-13T08:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the NFT Craze Over?]]></summary>
-        <author>
-            <name>d--b</name>
-            <uri>https://news.ycombinator.com/user?id=d--b</uri>
         </author>
     </entry>
 </feed>
