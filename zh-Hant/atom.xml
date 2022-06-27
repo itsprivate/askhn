@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-26T23:28:26.471Z</updated>
+    <updated>2022-06-27T02:25:12.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼電子郵件驗證從來不讓我拒絕驗證？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31889921</id>
+        <link href="https://news.ycombinator.com/item?id=31889921"/>
+        <updated>2022-06-27T02:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't email verifications ever let me DENY the verification?]]></summary>
+        <author>
+            <name>NikolaNovak</name>
+            <uri>https://news.ycombinator.com/user?id=NikolaNovak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果量子計算實現了，有什麼可能性？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31889625</id>
+        <link href="https://news.ycombinator.com/item?id=31889625"/>
+        <updated>2022-06-27T01:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the possibilities if quantum computing delivers?]]></summary>
+        <author>
+            <name>bobosha</name>
+            <uri>https://news.ycombinator.com/user?id=bobosha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能阻止這個Facebook的跟蹤者呢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31889277</id>
+        <link href="https://news.ycombinator.com/item?id=31889277"/>
+        <updated>2022-06-27T00:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I stop this Facebook stalker?]]></summary>
+        <author>
+            <name>cyberlurker</name>
+            <uri>https://news.ycombinator.com/user?id=cyberlurker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是好的家譜/家族史/移民搜索引擎？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你經常閱讀哪些個人博客或網站？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711705</id>
-        <link href="https://news.ycombinator.com/item?id=31711705"/>
-        <updated>2022-06-12T05:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which personal blogs or websites do you read regularly?]]></summary>
-        <author>
-            <name>newsoul</name>
-            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Chrome手機不提供將標籤保存到谷歌文檔中的功能？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711543</id>
-        <link href="https://news.ycombinator.com/item?id=31711543"/>
-        <updated>2022-06-12T04:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why doesn't Chrome mobile offer to save your tabs to a Google Doc?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Git克隆的默認值是所有的提交，而不是最後的提交呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711056</id>
-        <link href="https://news.ycombinator.com/item?id=31711056"/>
-        <updated>2022-06-12T03:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How come Git clone defaults to be all commits instead the last]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>
