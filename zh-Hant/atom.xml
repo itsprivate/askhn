@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T19:26:10.533Z</updated>
+    <updated>2022-06-28T19:45:47.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的CI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31911923</id>
+        <link href="https://news.ycombinator.com/item?id=31911923"/>
+        <updated>2022-06-28T19:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: CI in 2022]]></summary>
+        <author>
+            <name>parentheses</name>
+            <uri>https://news.ycombinator.com/user?id=parentheses</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搬遷前要向潛在的同事詢問的問題？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Otternonsenz</name>
             <uri>https://news.ycombinator.com/user?id=Otternonsenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkscape的安卓替代方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740801</id>
-        <link href="https://news.ycombinator.com/item?id=31740801"/>
-        <updated>2022-06-14T15:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Android Alternative to Inkscape?]]></summary>
-        <author>
-            <name>aspaviento</name>
-            <uri>https://news.ycombinator.com/user?id=aspaviento</uri>
         </author>
     </entry>
 </feed>
