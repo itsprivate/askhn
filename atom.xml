@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T18:02:03.424Z</updated>
+    <updated>2022-06-28T19:07:11.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么可以替代谷歌新闻的可行方案吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31911319</id>
+        <link href="https://news.ycombinator.com/item?id=31911319"/>
+        <updated>2022-06-28T18:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any viable alternatives to Google News?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否在一个梦想的混合办公室工作？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>GRBurst</name>
             <uri>https://news.ycombinator.com/user?id=GRBurst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果要求你重新学习你的专业领域，你会怎么做？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31739819</id>
-        <link href="https://news.ycombinator.com/item?id=31739819"/>
-        <updated>2022-06-14T14:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would you do if you were asked to relearn your field of expertise?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
