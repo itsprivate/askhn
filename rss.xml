@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 28 Jun 2022 10:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是最好的教科书阅读器？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31905986</link>
+            <guid>https://news.ycombinator.com/item?id=31905986</guid>
+            <pubDate>Tue, 28 Jun 2022 10:12:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the best ereader for textbooks?]]></description>
+        </item>
         <item>
             <title><![CDATA[你有机会在量子计算机上工作吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31735906</guid>
             <pubDate>Tue, 14 Jun 2022 07:41:49 GMT</pubDate>
             <description><![CDATA[Ask HN: What's the most advanced/realistic TTS tool on the market?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Kubernetes之后，下一个基础设施技术是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31735591</link>
-            <guid>https://news.ycombinator.com/item?id=31735591</guid>
-            <pubDate>Tue, 14 Jun 2022 06:57:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the next infrastructure technologey after Kubernetes?]]></description>
         </item>
     </channel>
 </rss>
