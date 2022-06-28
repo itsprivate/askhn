@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T19:07:11.070Z</updated>
+    <updated>2022-06-28T19:26:10.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搬遷前要向潛在的同事詢問的問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31911765</id>
+        <link href="https://news.ycombinator.com/item?id=31911765"/>
+        <updated>2022-06-28T19:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Questions to ask from potential colleagues before relocation?]]></summary>
+        <author>
+            <name>2bor-2n</name>
+            <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何開始為Kubernetes開發一個應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31911707</id>
+        <link href="https://news.ycombinator.com/item?id=31911707"/>
+        <updated>2022-06-28T19:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you go about starting to develop an application for Kubernetes?]]></summary>
+        <author>
+            <name>raghule</name>
+            <uri>https://news.ycombinator.com/user?id=raghule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼可以替代谷歌新聞的可行方案嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aspaviento</name>
             <uri>https://news.ycombinator.com/user?id=aspaviento</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何找到工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740715</id>
-        <link href="https://news.ycombinator.com/item?id=31740715"/>
-        <updated>2022-06-14T15:15:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you find tools?]]></summary>
-        <author>
-            <name>vaporup</name>
-            <uri>https://news.ycombinator.com/user?id=vaporup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會報告錯誤嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740373</id>
-        <link href="https://news.ycombinator.com/item?id=31740373"/>
-        <updated>2022-06-14T14:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Report Bugs?]]></summary>
-        <author>
-            <name>GRBurst</name>
-            <uri>https://news.ycombinator.com/user?id=GRBurst</uri>
         </author>
     </entry>
 </feed>
