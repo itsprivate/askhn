@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T15:33:22.167Z</updated>
+    <updated>2022-06-28T15:53:36.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于超越错误33？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31909169</id>
+        <link href="https://news.ycombinator.com/item?id=31909169"/>
+        <updated>2022-06-28T15:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: On Beyond Error 33?]]></summary>
+        <author>
+            <name>abrax3141</name>
+            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KeyBase被Zoom收购后，你用什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31909106</id>
+        <link href="https://news.ycombinator.com/item?id=31909106"/>
+        <updated>2022-06-28T15:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: After KeyBase buyout by Zoom what do you use?]]></summary>
+        <author>
+            <name>giancarlostoro</name>
+            <uri>https://news.ycombinator.com/user?id=giancarlostoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何赚取少量的钱来维持自己作为一个开发者的生活？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>annagrigoryan2</name>
             <uri>https://news.ycombinator.com/user?id=annagrigoryan2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何处理互联网和信息成瘾的问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31738667</id>
-        <link href="https://news.ycombinator.com/item?id=31738667"/>
-        <updated>2022-06-14T12:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you deal with Internet and information addiction?]]></summary>
-        <author>
-            <name>annyeonghada</name>
-            <uri>https://news.ycombinator.com/user?id=annyeonghada</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初学者如何绕过Ubuntu 18 GRUB中的root passsw/passphrase？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31738304</id>
-        <link href="https://news.ycombinator.com/item?id=31738304"/>
-        <updated>2022-06-14T12:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to bypass root passsw/passphrase in Ubuntu 18 GRUB for beginners?]]></summary>
-        <author>
-            <name>amts</name>
-            <uri>https://news.ycombinator.com/user?id=amts</uri>
         </author>
     </entry>
 </feed>
