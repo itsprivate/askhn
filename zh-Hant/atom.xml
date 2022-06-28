@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T14:34:20.846Z</updated>
+    <updated>2022-06-28T15:01:33.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[就業市場情況如何？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908435</id>
+        <link href="https://news.ycombinator.com/item?id=31908435"/>
+        <updated>2022-06-28T14:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Is the Job Market?]]></summary>
+        <author>
+            <name>upupandup</name>
+            <uri>https://news.ycombinator.com/user?id=upupandup</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有不部署機器學習模型的好理由？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tsg</name>
             <uri>https://news.ycombinator.com/user?id=tsg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們想要一個LinkedIn的替代品嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31736853</id>
-        <link href="https://news.ycombinator.com/item?id=31736853"/>
-        <updated>2022-06-14T10:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do people want a LinkedIn alternative?]]></summary>
-        <author>
-            <name>dodoso</name>
-            <uri>https://news.ycombinator.com/user?id=dodoso</uri>
         </author>
     </entry>
 </feed>
