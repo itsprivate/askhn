@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 28 Jun 2022 19:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 20:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是否對你的應用程序進行負載測試？如果是的話，如何進行？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31912525</link>
+            <guid>https://news.ycombinator.com/item?id=31912525</guid>
+            <pubDate>Tue, 28 Jun 2022 20:21:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you load test your applications? If so, how?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在哪裡閱讀校對？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31912332</link>
+            <guid>https://news.ycombinator.com/item?id=31912332</guid>
+            <pubDate>Tue, 28 Jun 2022 20:03:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to Read Proofs?]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年的CI
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31741495</guid>
             <pubDate>Tue, 14 Jun 2022 16:09:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Things to consider when open sourcing a SaaS product]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何管理群發短信？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31741292</link>
-            <guid>https://news.ycombinator.com/item?id=31741292</guid>
-            <pubDate>Tue, 14 Jun 2022 15:56:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to Manage Group Texts?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沒有ICANN的定製域名？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31740819</link>
-            <guid>https://news.ycombinator.com/item?id=31740819</guid>
-            <pubDate>Tue, 14 Jun 2022 15:23:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Custom Domains Without ICANN?]]></description>
         </item>
     </channel>
 </rss>
