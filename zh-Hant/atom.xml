@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T16:51:48.209Z</updated>
+    <updated>2022-06-28T17:17:41.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋求關於SaaS的可參考性/客戶日誌的指導意見
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910084</id>
+        <link href="https://news.ycombinator.com/item?id=31910084"/>
+        <updated>2022-06-28T16:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Seeking pointers on reference-ability/customer-logos for SaaS]]></summary>
+        <author>
+            <name>sramam</name>
+            <uri>https://news.ycombinator.com/user?id=sramam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遊戲開發的經濟學書籍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danielEM</name>
             <uri>https://news.ycombinator.com/user?id=danielEM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是不是對量子力學有誤解？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31739200</id>
-        <link href="https://news.ycombinator.com/item?id=31739200"/>
-        <updated>2022-06-14T13:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I misunderstanding quantum mechanics?]]></summary>
-        <author>
-            <name>dojitza1</name>
-            <uri>https://news.ycombinator.com/user?id=dojitza1</uri>
         </author>
     </entry>
 </feed>
