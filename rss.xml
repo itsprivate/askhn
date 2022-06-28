@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁对新提交的材料进行投票？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31913023</link>
+            <guid>https://news.ycombinator.com/item?id=31913023</guid>
+            <pubDate>Tue, 28 Jun 2022 21:08:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who Votes on New Submissions?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否对你的应用程序进行负载测试？如果是的话，如何进行？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31741881</guid>
             <pubDate>Tue, 14 Jun 2022 16:32:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Any Sales Engineers out here?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开放采购SaaS产品时需要考虑的事项
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31741495</link>
-            <guid>https://news.ycombinator.com/item?id=31741495</guid>
-            <pubDate>Tue, 14 Jun 2022 16:09:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Things to consider when open sourcing a SaaS product]]></description>
         </item>
     </channel>
 </rss>

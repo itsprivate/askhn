@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T20:35:45.945Z</updated>
+    <updated>2022-06-28T21:26:25.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁对新提交的材料进行投票？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913023</id>
+        <link href="https://news.ycombinator.com/item?id=31913023"/>
+        <updated>2022-06-28T21:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Votes on New Submissions?]]></summary>
+        <author>
+            <name>abranti</name>
+            <uri>https://news.ycombinator.com/user?id=abranti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否对你的应用程序进行负载测试？如果是的话，如何进行？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jklein11</name>
             <uri>https://news.ycombinator.com/user?id=jklein11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放采购SaaS产品时需要考虑的事项
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741495</id>
-        <link href="https://news.ycombinator.com/item?id=31741495"/>
-        <updated>2022-06-14T16:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Things to consider when open sourcing a SaaS product]]></summary>
-        <author>
-            <name>longrod</name>
-            <uri>https://news.ycombinator.com/user?id=longrod</uri>
         </author>
     </entry>
 </feed>
