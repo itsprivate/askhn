@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T21:26:25.932Z</updated>
+    <updated>2022-06-28T21:58:32.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DDG [term] 沒有結果；如果[term]周圍有引號，則顯示結果。為什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913520</id>
+        <link href="https://news.ycombinator.com/item?id=31913520"/>
+        <updated>2022-06-28T21:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: DDG [term] no results; shows result if [term] surrounded by quotes. Why?]]></summary>
+        <author>
+            <name>Tom_Bombadil_</name>
+            <uri>https://news.ycombinator.com/user?id=Tom_Bombadil_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為父母，你面臨的最大問題是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913454</id>
+        <link href="https://news.ycombinator.com/item?id=31913454"/>
+        <updated>2022-06-28T21:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the biggest problem you face as a parent?]]></summary>
+        <author>
+            <name>actfrench</name>
+            <uri>https://news.ycombinator.com/user?id=actfrench</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰對新提交的材料進行投票？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>febin</name>
             <uri>https://news.ycombinator.com/user?id=febin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該支付學生貸款嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742132</id>
-        <link href="https://news.ycombinator.com/item?id=31742132"/>
-        <updated>2022-06-14T16:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I pay student loans?]]></summary>
-        <author>
-            <name>spencerchubb</name>
-            <uri>https://news.ycombinator.com/user?id=spencerchubb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有銷售工程師在這裡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741881</id>
-        <link href="https://news.ycombinator.com/item?id=31741881"/>
-        <updated>2022-06-14T16:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Sales Engineers out here?]]></summary>
-        <author>
-            <name>jklein11</name>
-            <uri>https://news.ycombinator.com/user?id=jklein11</uri>
         </author>
     </entry>
 </feed>
