@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-28T09:30:07.781Z</updated>
+    <updated>2022-06-28T10:01:40.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有機會在量子計算機上工作嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905934</id>
+        <link href="https://news.ycombinator.com/item?id=31905934"/>
+        <updated>2022-06-28T09:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did you have a chance to work on quantum computer?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習MySQL/MariaDB內部的好資源？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>eranchetz</name>
             <uri>https://news.ycombinator.com/user?id=eranchetz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼時候是成立公司的正確時機？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735304</id>
-        <link href="https://news.ycombinator.com/item?id=31735304"/>
-        <updated>2022-06-14T06:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When’s the Right Time to Incorporate?]]></summary>
-        <author>
-            <name>iamnnk</name>
-            <uri>https://news.ycombinator.com/user?id=iamnnk</uri>
         </author>
     </entry>
 </feed>
