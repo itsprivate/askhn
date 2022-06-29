@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 14:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[算法的功能性与强制性的实现
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31920038</link>
+            <guid>https://news.ycombinator.com/item?id=31920038</guid>
+            <pubDate>Wed, 29 Jun 2022 13:47:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Functional vs. Imperative Implementation of Algorithms]]></description>
+        </item>
         <item>
             <title><![CDATA[你用什么来建立auth？一个库，一个供应商，还是你自己写的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31745463</guid>
             <pubDate>Tue, 14 Jun 2022 20:17:19 GMT</pubDate>
             <description><![CDATA[Ask HN: Simple video editor for instructional videos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪些汇编器的抽象比C更好？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31745357</link>
-            <guid>https://news.ycombinator.com/item?id=31745357</guid>
-            <pubDate>Tue, 14 Jun 2022 20:07:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: What assembler abstractions are better than C?]]></description>
         </item>
     </channel>
 </rss>
