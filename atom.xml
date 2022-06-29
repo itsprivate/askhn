@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T17:57:49.463Z</updated>
+    <updated>2022-06-29T18:44:35.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使链接默认在隐蔽状态下打开？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31923938</id>
+        <link href="https://news.ycombinator.com/item?id=31923938"/>
+        <updated>2022-06-29T18:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I make links open in Incognito by default?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁抛弃了他们的手机，你的替代品是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31923920</id>
+        <link href="https://news.ycombinator.com/item?id=31923920"/>
+        <updated>2022-06-29T18:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who has ditched their phone and what is your replacement?]]></summary>
+        <author>
+            <name>assemblylang</name>
+            <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的论坛都到哪里去了？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rambojazz</name>
             <uri>https://news.ycombinator.com/user?id=rambojazz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么来阅读Twitter？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31749280</id>
-        <link href="https://news.ycombinator.com/item?id=31749280"/>
-        <updated>2022-06-15T04:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use to read Twitter?]]></summary>
-        <author>
-            <name>triyambakam</name>
-            <uri>https://news.ycombinator.com/user?id=triyambakam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java/Kotlin ORM/Schema 迁移管理器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31749040</id>
-        <link href="https://news.ycombinator.com/item?id=31749040"/>
-        <updated>2022-06-15T04:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Java/Kotlin ORM/Schema Migration Manager?]]></summary>
-        <author>
-            <name>leoh</name>
-            <uri>https://news.ycombinator.com/user?id=leoh</uri>
         </author>
     </entry>
 </feed>
