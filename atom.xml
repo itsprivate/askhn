@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T13:04:00.805Z</updated>
+    <updated>2022-06-29T13:55:19.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什么来建立auth？一个库，一个供应商，还是你自己写的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31919548</id>
+        <link href="https://news.ycombinator.com/item?id=31919548"/>
+        <updated>2022-06-29T13:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use to build auth? A library, a provider, writing your own?]]></summary>
+        <author>
+            <name>lumenwrites</name>
+            <uri>https://news.ycombinator.com/user?id=lumenwrites</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伟大的视觉或其他的PL和他们的类别/子C的分解？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sebastianconcpt</name>
             <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习leetcode的库和阵列方法的资源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745120</id>
-        <link href="https://news.ycombinator.com/item?id=31745120"/>
-        <updated>2022-06-14T19:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Resources to learn libraries and array methods for leetcode?]]></summary>
-        <author>
-            <name>3a2d29</name>
-            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
         </author>
     </entry>
 </feed>

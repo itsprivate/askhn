@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你用什麼來建立auth？一個庫，一個供應商，還是你自己寫的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31919548</link>
+            <guid>https://news.ycombinator.com/item?id=31919548</guid>
+            <pubDate>Wed, 29 Jun 2022 13:04:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you use to build auth? A library, a provider, writing your own?]]></description>
+        </item>
         <item>
             <title><![CDATA[偉大的視覺或其他的PL和他們的類別/子C的分解？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31745357</guid>
             <pubDate>Tue, 14 Jun 2022 20:07:53 GMT</pubDate>
             <description><![CDATA[Ask HN: What assembler abstractions are better than C?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[學習leetcode的庫和陣列方法的資源？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31745120</link>
-            <guid>https://news.ycombinator.com/item?id=31745120</guid>
-            <pubDate>Tue, 14 Jun 2022 19:52:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Resources to learn libraries and array methods for leetcode?]]></description>
         </item>
     </channel>
 </rss>
