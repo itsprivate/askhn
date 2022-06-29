@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T16:18:59.935Z</updated>
+    <updated>2022-06-29T17:09:49.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何避免迷失在实验的教训中？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31922198</id>
+        <link href="https://news.ycombinator.com/item?id=31922198"/>
+        <updated>2022-06-29T16:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you avoid getting lost in the lessons learned from experiments?]]></summary>
+        <author>
+            <name>floppydisc</name>
+            <uri>https://news.ycombinator.com/user?id=floppydisc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Vercel的问题？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31922179</id>
+        <link href="https://news.ycombinator.com/item?id=31922179"/>
+        <updated>2022-06-29T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Issues with Vercel?]]></summary>
+        <author>
+            <name>halotrope</name>
+            <uri>https://news.ycombinator.com/user?id=halotrope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Twitter在我所有的推文上都有内容警告？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>metadat</name>
             <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会随机扫描二维码吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31748024</id>
-        <link href="https://news.ycombinator.com/item?id=31748024"/>
-        <updated>2022-06-15T01:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you scan random QR codes?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五天内赚钱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31747837</id>
-        <link href="https://news.ycombinator.com/item?id=31747837"/>
-        <updated>2022-06-15T00:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Money in Five Days?]]></summary>
-        <author>
-            <name>maininformer</name>
-            <uri>https://news.ycombinator.com/user?id=maininformer</uri>
         </author>
     </entry>
 </feed>
