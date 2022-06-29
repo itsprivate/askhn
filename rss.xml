@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个突变体可以有一个竞赛条件吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31917928</link>
+            <guid>https://news.ycombinator.com/item?id=31917928</guid>
+            <pubDate>Wed, 29 Jun 2022 09:13:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can a mutex have a race condition?]]></description>
+        </item>
         <item>
             <title><![CDATA[有可能用网络摄像头追踪生成AI逼真的头像吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31744682</guid>
             <pubDate>Tue, 14 Jun 2022 19:22:53 GMT</pubDate>
             <description><![CDATA[Ask HN: What other forums do you visit?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在2022年，哪种编程语言适合首次编程的人？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31744533</link>
-            <guid>https://news.ycombinator.com/item?id=31744533</guid>
-            <pubDate>Tue, 14 Jun 2022 19:14:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which programming language for a first-time coder in 2022?]]></description>
         </item>
     </channel>
 </rss>
