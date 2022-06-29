@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 29 Jun 2022 20:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 23:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼信使搜索是錯誤的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31926930</link>
+            <guid>https://news.ycombinator.com/item?id=31926930</guid>
+            <pubDate>Wed, 29 Jun 2022 23:18:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why messenger search is wrong]]></description>
+        </item>
         <item>
             <title><![CDATA[如何擴展WebSocket？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31750625</guid>
             <pubDate>Wed, 15 Jun 2022 08:59:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Are hackerspaces still relevant today?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2.5英寸的固態硬盤會繼續存在嗎？多久？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31750441</link>
-            <guid>https://news.ycombinator.com/item?id=31750441</guid>
-            <pubDate>Wed, 15 Jun 2022 08:25:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are 2.5“ SSDs here to stay? For how long?]]></description>
         </item>
     </channel>
 </rss>
