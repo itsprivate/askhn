@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T09:30:55.690Z</updated>
+    <updated>2022-06-29T10:02:45.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何保护一个只有HTML文件的 "博客 "网站？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917807</id>
+        <link href="https://news.ycombinator.com/item?id=31917807"/>
+        <updated>2022-06-29T08:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to secure a “blog” website that is just HTML files?]]></summary>
+        <author>
+            <name>99throwwy</name>
+            <uri>https://news.ycombinator.com/user?id=99throwwy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个突变体可以有一个竞赛条件吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dumbfool666</name>
             <uri>https://news.ycombinator.com/user?id=dumbfool666</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你还访问哪些论坛？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31744682</id>
-        <link href="https://news.ycombinator.com/item?id=31744682"/>
-        <updated>2022-06-14T19:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What other forums do you visit?]]></summary>
-        <author>
-            <name>jawmes8</name>
-            <uri>https://news.ycombinator.com/user?id=jawmes8</uri>
         </author>
     </entry>
 </feed>
