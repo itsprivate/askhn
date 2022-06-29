@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T04:58:05.560Z</updated>
+    <updated>2022-06-29T06:34:54.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在国际上销售SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31916943</id>
+        <link href="https://news.ycombinator.com/item?id=31916943"/>
+        <updated>2022-06-29T05:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Selling SaaS Internationally]]></summary>
+        <author>
+            <name>kc10</name>
+            <uri>https://news.ycombinator.com/user?id=kc10</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[获得HOA以升级以太网布线
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>makersmasher</name>
             <uri>https://news.ycombinator.com/user?id=makersmasher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你把开发工作的多少百分比用于功能和维护以及错误？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31743677</id>
-        <link href="https://news.ycombinator.com/item?id=31743677"/>
-        <updated>2022-06-14T18:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What % of dev effort do you target for features vs. maint vs. bugs?]]></summary>
-        <author>
-            <name>waynesoftware</name>
-            <uri>https://news.ycombinator.com/user?id=waynesoftware</uri>
         </author>
     </entry>
 </feed>
