@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T10:02:45.096Z</updated>
+    <updated>2022-06-29T10:35:02.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用哪些不常見的科技產品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31918221</id>
+        <link href="https://news.ycombinator.com/item?id=31918221"/>
+        <updated>2022-06-29T10:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What uncommon tech products do you use?]]></summary>
+        <author>
+            <name>raouls</name>
+            <uri>https://news.ycombinator.com/user?id=raouls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何保護一個只有HTML文件的 "博客 "網站？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>writ3it</name>
             <uri>https://news.ycombinator.com/user?id=writ3it</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否使用瀏覽器地址欄進行搜索？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31744862</id>
-        <link href="https://news.ycombinator.com/item?id=31744862"/>
-        <updated>2022-06-14T19:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use the browser address bar to search?]]></summary>
-        <author>
-            <name>dumbfool666</name>
-            <uri>https://news.ycombinator.com/user?id=dumbfool666</uri>
         </author>
     </entry>
 </feed>
