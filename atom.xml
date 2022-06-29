@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T19:07:02.994Z</updated>
+    <updated>2022-06-29T20:33:02.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何扩展WebSocket？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31925145</id>
+        <link href="https://news.ycombinator.com/item?id=31925145"/>
+        <updated>2022-06-29T20:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you scale WebSocket?]]></summary>
+        <author>
+            <name>ravirajx7</name>
+            <uri>https://news.ycombinator.com/user?id=ravirajx7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么在YouTube上举报一个视频这么难？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31925037</id>
+        <link href="https://news.ycombinator.com/item?id=31925037"/>
+        <updated>2022-06-29T20:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is it so hard to report a video on YouTube]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪里可以关注JWS望远镜的新闻？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>slategruen</name>
             <uri>https://news.ycombinator.com/user?id=slategruen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把我们不认识的人当作 "天才 "是怎么回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750160</id>
-        <link href="https://news.ycombinator.com/item?id=31750160"/>
-        <updated>2022-06-15T07:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's up with treating people we don't know as `genius`?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基础设施储存库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31749721</id>
-        <link href="https://news.ycombinator.com/item?id=31749721"/>
-        <updated>2022-06-15T06:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Infrastructure Repository?]]></summary>
-        <author>
-            <name>ggeorgovassilis</name>
-            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
         </author>
     </entry>
 </feed>

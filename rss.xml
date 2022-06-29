@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 29 Jun 2022 19:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 20:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何扩展WebSocket？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31925145</link>
+            <guid>https://news.ycombinator.com/item?id=31925145</guid>
+            <pubDate>Wed, 29 Jun 2022 20:12:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you scale WebSocket?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么在YouTube上举报一个视频这么难？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31925037</link>
+            <guid>https://news.ycombinator.com/item?id=31925037</guid>
+            <pubDate>Wed, 29 Jun 2022 20:02:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is it so hard to report a video on YouTube]]></description>
+        </item>
         <item>
             <title><![CDATA[我在哪里可以关注JWS望远镜的新闻？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31750441</guid>
             <pubDate>Wed, 15 Jun 2022 08:25:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Are 2.5“ SSDs here to stay? For how long?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[把我们不认识的人当作 "天才 "是怎么回事？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31750160</link>
-            <guid>https://news.ycombinator.com/item?id=31750160</guid>
-            <pubDate>Wed, 15 Jun 2022 07:39:39 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's up with treating people we don't know as `genius`?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基础设施储存库？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31749721</link>
-            <guid>https://news.ycombinator.com/item?id=31749721</guid>
-            <pubDate>Wed, 15 Jun 2022 06:20:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Infrastructure Repository?]]></description>
         </item>
     </channel>
 </rss>
