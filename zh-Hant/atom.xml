@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T05:33:43.975Z</updated>
+    <updated>2022-06-30T09:28:30.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們必須在面試中解決問題，這有意義嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930175</id>
+        <link href="https://news.ycombinator.com/item?id=31930175"/>
+        <updated>2022-06-30T09:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does it make sense for people to have to solve problems in interviews?]]></summary>
+        <author>
+            <name>codingclaws</name>
+            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對50年前的錄像帶進行法醫分析
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>max_</name>
             <uri>https://news.ycombinator.com/user?id=max_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你什麼時候對軟件有了 "Aha時刻"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31752377</id>
-        <link href="https://news.ycombinator.com/item?id=31752377"/>
-        <updated>2022-06-15T13:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When did you have with software the Aha moment?]]></summary>
-        <author>
-            <name>arrmn</name>
-            <uri>https://news.ycombinator.com/user?id=arrmn</uri>
         </author>
     </entry>
 </feed>
