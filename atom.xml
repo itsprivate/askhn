@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T10:01:58.068Z</updated>
+    <updated>2022-06-30T10:59:10.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为初学者研究/关注市场动态的在线资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930765</id>
+        <link href="https://news.ycombinator.com/item?id=31930765"/>
+        <updated>2022-06-30T10:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Online resources to study/follow market dynamics for beginners?]]></summary>
+        <author>
+            <name>psyfi</name>
+            <uri>https://news.ycombinator.com/user?id=psyfi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理非商业化的技术？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>optemization</name>
             <uri>https://news.ycombinator.com/user?id=optemization</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建具有支付功能的网络应用程序的最快捷方式是什么2022年？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31754089</id>
-        <link href="https://news.ycombinator.com/item?id=31754089"/>
-        <updated>2022-06-15T15:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the quickest way to build a web app with payment function 2022?]]></summary>
-        <author>
-            <name>max93</name>
-            <uri>https://news.ycombinator.com/user?id=max93</uri>
         </author>
     </entry>
 </feed>
