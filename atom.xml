@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T20:51:37.999Z</updated>
+    <updated>2022-06-30T21:01:43.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jamstack的目标是谁？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938452</id>
+        <link href="https://news.ycombinator.com/item?id=31938452"/>
+        <updated>2022-06-30T20:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Is Jamstack Aimed At?]]></summary>
+        <author>
+            <name>aosaigh</name>
+            <uri>https://news.ycombinator.com/user?id=aosaigh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare D1的测试者，你有什么想法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938425</id>
+        <link href="https://news.ycombinator.com/item?id=31938425"/>
+        <updated>2022-06-30T20:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cloudflare D1 beta testers, what are your thoughts?]]></summary>
+        <author>
+            <name>jpcapdevila</name>
+            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长的推销信有时比短的好吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ID1452319</name>
             <uri>https://news.ycombinator.com/user?id=ID1452319</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如今，保持匿名开发者的身份仍然是可以想象的吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31763451</id>
-        <link href="https://news.ycombinator.com/item?id=31763451"/>
-        <updated>2022-06-16T07:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it still conceivable to remain an anonymous developer nowadays?]]></summary>
-        <author>
-            <name>synappser</name>
-            <uri>https://news.ycombinator.com/user?id=synappser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更高的燃料成本是否会使零售店的竞争环境更加公平？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31763179</id>
-        <link href="https://news.ycombinator.com/item?id=31763179"/>
-        <updated>2022-06-16T06:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will higher fuel costs even the playing field for retail stores]]></summary>
-        <author>
-            <name>farseer</name>
-            <uri>https://news.ycombinator.com/user?id=farseer</uri>
         </author>
     </entry>
 </feed>
