@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T19:59:01.291Z</updated>
+    <updated>2022-06-30T20:51:37.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[长的推销信有时比短的好吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938225</id>
+        <link href="https://news.ycombinator.com/item?id=31938225"/>
+        <updated>2022-06-30T20:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are longer pitch-letters sometimes better than short ones?]]></summary>
+        <author>
+            <name>eluctari</name>
+            <uri>https://news.ycombinator.com/user?id=eluctari</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年着陆页的无厘头分析法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>farseer</name>
             <uri>https://news.ycombinator.com/user?id=farseer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能开始准备面试？以及如何保持积极性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31763001</id>
-        <link href="https://news.ycombinator.com/item?id=31763001"/>
-        <updated>2022-06-16T06:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I start preparing for interviews? And how to stay motivated]]></summary>
-        <author>
-            <name>bovem</name>
-            <uri>https://news.ycombinator.com/user?id=bovem</uri>
         </author>
     </entry>
 </feed>
