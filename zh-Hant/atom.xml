@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-29T23:44:59.346Z</updated>
+    <updated>2022-06-30T02:35:56.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[應對脫髮問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31927295</id>
+        <link href="https://news.ycombinator.com/item?id=31927295"/>
+        <updated>2022-06-30T00:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Coping with Hair Loss]]></summary>
+        <author>
+            <name>HairMeOut</name>
+            <uri>https://news.ycombinator.com/user?id=HairMeOut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向孩子教授二進制的巧妙方法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>josefrichter</name>
             <uri>https://news.ycombinator.com/user?id=josefrichter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我對世界經濟一無所知。我怎樣才能解決這個問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750634</id>
-        <link href="https://news.ycombinator.com/item?id=31750634"/>
-        <updated>2022-06-15T09:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I have no idea about world economics. How I can fix that?]]></summary>
-        <author>
-            <name>skwee357</name>
-            <uri>https://news.ycombinator.com/user?id=skwee357</uri>
         </author>
     </entry>
 </feed>
