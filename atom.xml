@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T11:25:22.404Z</updated>
+    <updated>2022-06-30T11:59:39.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于创业公司的CEO来说，有哪些红旗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31931132</id>
+        <link href="https://news.ycombinator.com/item?id=31931132"/>
+        <updated>2022-06-30T11:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some red flags for a CEO in a startup?]]></summary>
+        <author>
+            <name>AndyJames</name>
+            <uri>https://news.ycombinator.com/user?id=AndyJames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪里以及如何找到你的早期采用者。什么有用？什么没用？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vfclists</name>
             <uri>https://news.ycombinator.com/user?id=vfclists</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在使用什么浏览器/电子数据库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755987</id>
-        <link href="https://news.ycombinator.com/item?id=31755987"/>
-        <updated>2022-06-15T17:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are you using for browser/Electron databases?]]></summary>
-        <author>
-            <name>hastes</name>
-            <uri>https://news.ycombinator.com/user?id=hastes</uri>
         </author>
     </entry>
 </feed>
