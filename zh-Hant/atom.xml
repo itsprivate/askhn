@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-06-30T22:29:15.311Z</updated>
+    <updated>2022-06-30T23:47:38.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最好的時間和任務組織工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31940055</id>
+        <link href="https://news.ycombinator.com/item?id=31940055"/>
+        <updated>2022-06-30T23:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best time and task organizational tool?]]></summary>
+        <author>
+            <name>johng</name>
+            <uri>https://news.ycombinator.com/user?id=johng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一體化的捆綁式服務或自選式模塊對企業來說是否更好？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CodeSgt</name>
             <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Chromium是個內存大戶？為什麼我們不能修復它？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764867</id>
-        <link href="https://news.ycombinator.com/item?id=31764867"/>
-        <updated>2022-06-16T11:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Chromium a memory hog? Why can't we fix it?]]></summary>
-        <author>
-            <name>rco8786</name>
-            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
         </author>
     </entry>
 </feed>
