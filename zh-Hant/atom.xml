@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T08:37:48.253Z</updated>
+    <updated>2022-07-01T09:01:17.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您如何探索新的食物/餐館？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943896</id>
+        <link href="https://news.ycombinator.com/item?id=31943896"/>
+        <updated>2022-07-01T08:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you explore new food / restaurants?]]></summary>
+        <author>
+            <name>agaase19</name>
+            <uri>https://news.ycombinator.com/user?id=agaase19</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望有一個 "我希望X存在 "的網站存在嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在任何地方分享你的leetcode簡介鏈接？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769166</id>
-        <link href="https://news.ycombinator.com/item?id=31769166"/>
-        <updated>2022-06-16T18:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you share your leetcode profile link anywhere?]]></summary>
-        <author>
-            <name>supportengineer</name>
-            <uri>https://news.ycombinator.com/user?id=supportengineer</uri>
         </author>
     </entry>
 </feed>
