@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T07:02:48.170Z</updated>
+    <updated>2022-07-01T07:58:04.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的感覺如何？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943595</id>
+        <link href="https://news.ycombinator.com/item?id=31943595"/>
+        <updated>2022-07-01T07:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Do You Feel?]]></summary>
+        <author>
+            <name>raunometsa</name>
+            <uri>https://news.ycombinator.com/user?id=raunometsa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何做出機會成本高的決策？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>35mm</name>
             <uri>https://news.ycombinator.com/user?id=35mm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mighty App發生了什麼事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768643</id>
-        <link href="https://news.ycombinator.com/item?id=31768643"/>
-        <updated>2022-06-16T17:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Mighty App?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
         </author>
     </entry>
 </feed>
