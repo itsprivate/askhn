@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T09:01:17.337Z</updated>
+    <updated>2022-07-01T09:49:19.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么没有航班从慕尼黑起飞？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944169</id>
+        <link href="https://news.ycombinator.com/item?id=31944169"/>
+        <updated>2022-07-01T09:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are no flights taking off from Munich?]]></summary>
+        <author>
+            <name>mastermedo</name>
+            <uri>https://news.ycombinator.com/user?id=mastermedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您如何探索新的食物/餐馆？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bestinterest</name>
             <uri>https://news.ycombinator.com/user?id=bestinterest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["这个X不存在 "的货币化想法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769407</id>
-        <link href="https://news.ycombinator.com/item?id=31769407"/>
-        <updated>2022-06-16T18:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: "This X Does Not Exist” Monetization Ideas?]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
         </author>
     </entry>
 </feed>
