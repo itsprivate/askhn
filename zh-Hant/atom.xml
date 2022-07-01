@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T14:06:33.880Z</updated>
+    <updated>2022-07-01T14:33:01.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[音頻室應用程序已經死亡嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946613</id>
+        <link href="https://news.ycombinator.com/item?id=31946613"/>
+        <updated>2022-07-01T14:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Audio Room Apps Dead?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獎金而不是工程師的VSOP？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946580</id>
+        <link href="https://news.ycombinator.com/item?id=31946580"/>
+        <updated>2022-07-01T14:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Bonuses Instead of VSOP for Engineers?]]></summary>
+        <author>
+            <name>anrwww</name>
+            <uri>https://news.ycombinator.com/user?id=anrwww</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你執行和存儲SQL查詢的工作流程和技巧是什麼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>permo-w</name>
             <uri>https://news.ycombinator.com/user?id=permo-w</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[存在的藝術博客靜態網站生成器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772912</id>
-        <link href="https://news.ycombinator.com/item?id=31772912"/>
-        <updated>2022-06-17T01:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Art Blog Static Site Generator That Exists?]]></summary>
-        <author>
-            <name>kradeelav</name>
-            <uri>https://news.ycombinator.com/user?id=kradeelav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有一種打字軟件可以預測你最容易/最難打的字？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772255</id>
-        <link href="https://news.ycombinator.com/item?id=31772255"/>
-        <updated>2022-06-16T23:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a typing app that predicts your easiest/hardest words to type?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
         </author>
     </entry>
 </feed>
