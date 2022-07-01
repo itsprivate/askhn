@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T05:48:09.474Z</updated>
+    <updated>2022-07-01T06:37:09.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何确保团队中的每个人都能在Slack上听到你的声音？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943016</id>
+        <link href="https://news.ycombinator.com/item?id=31943016"/>
+        <updated>2022-07-01T06:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you ensure everyone on the team is heard on Slack?]]></summary>
+        <author>
+            <name>adam_ellsworth</name>
+            <uri>https://news.ycombinator.com/user?id=adam_ellsworth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[替代苹果音乐应用的产品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31942980</id>
+        <link href="https://news.ycombinator.com/item?id=31942980"/>
+        <updated>2022-07-01T06:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Alternatives to Apple Music App?]]></summary>
+        <author>
+            <name>raasdnil</name>
+            <uri>https://news.ycombinator.com/user?id=raasdnil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我采访了30位独立开发的创始人。AMA
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rtheunissen</name>
             <uri>https://news.ycombinator.com/user?id=rtheunissen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有设在欧洲的大型云计算供应商？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768109</id>
-        <link href="https://news.ycombinator.com/item?id=31768109"/>
-        <updated>2022-06-16T16:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there no big cloud vendors based in Europe?]]></summary>
-        <author>
-            <name>waspight</name>
-            <uri>https://news.ycombinator.com/user?id=waspight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何给你的电池充电？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768008</id>
-        <link href="https://news.ycombinator.com/item?id=31768008"/>
-        <updated>2022-06-16T16:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you recharge your batteries?]]></summary>
-        <author>
-            <name>PartiallyTyped</name>
-            <uri>https://news.ycombinator.com/user?id=PartiallyTyped</uri>
         </author>
     </entry>
 </feed>
