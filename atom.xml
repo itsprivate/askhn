@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T19:00:26.938Z</updated>
+    <updated>2022-07-01T19:31:05.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -16,6 +16,18 @@
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
     <entry>
+        <title type="html"><![CDATA[IT与技术？如何更好地关注职业重启？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950959</id>
+        <link href="https://news.ycombinator.com/item?id=31950959"/>
+        <updated>2022-07-01T18:48:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: IT vs. Tech? How best to focus career reboot?]]></summary>
+        <author>
+            <name>germinalphrase</name>
+            <uri>https://news.ycombinator.com/user?id=germinalphrase</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[下滑期的数据？
 ]]></title>
         <id>https://news.ycombinator.com/item?id=31950825</id>
@@ -25,6 +37,18 @@
         <author>
             <name>pfduke02</name>
             <uri>https://news.ycombinator.com/user?id=pfduke02</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应对SaaS消费税的合规性（销售/增值税/消费税等）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950790</id>
+        <link href="https://news.ycombinator.com/item?id=31950790"/>
+        <updated>2022-07-01T18:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Coping with SaaS consumption tax compliance (sales/VAT/GST/etc.)]]></summary>
+        <author>
+            <name>cemerick</name>
+            <uri>https://news.ycombinator.com/user?id=cemerick</uri>
         </author>
     </entry>
     <entry>
@@ -7189,30 +7213,6 @@
         <author>
             <name>notoriousarun</name>
             <uri>https://news.ycombinator.com/user?id=notoriousarun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["无码 "对于制作游戏来说效果很好，但对于一般的软件来说却不是。为什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31779316</id>
-        <link href="https://news.ycombinator.com/item?id=31779316"/>
-        <updated>2022-06-17T15:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: "No code" works well for making games but not general software. Why?]]></summary>
-        <author>
-            <name>nassimsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAANG/MANGA的个人网站有什么政策？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31779169</id>
-        <link href="https://news.ycombinator.com/item?id=31779169"/>
-        <updated>2022-06-17T14:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the policies for personal websites at FAANG/MANGA?]]></summary>
-        <author>
-            <name>znpy</name>
-            <uri>https://news.ycombinator.com/user?id=znpy</uri>
         </author>
     </entry>
 </feed>
