@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T20:49:39.959Z</updated>
+    <updated>2022-07-01T21:28:07.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讀書不理解的價值？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31953054</id>
+        <link href="https://news.ycombinator.com/item?id=31953054"/>
+        <updated>2022-07-01T21:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Value of reading a book without comprehension?]]></summary>
+        <author>
+            <name>ikkah</name>
+            <uri>https://news.ycombinator.com/user?id=ikkah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好的項目後驗收？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼新聞訂閱是值得的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780355</id>
-        <link href="https://news.ycombinator.com/item?id=31780355"/>
-        <updated>2022-06-17T16:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What news subscription is worth it?]]></summary>
-        <author>
-            <name>lawgimenez</name>
-            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
         </author>
     </entry>
 </feed>
