@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T19:31:06.002Z</updated>
+    <updated>2022-07-01T20:49:39.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的項目後驗收？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952452</id>
+        <link href="https://news.ycombinator.com/item?id=31952452"/>
+        <updated>2022-07-01T20:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good Project Post-Mortems?]]></summary>
+        <author>
+            <name>killjoywashere</name>
+            <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT與技術？如何更好地關注職業重啟？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lawgimenez</name>
             <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些軟件對你公司的成功至關重要，即使是在經濟低迷時期？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31779794</id>
-        <link href="https://news.ycombinator.com/item?id=31779794"/>
-        <updated>2022-06-17T15:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What software are critical to your company success, even in a downturn?]]></summary>
-        <author>
-            <name>notoriousarun</name>
-            <uri>https://news.ycombinator.com/user?id=notoriousarun</uri>
         </author>
     </entry>
 </feed>
