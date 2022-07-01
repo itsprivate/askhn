@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 01 Jul 2022 11:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 13:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何向一个Python后端开发者解释你如何/何时使用Jamstack？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945583</link>
+            <guid>https://news.ycombinator.com/item?id=31945583</guid>
+            <pubDate>Fri, 01 Jul 2022 12:40:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: how would you explain how/when you use Jamstack to a python backend dev?]]></description>
+        </item>
         <item>
             <title><![CDATA[贵公司运营多少个Kubernetes集群？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31771097</guid>
             <pubDate>Thu, 16 Jun 2022 21:18:58 GMT</pubDate>
             <description><![CDATA[Ask HN: Can 5G Wireless Effect Epidermal Immunity?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为一个有两个小孩的SWE，我应该搬到加州还是德国？ (pt2)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31770475</link>
-            <guid>https://news.ycombinator.com/item?id=31770475</guid>
-            <pubDate>Thu, 16 Jun 2022 20:18:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I move to California or Germany as a SWE with 2 small kids? (pt2)]]></description>
         </item>
     </channel>
 </rss>

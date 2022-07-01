@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T11:26:23.604Z</updated>
+    <updated>2022-07-01T13:00:49.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何向一個Python後端開發者解釋你如何/何時使用Jamstack？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31945583</id>
+        <link href="https://news.ycombinator.com/item?id=31945583"/>
+        <updated>2022-07-01T12:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: how would you explain how/when you use Jamstack to a python backend dev?]]></summary>
+        <author>
+            <name>whiskey14</name>
+            <uri>https://news.ycombinator.com/user?id=whiskey14</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貴公司運營多少個Kubernetes集群？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FollowingTheDao</name>
             <uri>https://news.ycombinator.com/user?id=FollowingTheDao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個有兩個小孩的SWE，我應該搬到加州還是德國？ (pt2)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770475</id>
-        <link href="https://news.ycombinator.com/item?id=31770475"/>
-        <updated>2022-06-16T20:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I move to California or Germany as a SWE with 2 small kids? (pt2)]]></summary>
-        <author>
-            <name>de_or_ca</name>
-            <uri>https://news.ycombinator.com/user?id=de_or_ca</uri>
         </author>
     </entry>
 </feed>
