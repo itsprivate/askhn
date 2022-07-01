@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T10:01:16.971Z</updated>
+    <updated>2022-07-01T10:51:00.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對這個LinkedIn的替代方案有什麼看法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944616</id>
+        <link href="https://news.ycombinator.com/item?id=31944616"/>
+        <updated>2022-07-01T10:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your thoughts on this LinkedIn alternative?]]></summary>
+        <author>
+            <name>dodoso</name>
+            <uri>https://news.ycombinator.com/user?id=dodoso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的公司正在做什麼準備來應對經濟衰退？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944615</id>
+        <link href="https://news.ycombinator.com/item?id=31944615"/>
+        <updated>2022-07-01T10:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your company doing to prepare for the recession?]]></summary>
+        <author>
+            <name>digitcatphd</name>
+            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給我的MVP前登陸頁面打分？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>manx</name>
             <uri>https://news.ycombinator.com/user?id=manx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何製作一個上鏡的機房
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769811</id>
-        <link href="https://news.ycombinator.com/item?id=31769811"/>
-        <updated>2022-06-16T19:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make a photogenic server room]]></summary>
-        <author>
-            <name>focusedone</name>
-            <uri>https://news.ycombinator.com/user?id=focusedone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微處理器是抄襲自自然界嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769808</id>
-        <link href="https://news.ycombinator.com/item?id=31769808"/>
-        <updated>2022-06-16T19:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Microprocessors Copied from Nature?]]></summary>
-        <author>
-            <name>4maz1n</name>
-            <uri>https://news.ycombinator.com/user?id=4maz1n</uri>
         </author>
     </entry>
 </feed>
