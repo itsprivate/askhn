@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T17:18:45.891Z</updated>
+    <updated>2022-07-01T17:43:01.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有任何不使用Cloudflare的抗DDoS保护的DNS供应商吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31949610</id>
+        <link href="https://news.ycombinator.com/item?id=31949610"/>
+        <updated>2022-07-01T17:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any DNS providers with anti-DDoS protection not using Cloudflare?]]></summary>
+        <author>
+            <name>krn</name>
+            <uri>https://news.ycombinator.com/user?id=krn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在做什么工作？ (2022年7月)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwaway24124</name>
             <uri>https://news.ycombinator.com/user?id=throwaway24124</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁直接向德国UG实体融资？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778329</id>
-        <link href="https://news.ycombinator.com/item?id=31778329"/>
-        <updated>2022-06-17T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone raised capital directly into a German UG entity?]]></summary>
-        <author>
-            <name>L_226</name>
-            <uri>https://news.ycombinator.com/user?id=L_226</uri>
         </author>
     </entry>
 </feed>
