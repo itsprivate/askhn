@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T10:51:00.038Z</updated>
+    <updated>2022-07-01T11:26:23.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貴公司運營多少個Kubernetes集群？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944717</id>
+        <link href="https://news.ycombinator.com/item?id=31944717"/>
+        <updated>2022-07-01T11:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many Kubernetes clusters does your company operate?]]></summary>
+        <author>
+            <name>daveys110</name>
+            <uri>https://news.ycombinator.com/user?id=daveys110</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[請推薦免費的iPhone應用來作為1080p的網絡攝像頭使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944701</id>
+        <link href="https://news.ycombinator.com/item?id=31944701"/>
+        <updated>2022-07-01T11:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Please recommend free iPhone app to use as webcam at 1080p]]></summary>
+        <author>
+            <name>remoteshifts</name>
+            <uri>https://news.ycombinator.com/user?id=remoteshifts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對這個LinkedIn的替代方案有什麼看法？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>de_or_ca</name>
             <uri>https://news.ycombinator.com/user?id=de_or_ca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼能說服你接受一份用Pascal語言編碼的工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770457</id>
-        <link href="https://news.ycombinator.com/item?id=31770457"/>
-        <updated>2022-06-16T20:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would convince you to take a job coding in Pascal?]]></summary>
-        <author>
-            <name>oldlang</name>
-            <uri>https://news.ycombinator.com/user?id=oldlang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自迷幻旅行的技術創意？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769954</id>
-        <link href="https://news.ycombinator.com/item?id=31769954"/>
-        <updated>2022-06-16T19:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tech Ideas from Psychedelic Trips?]]></summary>
-        <author>
-            <name>manx</name>
-            <uri>https://news.ycombinator.com/user?id=manx</uri>
         </author>
     </entry>
 </feed>
