@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T05:14:59.704Z</updated>
+    <updated>2022-07-01T05:48:09.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我採訪了30位獨立開發的創始人。AMA
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31942738</id>
+        <link href="https://news.ycombinator.com/item?id=31942738"/>
+        <updated>2022-07-01T05:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I interviewed 30 solo dev founders. AMA]]></summary>
+        <author>
+            <name>raunometsa</name>
+            <uri>https://news.ycombinator.com/user?id=raunometsa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的產品沒有賺到錢，而且我還要支付房租和食物。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>PartiallyTyped</name>
             <uri>https://news.ycombinator.com/user?id=PartiallyTyped</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暑假休息的最佳工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767480</id>
-        <link href="https://news.ycombinator.com/item?id=31767480"/>
-        <updated>2022-06-16T15:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best jobs for taking the summer off?]]></summary>
-        <author>
-            <name>l2silver</name>
-            <uri>https://news.ycombinator.com/user?id=l2silver</uri>
         </author>
     </entry>
 </feed>
