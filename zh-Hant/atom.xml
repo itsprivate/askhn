@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T17:43:01.815Z</updated>
+    <updated>2022-07-01T18:40:25.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實現有趣的編程語言概念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950618</id>
+        <link href="https://news.ycombinator.com/item?id=31950618"/>
+        <updated>2022-07-01T18:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Interesting programming language concept to implement]]></summary>
+        <author>
+            <name>jackling</name>
+            <uri>https://news.ycombinator.com/user?id=jackling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有任何不使用Cloudflare的抗DDoS保護的DNS供應商嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>raygelogic</name>
             <uri>https://news.ycombinator.com/user?id=raygelogic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在房租上花了多少錢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778928</id>
-        <link href="https://news.ycombinator.com/item?id=31778928"/>
-        <updated>2022-06-17T14:42:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much do you spend on rent?]]></summary>
-        <author>
-            <name>throwaway24124</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway24124</uri>
         </author>
     </entry>
 </feed>
