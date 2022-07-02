@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T04:02:07.381Z</updated>
+    <updated>2022-07-02T04:47:48.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学Python出身的人对学习Java有什么建议吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956182</id>
+        <link href="https://news.ycombinator.com/item?id=31956182"/>
+        <updated>2022-07-02T04:16:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any advice of learning Java when coming from Python background]]></summary>
+        <author>
+            <name>mraza007</name>
+            <uri>https://news.ycombinator.com/user?id=mraza007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发人员，你如何发送API错误报告？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zagrebian</name>
             <uri>https://news.ycombinator.com/user?id=zagrebian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何保护你的鼻子不受讨厌的气味影响？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782845</id>
-        <link href="https://news.ycombinator.com/item?id=31782845"/>
-        <updated>2022-06-17T19:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to protect your nose from nasty smell?]]></summary>
-        <author>
-            <name>kite_and_code</name>
-            <uri>https://news.ycombinator.com/user?id=kite_and_code</uri>
         </author>
     </entry>
 </feed>
