@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T14:24:47.071Z</updated>
+    <updated>2022-07-02T14:44:42.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit网站的性能似乎越来越差？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31959211</id>
+        <link href="https://news.ycombinator.com/item?id=31959211"/>
+        <updated>2022-07-02T14:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Reddit site performance seem to be getting worse?]]></summary>
+        <author>
+            <name>telesoft</name>
+            <uri>https://news.ycombinator.com/user?id=telesoft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何保存网页内容
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pipeline_peak</name>
             <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个满足于编程能力的高级工程师，接下来要学习什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31786898</id>
-        <link href="https://news.ycombinator.com/item?id=31786898"/>
-        <updated>2022-06-18T02:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: As a senior engineer content with programming chops, what to learn next?]]></summary>
-        <author>
-            <name>captmorrel</name>
-            <uri>https://news.ycombinator.com/user?id=captmorrel</uri>
         </author>
     </entry>
 </feed>
