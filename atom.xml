@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T07:57:08.600Z</updated>
+    <updated>2022-07-02T09:28:35.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成为Coda开发者的好处？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957364</id>
+        <link href="https://news.ycombinator.com/item?id=31957364"/>
+        <updated>2022-07-02T08:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Benefits of Being a Coda Developer?]]></summary>
+        <author>
+            <name>Gtex555</name>
+            <uri>https://news.ycombinator.com/user?id=Gtex555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尾数是怎么回事？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cartesius13</name>
             <uri>https://news.ycombinator.com/user?id=cartesius13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何克服心理疲劳？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31784020</id>
-        <link href="https://news.ycombinator.com/item?id=31784020"/>
-        <updated>2022-06-17T20:39:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Overcome Mental Fatigue?]]></summary>
-        <author>
-            <name>MathCodeLove</name>
-            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
         </author>
     </entry>
 </feed>
