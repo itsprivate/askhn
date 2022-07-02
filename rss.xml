@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Jul 2022 10:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 10:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我是不是不适合做网络开发？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957863</link>
+            <guid>https://news.ycombinator.com/item?id=31957863</guid>
+            <pubDate>Sat, 02 Jul 2022 10:45:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Am I incompotent for web development?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何解决大的/复杂的问题？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31785094</guid>
             <pubDate>Fri, 17 Jun 2022 22:14:34 GMT</pubDate>
             <description><![CDATA[Ask HN: What are the best tools/books/blogs for cloud solution patterns?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么构成了金融弊端？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31785038</link>
-            <guid>https://news.ycombinator.com/item?id=31785038</guid>
-            <pubDate>Fri, 17 Jun 2022 22:08:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Constitutes Financial Malfescience?]]></description>
         </item>
     </channel>
 </rss>

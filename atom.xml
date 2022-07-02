@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T10:29:45.875Z</updated>
+    <updated>2022-07-02T10:59:45.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是不是不适合做网络开发？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957863</id>
+        <link href="https://news.ycombinator.com/item?id=31957863"/>
+        <updated>2022-07-02T10:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I incompotent for web development?]]></summary>
+        <author>
+            <name>m0xai</name>
+            <uri>https://news.ycombinator.com/user?id=m0xai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何解决大的/复杂的问题？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blue0bird</name>
             <uri>https://news.ycombinator.com/user?id=blue0bird</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么构成了金融弊端？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31785038</id>
-        <link href="https://news.ycombinator.com/item?id=31785038"/>
-        <updated>2022-06-17T22:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Constitutes Financial Malfescience?]]></summary>
-        <author>
-            <name>samstave</name>
-            <uri>https://news.ycombinator.com/user?id=samstave</uri>
         </author>
     </entry>
 </feed>
