@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T04:47:48.093Z</updated>
+    <updated>2022-07-02T05:35:24.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁想被解雇？ (2022年7月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956531</id>
+        <link href="https://news.ycombinator.com/item?id=31956531"/>
+        <updated>2022-07-02T05:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who wants to be fired? (July 2022)]]></summary>
+        <author>
+            <name>tester756</name>
+            <uri>https://news.ycombinator.com/user?id=tester756</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学Python出身的人对学习Java有什么建议吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whitakerch</name>
             <uri>https://news.ycombinator.com/user?id=whitakerch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨站cookies和第三方cookies之间有什么区别？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782982</id>
-        <link href="https://news.ycombinator.com/item?id=31782982"/>
-        <updated>2022-06-17T19:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Whats the difference between cross-site cookies and third-party cookies?]]></summary>
-        <author>
-            <name>zagrebian</name>
-            <uri>https://news.ycombinator.com/user?id=zagrebian</uri>
         </author>
     </entry>
 </feed>

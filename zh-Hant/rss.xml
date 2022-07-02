@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Jul 2022 04:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 05:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[誰想被解僱？ (2022年7月)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31956531</link>
+            <guid>https://news.ycombinator.com/item?id=31956531</guid>
+            <pubDate>Sat, 02 Jul 2022 05:31:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who wants to be fired? (July 2022)]]></description>
+        </item>
         <item>
             <title><![CDATA[學Python出身的人對學習Java有什麼建議嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31783224</guid>
             <pubDate>Fri, 17 Jun 2022 19:38:17 GMT</pubDate>
             <description><![CDATA[Ask HN: Do You Use Enum for Yes, No, Unset?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跨站cookies和第三方cookies之間有什麼區別？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31782982</link>
-            <guid>https://news.ycombinator.com/item?id=31782982</guid>
-            <pubDate>Fri, 17 Jun 2022 19:17:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Whats the difference between cross-site cookies and third-party cookies?]]></description>
         </item>
     </channel>
 </rss>
