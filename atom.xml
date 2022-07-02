@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T11:57:36.530Z</updated>
+    <updated>2022-07-02T13:58:39.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[获得法律硕士的最佳途径是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31958973</id>
+        <link href="https://news.ycombinator.com/item?id=31958973"/>
+        <updated>2022-07-02T13:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best way to get access to a LLM?]]></summary>
+        <author>
+            <name>jakobov</name>
+            <uri>https://news.ycombinator.com/user?id=jakobov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redshift/f.lux的Sublime和VSC主题？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个Reddit风格的RSS阅读器怎么样？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31786576</id>
-        <link href="https://news.ycombinator.com/item?id=31786576"/>
-        <updated>2022-06-18T01:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How about a Reddit style RSS reader?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
         </author>
     </entry>
 </feed>
