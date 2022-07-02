@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T20:46:50.218Z</updated>
+    <updated>2022-07-02T21:24:35.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新异步团队的资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31962366</id>
+        <link href="https://news.ycombinator.com/item?id=31962366"/>
+        <updated>2022-07-02T21:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources for New Async Teams?]]></summary>
+        <author>
+            <name>nathantesler</name>
+            <uri>https://news.ycombinator.com/user?id=nathantesler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人使用过ZScaler产品吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31962347</id>
+        <link href="https://news.ycombinator.com/item?id=31962347"/>
+        <updated>2022-07-02T20:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone used ZScaler products?]]></summary>
+        <author>
+            <name>natpalmer1776</name>
+            <uri>https://news.ycombinator.com/user?id=natpalmer1776</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你目前的数据管理解决方案对你来说运作良好吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cgb223</name>
             <uri>https://news.ycombinator.com/user?id=cgb223</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么手机不通知你有恶意软件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789969</id>
-        <link href="https://news.ycombinator.com/item?id=31789969"/>
-        <updated>2022-06-18T14:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do phones not notify you of malware?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁搬到了波多黎各，这值得吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789863</id>
-        <link href="https://news.ycombinator.com/item?id=31789863"/>
-        <updated>2022-06-18T13:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone moved to Puerto Rico, was it worth it?]]></summary>
-        <author>
-            <name>digitcatphd</name>
-            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
         </author>
     </entry>
 </feed>
