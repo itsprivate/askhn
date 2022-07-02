@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T18:52:18.315Z</updated>
+    <updated>2022-07-02T20:28:43.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我已經41歲了，仍然沒有結婚。我應該怎麼做？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31961992</id>
+        <link href="https://news.ycombinator.com/item?id=31961992"/>
+        <updated>2022-07-02T20:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I’m 41 and still unmarried. What should I do?]]></summary>
+        <author>
+            <name>actfrench</name>
+            <uri>https://news.ycombinator.com/user?id=actfrench</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於共享家庭預算的移動應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31961938</id>
+        <link href="https://news.ycombinator.com/item?id=31961938"/>
+        <updated>2022-07-02T20:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mobile app for shared home budgeting?]]></summary>
+        <author>
+            <name>V-2</name>
+            <uri>https://news.ycombinator.com/user?id=V-2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vercel/Netlify自動部署分支到子域的類似工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>c0balt</name>
             <uri>https://news.ycombinator.com/user?id=c0balt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[說出一個在推出產品前就被收購的創業公司的名字
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789574</id>
-        <link href="https://news.ycombinator.com/item?id=31789574"/>
-        <updated>2022-06-18T13:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Name a startup that got acquired before launching their product]]></summary>
-        <author>
-            <name>krm01</name>
-            <uri>https://news.ycombinator.com/user?id=krm01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對Racket ORM大學獨立工作的建議
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789516</id>
-        <link href="https://news.ycombinator.com/item?id=31789516"/>
-        <updated>2022-06-18T13:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice for Racket ORM college independent work]]></summary>
-        <author>
-            <name>caaaadr</name>
-            <uri>https://news.ycombinator.com/user?id=caaaadr</uri>
         </author>
     </entry>
 </feed>
