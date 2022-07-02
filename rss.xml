@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 07:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尾数是怎么回事？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957059</link>
+            <guid>https://news.ycombinator.com/item?id=31957059</guid>
+            <pubDate>Sat, 02 Jul 2022 07:47:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the Deal with Tailscale?]]></description>
+        </item>
         <item>
             <title><![CDATA[谁想被解雇？ (2022年7月)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31784020</guid>
             <pubDate>Fri, 17 Jun 2022 20:39:52 GMT</pubDate>
             <description><![CDATA[Ask HN: How to Overcome Mental Fatigue?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否使用Enum来表示是、否、未设置？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31783224</link>
-            <guid>https://news.ycombinator.com/item?id=31783224</guid>
-            <pubDate>Fri, 17 Jun 2022 19:38:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do You Use Enum for Yes, No, Unset?]]></description>
         </item>
     </channel>
 </rss>

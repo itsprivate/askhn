@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T05:35:24.377Z</updated>
+    <updated>2022-07-02T07:57:08.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尾数是怎么回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957059</id>
+        <link href="https://news.ycombinator.com/item?id=31957059"/>
+        <updated>2022-07-02T07:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the Deal with Tailscale?]]></summary>
+        <author>
+            <name>spapas82</name>
+            <uri>https://news.ycombinator.com/user?id=spapas82</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁想被解雇？ (2022年7月)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MathCodeLove</name>
             <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否使用Enum来表示是、否、未设置？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31783224</id>
-        <link href="https://news.ycombinator.com/item?id=31783224"/>
-        <updated>2022-06-17T19:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Use Enum for Yes, No, Unset?]]></summary>
-        <author>
-            <name>whitakerch</name>
-            <uri>https://news.ycombinator.com/user?id=whitakerch</uri>
         </author>
     </entry>
 </feed>
