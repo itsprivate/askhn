@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-02T14:44:42.991Z</updated>
+    <updated>2022-07-02T16:02:25.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何銷售跨平臺軟件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31960104</id>
+        <link href="https://news.ycombinator.com/item?id=31960104"/>
+        <updated>2022-07-02T15:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to sell cross-platform software?]]></summary>
+        <author>
+            <name>s1k3s</name>
+            <uri>https://news.ycombinator.com/user?id=s1k3s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit網站的性能似乎越來越差？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對Reddit風格的RSS訂閱有何看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31786980</id>
-        <link href="https://news.ycombinator.com/item?id=31786980"/>
-        <updated>2022-06-18T03:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think of a Reddit style RSS feed?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
         </author>
     </entry>
 </feed>
