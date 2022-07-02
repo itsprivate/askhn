@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-01T22:47:19.205Z</updated>
+    <updated>2022-07-02T02:33:44.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分享您的日间交易经验
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31955320</id>
+        <link href="https://news.ycombinator.com/item?id=31955320"/>
+        <updated>2022-07-02T01:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Share Your Day trading Experiences]]></summary>
+        <author>
+            <name>b20000</name>
+            <uri>https://news.ycombinator.com/user?id=b20000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在客户端，Argon2d真的比Argon2id更好吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31954762</id>
+        <link href="https://news.ycombinator.com/item?id=31954762"/>
+        <updated>2022-07-02T00:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Argon2d really a better choice for client-side than Argon2id?]]></summary>
+        <author>
+            <name>krn</name>
+            <uri>https://news.ycombinator.com/user?id=krn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对基于触摸的笔记本电脑的Linux发行版有什么建议吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>swyx</name>
             <uri>https://news.ycombinator.com/user?id=swyx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否在Stripe和您的主（ERP）系统之间同步SKU？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780840</id>
-        <link href="https://news.ycombinator.com/item?id=31780840"/>
-        <updated>2022-06-17T16:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you sync SKUs between Stripe and your main (ERP) system?]]></summary>
-        <author>
-            <name>dhruvkar</name>
-            <uri>https://news.ycombinator.com/user?id=dhruvkar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我创建了一个新闻缩短算法，但不确定如何利用它
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31779260</id>
-        <link href="https://news.ycombinator.com/item?id=31779260"/>
-        <updated>2022-06-17T15:04:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I created a news shortening algorithm and am not sure how to utilize it]]></summary>
-        <author>
-            <name>superdario</name>
-            <uri>https://news.ycombinator.com/user?id=superdario</uri>
         </author>
     </entry>
 </feed>
