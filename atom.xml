@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T11:25:43.829Z</updated>
+    <updated>2022-07-03T14:00:47.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据科学的书籍和其他资源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967544</id>
+        <link href="https://news.ycombinator.com/item?id=31967544"/>
+        <updated>2022-07-03T13:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Books and other resources for Data Science]]></summary>
+        <author>
+            <name>xanthine</name>
+            <uri>https://news.ycombinator.com/user?id=xanthine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么不是每个家庭都有一个可接受的说话音量？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tiffanyh</name>
             <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能使这个项目变得有用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31793837</id>
-        <link href="https://news.ycombinator.com/item?id=31793837"/>
-        <updated>2022-06-18T21:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I make this project useful?]]></summary>
-        <author>
-            <name>t_w_s</name>
-            <uri>https://news.ycombinator.com/user?id=t_w_s</uri>
         </author>
     </entry>
 </feed>
