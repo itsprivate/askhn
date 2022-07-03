@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T18:02:59.129Z</updated>
+    <updated>2022-07-03T18:52:22.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么JavaScript中的一切变化如此之快？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31969958</id>
+        <link href="https://news.ycombinator.com/item?id=31969958"/>
+        <updated>2022-07-03T18:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is everything in JavaScript changing so fast?]]></summary>
+        <author>
+            <name>swat535</name>
+            <uri>https://news.ycombinator.com/user?id=swat535</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最便宜和最简单的解决方案是每天给自己发一个电子邮件提醒？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31969951</id>
+        <link href="https://news.ycombinator.com/item?id=31969951"/>
+        <updated>2022-07-03T18:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cheapest and simplest solution for a daily email alert to myself?]]></summary>
+        <author>
+            <name>benrapscallion</name>
+            <uri>https://news.ycombinator.com/user?id=benrapscallion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[财务制度101
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pandatigox</name>
             <uri>https://news.ycombinator.com/user?id=pandatigox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在提高阅读速度方面取得了成功吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798938</id>
-        <link href="https://news.ycombinator.com/item?id=31798938"/>
-        <updated>2022-06-19T13:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you had success with improving your reading speed?]]></summary>
-        <author>
-            <name>towledev</name>
-            <uri>https://news.ycombinator.com/user?id=towledev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个通过预先调整来下载媒体的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798729</id>
-        <link href="https://news.ycombinator.com/item?id=31798729"/>
-        <updated>2022-06-19T12:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A Tool to download a media by having it preadjusted]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>
