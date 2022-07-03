@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T07:43:38.247Z</updated>
+    <updated>2022-07-03T09:59:18.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[首席架構師經驗/期望
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31966470</id>
+        <link href="https://news.ycombinator.com/item?id=31966470"/>
+        <updated>2022-07-03T09:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Lead Architect Experience / Expectations]]></summary>
+        <author>
+            <name>de6u99er</name>
+            <uri>https://news.ycombinator.com/user?id=de6u99er</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在向我的CEO介紹一個新的產品理念
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kovezd</name>
             <uri>https://news.ycombinator.com/user?id=kovezd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Git子模塊如此糟糕？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792303</id>
-        <link href="https://news.ycombinator.com/item?id=31792303"/>
-        <updated>2022-06-18T18:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Are Git Submodules So Bad?]]></summary>
-        <author>
-            <name>ghoward</name>
-            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
         </author>
     </entry>
 </feed>
