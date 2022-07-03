@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T14:00:47.628Z</updated>
+    <updated>2022-07-03T14:25:40.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[独立的MP3播放器和闹钟，可以随机播放播放列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967868</id>
+        <link href="https://news.ycombinator.com/item?id=31967868"/>
+        <updated>2022-07-03T14:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Standalone MP3 player and alarm , which can shuffle-play a playlist]]></summary>
+        <author>
+            <name>dv35z</name>
+            <uri>https://news.ycombinator.com/user?id=dv35z</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据科学的书籍和其他资源
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jamesdco</name>
             <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迁移到Canvas后的Google Docs审查？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31794585</id>
-        <link href="https://news.ycombinator.com/item?id=31794585"/>
-        <updated>2022-06-18T23:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google Docs review since migrating to Canvas?]]></summary>
-        <author>
-            <name>tiffanyh</name>
-            <uri>https://news.ycombinator.com/user?id=tiffanyh</uri>
         </author>
     </entry>
 </feed>
