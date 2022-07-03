@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T15:30:50.516Z</updated>
+    <updated>2022-07-03T15:48:33.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AI生成的音乐？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31968456</id>
+        <link href="https://news.ycombinator.com/item?id=31968456"/>
+        <updated>2022-07-03T15:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: AI-Generated Music?]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在管理不善的SPAC之后起诉？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dev_0</name>
             <uri>https://news.ycombinator.com/user?id=dev_0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在没有Kubernetes的情况下进行滚动部署？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797206</id>
-        <link href="https://news.ycombinator.com/item?id=31797206"/>
-        <updated>2022-06-19T07:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to do rolling deployments without Kubernetes?]]></summary>
-        <author>
-            <name>jsdevtom</name>
-            <uri>https://news.ycombinator.com/user?id=jsdevtom</uri>
         </author>
     </entry>
 </feed>

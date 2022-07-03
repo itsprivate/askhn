@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 15:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AI生成的音樂？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31968456</link>
+            <guid>https://news.ycombinator.com/item?id=31968456</guid>
+            <pubDate>Sun, 03 Jul 2022 15:31:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: AI-Generated Music?]]></description>
+        </item>
         <item>
             <title><![CDATA[在管理不善的SPAC之後起訴？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31797602</guid>
             <pubDate>Sun, 19 Jun 2022 09:08:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Vacation activities to improve your skills as software engineers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在沒有Kubernetes的情況下進行滾動部署？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31797206</link>
-            <guid>https://news.ycombinator.com/item?id=31797206</guid>
-            <pubDate>Sun, 19 Jun 2022 07:51:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to do rolling deployments without Kubernetes?]]></description>
         </item>
     </channel>
 </rss>
