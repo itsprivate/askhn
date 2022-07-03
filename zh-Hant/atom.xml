@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T21:25:16.436Z</updated>
+    <updated>2022-07-03T21:45:03.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[經濟模擬器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971236</id>
+        <link href="https://news.ycombinator.com/item?id=31971236"/>
+        <updated>2022-07-03T21:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Economy Simulator]]></summary>
+        <author>
+            <name>brandoncarl</name>
+            <uri>https://news.ycombinator.com/user?id=brandoncarl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰能向我解釋一下什麼是 "邊緣"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970991</id>
+        <link href="https://news.ycombinator.com/item?id=31970991"/>
+        <updated>2022-07-03T20:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could someone explain to me what's “the edge”?]]></summary>
+        <author>
+            <name>letMeShowU</name>
+            <uri>https://news.ycombinator.com/user?id=letMeShowU</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你看來，哪個社交媒體應用的設計最好？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>collegeburner</name>
             <uri>https://news.ycombinator.com/user?id=collegeburner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的軟件工程實用指南是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31801827</id>
-        <link href="https://news.ycombinator.com/item?id=31801827"/>
-        <updated>2022-06-19T18:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your favorite practical guides to software engineering?]]></summary>
-        <author>
-            <name>rsr</name>
-            <uri>https://news.ycombinator.com/user?id=rsr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從頭開始學習數學證明？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31800081</id>
-        <link href="https://news.ycombinator.com/item?id=31800081"/>
-        <updated>2022-06-19T15:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to learn mathematical proofs from scratch?]]></summary>
-        <author>
-            <name>greymalik</name>
-            <uri>https://news.ycombinator.com/user?id=greymalik</uri>
         </author>
     </entry>
 </feed>
