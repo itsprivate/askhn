@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T22:45:43.739Z</updated>
+    <updated>2022-07-03T23:26:53.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些好的Raspberry Pi替代品是有库存的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971744</id>
+        <link href="https://news.ycombinator.com/item?id=31971744"/>
+        <updated>2022-07-03T23:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are good Raspberry Pi alternatives that are in stock?]]></summary>
+        <author>
+            <name>0des</name>
+            <uri>https://news.ycombinator.com/user?id=0des</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么HN和Reddit不使用PageRank来对提交的文件和用户进行排名？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aaronaltamura</name>
             <uri>https://news.ycombinator.com/user?id=aaronaltamura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30多岁，"资深 "软件工程师，但我的编程能力很差
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802502</id>
-        <link href="https://news.ycombinator.com/item?id=31802502"/>
-        <updated>2022-06-19T19:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: 30s and “senior” software engineer, but I suck at programming]]></summary>
-        <author>
-            <name>yamisobad</name>
-            <uri>https://news.ycombinator.com/user?id=yamisobad</uri>
         </author>
     </entry>
 </feed>
