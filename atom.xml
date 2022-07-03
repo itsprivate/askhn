@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T21:57:49.049Z</updated>
+    <updated>2022-07-03T22:45:43.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么HN和Reddit不使用PageRank来对提交的文件和用户进行排名？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971607</id>
+        <link href="https://news.ycombinator.com/item?id=31971607"/>
+        <updated>2022-07-03T22:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't HN and Reddit use PageRank to rank submissions and users?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 "边缘"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971024</id>
+        <link href="https://news.ycombinator.com/item?id=31971024"/>
+        <updated>2022-07-03T21:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's “The Edge”?]]></summary>
+        <author>
+            <name>tangomango2</name>
+            <uri>https://news.ycombinator.com/user?id=tangomango2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么FB不断向我展示 "第一修正案审计 "视频？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yamisobad</name>
             <uri>https://news.ycombinator.com/user?id=yamisobad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的其他用途？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802314</id>
-        <link href="https://news.ycombinator.com/item?id=31802314"/>
-        <updated>2022-06-19T19:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Other Uses for GitHub?]]></summary>
-        <author>
-            <name>night-rider</name>
-            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在本地开发React+Flask，并能轻松部署？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802243</id>
-        <link href="https://news.ycombinator.com/item?id=31802243"/>
-        <updated>2022-06-19T18:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to develop React+Flask locally in a way that can easily be deployed?]]></summary>
-        <author>
-            <name>RSchaeffer</name>
-            <uri>https://news.ycombinator.com/user?id=RSchaeffer</uri>
         </author>
     </entry>
 </feed>

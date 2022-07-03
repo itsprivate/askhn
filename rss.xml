@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 03 Jul 2022 21:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 22:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么HN和Reddit不使用PageRank来对提交的文件和用户进行排名？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31971607</link>
+            <guid>https://news.ycombinator.com/item?id=31971607</guid>
+            <pubDate>Sun, 03 Jul 2022 22:39:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why don't HN and Reddit use PageRank to rank submissions and users?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是 "边缘"？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31971024</link>
+            <guid>https://news.ycombinator.com/item?id=31971024</guid>
+            <pubDate>Sun, 03 Jul 2022 21:04:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's “The Edge”?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么FB不断向我展示 "第一修正案审计 "视频？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31802502</guid>
             <pubDate>Sun, 19 Jun 2022 19:22:35 GMT</pubDate>
             <description><![CDATA[Ask HN: 30s and “senior” software engineer, but I suck at programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub的其他用途？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31802314</link>
-            <guid>https://news.ycombinator.com/item?id=31802314</guid>
-            <pubDate>Sun, 19 Jun 2022 19:03:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Other Uses for GitHub?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在本地开发React+Flask，并能轻松部署？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31802243</link>
-            <guid>https://news.ycombinator.com/item?id=31802243</guid>
-            <pubDate>Sun, 19 Jun 2022 18:55:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to develop React+Flask locally in a way that can easily be deployed?]]></description>
         </item>
     </channel>
 </rss>
