@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T23:26:53.738Z</updated>
+    <updated>2022-07-03T23:58:56.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[适合残疾人的最佳在线CS BS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31972043</id>
+        <link href="https://news.ycombinator.com/item?id=31972043"/>
+        <updated>2022-07-03T23:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best online CS BS for people with disability]]></summary>
+        <author>
+            <name>jak6jak</name>
+            <uri>https://news.ycombinator.com/user?id=jak6jak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些好的Raspberry Pi替代品是有库存的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Bubble_Pop_22</name>
             <uri>https://news.ycombinator.com/user?id=Bubble_Pop_22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术型联合创始人在加入创业公司时要注意和避免什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802759</id>
-        <link href="https://news.ycombinator.com/item?id=31802759"/>
-        <updated>2022-06-19T19:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do technical co-founders look for and avoid when joining a startup?]]></summary>
-        <author>
-            <name>aaronaltamura</name>
-            <uri>https://news.ycombinator.com/user?id=aaronaltamura</uri>
         </author>
     </entry>
 </feed>
