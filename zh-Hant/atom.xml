@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T07:25:51.664Z</updated>
+    <updated>2022-07-03T07:43:38.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在向我的CEO介紹一個新的產品理念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965839</id>
+        <link href="https://news.ycombinator.com/item?id=31965839"/>
+        <updated>2022-07-03T07:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I am pitching a new product idea to my CEO]]></summary>
+        <author>
+            <name>gogo61</name>
+            <uri>https://news.ycombinator.com/user?id=gogo61</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vlang vs. Zig vs. Dlang vs. Assemblyscript vs. Haxe vs. EC
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ghoward</name>
             <uri>https://news.ycombinator.com/user?id=ghoward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeetCode只是為了好玩？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792144</id>
-        <link href="https://news.ycombinator.com/item?id=31792144"/>
-        <updated>2022-06-18T17:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: LeetCode Just for Fun?]]></summary>
-        <author>
-            <name>legrande</name>
-            <uri>https://news.ycombinator.com/user?id=legrande</uri>
         </author>
     </entry>
 </feed>
