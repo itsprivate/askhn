@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T05:24:32.592Z</updated>
+    <updated>2022-07-03T05:44:12.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[究竟什麼是正念冥想？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965367</id>
+        <link href="https://news.ycombinator.com/item?id=31965367"/>
+        <updated>2022-07-03T05:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What exactly Is a Mindfulness Meditation?]]></summary>
+        <author>
+            <name>aristofun</name>
+            <uri>https://news.ycombinator.com/user?id=aristofun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到對Elasticsearch感興趣的客戶？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在有計算障礙的情況下成功投資？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31791233</id>
-        <link href="https://news.ycombinator.com/item?id=31791233"/>
-        <updated>2022-06-18T16:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to successfully invest despite dyscalculia?]]></summary>
-        <author>
-            <name>pzmarzly</name>
-            <uri>https://news.ycombinator.com/user?id=pzmarzly</uri>
         </author>
     </entry>
 </feed>
