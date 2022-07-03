@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T21:45:03.376Z</updated>
+    <updated>2022-07-03T21:57:49.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么FB不断向我展示 "第一修正案审计 "视频？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971276</id>
+        <link href="https://news.ycombinator.com/item?id=31971276"/>
+        <updated>2022-07-03T21:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is FB constantly showing me “First Amendment audit” videos?]]></summary>
+        <author>
+            <name>mondayp</name>
+            <uri>https://news.ycombinator.com/user?id=mondayp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经济模拟器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RSchaeffer</name>
             <uri>https://news.ycombinator.com/user?id=RSchaeffer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何绕过GDPR？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802148</id>
-        <link href="https://news.ycombinator.com/item?id=31802148"/>
-        <updated>2022-06-19T18:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Get Around GDPR?]]></summary>
-        <author>
-            <name>collegeburner</name>
-            <uri>https://news.ycombinator.com/user?id=collegeburner</uri>
         </author>
     </entry>
 </feed>
