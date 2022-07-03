@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T19:57:46.257Z</updated>
+    <updated>2022-07-03T21:25:16.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你看来，哪个社交媒体应用的设计最好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971019</id>
+        <link href="https://news.ycombinator.com/item?id=31971019"/>
+        <updated>2022-07-03T21:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which social media app has the best design in your opinion?]]></summary>
+        <author>
+            <name>nikolqy</name>
+            <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你用什么来进行家长控制？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971016</id>
+        <link href="https://news.ycombinator.com/item?id=31971016"/>
+        <updated>2022-07-03T21:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use for parental control?]]></summary>
+        <author>
+            <name>MKais</name>
+            <uri>https://news.ycombinator.com/user?id=MKais</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub + OpenAI + 开源软件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>greymalik</name>
             <uri>https://news.ycombinator.com/user?id=greymalik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有审查的HN
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799792</id>
-        <link href="https://news.ycombinator.com/item?id=31799792"/>
-        <updated>2022-06-19T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: HN Without the Censorship]]></summary>
-        <author>
-            <name>0daystock</name>
-            <uri>https://news.ycombinator.com/user?id=0daystock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何不依赖JavaScript的网络图形库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799463</id>
-        <link href="https://news.ycombinator.com/item?id=31799463"/>
-        <updated>2022-06-19T14:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any web graphing libraries that don't rely on JavaScript?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
         </author>
     </entry>
 </feed>
