@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T12:57:49.341Z</updated>
+    <updated>2022-07-04T13:49:40.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次当爸爸的人。你希望你当时知道什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976803</id>
+        <link href="https://news.ycombinator.com/item?id=31976803"/>
+        <updated>2022-07-04T13:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: First-time dad-to-be. What do you wish you'd known back then?]]></summary>
+        <author>
+            <name>lllllll0</name>
+            <uri>https://news.ycombinator.com/user?id=lllllll0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三角洲湖与其他湖泊（如雪花湖等）的比较
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976780</id>
+        <link href="https://news.ycombinator.com/item?id=31976780"/>
+        <updated>2022-07-04T13:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Delta Lake vs. others (e.g. Snowflake etc.)]]></summary>
+        <author>
+            <name>91dylwyn</name>
+            <uri>https://news.ycombinator.com/user?id=91dylwyn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该学习Rust还是Go？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>CodeSgt</name>
             <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无服务器是否已经成熟到足以创建面向用户的API？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31810532</id>
-        <link href="https://news.ycombinator.com/item?id=31810532"/>
-        <updated>2022-06-20T14:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has serverless matured enough for creating user facing APIs?]]></summary>
-        <author>
-            <name>ankush38u</name>
-            <uri>https://news.ycombinator.com/user?id=ankush38u</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与纽约市的黑客伙伴们联系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31810488</id>
-        <link href="https://news.ycombinator.com/item?id=31810488"/>
-        <updated>2022-06-20T14:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Connecting with Fellow Hackers in NYC]]></summary>
-        <author>
-            <name>teekay</name>
-            <uri>https://news.ycombinator.com/user?id=teekay</uri>
         </author>
     </entry>
 </feed>
