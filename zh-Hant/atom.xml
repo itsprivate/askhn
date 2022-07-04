@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T19:00:39.973Z</updated>
+    <updated>2022-07-04T19:24:54.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最討厭代碼審查中的什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31980569</id>
+        <link href="https://news.ycombinator.com/item?id=31980569"/>
+        <updated>2022-07-04T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you hate most about code reviews?]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對只進行黑白攝影的相機的建議？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aruanavekar</name>
             <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專門用於UI開發的GitHub Copilot
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814474</id>
-        <link href="https://news.ycombinator.com/item?id=31814474"/>
-        <updated>2022-06-20T19:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Specialised GitHub Copilot for UI Development]]></summary>
-        <author>
-            <name>dennisy</name>
-            <uri>https://news.ycombinator.com/user?id=dennisy</uri>
         </author>
     </entry>
 </feed>
