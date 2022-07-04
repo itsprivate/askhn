@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T21:47:02.052Z</updated>
+    <updated>2022-07-04T23:27:33.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在审查第三方依赖关系时，你要注意什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982584</id>
+        <link href="https://news.ycombinator.com/item?id=31982584"/>
+        <updated>2022-07-04T23:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you look for when reviewing 3rd party dependencies?]]></summary>
+        <author>
+            <name>diggan</name>
+            <uri>https://news.ycombinator.com/user?id=diggan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人考虑过为面试官带来一个编码练习？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>L0in</name>
             <uri>https://news.ycombinator.com/user?id=L0in</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阻止所有政治内容出现在网上？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31815880</id>
-        <link href="https://news.ycombinator.com/item?id=31815880"/>
-        <updated>2022-06-20T21:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to block all political content from showing up online?]]></summary>
-        <author>
-            <name>fluffystub</name>
-            <uri>https://news.ycombinator.com/user?id=fluffystub</uri>
         </author>
     </entry>
 </feed>
