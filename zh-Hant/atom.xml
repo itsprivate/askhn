@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T07:30:12.143Z</updated>
+    <updated>2022-07-04T07:46:02.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何推動一個使用舊技術的企業前進？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974447</id>
+        <link href="https://news.ycombinator.com/item?id=31974447"/>
+        <updated>2022-07-04T07:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you move a business forward that's using old tech?]]></summary>
+        <author>
+            <name>artificialLimbs</name>
+            <uri>https://news.ycombinator.com/user?id=artificialLimbs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰知道最便宜的網站建設者？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>trifit</name>
             <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase會持久嗎？[來華實習生]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806155</id>
-        <link href="https://news.ycombinator.com/item?id=31806155"/>
-        <updated>2022-06-20T04:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Will Coinbase Last? [Incoming Intern]]]></summary>
-        <author>
-            <name>Hchanni</name>
-            <uri>https://news.ycombinator.com/user?id=Hchanni</uri>
         </author>
     </entry>
 </feed>
