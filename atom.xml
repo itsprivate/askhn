@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T09:49:15.156Z</updated>
+    <updated>2022-07-04T10:48:59.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[竞争对手能追上苹果硅吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31975600</id>
+        <link href="https://news.ycombinator.com/item?id=31975600"/>
+        <updated>2022-07-04T10:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can competitors catch up to Apple Silicon?]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个平台团队，你衡量哪些投入/产出指标？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31975356</id>
+        <link href="https://news.ycombinator.com/item?id=31975356"/>
+        <updated>2022-07-04T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What input/output metrics do you measure as a platform team?]]></summary>
+        <author>
+            <name>flxngll</name>
+            <uri>https://news.ycombinator.com/user?id=flxngll</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在2022年没有启用IPv6，错过了什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>endorphine</name>
             <uri>https://news.ycombinator.com/user?id=endorphine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般来说，数学和物理学之间有什么区别？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31808998</id>
-        <link href="https://news.ycombinator.com/item?id=31808998"/>
-        <updated>2022-06-20T11:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the difference between Mathematics and Physics in general?]]></summary>
-        <author>
-            <name>eimrine</name>
-            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python的OOP与Lisp的CLOS相比有什么优势？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31808632</id>
-        <link href="https://news.ycombinator.com/item?id=31808632"/>
-        <updated>2022-06-20T10:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is Python's OOP is superior vs. Lisp CLOS?]]></summary>
-        <author>
-            <name>stealthcat</name>
-            <uri>https://news.ycombinator.com/user?id=stealthcat</uri>
         </author>
     </entry>
 </feed>
