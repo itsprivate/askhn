@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T10:48:59.131Z</updated>
+    <updated>2022-07-04T11:57:22.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小費經濟已經轉移到了數字世界？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976036</id>
+        <link href="https://news.ycombinator.com/item?id=31976036"/>
+        <updated>2022-07-04T11:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has tip economy moved to the digital world?]]></summary>
+        <author>
+            <name>itchyjunk</name>
+            <uri>https://news.ycombinator.com/user?id=itchyjunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[競爭對手能追上蘋果硅嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經建立了一個所謂有用的網站。現在我如何讓它為人所知？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31809104</id>
-        <link href="https://news.ycombinator.com/item?id=31809104"/>
-        <updated>2022-06-20T11:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I've built a supposedly useful site. Now how do I make it known?]]></summary>
-        <author>
-            <name>endorphine</name>
-            <uri>https://news.ycombinator.com/user?id=endorphine</uri>
         </author>
     </entry>
 </feed>
