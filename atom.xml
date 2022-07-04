@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T15:32:25.470Z</updated>
+    <updated>2022-07-04T15:52:09.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们有多少人刻意佩戴不是智能手表的手表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978206</id>
+        <link href="https://news.ycombinator.com/item?id=31978206"/>
+        <updated>2022-07-04T15:37:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many of you delibrately wear a watch that isn't a smart watch?]]></summary>
+        <author>
+            <name>ZanyProgrammer</name>
+            <uri>https://news.ycombinator.com/user?id=ZanyProgrammer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有任何远程招聘网站提供没有任何地点障碍的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978175</id>
+        <link href="https://news.ycombinator.com/item?id=31978175"/>
+        <updated>2022-07-04T15:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any remote job board for jobs without any location barrier?]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本科生在CS以外的其他领域的研究经历是否有用？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>throw1138</name>
             <uri>https://news.ycombinator.com/user?id=throw1138</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是每日增量备份的好媒介？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812219</id>
-        <link href="https://news.ycombinator.com/item?id=31812219"/>
-        <updated>2022-06-20T16:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is a good medium for daily incremental backups?]]></summary>
-        <author>
-            <name>JonathanBeuys</name>
-            <uri>https://news.ycombinator.com/user?id=JonathanBeuys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何等待来自不同进程的事件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31811880</id>
-        <link href="https://news.ycombinator.com/item?id=31811880"/>
-        <updated>2022-06-20T15:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you wait for events from different processes?]]></summary>
-        <author>
-            <name>Siecje</name>
-            <uri>https://news.ycombinator.com/user?id=Siecje</uri>
         </author>
     </entry>
 </feed>
