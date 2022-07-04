@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-03T23:58:56.865Z</updated>
+    <updated>2022-07-04T02:42:51.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能找到我所好奇的東西呢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31972864</id>
+        <link href="https://news.ycombinator.com/item?id=31972864"/>
+        <updated>2022-07-04T02:22:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I find out what I am curious about?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[適合殘疾人的最佳在線CS BS
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實際上，"保險技術 "初創公司是做什麼的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803292</id>
-        <link href="https://news.ycombinator.com/item?id=31803292"/>
-        <updated>2022-06-19T20:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Practically speaking, what does an 'insuretech' startup do?]]></summary>
-        <author>
-            <name>Bubble_Pop_22</name>
-            <uri>https://news.ycombinator.com/user?id=Bubble_Pop_22</uri>
         </author>
     </entry>
 </feed>
