@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T21:25:18.573Z</updated>
+    <updated>2022-07-04T21:47:02.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人考慮過為面試官帶來一個編碼練習？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981963</id>
+        <link href="https://news.ycombinator.com/item?id=31981963"/>
+        <updated>2022-07-04T21:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone ever consider bringing a coding exercise for the interviewers]]></summary>
+        <author>
+            <name>ciwchris</name>
+            <uri>https://news.ycombinator.com/user?id=ciwchris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習更多的SQL或其他語言是否更有意義？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fluffystub</name>
             <uri>https://news.ycombinator.com/user?id=fluffystub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要用id作為翻譯字符串？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31815151</id>
-        <link href="https://news.ycombinator.com/item?id=31815151"/>
-        <updated>2022-06-20T20:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you use ids as translation strings?]]></summary>
-        <author>
-            <name>withinboredom</name>
-            <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
         </author>
     </entry>
 </feed>
