@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T14:58:10.889Z</updated>
+    <updated>2022-07-04T15:32:25.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本科生在CS以外的其他领域的研究经历是否有用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977889</id>
+        <link href="https://news.ycombinator.com/item?id=31977889"/>
+        <updated>2022-07-04T15:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is an undergrad research experience in something other than CS useful?]]></summary>
+        <author>
+            <name>noobermin</name>
+            <uri>https://news.ycombinator.com/user?id=noobermin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有致力于改善或重塑民主的初创企业？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Siecje</name>
             <uri>https://news.ycombinator.com/user?id=Siecje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何设计你的头发的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31811832</id>
-        <link href="https://news.ycombinator.com/item?id=31811832"/>
-        <updated>2022-06-20T15:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you style your hair?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
         </author>
     </entry>
 </feed>
