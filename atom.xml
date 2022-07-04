@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T17:43:26.427Z</updated>
+    <updated>2022-07-04T19:00:39.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对只进行黑白摄影的相机的建议？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31979983</id>
+        <link href="https://news.ycombinator.com/item?id=31979983"/>
+        <updated>2022-07-04T17:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice on camera for black and white only photography?]]></summary>
+        <author>
+            <name>nlnn</name>
+            <uri>https://news.ycombinator.com/user?id=nlnn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何保持专注？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dennisy</name>
             <uri>https://news.ycombinator.com/user?id=dennisy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁从一台家用电脑上运行一个拥有数百万用户的服务？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813285</id>
-        <link href="https://news.ycombinator.com/item?id=31813285"/>
-        <updated>2022-06-20T17:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone run a service with millions of users from one home computer?]]></summary>
-        <author>
-            <name>launchiterate</name>
-            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
         </author>
     </entry>
 </feed>
