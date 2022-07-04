@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-04T02:42:51.613Z</updated>
+    <updated>2022-07-04T04:08:38.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在$DAYJOB使用可组合的基础设施吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31973333</id>
+        <link href="https://news.ycombinator.com/item?id=31973333"/>
+        <updated>2022-07-04T03:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you using composable infrastructure at $DAYJOB?]]></summary>
+        <author>
+            <name>hardwaresofton</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么ICANN给我的网站发送了这么多流量？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31972927</id>
+        <link href="https://news.ycombinator.com/item?id=31972927"/>
+        <updated>2022-07-04T02:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is ICANN sending my site so much traffic?]]></summary>
+        <author>
+            <name>liambowen</name>
+            <uri>https://news.ycombinator.com/user?id=liambowen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎样才能找到我所好奇的东西呢？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>withinboredom</name>
             <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有高级开发人员喜欢从静态类型切换到动态类型？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31804221</id>
-        <link href="https://news.ycombinator.com/item?id=31804221"/>
-        <updated>2022-06-19T22:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there senior devs who liked switching from static to dynamic typing?]]></summary>
-        <author>
-            <name>joeldo</name>
-            <uri>https://news.ycombinator.com/user?id=joeldo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人机交互研究对舞台管理器的可用性有什么看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803886</id>
-        <link href="https://news.ycombinator.com/item?id=31803886"/>
-        <updated>2022-06-19T21:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does HCI research say about the usability of Stage Manager?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
