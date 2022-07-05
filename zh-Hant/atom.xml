@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T15:35:56.188Z</updated>
+    <updated>2022-07-05T16:49:13.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[試圖弄清楚這家公司是否與Y Combinator有關？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31990438</id>
+        <link href="https://news.ycombinator.com/item?id=31990438"/>
+        <updated>2022-07-05T16:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Trying to figure out if this company is related to Y Combinator?]]></summary>
+        <author>
+            <name>johnnyApplePRNG</name>
+            <uri>https://news.ycombinator.com/user?id=johnnyApplePRNG</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在生孩子有什麼好處？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pvinis</name>
             <uri>https://news.ycombinator.com/user?id=pvinis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼公制中位數不如平均數受歡迎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31822649</id>
-        <link href="https://news.ycombinator.com/item?id=31822649"/>
-        <updated>2022-06-21T11:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the metric Median less popular than Average?]]></summary>
-        <author>
-            <name>butterNaN</name>
-            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
         </author>
     </entry>
 </feed>
