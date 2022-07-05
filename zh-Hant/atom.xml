@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T09:28:11.196Z</updated>
+    <updated>2022-07-05T09:48:07.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的個人學習的工作流程是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986213</id>
+        <link href="https://news.ycombinator.com/item?id=31986213"/>
+        <updated>2022-07-05T09:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your workflow for personal learning?]]></summary>
+        <author>
+            <name>greatatuin</name>
+            <uri>https://news.ycombinator.com/user?id=greatatuin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HNReplies是否只是在通知中添加了一些顏色突出顯示？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>roflyear</name>
             <uri>https://news.ycombinator.com/user?id=roflyear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個90天 高級工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31819066</id>
-        <link href="https://news.ycombinator.com/item?id=31819066"/>
-        <updated>2022-06-21T02:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: First 90 Days Senior Engineer]]></summary>
-        <author>
-            <name>StoicMonkey</name>
-            <uri>https://news.ycombinator.com/user?id=StoicMonkey</uri>
         </author>
     </entry>
 </feed>
