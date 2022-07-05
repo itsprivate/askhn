@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T09:04:31.458Z</updated>
+    <updated>2022-07-05T09:28:11.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HNReplies是否只是在通知中添加了一些顏色突出顯示？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986007</id>
+        <link href="https://news.ycombinator.com/item?id=31986007"/>
+        <updated>2022-07-05T09:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did HNReplies just add some colour highlighting to notifications?]]></summary>
+        <author>
+            <name>Akronymus</name>
+            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獲取Telegram頻道視頻文件的鏈接
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>StoicMonkey</name>
             <uri>https://news.ycombinator.com/user?id=StoicMonkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初創企業應該有一個董事會嗎？如果是，該給他們什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31818645</id>
-        <link href="https://news.ycombinator.com/item?id=31818645"/>
-        <updated>2022-06-21T01:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should a startup have a Board of Directors? If yes, what to give them?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
