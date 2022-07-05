@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T16:49:13.789Z</updated>
+    <updated>2022-07-05T17:20:23.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你见过的最令人印象深刻的VanillaJS网络应用是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31990589</id>
+        <link href="https://news.ycombinator.com/item?id=31990589"/>
+        <updated>2022-07-05T16:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the most impressive VanillaJS web apps you've seen?]]></summary>
+        <author>
+            <name>asciiresort</name>
+            <uri>https://news.ycombinator.com/user?id=asciiresort</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有谁记得一个笑话/备忘录社交网络，做了一件事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31990580</id>
+        <link href="https://news.ycombinator.com/item?id=31990580"/>
+        <updated>2022-07-05T16:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone remember a joke / meme social network that did one thing?]]></summary>
+        <author>
+            <name>trickjarrett</name>
+            <uri>https://news.ycombinator.com/user?id=trickjarrett</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[试图弄清楚这家公司是否与Y Combinator有关？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tcgv</name>
             <uri>https://news.ycombinator.com/user?id=tcgv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(如何)我应该将其货币化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31823303</id>
-        <link href="https://news.ycombinator.com/item?id=31823303"/>
-        <updated>2022-06-21T12:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: (How) Should I monetize this?]]></summary>
-        <author>
-            <name>fresh2dev</name>
-            <uri>https://news.ycombinator.com/user?id=fresh2dev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你经常使用虚拟机做什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31822932</id>
-        <link href="https://news.ycombinator.com/item?id=31822932"/>
-        <updated>2022-06-21T12:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use VMs for regularly?]]></summary>
-        <author>
-            <name>pvinis</name>
-            <uri>https://news.ycombinator.com/user?id=pvinis</uri>
         </author>
     </entry>
 </feed>
