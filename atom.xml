@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T13:57:21.553Z</updated>
+    <updated>2022-07-05T14:32:36.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我学习IT/编程/网络安全的动机会不会是被误导了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988486</id>
+        <link href="https://news.ycombinator.com/item?id=31988486"/>
+        <updated>2022-07-05T14:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could my motivation to learn IT/Programming/Cybersecurity be misguided?]]></summary>
+        <author>
+            <name>Peach_blue</name>
+            <uri>https://news.ycombinator.com/user?id=Peach_blue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你更愿意谈论什么，"公平/不公平 "还是 "酷/不酷"？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ayushchat</name>
             <uri>https://news.ycombinator.com/user?id=ayushchat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何看待职称膨胀？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31820086</id>
-        <link href="https://news.ycombinator.com/item?id=31820086"/>
-        <updated>2022-06-21T05:02:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think about title inflation?]]></summary>
-        <author>
-            <name>brunooliv</name>
-            <uri>https://news.ycombinator.com/user?id=brunooliv</uri>
         </author>
     </entry>
 </feed>
