@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T07:57:59.615Z</updated>
+    <updated>2022-07-05T08:37:24.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[要安裝什麼Linux發行版？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985622</id>
+        <link href="https://news.ycombinator.com/item?id=31985622"/>
+        <updated>2022-07-05T08:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Linux distro to install?]]></summary>
+        <author>
+            <name>lawgimenez</name>
+            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何宣傳和推出你的書的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985585</id>
+        <link href="https://news.ycombinator.com/item?id=31985585"/>
+        <updated>2022-07-05T07:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you promote and launch your book?]]></summary>
+        <author>
+            <name>KingOfCoders</name>
+            <uri>https://news.ycombinator.com/user?id=KingOfCoders</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PWA的狀況？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>entityresq</name>
             <uri>https://news.ycombinator.com/user?id=entityresq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何阻止你的創作被濫用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817992</id>
-        <link href="https://news.ycombinator.com/item?id=31817992"/>
-        <updated>2022-06-21T00:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you stop your creations from being misused?]]></summary>
-        <author>
-            <name>throwaway54342</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway54342</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望看到的哪個內容利基目前沒有得到滿足？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817932</id>
-        <link href="https://news.ycombinator.com/item?id=31817932"/>
-        <updated>2022-06-21T00:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What content niche would you like to see isn't currently fulfilled?]]></summary>
-        <author>
-            <name>CodeSgt</name>
-            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
         </author>
     </entry>
 </feed>
