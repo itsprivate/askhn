@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 18:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN的用户界面多年来一直没有改变，这是一种优势吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31991675</link>
+            <guid>https://news.ycombinator.com/item?id=31991675</guid>
+            <pubDate>Tue, 05 Jul 2022 18:10:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it a strength that HN's UI has not changed over many years?]]></description>
+        </item>
         <item>
             <title><![CDATA[你如何判断广告网络是否损害了你的Tor？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31824110</guid>
             <pubDate>Tue, 21 Jun 2022 14:06:37 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone else getting HTTP 403's when browsing HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我如何确定Open Core Legacy Patcher是否值得信赖？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31823892</link>
-            <guid>https://news.ycombinator.com/item?id=31823892</guid>
-            <pubDate>Tue, 21 Jun 2022 13:46:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do I determine whether Open Core Legacy Patcher is trustworthy?]]></description>
         </item>
     </channel>
 </rss>
