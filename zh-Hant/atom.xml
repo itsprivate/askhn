@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T20:34:47.920Z</updated>
+    <updated>2022-07-05T20:48:30.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[刪除谷歌分析是否會使網站在谷歌搜索中受到懲罰？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993278</id>
+        <link href="https://news.ycombinator.com/item?id=31993278"/>
+        <updated>2022-07-05T20:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does removing Google Analytics penalise a website in Google search?]]></summary>
+        <author>
+            <name>googanalytical</name>
+            <uri>https://news.ycombinator.com/user?id=googanalytical</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對好的開發者會議的推薦？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sp33der89</name>
             <uri>https://news.ycombinator.com/user?id=sp33der89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪裡可以找到開源項目的技術寫作機會？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31825538</id>
-        <link href="https://news.ycombinator.com/item?id=31825538"/>
-        <updated>2022-06-21T16:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do I find technical writing opportunities on open source projects?]]></summary>
-        <author>
-            <name>tbwriting</name>
-            <uri>https://news.ycombinator.com/user?id=tbwriting</uri>
         </author>
     </entry>
 </feed>

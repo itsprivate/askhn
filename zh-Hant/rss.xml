@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Jul 2022 20:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 20:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[刪除谷歌分析是否會使網站在谷歌搜索中受到懲罰？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31993278</link>
+            <guid>https://news.ycombinator.com/item?id=31993278</guid>
+            <pubDate>Tue, 05 Jul 2022 20:27:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does removing Google Analytics penalise a website in Google search?]]></description>
+        </item>
         <item>
             <title><![CDATA[對好的開發者會議的推薦？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31825753</guid>
             <pubDate>Tue, 21 Jun 2022 16:24:07 GMT</pubDate>
             <description><![CDATA[Ask HN: JDK 17 or .NET 6 for a greenfield project?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在哪裡可以找到開源項目的技術寫作機會？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31825538</link>
-            <guid>https://news.ycombinator.com/item?id=31825538</guid>
-            <pubDate>Tue, 21 Jun 2022 16:05:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where do I find technical writing opportunities on open source projects?]]></description>
         </item>
     </channel>
 </rss>
