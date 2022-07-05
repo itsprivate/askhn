@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T09:48:07.153Z</updated>
+    <updated>2022-07-05T11:28:49.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么MS拼写检查器将一些日常表达方式标记为不好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986725</id>
+        <link href="https://news.ycombinator.com/item?id=31986725"/>
+        <updated>2022-07-05T11:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does the MS spellchecker flag some everyday expressions as bad?]]></summary>
+        <author>
+            <name>acadapter</name>
+            <uri>https://news.ycombinator.com/user?id=acadapter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的个人学习的工作流程是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rassle</name>
             <uri>https://news.ycombinator.com/user?id=rassle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果硬件问题的增加？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31819117</id>
-        <link href="https://news.ycombinator.com/item?id=31819117"/>
-        <updated>2022-06-21T02:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Increasing of Apple Hardware Issues?]]></summary>
-        <author>
-            <name>roflyear</name>
-            <uri>https://news.ycombinator.com/user?id=roflyear</uri>
         </author>
     </entry>
 </feed>
