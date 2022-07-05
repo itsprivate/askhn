@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 05 Jul 2022 20:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 21:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們是否應該遷移到像Auth0這樣的東西？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31992865</link>
+            <guid>https://news.ycombinator.com/item?id=31992865</guid>
+            <pubDate>Tue, 05 Jul 2022 19:52:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should we migrate to something like Auth0?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當你是一個不寫代碼的軟件開發人員時，你該怎麼辦？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31990737</link>
+            <guid>https://news.ycombinator.com/item?id=31990737</guid>
+            <pubDate>Tue, 05 Jul 2022 16:59:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you do when you’re a Software Developer who doesn’t code?]]></description>
+        </item>
         <item>
             <title><![CDATA[刪除谷歌分析是否會使網站在谷歌搜索中受到懲罰？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31826944</guid>
             <pubDate>Tue, 21 Jun 2022 17:50:09 GMT</pubDate>
             <description><![CDATA[Ask HN: Is scientific facts more important than scientific thinking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我怎樣才能刪除一個假的LinkedIn資料？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31826449</link>
-            <guid>https://news.ycombinator.com/item?id=31826449</guid>
-            <pubDate>Tue, 21 Jun 2022 17:09:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I delete a fake LinkedIn profile?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[綠地項目用JDK 17還是.NET 6？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31825753</link>
-            <guid>https://news.ycombinator.com/item?id=31825753</guid>
-            <pubDate>Tue, 21 Jun 2022 16:24:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: JDK 17 or .NET 6 for a greenfield project?]]></description>
         </item>
     </channel>
 </rss>
