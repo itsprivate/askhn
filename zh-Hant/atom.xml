@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T21:30:41.739Z</updated>
+    <updated>2022-07-05T21:59:18.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[觸摸欄是否阻礙你購買13英寸MacBook Pro？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994136</id>
+        <link href="https://news.ycombinator.com/item?id=31994136"/>
+        <updated>2022-07-05T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the Touch Bar preventing you from buying the 13in MacBook Pro?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人LinkedIn的替代品？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>3maj</name>
             <uri>https://news.ycombinator.com/user?id=3maj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的組織使用的最好的開源工具是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827604</id>
-        <link href="https://news.ycombinator.com/item?id=31827604"/>
-        <updated>2022-06-21T18:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best open source tools your organization uses?]]></summary>
-        <author>
-            <name>a0zU</name>
-            <uri>https://news.ycombinator.com/user?id=a0zU</uri>
         </author>
     </entry>
 </feed>
