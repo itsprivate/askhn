@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T19:45:57.368Z</updated>
+    <updated>2022-07-05T20:34:47.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对好的开发者会议的推荐？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992974</id>
+        <link href="https://news.ycombinator.com/item?id=31992974"/>
+        <updated>2022-07-05T20:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations for Good Developer Conferences?]]></summary>
+        <author>
+            <name>shreythecray</name>
+            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么油价在下降，但油价却没有变化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992952</id>
+        <link href="https://news.ycombinator.com/item?id=31992952"/>
+        <updated>2022-07-05T19:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why oil prices are going down but gas prices are still the same?]]></summary>
+        <author>
+            <name>theseobosscom</name>
+            <uri>https://news.ycombinator.com/user?id=theseobosscom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对SaaS的直接邮件营销的建议？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tbwriting</name>
             <uri>https://news.ycombinator.com/user?id=tbwriting</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare的替代产品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824735</id>
-        <link href="https://news.ycombinator.com/item?id=31824735"/>
-        <updated>2022-06-21T15:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternatives to Cloudflare?]]></summary>
-        <author>
-            <name>mproud</name>
-            <uri>https://news.ycombinator.com/user?id=mproud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[替代Keybase的端到端加密的Git？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824608</id>
-        <link href="https://news.ycombinator.com/item?id=31824608"/>
-        <updated>2022-06-21T14:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternative for Keybase's end-to-end-encrypted Git?]]></summary>
-        <author>
-            <name>kreetx</name>
-            <uri>https://news.ycombinator.com/user?id=kreetx</uri>
         </author>
     </entry>
 </feed>
