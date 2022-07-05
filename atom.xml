@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T02:34:38.397Z</updated>
+    <updated>2022-07-05T05:39:11.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[下一个图灵测试会是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984568</id>
+        <link href="https://news.ycombinator.com/item?id=31984568"/>
+        <updated>2022-07-05T05:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What will be the next Turing Test?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有助于提高我的风险胃口的游戏？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>p3nm8</name>
             <uri>https://news.ycombinator.com/user?id=p3nm8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 "经验年限 "的真正定义？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31816622</id>
-        <link href="https://news.ycombinator.com/item?id=31816622"/>
-        <updated>2022-06-20T21:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the real definition of “Years of Experience”?]]></summary>
-        <author>
-            <name>bchase</name>
-            <uri>https://news.ycombinator.com/user?id=bchase</uri>
         </author>
     </entry>
 </feed>
