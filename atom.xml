@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T05:39:11.648Z</updated>
+    <updated>2022-07-05T06:35:36.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否熟悉转归的概念？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984983</id>
+        <link href="https://news.ycombinator.com/item?id=31984983"/>
+        <updated>2022-07-05T06:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you familiar with the idea of transclusion?]]></summary>
+        <author>
+            <name>zhangruinan</name>
+            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌有那么糟糕吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984881</id>
+        <link href="https://news.ycombinator.com/item?id=31984881"/>
+        <updated>2022-07-05T06:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Google That Bad?]]></summary>
+        <author>
+            <name>gizmore</name>
+            <uri>https://news.ycombinator.com/user?id=gizmore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下一个图灵测试会是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>KennyFromIT</name>
             <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeReal显示谁在不通知用户的情况下进行截图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31816377</id>
-        <link href="https://news.ycombinator.com/item?id=31816377"/>
-        <updated>2022-06-20T21:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: BeReal Shows Who Takes Screenshots with No Notice to Users]]></summary>
-        <author>
-            <name>jenthoven</name>
-            <uri>https://news.ycombinator.com/user?id=jenthoven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源银行应用程序的影响？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31816680</id>
-        <link href="https://news.ycombinator.com/item?id=31816680"/>
-        <updated>2022-06-20T22:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Implications of open-source banking apps?]]></summary>
-        <author>
-            <name>p3nm8</name>
-            <uri>https://news.ycombinator.com/user?id=p3nm8</uri>
         </author>
     </entry>
 </feed>
