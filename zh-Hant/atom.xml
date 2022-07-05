@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-05T06:55:56.879Z</updated>
+    <updated>2022-07-05T07:57:59.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PWA的狀況？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985526</id>
+        <link href="https://news.ycombinator.com/item?id=31985526"/>
+        <updated>2022-07-05T07:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: State of PWA?]]></summary>
+        <author>
+            <name>jstummbillig</name>
+            <uri>https://news.ycombinator.com/user?id=jstummbillig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開源的內容庫，以替代流媒體訂閱？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985471</id>
+        <link href="https://news.ycombinator.com/item?id=31985471"/>
+        <updated>2022-07-05T07:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Open-source content library for an alt. to streaming subscriptions?]]></summary>
+        <author>
+            <name>cdolan</name>
+            <uri>https://news.ycombinator.com/user?id=cdolan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何託管自己的名字服務器？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>CodeSgt</name>
             <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何才能為我的軟件開發公司獲得客戶？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817887</id>
-        <link href="https://news.ycombinator.com/item?id=31817887"/>
-        <updated>2022-06-20T23:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Can I Get Clients for My Software Development Company?]]></summary>
-        <author>
-            <name>pacarvalho</name>
-            <uri>https://news.ycombinator.com/user?id=pacarvalho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的評論網站和渠道由人類來完成
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817628</id>
-        <link href="https://news.ycombinator.com/item?id=31817628"/>
-        <updated>2022-06-20T23:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good review sites and channels by humans]]></summary>
-        <author>
-            <name>GamerUncle</name>
-            <uri>https://news.ycombinator.com/user?id=GamerUncle</uri>
         </author>
     </entry>
 </feed>
