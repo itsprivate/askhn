@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T09:33:36.183Z</updated>
+    <updated>2022-07-06T10:02:46.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么人们总是指责他人？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998756</id>
+        <link href="https://news.ycombinator.com/item?id=31998756"/>
+        <updated>2022-07-06T09:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do people keep blaming others?]]></summary>
+        <author>
+            <name>garritfra</name>
+            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对 "软件开发与安全 "专业有什么看法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nicofo</name>
             <uri>https://news.ycombinator.com/user?id=nicofo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写作的 "GitHub Copilot"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833366</id>
-        <link href="https://news.ycombinator.com/item?id=31833366"/>
-        <updated>2022-06-22T08:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A “GitHub Copilot” for Writing?]]></summary>
-        <author>
-            <name>leobg</name>
-            <uri>https://news.ycombinator.com/user?id=leobg</uri>
         </author>
     </entry>
 </feed>
