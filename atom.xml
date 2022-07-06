@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T14:12:08.472Z</updated>
+    <updated>2022-07-06T15:01:51.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[产生反向链接的有效方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32001852</id>
+        <link href="https://news.ycombinator.com/item?id=32001852"/>
+        <updated>2022-07-06T14:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Effective Methods to Generate Backlinks]]></summary>
+        <author>
+            <name>aruanavekar</name>
+            <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在什么时候，代码中代表金钱的变量会变成 "真实"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32001845</id>
+        <link href="https://news.ycombinator.com/item?id=32001845"/>
+        <updated>2022-07-06T14:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: At what point does variables that represent money in code become “real”?]]></summary>
+        <author>
+            <name>dondeee</name>
+            <uri>https://news.ycombinator.com/user?id=dondeee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该在资历上退一步吗？(Sen-mid)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memcg</name>
             <uri>https://news.ycombinator.com/user?id=memcg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否应该专门从事前端或后端全栈的工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31835119</id>
-        <link href="https://news.ycombinator.com/item?id=31835119"/>
-        <updated>2022-06-22T12:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I be specializing in either front end or back end as full-stack?]]></summary>
-        <author>
-            <name>yernarak</name>
-            <uri>https://news.ycombinator.com/user?id=yernarak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们中有人在销售安卓应用时认真赚过钱吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31834895</id>
-        <link href="https://news.ycombinator.com/item?id=31834895"/>
-        <updated>2022-06-22T12:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone of you made any serious money selling Android apps?]]></summary>
-        <author>
-            <name>ghoomketu</name>
-            <uri>https://news.ycombinator.com/user?id=ghoomketu</uri>
         </author>
     </entry>
 </feed>
