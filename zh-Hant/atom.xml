@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T21:47:37.972Z</updated>
+    <updated>2022-07-06T22:29:45.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[失去了獨自做所有事情的動力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32007321</id>
+        <link href="https://news.ycombinator.com/item?id=32007321"/>
+        <updated>2022-07-06T21:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Losing the drive to do everything alone]]></summary>
+        <author>
+            <name>bradlys</name>
+            <uri>https://news.ycombinator.com/user?id=bradlys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[到目前為止，您對NewSQL數據庫的經驗是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0des</name>
             <uri>https://news.ycombinator.com/user?id=0des</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼鍵盤？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31843736</id>
-        <link href="https://news.ycombinator.com/item?id=31843736"/>
-        <updated>2022-06-23T00:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What keyboard do you use?]]></summary>
-        <author>
-            <name>sys_64738</name>
-            <uri>https://news.ycombinator.com/user?id=sys_64738</uri>
         </author>
     </entry>
 </feed>
