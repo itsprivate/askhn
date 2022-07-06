@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Jul 2022 19:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 19:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你犯過的最大錯誤是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32005727</link>
+            <guid>https://news.ycombinator.com/item?id=32005727</guid>
+            <pubDate>Wed, 06 Jul 2022 19:35:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: The biggest mistake you have ever made?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的 status.heroku.com 也關閉了嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31841271</guid>
             <pubDate>Wed, 22 Jun 2022 20:11:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a GitHub analog for electronics?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什麼讓HN成癮？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31841247</link>
-            <guid>https://news.ycombinator.com/item?id=31841247</guid>
-            <pubDate>Wed, 22 Jun 2022 20:09:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Makes HN Addictive?]]></description>
         </item>
     </channel>
 </rss>
