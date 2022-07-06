@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T10:39:15.646Z</updated>
+    <updated>2022-07-06T14:12:08.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該在資歷上退一步嗎？(Sen-mid)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000922</id>
+        <link href="https://news.ycombinator.com/item?id=32000922"/>
+        <updated>2022-07-06T13:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I take a step back in Seniority? (Sen-Mid)]]></summary>
+        <author>
+            <name>positionPanic</name>
+            <uri>https://news.ycombinator.com/user?id=positionPanic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被燒燬的開發商想搬出伊朗，有什麼建議？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000712</id>
+        <link href="https://news.ycombinator.com/item?id=32000712"/>
+        <updated>2022-07-06T13:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Burnt out developer trying to move out of Iran, advices?]]></summary>
+        <author>
+            <name>throwawaymg</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaymg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想從前端改到後端。資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000178</id>
+        <link href="https://news.ycombinator.com/item?id=32000178"/>
+        <updated>2022-07-06T12:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Want to change from front end to back end. Resources?]]></summary>
+        <author>
+            <name>Arisaka1</name>
+            <uri>https://news.ycombinator.com/user?id=Arisaka1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在家裡的辦公室使用什麼類型的燈（或光/流明）？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>ghoomketu</name>
             <uri>https://news.ycombinator.com/user?id=ghoomketu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為工作相關事宜撥打個人電話？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31834539</id>
-        <link href="https://news.ycombinator.com/item?id=31834539"/>
-        <updated>2022-06-22T11:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Calling personal phone for work related matters?]]></summary>
-        <author>
-            <name>rakshithbellare</name>
-            <uri>https://news.ycombinator.com/user?id=rakshithbellare</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破碎的網絡是否正在耗費生命？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833915</id>
-        <link href="https://news.ycombinator.com/item?id=31833915"/>
-        <updated>2022-06-22T10:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the Broken Web Costing Lives?]]></summary>
-        <author>
-            <name>nonrandomstring</name>
-            <uri>https://news.ycombinator.com/user?id=nonrandomstring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個類似於React的框架，用於構建pannable/zoomable canvas應用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833880</id>
-        <link href="https://news.ycombinator.com/item?id=31833880"/>
-        <updated>2022-06-22T09:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A React-like framework for building pannable/zoomable canvas apps?]]></summary>
-        <author>
-            <name>ajsharp</name>
-            <uri>https://news.ycombinator.com/user?id=ajsharp</uri>
         </author>
     </entry>
 </feed>
