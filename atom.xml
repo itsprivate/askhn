@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T22:29:45.929Z</updated>
+    <updated>2022-07-06T22:49:21.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在三藩市/帕洛阿尔托，是否有一个好的VC/创业公司活动日历？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32007642</id>
+        <link href="https://news.ycombinator.com/item?id=32007642"/>
+        <updated>2022-07-06T22:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a good calendar for VC/startup events in SF/Palo Alto?]]></summary>
+        <author>
+            <name>adawg4</name>
+            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[失去了独自做所有事情的动力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>stanlogin</name>
             <uri>https://news.ycombinator.com/user?id=stanlogin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁是你最喜欢的GitHub/Gitlab替代品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31844647</id>
-        <link href="https://news.ycombinator.com/item?id=31844647"/>
-        <updated>2022-06-23T02:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who are your favorite GitHub/Gitlab alternatives?]]></summary>
-        <author>
-            <name>0des</name>
-            <uri>https://news.ycombinator.com/user?id=0des</uri>
         </author>
     </entry>
 </feed>
