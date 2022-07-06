@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T17:18:31.869Z</updated>
+    <updated>2022-07-06T17:46:37.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPT-3是否可以用來改變一段話的角度？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003982</id>
+        <link href="https://news.ycombinator.com/item?id=32003982"/>
+        <updated>2022-07-06T17:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could GPT-3 be used to change the perspective of a passage?]]></summary>
+        <author>
+            <name>gushogg-blake</name>
+            <uri>https://news.ycombinator.com/user?id=gushogg-blake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBA學生應該學習哪些信息科技知識？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sujdes</name>
             <uri>https://news.ycombinator.com/user?id=sujdes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何獲得相關的開發經驗白無法轉換？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837626</id>
-        <link href="https://news.ycombinator.com/item?id=31837626"/>
-        <updated>2022-06-22T15:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get relevant dev experience white being unable to switch?]]></summary>
-        <author>
-            <name>UnhppyCnsltnt</name>
-            <uri>https://news.ycombinator.com/user?id=UnhppyCnsltnt</uri>
         </author>
     </entry>
 </feed>
