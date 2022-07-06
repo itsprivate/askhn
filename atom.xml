@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T07:45:56.223Z</updated>
+    <updated>2022-07-06T08:36:49.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[合同中的非邀约条款是否常见和公平？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998100</id>
+        <link href="https://news.ycombinator.com/item?id=31998100"/>
+        <updated>2022-07-06T08:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are non-solicitation clauses in contracts common and fair?]]></summary>
+        <author>
+            <name>IlPeach</name>
+            <uri>https://news.ycombinator.com/user?id=IlPeach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我建造它，你会付钱吗？(针对购房者的CRM)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LukeEF</name>
             <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在初创企业中获得领导地位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832806</id>
-        <link href="https://news.ycombinator.com/item?id=31832806"/>
-        <updated>2022-06-22T06:53:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get a leadership position in a startup]]></summary>
-        <author>
-            <name>rodentflamingo</name>
-            <uri>https://news.ycombinator.com/user?id=rodentflamingo</uri>
         </author>
     </entry>
 </feed>
