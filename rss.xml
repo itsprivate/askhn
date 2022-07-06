@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 06 Jul 2022 19:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 20:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[所有的高级前端工程师都在哪里？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32006252</link>
+            <guid>https://news.ycombinator.com/item?id=32006252</guid>
+            <pubDate>Wed, 06 Jul 2022 20:17:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where are all the senior front end engineers?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何修改超过1000行的函数？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32006069</link>
+            <guid>https://news.ycombinator.com/item?id=32006069</guid>
+            <pubDate>Wed, 06 Jul 2022 20:03:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you modify functions over 1000 lines long?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何推广你的副业的？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31841741</guid>
             <pubDate>Wed, 22 Jun 2022 20:54:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Any books/guide to build a marketplace startup?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么可以替代Ansible的吗？我讨厌DSL
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31841421</link>
-            <guid>https://news.ycombinator.com/item?id=31841421</guid>
-            <pubDate>Wed, 22 Jun 2022 20:23:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there any replacement to Ansible? I hate the DSL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有人使用基于云的FPGA进行非ML任务？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31841287</link>
-            <guid>https://news.ycombinator.com/item?id=31841287</guid>
-            <pubDate>Wed, 22 Jun 2022 20:13:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone using cloud based FPGA for non-ML tasks?]]></description>
         </item>
     </channel>
 </rss>
