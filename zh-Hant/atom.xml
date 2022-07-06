@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T15:01:51.580Z</updated>
+    <updated>2022-07-06T15:38:10.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SaaS層級管理（功能/權限）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32002359</id>
+        <link href="https://news.ycombinator.com/item?id=32002359"/>
+        <updated>2022-07-06T15:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SaaS tier management (features/permissions)]]></summary>
+        <author>
+            <name>Gns89</name>
+            <uri>https://news.ycombinator.com/user?id=Gns89</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS層級管理（功能/權限）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32002151</id>
+        <link href="https://news.ycombinator.com/item?id=32002151"/>
+        <updated>2022-07-06T15:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SaaS tier management (features/permissions)]]></summary>
+        <author>
+            <name>Gns89</name>
+            <uri>https://news.ycombinator.com/user?id=Gns89</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[產生反向鏈接的有效方法
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andreynering</name>
             <uri>https://news.ycombinator.com/user?id=andreynering</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼在線培訓課程被分成小塊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31835425</id>
-        <link href="https://news.ycombinator.com/item?id=31835425"/>
-        <updated>2022-06-22T12:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are online training classes divided into small chunks?]]></summary>
-        <author>
-            <name>hnthrowaway0328</name>
-            <uri>https://news.ycombinator.com/user?id=hnthrowaway0328</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歸因於微軟的垃圾郵件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31835400</id>
-        <link href="https://news.ycombinator.com/item?id=31835400"/>
-        <updated>2022-06-22T12:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Spam Emails Attributed to Microsoft]]></summary>
-        <author>
-            <name>memcg</name>
-            <uri>https://news.ycombinator.com/user?id=memcg</uri>
         </author>
     </entry>
 </feed>
