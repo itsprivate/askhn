@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T05:07:18.305Z</updated>
+    <updated>2022-07-06T06:36:02.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些公司有可能在即將到來的經濟衰退中倖存下來？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31997270</id>
+        <link href="https://news.ycombinator.com/item?id=31997270"/>
+        <updated>2022-07-06T05:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What companies are likely to survive the coming recession?]]></summary>
+        <author>
+            <name>hackernews_me</name>
+            <uri>https://news.ycombinator.com/user?id=hackernews_me</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您在股權進修補助方面有什麼經驗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>waspight</name>
             <uri>https://news.ycombinator.com/user?id=waspight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用什麼服務來收集和分析你的API數據？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832569</id>
-        <link href="https://news.ycombinator.com/item?id=31832569"/>
-        <updated>2022-06-22T06:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What service do you use to collect and analyse your API data?]]></summary>
-        <author>
-            <name>pototo666</name>
-            <uri>https://news.ycombinator.com/user?id=pototo666</uri>
         </author>
     </entry>
 </feed>
