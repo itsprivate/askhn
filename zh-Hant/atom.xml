@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T06:36:02.878Z</updated>
+    <updated>2022-07-06T07:45:56.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我建造它，你會付錢嗎？(針對購房者的CRM)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31997910</id>
+        <link href="https://news.ycombinator.com/item?id=31997910"/>
+        <updated>2022-07-06T07:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If I build it, will you pay? (CRM for home buyers)]]></summary>
+        <author>
+            <name>rdm_blackhole</name>
+            <uri>https://news.ycombinator.com/user?id=rdm_blackhole</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些公司有可能在即將到來的經濟衰退中倖存下來？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rodentflamingo</name>
             <uri>https://news.ycombinator.com/user?id=rodentflamingo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與一個人的SaaS有關的講座的播客提示？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832682</id>
-        <link href="https://news.ycombinator.com/item?id=31832682"/>
-        <updated>2022-06-22T06:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Podcast tips for talks related to one man SaaS?]]></summary>
-        <author>
-            <name>waspight</name>
-            <uri>https://news.ycombinator.com/user?id=waspight</uri>
         </author>
     </entry>
 </feed>
