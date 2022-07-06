@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T20:31:31.829Z</updated>
+    <updated>2022-07-06T20:49:59.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在使用PHPDesktop吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32006505</id>
+        <link href="https://news.ycombinator.com/item?id=32006505"/>
+        <updated>2022-07-06T20:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anybody Using PHPDesktop?]]></summary>
+        <author>
+            <name>samemail88</name>
+            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绩效评估--你如何处理？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32006394</id>
+        <link href="https://news.ycombinator.com/item?id=32006394"/>
+        <updated>2022-07-06T20:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Performance reviews – How do you deal with it?]]></summary>
+        <author>
+            <name>brunojppb</name>
+            <uri>https://news.ycombinator.com/user?id=brunojppb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的高级前端工程师都在哪里？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jakecopp</name>
             <uri>https://news.ycombinator.com/user?id=jakecopp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你每天都会访问HN吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31842734</id>
-        <link href="https://news.ycombinator.com/item?id=31842734"/>
-        <updated>2022-06-22T22:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you visit HN on a daily basis?]]></summary>
-        <author>
-            <name>adrianthedev</name>
-            <uri>https://news.ycombinator.com/user?id=adrianthedev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么书籍/指南可以建立一个市场创业公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841741</id>
-        <link href="https://news.ycombinator.com/item?id=31841741"/>
-        <updated>2022-06-22T20:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any books/guide to build a marketplace startup?]]></summary>
-        <author>
-            <name>shvilesh</name>
-            <uri>https://news.ycombinator.com/user?id=shvilesh</uri>
         </author>
     </entry>
 </feed>
