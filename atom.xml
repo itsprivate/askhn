@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T10:02:46.893Z</updated>
+    <updated>2022-07-06T10:39:15.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在家里的办公室使用什么类型的灯（或光/流明）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31999000</id>
+        <link href="https://news.ycombinator.com/item?id=31999000"/>
+        <updated>2022-07-06T10:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What type of lamp (or light/lumen) do you use in your home office?]]></summary>
+        <author>
+            <name>boredemployee</name>
+            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最适合开源项目的CI服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998812</id>
+        <link href="https://news.ycombinator.com/item?id=31998812"/>
+        <updated>2022-07-06T10:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best CI service for open source projects]]></summary>
+        <author>
+            <name>melezhik</name>
+            <uri>https://news.ycombinator.com/user?id=melezhik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么人们总是指责他人？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ajsharp</name>
             <uri>https://news.ycombinator.com/user?id=ajsharp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你为什么要为你的企业购买Atlassian产品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833773</id>
-        <link href="https://news.ycombinator.com/item?id=31833773"/>
-        <updated>2022-06-22T09:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did you buy Atlassian products for your business?]]></summary>
-        <author>
-            <name>nhgiang</name>
-            <uri>https://news.ycombinator.com/user?id=nhgiang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你目前的设置/基础设施是什么，以便在断电的情况下进行连接？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833386</id>
-        <link href="https://news.ycombinator.com/item?id=31833386"/>
-        <updated>2022-06-22T08:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your current setup/infrastructure to connect in case of outage?]]></summary>
-        <author>
-            <name>nicofo</name>
-            <uri>https://news.ycombinator.com/user?id=nicofo</uri>
         </author>
     </entry>
 </feed>
