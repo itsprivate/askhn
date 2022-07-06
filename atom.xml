@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-06T18:58:44.047Z</updated>
+    <updated>2022-07-06T19:25:23.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的 status.heroku.com 也关闭了吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32005270</id>
+        <link href="https://news.ycombinator.com/item?id=32005270"/>
+        <updated>2022-07-06T18:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is status.heroku.com down for you, too?]]></summary>
+        <author>
+            <name>fxtentacle</name>
+            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于单向发布的网站，JavaScript UI框架是否有帮助？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ramshorst</name>
             <uri>https://news.ycombinator.com/user?id=ramshorst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数以万亿计的新美元和欧元已经被印制出来--它们在哪里？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841242</id>
-        <link href="https://news.ycombinator.com/item?id=31841242"/>
-        <updated>2022-06-22T20:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Trillions of new Dollars and Euros have been printed – where are they?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
