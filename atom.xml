@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T09:00:36.007Z</updated>
+    <updated>2022-07-07T09:30:07.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一个老派黑客，如何为拯救气候做出贡献？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32011585</id>
+        <link href="https://news.ycombinator.com/item?id=32011585"/>
+        <updated>2022-07-07T09:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to contribute to saving the climate as an old school hacker?]]></summary>
+        <author>
+            <name>Bhurn00985</name>
+            <uri>https://news.ycombinator.com/user?id=Bhurn00985</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于简单的前端开发，你的首选工具集是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Bubble_Pop_22</name>
             <uri>https://news.ycombinator.com/user?id=Bubble_Pop_22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot可能被用作一种供应链攻击形式吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848624</id>
-        <link href="https://news.ycombinator.com/item?id=31848624"/>
-        <updated>2022-06-23T13:14:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could GitHub Copilot be used as a form of supply chain attack?]]></summary>
-        <author>
-            <name>Akronymus</name>
-            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
         </author>
     </entry>
 </feed>

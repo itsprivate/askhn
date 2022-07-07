@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:00:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作為一個老派黑客，如何為拯救氣候做出貢獻？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011585</link>
+            <guid>https://news.ycombinator.com/item?id=32011585</guid>
+            <pubDate>Thu, 07 Jul 2022 09:08:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to contribute to saving the climate as an old school hacker?]]></description>
+        </item>
         <item>
             <title><![CDATA[對於簡單的前端開發，你的首選工具集是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31849146</guid>
             <pubDate>Thu, 23 Jun 2022 13:54:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Temp mail service looking credible and can be extended for up to 30 day?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub Copilot可能被用作一種供應鏈攻擊形式嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31848624</link>
-            <guid>https://news.ycombinator.com/item?id=31848624</guid>
-            <pubDate>Thu, 23 Jun 2022 13:14:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Could GitHub Copilot be used as a form of supply chain attack?]]></description>
         </item>
     </channel>
 </rss>
