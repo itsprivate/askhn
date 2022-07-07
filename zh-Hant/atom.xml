@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T14:49:21.864Z</updated>
+    <updated>2022-07-07T15:35:52.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否曾在一個施虐的老闆手下工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32015129</id>
+        <link href="https://news.ycombinator.com/item?id=32015129"/>
+        <updated>2022-07-07T15:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you ever worked under an abusive boss?]]></summary>
+        <author>
+            <name>Peach_blue</name>
+            <uri>https://news.ycombinator.com/user?id=Peach_blue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何追究某人的責任？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32015124</id>
+        <link href="https://news.ycombinator.com/item?id=32015124"/>
+        <updated>2022-07-07T15:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Hold Someone Accountable?]]></summary>
+        <author>
+            <name>adoga</name>
+            <uri>https://news.ycombinator.com/user?id=adoga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數學競賽是否能吸引聰明人從事高中數學教學？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32014681</id>
+        <link href="https://news.ycombinator.com/item?id=32014681"/>
+        <updated>2022-07-07T14:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do math contests attract smart people to high school math teaching?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學習系統設計（後端/數據工程）的資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32014658</id>
+        <link href="https://news.ycombinator.com/item?id=32014658"/>
+        <updated>2022-07-07T14:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources on learning System Design (back end/data engineering)?]]></summary>
+        <author>
+            <name>LewisVerstappen</name>
+            <uri>https://news.ycombinator.com/user?id=LewisVerstappen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我剛剛得到了一個Firefox Pocket的更新？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32014655</id>
+        <link href="https://news.ycombinator.com/item?id=32014655"/>
+        <updated>2022-07-07T14:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why have I just been given a Firefox Pocket update?]]></summary>
+        <author>
+            <name>denton-scratch</name>
+            <uri>https://news.ycombinator.com/user?id=denton-scratch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能給我一些有趣或有用的工作嗎？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>baremetal</name>
             <uri>https://news.ycombinator.com/user?id=baremetal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比較法的工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853692</id>
-        <link href="https://news.ycombinator.com/item?id=31853692"/>
-        <updated>2022-06-23T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tool for Comparative Method?]]></summary>
-        <author>
-            <name>permo-w</name>
-            <uri>https://news.ycombinator.com/user?id=permo-w</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在YouTube上收藏視頻？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853587</id>
-        <link href="https://news.ycombinator.com/item?id=31853587"/>
-        <updated>2022-06-23T18:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Bookmark Videos on YouTube?]]></summary>
-        <author>
-            <name>rishikeshs</name>
-            <uri>https://news.ycombinator.com/user?id=rishikeshs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST還是SDK？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853149</id>
-        <link href="https://news.ycombinator.com/item?id=31853149"/>
-        <updated>2022-06-23T18:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: REST or SDKs?]]></summary>
-        <author>
-            <name>akrymski</name>
-            <uri>https://news.ycombinator.com/user?id=akrymski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何記錄要看的地方/參觀的地方/餐廳的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853060</id>
-        <link href="https://news.ycombinator.com/item?id=31853060"/>
-        <updated>2022-06-23T18:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you keep track of Places to See/Visit/Restaurant?]]></summary>
-        <author>
-            <name>flytram</name>
-            <uri>https://news.ycombinator.com/user?id=flytram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原生移動應用還是網絡應用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31852968</id>
-        <link href="https://news.ycombinator.com/item?id=31852968"/>
-        <updated>2022-06-23T18:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Native mobile app or web app?]]></summary>
-        <author>
-            <name>akrymski</name>
-            <uri>https://news.ycombinator.com/user?id=akrymski</uri>
         </author>
     </entry>
 </feed>
