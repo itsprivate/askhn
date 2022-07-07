@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 19:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 19:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在你的领域中最伟大的突破？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018527</link>
+            <guid>https://news.ycombinator.com/item?id=32018527</guid>
+            <pubDate>Thu, 07 Jul 2022 19:53:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Greatest Breakthrow in Your Field?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你是否只是为了好玩而在虚拟机中运行什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018427</link>
+            <guid>https://news.ycombinator.com/item?id=32018427</guid>
+            <pubDate>Thu, 07 Jul 2022 19:44:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you run anything in a VM just for fun?]]></description>
+        </item>
         <item>
             <title><![CDATA[考虑撰写关于工程师销售的文章
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31856517</guid>
             <pubDate>Thu, 23 Jun 2022 23:59:07 GMT</pubDate>
             <description><![CDATA[Ask HN: How much of your code gets thrown away?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[请帮我找到一篇关于何时使用网络应用程序架构的文章
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31856408</link>
-            <guid>https://news.ycombinator.com/item?id=31856408</guid>
-            <pubDate>Thu, 23 Jun 2022 23:39:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Please help me find an article about when to use web app architectures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于在FAANG无所作为的话题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31856086</link>
-            <guid>https://news.ycombinator.com/item?id=31856086</guid>
-            <pubDate>Thu, 23 Jun 2022 22:52:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Thread about doing nothing at FAANG]]></description>
         </item>
     </channel>
 </rss>

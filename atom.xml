@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T19:27:08.431Z</updated>
+    <updated>2022-07-07T19:59:01.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的领域中最伟大的突破？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018527</id>
+        <link href="https://news.ycombinator.com/item?id=32018527"/>
+        <updated>2022-07-07T19:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Greatest Breakthrow in Your Field?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否只是为了好玩而在虚拟机中运行什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018427</id>
+        <link href="https://news.ycombinator.com/item?id=32018427"/>
+        <updated>2022-07-07T19:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you run anything in a VM just for fun?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[考虑撰写关于工程师销售的文章
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>SCUSKU</name>
             <uri>https://news.ycombinator.com/user?id=SCUSKU</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请帮我找到一篇关于何时使用网络应用程序架构的文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856408</id>
-        <link href="https://news.ycombinator.com/item?id=31856408"/>
-        <updated>2022-06-23T23:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Please help me find an article about when to use web app architectures]]></summary>
-        <author>
-            <name>jonesnc</name>
-            <uri>https://news.ycombinator.com/user?id=jonesnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于在FAANG无所作为的话题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856086</id>
-        <link href="https://news.ycombinator.com/item?id=31856086"/>
-        <updated>2022-06-23T22:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thread about doing nothing at FAANG]]></summary>
-        <author>
-            <name>jimmywetnips</name>
-            <uri>https://news.ycombinator.com/user?id=jimmywetnips</uri>
         </author>
     </entry>
 </feed>
