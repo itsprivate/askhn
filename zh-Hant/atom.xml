@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T06:37:51.927Z</updated>
+    <updated>2022-07-07T07:30:08.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有立法，網上隱私是否可能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010749</id>
+        <link href="https://news.ycombinator.com/item?id=32010749"/>
+        <updated>2022-07-07T07:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is online privacy possible without legislation?]]></summary>
+        <author>
+            <name>lukeschwartz</name>
+            <uri>https://news.ycombinator.com/user?id=lukeschwartz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何兩個應用程序之間的雙向鏈接，你怎麼看？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>joe8756438</name>
             <uri>https://news.ycombinator.com/user?id=joe8756438</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們能否在HN的自由主義者和非自由主義者之間找到一些共同點？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848164</id>
-        <link href="https://news.ycombinator.com/item?id=31848164"/>
-        <updated>2022-06-23T12:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can we find some common grounds between liberals and non-liberals in HN?]]></summary>
-        <author>
-            <name>SMAAART</name>
-            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
         </author>
     </entry>
 </feed>
