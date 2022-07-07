@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T22:33:56.382Z</updated>
+    <updated>2022-07-07T23:31:05.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想要一個簡約的手機體驗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32020805</id>
+        <link href="https://news.ycombinator.com/item?id=32020805"/>
+        <updated>2022-07-07T23:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I want a minimalist phone experience]]></summary>
+        <author>
+            <name>mattymf</name>
+            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該離開我的社會感性的地方最低限度嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>matham</name>
             <uri>https://news.ycombinator.com/user?id=matham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一個失敗的初創企業中，事情是如何以及何時變得醜陋的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31857587</id>
-        <link href="https://news.ycombinator.com/item?id=31857587"/>
-        <updated>2022-06-24T03:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How and when do things turn ugly at a failing startup?]]></summary>
-        <author>
-            <name>throwaway0623</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway0623</uri>
         </author>
     </entry>
 </feed>
