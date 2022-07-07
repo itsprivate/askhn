@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T19:03:10.287Z</updated>
+    <updated>2022-07-07T19:27:08.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[考虑撰写关于工程师销售的文章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018097</id>
+        <link href="https://news.ycombinator.com/item?id=32018097"/>
+        <updated>2022-07-07T19:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Thinking of writing article(s) on Sales for Engineers]]></summary>
+        <author>
+            <name>jppope</name>
+            <uri>https://news.ycombinator.com/user?id=jppope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目前有多少亚马逊的招聘人员在烦扰你？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jimmywetnips</name>
             <uri>https://news.ycombinator.com/user?id=jimmywetnips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁在这里用Bazel做前端（Vue，TypeScript）的单体？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856078</id>
-        <link href="https://news.ycombinator.com/item?id=31856078"/>
-        <updated>2022-06-23T22:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone Here Use Bazel for Front End (Vue, TypeScript) Monorepos?]]></summary>
-        <author>
-            <name>no_wizard</name>
-            <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
         </author>
     </entry>
 </feed>

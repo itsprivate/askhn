@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 19:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 19:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[考慮撰寫關於工程師銷售的文章
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018097</link>
+            <guid>https://news.ycombinator.com/item?id=32018097</guid>
+            <pubDate>Thu, 07 Jul 2022 19:16:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Thinking of writing article(s) on Sales for Engineers]]></description>
+        </item>
         <item>
             <title><![CDATA[目前有多少亞馬遜的招聘人員在煩擾你？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31856086</guid>
             <pubDate>Thu, 23 Jun 2022 22:52:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Thread about doing nothing at FAANG]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有誰在這裡用Bazel做前端（Vue，TypeScript）的單體？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31856078</link>
-            <guid>https://news.ycombinator.com/item?id=31856078</guid>
-            <pubDate>Thu, 23 Jun 2022 22:50:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone Here Use Bazel for Front End (Vue, TypeScript) Monorepos?]]></description>
         </item>
     </channel>
 </rss>
