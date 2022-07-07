@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 13:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 14:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,70 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你能給我一些有趣或有用的工作嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014600</link>
+            <guid>https://news.ycombinator.com/item?id=32014600</guid>
+            <pubDate>Thu, 07 Jul 2022 14:31:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can you give me something interesting or useful to work on?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼公鑰沒有作為一種普遍的身份管理解決方案起飛？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014571</link>
+            <guid>https://news.ycombinator.com/item?id=32014571</guid>
+            <pubDate>Thu, 07 Jul 2022 14:29:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why hasn't the public key taken off as a general identity mgmt solution?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我想從頭開始寫一個JavaScript引擎，我應該從哪裡開始？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014481</link>
+            <guid>https://news.ycombinator.com/item?id=32014481</guid>
+            <pubDate>Thu, 07 Jul 2022 14:22:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: I want to write a JavaScript engine from scratch, where should I start?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Magic Leap是如何變得無關緊要的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014387</link>
+            <guid>https://news.ycombinator.com/item?id=32014387</guid>
+            <pubDate>Thu, 07 Jul 2022 14:15:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: How did Magic Leap become irrelevant?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你在JavaScript中使用SQLite的經驗是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014301</link>
+            <guid>https://news.ycombinator.com/item?id=32014301</guid>
+            <pubDate>Thu, 07 Jul 2022 14:08:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: What has been your experience in SQLite in JavaScript?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你喜歡的工具/組織有商品嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32014174</link>
+            <guid>https://news.ycombinator.com/item?id=32014174</guid>
+            <pubDate>Thu, 07 Jul 2022 13:58:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does your favorite tool/organization have merch?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[態度比知識更重要嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013949</link>
+            <guid>https://news.ycombinator.com/item?id=32013949</guid>
+            <pubDate>Thu, 07 Jul 2022 13:40:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is attitude more important than knowledge?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[點對點的共識協議/算法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013740</link>
+            <guid>https://news.ycombinator.com/item?id=32013740</guid>
+            <pubDate>Thu, 07 Jul 2022 13:22:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Peer-to-peer consensus protocols / algorithms]]></description>
+        </item>
         <item>
             <title><![CDATA[有可能培育出一隻圓瞳的貓嗎？(只是為了好玩)
 ]]></title>
@@ -4749,70 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31852968</guid>
             <pubDate>Thu, 23 Jun 2022 18:08:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Native mobile app or web app?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用硬件按鈕發送HTTP請求，有哪些選項？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31852935</link>
-            <guid>https://news.ycombinator.com/item?id=31852935</guid>
-            <pubDate>Thu, 23 Jun 2022 18:05:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: What options are there to send an HTTP request with a hardware button?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有沒有一個工具可以跟蹤本地開發機器的性能？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31852806</link>
-            <guid>https://news.ycombinator.com/item?id=31852806</guid>
-            <pubDate>Thu, 23 Jun 2022 17:56:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a tool for tracking local dev machine performance?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何駕馭面試中對你不利的情況？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31852451</link>
-            <guid>https://news.ycombinator.com/item?id=31852451</guid>
-            <pubDate>Thu, 23 Jun 2022 17:31:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to navigate an interview where the interviews has it against you]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TI Tiva launchpad是學習OS/Bootloader的好平臺嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31852223</link>
-            <guid>https://news.ycombinator.com/item?id=31852223</guid>
-            <pubDate>Thu, 23 Jun 2022 17:17:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is TI Tiva launchpad a good platform for learning OS/Bootloader?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在哪裡搜索工作？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31851663</link>
-            <guid>https://news.ycombinator.com/item?id=31851663</guid>
-            <pubDate>Thu, 23 Jun 2022 16:42:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where do you search for jobs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何跟蹤你的網站性能的？你是否在做這件事？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31850825</link>
-            <guid>https://news.ycombinator.com/item?id=31850825</guid>
-            <pubDate>Thu, 23 Jun 2022 15:50:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: How are you tracking your website performance? Are you doing it at all?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是否應該報名參加YC的創業學校？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31850590</link>
-            <guid>https://news.ycombinator.com/item?id=31850590</guid>
-            <pubDate>Thu, 23 Jun 2022 15:35:00 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I sign up for YC's startup school?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trello在斯堪的納維亞半島意味著slave-o
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31849900</link>
-            <guid>https://news.ycombinator.com/item?id=31849900</guid>
-            <pubDate>Thu, 23 Jun 2022 14:51:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Trello means slave-o in Scandinavia]]></description>
         </item>
     </channel>
 </rss>
