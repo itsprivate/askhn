@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T05:34:58.263Z</updated>
+    <updated>2022-07-07T06:37:51.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何两个应用程序之间的双向链接，你怎么看？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010593</id>
+        <link href="https://news.ycombinator.com/item?id=32010593"/>
+        <updated>2022-07-07T06:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Bi-directional links between any two apps, what do you think?]]></summary>
+        <author>
+            <name>zhangruinan</name>
+            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对你来说，员工+工程师的角色范围是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010440</id>
+        <link href="https://news.ycombinator.com/item?id=32010440"/>
+        <updated>2022-07-07T06:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the scope of a staff+ engineer role for you?]]></summary>
+        <author>
+            <name>somada141</name>
+            <uri>https://news.ycombinator.com/user?id=somada141</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻求对我们网站的反馈（自由职业者平台）)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010411</id>
+        <link href="https://news.ycombinator.com/item?id=32010411"/>
+        <updated>2022-07-07T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for feedback on our website (freelance platform))]]></summary>
+        <author>
+            <name>cisforce</name>
+            <uri>https://news.ycombinator.com/user?id=cisforce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人在努力寻找高质量的自由职业者？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>SMAAART</name>
             <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在市场下滑的情况下进行种子轮融资？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847941</id>
-        <link href="https://news.ycombinator.com/item?id=31847941"/>
-        <updated>2022-06-23T12:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to raise a seed round in a down market?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Java AOT编译（使用graalvm native-image）很慢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847722</id>
-        <link href="https://news.ycombinator.com/item?id=31847722"/>
-        <updated>2022-06-23T11:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is Java AOT compilation (using graalvm native-image) slow?]]></summary>
-        <author>
-            <name>vancan1ty</name>
-            <uri>https://news.ycombinator.com/user?id=vancan1ty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么像样的工作，可以靠岸的吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847593</id>
-        <link href="https://news.ycombinator.com/item?id=31847593"/>
-        <updated>2022-06-23T11:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any decent jobs that one can coast through?]]></summary>
-        <author>
-            <name>giantg2</name>
-            <uri>https://news.ycombinator.com/user?id=giantg2</uri>
         </author>
     </entry>
 </feed>
