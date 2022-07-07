@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T07:30:08.509Z</updated>
+    <updated>2022-07-07T07:46:43.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為非英語、非技術人士推薦CS主題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010945</id>
+        <link href="https://news.ycombinator.com/item?id=32010945"/>
+        <updated>2022-07-07T07:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommend CS topics for non-English, non-technical people?]]></summary>
+        <author>
+            <name>_448</name>
+            <uri>https://news.ycombinator.com/user?id=_448</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有立法，網上隱私是否可能？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yalogin</name>
             <uri>https://news.ycombinator.com/user?id=yalogin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人使用書籤服務嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848210</id>
-        <link href="https://news.ycombinator.com/item?id=31848210"/>
-        <updated>2022-06-23T12:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anybody still use bookmarking services?]]></summary>
-        <author>
-            <name>joe8756438</name>
-            <uri>https://news.ycombinator.com/user?id=joe8756438</uri>
         </author>
     </entry>
 </feed>
