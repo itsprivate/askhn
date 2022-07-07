@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 18:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 19:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[目前有多少亚马逊的招聘人员在烦扰你？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32017844</link>
+            <guid>https://news.ycombinator.com/item?id=32017844</guid>
+            <pubDate>Thu, 07 Jul 2022 18:56:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How many Amazon recruiters are currently bugging you?]]></description>
+        </item>
         <item>
             <title><![CDATA[有没有人有ppc64le和s390x的盒子来测试Docker镜像？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31856078</guid>
             <pubDate>Thu, 23 Jun 2022 22:50:58 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone Here Use Bazel for Front End (Vue, TypeScript) Monorepos?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们需要网络浏览器吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855976</link>
-            <guid>https://news.ycombinator.com/item?id=31855976</guid>
-            <pubDate>Thu, 23 Jun 2022 22:40:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do we need Web Browsers?]]></description>
         </item>
     </channel>
 </rss>

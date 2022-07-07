@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T18:40:20.829Z</updated>
+    <updated>2022-07-07T19:03:10.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[目前有多少亚马逊的招聘人员在烦扰你？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32017844</id>
+        <link href="https://news.ycombinator.com/item?id=32017844"/>
+        <updated>2022-07-07T18:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many Amazon recruiters are currently bugging you?]]></summary>
+        <author>
+            <name>4b11b4</name>
+            <uri>https://news.ycombinator.com/user?id=4b11b4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有人有ppc64le和s390x的盒子来测试Docker镜像？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>no_wizard</name>
             <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们需要网络浏览器吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855976</id>
-        <link href="https://news.ycombinator.com/item?id=31855976"/>
-        <updated>2022-06-23T22:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we need Web Browsers?]]></summary>
-        <author>
-            <name>dzonga</name>
-            <uri>https://news.ycombinator.com/user?id=dzonga</uri>
         </author>
     </entry>
 </feed>
