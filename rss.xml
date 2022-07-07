@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 07 Jul 2022 18:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 18:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有没有人有ppc64le和s390x的盒子来测试Docker镜像？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32017384</link>
+            <guid>https://news.ycombinator.com/item?id=32017384</guid>
+            <pubDate>Thu, 07 Jul 2022 18:12:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone with ppc64le and s390x boxes to test a Docker image?]]></description>
+        </item>
         <item>
             <title><![CDATA[我们是否应该称其为 "美学 "而不是 "技术债务"？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31855976</guid>
             <pubDate>Thu, 23 Jun 2022 22:40:11 GMT</pubDate>
             <description><![CDATA[Ask HN: Do we need Web Browsers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么关于获得CIA技能的书可以推荐吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855305</link>
-            <guid>https://news.ycombinator.com/item?id=31855305</guid>
-            <pubDate>Thu, 23 Jun 2022 21:21:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any book that you can recommend about adquiring CIA skills?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-07T18:00:26.317Z</updated>
+    <updated>2022-07-07T18:40:20.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人有ppc64le和s390x的盒子來測試Docker鏡像？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32017384</id>
+        <link href="https://news.ycombinator.com/item?id=32017384"/>
+        <updated>2022-07-07T18:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone with ppc64le and s390x boxes to test a Docker image?]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是否應該稱其為 "美學 "而不是 "技術債務"？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dzonga</name>
             <uri>https://news.ycombinator.com/user?id=dzonga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼關於獲得CIA技能的書可以推薦嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855305</id>
-        <link href="https://news.ycombinator.com/item?id=31855305"/>
-        <updated>2022-06-23T21:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any book that you can recommend about adquiring CIA skills?]]></summary>
-        <author>
-            <name>juanse</name>
-            <uri>https://news.ycombinator.com/user?id=juanse</uri>
         </author>
     </entry>
 </feed>
