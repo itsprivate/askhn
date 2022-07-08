@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-08T21:42:50.528Z</updated>
+    <updated>2022-07-08T22:19:37.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ELI5 - HN發生了什麼事，以至於它今天倒下了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32027458</id>
+        <link href="https://news.ycombinator.com/item?id=32027458"/>
+        <updated>2022-07-08T21:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ELI5 – What happened to HN for it to go down today?]]></summary>
+        <author>
+            <name>chirau</name>
+            <uri>https://news.ycombinator.com/user?id=chirau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT管理員們，你們希望看到哪些IT工具？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thinkingofthing</name>
             <uri>https://news.ycombinator.com/user?id=thinkingofthing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編程面試官是否使用第一個問題來解除候選人的武裝？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31862532</id>
-        <link href="https://news.ycombinator.com/item?id=31862532"/>
-        <updated>2022-06-24T14:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do programming interviewers use first question to disarm candidates?]]></summary>
-        <author>
-            <name>omidh28</name>
-            <uri>https://news.ycombinator.com/user?id=omidh28</uri>
         </author>
     </entry>
 </feed>
