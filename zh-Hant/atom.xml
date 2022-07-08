@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-08T22:19:37.796Z</updated>
+    <updated>2022-07-08T23:33:28.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN有什麼樣的設置？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32029067</id>
+        <link href="https://news.ycombinator.com/item?id=32029067"/>
+        <updated>2022-07-08T23:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What kind of setup does HN have?]]></summary>
+        <author>
+            <name>sacrosanct</name>
+            <uri>https://news.ycombinator.com/user?id=sacrosanct</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你對M1和M2 Mac的工作有什麼經驗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028945</id>
+        <link href="https://news.ycombinator.com/item?id=32028945"/>
+        <updated>2022-07-08T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your experience with working M1 and M2 Macs?]]></summary>
+        <author>
+            <name>aryamaan</name>
+            <uri>https://news.ycombinator.com/user?id=aryamaan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羅傑斯公司的故障難道不能證明--網絡是一個單點故障嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028484</id>
+        <link href="https://news.ycombinator.com/item?id=32028484"/>
+        <updated>2022-07-08T22:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Doesn't the Rogers outage prove – network as a single point of failure?]]></summary>
+        <author>
+            <name>avi_vallarapu</name>
+            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ELI5 - HN發生了什麼事，以至於它今天倒下了？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>NithurM</name>
             <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國SW工程師如何才能在歐洲獲得工作簽證？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863800</id>
-        <link href="https://news.ycombinator.com/item?id=31863800"/>
-        <updated>2022-06-24T15:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can a US SW engineer to get a working visa in Europe?]]></summary>
-        <author>
-            <name>nineplay</name>
-            <uri>https://news.ycombinator.com/user?id=nineplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何看待與他人的社交活動？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863730</id>
-        <link href="https://news.ycombinator.com/item?id=31863730"/>
-        <updated>2022-06-24T15:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you view social interaction with other people?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在歐洲，如何為SWE的技術面試做準備？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863374</id>
-        <link href="https://news.ycombinator.com/item?id=31863374"/>
-        <updated>2022-06-24T15:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you prepare for technical interviews in Europe for SWEs?]]></summary>
-        <author>
-            <name>thinkingofthing</name>
-            <uri>https://news.ycombinator.com/user?id=thinkingofthing</uri>
         </author>
     </entry>
 </feed>
