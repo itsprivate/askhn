@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-08T02:44:05.243Z</updated>
+    <updated>2022-07-08T04:02:09.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YC爸爸的專業技巧
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32022712</id>
+        <link href="https://news.ycombinator.com/item?id=32022712"/>
+        <updated>2022-07-08T03:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: YC Dad Pro Tips]]></summary>
+        <author>
+            <name>dispatchapp</name>
+            <uri>https://news.ycombinator.com/user?id=dispatchapp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當你不懂技術時如何管理一個團隊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32022641</id>
+        <link href="https://news.ycombinator.com/item?id=32022641"/>
+        <updated>2022-07-08T03:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to manage a team when you don’t know the tech]]></summary>
+        <author>
+            <name>doitLP</name>
+            <uri>https://news.ycombinator.com/user?id=doitLP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何設計應用程序的數據模型？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>krn</name>
             <uri>https://news.ycombinator.com/user?id=krn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創辦科技諮詢企業最困難的是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859664</id>
-        <link href="https://news.ycombinator.com/item?id=31859664"/>
-        <updated>2022-06-24T09:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the hardest things in starting a tech consulting business?]]></summary>
-        <author>
-            <name>whiskey14</name>
-            <uri>https://news.ycombinator.com/user?id=whiskey14</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提高你的技術寫作水平？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859040</id>
-        <link href="https://news.ycombinator.com/item?id=31859040"/>
-        <updated>2022-06-24T08:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to level up your technical writing?]]></summary>
-        <author>
-            <name>maxekman</name>
-            <uri>https://news.ycombinator.com/user?id=maxekman</uri>
         </author>
     </entry>
 </feed>
