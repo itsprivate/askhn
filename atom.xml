@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-08T11:30:00.415Z</updated>
+    <updated>2022-07-08T21:42:50.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IT管理员们，你们希望看到哪些IT工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32026956</id>
+        <link href="https://news.ycombinator.com/item?id=32026956"/>
+        <updated>2022-07-08T20:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: IT admins, what IT tools would you like to see?]]></summary>
+        <author>
+            <name>fireblight1</name>
+            <uri>https://news.ycombinator.com/user?id=fireblight1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN瘫痪时你做了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32026639</id>
+        <link href="https://news.ycombinator.com/item?id=32026639"/>
+        <updated>2022-07-08T20:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What'd you do while HN was down?]]></summary>
+        <author>
+            <name>quicksnap</name>
+            <uri>https://news.ycombinator.com/user?id=quicksnap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你看来，目前最好的ToDo List App是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>omidh28</name>
             <uri>https://news.ycombinator.com/user?id=omidh28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初创企业，你是如何满足你的IT需求的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31862474</id>
-        <link href="https://news.ycombinator.com/item?id=31862474"/>
-        <updated>2022-06-24T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Startups, what do you do for your IT needs?]]></summary>
-        <author>
-            <name>ahmadmk</name>
-            <uri>https://news.ycombinator.com/user?id=ahmadmk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能可以有灵魂吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31862090</id>
-        <link href="https://news.ycombinator.com/item?id=31862090"/>
-        <updated>2022-06-24T14:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can AI Have a Soul?]]></summary>
-        <author>
-            <name>estebandalelr</name>
-            <uri>https://news.ycombinator.com/user?id=estebandalelr</uri>
         </author>
     </entry>
 </feed>
