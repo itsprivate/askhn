@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Jul 2022 16:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 16:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每次更新后，VSCode是否变得过于复杂？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32036676</link>
+            <guid>https://news.ycombinator.com/item?id=32036676</guid>
+            <pubDate>Sat, 09 Jul 2022 16:30:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is VSCode becoming too complex after each update?]]></description>
+        </item>
         <item>
             <title><![CDATA[你最近移民了吗？去哪里，为什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31874053</guid>
             <pubDate>Sat, 25 Jun 2022 10:22:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Need some advice about my SaaS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寻求密码学认证
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31873896</link>
-            <guid>https://news.ycombinator.com/item?id=31873896</guid>
-            <pubDate>Sat, 25 Jun 2022 09:54:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Seeking Cryptography Certification]]></description>
         </item>
     </channel>
 </rss>

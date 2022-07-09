@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T16:02:17.029Z</updated>
+    <updated>2022-07-09T16:42:21.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每次更新后，VSCode是否变得过于复杂？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036676</id>
+        <link href="https://news.ycombinator.com/item?id=32036676"/>
+        <updated>2022-07-09T16:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is VSCode becoming too complex after each update?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最近移民了吗？去哪里，为什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robingarnham</name>
             <uri>https://news.ycombinator.com/user?id=robingarnham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻求密码学认证
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873896</id>
-        <link href="https://news.ycombinator.com/item?id=31873896"/>
-        <updated>2022-06-25T09:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Seeking Cryptography Certification]]></summary>
-        <author>
-            <name>mfbx9da4</name>
-            <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
         </author>
     </entry>
 </feed>
