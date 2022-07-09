@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T20:46:11.791Z</updated>
+    <updated>2022-07-09T21:45:22.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最喜歡的郵件列表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32039423</id>
+        <link href="https://news.ycombinator.com/item?id=32039423"/>
+        <updated>2022-07-09T21:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Favourite Mailing Lists?]]></summary>
+        <author>
+            <name>wcerfgba</name>
+            <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彈性存儲空間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32039242</id>
+        <link href="https://news.ycombinator.com/item?id=32039242"/>
+        <updated>2022-07-09T20:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Elastic Storage Space]]></summary>
+        <author>
+            <name>multimedial</name>
+            <uri>https://news.ycombinator.com/user?id=multimedial</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音樂流媒體算法混合搭配。它存在嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>emadehsan</name>
             <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你建議人們從哪種ML方言開始？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31877175</id>
-        <link href="https://news.ycombinator.com/item?id=31877175"/>
-        <updated>2022-06-25T17:44:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What ML dialect do you recommend for someone to start with?]]></summary>
-        <author>
-            <name>cartesius13</name>
-            <uri>https://news.ycombinator.com/user?id=cartesius13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何為新手進行安全審計？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31876984</id>
-        <link href="https://news.ycombinator.com/item?id=31876984"/>
-        <updated>2022-06-25T17:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Security Audit for Noobs?]]></summary>
-        <author>
-            <name>riksucks</name>
-            <uri>https://news.ycombinator.com/user?id=riksucks</uri>
         </author>
     </entry>
 </feed>
