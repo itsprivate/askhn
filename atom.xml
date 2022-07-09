@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T08:53:04.637Z</updated>
+    <updated>2022-07-09T09:46:26.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[要怎样才能使Windows 98的代码库被开放出来？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033385</id>
+        <link href="https://news.ycombinator.com/item?id=32033385"/>
+        <updated>2022-07-09T09:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would it take for the Windows 98 codebase to be opensourced?]]></summary>
+        <author>
+            <name>HeckFeck</name>
+            <uri>https://news.ycombinator.com/user?id=HeckFeck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在你的应用程序中实现内部用户信息传递？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Otternonsenz</name>
             <uri>https://news.ycombinator.com/user?id=Otternonsenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给第一次担任工程经理的建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869308</id>
-        <link href="https://news.ycombinator.com/item?id=31869308"/>
-        <updated>2022-06-24T21:06:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice for a first-time Engineering Manager]]></summary>
-        <author>
-            <name>young_hopper</name>
-            <uri>https://news.ycombinator.com/user?id=young_hopper</uri>
         </author>
     </entry>
 </feed>
