@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T12:48:07.171Z</updated>
+    <updated>2022-07-09T13:17:56.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非金钱爱好者，你希望退休后能实现什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32034564</id>
+        <link href="https://news.ycombinator.com/item?id=32034564"/>
+        <updated>2022-07-09T12:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-money lovers, what do you hope to achieve for retirement?]]></summary>
+        <author>
+            <name>p0d</name>
+            <uri>https://news.ycombinator.com/user?id=p0d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我们在为您的请求提供服务时遇到了一些麻烦。对不起"
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Exorust</name>
             <uri>https://news.ycombinator.com/user?id=Exorust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雇用实习生的经济学原理是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31871715</id>
-        <link href="https://news.ycombinator.com/item?id=31871715"/>
-        <updated>2022-06-25T01:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the economics of hiring interns?]]></summary>
-        <author>
-            <name>spencerchubb</name>
-            <uri>https://news.ycombinator.com/user?id=spencerchubb</uri>
         </author>
     </entry>
 </feed>
