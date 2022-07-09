@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T07:57:40.921Z</updated>
+    <updated>2022-07-09T08:34:22.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何通過燃燒的力量？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033047</id>
+        <link href="https://news.ycombinator.com/item?id=32033047"/>
+        <updated>2022-07-09T08:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you power through burnouts?]]></summary>
+        <author>
+            <name>shreythecray</name>
+            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通往1.2億美元的道路
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>krinn_silver</name>
             <uri>https://news.ycombinator.com/user?id=krinn_silver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僅通過API申請租房？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869228</id>
-        <link href="https://news.ycombinator.com/item?id=31869228"/>
-        <updated>2022-06-24T20:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Rental Application by API Only?]]></summary>
-        <author>
-            <name>shaburn</name>
-            <uri>https://news.ycombinator.com/user?id=shaburn</uri>
         </author>
     </entry>
 </feed>
