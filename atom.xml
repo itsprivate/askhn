@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T16:42:21.843Z</updated>
+    <updated>2022-07-09T18:00:13.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重建整个遗留的软件系统是愚蠢的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32023887</id>
+        <link href="https://news.ycombinator.com/item?id=32023887"/>
+        <updated>2022-07-08T07:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is rebuilding an entire legacy software system stupid?]]></summary>
+        <author>
+            <name>bveiseh</name>
+            <uri>https://news.ycombinator.com/user?id=bveiseh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跳槽是否像他们说的那样糟糕？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32023363</id>
+        <link href="https://news.ycombinator.com/item?id=32023363"/>
+        <updated>2022-07-08T04:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is job hopping as bad as they say?]]></summary>
+        <author>
+            <name>only_throwing</name>
+            <uri>https://news.ycombinator.com/user?id=only_throwing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每次更新后，VSCode是否变得过于复杂？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gigatexal</name>
             <uri>https://news.ycombinator.com/user?id=gigatexal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在低数据连接的情况下，电脑工作/处理要困难得多，知道如何解决吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874261</id>
-        <link href="https://news.ycombinator.com/item?id=31874261"/>
-        <updated>2022-06-25T11:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PC working/processing so much harder on low data connection, know solve?]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[需要一些关于我的SaaS的建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874053</id>
-        <link href="https://news.ycombinator.com/item?id=31874053"/>
-        <updated>2022-06-25T10:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Need some advice about my SaaS]]></summary>
-        <author>
-            <name>robingarnham</name>
-            <uri>https://news.ycombinator.com/user?id=robingarnham</uri>
         </author>
     </entry>
 </feed>
