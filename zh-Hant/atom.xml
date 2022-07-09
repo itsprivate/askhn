@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-08T23:48:05.770Z</updated>
+    <updated>2022-07-09T02:23:20.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些編程語言會區分 "舊 "和 "新 "價值？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32030553</id>
+        <link href="https://news.ycombinator.com/item?id=32030553"/>
+        <updated>2022-07-09T01:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What programming languages distinguish between “old” and “new” values?]]></summary>
+        <author>
+            <name>aappleby</name>
+            <uri>https://news.ycombinator.com/user?id=aappleby</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用FOSS工具正確地保護windows服務器機器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32030335</id>
+        <link href="https://news.ycombinator.com/item?id=32030335"/>
+        <updated>2022-07-09T01:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I properly secure a windows server machine using FOSS tools?]]></summary>
+        <author>
+            <name>shekhar101</name>
+            <uri>https://news.ycombinator.com/user?id=shekhar101</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪個有更多的就業機會。Python或Java+Kotlin？對於一個Go開發者來說
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32030093</id>
+        <link href="https://news.ycombinator.com/item?id=32030093"/>
+        <updated>2022-07-09T00:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which has more jobs: Python or Java+Kotlin? For a Go dev]]></summary>
+        <author>
+            <name>profwalkstr</name>
+            <uri>https://news.ycombinator.com/user?id=profwalkstr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何為你的創業公司員工託管電子郵件的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32029769</id>
+        <link href="https://news.ycombinator.com/item?id=32029769"/>
+        <updated>2022-07-09T00:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you hosting Email for your startup employees?]]></summary>
+        <author>
+            <name>FearTheTrees</name>
+            <uri>https://news.ycombinator.com/user?id=FearTheTrees</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Git中做到這一點
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32029710</id>
+        <link href="https://news.ycombinator.com/item?id=32029710"/>
+        <updated>2022-07-09T00:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Do This in Git]]></summary>
+        <author>
+            <name>pm2222</name>
+            <uri>https://news.ycombinator.com/user?id=pm2222</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN已經走了，現在怎麼辦？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>brochington</name>
             <uri>https://news.ycombinator.com/user?id=brochington</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對最高法院2A裁決允許攜帶權的看法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866907</id>
-        <link href="https://news.ycombinator.com/item?id=31866907"/>
-        <updated>2022-06-24T18:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on the Supreme Court 2A ruling allowing the right to carry]]></summary>
-        <author>
-            <name>hbarka</name>
-            <uri>https://news.ycombinator.com/user?id=hbarka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫得好的開源Swift Mac應用程序可以學習嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866561</id>
-        <link href="https://news.ycombinator.com/item?id=31866561"/>
-        <updated>2022-06-24T17:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Well-written open source Swift Mac apps to learn from?]]></summary>
-        <author>
-            <name>LeoPanthera</name>
-            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向AWS S3上傳圖片的最佳方式是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866385</id>
-        <link href="https://news.ycombinator.com/item?id=31866385"/>
-        <updated>2022-06-24T17:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best way to Upload Images to AWS S3?]]></summary>
-        <author>
-            <name>fuadnafiz98</name>
-            <uri>https://news.ycombinator.com/user?id=fuadnafiz98</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在每次下載後都會清理你的下載文件夾嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866183</id>
-        <link href="https://news.ycombinator.com/item?id=31866183"/>
-        <updated>2022-06-24T17:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you clean out your downloads folder after each download?]]></summary>
-        <author>
-            <name>ekglimmer</name>
-            <uri>https://news.ycombinator.com/user?id=ekglimmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助我幫助我的聾啞隊友
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31860765</id>
-        <link href="https://news.ycombinator.com/item?id=31860765"/>
-        <updated>2022-06-24T12:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Help me help my deaf teammate]]></summary>
-        <author>
-            <name>iwillmemberthis</name>
-            <uri>https://news.ycombinator.com/user?id=iwillmemberthis</uri>
         </author>
     </entry>
 </feed>
