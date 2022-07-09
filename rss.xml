@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 09 Jul 2022 14:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 16:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最近移民了吗？去哪里，为什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32036170</link>
+            <guid>https://news.ycombinator.com/item?id=32036170</guid>
+            <pubDate>Sat, 09 Jul 2022 15:48:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have you emigrated recently? Where to and why?]]></description>
+        </item>
         <item>
             <title><![CDATA[你将如何启动一个电信公司？ (re: Rogers outage)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31873896</guid>
             <pubDate>Sat, 25 Jun 2022 09:54:44 GMT</pubDate>
             <description><![CDATA[Ask HN: Seeking Cryptography Certification]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对于那些经历过的人来说，上一次的.com崩溃情况如何？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31873828</link>
-            <guid>https://news.ycombinator.com/item?id=31873828</guid>
-            <pubDate>Sat, 25 Jun 2022 09:42:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: For those of you who lived through it, how was the last .com crash?]]></description>
         </item>
     </channel>
 </rss>

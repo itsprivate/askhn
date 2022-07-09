@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T14:59:08.263Z</updated>
+    <updated>2022-07-09T16:02:17.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近移民了吗？去哪里，为什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036170</id>
+        <link href="https://news.ycombinator.com/item?id=32036170"/>
+        <updated>2022-07-09T15:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you emigrated recently? Where to and why?]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你将如何启动一个电信公司？ (re: Rogers outage)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mfbx9da4</name>
             <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于那些经历过的人来说，上一次的.com崩溃情况如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873828</id>
-        <link href="https://news.ycombinator.com/item?id=31873828"/>
-        <updated>2022-06-25T09:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: For those of you who lived through it, how was the last .com crash?]]></summary>
-        <author>
-            <name>digitcatphd</name>
-            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
         </author>
     </entry>
 </feed>
