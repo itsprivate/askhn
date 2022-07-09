@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T20:30:41.962Z</updated>
+    <updated>2022-07-09T20:46:11.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[音樂流媒體算法混合搭配。它存在嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038967</id>
+        <link href="https://news.ycombinator.com/item?id=32038967"/>
+        <updated>2022-07-09T20:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Music streaming algorithm mix-and-match: Does it exist?]]></summary>
+        <author>
+            <name>popcalc</name>
+            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在建造之前，你是如何測試想法的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>riksucks</name>
             <uri>https://news.ycombinator.com/user?id=riksucks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用Cloudflare Workers / Deno Deploy做什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31876686</id>
-        <link href="https://news.ycombinator.com/item?id=31876686"/>
-        <updated>2022-06-25T16:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: For what you use Cloudflare Workers / Deno Deploy?]]></summary>
-        <author>
-            <name>QuiiBz</name>
-            <uri>https://news.ycombinator.com/user?id=QuiiBz</uri>
         </author>
     </entry>
 </feed>
