@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T22:48:47.105Z</updated>
+    <updated>2022-07-09T23:29:04.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何選擇一個平面設計師？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32040201</id>
+        <link href="https://news.ycombinator.com/item?id=32040201"/>
+        <updated>2022-07-09T23:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Do You Select a Graphic Designer?]]></summary>
+        <author>
+            <name>richierob62</name>
+            <uri>https://news.ycombinator.com/user?id=richierob62</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉書業務經理賬戶被盜？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>KhoiUna</name>
             <uri>https://news.ycombinator.com/user?id=KhoiUna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為懂得高級語言的人提供Rust課程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31877738</id>
-        <link href="https://news.ycombinator.com/item?id=31877738"/>
-        <updated>2022-06-25T18:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Rust course for somebody that knows higher level languages]]></summary>
-        <author>
-            <name>randomguy0</name>
-            <uri>https://news.ycombinator.com/user?id=randomguy0</uri>
         </author>
     </entry>
 </feed>
