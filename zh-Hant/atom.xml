@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T21:58:18.874Z</updated>
+    <updated>2022-07-09T22:48:47.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臉書業務經理賬戶被盜？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32039965</id>
+        <link href="https://news.ycombinator.com/item?id=32039965"/>
+        <updated>2022-07-09T22:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Stolen Facebook Business manager account?]]></summary>
+        <author>
+            <name>tehwebguy</name>
+            <uri>https://news.ycombinator.com/user?id=tehwebguy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰給了你靈感，為什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomguy0</name>
             <uri>https://news.ycombinator.com/user?id=randomguy0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼來寫日記
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31877333</id>
-        <link href="https://news.ycombinator.com/item?id=31877333"/>
-        <updated>2022-06-25T18:03:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use for journaling]]></summary>
-        <author>
-            <name>beefhotdawg</name>
-            <uri>https://news.ycombinator.com/user?id=beefhotdawg</uri>
         </author>
     </entry>
 </feed>
