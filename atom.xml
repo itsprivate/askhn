@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T09:46:26.703Z</updated>
+    <updated>2022-07-09T10:50:06.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前Uber员工还被认为是 "被玷污 "吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033702</id>
+        <link href="https://news.ycombinator.com/item?id=32033702"/>
+        <updated>2022-07-09T10:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Former Uber Employees Still Considered “Tarnished?”]]></summary>
+        <author>
+            <name>treyfitty</name>
+            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要怎样才能使Windows 98的代码库被开放出来？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwaway345826</name>
             <uri>https://news.ycombinator.com/user?id=throwaway345826</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为幻想的地图开发GIS程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869757</id>
-        <link href="https://news.ycombinator.com/item?id=31869757"/>
-        <updated>2022-06-24T21:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to develop GIS program for fantasy maps?]]></summary>
-        <author>
-            <name>Otternonsenz</name>
-            <uri>https://news.ycombinator.com/user?id=Otternonsenz</uri>
         </author>
     </entry>
 </feed>
