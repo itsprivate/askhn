@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T02:23:20.832Z</updated>
+    <updated>2022-07-09T03:38:32.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何將蒙特梭利方法應用於軟件開發人員？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32030768</id>
+        <link href="https://news.ycombinator.com/item?id=32030768"/>
+        <updated>2022-07-09T02:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you apply Montessori methods for software developers?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些編程語言會區分 "舊 "和 "新 "價值？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pm2222</name>
             <uri>https://news.ycombinator.com/user?id=pm2222</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你能用簡單的英語與數據庫對話，你會嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31867708</id>
-        <link href="https://news.ycombinator.com/item?id=31867708"/>
-        <updated>2022-06-24T18:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you could talk to a database in plain English, would you?]]></summary>
-        <author>
-            <name>brochington</name>
-            <uri>https://news.ycombinator.com/user?id=brochington</uri>
         </author>
     </entry>
 </feed>
