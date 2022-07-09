@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T04:05:09.539Z</updated>
+    <updated>2022-07-09T04:49:35.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些初创企业在未来几年内会遇到困难
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031614</id>
+        <link href="https://news.ycombinator.com/item?id=32031614"/>
+        <updated>2022-07-09T04:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which startups will have a hard time in the next few years]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何计算/预订像AWS reInvent这样的会议的聚会的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amrrs</name>
             <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个中年的政治暴露者能成为一名CS研究者吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31868770</id>
-        <link href="https://news.ycombinator.com/item?id=31868770"/>
-        <updated>2022-06-24T20:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can a politically exposed person in middle age become a CS researcher?]]></summary>
-        <author>
-            <name>cs137</name>
-            <uri>https://news.ycombinator.com/user?id=cs137</uri>
         </author>
     </entry>
 </feed>
