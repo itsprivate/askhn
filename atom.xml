@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T18:00:13.926Z</updated>
+    <updated>2022-07-09T18:35:43.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[困惑和沮丧--需要指导
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037813</id>
+        <link href="https://news.ycombinator.com/item?id=32037813"/>
+        <updated>2022-07-09T18:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Stuck and Depressed – Need Guidance]]></summary>
+        <author>
+            <name>OulaX</name>
+            <uri>https://news.ycombinator.com/user?id=OulaX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重建整个遗留的软件系统是愚蠢的吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>akudha</name>
             <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每两年加入一家新的公司来增加自己的薪水是否可行？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874303</id>
-        <link href="https://news.ycombinator.com/item?id=31874303"/>
-        <updated>2022-06-25T11:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is joining a new company every 2 years to increase ones salary workable?]]></summary>
-        <author>
-            <name>gigatexal</name>
-            <uri>https://news.ycombinator.com/user?id=gigatexal</uri>
         </author>
     </entry>
 </feed>
