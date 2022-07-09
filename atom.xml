@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-09T06:33:26.758Z</updated>
+    <updated>2022-07-09T07:57:40.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通往1.2亿美元的道路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032918</id>
+        <link href="https://news.ycombinator.com/item?id=32032918"/>
+        <updated>2022-07-09T07:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Road to 1200M Dollars]]></summary>
+        <author>
+            <name>yoyopa</name>
+            <uri>https://news.ycombinator.com/user?id=yoyopa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Coders，你是否看着自己的代码，觉得它不属于你？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>shaburn</name>
             <uri>https://news.ycombinator.com/user?id=shaburn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何以及在哪里找到早期采用者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869118</id>
-        <link href="https://news.ycombinator.com/item?id=31869118"/>
-        <updated>2022-06-24T20:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How and where do you find early adopters?]]></summary>
-        <author>
-            <name>ilrwbwrkhv</name>
-            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
         </author>
     </entry>
 </feed>
