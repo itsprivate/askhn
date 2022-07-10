@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T18:54:25.061Z</updated>
+    <updated>2022-07-10T19:45:32.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么不通过两个参数指定音量：目标和范围？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048084</id>
+        <link href="https://news.ycombinator.com/item?id=32048084"/>
+        <updated>2022-07-10T19:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't sound volume specified via two parameters: target and range?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在投资方面，相当于HN的不是Reddit/Twitter，而是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>notyourday</name>
             <uri>https://news.ycombinator.com/user?id=notyourday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么来记录API合同？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886374</id>
-        <link href="https://news.ycombinator.com/item?id=31886374"/>
-        <updated>2022-06-26T18:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use to document API Contracts?]]></summary>
-        <author>
-            <name>ternaryJimbo</name>
-            <uri>https://news.ycombinator.com/user?id=ternaryJimbo</uri>
         </author>
     </entry>
 </feed>

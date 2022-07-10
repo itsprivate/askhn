@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 10 Jul 2022 18:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 19:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么不通过两个参数指定音量：目标和范围？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048084</link>
+            <guid>https://news.ycombinator.com/item?id=32048084</guid>
+            <pubDate>Sun, 10 Jul 2022 19:30:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why isn't sound volume specified via two parameters: target and range?]]></description>
+        </item>
         <item>
             <title><![CDATA[在投资方面，相当于HN的不是Reddit/Twitter，而是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31886630</guid>
             <pubDate>Sun, 26 Jun 2022 18:38:45 GMT</pubDate>
             <description><![CDATA[Ask HN: EC2 Instance Types by CPU Performance?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你用什么来记录API合同？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31886374</link>
-            <guid>https://news.ycombinator.com/item?id=31886374</guid>
-            <pubDate>Sun, 26 Jun 2022 18:14:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you use to document API Contracts?]]></description>
         </item>
     </channel>
 </rss>
