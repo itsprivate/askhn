@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T20:48:46.361Z</updated>
+    <updated>2022-07-10T23:46:41.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不太知名的教育/娛樂視頻網站值得訂閱嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32050432</id>
+        <link href="https://news.ycombinator.com/item?id=32050432"/>
+        <updated>2022-07-10T23:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Lesser known educational/entertainment video site worth subscribing to?]]></summary>
+        <author>
+            <name>akudha</name>
+            <uri>https://news.ycombinator.com/user?id=akudha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airbnb體驗館從未起飛的原因是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在20多歲時是個多好的開發者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886920</id>
-        <link href="https://news.ycombinator.com/item?id=31886920"/>
-        <updated>2022-06-26T19:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How good of a developer were you in your 20s?]]></summary>
-        <author>
-            <name>randomlytyping</name>
-            <uri>https://news.ycombinator.com/user?id=randomlytyping</uri>
         </author>
     </entry>
 </feed>
