@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 10 Jul 2022 08:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 09:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rust会不会是一个很好的过滤器，在面试中分离出不好的开发者？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32043118</link>
+            <guid>https://news.ycombinator.com/item?id=32043118</guid>
+            <pubDate>Sun, 10 Jul 2022 09:25:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will Rust be a good filter to separate bad developers in the interviews?]]></description>
+        </item>
         <item>
             <title><![CDATA[移动版的 "星链"？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31883570</guid>
             <pubDate>Sun, 26 Jun 2022 13:10:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Best country to educate and raise Neurodivergent kids]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GPT-3将我的全名透露给任何询问的人。我可以做什么吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31883373</link>
-            <guid>https://news.ycombinator.com/item?id=31883373</guid>
-            <pubDate>Sun, 26 Jun 2022 12:37:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?]]></description>
         </item>
     </channel>
 </rss>
