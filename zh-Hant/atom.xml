@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T04:41:13.136Z</updated>
+    <updated>2022-07-10T05:05:01.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能買到自己的飛艇/飛艇/飛艇嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32041933</id>
+        <link href="https://news.ycombinator.com/item?id=32041933"/>
+        <updated>2022-07-10T04:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you buy your own airship / dirigible / zeppelin?]]></summary>
+        <author>
+            <name>react_burger38</name>
+            <uri>https://news.ycombinator.com/user?id=react_burger38</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Stackoverflow改用廣告而不是對招聘信息收費？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pacificdevs</name>
             <uri>https://news.ycombinator.com/user?id=pacificdevs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何解釋CMake人群無力解釋CMake呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31878780</id>
-        <link href="https://news.ycombinator.com/item?id=31878780"/>
-        <updated>2022-06-25T21:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you explain the inability of the CMake crowd to explain CMake?]]></summary>
-        <author>
-            <name>ziffusion</name>
-            <uri>https://news.ycombinator.com/user?id=ziffusion</uri>
         </author>
     </entry>
 </feed>
