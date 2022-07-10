@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T19:45:32.779Z</updated>
+    <updated>2022-07-10T19:58:05.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否喜歡用算法而不是人去評估你的晉升？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048315</id>
+        <link href="https://news.ycombinator.com/item?id=32048315"/>
+        <updated>2022-07-10T19:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you prefer an algorithm to human for evaluating your promotion?]]></summary>
+        <author>
+            <name>amrrs</name>
+            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不通過兩個參數指定音量：目標和範圍？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>n42</name>
             <uri>https://news.ycombinator.com/user?id=n42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按CPU性能劃分的EC2實例類型？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886630</id>
-        <link href="https://news.ycombinator.com/item?id=31886630"/>
-        <updated>2022-06-26T18:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: EC2 Instance Types by CPU Performance?]]></summary>
-        <author>
-            <name>notyourday</name>
-            <uri>https://news.ycombinator.com/user?id=notyourday</uri>
         </author>
     </entry>
 </feed>
