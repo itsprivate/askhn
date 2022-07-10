@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T17:06:40.961Z</updated>
+    <updated>2022-07-10T17:37:14.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼人們在 "放棄 "時能得到東西？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32046684</id>
+        <link href="https://news.ycombinator.com/item?id=32046684"/>
+        <updated>2022-07-10T17:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do people get things when they “give up.”?]]></summary>
+        <author>
+            <name>actfrench</name>
+            <uri>https://news.ycombinator.com/user?id=actfrench</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡安全的最佳C.S.碩士課程？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thewebcount</name>
             <uri>https://news.ycombinator.com/user?id=thewebcount</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會為贏得10億美元的50/50機會支付多少錢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886123</id>
-        <link href="https://news.ycombinator.com/item?id=31886123"/>
-        <updated>2022-06-26T17:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much would you pay for a 50/50 chance to win $1B?]]></summary>
-        <author>
-            <name>remflight</name>
-            <uri>https://news.ycombinator.com/user?id=remflight</uri>
         </author>
     </entry>
 </feed>
