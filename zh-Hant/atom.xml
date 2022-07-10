@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T09:49:51.702Z</updated>
+    <updated>2022-07-10T11:43:40.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼智能手機不告訴聽力不好的用戶要買助聽器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043685</id>
+        <link href="https://news.ycombinator.com/item?id=32043685"/>
+        <updated>2022-07-10T11:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't smartphones tell users with poor hearing to get hearing aids?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust會不會是一個很好的過濾器，在面試中分離出不好的開發者？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwcancelling</name>
             <uri>https://news.ycombinator.com/user?id=throwcancelling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育和培養神經分裂症兒童的最佳國家
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883570</id>
-        <link href="https://news.ycombinator.com/item?id=31883570"/>
-        <updated>2022-06-26T13:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best country to educate and raise Neurodivergent kids]]></summary>
-        <author>
-            <name>ved_a</name>
-            <uri>https://news.ycombinator.com/user?id=ved_a</uri>
         </author>
     </entry>
 </feed>
