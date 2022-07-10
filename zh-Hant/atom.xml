@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T07:27:36.078Z</updated>
+    <updated>2022-07-10T08:33:14.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有相當於Calibre的音頻書籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042780</id>
+        <link href="https://news.ycombinator.com/item?id=32042780"/>
+        <updated>2022-07-10T08:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a Calibre equivalent for Audio books?]]></summary>
+        <author>
+            <name>gtsnexp</name>
+            <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何在給定的需求清單中搜索產品/應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042767</id>
+        <link href="https://news.ycombinator.com/item?id=32042767"/>
+        <updated>2022-07-10T08:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you search for products / apps given a list of requirements?]]></summary>
+        <author>
+            <name>meta-level</name>
+            <uri>https://news.ycombinator.com/user?id=meta-level</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這2022年如何做負載測試？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>davehcker</name>
             <uri>https://news.ycombinator.com/user?id=davehcker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年建立一個新的軟件公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882123</id>
-        <link href="https://news.ycombinator.com/item?id=31882123"/>
-        <updated>2022-06-26T08:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Building a new software company in 2022]]></summary>
-        <author>
-            <name>fandorin</name>
-            <uri>https://news.ycombinator.com/user?id=fandorin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織如何在亞秒級時間內檢測衝突的哈希值？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31881725</id>
-        <link href="https://news.ycombinator.com/item?id=31881725"/>
-        <updated>2022-06-26T06:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do orgs detect conflicting hashes in sub-second timing?]]></summary>
-        <author>
-            <name>adam_ellsworth</name>
-            <uri>https://news.ycombinator.com/user?id=adam_ellsworth</uri>
         </author>
     </entry>
 </feed>
