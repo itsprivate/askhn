@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T17:59:57.465Z</updated>
+    <updated>2022-07-10T18:34:16.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌如何與YouTube分享我的登錄信息？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32047236</id>
+        <link href="https://news.ycombinator.com/item?id=32047236"/>
+        <updated>2022-07-10T18:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Google share my login information with YouTube?]]></summary>
+        <author>
+            <name>zagrebian</name>
+            <uri>https://news.ycombinator.com/user?id=zagrebian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從福斯物質主義應用中恢復我的HN賬戶？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alibova</name>
             <uri>https://news.ycombinator.com/user?id=alibova</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最安全的瀏覽器？Chromium?
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886227</id>
-        <link href="https://news.ycombinator.com/item?id=31886227"/>
-        <updated>2022-06-26T17:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Most Secure Browser? Chromium?]]></summary>
-        <author>
-            <name>WorldDev</name>
-            <uri>https://news.ycombinator.com/user?id=WorldDev</uri>
         </author>
     </entry>
 </feed>
