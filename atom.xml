@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-10T18:34:16.325Z</updated>
+    <updated>2022-07-10T18:54:25.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在投资方面，相当于HN的不是Reddit/Twitter，而是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32047485</id>
+        <link href="https://news.ycombinator.com/item?id=32047485"/>
+        <updated>2022-07-10T18:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the HN equivalent for investing that isn't Reddit/Twitter?]]></summary>
+        <author>
+            <name>wilmoore</name>
+            <uri>https://news.ycombinator.com/user?id=wilmoore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌如何与YouTube分享我的登录信息？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ternaryJimbo</name>
             <uri>https://news.ycombinator.com/user?id=ternaryJimbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们在哪里发布项目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886231</id>
-        <link href="https://news.ycombinator.com/item?id=31886231"/>
-        <updated>2022-06-26T17:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you publish projects?]]></summary>
-        <author>
-            <name>alibova</name>
-            <uri>https://news.ycombinator.com/user?id=alibova</uri>
         </author>
     </entry>
 </feed>
