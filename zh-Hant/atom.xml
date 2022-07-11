@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T09:52:54.098Z</updated>
+    <updated>2022-07-11T10:34:11.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[質量第一的內容創作者社區？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054200</id>
+        <link href="https://news.ycombinator.com/item?id=32054200"/>
+        <updated>2022-07-11T10:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Quality first content creators community?]]></summary>
+        <author>
+            <name>toto444</name>
+            <uri>https://news.ycombinator.com/user?id=toto444</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新聞的起源
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fairytalemtg</name>
             <uri>https://news.ycombinator.com/user?id=fairytalemtg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦網絡UI設計的速成課程（30分鐘或更短）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889958</id>
-        <link href="https://news.ycombinator.com/item?id=31889958"/>
-        <updated>2022-06-27T02:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended crash courses in web UI design (30 minutes or less)]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>
