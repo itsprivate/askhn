@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T14:01:36.689Z</updated>
+    <updated>2022-07-11T14:36:52.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人对加拿大的创业签证有经验吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32056566</id>
+        <link href="https://news.ycombinator.com/item?id=32056566"/>
+        <updated>2022-07-11T14:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone have experiences with Canada's Startup Visa?]]></summary>
+        <author>
+            <name>slipheen</name>
+            <uri>https://news.ycombinator.com/user?id=slipheen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Facebook的桌面网站如此糟糕？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32056195</id>
+        <link href="https://news.ycombinator.com/item?id=32056195"/>
+        <updated>2022-07-11T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Facebook desktop website so bad?]]></summary>
+        <author>
+            <name>oskr</name>
+            <uri>https://news.ycombinator.com/user?id=oskr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用于编码和终端的默认字体是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>remvee</name>
             <uri>https://news.ycombinator.com/user?id=remvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在没有技术面试的情况下获得工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892105</id>
-        <link href="https://news.ycombinator.com/item?id=31892105"/>
-        <updated>2022-06-27T08:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get job without technical interview?]]></summary>
-        <author>
-            <name>websitescenes</name>
-            <uri>https://news.ycombinator.com/user?id=websitescenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing屏蔽了FOSS的文档网站，我怎样才能找到原因？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891635</id>
-        <link href="https://news.ycombinator.com/item?id=31891635"/>
-        <updated>2022-06-27T07:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bing blocking FOSS docs website, how do I find out why?]]></summary>
-        <author>
-            <name>jeffail</name>
-            <uri>https://news.ycombinator.com/user?id=jeffail</uri>
         </author>
     </entry>
 </feed>
