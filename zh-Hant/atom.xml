@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T10:34:11.436Z</updated>
+    <updated>2022-07-11T12:09:39.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多人棋牌遊戲是什麼棧道？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054857</id>
+        <link href="https://news.ycombinator.com/item?id=32054857"/>
+        <updated>2022-07-11T11:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What stack for a multiplayer board game?]]></summary>
+        <author>
+            <name>tsp</name>
+            <uri>https://news.ycombinator.com/user?id=tsp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[質量第一的內容創作者社區？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wallacrw</name>
             <uri>https://news.ycombinator.com/user?id=wallacrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN你為什麼不在新的標籤頁中默認打開文章？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889965</id>
-        <link href="https://news.ycombinator.com/item?id=31889965"/>
-        <updated>2022-06-27T02:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: HN why don't you open the article in new tab by default?]]></summary>
-        <author>
-            <name>fairytalemtg</name>
-            <uri>https://news.ycombinator.com/user?id=fairytalemtg</uri>
         </author>
     </entry>
 </feed>
