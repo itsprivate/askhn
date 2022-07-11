@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T12:09:39.330Z</updated>
+    <updated>2022-07-11T12:56:29.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在真的是轉換工作的好時機嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054810</id>
+        <link href="https://news.ycombinator.com/item?id=32054810"/>
+        <updated>2022-07-11T11:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it really a good time to switch jobs?]]></summary>
+        <author>
+            <name>SlowBr0</name>
+            <uri>https://news.ycombinator.com/user?id=SlowBr0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多人棋牌遊戲是什麼棧道？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FrenchDevRemote</name>
             <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在協調一項計劃，使小城鎮變得時髦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890206</id>
-        <link href="https://news.ycombinator.com/item?id=31890206"/>
-        <updated>2022-06-27T03:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is coordinating a plan to make small towns hipster?]]></summary>
-        <author>
-            <name>wallacrw</name>
-            <uri>https://news.ycombinator.com/user?id=wallacrw</uri>
         </author>
     </entry>
 </feed>
