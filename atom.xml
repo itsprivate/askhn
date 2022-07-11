@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T15:35:51.867Z</updated>
+    <updated>2022-07-11T15:55:54.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你今天拥有AGI，你的优先问题清单是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32057458</id>
+        <link href="https://news.ycombinator.com/item?id=32057458"/>
+        <updated>2022-07-11T15:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you had AGI today what is your priority list of problems..?]]></summary>
+        <author>
+            <name>bobosha</name>
+            <uri>https://news.ycombinator.com/user?id=bobosha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从企业转向个人开发？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>newsoul</name>
             <uri>https://news.ycombinator.com/user?id=newsoul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到与一篇文章类似的内容？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893242</id>
-        <link href="https://news.ycombinator.com/item?id=31893242"/>
-        <updated>2022-06-27T11:52:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find similar content to an article?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
         </author>
     </entry>
 </feed>
