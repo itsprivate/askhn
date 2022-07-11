@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T21:48:02.460Z</updated>
+    <updated>2022-07-11T22:29:47.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在2022年使用什麼CMS？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32062615</id>
+        <link href="https://news.ycombinator.com/item?id=32062615"/>
+        <updated>2022-07-11T22:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What CMS are you using in 2022?]]></summary>
+        <author>
+            <name>remoteyard</name>
+            <uri>https://news.ycombinator.com/user?id=remoteyard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何組織你的待辦事項清單的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>euos</name>
             <uri>https://news.ycombinator.com/user?id=euos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家初創公司應該在DataDog上花費多少錢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897862</id>
-        <link href="https://news.ycombinator.com/item?id=31897862"/>
-        <updated>2022-06-27T17:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How much should a startup expect to spend on DataDog?]]></summary>
-        <author>
-            <name>mattevenson</name>
-            <uri>https://news.ycombinator.com/user?id=mattevenson</uri>
         </author>
     </entry>
 </feed>
