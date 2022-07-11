@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Jul 2022 18:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 18:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Go的最佳功能中，Dart是否擊敗了Go？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32059787</link>
+            <guid>https://news.ycombinator.com/item?id=32059787</guid>
+            <pubDate>Mon, 11 Jul 2022 18:24:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does Dart beat Go in Go's best of features?]]></description>
+        </item>
         <item>
             <title><![CDATA[如果考慮從事股權工作，最重要的問題是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31894877</guid>
             <pubDate>Mon, 27 Jun 2022 14:15:48 GMT</pubDate>
             <description><![CDATA[Ask HN: How is the remote vs in-person trend looking?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Speedtest.net顯示隨機的公共ip
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31895285</link>
-            <guid>https://news.ycombinator.com/item?id=31895285</guid>
-            <pubDate>Mon, 27 Jun 2022 14:46:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Speedtest.net shows random public ips]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T18:05:16.944Z</updated>
+    <updated>2022-07-11T18:40:28.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Go的最佳功能中，Dart是否击败了Go？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32059787</id>
+        <link href="https://news.ycombinator.com/item?id=32059787"/>
+        <updated>2022-07-11T18:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Dart beat Go in Go's best of features?]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果考虑从事股权工作，最重要的问题是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aruanavekar</name>
             <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speedtest.net显示随机的公共ip
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895285</id>
-        <link href="https://news.ycombinator.com/item?id=31895285"/>
-        <updated>2022-06-27T14:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Speedtest.net shows random public ips]]></summary>
-        <author>
-            <name>mnadkvlb</name>
-            <uri>https://news.ycombinator.com/user?id=mnadkvlb</uri>
         </author>
     </entry>
 </feed>
