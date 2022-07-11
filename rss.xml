@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 22:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN慢吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32063032</link>
+            <guid>https://news.ycombinator.com/item?id=32063032</guid>
+            <pubDate>Mon, 11 Jul 2022 22:36:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is HN Slow?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在2022年使用什么CMS？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31898146</guid>
             <pubDate>Mon, 27 Jun 2022 17:54:01 GMT</pubDate>
             <description><![CDATA[Ask HN: Suggestions for dealing with overwhelm?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VSCode的最佳iPad Pro替代品？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31898106</link>
-            <guid>https://news.ycombinator.com/item?id=31898106</guid>
-            <pubDate>Mon, 27 Jun 2022 17:50:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best iPad Pro Alternative for VSCode?]]></description>
         </item>
     </channel>
 </rss>
