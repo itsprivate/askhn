@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T18:40:28.796Z</updated>
+    <updated>2022-07-11T19:27:33.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们的随叫随到政策是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32060428</id>
+        <link href="https://news.ycombinator.com/item?id=32060428"/>
+        <updated>2022-07-11T19:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your on-call policy?]]></summary>
+        <author>
+            <name>bwestergard</name>
+            <uri>https://news.ycombinator.com/user?id=bwestergard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为技术带头人，在FAANG的收购中生存下来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32060047</id>
+        <link href="https://news.ycombinator.com/item?id=32060047"/>
+        <updated>2022-07-11T18:44:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Surviving a FAANG acquisition as a tech lead]]></summary>
+        <author>
+            <name>twaway322</name>
+            <uri>https://news.ycombinator.com/user?id=twaway322</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Go的最佳功能中，Dart是否击败了Go？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>haliskerbas</name>
             <uri>https://news.ycombinator.com/user?id=haliskerbas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一份开发工作是做全栈还是前端？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895610</id>
-        <link href="https://news.ycombinator.com/item?id=31895610"/>
-        <updated>2022-06-27T15:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fullstack or front-end for first dev job?]]></summary>
-        <author>
-            <name>somewhatjustin</name>
-            <uri>https://news.ycombinator.com/user?id=somewhatjustin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[远程与现场的趋势如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31894877</id>
-        <link href="https://news.ycombinator.com/item?id=31894877"/>
-        <updated>2022-06-27T14:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is the remote vs in-person trend looking?]]></summary>
-        <author>
-            <name>aruanavekar</name>
-            <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
         </author>
     </entry>
 </feed>
