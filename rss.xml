@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Jul 2022 15:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 15:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从企业转向个人开发？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32057297</link>
+            <guid>https://news.ycombinator.com/item?id=32057297</guid>
+            <pubDate>Mon, 11 Jul 2022 15:18:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Moving from Corporate to Solo Dev?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何跟踪你的第三方API的变化？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32057243</link>
+            <guid>https://news.ycombinator.com/item?id=32057243</guid>
+            <pubDate>Mon, 11 Jul 2022 15:14:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you track changes in your third-party APIs?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们的个人域名将在我们死后过期，我们应该怎么做？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32057206</link>
+            <guid>https://news.ycombinator.com/item?id=32057206</guid>
+            <pubDate>Mon, 11 Jul 2022 15:12:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Our personal domain name will expire when we die, how should we do?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何处理经理/客户对你的估计提出质疑的？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31893242</guid>
             <pubDate>Mon, 27 Jun 2022 11:52:02 GMT</pubDate>
             <description><![CDATA[Ask HN: How to find similar content to an article?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[风扇对使用m2芯片的Xcode开发很重要吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31893097</link>
-            <guid>https://news.ycombinator.com/item?id=31893097</guid>
-            <pubDate>Mon, 27 Jun 2022 11:31:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is a fan important for Xcode development using the m2 chip?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的Kubernetes梦魇是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31892384</link>
-            <guid>https://news.ycombinator.com/item?id=31892384</guid>
-            <pubDate>Mon, 27 Jun 2022 09:39:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your Kubernetes nightmare?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的团队用什么来监测正常运行时间？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31892218</link>
-            <guid>https://news.ycombinator.com/item?id=31892218</guid>
-            <pubDate>Mon, 27 Jun 2022 09:14:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: What does your team use for uptime monitoring?]]></description>
         </item>
     </channel>
 </rss>
