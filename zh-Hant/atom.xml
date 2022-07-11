@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T07:30:24.408Z</updated>
+    <updated>2022-07-11T08:38:31.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些例子是用戶為產品發明新用途的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053539</id>
+        <link href="https://news.ycombinator.com/item?id=32053539"/>
+        <updated>2022-07-11T08:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some examples where users are inventing new uses for a product?]]></summary>
+        <author>
+            <name>p2pai</name>
+            <uri>https://news.ycombinator.com/user?id=p2pai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在2022年託管你的Postgres數據庫？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bobosha</name>
             <uri>https://news.ycombinator.com/user?id=bobosha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能阻止這個Facebook的跟蹤者呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889277</id>
-        <link href="https://news.ycombinator.com/item?id=31889277"/>
-        <updated>2022-06-27T00:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I stop this Facebook stalker?]]></summary>
-        <author>
-            <name>cyberlurker</name>
-            <uri>https://news.ycombinator.com/user?id=cyberlurker</uri>
         </author>
     </entry>
 </feed>
