@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T16:55:50.029Z</updated>
+    <updated>2022-07-11T17:20:50.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你应该多年轻才值得学习量子计算？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058751</id>
+        <link href="https://news.ycombinator.com/item?id=32058751"/>
+        <updated>2022-07-11T17:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How young should you be for quantum computation to be worth learning?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一个应用程序（或API）可以跟踪流行的SaaS价格变化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058537</id>
+        <link href="https://news.ycombinator.com/item?id=32058537"/>
+        <updated>2022-07-11T16:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there an app (or API) that tracks popular SaaS price changes?]]></summary>
+        <author>
+            <name>dhruvkar</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvkar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么指点可以让初学者掌握期权交易？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dom9301k</name>
             <uri>https://news.ycombinator.com/user?id=dom9301k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropshipping?
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31894601</id>
-        <link href="https://news.ycombinator.com/item?id=31894601"/>
-        <updated>2022-06-27T13:52:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Dropshipping?]]></summary>
-        <author>
-            <name>chirau</name>
-            <uri>https://news.ycombinator.com/user?id=chirau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot是开放源代码的死亡吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31894451</id>
-        <link href="https://news.ycombinator.com/item?id=31894451"/>
-        <updated>2022-06-27T13:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is GitHub Copilot the death of opensource?]]></summary>
-        <author>
-            <name>w4ffl35</name>
-            <uri>https://news.ycombinator.com/user?id=w4ffl35</uri>
         </author>
     </entry>
 </feed>
