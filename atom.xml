@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T08:38:31.227Z</updated>
+    <updated>2022-07-11T09:01:48.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自Cloudflare IP的奇怪的SSH探针
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053650</id>
+        <link href="https://news.ycombinator.com/item?id=32053650"/>
+        <updated>2022-07-11T08:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Weird SSH Probes from Cloudflare IPs]]></summary>
+        <author>
+            <name>skonteam</name>
+            <uri>https://news.ycombinator.com/user?id=skonteam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些例子是用户为产品发明新用途的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NikolaNovak</name>
             <uri>https://news.ycombinator.com/user?id=NikolaNovak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果量子计算实现了，有什么可能性？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889625</id>
-        <link href="https://news.ycombinator.com/item?id=31889625"/>
-        <updated>2022-06-27T01:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the possibilities if quantum computing delivers?]]></summary>
-        <author>
-            <name>bobosha</name>
-            <uri>https://news.ycombinator.com/user?id=bobosha</uri>
         </author>
     </entry>
 </feed>

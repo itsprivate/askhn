@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[來自Cloudflare IP的奇怪的SSH探針
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32053650</link>
+            <guid>https://news.ycombinator.com/item?id=32053650</guid>
+            <pubDate>Mon, 11 Jul 2022 08:35:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Weird SSH Probes from Cloudflare IPs]]></description>
+        </item>
         <item>
             <title><![CDATA[有哪些例子是用戶為產品發明新用途的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31889921</guid>
             <pubDate>Mon, 27 Jun 2022 02:12:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Why don't email verifications ever let me DENY the verification?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果量子計算實現了，有什麼可能性？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31889625</link>
-            <guid>https://news.ycombinator.com/item?id=31889625</guid>
-            <pubDate>Mon, 27 Jun 2022 01:16:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are the possibilities if quantum computing delivers?]]></description>
         </item>
     </channel>
 </rss>
