@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-11T21:28:01.434Z</updated>
+    <updated>2022-07-11T21:48:02.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何组织你的待办事项清单的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32062151</id>
+        <link href="https://news.ycombinator.com/item?id=32062151"/>
+        <updated>2022-07-11T21:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you organize your todo list?]]></summary>
+        <author>
+            <name>sIacker</name>
+            <uri>https://news.ycombinator.com/user?id=sIacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，你今天用什么技术来传递詹姆斯-韦伯的图像？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mattevenson</name>
             <uri>https://news.ycombinator.com/user?id=mattevenson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创始人,除了现金，创业项目有什么好处？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897635</id>
-        <link href="https://news.ycombinator.com/item?id=31897635"/>
-        <updated>2022-06-27T17:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Founders,Besides Cash, what about startup programs have been beneficial?]]></summary>
-        <author>
-            <name>pigtailgirl</name>
-            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
         </author>
     </entry>
 </feed>
