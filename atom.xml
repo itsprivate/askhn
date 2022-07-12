@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T09:02:30.613Z</updated>
+    <updated>2022-07-12T09:49:46.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为寻找计算机科学论文题目而苦恼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067569</id>
+        <link href="https://news.ycombinator.com/item?id=32067569"/>
+        <updated>2022-07-12T09:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Struggling to find a Computer Science thesis topic]]></summary>
+        <author>
+            <name>senda</name>
+            <uri>https://news.ycombinator.com/user?id=senda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么服务/方法可以获得每个工作区的slack（每周）摘要？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067518</id>
+        <link href="https://news.ycombinator.com/item?id=32067518"/>
+        <updated>2022-07-12T09:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any service/ways to get slack (weekly) digest per workspace?]]></summary>
+        <author>
+            <name>wey-gu</name>
+            <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的F/E与B/E的虫子比例是多少？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mezod</name>
             <uri>https://news.ycombinator.com/user?id=mezod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何与其他开发者建立联系？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901819</id>
-        <link href="https://news.ycombinator.com/item?id=31901819"/>
-        <updated>2022-06-27T22:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you network with other developers?]]></summary>
-        <author>
-            <name>charxyz</name>
-            <uri>https://news.ycombinator.com/user?id=charxyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么移动键盘的完成度这么差？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901726</id>
-        <link href="https://news.ycombinator.com/item?id=31901726"/>
-        <updated>2022-06-27T22:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is mobile keyboard completion so bad?]]></summary>
-        <author>
-            <name>eslaught</name>
-            <uri>https://news.ycombinator.com/user?id=eslaught</uri>
         </author>
     </entry>
 </feed>
