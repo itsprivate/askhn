@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T17:17:05.676Z</updated>
+    <updated>2022-07-12T17:45:09.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼故事標題中允許使用♥表情符號？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073231</id>
+        <link href="https://news.ycombinator.com/item?id=32073231"/>
+        <updated>2022-07-12T17:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Is ♥ Emoji Allowed in Story Titles?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼東西值得在Prime Day買嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Hbruz0</name>
             <uri>https://news.ycombinator.com/user?id=Hbruz0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有機會在量子計算機上工作嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905934</id>
-        <link href="https://news.ycombinator.com/item?id=31905934"/>
-        <updated>2022-06-28T09:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did you have a chance to work on quantum computer?]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
