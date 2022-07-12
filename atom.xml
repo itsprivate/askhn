@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T17:58:55.695Z</updated>
+    <updated>2022-07-12T18:39:49.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳低成瘾性手机？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073595</id>
+        <link href="https://news.ycombinator.com/item?id=32073595"/>
+        <updated>2022-07-12T18:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Low-Addictive Phone?]]></summary>
+        <author>
+            <name>nippoo</name>
+            <uri>https://news.ycombinator.com/user?id=nippoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我总是被拒绝？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>joe8756438</name>
             <uri>https://news.ycombinator.com/user?id=joe8756438</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作中用过哪些有趣的方式来使用罕见的算法或DS？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906302</id>
-        <link href="https://news.ycombinator.com/item?id=31906302"/>
-        <updated>2022-06-28T11:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What interesting ways have you used a rare algorithm or DS in your work?]]></summary>
-        <author>
-            <name>borneodataman</name>
-            <uri>https://news.ycombinator.com/user?id=borneodataman</uri>
         </author>
     </entry>
 </feed>
