@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T12:09:59.056Z</updated>
+    <updated>2022-07-12T13:01:44.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[良好的私人電子郵件主機與IMAP
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068975</id>
+        <link href="https://news.ycombinator.com/item?id=32068975"/>
+        <updated>2022-07-12T12:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good Private Email Host with IMAP]]></summary>
+        <author>
+            <name>zamalek</name>
+            <uri>https://news.ycombinator.com/user?id=zamalek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何開始學習低級別的編譯語言？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vkdelta</name>
             <uri>https://news.ycombinator.com/user?id=vkdelta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偽匿名註冊法律實體有哪些選擇？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902118</id>
-        <link href="https://news.ycombinator.com/item?id=31902118"/>
-        <updated>2022-06-27T23:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the options to register a legal entity pseudo-anonymously?]]></summary>
-        <author>
-            <name>punkpeye</name>
-            <uri>https://news.ycombinator.com/user?id=punkpeye</uri>
         </author>
     </entry>
 </feed>
