@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T15:34:24.415Z</updated>
+    <updated>2022-07-12T15:53:35.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你正在监测的最重要的系统指标是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071441</id>
+        <link href="https://news.ycombinator.com/item?id=32071441"/>
+        <updated>2022-07-12T15:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your most important system metrics being monitored?]]></summary>
+        <author>
+            <name>Dowwie</name>
+            <uri>https://news.ycombinator.com/user?id=Dowwie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有protobuf、Avro、JSON Schema等而不是ASN.1？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071420</id>
+        <link href="https://news.ycombinator.com/item?id=32071420"/>
+        <updated>2022-07-12T15:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there protobuf,Avro,JSON Schema,etc. instead of ASN.1?]]></summary>
+        <author>
+            <name>weitzj</name>
+            <uri>https://news.ycombinator.com/user?id=weitzj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[后端工程师，我应该学习什么新 "东西"？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nickmyersdt</name>
             <uri>https://news.ycombinator.com/user?id=nickmyersdt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做一个好的汽车音响设置真的很难吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904920</id>
-        <link href="https://news.ycombinator.com/item?id=31904920"/>
-        <updated>2022-06-28T06:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it really hard to make a good car stereo setup?]]></summary>
-        <author>
-            <name>varunraj22</name>
-            <uri>https://news.ycombinator.com/user?id=varunraj22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个（Twitter发现的）事实是多么真实
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904418</id>
-        <link href="https://news.ycombinator.com/item?id=31904418"/>
-        <updated>2022-06-28T05:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How true is this (Twitter found) fact]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>

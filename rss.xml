@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Jul 2022 15:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你正在监测的最重要的系统指标是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071441</link>
+            <guid>https://news.ycombinator.com/item?id=32071441</guid>
+            <pubDate>Tue, 12 Jul 2022 15:34:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are your most important system metrics being monitored?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么有protobuf、Avro、JSON Schema等而不是ASN.1？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071420</link>
+            <guid>https://news.ycombinator.com/item?id=32071420</guid>
+            <pubDate>Tue, 12 Jul 2022 15:33:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is there protobuf,Avro,JSON Schema,etc. instead of ASN.1?]]></description>
+        </item>
         <item>
             <title><![CDATA[后端工程师，我应该学习什么新 "东西"？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31904989</guid>
             <pubDate>Tue, 28 Jun 2022 07:06:17 GMT</pubDate>
             <description><![CDATA[Ask HN: Reasons to Be Cheerful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[做一个好的汽车音响设置真的很难吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31904920</link>
-            <guid>https://news.ycombinator.com/item?id=31904920</guid>
-            <pubDate>Tue, 28 Jun 2022 06:55:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it really hard to make a good car stereo setup?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这个（Twitter发现的）事实是多么真实
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31904418</link>
-            <guid>https://news.ycombinator.com/item?id=31904418</guid>
-            <pubDate>Tue, 28 Jun 2022 05:27:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: How true is this (Twitter found) fact]]></description>
         </item>
     </channel>
 </rss>
