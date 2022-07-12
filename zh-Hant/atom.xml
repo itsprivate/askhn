@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T15:00:26.320Z</updated>
+    <updated>2022-07-12T15:34:24.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[後端工程師，我應該學習什麼新 "東西"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071126</id>
+        <link href="https://news.ycombinator.com/item?id=32071126"/>
+        <updated>2022-07-12T15:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Back end engineers, what new “thing” should I learn?]]></summary>
+        <author>
+            <name>senda</name>
+            <uri>https://news.ycombinator.com/user?id=senda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我接下來應該學習什麼新的後端工具/框架/語言？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071102</id>
+        <link href="https://news.ycombinator.com/item?id=32071102"/>
+        <updated>2022-07-12T15:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What new back end tool/framework/language should I learn next?]]></summary>
+        <author>
+            <name>senda</name>
+            <uri>https://news.ycombinator.com/user?id=senda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能不能幫我找到一個不那麼老的HN頭條新聞？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070952</id>
+        <link href="https://news.ycombinator.com/item?id=32070952"/>
+        <updated>2022-07-12T14:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could you help me find a not-so-old HN top story?]]></summary>
+        <author>
+            <name>pil0u</name>
+            <uri>https://news.ycombinator.com/user?id=pil0u</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獵取產品是一場人氣競賽嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070921</id>
+        <link href="https://news.ycombinator.com/item?id=32070921"/>
+        <updated>2022-07-12T14:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is product hunt a popularity contest?]]></summary>
+        <author>
+            <name>jehlakj</name>
+            <uri>https://news.ycombinator.com/user?id=jehlakj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有毀掉被收購公司的大型收購案的例子
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你認為技術是第五維嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904303</id>
-        <link href="https://news.ycombinator.com/item?id=31904303"/>
-        <updated>2022-06-28T05:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think technology as 5th dimension?]]></summary>
-        <author>
-            <name>templarchamp</name>
-            <uri>https://news.ycombinator.com/user?id=templarchamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是最符合道德的方式，讓地球上的人更少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904289</id>
-        <link href="https://news.ycombinator.com/item?id=31904289"/>
-        <updated>2022-06-28T05:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the most ethical way to have less people on the planet?]]></summary>
-        <author>
-            <name>nominusllc</name>
-            <uri>https://news.ycombinator.com/user?id=nominusllc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何發現新事物的？趨勢、技術、流行等？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904112</id>
-        <link href="https://news.ycombinator.com/item?id=31904112"/>
-        <updated>2022-06-28T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you find out about new things? Trends, Tech, Fads and etc.?]]></summary>
-        <author>
-            <name>rootsudo</name>
-            <uri>https://news.ycombinator.com/user?id=rootsudo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何利用新YC的50萬美元標準交易優化種子槓桿？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904053</id>
-        <link href="https://news.ycombinator.com/item?id=31904053"/>
-        <updated>2022-06-28T04:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I optimize seed leverage with new YC's $500k Standard Deal?]]></summary>
-        <author>
-            <name>viet_nguyen</name>
-            <uri>https://news.ycombinator.com/user?id=viet_nguyen</uri>
         </author>
     </entry>
 </feed>
