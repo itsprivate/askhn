@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T19:58:58.610Z</updated>
+    <updated>2022-07-12T20:35:41.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最適合有經驗的程序員的React和TypeScript書籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075207</id>
+        <link href="https://news.ycombinator.com/item?id=32075207"/>
+        <updated>2022-07-12T20:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best React and TypeScript book for experienced programmers?]]></summary>
+        <author>
+            <name>manuelabeledo</name>
+            <uri>https://news.ycombinator.com/user?id=manuelabeledo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼北美郊區的財產限制如此模糊？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075183</id>
+        <link href="https://news.ycombinator.com/item?id=32075183"/>
+        <updated>2022-07-12T20:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are property limits so fuzzy in North American suburbs?]]></summary>
+        <author>
+            <name>lbrito</name>
+            <uri>https://news.ycombinator.com/user?id=lbrito</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何大規模地管理集中配置的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075115</id>
+        <link href="https://news.ycombinator.com/item?id=32075115"/>
+        <updated>2022-07-12T20:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you managing centralized configs at scale?]]></summary>
+        <author>
+            <name>aliqot</name>
+            <uri>https://news.ycombinator.com/user?id=aliqot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對蘋果硅、英特爾和AMD芯片進行基準測試的最佳方式是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32074969</id>
+        <link href="https://news.ycombinator.com/item?id=32074969"/>
+        <updated>2022-07-12T20:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best way to benchmark Apple Silicon, Intel and AMD chips?]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發者工作站的備份
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069251</id>
+        <link href="https://news.ycombinator.com/item?id=32069251"/>
+        <updated>2022-07-12T13:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Developer Workstation Backups]]></summary>
+        <author>
+            <name>a2tech</name>
+            <uri>https://news.ycombinator.com/user?id=a2tech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年的最佳自助編碼面試資源？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>toshaga</name>
             <uri>https://news.ycombinator.com/user?id=toshaga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋求關於SaaS的可參考性/客戶日誌的指導意見
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910084</id>
-        <link href="https://news.ycombinator.com/item?id=31910084"/>
-        <updated>2022-06-28T16:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Seeking pointers on reference-ability/customer-logos for SaaS]]></summary>
-        <author>
-            <name>sramam</name>
-            <uri>https://news.ycombinator.com/user?id=sramam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊戲開發的經濟學書籍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31909874</id>
-        <link href="https://news.ycombinator.com/item?id=31909874"/>
-        <updated>2022-06-28T16:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Economics Books for Game Development]]></summary>
-        <author>
-            <name>bliblablub4</name>
-            <uri>https://news.ycombinator.com/user?id=bliblablub4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該考慮搬到哪裡去？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31909715</id>
-        <link href="https://news.ycombinator.com/item?id=31909715"/>
-        <updated>2022-06-28T16:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where should I consider moving?]]></summary>
-        <author>
-            <name>snoopy_telex</name>
-            <uri>https://news.ycombinator.com/user?id=snoopy_telex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於超越錯誤33？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31909169</id>
-        <link href="https://news.ycombinator.com/item?id=31909169"/>
-        <updated>2022-06-28T15:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: On Beyond Error 33?]]></summary>
-        <author>
-            <name>abrax3141</name>
-            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KeyBase被Zoom收購後，你用什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31909106</id>
-        <link href="https://news.ycombinator.com/item?id=31909106"/>
-        <updated>2022-06-28T15:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: After KeyBase buyout by Zoom what do you use?]]></summary>
-        <author>
-            <name>giancarlostoro</name>
-            <uri>https://news.ycombinator.com/user?id=giancarlostoro</uri>
         </author>
     </entry>
 </feed>
