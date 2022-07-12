@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T17:45:09.624Z</updated>
+    <updated>2022-07-12T17:58:55.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我總是被拒絕？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073483</id>
+        <link href="https://news.ycombinator.com/item?id=32073483"/>
+        <updated>2022-07-12T17:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do I keep getting rejected?]]></summary>
+        <author>
+            <name>pdx_flyer</name>
+            <uri>https://news.ycombinator.com/user?id=pdx_flyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼故事標題中允許使用♥表情符號？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>borneodataman</name>
             <uri>https://news.ycombinator.com/user?id=borneodataman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是最好的教科書閱讀器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905986</id>
-        <link href="https://news.ycombinator.com/item?id=31905986"/>
-        <updated>2022-06-28T10:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best ereader for textbooks?]]></summary>
-        <author>
-            <name>Hbruz0</name>
-            <uri>https://news.ycombinator.com/user?id=Hbruz0</uri>
         </author>
     </entry>
 </feed>

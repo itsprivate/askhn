@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼我總是被拒絕？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32073483</link>
+            <guid>https://news.ycombinator.com/item?id=32073483</guid>
+            <pubDate>Tue, 12 Jul 2022 17:53:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do I keep getting rejected?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼故事標題中允許使用♥表情符號？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31906302</guid>
             <pubDate>Tue, 28 Jun 2022 11:15:56 GMT</pubDate>
             <description><![CDATA[Ask HN: What interesting ways have you used a rare algorithm or DS in your work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什麼是最好的教科書閱讀器？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31905986</link>
-            <guid>https://news.ycombinator.com/item?id=31905986</guid>
-            <pubDate>Tue, 28 Jun 2022 10:12:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the best ereader for textbooks?]]></description>
         </item>
     </channel>
 </rss>
