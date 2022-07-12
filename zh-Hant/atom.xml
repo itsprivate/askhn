@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T20:35:41.586Z</updated>
+    <updated>2022-07-12T20:51:22.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在YouTube上遇到過這種 "請不要讓我死 "的廣告嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075288</id>
+        <link href="https://news.ycombinator.com/item?id=32075288"/>
+        <updated>2022-07-12T20:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you encountered this “please don’t let me die” ads on YouTube?]]></summary>
+        <author>
+            <name>reiichiroh</name>
+            <uri>https://news.ycombinator.com/user?id=reiichiroh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費是註定的，為什麼很多人還是要保留它？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075239</id>
+        <link href="https://news.ycombinator.com/item?id=32075239"/>
+        <updated>2022-07-12T20:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Freemium is doomed, why do many keep it anyway?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何在另一個國家遠程工作的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075223</id>
+        <link href="https://news.ycombinator.com/item?id=32075223"/>
+        <updated>2022-07-12T20:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you working remotely in another country?]]></summary>
+        <author>
+            <name>LivingGlitcher</name>
+            <uri>https://news.ycombinator.com/user?id=LivingGlitcher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最適合有經驗的程序員的React和TypeScript書籍？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>2bor-2n</name>
             <uri>https://news.ycombinator.com/user?id=2bor-2n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何開始為Kubernetes開發一個應用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31911707</id>
-        <link href="https://news.ycombinator.com/item?id=31911707"/>
-        <updated>2022-06-28T19:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you go about starting to develop an application for Kubernetes?]]></summary>
-        <author>
-            <name>raghule</name>
-            <uri>https://news.ycombinator.com/user?id=raghule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼可以替代谷歌新聞的可行方案嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31911319</id>
-        <link href="https://news.ycombinator.com/item?id=31911319"/>
-        <updated>2022-06-28T18:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any viable alternatives to Google News?]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在一個夢想的混合辦公室工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910565</id>
-        <link href="https://news.ycombinator.com/item?id=31910565"/>
-        <updated>2022-06-28T17:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you working in a dream hybrid office?]]></summary>
-        <author>
-            <name>toshaga</name>
-            <uri>https://news.ycombinator.com/user?id=toshaga</uri>
         </author>
     </entry>
 </feed>
