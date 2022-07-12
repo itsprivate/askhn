@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T08:39:39.726Z</updated>
+    <updated>2022-07-12T09:02:30.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的F/E与B/E的虫子比例是多少？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067154</id>
+        <link href="https://news.ycombinator.com/item?id=32067154"/>
+        <updated>2022-07-12T08:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your F/E vs B/E bugs ratio?]]></summary>
+        <author>
+            <name>mirekrusin</name>
+            <uri>https://news.ycombinator.com/user?id=mirekrusin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能识别亚马逊上的Prime Day骗局吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>eslaught</name>
             <uri>https://news.ycombinator.com/user?id=eslaught</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何成功的科技类非营利组织？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901654</id>
-        <link href="https://news.ycombinator.com/item?id=31901654"/>
-        <updated>2022-06-27T22:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any successful Tech non-profits?]]></summary>
-        <author>
-            <name>samemail88</name>
-            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
         </author>
     </entry>
 </feed>
