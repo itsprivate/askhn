@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T22:48:36.983Z</updated>
+    <updated>2022-07-12T23:31:06.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[域名是否影响SEO？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32077010</id>
+        <link href="https://news.ycombinator.com/item?id=32077010"/>
+        <updated>2022-07-12T23:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does domain name affect SEO?]]></summary>
+        <author>
+            <name>localseostudio</name>
+            <uri>https://news.ycombinator.com/user?id=localseostudio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这里有人从事过Windows内核的工作吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>actfrench</name>
             <uri>https://news.ycombinator.com/user?id=actfrench</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁对新提交的材料进行投票？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31913023</id>
-        <link href="https://news.ycombinator.com/item?id=31913023"/>
-        <updated>2022-06-28T21:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Votes on New Submissions?]]></summary>
-        <author>
-            <name>abranti</name>
-            <uri>https://news.ycombinator.com/user?id=abranti</uri>
         </author>
     </entry>
 </feed>
