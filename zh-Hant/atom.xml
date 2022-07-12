@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T15:53:35.196Z</updated>
+    <updated>2022-07-12T16:45:47.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何進行系統設計的實戰演練？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32072296</id>
+        <link href="https://news.ycombinator.com/item?id=32072296"/>
+        <updated>2022-07-12T16:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to do hands-on practice of system design?]]></summary>
+        <author>
+            <name>maheshs</name>
+            <uri>https://news.ycombinator.com/user?id=maheshs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何使代碼審查不至於耗時過長？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071776</id>
+        <link href="https://news.ycombinator.com/item?id=32071776"/>
+        <updated>2022-07-12T15:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you keep code reviews from taking forever?]]></summary>
+        <author>
+            <name>teeray</name>
+            <uri>https://news.ycombinator.com/user?id=teeray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你正在監測的最重要的系統指標是什麼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>user0x1d</name>
             <uri>https://news.ycombinator.com/user?id=user0x1d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件能否為利用清潔能源做出貢獻？從哪裡開始？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904996</id>
-        <link href="https://news.ycombinator.com/item?id=31904996"/>
-        <updated>2022-06-28T07:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can software contribute to harnessing clean energy? Where to start?]]></summary>
-        <author>
-            <name>febin</name>
-            <uri>https://news.ycombinator.com/user?id=febin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打起精神來的理由
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904989</id>
-        <link href="https://news.ycombinator.com/item?id=31904989"/>
-        <updated>2022-06-28T07:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Reasons to Be Cheerful]]></summary>
-        <author>
-            <name>nickmyersdt</name>
-            <uri>https://news.ycombinator.com/user?id=nickmyersdt</uri>
         </author>
     </entry>
 </feed>
