@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-12T13:01:44.315Z</updated>
+    <updated>2022-07-12T13:56:26.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为人类建立一个ZKP计划
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069723</id>
+        <link href="https://news.ycombinator.com/item?id=32069723"/>
+        <updated>2022-07-12T13:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Building a ZKP Scheme for Humans]]></summary>
+        <author>
+            <name>locriacyber</name>
+            <uri>https://news.ycombinator.com/user?id=locriacyber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么GWT或Vaadin没有在Java开发者中更受欢迎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069468</id>
+        <link href="https://news.ycombinator.com/item?id=32069468"/>
+        <updated>2022-07-12T13:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't GWT or Vaadin more popular among Java developers?]]></summary>
+        <author>
+            <name>oldjavacoder</name>
+            <uri>https://news.ycombinator.com/user?id=oldjavacoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[良好的私人电子邮件主机与IMAP
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sonofacorner</name>
             <uri>https://news.ycombinator.com/user?id=sonofacorner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一本书的作者或应用程序的作者。你更尊重哪个？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902211</id>
-        <link href="https://news.ycombinator.com/item?id=31902211"/>
-        <updated>2022-06-27T23:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Author of a Book or App. Which do you respect more?]]></summary>
-        <author>
-            <name>emotf</name>
-            <uri>https://news.ycombinator.com/user?id=emotf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么电动车比汽油车贵得多？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902203</id>
-        <link href="https://news.ycombinator.com/item?id=31902203"/>
-        <updated>2022-06-27T23:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are EVs significantly more expensive than Gasoline Vehicles?]]></summary>
-        <author>
-            <name>vkdelta</name>
-            <uri>https://news.ycombinator.com/user?id=vkdelta</uri>
         </author>
     </entry>
 </feed>
