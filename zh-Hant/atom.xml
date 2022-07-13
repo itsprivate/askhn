@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T17:47:17.538Z</updated>
+    <updated>2022-07-13T18:36:31.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望你在開始編碼之前就知道的事情？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32086805</id>
+        <link href="https://news.ycombinator.com/item?id=32086805"/>
+        <updated>2022-07-13T18:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Something you wish you knew before you started coding?]]></summary>
+        <author>
+            <name>shreythecray</name>
+            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們是否需要一個更好的工作流程解決方案存在，或者它已經存在了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32086607</id>
+        <link href="https://news.ycombinator.com/item?id=32086607"/>
+        <updated>2022-07-13T18:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do we need a better workflow solution exist, or is it already out there?]]></summary>
+        <author>
+            <name>mattewong</name>
+            <uri>https://news.ycombinator.com/user?id=mattewong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有可能讓一個18歲的孩子減少花在電腦上的時間嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>HairMeOut</name>
             <uri>https://news.ycombinator.com/user?id=HairMeOut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向孩子教授二進制的巧妙方法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31926992</id>
-        <link href="https://news.ycombinator.com/item?id=31926992"/>
-        <updated>2022-06-29T23:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Clever ways to teach binary to a child?]]></summary>
-        <author>
-            <name>herodoturtle</name>
-            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼信使搜索是錯誤的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31926930</id>
-        <link href="https://news.ycombinator.com/item?id=31926930"/>
-        <updated>2022-06-29T23:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why messenger search is wrong]]></summary>
-        <author>
-            <name>bncy</name>
-            <uri>https://news.ycombinator.com/user?id=bncy</uri>
         </author>
     </entry>
 </feed>
