@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T08:35:12.816Z</updated>
+    <updated>2022-07-13T09:29:09.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪家VPS供应商能在即将到来的冬天生存下来？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080370</id>
+        <link href="https://news.ycombinator.com/item?id=32080370"/>
+        <updated>2022-07-13T08:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which VPS provider will survive the coming winter?]]></summary>
+        <author>
+            <name>jmnicolas</name>
+            <uri>https://news.ycombinator.com/user?id=jmnicolas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的散文/长篇博文是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tempsy</name>
             <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些全球城市的每一美元能提供最佳的生活质量？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915103</id>
-        <link href="https://news.ycombinator.com/item?id=31915103"/>
-        <updated>2022-06-29T00:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which global cities offer the best quality of life per dollar?]]></summary>
-        <author>
-            <name>whitepoplar</name>
-            <uri>https://news.ycombinator.com/user?id=whitepoplar</uri>
         </author>
     </entry>
 </feed>
