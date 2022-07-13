@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Jul 2022 21:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 21:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[負載測試API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32088846</link>
+            <guid>https://news.ycombinator.com/item?id=32088846</guid>
+            <pubDate>Wed, 13 Jul 2022 21:14:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: Load Testing APIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學習編程語言設計的好資源？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32088787</link>
+            <guid>https://news.ycombinator.com/item?id=32088787</guid>
+            <pubDate>Wed, 13 Jul 2022 21:08:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Good resources to learn about programming language design?]]></description>
+        </item>
         <item>
             <title><![CDATA[你使用圖形數據庫的經驗是什麼？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31930460</guid>
             <pubDate>Thu, 30 Jun 2022 09:53:19 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you trust solo entrepreneurs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[語言學）統計學上得出的最有用的詞的字典？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31930391</link>
-            <guid>https://news.ycombinator.com/item?id=31930391</guid>
-            <pubDate>Thu, 30 Jun 2022 09:41:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Linguistics) a statistically derived dictionary of most useful words?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人們必須在面試中解決問題，這有意義嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31930175</link>
-            <guid>https://news.ycombinator.com/item?id=31930175</guid>
-            <pubDate>Thu, 30 Jun 2022 09:04:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does it make sense for people to have to solve problems in interviews?]]></description>
         </item>
     </channel>
 </rss>
