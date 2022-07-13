@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T10:02:01.931Z</updated>
+    <updated>2022-07-13T10:39:31.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鼓勵非專利藥生產商生產已獲專利的罕見疾病藥物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080762</id>
+        <link href="https://news.ycombinator.com/item?id=32080762"/>
+        <updated>2022-07-13T10:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Encouraging generic drug makers to produce off-patent rare-disease drugs]]></summary>
+        <author>
+            <name>ackbar03</name>
+            <uri>https://news.ycombinator.com/user?id=ackbar03</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些瀏覽器擴展可以自動進行有彈出窗口的重複性點擊？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>megasquid</name>
             <uri>https://news.ycombinator.com/user?id=megasquid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些生活方式選擇導致了認知功能/記憶力的改善？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31916041</id>
-        <link href="https://news.ycombinator.com/item?id=31916041"/>
-        <updated>2022-06-29T03:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What lifestyle choices have led to improved cognitive function/memory?]]></summary>
-        <author>
-            <name>jarbus</name>
-            <uri>https://news.ycombinator.com/user?id=jarbus</uri>
         </author>
     </entry>
 </feed>
