@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T19:58:20.978Z</updated>
+    <updated>2022-07-13T20:34:12.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的工作中，你必須要為工作獻殷勤嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088019</id>
+        <link href="https://news.ycombinator.com/item?id=32088019"/>
+        <updated>2022-07-13T19:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you have to schmooze for work at your job?]]></summary>
+        <author>
+            <name>smelly101</name>
+            <uri>https://news.ycombinator.com/user?id=smelly101</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何從AWS lambdas的執行中計算指標？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32087990</id>
+        <link href="https://news.ycombinator.com/item?id=32087990"/>
+        <updated>2022-07-13T19:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to count metrics from executions of AWS lambdas?]]></summary>
+        <author>
+            <name>shlosky</name>
+            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有沒有人成功地從技術領域轉出？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fastily</name>
             <uri>https://news.ycombinator.com/user?id=fastily</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解決無家可歸的問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31928655</id>
-        <link href="https://news.ycombinator.com/item?id=31928655"/>
-        <updated>2022-06-30T04:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Solve Homelessness?]]></summary>
-        <author>
-            <name>pkdpic</name>
-            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在哪裡購買未上鎖的智能手機？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31928606</id>
-        <link href="https://news.ycombinator.com/item?id=31928606"/>
-        <updated>2022-06-30T04:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to Buy Unlocked Smartphone?]]></summary>
-        <author>
-            <name>amir734jj</name>
-            <uri>https://news.ycombinator.com/user?id=amir734jj</uri>
         </author>
     </entry>
 </feed>
