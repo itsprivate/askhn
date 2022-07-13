@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T09:29:09.599Z</updated>
+    <updated>2022-07-13T10:02:01.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些浏览器扩展可以自动进行有弹出窗口的重复性点击？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080611</id>
+        <link href="https://news.ycombinator.com/item?id=32080611"/>
+        <updated>2022-07-13T09:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Browser extensions automate repetitive clicks that have popups?]]></summary>
+        <author>
+            <name>segah</name>
+            <uri>https://news.ycombinator.com/user?id=segah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪家VPS供应商能在即将到来的冬天生存下来？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jarbus</name>
             <uri>https://news.ycombinator.com/user?id=jarbus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的总报酬是否随着股票的下跌而发生急剧变化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915836</id>
-        <link href="https://news.ycombinator.com/item?id=31915836"/>
-        <updated>2022-06-29T02:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has your total compensation drastically changed with the stock downturn?]]></summary>
-        <author>
-            <name>tempsy</name>
-            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
         </author>
     </entry>
 </feed>
