@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T12:57:54.873Z</updated>
+    <updated>2022-07-13T14:01:40.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix如何预装下一个视频？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082365</id>
+        <link href="https://news.ycombinator.com/item?id=32082365"/>
+        <updated>2022-07-13T13:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Netflix preloads the next video?]]></summary>
+        <author>
+            <name>fuadnafiz98</name>
+            <uri>https://news.ycombinator.com/user?id=fuadnafiz98</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家是如何找到天空中最古老的部分来观察的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082036</id>
+        <link href="https://news.ycombinator.com/item?id=32082036"/>
+        <updated>2022-07-13T13:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do astronomers find the oldest sections of the sky to look at?]]></summary>
+        <author>
+            <name>thatbat</name>
+            <uri>https://news.ycombinator.com/user?id=thatbat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有关于计算机科学和技术的印刷报纸或杂志？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081873</id>
+        <link href="https://news.ycombinator.com/item?id=32081873"/>
+        <updated>2022-07-13T12:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any print newspapers or magazines about computer science and tech?]]></summary>
+        <author>
+            <name>MatthiasPortzel</name>
+            <uri>https://news.ycombinator.com/user?id=MatthiasPortzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[间谍软件难道不能通过受信任的MitM代理隧道进行颠覆吗？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>AirMan</name>
             <uri>https://news.ycombinator.com/user?id=AirMan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[算法的功能性与强制性的实现
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920038</id>
-        <link href="https://news.ycombinator.com/item?id=31920038"/>
-        <updated>2022-06-29T13:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Functional vs. Imperative Implementation of Algorithms]]></summary>
-        <author>
-            <name>newsoul</name>
-            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什么来建立auth？一个库，一个供应商，还是你自己写的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31919548</id>
-        <link href="https://news.ycombinator.com/item?id=31919548"/>
-        <updated>2022-06-29T13:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use to build auth? A library, a provider, writing your own?]]></summary>
-        <author>
-            <name>lumenwrites</name>
-            <uri>https://news.ycombinator.com/user?id=lumenwrites</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伟大的视觉或其他的PL和他们的类别/子C的分解？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31919255</id>
-        <link href="https://news.ycombinator.com/item?id=31919255"/>
-        <updated>2022-06-29T12:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Great visual or other breakdowns of PL's and their categories/sub-c's?]]></summary>
-        <author>
-            <name>SaulJLH</name>
-            <uri>https://news.ycombinator.com/user?id=SaulJLH</uri>
         </author>
     </entry>
 </feed>

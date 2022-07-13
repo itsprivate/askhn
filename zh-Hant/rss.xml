@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Jul 2022 12:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Netflix如何預裝下一個視頻？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32082365</link>
+            <guid>https://news.ycombinator.com/item?id=32082365</guid>
+            <pubDate>Wed, 13 Jul 2022 13:25:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: How Netflix preloads the next video?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[天文學家是如何找到天空中最古老的部分來觀察的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32082036</link>
+            <guid>https://news.ycombinator.com/item?id=32082036</guid>
+            <pubDate>Wed, 13 Jul 2022 13:02:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do astronomers find the oldest sections of the sky to look at?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有沒有關於計算機科學和技術的印刷報紙或雜誌？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081873</link>
+            <guid>https://news.ycombinator.com/item?id=32081873</guid>
+            <pubDate>Wed, 13 Jul 2022 12:50:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any print newspapers or magazines about computer science and tech?]]></description>
+        </item>
         <item>
             <title><![CDATA[間諜軟件難道不能通過受信任的MitM代理隧道進行顛覆嗎？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31920655</guid>
             <pubDate>Wed, 29 Jun 2022 14:31:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Do we need to be first to market?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[算法的功能性與強制性的實現
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31920038</link>
-            <guid>https://news.ycombinator.com/item?id=31920038</guid>
-            <pubDate>Wed, 29 Jun 2022 13:47:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Functional vs. Imperative Implementation of Algorithms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你用什麼來建立auth？一個庫，一個供應商，還是你自己寫的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919548</link>
-            <guid>https://news.ycombinator.com/item?id=31919548</guid>
-            <pubDate>Wed, 29 Jun 2022 13:04:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you use to build auth? A library, a provider, writing your own?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[偉大的視覺或其他的PL和他們的類別/子C的分解？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919255</link>
-            <guid>https://news.ycombinator.com/item?id=31919255</guid>
-            <pubDate>Wed, 29 Jun 2022 12:32:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Great visual or other breakdowns of PL's and their categories/sub-c's?]]></description>
         </item>
     </channel>
 </rss>
