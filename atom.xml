@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T19:25:48.762Z</updated>
+    <updated>2022-07-13T19:58:20.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有人成功地从技术领域转出？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32087927</id>
+        <link href="https://news.ycombinator.com/item?id=32087927"/>
+        <updated>2022-07-13T19:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has any one successfully pivoted away from tech?]]></summary>
+        <author>
+            <name>arrjayh</name>
+            <uri>https://news.ycombinator.com/user?id=arrjayh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜欢你的智能手机吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amir734jj</name>
             <uri>https://news.ycombinator.com/user?id=amir734jj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对登陆页面的反馈
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31928501</id>
-        <link href="https://news.ycombinator.com/item?id=31928501"/>
-        <updated>2022-06-30T03:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Feedback on Landing Page]]></summary>
-        <author>
-            <name>dsingh1990</name>
-            <uri>https://news.ycombinator.com/user?id=dsingh1990</uri>
         </author>
     </entry>
 </feed>
