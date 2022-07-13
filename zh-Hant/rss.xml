@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 13 Jul 2022 11:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 12:57:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[間諜軟件難道不能通過受信任的MitM代理隧道進行顛覆嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081799</link>
+            <guid>https://news.ycombinator.com/item?id=32081799</guid>
+            <pubDate>Wed, 13 Jul 2022 12:40:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: Couldn’t spyware be subverted by tunneling through a trusted MitM proxy?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[社交媒體中的機器人的定義是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081558</link>
+            <guid>https://news.ycombinator.com/item?id=32081558</guid>
+            <pubDate>Wed, 13 Jul 2022 12:12:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the definition of a bot in social media?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不更新手機的現實世界的危險？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081508</link>
+            <guid>https://news.ycombinator.com/item?id=32081508</guid>
+            <pubDate>Wed, 13 Jul 2022 12:05:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Real-world danger of not updating phone?]]></description>
+        </item>
         <item>
             <title><![CDATA[支付USDT的遠程工作/等。
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31919255</guid>
             <pubDate>Wed, 29 Jun 2022 12:32:37 GMT</pubDate>
             <description><![CDATA[Ask HN: Great visual or other breakdowns of PL's and their categories/sub-c's?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你使用哪些不常見的科技產品？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31918221</link>
-            <guid>https://news.ycombinator.com/item?id=31918221</guid>
-            <pubDate>Wed, 29 Jun 2022 10:04:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: What uncommon tech products do you use?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何保護一個只有HTML文件的 "博客 "網站？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31917807</link>
-            <guid>https://news.ycombinator.com/item?id=31917807</guid>
-            <pubDate>Wed, 29 Jun 2022 08:47:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to secure a “blog” website that is just HTML files?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個突變體可以有一個競賽條件嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31917928</link>
-            <guid>https://news.ycombinator.com/item?id=31917928</guid>
-            <pubDate>Wed, 29 Jun 2022 09:13:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can a mutex have a race condition?]]></description>
         </item>
     </channel>
 </rss>

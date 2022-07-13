@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T11:27:59.256Z</updated>
+    <updated>2022-07-13T12:57:54.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[间谍软件难道不能通过受信任的MitM代理隧道进行颠覆吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081799</id>
+        <link href="https://news.ycombinator.com/item?id=32081799"/>
+        <updated>2022-07-13T12:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Couldn’t spyware be subverted by tunneling through a trusted MitM proxy?]]></summary>
+        <author>
+            <name>SnowHill9902</name>
+            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交媒体中的机器人的定义是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081558</id>
+        <link href="https://news.ycombinator.com/item?id=32081558"/>
+        <updated>2022-07-13T12:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the definition of a bot in social media?]]></summary>
+        <author>
+            <name>matt_s</name>
+            <uri>https://news.ycombinator.com/user?id=matt_s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不更新手机的现实世界的危险？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081508</id>
+        <link href="https://news.ycombinator.com/item?id=32081508"/>
+        <updated>2022-07-13T12:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Real-world danger of not updating phone?]]></summary>
+        <author>
+            <name>Derbasti</name>
+            <uri>https://news.ycombinator.com/user?id=Derbasti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支付USDT的远程工作/等。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>SaulJLH</name>
             <uri>https://news.ycombinator.com/user?id=SaulJLH</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用哪些不常见的科技产品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31918221</id>
-        <link href="https://news.ycombinator.com/item?id=31918221"/>
-        <updated>2022-06-29T10:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What uncommon tech products do you use?]]></summary>
-        <author>
-            <name>raouls</name>
-            <uri>https://news.ycombinator.com/user?id=raouls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何保护一个只有HTML文件的 "博客 "网站？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917807</id>
-        <link href="https://news.ycombinator.com/item?id=31917807"/>
-        <updated>2022-06-29T08:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to secure a “blog” website that is just HTML files?]]></summary>
-        <author>
-            <name>99throwwy</name>
-            <uri>https://news.ycombinator.com/user?id=99throwwy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个突变体可以有一个竞赛条件吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917928</id>
-        <link href="https://news.ycombinator.com/item?id=31917928"/>
-        <updated>2022-06-29T09:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can a mutex have a race condition?]]></summary>
-        <author>
-            <name>hahnchen</name>
-            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
         </author>
     </entry>
 </feed>
