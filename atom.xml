@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T23:28:56.484Z</updated>
+    <updated>2022-07-13T23:46:50.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[剃须刀刀片为什么会变钝？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32090042</id>
+        <link href="https://news.ycombinator.com/item?id=32090042"/>
+        <updated>2022-07-13T23:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Razor Blades become dull?]]></summary>
+        <author>
+            <name>Mobil1</name>
+            <uri>https://news.ycombinator.com/user?id=Mobil1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么人们说移动应用程序正在消亡？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为初学者研究/关注市场动态的在线资源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31930765</id>
-        <link href="https://news.ycombinator.com/item?id=31930765"/>
-        <updated>2022-06-30T10:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Online resources to study/follow market dynamics for beginners?]]></summary>
-        <author>
-            <name>psyfi</name>
-            <uri>https://news.ycombinator.com/user?id=psyfi</uri>
         </author>
     </entry>
 </feed>
