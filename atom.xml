@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T10:39:31.489Z</updated>
+    <updated>2022-07-13T10:58:25.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vim模式和Jupyter实验室？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080926</id>
+        <link href="https://news.ycombinator.com/item?id=32080926"/>
+        <updated>2022-07-13T10:43:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Vim Mode and Jupyter Lab?]]></summary>
+        <author>
+            <name>mvind</name>
+            <uri>https://news.ycombinator.com/user?id=mvind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼓励非专利药生产商生产已获专利的罕见疾病药物
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kc10</name>
             <uri>https://news.ycombinator.com/user?id=kc10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获得HOA以升级以太网布线
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31916590</id>
-        <link href="https://news.ycombinator.com/item?id=31916590"/>
-        <updated>2022-06-29T04:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Getting HOA to upgrade Ethernet wiring]]></summary>
-        <author>
-            <name>megasquid</name>
-            <uri>https://news.ycombinator.com/user?id=megasquid</uri>
         </author>
     </entry>
 </feed>
