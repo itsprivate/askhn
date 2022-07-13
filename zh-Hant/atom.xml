@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T03:59:42.866Z</updated>
+    <updated>2022-07-13T05:13:39.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[經歷了一個創傷性的個人情況，HN是我最後的選擇。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32079130</id>
+        <link href="https://news.ycombinator.com/item?id=32079130"/>
+        <updated>2022-07-13T04:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Going through a traumatic personal situation and HN is my last resort]]></summary>
+        <author>
+            <name>stillblue</name>
+            <uri>https://news.ycombinator.com/user?id=stillblue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在離線的React Native應用中擁有GraphQL
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對哪些工具是10/10的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31914087</id>
-        <link href="https://news.ycombinator.com/item?id=31914087"/>
-        <updated>2022-06-28T22:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools are you a 10/10 on?]]></summary>
-        <author>
-            <name>itsdrewmiller</name>
-            <uri>https://news.ycombinator.com/user?id=itsdrewmiller</uri>
         </author>
     </entry>
 </feed>
