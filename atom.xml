@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-13T14:01:40.236Z</updated>
+    <updated>2022-07-13T14:30:55.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是阻断引用者头信息？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082819</id>
+        <link href="https://news.ycombinator.com/item?id=32082819"/>
+        <updated>2022-07-13T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is blocking referer headers?]]></summary>
+        <author>
+            <name>perilunar</name>
+            <uri>https://news.ycombinator.com/user?id=perilunar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何保护你的应急基金不受通货膨胀影响的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082715</id>
+        <link href="https://news.ycombinator.com/item?id=32082715"/>
+        <updated>2022-07-13T13:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are you protecting your emergency fund from inflation?]]></summary>
+        <author>
+            <name>ruffrey</name>
+            <uri>https://news.ycombinator.com/user?id=ruffrey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix如何预装下一个视频？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nsahu</name>
             <uri>https://news.ycombinator.com/user?id=nsahu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能生产的内容，你怎么看？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920752</id>
-        <link href="https://news.ycombinator.com/item?id=31920752"/>
-        <updated>2022-06-29T14:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: AI produced content what is your take?]]></summary>
-        <author>
-            <name>aruanavekar</name>
-            <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是否需要率先进入市场？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920655</id>
-        <link href="https://news.ycombinator.com/item?id=31920655"/>
-        <updated>2022-06-29T14:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we need to be first to market?]]></summary>
-        <author>
-            <name>AirMan</name>
-            <uri>https://news.ycombinator.com/user?id=AirMan</uri>
         </author>
     </entry>
 </feed>
