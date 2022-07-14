@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T09:50:10.082Z</updated>
+    <updated>2022-07-14T10:35:57.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找一個後端服務來管理工作計算機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094048</id>
+        <link href="https://news.ycombinator.com/item?id=32094048"/>
+        <updated>2022-07-14T10:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a back end service to manage work computers]]></summary>
+        <author>
+            <name>czernobog</name>
+            <uri>https://news.ycombinator.com/user?id=czernobog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何為你的社區和/或其他地方作出貢獻？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samemail88</name>
             <uri>https://news.ycombinator.com/user?id=samemail88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰創造了二維碼支付？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31934388</id>
-        <link href="https://news.ycombinator.com/item?id=31934388"/>
-        <updated>2022-06-30T15:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Created QR Payments?]]></summary>
-        <author>
-            <name>JVIDEL</name>
-            <uri>https://news.ycombinator.com/user?id=JVIDEL</uri>
         </author>
     </entry>
 </feed>
