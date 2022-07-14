@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T20:34:32.126Z</updated>
+    <updated>2022-07-14T21:48:41.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[強大的CPU是否鼓勵你在工作時觀看無關的視頻？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101805</id>
+        <link href="https://news.ycombinator.com/item?id=32101805"/>
+        <updated>2022-07-14T21:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do powerful CPUs encourage you to watch unrelated videos while you work?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓你對未來感到悲觀？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101753</id>
+        <link href="https://news.ycombinator.com/item?id=32101753"/>
+        <updated>2022-07-14T21:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What makes you pessimistic about the future?]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何記錄你的數據模型？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>counterterrwin</name>
             <uri>https://news.ycombinator.com/user?id=counterterrwin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理遠程工作的休息時間？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31941395</id>
-        <link href="https://news.ycombinator.com/item?id=31941395"/>
-        <updated>2022-07-01T02:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage remote work breaks?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理Twitter或創建文摘的工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31940888</id>
-        <link href="https://news.ycombinator.com/item?id=31940888"/>
-        <updated>2022-07-01T01:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tools to manage Twitter or create a digest?]]></summary>
-        <author>
-            <name>graeme</name>
-            <uri>https://news.ycombinator.com/user?id=graeme</uri>
         </author>
     </entry>
 </feed>
