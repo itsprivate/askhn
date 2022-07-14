@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T18:41:21.207Z</updated>
+    <updated>2022-07-14T18:58:03.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何阻止Google Play Store取代其他应用商店的应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32099781</id>
+        <link href="https://news.ycombinator.com/item?id=32099781"/>
+        <updated>2022-07-14T18:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to stop Google Play Store from replacing apps from other app stores]]></summary>
+        <author>
+            <name>daggersandscars</name>
+            <uri>https://news.ycombinator.com/user?id=daggersandscars</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的非技术朋友对技术有哪些不理解？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>parsley27</name>
             <uri>https://news.ycombinator.com/user?id=parsley27</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个非营利性的、使用True Pill销售成本价药品的机构是否可能？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938777</id>
-        <link href="https://news.ycombinator.com/item?id=31938777"/>
-        <updated>2022-06-30T21:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is a non-profit selling at cost drugs using True Pill possible?]]></summary>
-        <author>
-            <name>samemail88</name>
-            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
         </author>
     </entry>
 </feed>
