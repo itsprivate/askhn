@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T10:52:15.619Z</updated>
+    <updated>2022-07-14T11:25:29.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該出售我的古董電腦收藏嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094339</id>
+        <link href="https://news.ycombinator.com/item?id=32094339"/>
+        <updated>2022-07-14T10:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I sell my vintage computer collection?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onivim 2是廢棄的軟件嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的替代品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31934914</id>
-        <link href="https://news.ycombinator.com/item?id=31934914"/>
-        <updated>2022-06-30T16:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: GitHub Alternatives?]]></summary>
-        <author>
-            <name>pkdpic</name>
-            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
         </author>
     </entry>
 </feed>
