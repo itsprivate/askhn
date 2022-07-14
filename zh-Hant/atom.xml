@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T15:55:42.365Z</updated>
+    <updated>2022-07-14T16:54:34.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通貨膨脹上升，為什麼黃金和比特幣下跌？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32097829</id>
+        <link href="https://news.ycombinator.com/item?id=32097829"/>
+        <updated>2022-07-14T16:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Inflation is up, why gold and Bitcoin are down?]]></summary>
+        <author>
+            <name>cft</name>
+            <uri>https://news.ycombinator.com/user?id=cft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何教授Git Rebase
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jpcapdevila</name>
             <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長的推銷信有時比短的好嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938225</id>
-        <link href="https://news.ycombinator.com/item?id=31938225"/>
-        <updated>2022-06-30T20:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are longer pitch-letters sometimes better than short ones?]]></summary>
-        <author>
-            <name>eluctari</name>
-            <uri>https://news.ycombinator.com/user?id=eluctari</uri>
         </author>
     </entry>
 </feed>
