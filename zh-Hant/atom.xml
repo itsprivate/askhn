@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T11:25:29.839Z</updated>
+    <updated>2022-07-14T11:45:23.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能幫我找到一篇關於系統思考的有趣的文章嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094564</id>
+        <link href="https://news.ycombinator.com/item?id=32094564"/>
+        <updated>2022-07-14T11:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you help me find an intersting article about system thinking]]></summary>
+        <author>
+            <name>yuadk</name>
+            <uri>https://news.ycombinator.com/user?id=yuadk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何使用你的（超/寬）顯示器的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094516</id>
+        <link href="https://news.ycombinator.com/item?id=32094516"/>
+        <updated>2022-07-14T11:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you use your (ultra/wide) monitor/s?]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該出售我的古董電腦收藏嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rakshithbellare</name>
             <uri>https://news.ycombinator.com/user?id=rakshithbellare</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏捷是否有效？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31935448</id>
-        <link href="https://news.ycombinator.com/item?id=31935448"/>
-        <updated>2022-06-30T17:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Agile Work?]]></summary>
-        <author>
-            <name>hahnbee</name>
-            <uri>https://news.ycombinator.com/user?id=hahnbee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以看看你的數字筆記嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31935121</id>
-        <link href="https://news.ycombinator.com/item?id=31935121"/>
-        <updated>2022-06-30T16:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I see your digital notes?]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
