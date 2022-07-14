@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T22:33:44.852Z</updated>
+    <updated>2022-07-14T23:01:28.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓你對未來感到樂觀？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32102362</id>
+        <link href="https://news.ycombinator.com/item?id=32102362"/>
+        <updated>2022-07-14T22:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What makes you optimistic about the future?]]></summary>
+        <author>
+            <name>whiskey14</name>
+            <uri>https://news.ycombinator.com/user?id=whiskey14</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪裡可以在開曼群島創建控股公司？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gavribirnbaum</name>
             <uri>https://news.ycombinator.com/user?id=gavribirnbaum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偏見總是故意的嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31941958</id>
-        <link href="https://news.ycombinator.com/item?id=31941958"/>
-        <updated>2022-07-01T03:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is bias always intentional?]]></summary>
-        <author>
-            <name>agaase19</name>
-            <uri>https://news.ycombinator.com/user?id=agaase19</uri>
         </author>
     </entry>
 </feed>
