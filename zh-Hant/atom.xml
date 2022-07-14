@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T07:30:10.228Z</updated>
+    <updated>2022-07-14T08:35:39.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何進行無代碼應用程序的版本控制？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093466</id>
+        <link href="https://news.ycombinator.com/item?id=32093466"/>
+        <updated>2022-07-14T08:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you do version control of no-code apps?]]></summary>
+        <author>
+            <name>WolfOliver</name>
+            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械鍵盤推薦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093309</id>
+        <link href="https://news.ycombinator.com/item?id=32093309"/>
+        <updated>2022-07-14T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mechanical Keyboard Recommendations]]></summary>
+        <author>
+            <name>rvieira</name>
+            <uri>https://news.ycombinator.com/user?id=rvieira</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習一種新的語言/框架時，你會用什麼來編碼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cosbgn</name>
             <uri>https://news.ycombinator.com/user?id=cosbgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些技術堆棧在中國很受歡迎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31933911</id>
-        <link href="https://news.ycombinator.com/item?id=31933911"/>
-        <updated>2022-06-30T15:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which tech stacks are popular in China?]]></summary>
-        <author>
-            <name>spacesarebetter</name>
-            <uri>https://news.ycombinator.com/user?id=spacesarebetter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有誰的Buildkite被關閉了嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31933852</id>
-        <link href="https://news.ycombinator.com/item?id=31933852"/>
-        <updated>2022-06-30T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Buildkite down for anyone else?]]></summary>
-        <author>
-            <name>shaftoe444</name>
-            <uri>https://news.ycombinator.com/user?id=shaftoe444</uri>
         </author>
     </entry>
 </feed>
