@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T04:12:09.602Z</updated>
+    <updated>2022-07-14T05:07:49.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于如何成为Git专家的建议？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32091955</id>
+        <link href="https://news.ycombinator.com/item?id=32091955"/>
+        <updated>2022-07-14T04:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommendations on how to become a Git expert?]]></summary>
+        <author>
+            <name>telman17</name>
+            <uri>https://news.ycombinator.com/user?id=telman17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何验证备份？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32091907</id>
+        <link href="https://news.ycombinator.com/item?id=32091907"/>
+        <updated>2022-07-14T04:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you verify backups?]]></summary>
+        <author>
+            <name>kaptain</name>
+            <uri>https://news.ycombinator.com/user?id=kaptain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么支付处理商（如Stripe）不在开曼群岛经营？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>prionassembly</name>
             <uri>https://news.ycombinator.com/user?id=prionassembly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锡兰语发生了什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31932085</id>
-        <link href="https://news.ycombinator.com/item?id=31932085"/>
-        <updated>2022-06-30T13:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Ceylon Language?]]></summary>
-        <author>
-            <name>whereisceylon</name>
-            <uri>https://news.ycombinator.com/user?id=whereisceylon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人工智能伦理学家的终止率如此之高？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31931435</id>
-        <link href="https://news.ycombinator.com/item?id=31931435"/>
-        <updated>2022-06-30T12:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do AI ethicists have such a high termination rate?]]></summary>
-        <author>
-            <name>Jimmc414</name>
-            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
         </author>
     </entry>
 </feed>
