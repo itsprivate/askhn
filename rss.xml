@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 11:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁在招聘？(2022年7月)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32094606</link>
+            <guid>https://news.ycombinator.com/item?id=32094606</guid>
+            <pubDate>Thu, 14 Jul 2022 11:39:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who is hiring? (July 2022)]]></description>
+        </item>
         <item>
             <title><![CDATA[你能帮我找到一篇关于系统思考的有趣的文章吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31935837</guid>
             <pubDate>Thu, 30 Jun 2022 17:38:12 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is there a YC job posting on the front page with comments disabled?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在终端上使用Anki吗？如果你能分享一下工作流程吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31935541</link>
-            <guid>https://news.ycombinator.com/item?id=31935541</guid>
-            <pubDate>Thu, 30 Jun 2022 17:14:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you use Anki on the terminal? If you can you share the workflow?]]></description>
         </item>
     </channel>
 </rss>
