@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-14T16:54:34.419Z</updated>
+    <updated>2022-07-14T17:24:56.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能解决 "挑战者 "的难题吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32098794</id>
+        <link href="https://news.ycombinator.com/item?id=32098794"/>
+        <updated>2022-07-14T17:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you solve “Challenger” puzzles?]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能把一个开源的应用程序作为服务出售吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32098631</id>
+        <link href="https://news.ycombinator.com/item?id=32098631"/>
+        <updated>2022-07-14T17:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you sell an open source app as a service?]]></summary>
+        <author>
+            <name>silent_cal</name>
+            <uri>https://news.ycombinator.com/user?id=silent_cal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通货膨胀上升，为什么黄金和比特币下跌？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack的目标是谁？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938452</id>
-        <link href="https://news.ycombinator.com/item?id=31938452"/>
-        <updated>2022-06-30T20:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Is Jamstack Aimed At?]]></summary>
-        <author>
-            <name>aosaigh</name>
-            <uri>https://news.ycombinator.com/user?id=aosaigh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare D1的测试者，你有什么想法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938425</id>
-        <link href="https://news.ycombinator.com/item?id=31938425"/>
-        <updated>2022-06-30T20:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cloudflare D1 beta testers, what are your thoughts?]]></summary>
-        <author>
-            <name>jpcapdevila</name>
-            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 14 Jul 2022 16:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你能解决 "挑战者 "的难题吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32098794</link>
+            <guid>https://news.ycombinator.com/item?id=32098794</guid>
+            <pubDate>Thu, 14 Jul 2022 17:11:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can you solve “Challenger” puzzles?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你能把一个开源的应用程序作为服务出售吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32098631</link>
+            <guid>https://news.ycombinator.com/item?id=32098631</guid>
+            <pubDate>Thu, 14 Jul 2022 17:01:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can you sell an open source app as a service?]]></description>
+        </item>
         <item>
             <title><![CDATA[通货膨胀上升，为什么黄金和比特币下跌？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31938527</guid>
             <pubDate>Thu, 30 Jun 2022 20:59:01 GMT</pubDate>
             <description><![CDATA[Ask HN: Which problem does WebGPU solve?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jamstack的目标是谁？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31938452</link>
-            <guid>https://news.ycombinator.com/item?id=31938452</guid>
-            <pubDate>Thu, 30 Jun 2022 20:51:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who Is Jamstack Aimed At?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare D1的测试者，你有什么想法？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31938425</link>
-            <guid>https://news.ycombinator.com/item?id=31938425</guid>
-            <pubDate>Thu, 30 Jun 2022 20:49:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Cloudflare D1 beta testers, what are your thoughts?]]></description>
         </item>
     </channel>
 </rss>
