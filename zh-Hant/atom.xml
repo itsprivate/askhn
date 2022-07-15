@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T20:49:35.912Z</updated>
+    <updated>2022-07-15T21:28:22.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發一種編程語言應該是一項全職工作嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32112822</id>
+        <link href="https://news.ycombinator.com/item?id=32112822"/>
+        <updated>2022-07-15T21:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should developing a programming language be a full time job?]]></summary>
+        <author>
+            <name>crowdhailer</name>
+            <uri>https://news.ycombinator.com/user?id=crowdhailer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為了好玩而寫博客的人，你讓誰來審查你的文章？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>m0xai</name>
             <uri>https://news.ycombinator.com/user?id=m0xai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何解決大的/複雜的問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957648</id>
-        <link href="https://news.ycombinator.com/item?id=31957648"/>
-        <updated>2022-07-02T10:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you solve big/complex problems?]]></summary>
-        <author>
-            <name>dmos62</name>
-            <uri>https://news.ycombinator.com/user?id=dmos62</uri>
         </author>
     </entry>
 </feed>
