@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T10:02:41.592Z</updated>
+    <updated>2022-07-15T10:35:58.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些播客值得付費？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106549</id>
+        <link href="https://news.ycombinator.com/item?id=32106549"/>
+        <updated>2022-07-15T10:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What podcasts are worth paying for?]]></summary>
+        <author>
+            <name>dfreire</name>
+            <uri>https://news.ycombinator.com/user?id=dfreire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您使用的是哪種Windows筆記本電腦，並向您推薦？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106523</id>
+        <link href="https://news.ycombinator.com/item?id=32106523"/>
+        <updated>2022-07-15T10:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Windows laptop do you use and recommend?]]></summary>
+        <author>
+            <name>fath0m</name>
+            <uri>https://news.ycombinator.com/user?id=fath0m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何為一個非營利組織籌集資金？在此基礎上的國際籌資？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jstx1</name>
             <uri>https://news.ycombinator.com/user?id=jstx1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何向一個Python後端開發者解釋你如何/何時使用Jamstack？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945583</id>
-        <link href="https://news.ycombinator.com/item?id=31945583"/>
-        <updated>2022-07-01T12:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: how would you explain how/when you use Jamstack to a python backend dev?]]></summary>
-        <author>
-            <name>whiskey14</name>
-            <uri>https://news.ycombinator.com/user?id=whiskey14</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貴公司運營多少個Kubernetes集群？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944717</id>
-        <link href="https://news.ycombinator.com/item?id=31944717"/>
-        <updated>2022-07-01T11:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many Kubernetes clusters does your company operate?]]></summary>
-        <author>
-            <name>daveys110</name>
-            <uri>https://news.ycombinator.com/user?id=daveys110</uri>
         </author>
     </entry>
 </feed>
