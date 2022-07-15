@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T11:43:54.843Z</updated>
+    <updated>2022-07-15T13:02:28.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[审查我的创业想法 - 类似Omegle的讨论STEM的网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32107359</id>
+        <link href="https://news.ycombinator.com/item?id=32107359"/>
+        <updated>2022-07-15T12:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Review my startup idea – Omegle-like site for discussing STEM]]></summary>
+        <author>
+            <name>hammadn</name>
+            <uri>https://news.ycombinator.com/user?id=hammadn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是怎么把你的生活从谷歌上删除的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whoishiring</name>
             <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电动汽车
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946997</id>
-        <link href="https://news.ycombinator.com/item?id=31946997"/>
-        <updated>2022-07-01T14:38:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Electric Vehicles]]></summary>
-        <author>
-            <name>matt321</name>
-            <uri>https://news.ycombinator.com/user?id=matt321</uri>
         </author>
     </entry>
 </feed>
