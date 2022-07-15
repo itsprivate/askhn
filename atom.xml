@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T14:51:01.975Z</updated>
+    <updated>2022-07-15T15:02:35.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当我们谈论方案时，我们谈论的是什么
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108812</id>
+        <link href="https://news.ycombinator.com/item?id=32108812"/>
+        <updated>2022-07-15T14:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What we talk about when we talk about programs]]></summary>
+        <author>
+            <name>emme</name>
+            <uri>https://news.ycombinator.com/user?id=emme</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有什么 "让你成为哈士奇 "的教程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108735</id>
+        <link href="https://news.ycombinator.com/item?id=32108735"/>
+        <updated>2022-07-15T14:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any “Make you a Haskell” tutorial?]]></summary>
+        <author>
+            <name>nudpiedo</name>
+            <uri>https://news.ycombinator.com/user?id=nudpiedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么会改善你的书签体验？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>elGrecoCz</name>
             <uri>https://news.ycombinator.com/user?id=elGrecoCz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有奖励长寿的反向人寿保险？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948168</id>
-        <link href="https://news.ycombinator.com/item?id=31948168"/>
-        <updated>2022-07-01T15:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why not have reverse life insurance that rewards longevity?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有什么好的Node.js Reddit / HN克隆，我可以买到？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948165</id>
-        <link href="https://news.ycombinator.com/item?id=31948165"/>
-        <updated>2022-07-01T15:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any good Node.js Reddit / HN clone that I can buy?]]></summary>
-        <author>
-            <name>node-bayarea</name>
-            <uri>https://news.ycombinator.com/user?id=node-bayarea</uri>
         </author>
     </entry>
 </feed>
