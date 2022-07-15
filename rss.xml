@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 15 Jul 2022 19:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 19:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你推荐什么作为谷歌分析的替代品？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32111965</link>
+            <guid>https://news.ycombinator.com/item?id=32111965</guid>
+            <pubDate>Fri, 15 Jul 2022 19:41:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you recommend as Google Analytics alternative?]]></description>
+        </item>
         <item>
             <title><![CDATA[让终端的版本与移动应用保持同步
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31956182</guid>
             <pubDate>Sat, 02 Jul 2022 04:16:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Any advice of learning Java when coming from Python background]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发人员，你如何发送API错误报告？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31956032</link>
-            <guid>https://news.ycombinator.com/item?id=31956032</guid>
-            <pubDate>Sat, 02 Jul 2022 03:48:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Developers, how do you send an API bug report?]]></description>
         </item>
     </channel>
 </rss>

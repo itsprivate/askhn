@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T19:44:55.823Z</updated>
+    <updated>2022-07-15T19:57:40.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你推荐什么作为谷歌分析的替代品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111965</id>
+        <link href="https://news.ycombinator.com/item?id=32111965"/>
+        <updated>2022-07-15T19:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you recommend as Google Analytics alternative?]]></summary>
+        <author>
+            <name>lifeplusplus</name>
+            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让终端的版本与移动应用保持同步
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mraza007</name>
             <uri>https://news.ycombinator.com/user?id=mraza007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发人员，你如何发送API错误报告？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31956032</id>
-        <link href="https://news.ycombinator.com/item?id=31956032"/>
-        <updated>2022-07-02T03:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Developers, how do you send an API bug report?]]></summary>
-        <author>
-            <name>_thinx</name>
-            <uri>https://news.ycombinator.com/user?id=_thinx</uri>
         </author>
     </entry>
 </feed>
