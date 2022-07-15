@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T17:22:23.043Z</updated>
+    <updated>2022-07-15T17:51:01.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果secp256k1有后门，BTC/ETH会怎样？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110568</id>
+        <link href="https://news.ycombinator.com/item?id=32110568"/>
+        <updated>2022-07-15T17:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens to BTC/ETH if secp256k1 has a backdoor]]></summary>
+        <author>
+            <name>yonz</name>
+            <uri>https://news.ycombinator.com/user?id=yonz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络应用中的应用内广告的选项？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>killjoywashere</name>
             <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT与技术？如何更好地关注职业重启？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950959</id>
-        <link href="https://news.ycombinator.com/item?id=31950959"/>
-        <updated>2022-07-01T18:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: IT vs. Tech? How best to focus career reboot?]]></summary>
-        <author>
-            <name>germinalphrase</name>
-            <uri>https://news.ycombinator.com/user?id=germinalphrase</uri>
         </author>
     </entry>
 </feed>
