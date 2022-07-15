@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T14:03:38.636Z</updated>
+    <updated>2022-07-15T14:35:50.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你還使用哪些安卓的應用程序商店？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108297</id>
+        <link href="https://news.ycombinator.com/item?id=32108297"/>
+        <updated>2022-07-15T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What other app stores for Android do you use?]]></summary>
+        <author>
+            <name>muzani</name>
+            <uri>https://news.ycombinator.com/user?id=muzani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何改進日常的加密貨幣投資遊戲？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sharemywin</name>
             <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你考慮過家庭教育，是什麼阻止了你？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31947895</id>
-        <link href="https://news.ycombinator.com/item?id=31947895"/>
-        <updated>2022-07-01T15:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you’ve considered homeschooling, what’s stopping you?]]></summary>
-        <author>
-            <name>actfrench</name>
-            <uri>https://news.ycombinator.com/user?id=actfrench</uri>
         </author>
     </entry>
 </feed>
