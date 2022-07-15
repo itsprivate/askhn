@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T10:50:33.061Z</updated>
+    <updated>2022-07-15T11:25:56.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能了解光谱学？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106881</id>
+        <link href="https://news.ycombinator.com/item?id=32106881"/>
+        <updated>2022-07-15T11:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can I learn about Spectroscopy?]]></summary>
+        <author>
+            <name>deidei</name>
+            <uri>https://news.ycombinator.com/user?id=deidei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[应该如何规划创业公司的MVP？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奖金而不是工程师的VSOP？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946580</id>
-        <link href="https://news.ycombinator.com/item?id=31946580"/>
-        <updated>2022-07-01T14:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bonuses Instead of VSOP for Engineers?]]></summary>
-        <author>
-            <name>anrwww</name>
-            <uri>https://news.ycombinator.com/user?id=anrwww</uri>
         </author>
     </entry>
 </feed>
