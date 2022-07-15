@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T07:59:01.246Z</updated>
+    <updated>2022-07-15T09:01:35.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在工業界工作後，如何有一個學術生涯？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106104</id>
+        <link href="https://news.ycombinator.com/item?id=32106104"/>
+        <updated>2022-07-15T08:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to have an academic career after working in industry?]]></summary>
+        <author>
+            <name>returnothejedi</name>
+            <uri>https://news.ycombinator.com/user?id=returnothejedi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何領導一個我沒有信心的團隊呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dodoso</name>
             <uri>https://news.ycombinator.com/user?id=dodoso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司正在做什麼準備來應對經濟衰退？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944615</id>
-        <link href="https://news.ycombinator.com/item?id=31944615"/>
-        <updated>2022-07-01T10:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your company doing to prepare for the recession?]]></summary>
-        <author>
-            <name>digitcatphd</name>
-            <uri>https://news.ycombinator.com/user?id=digitcatphd</uri>
         </author>
     </entry>
 </feed>
