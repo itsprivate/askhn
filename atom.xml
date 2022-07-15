@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T20:34:30.318Z</updated>
+    <updated>2022-07-15T20:49:35.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为了好玩而写博客的人，你让谁来审查你的文章？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32112522</id>
+        <link href="https://news.ycombinator.com/item?id=32112522"/>
+        <updated>2022-07-15T20:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: People who write a blog for fun, who do you have review your articles?]]></summary>
+        <author>
+            <name>karagenit</name>
+            <uri>https://news.ycombinator.com/user?id=karagenit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否使用别名进行开放源码软件的贡献？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32112420</id>
+        <link href="https://news.ycombinator.com/item?id=32112420"/>
+        <updated>2022-07-15T20:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use an alias for OSS contributions?]]></summary>
+        <author>
+            <name>nvarsj</name>
+            <uri>https://news.ycombinator.com/user?id=nvarsj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有有效的疫苗，这个学年将如何度过？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dmos62</name>
             <uri>https://news.ycombinator.com/user?id=dmos62</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成为Coda开发者的好处？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957364</id>
-        <link href="https://news.ycombinator.com/item?id=31957364"/>
-        <updated>2022-07-02T08:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Benefits of Being a Coda Developer?]]></summary>
-        <author>
-            <name>Gtex555</name>
-            <uri>https://news.ycombinator.com/user?id=Gtex555</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尾数是怎么回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957059</id>
-        <link href="https://news.ycombinator.com/item?id=31957059"/>
-        <updated>2022-07-02T07:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the Deal with Tailscale?]]></summary>
-        <author>
-            <name>spapas82</name>
-            <uri>https://news.ycombinator.com/user?id=spapas82</uri>
         </author>
     </entry>
 </feed>
