@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T06:14:32.934Z</updated>
+    <updated>2022-07-15T06:36:20.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些公司的網站是開源的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32105125</id>
+        <link href="https://news.ycombinator.com/item?id=32105125"/>
+        <updated>2022-07-15T06:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which companies Open Source their website?]]></summary>
+        <author>
+            <name>jasfi</name>
+            <uri>https://news.ycombinator.com/user?id=jasfi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[選擇項目，使用戶/影響最大化？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mastermedo</name>
             <uri>https://news.ycombinator.com/user?id=mastermedo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您如何探索新的食物/餐館？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31943896</id>
-        <link href="https://news.ycombinator.com/item?id=31943896"/>
-        <updated>2022-07-01T08:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you explore new food / restaurants?]]></summary>
-        <author>
-            <name>agaase19</name>
-            <uri>https://news.ycombinator.com/user?id=agaase19</uri>
         </author>
     </entry>
 </feed>
