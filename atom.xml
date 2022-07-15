@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T14:35:50.641Z</updated>
+    <updated>2022-07-15T14:51:01.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么会改善你的书签体验？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108563</id>
+        <link href="https://news.ycombinator.com/item?id=32108563"/>
+        <updated>2022-07-15T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would improve your bookmarking experience?]]></summary>
+        <author>
+            <name>jonashendel</name>
+            <uri>https://news.ycombinator.com/user?id=jonashendel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全启动的威胁模式是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108554</id>
+        <link href="https://news.ycombinator.com/item?id=32108554"/>
+        <updated>2022-07-15T14:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the threat model of secure boot?]]></summary>
+        <author>
+            <name>jerryzh</name>
+            <uri>https://news.ycombinator.com/user?id=jerryzh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你还使用哪些安卓的应用程序商店？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>node-bayarea</name>
             <uri>https://news.ycombinator.com/user?id=node-bayarea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁需要在副业上得到帮助？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948139</id>
-        <link href="https://news.ycombinator.com/item?id=31948139"/>
-        <updated>2022-07-01T15:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who needs help with side projects?]]></summary>
-        <author>
-            <name>throwaway83242</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway83242</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的公司与多少个API相连？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948034</id>
-        <link href="https://news.ycombinator.com/item?id=31948034"/>
-        <updated>2022-07-01T15:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many APIs does your company connect to?]]></summary>
-        <author>
-            <name>sharemywin</name>
-            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
         </author>
     </entry>
 </feed>

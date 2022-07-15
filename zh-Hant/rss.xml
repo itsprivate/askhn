@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 14:51:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼會改善你的書籤體驗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32108563</link>
+            <guid>https://news.ycombinator.com/item?id=32108563</guid>
+            <pubDate>Fri, 15 Jul 2022 14:30:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: What would improve your bookmarking experience?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安全啟動的威脅模式是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32108554</link>
+            <guid>https://news.ycombinator.com/item?id=32108554</guid>
+            <pubDate>Fri, 15 Jul 2022 14:29:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the threat model of secure boot?]]></description>
+        </item>
         <item>
             <title><![CDATA[你還使用哪些安卓的應用程序商店？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31948165</guid>
             <pubDate>Fri, 01 Jul 2022 15:50:49 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there any good Node.js Reddit / HN clone that I can buy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰需要在副業上得到幫助？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31948139</link>
-            <guid>https://news.ycombinator.com/item?id=31948139</guid>
-            <pubDate>Fri, 01 Jul 2022 15:49:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who needs help with side projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的公司與多少個API相連？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31948034</link>
-            <guid>https://news.ycombinator.com/item?id=31948034</guid>
-            <pubDate>Fri, 01 Jul 2022 15:44:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: How many APIs does your company connect to?]]></description>
         </item>
     </channel>
 </rss>
