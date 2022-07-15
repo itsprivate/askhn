@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 15 Jul 2022 15:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 15:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对考虑外包软件开发提案的建议
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32109056</link>
+            <guid>https://news.ycombinator.com/item?id=32109056</guid>
+            <pubDate>Fri, 15 Jul 2022 15:21:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Advice for considering prposals for outsourced software development]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加密文件系统上的数据在损坏时是否更难恢复？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32109022</link>
+            <guid>https://news.ycombinator.com/item?id=32109022</guid>
+            <pubDate>Fri, 15 Jul 2022 15:17:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is data on an encrypted file-system harder to recover when corrupted?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为AWS RDS推荐一个标记化解决方案，以保护敏感数据？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32108993</link>
+            <guid>https://news.ycombinator.com/item?id=32108993</guid>
+            <pubDate>Fri, 15 Jul 2022 15:14:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: Recommend a tokenization solution for AWS RDS to protect sensitive data?]]></description>
+        </item>
         <item>
             <title><![CDATA[当我们谈论方案时，我们谈论的是什么
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31949090</guid>
             <pubDate>Fri, 01 Jul 2022 16:42:35 GMT</pubDate>
             <description><![CDATA[Ask HN: Who designed the website for your software project?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个炼钢厂的研究所
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949076</link>
-            <guid>https://news.ycombinator.com/item?id=31949076</guid>
-            <pubDate>Fri, 01 Jul 2022 16:41:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: A Steelmanning Institute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我将有一个14岁的孩子在工作中跟随我--有什么建议吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949049</link>
-            <guid>https://news.ycombinator.com/item?id=31949049</guid>
-            <pubDate>Fri, 01 Jul 2022 16:40:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: I will have a 14-year old shadow me at work – any advice?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[办公用品360的合作工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31948192</link>
-            <guid>https://news.ycombinator.com/item?id=31948192</guid>
-            <pubDate>Fri, 01 Jul 2022 15:52:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Office 360 Colab Tools]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T15:02:35.382Z</updated>
+    <updated>2022-07-15T15:38:06.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对考虑外包软件开发提案的建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109056</id>
+        <link href="https://news.ycombinator.com/item?id=32109056"/>
+        <updated>2022-07-15T15:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice for considering prposals for outsourced software development]]></summary>
+        <author>
+            <name>barry0079</name>
+            <uri>https://news.ycombinator.com/user?id=barry0079</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密文件系统上的数据在损坏时是否更难恢复？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109022</id>
+        <link href="https://news.ycombinator.com/item?id=32109022"/>
+        <updated>2022-07-15T15:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is data on an encrypted file-system harder to recover when corrupted?]]></summary>
+        <author>
+            <name>webmobdev</name>
+            <uri>https://news.ycombinator.com/user?id=webmobdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为AWS RDS推荐一个标记化解决方案，以保护敏感数据？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108993</id>
+        <link href="https://news.ycombinator.com/item?id=32108993"/>
+        <updated>2022-07-15T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommend a tokenization solution for AWS RDS to protect sensitive data?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当我们谈论方案时，我们谈论的是什么
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>brundolf</name>
             <uri>https://news.ycombinator.com/user?id=brundolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个炼钢厂的研究所
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949076</id>
-        <link href="https://news.ycombinator.com/item?id=31949076"/>
-        <updated>2022-07-01T16:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: A Steelmanning Institute]]></summary>
-        <author>
-            <name>AlbertCory</name>
-            <uri>https://news.ycombinator.com/user?id=AlbertCory</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我将有一个14岁的孩子在工作中跟随我--有什么建议吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949049</id>
-        <link href="https://news.ycombinator.com/item?id=31949049"/>
-        <updated>2022-07-01T16:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I will have a 14-year old shadow me at work – any advice?]]></summary>
-        <author>
-            <name>maest</name>
-            <uri>https://news.ycombinator.com/user?id=maest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[办公用品360的合作工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948192</id>
-        <link href="https://news.ycombinator.com/item?id=31948192"/>
-        <updated>2022-07-01T15:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Office 360 Colab Tools]]></summary>
-        <author>
-            <name>elGrecoCz</name>
-            <uri>https://news.ycombinator.com/user?id=elGrecoCz</uri>
         </author>
     </entry>
 </feed>
