@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-15T17:51:01.615Z</updated>
+    <updated>2022-07-15T18:38:40.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么已灭绝的物种今天在野外可能是最有用的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111265</id>
+        <link href="https://news.ycombinator.com/item?id=32111265"/>
+        <updated>2022-07-15T18:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What extincted species might be the most useful in the wild today?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么人们对Rust cargos的抱怨没有那么多？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111030</id>
+        <link href="https://news.ycombinator.com/item?id=32111030"/>
+        <updated>2022-07-15T18:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't people complain as much about Rust cargos?]]></summary>
+        <author>
+            <name>Raed667</name>
+            <uri>https://news.ycombinator.com/user?id=Raed667</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果secp256k1有后门，BTC/ETH会怎样？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>agaase19</name>
             <uri>https://news.ycombinator.com/user?id=agaase19</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读书不理解的价值？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31953054</id>
-        <link href="https://news.ycombinator.com/item?id=31953054"/>
-        <updated>2022-07-01T21:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Value of reading a book without comprehension?]]></summary>
-        <author>
-            <name>ikkah</name>
-            <uri>https://news.ycombinator.com/user?id=ikkah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的项目后验收？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31952452</id>
-        <link href="https://news.ycombinator.com/item?id=31952452"/>
-        <updated>2022-07-01T20:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good Project Post-Mortems?]]></summary>
-        <author>
-            <name>killjoywashere</name>
-            <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
         </author>
     </entry>
 </feed>
