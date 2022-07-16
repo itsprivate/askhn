@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T06:33:34.807Z</updated>
+    <updated>2022-07-16T06:52:56.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQL查询谷歌（或其他）日历
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32115759</id>
+        <link href="https://news.ycombinator.com/item?id=32115759"/>
+        <updated>2022-07-16T06:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: SQL Query Google (Or Other) Calendar]]></summary>
+        <author>
+            <name>KiranRao0</name>
+            <uri>https://news.ycombinator.com/user?id=KiranRao0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何以一种无信任的方式使用比特币？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Apocryphon</name>
             <uri>https://news.ycombinator.com/user?id=Apocryphon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你建议我用Raspberry Pi 2W做哪些很酷的项目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960322</id>
-        <link href="https://news.ycombinator.com/item?id=31960322"/>
-        <updated>2022-07-02T16:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What cool projects do you suggest I build with a Raspberry Pi 2W]]></summary>
-        <author>
-            <name>vivegi</name>
-            <uri>https://news.ycombinator.com/user?id=vivegi</uri>
         </author>
     </entry>
 </feed>
