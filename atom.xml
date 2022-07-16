@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T08:52:26.549Z</updated>
+    <updated>2022-07-16T10:29:41.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对Darklang有什么经验？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116570</id>
+        <link href="https://news.ycombinator.com/item?id=32116570"/>
+        <updated>2022-07-16T09:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's Your Experience with Darklang?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幸福是全部吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>V-2</name>
             <uri>https://news.ycombinator.com/user?id=V-2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel/Netlify自动部署分支到子域的类似工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31961281</id>
-        <link href="https://news.ycombinator.com/item?id=31961281"/>
-        <updated>2022-07-02T18:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Vercel/Netlify auto deploy branch to subdomain like tool]]></summary>
-        <author>
-            <name>mateioprea</name>
-            <uri>https://news.ycombinator.com/user?id=mateioprea</uri>
         </author>
     </entry>
 </feed>
