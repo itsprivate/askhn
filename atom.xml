@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T22:45:35.079Z</updated>
+    <updated>2022-07-16T22:59:36.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一名候选人，如何选择技术招聘人员？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122674</id>
+        <link href="https://news.ycombinator.com/item?id=32122674"/>
+        <updated>2022-07-16T22:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to choose a tech recruiter, as a candidate?]]></summary>
+        <author>
+            <name>hazard</name>
+            <uri>https://news.ycombinator.com/user?id=hazard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习医学的最佳 "ELI5 "书籍？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>benrapscallion</name>
             <uri>https://news.ycombinator.com/user?id=benrapscallion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[财务制度101
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969574</id>
-        <link href="https://news.ycombinator.com/item?id=31969574"/>
-        <updated>2022-07-03T17:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Finance System 101]]></summary>
-        <author>
-            <name>NikolaNovak</name>
-            <uri>https://news.ycombinator.com/user?id=NikolaNovak</uri>
         </author>
     </entry>
 </feed>
