@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T21:26:23.811Z</updated>
+    <updated>2022-07-16T22:45:35.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習醫學的最佳 "ELI5 "書籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122548</id>
+        <link href="https://news.ycombinator.com/item?id=32122548"/>
+        <updated>2022-07-16T22:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best “ELI5” book to learn medicine?]]></summary>
+        <author>
+            <name>user0x1d</name>
+            <uri>https://news.ycombinator.com/user?id=user0x1d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是開源初創企業的最佳衡量標準？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NikolaNovak</name>
             <uri>https://news.ycombinator.com/user?id=NikolaNovak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老式的文字處理機使用什麼技巧來跟上快速打字的步伐？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968802</id>
-        <link href="https://news.ycombinator.com/item?id=31968802"/>
-        <updated>2022-07-03T16:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tricks did older word processors use to keep up with fast typing?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
