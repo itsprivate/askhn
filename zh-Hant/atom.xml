@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T16:39:11.135Z</updated>
+    <updated>2022-07-16T17:08:10.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人有任何很酷的開源項目並在尋找貢獻者？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32119738</id>
+        <link href="https://news.ycombinator.com/item?id=32119738"/>
+        <updated>2022-07-16T16:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone have any cool Open Source Projects and looking for contributors?]]></summary>
+        <author>
+            <name>3a2d29</name>
+            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速、準確、無廢話的天氣網站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zzzzzzzza</name>
             <uri>https://news.ycombinator.com/user?id=zzzzzzzza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨立的MP3播放器和鬧鐘，可以隨機播放播放列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967868</id>
-        <link href="https://news.ycombinator.com/item?id=31967868"/>
-        <updated>2022-07-03T14:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Standalone MP3 player and alarm , which can shuffle-play a playlist]]></summary>
-        <author>
-            <name>dv35z</name>
-            <uri>https://news.ycombinator.com/user?id=dv35z</uri>
         </author>
     </entry>
 </feed>
