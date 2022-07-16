@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T04:55:22.413Z</updated>
+    <updated>2022-07-16T05:57:39.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名軟件開發人員，你如何保持你的眼睛和大腦的健康？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32115536</id>
+        <link href="https://news.ycombinator.com/item?id=32115536"/>
+        <updated>2022-07-16T05:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a software developer, how do you keep your eyes and brain fit?]]></summary>
+        <author>
+            <name>anandvc</name>
+            <uri>https://news.ycombinator.com/user?id=anandvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我總是在技術面試中勝出，但從未得到工作。為什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>s1k3s</name>
             <uri>https://news.ycombinator.com/user?id=s1k3s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit網站的性能似乎越來越差？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31959211</id>
-        <link href="https://news.ycombinator.com/item?id=31959211"/>
-        <updated>2022-07-02T14:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Reddit site performance seem to be getting worse?]]></summary>
-        <author>
-            <name>telesoft</name>
-            <uri>https://news.ycombinator.com/user?id=telesoft</uri>
         </author>
     </entry>
 </feed>
