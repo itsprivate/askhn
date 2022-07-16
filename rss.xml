@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 16 Jul 2022 07:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 08:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[幸福是全部吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32116213</link>
+            <guid>https://news.ycombinator.com/item?id=32116213</guid>
+            <pubDate>Sat, 16 Jul 2022 08:31:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is happiness all there is?]]></description>
+        </item>
         <item>
             <title><![CDATA[有没有试过GitHub Copilot与Crafting Interpreters？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31961281</guid>
             <pubDate>Sat, 02 Jul 2022 18:37:29 GMT</pubDate>
             <description><![CDATA[Ask HN: Vercel/Netlify auto deploy branch to subdomain like tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁想合作？(2022年7月)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31961023</link>
-            <guid>https://news.ycombinator.com/item?id=31961023</guid>
-            <pubDate>Sat, 02 Jul 2022 17:58:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who wants to collaborate? (July 2022)]]></description>
         </item>
     </channel>
 </rss>
