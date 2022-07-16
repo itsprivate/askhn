@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T17:59:06.416Z</updated>
+    <updated>2022-07-16T19:23:11.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你是一個好的程序員，也意味著你擅長____________？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120826</id>
+        <link href="https://news.ycombinator.com/item?id=32120826"/>
+        <updated>2022-07-16T18:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you're a good programmer that also means you're good at ____________?]]></summary>
+        <author>
+            <name>anon115</name>
+            <uri>https://news.ycombinator.com/user?id=anon115</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN的答覆在分析了一個網站後，會執行什麼確切的程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>spac_throwawayy</name>
             <uri>https://news.ycombinator.com/user?id=spac_throwawayy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何一絲不苟地記錄你的錢的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968242</id>
-        <link href="https://news.ycombinator.com/item?id=31968242"/>
-        <updated>2022-07-03T15:06:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How meticulously do you keep track of your money?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
         </author>
     </entry>
 </feed>
