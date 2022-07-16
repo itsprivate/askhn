@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T11:00:04.330Z</updated>
+    <updated>2022-07-16T11:25:42.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[表情符号对你的书面交流有帮助吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116964</id>
+        <link href="https://news.ycombinator.com/item?id=32116964"/>
+        <updated>2022-07-16T11:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do emoji help you in written communication?]]></summary>
+        <author>
+            <name>ivan_gammel</name>
+            <uri>https://news.ycombinator.com/user?id=ivan_gammel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否在你的开发文档中收集对代码片段的反馈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116949</id>
+        <link href="https://news.ycombinator.com/item?id=32116949"/>
+        <updated>2022-07-16T11:12:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you collect feedback for code snippets in your dev docs?]]></summary>
+        <author>
+            <name>mlejva</name>
+            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了HN，你还如何在互联网上找到值得注意的事情？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nathantesler</name>
             <uri>https://news.ycombinator.com/user?id=nathantesler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用过ZScaler产品吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31962347</id>
-        <link href="https://news.ycombinator.com/item?id=31962347"/>
-        <updated>2022-07-02T20:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone used ZScaler products?]]></summary>
-        <author>
-            <name>natpalmer1776</name>
-            <uri>https://news.ycombinator.com/user?id=natpalmer1776</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你目前的数据管理解决方案对你来说运作良好吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31962025</id>
-        <link href="https://news.ycombinator.com/item?id=31962025"/>
-        <updated>2022-07-02T20:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is your current data management solution working well for you?]]></summary>
-        <author>
-            <name>getflookup</name>
-            <uri>https://news.ycombinator.com/user?id=getflookup</uri>
         </author>
     </entry>
 </feed>
