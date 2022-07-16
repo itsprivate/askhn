@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T07:25:55.487Z</updated>
+    <updated>2022-07-16T07:43:44.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有試過GitHub Copilot與Crafting Interpreters？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116006</id>
+        <link href="https://news.ycombinator.com/item?id=32116006"/>
+        <updated>2022-07-16T07:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ever tried GitHub Copilot with Crafting Interpreters?]]></summary>
+        <author>
+            <name>laszlojamf</name>
+            <uri>https://news.ycombinator.com/user?id=laszlojamf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何與早期創業公司的創始人聯繫？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fastneutron</name>
             <uri>https://news.ycombinator.com/user?id=fastneutron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有什麼奇怪的創業想法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960862</id>
-        <link href="https://news.ycombinator.com/item?id=31960862"/>
-        <updated>2022-07-02T17:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What weird startup ideas do you have?]]></summary>
-        <author>
-            <name>traverseda</name>
-            <uri>https://news.ycombinator.com/user?id=traverseda</uri>
         </author>
     </entry>
 </feed>
