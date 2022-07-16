@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T22:59:36.402Z</updated>
+    <updated>2022-07-16T23:27:11.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁把自己的家庭经营得像敏捷团队一样？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122862</id>
+        <link href="https://news.ycombinator.com/item?id=32122862"/>
+        <updated>2022-07-16T23:22:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone run their family like an Agile team?]]></summary>
+        <author>
+            <name>baron816</name>
+            <uri>https://news.ycombinator.com/user?id=baron816</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名候选人，如何选择技术招聘人员？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>swat535</name>
             <uri>https://news.ycombinator.com/user?id=swat535</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最便宜和最简单的解决方案是每天给自己发一个电子邮件提醒？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969951</id>
-        <link href="https://news.ycombinator.com/item?id=31969951"/>
-        <updated>2022-07-03T18:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Cheapest and simplest solution for a daily email alert to myself?]]></summary>
-        <author>
-            <name>benrapscallion</name>
-            <uri>https://news.ycombinator.com/user?id=benrapscallion</uri>
         </author>
     </entry>
 </feed>
