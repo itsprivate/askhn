@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T17:46:20.323Z</updated>
+    <updated>2022-07-16T17:59:06.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN的答覆在分析了一個網站後，會執行什麼確切的程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120328</id>
+        <link href="https://news.ycombinator.com/item?id=32120328"/>
+        <updated>2022-07-16T17:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What exact process do HN replies perform after analyzing a website?]]></summary>
+        <author>
+            <name>anon115</name>
+            <uri>https://news.ycombinator.com/user?id=anon115</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年在Linux中監控硬盤驅動器陣列健康？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120256</id>
+        <link href="https://news.ycombinator.com/item?id=32120256"/>
+        <updated>2022-07-16T17:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Monitoring Hard-Disk Drive Array Health in Linux in 2022?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何應對錯過的機會？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>codingclaws</name>
             <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會選擇哪本書在你的餘生中重讀？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968169</id>
-        <link href="https://news.ycombinator.com/item?id=31968169"/>
-        <updated>2022-07-03T14:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which book would you pick to re-read for the rest of your life?]]></summary>
-        <author>
-            <name>leobg</name>
-            <uri>https://news.ycombinator.com/user?id=leobg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自學成才的CS愛好者的在線社區？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968115</id>
-        <link href="https://news.ycombinator.com/item?id=31968115"/>
-        <updated>2022-07-03T14:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Online community for self-taught CS hobbyists?]]></summary>
-        <author>
-            <name>Peach_blue</name>
-            <uri>https://news.ycombinator.com/user?id=Peach_blue</uri>
         </author>
     </entry>
 </feed>
