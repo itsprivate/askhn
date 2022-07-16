@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T15:50:23.686Z</updated>
+    <updated>2022-07-16T16:02:31.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在的年輕人是如何致富的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32119229</id>
+        <link href="https://news.ycombinator.com/item?id=32119229"/>
+        <updated>2022-07-16T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are young people getting rich these days?]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[掌握學術研究的最佳方法是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何平衡個人的興趣，同時希望與之相關？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966704</id>
-        <link href="https://news.ycombinator.com/item?id=31966704"/>
-        <updated>2022-07-03T10:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to balance one's personal interest while wanting to be relevant?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
