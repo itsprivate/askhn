@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T20:59:12.842Z</updated>
+    <updated>2022-07-16T21:26:23.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是開源初創企業的最佳衡量標準？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122062</id>
+        <link href="https://news.ycombinator.com/item?id=32122062"/>
+        <updated>2022-07-16T21:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best metrics for open-source startups]]></summary>
+        <author>
+            <name>BogdanSemenov</name>
+            <uri>https://news.ycombinator.com/user?id=BogdanSemenov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在沒有空調之前，美國的自由人是如何在高溫下生存的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我感到迷茫，不知道我的職業/生活應該採取什麼路線。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968683</id>
-        <link href="https://news.ycombinator.com/item?id=31968683"/>
-        <updated>2022-07-03T16:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm feeling lost and don't know what route to take on my career/life]]></summary>
-        <author>
-            <name>malzeno</name>
-            <uri>https://news.ycombinator.com/user?id=malzeno</uri>
         </author>
     </entry>
 </feed>
