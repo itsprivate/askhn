@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T19:58:12.449Z</updated>
+    <updated>2022-07-16T20:59:12.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在没有空调之前，美国的自由人是如何在高温下生存的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32121858</id>
+        <link href="https://news.ycombinator.com/item?id=32121858"/>
+        <updated>2022-07-16T20:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did free people in USA thrive in high heat before air-conditioning?]]></summary>
+        <author>
+            <name>reactspa</name>
+            <uri>https://news.ycombinator.com/user?id=reactspa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该搬到硅谷还是继续留在我的小城市？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>malzeno</name>
             <uri>https://news.ycombinator.com/user?id=malzeno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI生成的音乐？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968456</id>
-        <link href="https://news.ycombinator.com/item?id=31968456"/>
-        <updated>2022-07-03T15:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: AI-Generated Music?]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
         </author>
     </entry>
 </feed>
