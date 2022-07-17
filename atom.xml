@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T13:45:05.515Z</updated>
+    <updated>2022-07-17T14:25:23.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你所持有的哪些信念是与大众信仰相悖的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32126910</id>
+        <link href="https://news.ycombinator.com/item?id=32126910"/>
+        <updated>2022-07-17T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What convictions do you hold that are antithetical to popular belief?]]></summary>
+        <author>
+            <name>fumblebee</name>
+            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个团队领导总是建立一个单一民族的团队。该怎么做？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>moomoo11</name>
             <uri>https://news.ycombinator.com/user?id=moomoo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有突破性变化的Angular版本是怎样的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31973530</id>
-        <link href="https://news.ycombinator.com/item?id=31973530"/>
-        <updated>2022-07-04T04:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are Angular releases with breaking changes?]]></summary>
-        <author>
-            <name>asciiresort</name>
-            <uri>https://news.ycombinator.com/user?id=asciiresort</uri>
         </author>
     </entry>
 </feed>
