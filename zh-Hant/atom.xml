@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T19:44:37.210Z</updated>
+    <updated>2022-07-17T19:58:40.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何讓開發者嘗試你的產品（以非垃圾郵件的方式）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32130558</id>
+        <link href="https://news.ycombinator.com/item?id=32130558"/>
+        <updated>2022-07-17T19:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get developers to try your product (in a non-spammy way)?]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與眾不同是否讓你感覺更好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32130535</id>
+        <link href="https://news.ycombinator.com/item?id=32130535"/>
+        <updated>2022-07-17T19:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does being different make you feel better?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將電子郵件標記為垃圾郵件的道德問題？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lllllll0</name>
             <uri>https://news.ycombinator.com/user?id=lllllll0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三角洲湖與其他湖泊（如雪花湖等）的比較
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976780</id>
-        <link href="https://news.ycombinator.com/item?id=31976780"/>
-        <updated>2022-07-04T13:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Delta Lake vs. others (e.g. Snowflake etc.)]]></summary>
-        <author>
-            <name>91dylwyn</name>
-            <uri>https://news.ycombinator.com/user?id=91dylwyn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該學習Rust還是Go？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976407</id>
-        <link href="https://news.ycombinator.com/item?id=31976407"/>
-        <updated>2022-07-04T12:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I learn Rust or Go?]]></summary>
-        <author>
-            <name>LecroJS</name>
-            <uri>https://news.ycombinator.com/user?id=LecroJS</uri>
         </author>
     </entry>
 </feed>

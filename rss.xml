@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Jul 2022 19:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 19:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何让开发者尝试你的产品（以非垃圾邮件的方式）？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32130558</link>
+            <guid>https://news.ycombinator.com/item?id=32130558</guid>
+            <pubDate>Sun, 17 Jul 2022 19:53:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to get developers to try your product (in a non-spammy way)?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[与众不同是否让你感觉更好？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32130535</link>
+            <guid>https://news.ycombinator.com/item?id=32130535</guid>
+            <pubDate>Sun, 17 Jul 2022 19:51:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does being different make you feel better?]]></description>
+        </item>
         <item>
             <title><![CDATA[将电子邮件标记为垃圾邮件的道德问题？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31976803</guid>
             <pubDate>Mon, 04 Jul 2022 13:28:53 GMT</pubDate>
             <description><![CDATA[Ask HN: First-time dad-to-be. What do you wish you'd known back then?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[三角洲湖与其他湖泊（如雪花湖等）的比较
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31976780</link>
-            <guid>https://news.ycombinator.com/item?id=31976780</guid>
-            <pubDate>Mon, 04 Jul 2022 13:26:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Delta Lake vs. others (e.g. Snowflake etc.)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我应该学习Rust还是Go？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31976407</link>
-            <guid>https://news.ycombinator.com/item?id=31976407</guid>
-            <pubDate>Mon, 04 Jul 2022 12:41:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I learn Rust or Go?]]></description>
         </item>
     </channel>
 </rss>
