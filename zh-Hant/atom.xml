@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T14:58:31.926Z</updated>
+    <updated>2022-07-17T16:02:20.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個有效合作的全球社區在多大程度上是一個烏托邦？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32127891</id>
+        <link href="https://news.ycombinator.com/item?id=32127891"/>
+        <updated>2022-07-17T15:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: To what extent is an effectively cooperative global community an utopia?]]></summary>
+        <author>
+            <name>just_a_machine</name>
+            <uri>https://news.ycombinator.com/user?id=just_a_machine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你將哪件物品用於其預定用途之外的其他用途？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bobkrusty</name>
             <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在熊市中，有哪些方法可以保護他們的投資組合？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31973862</id>
-        <link href="https://news.ycombinator.com/item?id=31973862"/>
-        <updated>2022-07-04T05:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are a few ways one can protect their portfolio in a bear market?]]></summary>
-        <author>
-            <name>sarah_k</name>
-            <uri>https://news.ycombinator.com/user?id=sarah_k</uri>
         </author>
     </entry>
 </feed>
