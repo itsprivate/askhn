@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T17:06:42.693Z</updated>
+    <updated>2022-07-17T17:39:31.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MBA實習生薪酬的好數據集？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128890</id>
+        <link href="https://news.ycombinator.com/item?id=32128890"/>
+        <updated>2022-07-17T17:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good data sets for MBA intern pay?]]></summary>
+        <author>
+            <name>msencenb</name>
+            <uri>https://news.ycombinator.com/user?id=msencenb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千人斬（暗紋）之死
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128836</id>
+        <link href="https://news.ycombinator.com/item?id=32128836"/>
+        <updated>2022-07-17T17:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Death of a thousand (dark pattern) cuts]]></summary>
+        <author>
+            <name>Damogran6</name>
+            <uri>https://news.ycombinator.com/user?id=Damogran6</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你希望2022年的編程教學如何站位？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128825</id>
+        <link href="https://news.ycombinator.com/item?id=32128825"/>
+        <updated>2022-07-17T17:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you prefer programming be taught standing in 2022?]]></summary>
+        <author>
+            <name>newsoul</name>
+            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用sed/awk在模板上批量生成靜態HTML頁面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128631</id>
+        <link href="https://news.ycombinator.com/item?id=32128631"/>
+        <updated>2022-07-17T17:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Using sed/awk to bulk generate static HTML pages off of a template]]></summary>
+        <author>
+            <name>arunnanda</name>
+            <uri>https://news.ycombinator.com/user?id=arunnanda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進行實時價格比較是可行的嗎？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>carlycue</name>
             <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個平臺團隊，你衡量哪些投入/產出指標？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975356</id>
-        <link href="https://news.ycombinator.com/item?id=31975356"/>
-        <updated>2022-07-04T10:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What input/output metrics do you measure as a platform team?]]></summary>
-        <author>
-            <name>flxngll</name>
-            <uri>https://news.ycombinator.com/user?id=flxngll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在2022年沒有啟用IPv6，錯過了什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975164</id>
-        <link href="https://news.ycombinator.com/item?id=31975164"/>
-        <updated>2022-07-04T09:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What am I missing by not enabling IPv6 in 2022?]]></summary>
-        <author>
-            <name>getflookup</name>
-            <uri>https://news.ycombinator.com/user?id=getflookup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理和釋放macOS磁盤空間的最佳方法/應用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31974984</id>
-        <link href="https://news.ycombinator.com/item?id=31974984"/>
-        <updated>2022-07-04T08:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best way/apps to manage & free up macOS disk space?]]></summary>
-        <author>
-            <name>archibaldJ</name>
-            <uri>https://news.ycombinator.com/user?id=archibaldJ</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有供應商鎖定的電子閱讀器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31974566</id>
-        <link href="https://news.ycombinator.com/item?id=31974566"/>
-        <updated>2022-07-04T07:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: E-reader without vendor lock-in]]></summary>
-        <author>
-            <name>ensocode</name>
-            <uri>https://news.ycombinator.com/user?id=ensocode</uri>
         </author>
     </entry>
 </feed>
