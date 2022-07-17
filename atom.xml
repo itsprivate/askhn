@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T02:38:57.119Z</updated>
+    <updated>2022-07-17T03:59:25.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN是否做了任何事情来防止AI级的机器人？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124002</id>
+        <link href="https://news.ycombinator.com/item?id=32124002"/>
+        <updated>2022-07-17T02:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does HN do anything to prevent AI-grade bots?]]></summary>
+        <author>
+            <name>ekianjo</name>
+            <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式数据库中查询配置文件的良好实现？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123921</id>
+        <link href="https://news.ycombinator.com/item?id=32123921"/>
+        <updated>2022-07-17T02:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good implementations of query profiles in distributed databases?]]></summary>
+        <author>
+            <name>pratchett</name>
+            <uri>https://news.ycombinator.com/user?id=pratchett</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何获取用于JPEG编码的原始图像数据
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>brandoncarl</name>
             <uri>https://news.ycombinator.com/user?id=brandoncarl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁能向我解释一下什么是 "边缘"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970991</id>
-        <link href="https://news.ycombinator.com/item?id=31970991"/>
-        <updated>2022-07-03T20:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could someone explain to me what's “the edge”?]]></summary>
-        <author>
-            <name>letMeShowU</name>
-            <uri>https://news.ycombinator.com/user?id=letMeShowU</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你看来，哪个社交媒体应用的设计最好？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971019</id>
-        <link href="https://news.ycombinator.com/item?id=31971019"/>
-        <updated>2022-07-03T21:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which social media app has the best design in your opinion?]]></summary>
-        <author>
-            <name>nikolqy</name>
-            <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
         </author>
     </entry>
 </feed>

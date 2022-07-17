@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 17 Jul 2022 02:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 03:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN是否做了任何事情來防止AI級的機器人？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32124002</link>
+            <guid>https://news.ycombinator.com/item?id=32124002</guid>
+            <pubDate>Sun, 17 Jul 2022 02:46:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does HN do anything to prevent AI-grade bots?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[分佈式數據庫中查詢配置文件的良好實現？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123921</link>
+            <guid>https://news.ycombinator.com/item?id=32123921</guid>
+            <pubDate>Sun, 17 Jul 2022 02:31:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Good implementations of query profiles in distributed databases?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何獲取用於JPEG編碼的原始圖像數據
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31971236</guid>
             <pubDate>Sun, 03 Jul 2022 21:36:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Economy Simulator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰能向我解釋一下什麼是 "邊緣"？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31970991</link>
-            <guid>https://news.ycombinator.com/item?id=31970991</guid>
-            <pubDate>Sun, 03 Jul 2022 20:59:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: Could someone explain to me what's “the edge”?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你看來，哪個社交媒體應用的設計最好？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31971019</link>
-            <guid>https://news.ycombinator.com/item?id=31971019</guid>
-            <pubDate>Sun, 03 Jul 2022 21:04:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which social media app has the best design in your opinion?]]></description>
         </item>
     </channel>
 </rss>
