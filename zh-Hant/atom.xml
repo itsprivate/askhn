@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T16:02:20.705Z</updated>
+    <updated>2022-07-17T16:42:00.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在只有零星時間的情況下實現我的目標？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128299</id>
+        <link href="https://news.ycombinator.com/item?id=32128299"/>
+        <updated>2022-07-17T16:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I achieve my goals with only fragments of time?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個有效合作的全球社區在多大程度上是一個烏托邦？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>artificialLimbs</name>
             <uri>https://news.ycombinator.com/user?id=artificialLimbs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰知道最便宜的網站建設者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31974376</id>
-        <link href="https://news.ycombinator.com/item?id=31974376"/>
-        <updated>2022-07-04T07:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone know cheapest website builder?]]></summary>
-        <author>
-            <name>bobkrusty</name>
-            <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
         </author>
     </entry>
 </feed>
