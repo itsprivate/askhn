@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T18:52:21.288Z</updated>
+    <updated>2022-07-17T19:25:40.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[M1 Pro 14'仍然值得用于开发？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129957</id>
+        <link href="https://news.ycombinator.com/item?id=32129957"/>
+        <updated>2022-07-17T19:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: M1 Pro 14' still worth it for development?]]></summary>
+        <author>
+            <name>psikomanjak</name>
+            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科维德后抑郁症是真的吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mcwhy</name>
             <uri>https://news.ycombinator.com/user?id=mcwhy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否曾经丢失过SaaS公司的数据？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976166</id>
-        <link href="https://news.ycombinator.com/item?id=31976166"/>
-        <updated>2022-07-04T12:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever lost data on a SaaS company?]]></summary>
-        <author>
-            <name>joe8756438</name>
-            <uri>https://news.ycombinator.com/user?id=joe8756438</uri>
         </author>
     </entry>
 </feed>
