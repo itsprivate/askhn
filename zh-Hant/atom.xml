@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T22:59:15.057Z</updated>
+    <updated>2022-07-17T23:46:27.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的衣櫃裡應該有什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32132633</id>
+        <link href="https://news.ycombinator.com/item?id=32132633"/>
+        <updated>2022-07-17T23:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I have in my wardrobe?]]></summary>
+        <author>
+            <name>golmedo</name>
+            <uri>https://news.ycombinator.com/user?id=golmedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何聯繫被打破的 "我們正在招聘 "的帖子
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NithurM</name>
             <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本科生在CS以外的其他領域的研究經歷是否有用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977889</id>
-        <link href="https://news.ycombinator.com/item?id=31977889"/>
-        <updated>2022-07-04T15:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is an undergrad research experience in something other than CS useful?]]></summary>
-        <author>
-            <name>noobermin</name>
-            <uri>https://news.ycombinator.com/user?id=noobermin</uri>
         </author>
     </entry>
 </feed>
