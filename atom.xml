@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T21:47:25.681Z</updated>
+    <updated>2022-07-17T22:27:30.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些开源项目有很好的文档？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32131918</id>
+        <link href="https://news.ycombinator.com/item?id=32131918"/>
+        <updated>2022-07-17T22:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What open source projects have great documentation?]]></summary>
+        <author>
+            <name>MrPowers</name>
+            <uri>https://news.ycombinator.com/user?id=MrPowers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要聪明人对我的情况提供一些建议
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brisky</name>
             <uri>https://news.ycombinator.com/user?id=brisky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您对从斯里兰卡雇用人员有什么看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977433</id>
-        <link href="https://news.ycombinator.com/item?id=31977433"/>
-        <updated>2022-07-04T14:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your take on hiring from Sri Lanka?]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
         </author>
     </entry>
 </feed>
