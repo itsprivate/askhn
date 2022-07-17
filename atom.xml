@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T05:07:42.671Z</updated>
+    <updated>2022-07-17T05:57:38.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你们中是否有人在编程或思考时 "太空 "了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124775</id>
+        <link href="https://news.ycombinator.com/item?id=32124775"/>
+        <updated>2022-07-17T05:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do any of you “space out” when you are programming or cogitating?]]></summary>
+        <author>
+            <name>stevenjgarner</name>
+            <uri>https://news.ycombinator.com/user?id=stevenjgarner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[需要资深软件开发人员的建议
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 "边缘"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971024</id>
-        <link href="https://news.ycombinator.com/item?id=31971024"/>
-        <updated>2022-07-03T21:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's “The Edge”?]]></summary>
-        <author>
-            <name>tangomango2</name>
-            <uri>https://news.ycombinator.com/user?id=tangomango2</uri>
         </author>
     </entry>
 </feed>
