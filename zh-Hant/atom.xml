@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-17T19:25:40.467Z</updated>
+    <updated>2022-07-17T19:44:37.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將電子郵件標記為垃圾郵件的道德問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32130352</id>
+        <link href="https://news.ycombinator.com/item?id=32130352"/>
+        <updated>2022-07-17T19:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ethical issues marking email as spam?]]></summary>
+        <author>
+            <name>impendia</name>
+            <uri>https://news.ycombinator.com/user?id=impendia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這個想法有什麼意義嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129010</id>
+        <link href="https://news.ycombinator.com/item?id=32129010"/>
+        <updated>2022-07-17T17:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does this idea make any sense?]]></summary>
+        <author>
+            <name>AhmedMujtaba</name>
+            <uri>https://news.ycombinator.com/user?id=AhmedMujtaba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M1 Pro 14'仍然值得用於開發？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>LecroJS</name>
             <uri>https://news.ycombinator.com/user?id=LecroJS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與CS相關的紋身創意？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976405</id>
-        <link href="https://news.ycombinator.com/item?id=31976405"/>
-        <updated>2022-07-04T12:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: CS Related Tattoo Ideas?]]></summary>
-        <author>
-            <name>jedi2610</name>
-            <uri>https://news.ycombinator.com/user?id=jedi2610</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼HN是支持盜版的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976338</id>
-        <link href="https://news.ycombinator.com/item?id=31976338"/>
-        <updated>2022-07-04T12:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Is HN Pro-Piracy?]]></summary>
-        <author>
-            <name>mcwhy</name>
-            <uri>https://news.ycombinator.com/user?id=mcwhy</uri>
         </author>
     </entry>
 </feed>
