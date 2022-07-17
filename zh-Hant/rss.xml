@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 02:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何獲取用於JPEG編碼的原始圖像數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123340</link>
+            <guid>https://news.ycombinator.com/item?id=32123340</guid>
+            <pubDate>Sun, 17 Jul 2022 00:47:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to acquire raw image data for JPEG encoding]]></description>
+        </item>
+        <item>
+            <title><![CDATA[獨立服務器應該有哪些維護？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123202</link>
+            <guid>https://news.ycombinator.com/item?id=32123202</guid>
+            <pubDate>Sun, 17 Jul 2022 00:23:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: What maintenance should a dedicated server have?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[提高圖像比例的最佳方法是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123200</link>
+            <guid>https://news.ycombinator.com/item?id=32123200</guid>
+            <pubDate>Sun, 17 Jul 2022 00:23:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the best way to up-scale an image?]]></description>
+        </item>
         <item>
             <title><![CDATA[事後看來，你會給年輕的自己什麼建議？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31971019</guid>
             <pubDate>Sun, 03 Jul 2022 21:04:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Which social media app has the best design in your opinion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你用什麼來進行家長控制？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31971016</link>
-            <guid>https://news.ycombinator.com/item?id=31971016</guid>
-            <pubDate>Sun, 03 Jul 2022 21:03:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you use for parental control?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub + OpenAI + 開源軟件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31970426</link>
-            <guid>https://news.ycombinator.com/item?id=31970426</guid>
-            <pubDate>Sun, 03 Jul 2022 19:47:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: GitHub + OpenAI + Open Source Software]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我想要一個帶有蛤殼式鍵盤的現代雙向呼叫器。這是否存在？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31970016</link>
-            <guid>https://news.ycombinator.com/item?id=31970016</guid>
-            <pubDate>Sun, 03 Jul 2022 18:51:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: I want a modern 2-way pager with clamshell keyboard. Does this exist?]]></description>
         </item>
     </channel>
 </rss>

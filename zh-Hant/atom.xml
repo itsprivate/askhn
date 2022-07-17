@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-16T23:58:48.582Z</updated>
+    <updated>2022-07-17T02:38:57.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何獲取用於JPEG編碼的原始圖像數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123340</id>
+        <link href="https://news.ycombinator.com/item?id=32123340"/>
+        <updated>2022-07-17T00:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to acquire raw image data for JPEG encoding]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獨立服務器應該有哪些維護？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123202</id>
+        <link href="https://news.ycombinator.com/item?id=32123202"/>
+        <updated>2022-07-17T00:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What maintenance should a dedicated server have?]]></summary>
+        <author>
+            <name>juanse</name>
+            <uri>https://news.ycombinator.com/user?id=juanse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高圖像比例的最佳方法是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123200</id>
+        <link href="https://news.ycombinator.com/item?id=32123200"/>
+        <updated>2022-07-17T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best way to up-scale an image?]]></summary>
+        <author>
+            <name>WheelsAtLarge</name>
+            <uri>https://news.ycombinator.com/user?id=WheelsAtLarge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事後看來，你會給年輕的自己什麼建議？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>nikolqy</name>
             <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用什麼來進行家長控制？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971016</id>
-        <link href="https://news.ycombinator.com/item?id=31971016"/>
-        <updated>2022-07-03T21:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you use for parental control?]]></summary>
-        <author>
-            <name>MKais</name>
-            <uri>https://news.ycombinator.com/user?id=MKais</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub + OpenAI + 開源軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970426</id>
-        <link href="https://news.ycombinator.com/item?id=31970426"/>
-        <updated>2022-07-03T19:47:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: GitHub + OpenAI + Open Source Software]]></summary>
-        <author>
-            <name>O__________O</name>
-            <uri>https://news.ycombinator.com/user?id=O__________O</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想要一個帶有蛤殼式鍵盤的現代雙向呼叫器。這是否存在？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970016</id>
-        <link href="https://news.ycombinator.com/item?id=31970016"/>
-        <updated>2022-07-03T18:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I want a modern 2-way pager with clamshell keyboard. Does this exist?]]></summary>
-        <author>
-            <name>0des</name>
-            <uri>https://news.ycombinator.com/user?id=0des</uri>
         </author>
     </entry>
 </feed>
