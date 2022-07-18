@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-18T04:07:55.619Z</updated>
+    <updated>2022-07-18T06:39:29.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雲資源的迴歸測試？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135299</id>
+        <link href="https://news.ycombinator.com/item?id=32135299"/>
+        <updated>2022-07-18T06:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Regression Test for Cloud Resources?]]></summary>
+        <author>
+            <name>ggeorgovassilis</name>
+            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設計者是否有可用的資源 HTTPS://roadmap.sh/
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thinkpad13</name>
             <uri>https://news.ycombinator.com/user?id=thinkpad13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摺紙書籍推薦？或者其他不用工具的很酷的手工藝品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979419</id>
-        <link href="https://news.ycombinator.com/item?id=31979419"/>
-        <updated>2022-07-04T17:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Origami book recommendations? Or other cool handcrafts without tools?]]></summary>
-        <author>
-            <name>solarmist</name>
-            <uri>https://news.ycombinator.com/user?id=solarmist</uri>
         </author>
     </entry>
 </feed>
