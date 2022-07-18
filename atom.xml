@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-18T09:49:21.845Z</updated>
+    <updated>2022-07-18T10:37:46.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面向程序员的色彩理论好书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136493</id>
+        <link href="https://news.ycombinator.com/item?id=32136493"/>
+        <updated>2022-07-18T10:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good book on color theory for programmers]]></summary>
+        <author>
+            <name>pathsjs</name>
+            <uri>https://news.ycombinator.com/user?id=pathsjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Node.js中编写API--最佳框架？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136440</id>
+        <link href="https://news.ycombinator.com/item?id=32136440"/>
+        <updated>2022-07-18T10:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Writing APIs in Node.js – best framework?]]></summary>
+        <author>
+            <name>dxsh</name>
+            <uri>https://news.ycombinator.com/user?id=dxsh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具有隐私意识的廉价账户管理解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136419</id>
+        <link href="https://news.ycombinator.com/item?id=32136419"/>
+        <updated>2022-07-18T10:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Privacy-aware cheap Account Management Solution]]></summary>
+        <author>
+            <name>gdcbe</name>
+            <uri>https://news.ycombinator.com/user?id=gdcbe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可以借鉴的嵌入式项目？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>gizmore</name>
             <uri>https://news.ycombinator.com/user?id=gizmore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一个图灵测试会是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984568</id>
-        <link href="https://news.ycombinator.com/item?id=31984568"/>
-        <updated>2022-07-05T05:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What will be the next Turing Test?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有助于提高我的风险胃口的游戏？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31983426</id>
-        <link href="https://news.ycombinator.com/item?id=31983426"/>
-        <updated>2022-07-05T01:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Games which will help increase my appetite for risk?]]></summary>
-        <author>
-            <name>afrederico</name>
-            <uri>https://news.ycombinator.com/user?id=afrederico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于计算机视觉的网络搜刮？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982964</id>
-        <link href="https://news.ycombinator.com/item?id=31982964"/>
-        <updated>2022-07-05T00:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Web scraping based on Computer Vision?]]></summary>
-        <author>
-            <name>obl1que</name>
-            <uri>https://news.ycombinator.com/user?id=obl1que</uri>
         </author>
     </entry>
 </feed>
