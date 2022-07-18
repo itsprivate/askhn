@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-18T09:02:07.470Z</updated>
+    <updated>2022-07-18T09:32:17.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近买了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136122</id>
+        <link href="https://news.ycombinator.com/item?id=32136122"/>
+        <updated>2022-07-18T09:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What have you bought recently?]]></summary>
+        <author>
+            <name>ID1452319</name>
+            <uri>https://news.ycombinator.com/user?id=ID1452319</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马里奥-德拉吉总是戴着苹果手表，这安全吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136077</id>
+        <link href="https://news.ycombinator.com/item?id=32136077"/>
+        <updated>2022-07-18T08:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mario Draghi is always wearing an Apple Watch, is it safe?]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子商务的网站搜索系统？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yernarak</name>
             <uri>https://news.ycombinator.com/user?id=yernarak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C规范，是分歧，还是融合和互操作性？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31981396</id>
-        <link href="https://news.ycombinator.com/item?id=31981396"/>
-        <updated>2022-07-04T20:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did W3C Spec, Divergence Rather Convergence and Interoperability?]]></summary>
-        <author>
-            <name>docmechanic</name>
-            <uri>https://news.ycombinator.com/user?id=docmechanic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅游业的竞争发生了什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31981277</id>
-        <link href="https://news.ycombinator.com/item?id=31981277"/>
-        <updated>2022-07-04T20:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Competition in Travel?]]></summary>
-        <author>
-            <name>saarp</name>
-            <uri>https://news.ycombinator.com/user?id=saarp</uri>
         </author>
     </entry>
 </feed>
