@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T19:58:32.384Z</updated>
+    <updated>2022-07-21T20:36:11.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对创始人来说，收购之后是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32184474</id>
+        <link href="https://news.ycombinator.com/item?id=32184474"/>
+        <updated>2022-07-21T20:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's After Acquisition for a Founder?]]></summary>
+        <author>
+            <name>eaglehead</name>
+            <uri>https://news.ycombinator.com/user?id=eaglehead</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在计算机世界中，有哪些新的、有趣的程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tamaharbor</name>
             <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何处理你的电子产品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994600</id>
-        <link href="https://news.ycombinator.com/item?id=31994600"/>
-        <updated>2022-07-05T22:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you dispose of your electronics?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
         </author>
     </entry>
 </feed>
