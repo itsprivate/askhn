@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T23:03:20.176Z</updated>
+    <updated>2022-07-21T23:32:38.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金融業以外的小公司是否也有像方正那樣的薪酬？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32186543</id>
+        <link href="https://news.ycombinator.com/item?id=32186543"/>
+        <updated>2022-07-21T23:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there small companies outside finance sector that pay like FANG?]]></summary>
+        <author>
+            <name>zerr</name>
+            <uri>https://news.ycombinator.com/user?id=zerr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的氣候變化生存戰略是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zhangruinan</name>
             <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在中國是否有同等的黑客新聞？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31996428</id>
-        <link href="https://news.ycombinator.com/item?id=31996428"/>
-        <updated>2022-07-06T03:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there an equivalent Hacker News in China?]]></summary>
-        <author>
-            <name>jwiley</name>
-            <uri>https://news.ycombinator.com/user?id=jwiley</uri>
         </author>
     </entry>
 </feed>
