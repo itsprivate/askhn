@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T19:32:40.195Z</updated>
+    <updated>2022-07-21T19:58:32.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在計算機世界中，有哪些新的、有趣的程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183996</id>
+        <link href="https://news.ycombinator.com/item?id=32183996"/>
+        <updated>2022-07-21T19:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some new-ish, interesting protcols in the world of computing?]]></summary>
+        <author>
+            <name>butterNaN</name>
+            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的創業公司是否有一個風險登記冊？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Victerius</name>
             <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觸摸欄是否阻礙你購買13英寸MacBook Pro？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994136</id>
-        <link href="https://news.ycombinator.com/item?id=31994136"/>
-        <updated>2022-07-05T21:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the Touch Bar preventing you from buying the 13in MacBook Pro?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
