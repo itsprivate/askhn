@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T15:33:50.226Z</updated>
+    <updated>2022-07-21T15:57:17.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這些[ruby|orange]institute.com調查郵件的背後是否有騙局？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32180789</id>
+        <link href="https://news.ycombinator.com/item?id=32180789"/>
+        <updated>2022-07-21T15:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a scam behind these [ruby|orange]institute.com survey emails?]]></summary>
+        <author>
+            <name>nlnn</name>
+            <uri>https://news.ycombinator.com/user?id=nlnn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何以非root用戶身份運行你的容器鏡像？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32180622</id>
+        <link href="https://news.ycombinator.com/item?id=32180622"/>
+        <updated>2022-07-21T15:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you run your container image as non-root user?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼辦法可以修復新的谷歌分析用戶界面嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hash872</name>
             <uri>https://news.ycombinator.com/user?id=hash872</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你見過的最令人印象深刻的VanillaJS網絡應用是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31990589</id>
-        <link href="https://news.ycombinator.com/item?id=31990589"/>
-        <updated>2022-07-05T16:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the most impressive VanillaJS web apps you've seen?]]></summary>
-        <author>
-            <name>asciiresort</name>
-            <uri>https://news.ycombinator.com/user?id=asciiresort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰記得一個笑話/備忘錄社交網絡，做了一件事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31990580</id>
-        <link href="https://news.ycombinator.com/item?id=31990580"/>
-        <updated>2022-07-05T16:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone remember a joke / meme social network that did one thing?]]></summary>
-        <author>
-            <name>trickjarrett</name>
-            <uri>https://news.ycombinator.com/user?id=trickjarrett</uri>
         </author>
     </entry>
 </feed>
