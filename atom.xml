@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T16:48:08.319Z</updated>
+    <updated>2022-07-21T17:11:31.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否值得回到学校攻读CS本科学位？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181855</id>
+        <link href="https://news.ycombinator.com/item?id=32181855"/>
+        <updated>2022-07-21T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it worth going back to school for a CS bachelor's degree?]]></summary>
+        <author>
+            <name>zkuz</name>
+            <uri>https://news.ycombinator.com/user?id=zkuz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你不适合团队，就辞掉工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181494</id>
+        <link href="https://news.ycombinator.com/item?id=32181494"/>
+        <updated>2022-07-21T16:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Quit a job if you don't fit in the team?]]></summary>
+        <author>
+            <name>solouncomen</name>
+            <uri>https://news.ycombinator.com/user?id=solouncomen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在加拿大或美国的MS？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>indiethrowaway</name>
             <uri>https://news.ycombinator.com/user?id=indiethrowaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有些域名是3位数，有些是6位数？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31992227</id>
-        <link href="https://news.ycombinator.com/item?id=31992227"/>
-        <updated>2022-07-05T18:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are some domains 3 figures and others are 6?]]></summary>
-        <author>
-            <name>e-clinton</name>
-            <uri>https://news.ycombinator.com/user?id=e-clinton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁在使用Fastmail的业务吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989061</id>
-        <link href="https://news.ycombinator.com/item?id=31989061"/>
-        <updated>2022-07-05T15:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone using Fastmail for their business?]]></summary>
-        <author>
-            <name>glukkanta</name>
-            <uri>https://news.ycombinator.com/user?id=glukkanta</uri>
         </author>
     </entry>
 </feed>
