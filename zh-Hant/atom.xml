@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T20:52:22.204Z</updated>
+    <updated>2022-07-21T21:31:25.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果出現半導體短缺，雲計算會怎樣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32185279</id>
+        <link href="https://news.ycombinator.com/item?id=32185279"/>
+        <updated>2022-07-21T21:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happens to the cloud if there's a semiconductor shortage?]]></summary>
+        <author>
+            <name>PakistaniDenzel</name>
+            <uri>https://news.ycombinator.com/user?id=PakistaniDenzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進化的操作系統？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>abcdjdjd</name>
             <uri>https://news.ycombinator.com/user?id=abcdjdjd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該如何認識在灣區從事有趣工作的人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31995389</id>
-        <link href="https://news.ycombinator.com/item?id=31995389"/>
-        <updated>2022-07-06T00:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How should I meet people in the Bay Area working on interesting things?]]></summary>
-        <author>
-            <name>zosima12</name>
-            <uri>https://news.ycombinator.com/user?id=zosima12</uri>
         </author>
     </entry>
 </feed>
