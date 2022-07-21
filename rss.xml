@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 02:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一家公司排除来自美国某些州的候选人是否合法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32174713</link>
+            <guid>https://news.ycombinator.com/item?id=32174713</guid>
+            <pubDate>Thu, 21 Jul 2022 01:30:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it legal for a company to exclude candidates from certain US states?]]></description>
+        </item>
         <item>
             <title><![CDATA[VSCode中的实时共享是如何工作的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31985471</guid>
             <pubDate>Tue, 05 Jul 2022 07:43:11 GMT</pubDate>
             <description><![CDATA[Ask HN: Open-source content library for an alt. to streaming subscriptions?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何托管自己的名字服务器？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31985152</link>
-            <guid>https://news.ycombinator.com/item?id=31985152</guid>
-            <pubDate>Tue, 05 Jul 2022 06:50:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you host your own nameserver?]]></description>
         </item>
     </channel>
 </rss>
