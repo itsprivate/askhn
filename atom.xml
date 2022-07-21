@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-18T10:37:46.179Z</updated>
+    <updated>2022-07-21T01:20:45.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VSCode中的实时共享是如何工作的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32174445</id>
+        <link href="https://news.ycombinator.com/item?id=32174445"/>
+        <updated>2022-07-21T00:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does Live Share in VSCode work?]]></summary>
+        <author>
+            <name>rosviprince</name>
+            <uri>https://news.ycombinator.com/user?id=rosviprince</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁的 "远程 "做得好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32174375</id>
+        <link href="https://news.ycombinator.com/item?id=32174375"/>
+        <updated>2022-07-21T00:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is doing “remote” well?]]></summary>
+        <author>
+            <name>ed-209</name>
+            <uri>https://news.ycombinator.com/user?id=ed-209</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面向程序员的色彩理论好书
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>waspight</name>
             <uri>https://news.ycombinator.com/user?id=waspight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否熟悉转归的概念？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984983</id>
-        <link href="https://news.ycombinator.com/item?id=31984983"/>
-        <updated>2022-07-05T06:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you familiar with the idea of transclusion?]]></summary>
-        <author>
-            <name>zhangruinan</name>
-            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌有那么糟糕吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984881</id>
-        <link href="https://news.ycombinator.com/item?id=31984881"/>
-        <updated>2022-07-05T06:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Google That Bad?]]></summary>
-        <author>
-            <name>gizmore</name>
-            <uri>https://news.ycombinator.com/user?id=gizmore</uri>
         </author>
     </entry>
 </feed>
