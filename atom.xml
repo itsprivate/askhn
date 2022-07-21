@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T15:08:53.536Z</updated>
+    <updated>2022-07-21T15:33:50.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么办法可以修复新的谷歌分析用户界面吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32180377</id>
+        <link href="https://news.ycombinator.com/item?id=32180377"/>
+        <updated>2022-07-21T15:14:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any way to fix the new Google Analytics UI?]]></summary>
+        <author>
+            <name>debacle</name>
+            <uri>https://news.ycombinator.com/user?id=debacle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在2022年扫描大量的照片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>trickjarrett</name>
             <uri>https://news.ycombinator.com/user?id=trickjarrett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试图弄清楚这家公司是否与Y Combinator有关？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31990438</id>
-        <link href="https://news.ycombinator.com/item?id=31990438"/>
-        <updated>2022-07-05T16:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Trying to figure out if this company is related to Y Combinator?]]></summary>
-        <author>
-            <name>johnnyApplePRNG</name>
-            <uri>https://news.ycombinator.com/user?id=johnnyApplePRNG</uri>
         </author>
     </entry>
 </feed>
