@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T19:09:40.057Z</updated>
+    <updated>2022-07-21T19:32:40.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的创业公司是否有一个风险登记册？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183558</id>
+        <link href="https://news.ycombinator.com/item?id=32183558"/>
+        <updated>2022-07-21T19:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your startup have a risk register?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学生疏，最好的应用书籍和材料来重新学习？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人LinkedIn的替代品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993855</id>
-        <link href="https://news.ycombinator.com/item?id=31993855"/>
-        <updated>2022-07-05T21:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Personal LinkedIn Replacement?]]></summary>
-        <author>
-            <name>A4ET8a8uTh0</name>
-            <uri>https://news.ycombinator.com/user?id=A4ET8a8uTh0</uri>
         </author>
     </entry>
 </feed>
