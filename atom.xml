@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-21T04:58:45.783Z</updated>
+    <updated>2022-07-21T10:54:04.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有谷歌，你能把编码做到什么程度？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177716</id>
+        <link href="https://news.ycombinator.com/item?id=32177716"/>
+        <updated>2022-07-21T10:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How far could you get Coding without Google?]]></summary>
+        <author>
+            <name>emadehsan</name>
+            <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为软件文档的黄金标准是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>greatatuin</name>
             <uri>https://news.ycombinator.com/user?id=greatatuin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HNReplies是否只是在通知中添加了一些颜色突出显示？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986007</id>
-        <link href="https://news.ycombinator.com/item?id=31986007"/>
-        <updated>2022-07-05T09:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did HNReplies just add some colour highlighting to notifications?]]></summary>
-        <author>
-            <name>Akronymus</name>
-            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
         </author>
     </entry>
 </feed>
