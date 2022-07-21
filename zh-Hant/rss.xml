@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 18:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何管理跨微服務的共享代碼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32182638</link>
+            <guid>https://news.ycombinator.com/item?id=32182638</guid>
+            <pubDate>Thu, 21 Jul 2022 18:02:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you manage shared code across microservices?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否有任何較新的語言出版如何使用的文摘或期刊？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32182579</link>
+            <guid>https://news.ycombinator.com/item?id=32182579</guid>
+            <pubDate>Thu, 21 Jul 2022 17:55:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are there any newer languages publishing how-to digests or journals?]]></description>
+        </item>
         <item>
             <title><![CDATA[預算季節。如何證明利率合理？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31992865</guid>
             <pubDate>Tue, 05 Jul 2022 19:52:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Should we migrate to something like Auth0?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當你是一個不寫代碼的軟件開發人員時，你該怎麼辦？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31990737</link>
-            <guid>https://news.ycombinator.com/item?id=31990737</guid>
-            <pubDate>Tue, 05 Jul 2022 16:59:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you do when you’re a Software Developer who doesn’t code?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[刪除谷歌分析是否會使網站在谷歌搜索中受到懲罰？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31993278</link>
-            <guid>https://news.ycombinator.com/item?id=31993278</guid>
-            <pubDate>Tue, 05 Jul 2022 20:27:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does removing Google Analytics penalise a website in Google search?]]></description>
         </item>
     </channel>
 </rss>
