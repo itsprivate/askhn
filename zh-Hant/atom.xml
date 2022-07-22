@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T15:38:02.606Z</updated>
+    <updated>2022-07-22T15:56:20.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[持續機器學習中最大的問題有哪些？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193091</id>
+        <link href="https://news.ycombinator.com/item?id=32193091"/>
+        <updated>2022-07-22T15:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some of the biggest problems in continuous machine learning?]]></summary>
+        <author>
+            <name>Nevin1901</name>
+            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel/Netlify/Cloudflare是否在推動SSR/ESR以增加其收入？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193085</id>
+        <link href="https://news.ycombinator.com/item?id=32193085"/>
+        <updated>2022-07-22T15:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Vercel/Netlify/Cloudflare pushing SSR/ESR to increase their revenue?]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對這種特殊的熵/技術債務有什麼名稱/隱喻嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pdxdmz</name>
             <uri>https://news.ycombinator.com/user?id=pdxdmz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否注意到最近躲避Gmail過濾器的垃圾郵件有所增加？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004629</id>
-        <link href="https://news.ycombinator.com/item?id=32004629"/>
-        <updated>2022-07-06T18:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you noticed an increase of spam evading Gmail's filters recently?]]></summary>
-        <author>
-            <name>supermatou</name>
-            <uri>https://news.ycombinator.com/user?id=supermatou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的創業公司需要哪些社交媒體（和其他）賬戶？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004580</id>
-        <link href="https://news.ycombinator.com/item?id=32004580"/>
-        <updated>2022-07-06T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What social media (and other) accounts do I need for my startup?]]></summary>
-        <author>
-            <name>aranchelk</name>
-            <uri>https://news.ycombinator.com/user?id=aranchelk</uri>
         </author>
     </entry>
 </feed>
