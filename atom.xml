@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T22:48:13.938Z</updated>
+    <updated>2022-07-22T23:01:38.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我没有任何问题？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32198059</id>
+        <link href="https://news.ycombinator.com/item?id=32198059"/>
+        <updated>2022-07-22T22:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don’t I have any problems?]]></summary>
+        <author>
+            <name>moomoo11</name>
+            <uri>https://news.ycombinator.com/user?id=moomoo11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，你会如何学习C++？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>febin</name>
             <uri>https://news.ycombinator.com/user?id=febin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以根据我的美国创业公司股权获得贷款吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32009256</id>
-        <link href="https://news.ycombinator.com/item?id=32009256"/>
-        <updated>2022-07-07T02:17:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can I get a loan based on my US startup equity?]]></summary>
-        <author>
-            <name>equityloan</name>
-            <uri>https://news.ycombinator.com/user?id=equityloan</uri>
         </author>
     </entry>
 </feed>
