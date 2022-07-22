@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T13:57:28.655Z</updated>
+    <updated>2022-07-22T14:05:52.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何研究一個初創企業的想法是否已經存在？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32191850</id>
+        <link href="https://news.ycombinator.com/item?id=32191850"/>
+        <updated>2022-07-22T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you research if a startup idea already exists?]]></summary>
+        <author>
+            <name>panosfilianos</name>
+            <uri>https://news.ycombinator.com/user?id=panosfilianos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司信用卡的困惑
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nezaj</name>
             <uri>https://news.ycombinator.com/user?id=nezaj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3是否可以用來改變一段話的角度？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32003982</id>
-        <link href="https://news.ycombinator.com/item?id=32003982"/>
-        <updated>2022-07-06T17:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could GPT-3 be used to change the perspective of a passage?]]></summary>
-        <author>
-            <name>gushogg-blake</name>
-            <uri>https://news.ycombinator.com/user?id=gushogg-blake</uri>
         </author>
     </entry>
 </feed>
