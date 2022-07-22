@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T05:36:58.020Z</updated>
+    <updated>2022-07-22T08:02:10.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在工作中使用什么工具来保持你的图像是最新的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189615</id>
+        <link href="https://news.ycombinator.com/item?id=32189615"/>
+        <updated>2022-07-22T07:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What tools do you use at work to keep your images up to date?]]></summary>
+        <author>
+            <name>lucidhacker</name>
+            <uri>https://news.ycombinator.com/user?id=lucidhacker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能通过分类法浏览网络吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189388</id>
+        <link href="https://news.ycombinator.com/item?id=32189388"/>
+        <updated>2022-07-22T07:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you browse the web via taxonomy?]]></summary>
+        <author>
+            <name>duncanphillips</name>
+            <uri>https://news.ycombinator.com/user?id=duncanphillips</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[侧面项目的迭代？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>throwawaymg</name>
             <uri>https://news.ycombinator.com/user?id=throwawaymg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想从前端改到后端。资源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32000178</id>
-        <link href="https://news.ycombinator.com/item?id=32000178"/>
-        <updated>2022-07-06T12:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Want to change from front end to back end. Resources?]]></summary>
-        <author>
-            <name>Arisaka1</name>
-            <uri>https://news.ycombinator.com/user?id=Arisaka1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在家里的办公室使用什么类型的灯（或光/流明）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999000</id>
-        <link href="https://news.ycombinator.com/item?id=31999000"/>
-        <updated>2022-07-06T10:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What type of lamp (or light/lumen) do you use in your home office?]]></summary>
-        <author>
-            <name>boredemployee</name>
-            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
         </author>
     </entry>
 </feed>
