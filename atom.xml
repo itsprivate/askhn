@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T16:53:27.778Z</updated>
+    <updated>2022-07-22T17:23:12.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贝宝驳回了我的主张，说我没有提供证据（然而我提供了）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194373</id>
+        <link href="https://news.ycombinator.com/item?id=32194373"/>
+        <updated>2022-07-22T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)]]></summary>
+        <author>
+            <name>fer</name>
+            <uri>https://news.ycombinator.com/user?id=fer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对TechTok（技术TikTok）的诚实想法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>URfejk</name>
             <uri>https://news.ycombinator.com/user?id=URfejk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的 status.heroku.com 也关闭了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32005270</id>
-        <link href="https://news.ycombinator.com/item?id=32005270"/>
-        <updated>2022-07-06T18:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is status.heroku.com down for you, too?]]></summary>
-        <author>
-            <name>fxtentacle</name>
-            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
         </author>
     </entry>
 </feed>
