@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 22 Jul 2022 17:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的休闲读物是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194644</link>
+            <guid>https://news.ycombinator.com/item?id=32194644</guid>
+            <pubDate>Fri, 22 Jul 2022 17:28:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are you reading for leisure?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否有可能剥离SSL并向本地浏览器提供纯HTTP？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194558</link>
+            <guid>https://news.ycombinator.com/item?id=32194558</guid>
+            <pubDate>Fri, 22 Jul 2022 17:21:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is it possible to strip SSL and serve plain HTTP to local browsers?]]></description>
+        </item>
         <item>
             <title><![CDATA[贝宝驳回了我的主张，说我没有提供证据（然而我提供了）。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32006069</guid>
             <pubDate>Wed, 06 Jul 2022 20:03:21 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you modify functions over 1000 lines long?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何推广你的副业的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32005934</link>
-            <guid>https://news.ycombinator.com/item?id=32005934</guid>
-            <pubDate>Wed, 06 Jul 2022 19:52:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you promote your side hustle?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你犯过的最大错误是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32005727</link>
-            <guid>https://news.ycombinator.com/item?id=32005727</guid>
-            <pubDate>Wed, 06 Jul 2022 19:35:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: The biggest mistake you have ever made?]]></description>
         </item>
     </channel>
 </rss>
