@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T22:32:32.354Z</updated>
+    <updated>2022-07-22T22:48:13.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，你会如何学习C++？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197946</id>
+        <link href="https://news.ycombinator.com/item?id=32197946"/>
+        <updated>2022-07-22T22:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you learn C++ in 2022?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何推翻当地的NIMBY议员？需要战略和技术建议
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>equityloan</name>
             <uri>https://news.ycombinator.com/user?id=equityloan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要一名律师来审查我的商业模式的合法性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32009232</id>
-        <link href="https://news.ycombinator.com/item?id=32009232"/>
-        <updated>2022-07-07T02:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I need a lawyer to vet the legality of my business model]]></summary>
-        <author>
-            <name>FowFowTech</name>
-            <uri>https://news.ycombinator.com/user?id=FowFowTech</uri>
         </author>
     </entry>
 </feed>
