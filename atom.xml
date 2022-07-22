@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T14:51:09.342Z</updated>
+    <updated>2022-07-22T15:38:02.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对这种特殊的熵/技术债务有什么名称/隐喻吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193017</id>
+        <link href="https://news.ycombinator.com/item?id=32193017"/>
+        <updated>2022-07-22T15:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any name/metaphor for this particular kind of entropy / tech debt?]]></summary>
+        <author>
+            <name>tacostakohashi</name>
+            <uri>https://news.ycombinator.com/user?id=tacostakohashi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么天文学的很多研究会优先考虑系外行星的搜索？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32192866</id>
+        <link href="https://news.ycombinator.com/item?id=32192866"/>
+        <updated>2022-07-22T15:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does a lot of research in astronomy prioritize the exoplanet search?]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人使用过Vultr的管理型Kubernetes引擎吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aranchelk</name>
             <uri>https://news.ycombinator.com/user?id=aranchelk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么公司不愿意雇用我？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004542</id>
-        <link href="https://news.ycombinator.com/item?id=32004542"/>
-        <updated>2022-07-06T17:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do companies not want to hire me?]]></summary>
-        <author>
-            <name>WhyNotHireMe</name>
-            <uri>https://news.ycombinator.com/user?id=WhyNotHireMe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜欢的棋盘游戏是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004522</id>
-        <link href="https://news.ycombinator.com/item?id=32004522"/>
-        <updated>2022-07-06T17:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your favorite board game?]]></summary>
-        <author>
-            <name>estebandalelr</name>
-            <uri>https://news.ycombinator.com/user?id=estebandalelr</uri>
         </author>
     </entry>
 </feed>
