@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T20:50:24.063Z</updated>
+    <updated>2022-07-22T21:47:19.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在30多岁时结交朋友？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197381</id>
+        <link href="https://news.ycombinator.com/item?id=32197381"/>
+        <updated>2022-07-22T21:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make friends in your 30s?]]></summary>
+        <author>
+            <name>quietpills</name>
+            <uri>https://news.ycombinator.com/user?id=quietpills</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人试过Creation Crate吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>asciiresort</name>
             <uri>https://news.ycombinator.com/user?id=asciiresort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们已经编写了一个LDAP复制产品，现在怎么办？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32009118</id>
-        <link href="https://news.ycombinator.com/item?id=32009118"/>
-        <updated>2022-07-07T01:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: We have written an LDAP replication product, now what?]]></summary>
-        <author>
-            <name>dirwiz</name>
-            <uri>https://news.ycombinator.com/user?id=dirwiz</uri>
         </author>
     </entry>
 </feed>
