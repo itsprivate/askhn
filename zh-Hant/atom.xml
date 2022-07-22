@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T18:40:52.191Z</updated>
+    <updated>2022-07-22T19:46:31.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼YouTube會自動縮減質量？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196091</id>
+        <link href="https://news.ycombinator.com/item?id=32196091"/>
+        <updated>2022-07-22T19:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does YouTube scale down quality automatically?]]></summary>
+        <author>
+            <name>markus_zhang</name>
+            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有多少人每隔兩年就換一次女朋友？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>atlasunshrugged</name>
             <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在三藩市/帕洛阿爾託，是否有一個好的VC/創業公司活動日曆？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32007642</id>
-        <link href="https://news.ycombinator.com/item?id=32007642"/>
-        <updated>2022-07-06T22:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a good calendar for VC/startup events in SF/Palo Alto?]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
