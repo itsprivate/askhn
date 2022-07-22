@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-22T19:46:31.138Z</updated>
+    <updated>2022-07-22T20:50:24.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人试过Creation Crate吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196841</id>
+        <link href="https://news.ycombinator.com/item?id=32196841"/>
+        <updated>2022-07-22T20:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone tried Creation Crate?]]></summary>
+        <author>
+            <name>04rob</name>
+            <uri>https://news.ycombinator.com/user?id=04rob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在读哪本书，从什么时候开始？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196791</id>
+        <link href="https://news.ycombinator.com/item?id=32196791"/>
+        <updated>2022-07-22T20:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which book are you reading, since when?]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么YouTube会自动缩减质量？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dirwiz</name>
             <uri>https://news.ycombinator.com/user?id=dirwiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite是否适合于文本编辑器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008954</id>
-        <link href="https://news.ycombinator.com/item?id=32008954"/>
-        <updated>2022-07-07T01:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is SQLite a good fit for text editors?]]></summary>
-        <author>
-            <name>asciiresort</name>
-            <uri>https://news.ycombinator.com/user?id=asciiresort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有其他类似马耳他主权军事教团的机构吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008876</id>
-        <link href="https://news.ycombinator.com/item?id=32008876"/>
-        <updated>2022-07-07T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there other bodies like the Sovereign Military Order of Malta?]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
         </author>
     </entry>
 </feed>
