@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T17:40:57.378Z</updated>
+    <updated>2022-07-23T18:38:48.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高質量的數字藝術印刷？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32205761</id>
+        <link href="https://news.ycombinator.com/item?id=32205761"/>
+        <updated>2022-07-23T17:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: High quality digital art printing?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您在《加州消費者隱私法》（CCPA）方面有哪些經驗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>melezhik</name>
             <uri>https://news.ycombinator.com/user?id=melezhik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有增長和認可的工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32015681</id>
-        <link href="https://news.ycombinator.com/item?id=32015681"/>
-        <updated>2022-07-07T15:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Jobs Without Growth and Recognition]]></summary>
-        <author>
-            <name>fairytalemtg</name>
-            <uri>https://news.ycombinator.com/user?id=fairytalemtg</uri>
         </author>
     </entry>
 </feed>
