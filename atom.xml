@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T02:38:40.905Z</updated>
+    <updated>2022-07-23T03:55:55.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么苹果不更认真地对待人工智能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200035</id>
+        <link href="https://news.ycombinator.com/item?id=32200035"/>
+        <updated>2022-07-23T03:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't Apple take AI more seriously?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么文件系统和操作系统不提供文件系统交易？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200007</id>
+        <link href="https://news.ycombinator.com/item?id=32200007"/>
+        <updated>2022-07-23T03:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Don't Filesystems and OS's Provide Filesystem Transactions?]]></summary>
+        <author>
+            <name>ghoward</name>
+            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会选择哪一个作为你的开发工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32199919</id>
+        <link href="https://news.ycombinator.com/item?id=32199919"/>
+        <updated>2022-07-23T03:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which would you choose for your dev tools?]]></summary>
+        <author>
+            <name>parentheses</name>
+            <uri>https://news.ycombinator.com/user?id=parentheses</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些好的 "goto "React代码库？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32199828</id>
+        <link href="https://news.ycombinator.com/item?id=32199828"/>
+        <updated>2022-07-23T02:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good “goto” React codebases?]]></summary>
+        <author>
+            <name>feczeri_c</name>
+            <uri>https://news.ycombinator.com/user?id=feczeri_c</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D网站？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>lukeschwartz</name>
             <uri>https://news.ycombinator.com/user?id=lukeschwartz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何两个应用程序之间的双向链接，你怎么看？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010593</id>
-        <link href="https://news.ycombinator.com/item?id=32010593"/>
-        <updated>2022-07-07T06:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Bi-directional links between any two apps, what do you think?]]></summary>
-        <author>
-            <name>zhangruinan</name>
-            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对你来说，员工+工程师的角色范围是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010440</id>
-        <link href="https://news.ycombinator.com/item?id=32010440"/>
-        <updated>2022-07-07T06:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the scope of a staff+ engineer role for you?]]></summary>
-        <author>
-            <name>somada141</name>
-            <uri>https://news.ycombinator.com/user?id=somada141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻求对我们网站的反馈（自由职业者平台）)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010411</id>
-        <link href="https://news.ycombinator.com/item?id=32010411"/>
-        <updated>2022-07-07T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for feedback on our website (freelance platform))]]></summary>
-        <author>
-            <name>cisforce</name>
-            <uri>https://news.ycombinator.com/user?id=cisforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人在努力寻找高质量的自由职业者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010213</id>
-        <link href="https://news.ycombinator.com/item?id=32010213"/>
-        <updated>2022-07-07T05:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone struggling to find high quality freelance devs?]]></summary>
-        <author>
-            <name>cisforce</name>
-            <uri>https://news.ycombinator.com/user?id=cisforce</uri>
         </author>
     </entry>
 </feed>
