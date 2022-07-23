@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T10:32:26.505Z</updated>
+    <updated>2022-07-23T10:49:18.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您可以推薦的課程/資源，以開始學習ML/AI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202117</id>
+        <link href="https://news.ycombinator.com/item?id=32202117"/>
+        <updated>2022-07-23T10:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Courses/resources you can recommend to start with ML/AI]]></summary>
+        <author>
+            <name>l1am0</name>
+            <uri>https://news.ycombinator.com/user?id=l1am0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對開發者環境轉移到雲端有什麼看法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vivegi</name>
             <uri>https://news.ycombinator.com/user?id=vivegi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有可能培育出一隻圓瞳的貓嗎？(只是為了好玩)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013247</id>
-        <link href="https://news.ycombinator.com/item?id=32013247"/>
-        <updated>2022-07-07T12:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to breed a cat with round pupils? (just for fun)]]></summary>
-        <author>
-            <name>eimrine</name>
-            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
         </author>
     </entry>
 </feed>
