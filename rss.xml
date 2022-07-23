@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 23 Jul 2022 20:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 21:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[20岁上大学是否太晚？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32207624</link>
+            <guid>https://news.ycombinator.com/item?id=32207624</guid>
+            <pubDate>Sat, 23 Jul 2022 21:12:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is 20 too late to go to college?]]></description>
+        </item>
         <item>
             <title><![CDATA[替代的Dreamweaver
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32017844</guid>
             <pubDate>Thu, 07 Jul 2022 18:56:46 GMT</pubDate>
             <description><![CDATA[Ask HN: How many Amazon recruiters are currently bugging you?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有人有ppc64le和s390x的盒子来测试Docker镜像？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32017384</link>
-            <guid>https://news.ycombinator.com/item?id=32017384</guid>
-            <pubDate>Thu, 07 Jul 2022 18:12:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone with ppc64le and s390x boxes to test a Docker image?]]></description>
         </item>
     </channel>
 </rss>
