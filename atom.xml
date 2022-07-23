@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T16:40:51.540Z</updated>
+    <updated>2022-07-23T17:09:31.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么自学成才的开发者被剥夺了 "免费教育 "的工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32205036</id>
+        <link href="https://news.ycombinator.com/item?id=32205036"/>
+        <updated>2022-07-23T16:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are self-taught developers deprived of “free for education” tools?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么退休的数学家不对TeXmacs进行详细的反馈？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>adoga</name>
             <uri>https://news.ycombinator.com/user?id=adoga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学竞赛是否能吸引聪明人从事高中数学教学？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32014681</id>
-        <link href="https://news.ycombinator.com/item?id=32014681"/>
-        <updated>2022-07-07T14:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do math contests attract smart people to high school math teaching?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
