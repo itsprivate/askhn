@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T13:21:33.527Z</updated>
+    <updated>2022-07-23T13:59:43.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IRL设想的变量，使你容易吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203358</id>
+        <link href="https://news.ycombinator.com/item?id=32203358"/>
+        <updated>2022-07-23T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: IRL env variables that make you easy?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于小众语言（Nim, crystal）来说，就业市场是怎样的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomlytyping</name>
             <uri>https://news.ycombinator.com/user?id=randomlytyping</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Leap是如何变得无关紧要的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32014387</id>
-        <link href="https://news.ycombinator.com/item?id=32014387"/>
-        <updated>2022-07-07T14:15:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did Magic Leap become irrelevant?]]></summary>
-        <author>
-            <name>treyfitty</name>
-            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
         </author>
     </entry>
 </feed>
