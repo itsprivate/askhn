@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T21:26:31.726Z</updated>
+    <updated>2022-07-23T22:29:05.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个知识分子/研究伙伴的匹配网站？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32208127</id>
+        <link href="https://news.ycombinator.com/item?id=32208127"/>
+        <updated>2022-07-23T22:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A matching site for intellectual/study partners?]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享你的副业项目和你的动机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32208110</id>
+        <link href="https://news.ycombinator.com/item?id=32208110"/>
+        <updated>2022-07-23T22:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Share your side project and your motivation]]></summary>
+        <author>
+            <name>codemonkeysh</name>
+            <uri>https://news.ycombinator.com/user?id=codemonkeysh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20岁上大学是否太晚？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>themodelplumber</name>
             <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考虑撰写关于工程师销售的文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018097</id>
-        <link href="https://news.ycombinator.com/item?id=32018097"/>
-        <updated>2022-07-07T19:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thinking of writing article(s) on Sales for Engineers]]></summary>
-        <author>
-            <name>jppope</name>
-            <uri>https://news.ycombinator.com/user?id=jppope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前有多少亚马逊的招聘人员在烦扰你？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017844</id>
-        <link href="https://news.ycombinator.com/item?id=32017844"/>
-        <updated>2022-07-07T18:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many Amazon recruiters are currently bugging you?]]></summary>
-        <author>
-            <name>4b11b4</name>
-            <uri>https://news.ycombinator.com/user?id=4b11b4</uri>
         </author>
     </entry>
 </feed>
