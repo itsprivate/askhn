@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T18:53:29.315Z</updated>
+    <updated>2022-07-23T19:26:02.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件領域的頂尖人才被高估了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206555</id>
+        <link href="https://news.ycombinator.com/item?id=32206555"/>
+        <updated>2022-07-23T19:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is top talent in software overrated?]]></summary>
+        <author>
+            <name>Victerius</name>
+            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OS X 12.4 | Chromium - Command+C - Command+V - 問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ricksta</name>
             <uri>https://news.ycombinator.com/user?id=ricksta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[之前關於可識別的意識的最低要求的工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32015978</id>
-        <link href="https://news.ycombinator.com/item?id=32015978"/>
-        <updated>2022-07-07T16:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Prior work on minimum requirements for a recognizable consciousness?]]></summary>
-        <author>
-            <name>faizshah</name>
-            <uri>https://news.ycombinator.com/user?id=faizshah</uri>
         </author>
     </entry>
 </feed>
