@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T07:27:41.856Z</updated>
+    <updated>2022-07-23T08:35:19.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太阳能光伏发电与热电联产
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201382</id>
+        <link href="https://news.ycombinator.com/item?id=32201382"/>
+        <updated>2022-07-23T08:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Solar PV vs. Thermoelectric]]></summary>
+        <author>
+            <name>vivegi</name>
+            <uri>https://news.ycombinator.com/user?id=vivegi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为初创企业的 "云第一 "做法是否有局限性？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Bhurn00985</name>
             <uri>https://news.ycombinator.com/user?id=Bhurn00985</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于简单的前端开发，你的首选工具集是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011439</id>
-        <link href="https://news.ycombinator.com/item?id=32011439"/>
-        <updated>2022-07-07T08:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's is your go to toolset for simple front end development?]]></summary>
-        <author>
-            <name>anakaine</name>
-            <uri>https://news.ycombinator.com/user?id=anakaine</uri>
         </author>
     </entry>
 </feed>
