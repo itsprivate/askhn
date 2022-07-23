@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T19:26:02.829Z</updated>
+    <updated>2022-07-23T19:43:23.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該教什麼在線課程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206772</id>
+        <link href="https://news.ycombinator.com/item?id=32206772"/>
+        <updated>2022-07-23T19:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What online course should I teach?]]></summary>
+        <author>
+            <name>adsal92</name>
+            <uri>https://news.ycombinator.com/user?id=adsal92</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件領域的頂尖人才被高估了嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craigslist騙子擁有我的自拍身份證照片的影響？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016172</id>
-        <link href="https://news.ycombinator.com/item?id=32016172"/>
-        <updated>2022-07-07T16:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Implication of Craigslist Scammer Having My Selfie ID Photo?]]></summary>
-        <author>
-            <name>ricksta</name>
-            <uri>https://news.ycombinator.com/user?id=ricksta</uri>
         </author>
     </entry>
 </feed>
