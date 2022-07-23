@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-23T13:59:43.008Z</updated>
+    <updated>2022-07-23T14:28:12.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支付单次编码问题的答案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203467</id>
+        <link href="https://news.ycombinator.com/item?id=32203467"/>
+        <updated>2022-07-23T14:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Paying for Single Coding Questions Answers]]></summary>
+        <author>
+            <name>gennarro</name>
+            <uri>https://news.ycombinator.com/user?id=gennarro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IRL设想的变量，使你容易吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gushogg-blake</name>
             <uri>https://news.ycombinator.com/user?id=gushogg-blake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想从头开始写一个JavaScript引擎，我应该从哪里开始？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32014481</id>
-        <link href="https://news.ycombinator.com/item?id=32014481"/>
-        <updated>2022-07-07T14:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I want to write a JavaScript engine from scratch, where should I start?]]></summary>
-        <author>
-            <name>randomlytyping</name>
-            <uri>https://news.ycombinator.com/user?id=randomlytyping</uri>
         </author>
     </entry>
 </feed>
