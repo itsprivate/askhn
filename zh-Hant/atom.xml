@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T03:56:20.010Z</updated>
+    <updated>2022-07-24T05:38:47.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的工作中是如何進行時間跟蹤的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32210603</id>
+        <link href="https://news.ycombinator.com/item?id=32210603"/>
+        <updated>2022-07-24T05:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How is time tracking done at your work?]]></summary>
+        <author>
+            <name>throwthislater</name>
+            <uri>https://news.ycombinator.com/user?id=throwthislater</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你每天追蹤的關鍵詞有哪些？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>IndigoIncognito</name>
             <uri>https://news.ycombinator.com/user?id=IndigoIncognito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想要一個簡約的手機體驗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32020805</id>
-        <link href="https://news.ycombinator.com/item?id=32020805"/>
-        <updated>2022-07-07T23:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I want a minimalist phone experience]]></summary>
-        <author>
-            <name>mattymf</name>
-            <uri>https://news.ycombinator.com/user?id=mattymf</uri>
         </author>
     </entry>
 </feed>
