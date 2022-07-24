@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T15:31:08.604Z</updated>
+    <updated>2022-07-24T15:51:54.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何兼职攻读计算机科学博士？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214470</id>
+        <link href="https://news.ycombinator.com/item?id=32214470"/>
+        <updated>2022-07-24T15:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to do a Computer Science PhD part time?]]></summary>
+        <author>
+            <name>comvidyarthi</name>
+            <uri>https://news.ycombinator.com/user?id=comvidyarthi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在去中心化计算上训练的ML模型？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214469</id>
+        <link href="https://news.ycombinator.com/item?id=32214469"/>
+        <updated>2022-07-24T15:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ML models trained on decentralized computing?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在有谁的Twitter让人难以忍受吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aryamaan</name>
             <uri>https://news.ycombinator.com/user?id=aryamaan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗杰斯公司的故障难道不能证明--网络是一个单点故障吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028484</id>
-        <link href="https://news.ycombinator.com/item?id=32028484"/>
-        <updated>2022-07-08T22:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Doesn't the Rogers outage prove – network as a single point of failure?]]></summary>
-        <author>
-            <name>avi_vallarapu</name>
-            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELI5 - HN发生了什么事，以至于它今天倒下了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027458</id>
-        <link href="https://news.ycombinator.com/item?id=32027458"/>
-        <updated>2022-07-08T21:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ELI5 – What happened to HN for it to go down today?]]></summary>
-        <author>
-            <name>chirau</name>
-            <uri>https://news.ycombinator.com/user?id=chirau</uri>
         </author>
     </entry>
 </feed>
