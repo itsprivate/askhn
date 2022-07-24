@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T23:30:05.972Z</updated>
+    <updated>2022-07-24T23:48:26.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有任何工具可以檢測JavaScript（網絡）中的內存洩漏？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32218900</id>
+        <link href="https://news.ycombinator.com/item?id=32218900"/>
+        <updated>2022-07-24T23:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't there any tools that detect memory leaks in JavaScript (web)?]]></summary>
+        <author>
+            <name>develatio</name>
+            <uri>https://news.ycombinator.com/user?id=develatio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向競爭者要求演示的道德問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nerdyadventurer</name>
             <uri>https://news.ycombinator.com/user?id=nerdyadventurer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前Uber員工還被認為是 "被玷汙 "嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033702</id>
-        <link href="https://news.ycombinator.com/item?id=32033702"/>
-        <updated>2022-07-09T10:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Former Uber Employees Still Considered “Tarnished?”]]></summary>
-        <author>
-            <name>treyfitty</name>
-            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
         </author>
     </entry>
 </feed>
