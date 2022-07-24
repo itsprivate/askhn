@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T15:51:54.243Z</updated>
+    <updated>2022-07-24T16:42:39.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何扩大一个硬件项目的商业应用规模？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214670</id>
+        <link href="https://news.ycombinator.com/item?id=32214670"/>
+        <updated>2022-07-24T15:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to scale up a hardware project for commercial application?]]></summary>
+        <author>
+            <name>blockwriter</name>
+            <uri>https://news.ycombinator.com/user?id=blockwriter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刮取菜谱配料表的合法性是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214666</id>
+        <link href="https://news.ycombinator.com/item?id=32214666"/>
+        <updated>2022-07-24T15:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the legality of scraping recipe ingredient lists?]]></summary>
+        <author>
+            <name>bobblywobbles</name>
+            <uri>https://news.ycombinator.com/user?id=bobblywobbles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何兼职攻读计算机科学博士？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Cocktail</name>
             <uri>https://news.ycombinator.com/user?id=Cocktail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN有什么样的设置？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32029067</id>
-        <link href="https://news.ycombinator.com/item?id=32029067"/>
-        <updated>2022-07-08T23:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What kind of setup does HN have?]]></summary>
-        <author>
-            <name>sacrosanct</name>
-            <uri>https://news.ycombinator.com/user?id=sacrosanct</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对M1和M2 Mac的工作有什么经验？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028945</id>
-        <link href="https://news.ycombinator.com/item?id=32028945"/>
-        <updated>2022-07-08T23:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your experience with working M1 and M2 Macs?]]></summary>
-        <author>
-            <name>aryamaan</name>
-            <uri>https://news.ycombinator.com/user?id=aryamaan</uri>
         </author>
     </entry>
 </feed>
