@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T06:35:55.168Z</updated>
+    <updated>2022-07-24T08:33:03.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Adobe Dreamweaver仍然有用吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211339</id>
+        <link href="https://news.ycombinator.com/item?id=32211339"/>
+        <updated>2022-07-24T07:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Adobe Dreamweaver still useful?]]></summary>
+        <author>
+            <name>oldtimer1010</name>
+            <uri>https://news.ycombinator.com/user?id=oldtimer1010</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名早期的SDE，如何将软技能运用到实践中？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TbobbyZ</name>
             <uri>https://news.ycombinator.com/user?id=TbobbyZ</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低级别的编程论坛和社区？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021850</id>
-        <link href="https://news.ycombinator.com/item?id=32021850"/>
-        <updated>2022-07-08T01:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Low level programming forums and communities?]]></summary>
-        <author>
-            <name>3a2d29</name>
-            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
         </author>
     </entry>
 </feed>
