@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T17:08:54.214Z</updated>
+    <updated>2022-07-24T17:41:03.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從哪裡開始學習2D光柵圖形開發？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32215603</id>
+        <link href="https://news.ycombinator.com/item?id=32215603"/>
+        <updated>2022-07-24T17:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to start to learn 2D raster graphics development?]]></summary>
+        <author>
+            <name>jb1991</name>
+            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不安裝一個過濾器來防止被食物噎住？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FearTheTrees</name>
             <uri>https://news.ycombinator.com/user?id=FearTheTrees</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Git中做到這一點
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32029710</id>
-        <link href="https://news.ycombinator.com/item?id=32029710"/>
-        <updated>2022-07-09T00:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Do This in Git]]></summary>
-        <author>
-            <name>pm2222</name>
-            <uri>https://news.ycombinator.com/user?id=pm2222</uri>
         </author>
     </entry>
 </feed>
