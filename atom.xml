@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T20:31:18.794Z</updated>
+    <updated>2022-07-24T20:49:23.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些协议和数据格式是用于空间通信的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217430</id>
+        <link href="https://news.ycombinator.com/item?id=32217430"/>
+        <updated>2022-07-24T20:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which protocols and data formats are used for space communication?]]></summary>
+        <author>
+            <name>jviotti</name>
+            <uri>https://news.ycombinator.com/user?id=jviotti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有效的、具有数据隐私的、报告业务关键绩效指标的数据评估工具？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>HeckFeck</name>
             <uri>https://news.ycombinator.com/user?id=HeckFeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在你的应用程序中实现内部用户信息传递？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033146</id>
-        <link href="https://news.ycombinator.com/item?id=32033146"/>
-        <updated>2022-07-09T08:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you implement internal user messaging in your app?]]></summary>
-        <author>
-            <name>dekervin</name>
-            <uri>https://news.ycombinator.com/user?id=dekervin</uri>
         </author>
     </entry>
 </feed>

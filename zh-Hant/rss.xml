@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 24 Jul 2022 20:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 20:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哪些協議和數據格式是用於空間通信的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32217430</link>
+            <guid>https://news.ycombinator.com/item?id=32217430</guid>
+            <pubDate>Sun, 24 Jul 2022 20:35:48 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which protocols and data formats are used for space communication?]]></description>
+        </item>
         <item>
             <title><![CDATA[有效的、具有數據隱私的、報告業務關鍵績效指標的數據評估工具？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32033385</guid>
             <pubDate>Sat, 09 Jul 2022 09:30:52 GMT</pubDate>
             <description><![CDATA[Ask HN: What would it take for the Windows 98 codebase to be opensourced?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何在你的應用程序中實現內部用戶信息傳遞？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033146</link>
-            <guid>https://news.ycombinator.com/item?id=32033146</guid>
-            <pubDate>Sat, 09 Jul 2022 08:40:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you implement internal user messaging in your app?]]></description>
         </item>
     </channel>
 </rss>
