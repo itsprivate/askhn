@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T19:45:48.885Z</updated>
+    <updated>2022-07-24T19:58:38.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在敏感數據上使用/信任什麼雲存儲？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216968</id>
+        <link href="https://news.ycombinator.com/item?id=32216968"/>
+        <updated>2022-07-24T19:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What cloud storage do you use/trust on sensitive data?]]></summary>
+        <author>
+            <name>level09</name>
+            <uri>https://news.ycombinator.com/user?id=level09</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勾畫圖表/思維導圖的技巧？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wakahiu</name>
             <uri>https://news.ycombinator.com/user?id=wakahiu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一個 "維基百科 "將是什麼樣子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32032045</id>
-        <link href="https://news.ycombinator.com/item?id=32032045"/>
-        <updated>2022-07-09T05:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What will the „next“ Wikipedia be like?]]></summary>
-        <author>
-            <name>endofreach</name>
-            <uri>https://news.ycombinator.com/user?id=endofreach</uri>
         </author>
     </entry>
 </feed>
