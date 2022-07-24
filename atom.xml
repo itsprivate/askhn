@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T14:51:14.673Z</updated>
+    <updated>2022-07-24T14:59:54.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一个人工智能专家，在哪里工作才能帮助人类？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214053</id>
+        <link href="https://news.ycombinator.com/item?id=32214053"/>
+        <updated>2022-07-24T14:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As an AI expert, where to work to help humanity?]]></summary>
+        <author>
+            <name>doubtfuluser</name>
+            <uri>https://news.ycombinator.com/user?id=doubtfuluser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何安全地共享一个文件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214049</id>
+        <link href="https://news.ycombinator.com/item?id=32214049"/>
+        <updated>2022-07-24T14:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Securely Share a Document?]]></summary>
+        <author>
+            <name>quietpills</name>
+            <uri>https://news.ycombinator.com/user?id=quietpills</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是否应该放弃.NET编程以摆脱企业级的工作？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>quicksnap</name>
             <uri>https://news.ycombinator.com/user?id=quicksnap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你看来，目前最好的ToDo List App是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32025568</id>
-        <link href="https://news.ycombinator.com/item?id=32025568"/>
-        <updated>2022-07-08T11:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is currently – in your opinion – the best ToDo List App?]]></summary>
-        <author>
-            <name>franze</name>
-            <uri>https://news.ycombinator.com/user?id=franze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像CoPilot那样的写作工具，但用于散文？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32025552</id>
-        <link href="https://news.ycombinator.com/item?id=32025552"/>
-        <updated>2022-07-08T11:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Writing tools like CoPilot but for prose?]]></summary>
-        <author>
-            <name>d4rkp4ttern</name>
-            <uri>https://news.ycombinator.com/user?id=d4rkp4ttern</uri>
         </author>
     </entry>
 </feed>
