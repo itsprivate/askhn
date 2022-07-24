@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-24T12:49:15.321Z</updated>
+    <updated>2022-07-24T14:51:14.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否应该放弃.NET编程以摆脱企业级的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213903</id>
+        <link href="https://news.ycombinator.com/item?id=32213903"/>
+        <updated>2022-07-24T14:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I quit .NET programming to get away from enterprise-y work?]]></summary>
+        <author>
+            <name>unknownsky</name>
+            <uri>https://news.ycombinator.com/user?id=unknownsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是存储和访问图像的最经济有效的方式？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>d4rkp4ttern</name>
             <uri>https://news.ycombinator.com/user?id=d4rkp4ttern</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码文档都是正确的吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32024761</id>
-        <link href="https://news.ycombinator.com/item?id=32024761"/>
-        <updated>2022-07-08T09:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Code documentation is all right?]]></summary>
-        <author>
-            <name>plvch</name>
-            <uri>https://news.ycombinator.com/user?id=plvch</uri>
         </author>
     </entry>
 </feed>
