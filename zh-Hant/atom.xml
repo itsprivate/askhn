@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T14:49:37.437Z</updated>
+    <updated>2022-07-25T15:36:11.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何為新的編程平臺找到合適的技術天使投資人？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32225701</id>
+        <link href="https://news.ycombinator.com/item?id=32225701"/>
+        <updated>2022-07-25T15:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find the right tech angel investor for new programming platform?]]></summary>
+        <author>
+            <name>ellis0n</name>
+            <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼HN的論述質量走下坡路？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32225652</id>
+        <link href="https://news.ycombinator.com/item?id=32225652"/>
+        <updated>2022-07-25T15:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has the quality of discourse on HN gone downhill?]]></summary>
+        <author>
+            <name>alephnerd</name>
+            <uri>https://news.ycombinator.com/user?id=alephnerd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪裡有評論說《務實的程序員》不是務實的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>wcerfgba</name>
             <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彈性存儲空間
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32039242</id>
-        <link href="https://news.ycombinator.com/item?id=32039242"/>
-        <updated>2022-07-09T20:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Elastic Storage Space]]></summary>
-        <author>
-            <name>multimedial</name>
-            <uri>https://news.ycombinator.com/user?id=multimedial</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音樂流媒體算法混合搭配。它存在嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038967</id>
-        <link href="https://news.ycombinator.com/item?id=32038967"/>
-        <updated>2022-07-09T20:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Music streaming algorithm mix-and-match: Does it exist?]]></summary>
-        <author>
-            <name>popcalc</name>
-            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
         </author>
     </entry>
 </feed>
