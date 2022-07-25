@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T19:07:01.690Z</updated>
+    <updated>2022-07-25T19:24:54.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[某些詞語，如 "禪"，是否限制了西方觀眾的接觸？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32229553</id>
+        <link href="https://news.ycombinator.com/item?id=32229553"/>
+        <updated>2022-07-25T19:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do certain words, like “Zen”, limit the reach for western audience?]]></summary>
+        <author>
+            <name>moomoo11</name>
+            <uri>https://news.ycombinator.com/user?id=moomoo11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何讓年邁的父母生活得更輕鬆？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32229383</id>
+        <link href="https://news.ycombinator.com/item?id=32229383"/>
+        <updated>2022-07-25T19:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make living easier for old parents?]]></summary>
+        <author>
+            <name>gits1225</name>
+            <uri>https://news.ycombinator.com/user?id=gits1225</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這場大流行是否催生了具有公共內容的優質課程？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>meta-level</name>
             <uri>https://news.ycombinator.com/user?id=meta-level</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這2022年如何做負載測試？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042442</id>
-        <link href="https://news.ycombinator.com/item?id=32042442"/>
-        <updated>2022-07-10T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you do Load Testing this 2022?]]></summary>
-        <author>
-            <name>johndavid9991</name>
-            <uri>https://news.ycombinator.com/user?id=johndavid9991</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你想獲得lobste.rs的邀請嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042417</id>
-        <link href="https://news.ycombinator.com/item?id=32042417"/>
-        <updated>2022-07-10T06:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you want an invite to lobste.rs?]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>
