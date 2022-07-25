@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T21:29:54.144Z</updated>
+    <updated>2022-07-25T22:29:25.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的父母對你有多大的野心？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32231684</id>
+        <link href="https://news.ycombinator.com/item?id=32231684"/>
+        <updated>2022-07-25T22:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How ambitious were your parents on you?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在針對遠程API的開發過程中，我如何強制網絡故障？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>philonoist</name>
             <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移動版的 "星鏈"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042892</id>
-        <link href="https://news.ycombinator.com/item?id=32042892"/>
-        <updated>2022-07-10T08:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Starlink for Mobile?]]></summary>
-        <author>
-            <name>desertraven</name>
-            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
         </author>
     </entry>
 </feed>
