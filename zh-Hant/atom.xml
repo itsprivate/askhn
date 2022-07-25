@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T13:02:24.033Z</updated>
+    <updated>2022-07-25T14:04:27.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這裡有誰為信息亭、信息娛樂系統或類似的東西做了sw嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32223919</id>
+        <link href="https://news.ycombinator.com/item?id=32223919"/>
+        <updated>2022-07-25T13:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?]]></summary>
+        <author>
+            <name>mathverse</name>
+            <uri>https://news.ycombinator.com/user?id=mathverse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道的最好的編程技巧是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32223834</id>
+        <link href="https://news.ycombinator.com/item?id=32223834"/>
+        <updated>2022-07-25T13:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best programming tricks you know?]]></summary>
+        <author>
+            <name>kacperlukawski</name>
+            <uri>https://news.ycombinator.com/user?id=kacperlukawski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Panera咖啡館的桌子上有這麼多NFC標籤？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>deanmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=deanmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在家裡使用哪些有趣/獨特的應用程序和工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038077</id>
-        <link href="https://news.ycombinator.com/item?id=32038077"/>
-        <updated>2022-07-09T18:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some fun/unique apps and tools you use at home?]]></summary>
-        <author>
-            <name>ChikkaChiChi</name>
-            <uri>https://news.ycombinator.com/user?id=ChikkaChiChi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在工作時間以外隨叫隨到？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038044</id>
-        <link href="https://news.ycombinator.com/item?id=32038044"/>
-        <updated>2022-07-09T18:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you on-call after business hours?]]></summary>
-        <author>
-            <name>cad1</name>
-            <uri>https://news.ycombinator.com/user?id=cad1</uri>
         </author>
     </entry>
 </feed>
