@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T10:38:47.457Z</updated>
+    <updated>2022-07-25T11:28:35.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你关注哪些非英语的新闻、博客、讨论组、社区？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32222927</id>
+        <link href="https://news.ycombinator.com/item?id=32222927"/>
+        <updated>2022-07-25T11:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What non-English news, blogs, discussion groups, communities you follow?]]></summary>
+        <author>
+            <name>dusttree</name>
+            <uri>https://news.ycombinator.com/user?id=dusttree</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习天文学的基础知识
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32222792</id>
+        <link href="https://news.ycombinator.com/item?id=32222792"/>
+        <updated>2022-07-25T10:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learning the Basics of Astronomy]]></summary>
+        <author>
+            <name>danschmitt</name>
+            <uri>https://news.ycombinator.com/user?id=danschmitt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何利用偏远地区的多余能源
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bveiseh</name>
             <uri>https://news.ycombinator.com/user?id=bveiseh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳槽是否像他们说的那样糟糕？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023363</id>
-        <link href="https://news.ycombinator.com/item?id=32023363"/>
-        <updated>2022-07-08T04:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is job hopping as bad as they say?]]></summary>
-        <author>
-            <name>only_throwing</name>
-            <uri>https://news.ycombinator.com/user?id=only_throwing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每次更新后，VSCode是否变得过于复杂？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036676</id>
-        <link href="https://news.ycombinator.com/item?id=32036676"/>
-        <updated>2022-07-09T16:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is VSCode becoming too complex after each update?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
