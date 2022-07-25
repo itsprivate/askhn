@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T11:28:35.738Z</updated>
+    <updated>2022-07-25T11:47:45.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你會使用一個平臺來證明和更快地僱用嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32222946</id>
+        <link href="https://news.ycombinator.com/item?id=32222946"/>
+        <updated>2022-07-25T11:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you use a platform to justify and hire faster?]]></summary>
+        <author>
+            <name>igdiaz</name>
+            <uri>https://news.ycombinator.com/user?id=igdiaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你關注哪些非英語的新聞、博客、討論組、社區？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>OulaX</name>
             <uri>https://news.ycombinator.com/user?id=OulaX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重建整個遺留的軟件系統是愚蠢的嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023887</id>
-        <link href="https://news.ycombinator.com/item?id=32023887"/>
-        <updated>2022-07-08T07:27:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is rebuilding an entire legacy software system stupid?]]></summary>
-        <author>
-            <name>bveiseh</name>
-            <uri>https://news.ycombinator.com/user?id=bveiseh</uri>
         </author>
     </entry>
 </feed>
