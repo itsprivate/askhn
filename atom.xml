@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T15:36:11.056Z</updated>
+    <updated>2022-07-25T15:56:53.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网站故障是否变得越来越普遍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32225841</id>
+        <link href="https://news.ycombinator.com/item?id=32225841"/>
+        <updated>2022-07-25T15:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are website failures becoming more common?]]></summary>
+        <author>
+            <name>pbohun</name>
+            <uri>https://news.ycombinator.com/user?id=pbohun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何为新的编程平台找到合适的技术天使投资人？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最喜欢的邮件列表？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32039423</id>
-        <link href="https://news.ycombinator.com/item?id=32039423"/>
-        <updated>2022-07-09T21:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Favourite Mailing Lists?]]></summary>
-        <author>
-            <name>wcerfgba</name>
-            <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
         </author>
     </entry>
 </feed>
