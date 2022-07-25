@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T20:31:52.129Z</updated>
+    <updated>2022-07-25T21:29:54.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在针对远程API的开发过程中，我如何强制网络故障？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32231100</id>
+        <link href="https://news.ycombinator.com/item?id=32231100"/>
+        <updated>2022-07-25T21:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I force network failures during development against remote APIs?]]></summary>
+        <author>
+            <name>I_dev_outdoors</name>
+            <uri>https://news.ycombinator.com/user?id=I_dev_outdoors</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比较谷歌与Workspace的隐私分析？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32230915</id>
+        <link href="https://news.ycombinator.com/item?id=32230915"/>
+        <updated>2022-07-25T21:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Privacy analysis comparing Google vs. Workspace?]]></summary>
+        <author>
+            <name>minerva23</name>
+            <uri>https://news.ycombinator.com/user?id=minerva23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何应对铺天盖地的批评和自我怀疑？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>desertraven</name>
             <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[副业/自由职业工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042852</id>
-        <link href="https://news.ycombinator.com/item?id=32042852"/>
-        <updated>2022-07-10T08:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Side/Freelance Work]]></summary>
-        <author>
-            <name>LittleGecko</name>
-            <uri>https://news.ycombinator.com/user?id=LittleGecko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公开的人工智能公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042838</id>
-        <link href="https://news.ycombinator.com/item?id=32042838"/>
-        <updated>2022-07-10T08:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Public AI Companies?]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
