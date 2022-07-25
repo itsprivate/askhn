@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T19:24:54.654Z</updated>
+    <updated>2022-07-25T19:48:07.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Google Fonts repo無視拉動請求，該怎麼辦？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32229736</id>
+        <link href="https://news.ycombinator.com/item?id=32229736"/>
+        <updated>2022-07-25T19:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do about Google Fonts repo ignoring pull requests]]></summary>
+        <author>
+            <name>mhdhn</name>
+            <uri>https://news.ycombinator.com/user?id=mhdhn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某些詞語，如 "禪"，是否限制了西方觀眾的接觸？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gtsnexp</name>
             <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在給定的需求清單中搜索產品/應用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042767</id>
-        <link href="https://news.ycombinator.com/item?id=32042767"/>
-        <updated>2022-07-10T08:14:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you search for products / apps given a list of requirements?]]></summary>
-        <author>
-            <name>meta-level</name>
-            <uri>https://news.ycombinator.com/user?id=meta-level</uri>
         </author>
     </entry>
 </feed>
