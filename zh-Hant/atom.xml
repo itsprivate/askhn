@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T17:48:58.589Z</updated>
+    <updated>2022-07-25T17:58:44.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的亞馬遜發貨都延遲了一週嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228237</id>
+        <link href="https://news.ycombinator.com/item?id=32228237"/>
+        <updated>2022-07-25T17:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are your Amazon shipments ALL delayed a week?]]></summary>
+        <author>
+            <name>kokanator</name>
+            <uri>https://news.ycombinator.com/user?id=kokanator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Mac OS上提高按鍵重複率，超過正常限度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228133</id>
+        <link href="https://news.ycombinator.com/item?id=32228133"/>
+        <updated>2022-07-25T17:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Increase Key Repeat rate on Mac OS beyond normal limits]]></summary>
+        <author>
+            <name>ggerganov</name>
+            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有任何GitHub行動計費的恐怖故事嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能買到自己的飛艇/飛艇/飛艇嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32041933</id>
-        <link href="https://news.ycombinator.com/item?id=32041933"/>
-        <updated>2022-07-10T04:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you buy your own airship / dirigible / zeppelin?]]></summary>
-        <author>
-            <name>react_burger38</name>
-            <uri>https://news.ycombinator.com/user?id=react_burger38</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Stackoverflow改用廣告而不是對招聘信息收費？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32041770</id>
-        <link href="https://news.ycombinator.com/item?id=32041770"/>
-        <updated>2022-07-10T04:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why Stackoverflow switched to ads instead of charging for job listings?]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
         </author>
     </entry>
 </feed>
