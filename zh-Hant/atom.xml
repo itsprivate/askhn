@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T17:58:44.609Z</updated>
+    <updated>2022-07-25T18:39:18.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名SWE，你是如何計劃你的工作的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228803</id>
+        <link href="https://news.ycombinator.com/item?id=32228803"/>
+        <updated>2022-07-25T18:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a SWE, how do you plan out your work?]]></summary>
+        <author>
+            <name>3a2d29</name>
+            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的亞馬遜發貨都延遲了一週嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>assttoasstmgr</name>
             <uri>https://news.ycombinator.com/user?id=assttoasstmgr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼後退按鈕變得越來越無用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042159</id>
-        <link href="https://news.ycombinator.com/item?id=32042159"/>
-        <updated>2022-07-10T05:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the back button becoming more and more useless?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
