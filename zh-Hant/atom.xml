@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-25T11:47:45.619Z</updated>
+    <updated>2022-07-25T13:02:24.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Panera咖啡館的桌子上有這麼多NFC標籤？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32223375</id>
+        <link href="https://news.ycombinator.com/item?id=32223375"/>
+        <updated>2022-07-25T12:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Panera cafe tables have so many NFC Tags?]]></summary>
+        <author>
+            <name>blockarchitech</name>
+            <uri>https://news.ycombinator.com/user?id=blockarchitech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會使用一個平臺來證明和更快地僱用嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cad1</name>
             <uri>https://news.ycombinator.com/user?id=cad1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[困惑和沮喪--需要指導
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037813</id>
-        <link href="https://news.ycombinator.com/item?id=32037813"/>
-        <updated>2022-07-09T18:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Stuck and Depressed – Need Guidance]]></summary>
-        <author>
-            <name>OulaX</name>
-            <uri>https://news.ycombinator.com/user?id=OulaX</uri>
         </author>
     </entry>
 </feed>
