@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T14:08:40.992Z</updated>
+    <updated>2022-07-26T15:04:54.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近遇到的独特的创业公司登陆页面？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32239092</id>
+        <link href="https://news.ycombinator.com/item?id=32239092"/>
+        <updated>2022-07-26T14:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Unique startup landing pages you encountered recently?]]></summary>
+        <author>
+            <name>talhof8</name>
+            <uri>https://news.ycombinator.com/user?id=talhof8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么 "斜线 "是搜索的图标？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>michidk</name>
             <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自Cloudflare IP的奇怪的SSH探针
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053650</id>
-        <link href="https://news.ycombinator.com/item?id=32053650"/>
-        <updated>2022-07-11T08:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Weird SSH Probes from Cloudflare IPs]]></summary>
-        <author>
-            <name>skonteam</name>
-            <uri>https://news.ycombinator.com/user?id=skonteam</uri>
         </author>
     </entry>
 </feed>

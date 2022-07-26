@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 14:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 15:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最近遇到的獨特的創業公司登陸頁面？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32239092</link>
+            <guid>https://news.ycombinator.com/item?id=32239092</guid>
+            <pubDate>Tue, 26 Jul 2022 14:49:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Unique startup landing pages you encountered recently?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼 "斜線 "是搜索的圖標？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32054002</guid>
             <pubDate>Mon, 11 Jul 2022 09:35:29 GMT</pubDate>
             <description><![CDATA[Ask HN: Origins of Hacker News]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自Cloudflare IP的奇怪的SSH探針
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32053650</link>
-            <guid>https://news.ycombinator.com/item?id=32053650</guid>
-            <pubDate>Mon, 11 Jul 2022 08:35:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: Weird SSH Probes from Cloudflare IPs]]></description>
         </item>
     </channel>
 </rss>
