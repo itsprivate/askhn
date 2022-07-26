@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T15:04:54.068Z</updated>
+    <updated>2022-07-26T15:57:53.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否參與了加密貨幣輪盤賭？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32239820</id>
+        <link href="https://news.ycombinator.com/item?id=32239820"/>
+        <updated>2022-07-26T15:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did you play in the crypto roulette?]]></summary>
+        <author>
+            <name>estebandalelr</name>
+            <uri>https://news.ycombinator.com/user?id=estebandalelr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼像Monero這樣的隱私幣沒有被廣泛採用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32239796</id>
+        <link href="https://news.ycombinator.com/item?id=32239796"/>
+        <updated>2022-07-26T15:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are privacy coins like Monero not seeing wide adoption?]]></summary>
+        <author>
+            <name>keewee7</name>
+            <uri>https://news.ycombinator.com/user?id=keewee7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最近遇到的獨特的創業公司登陸頁面？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tsp</name>
             <uri>https://news.ycombinator.com/user?id=tsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[質量第一的內容創作者社區？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054200</id>
-        <link href="https://news.ycombinator.com/item?id=32054200"/>
-        <updated>2022-07-11T10:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Quality first content creators community?]]></summary>
-        <author>
-            <name>toto444</name>
-            <uri>https://news.ycombinator.com/user?id=toto444</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞的起源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054002</id>
-        <link href="https://news.ycombinator.com/item?id=32054002"/>
-        <updated>2022-07-11T09:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Origins of Hacker News]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
         </author>
     </entry>
 </feed>
