@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T19:58:10.738Z</updated>
+    <updated>2022-07-26T20:32:55.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望在氣候/能源領域看到哪些解決方案？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243272</id>
+        <link href="https://news.ycombinator.com/item?id=32243272"/>
+        <updated>2022-07-26T20:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What solutions would you like to see in the climate/energy space?]]></summary>
+        <author>
+            <name>gtstar</name>
+            <uri>https://news.ycombinator.com/user?id=gtstar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推薦用於收集各服務的收藏夾的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243136</id>
+        <link href="https://news.ycombinator.com/item?id=32243136"/>
+        <updated>2022-07-26T19:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended tool to collect favorites across services]]></summary>
+        <author>
+            <name>etoulas</name>
+            <uri>https://news.ycombinator.com/user?id=etoulas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有適合開發者的DoorDash？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>chirau</name>
             <uri>https://news.ycombinator.com/user?id=chirau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪裡可以看到這個創業學校的課程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058937</id>
-        <link href="https://news.ycombinator.com/item?id=32058937"/>
-        <updated>2022-07-11T17:20:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I watch this Startup-School session?]]></summary>
-        <author>
-            <name>moebius-strip</name>
-            <uri>https://news.ycombinator.com/user?id=moebius-strip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該多年輕才值得學習量子計算？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058751</id>
-        <link href="https://news.ycombinator.com/item?id=32058751"/>
-        <updated>2022-07-11T17:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How young should you be for quantum computation to be worth learning?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
