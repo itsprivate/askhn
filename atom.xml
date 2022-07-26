@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T21:47:50.341Z</updated>
+    <updated>2022-07-26T22:32:00.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何避免专利侵权/专利巨头？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244691</id>
+        <link href="https://news.ycombinator.com/item?id=32244691"/>
+        <updated>2022-07-26T22:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to avoid patent infringement/patent trolls?]]></summary>
+        <author>
+            <name>ditherblur</name>
+            <uri>https://news.ycombinator.com/user?id=ditherblur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个客户，如何不贬低自己？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244670</id>
+        <link href="https://news.ycombinator.com/item?id=32244670"/>
+        <updated>2022-07-26T22:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: First client, how not to undersell myself?]]></summary>
+        <author>
+            <name>yscodes</name>
+            <uri>https://news.ycombinator.com/user?id=yscodes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人使用Spinnaker进行持续交付吗？它是怎样的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nerder92</name>
             <uri>https://news.ycombinator.com/user?id=nerder92</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS - 是否有一个多 "工作区 "的解决方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32061300</id>
-        <link href="https://news.ycombinator.com/item?id=32061300"/>
-        <updated>2022-07-11T20:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: macOS – is there a multiple “workspace” solution?]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫威已经失去控制了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060814</id>
-        <link href="https://news.ycombinator.com/item?id=32060814"/>
-        <updated>2022-07-11T19:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Marvel got out of hand?]]></summary>
-        <author>
-            <name>gravitate</name>
-            <uri>https://news.ycombinator.com/user?id=gravitate</uri>
         </author>
     </entry>
 </feed>
