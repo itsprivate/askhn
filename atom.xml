@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T22:32:00.774Z</updated>
+    <updated>2022-07-26T23:01:18.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dropbox经常使用Python，他们的Windows客户端也是这样吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32245091</id>
+        <link href="https://news.ycombinator.com/item?id=32245091"/>
+        <updated>2022-07-26T22:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Dropbox uses Python a lot, is it also the case for their Windows client?]]></summary>
+        <author>
+            <name>josephernest</name>
+            <uri>https://news.ycombinator.com/user?id=josephernest</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何避免专利侵权/专利巨头？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>actfrench</name>
             <uri>https://news.ycombinator.com/user?id=actfrench</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场的窘境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32061360</id>
-        <link href="https://news.ycombinator.com/item?id=32061360"/>
-        <updated>2022-07-11T20:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Market Dilemma]]></summary>
-        <author>
-            <name>nerder92</name>
-            <uri>https://news.ycombinator.com/user?id=nerder92</uri>
         </author>
     </entry>
 </feed>
