@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T20:51:03.971Z</updated>
+    <updated>2022-07-26T21:28:39.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这里有一篇关于裁员的文章。帮助我找到它？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244218</id>
+        <link href="https://news.ycombinator.com/item?id=32244218"/>
+        <updated>2022-07-26T21:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: There was an article posted here about layoffs. Help me find it?]]></summary>
+        <author>
+            <name>xwowsersx</name>
+            <uri>https://news.ycombinator.com/user?id=xwowsersx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你使用智能手表吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244177</id>
+        <link href="https://news.ycombinator.com/item?id=32244177"/>
+        <updated>2022-07-26T21:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use a smart watch?]]></summary>
+        <author>
+            <name>type0</name>
+            <uri>https://news.ycombinator.com/user?id=type0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转让方拒绝处理争议索赔。有什么追索权吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243961</id>
+        <link href="https://news.ycombinator.com/item?id=32243961"/>
+        <updated>2022-07-26T21:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Transfer(wise) refuses to process a dispute claim. Any recourse?]]></summary>
+        <author>
+            <name>unsupp0rted</name>
+            <uri>https://news.ycombinator.com/user?id=unsupp0rted</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram Channel to Forum
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>gtirloni</name>
             <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们的随叫随到政策是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060428</id>
-        <link href="https://news.ycombinator.com/item?id=32060428"/>
-        <updated>2022-07-11T19:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your on-call policy?]]></summary>
-        <author>
-            <name>bwestergard</name>
-            <uri>https://news.ycombinator.com/user?id=bwestergard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为技术带头人，在FAANG的收购中生存下来
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060047</id>
-        <link href="https://news.ycombinator.com/item?id=32060047"/>
-        <updated>2022-07-11T18:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Surviving a FAANG acquisition as a tech lead]]></summary>
-        <author>
-            <name>twaway322</name>
-            <uri>https://news.ycombinator.com/user?id=twaway322</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Go的最佳功能中，Dart是否击败了Go？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32059787</id>
-        <link href="https://news.ycombinator.com/item?id=32059787"/>
-        <updated>2022-07-11T18:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Dart beat Go in Go's best of features?]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
