@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 23:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你認為QUIC的連接ID不加密可以嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32245267</link>
+            <guid>https://news.ycombinator.com/item?id=32245267</guid>
+            <pubDate>Tue, 26 Jul 2022 23:17:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you think that it's OK to have QUIC's connection IDs unencrypted?]]></description>
+        </item>
         <item>
             <title><![CDATA[Dropbox經常使用Python，他們的Windows客戶端也是這樣嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32061941</guid>
             <pubDate>Mon, 11 Jul 2022 21:13:15 GMT</pubDate>
             <description><![CDATA[Ask HN: In 2022, what tech do you use to deliver James Webb images today?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什麼好的適合大孩子的適應性數學應用程序嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32061782</link>
-            <guid>https://news.ycombinator.com/item?id=32061782</guid>
-            <pubDate>Mon, 11 Jul 2022 21:01:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any good adaptive math apps for older kids?]]></description>
         </item>
     </channel>
 </rss>
