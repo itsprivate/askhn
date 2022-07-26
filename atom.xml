@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T02:51:17.096Z</updated>
+    <updated>2022-07-26T04:33:44.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在哪里工作以应对气候变化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234191</id>
+        <link href="https://news.ycombinator.com/item?id=32234191"/>
+        <updated>2022-07-26T04:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to work to combat climate change?]]></summary>
+        <author>
+            <name>head-cat-tail</name>
+            <uri>https://news.ycombinator.com/user?id=head-cat-tail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否尝试过从DevOps切换到数据科学？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32233731</id>
+        <link href="https://news.ycombinator.com/item?id=32233731"/>
+        <updated>2022-07-26T02:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you tried switching from DevOps to Data Science]]></summary>
+        <author>
+            <name>mr_o47</name>
+            <uri>https://news.ycombinator.com/user?id=mr_o47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何监测周期性的短命过程？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>poisonborz</name>
             <uri>https://news.ycombinator.com/user?id=poisonborz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否喜欢用算法而不是人去评估你的晋升？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32048315</id>
-        <link href="https://news.ycombinator.com/item?id=32048315"/>
-        <updated>2022-07-10T19:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you prefer an algorithm to human for evaluating your promotion?]]></summary>
-        <author>
-            <name>amrrs</name>
-            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么不通过两个参数指定音量：目标和范围？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32048084</id>
-        <link href="https://news.ycombinator.com/item?id=32048084"/>
-        <updated>2022-07-10T19:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't sound volume specified via two parameters: target and range?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在哪裡工作以應對氣候變化？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32234191</link>
+            <guid>https://news.ycombinator.com/item?id=32234191</guid>
+            <pubDate>Tue, 26 Jul 2022 04:17:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to work to combat climate change?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你是否嘗試過從DevOps切換到數據科學？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32233731</link>
+            <guid>https://news.ycombinator.com/item?id=32233731</guid>
+            <pubDate>Tue, 26 Jul 2022 02:55:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have you tried switching from DevOps to Data Science]]></description>
+        </item>
         <item>
             <title><![CDATA[如何監測週期性的短命過程？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32048747</guid>
             <pubDate>Sun, 10 Jul 2022 20:38:17 GMT</pubDate>
             <description><![CDATA[Ask HN: What's the reason that Airbnb Experiences never took off?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否喜歡用算法而不是人去評估你的晉升？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32048315</link>
-            <guid>https://news.ycombinator.com/item?id=32048315</guid>
-            <pubDate>Sun, 10 Jul 2022 19:53:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Would you prefer an algorithm to human for evaluating your promotion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼不通過兩個參數指定音量：目標和範圍？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32048084</link>
-            <guid>https://news.ycombinator.com/item?id=32048084</guid>
-            <pubDate>Sun, 10 Jul 2022 19:30:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why isn't sound volume specified via two parameters: target and range?]]></description>
         </item>
     </channel>
 </rss>
