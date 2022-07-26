@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T05:36:55.174Z</updated>
+    <updated>2022-07-26T06:03:33.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从书中读到的任何建议，你在现实世界中的应用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234666</id>
+        <link href="https://news.ycombinator.com/item?id=32234666"/>
+        <updated>2022-07-26T05:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any advice that you applied in real world after reading from a book]]></summary>
+        <author>
+            <name>dprophecyguy</name>
+            <uri>https://news.ycombinator.com/user?id=dprophecyguy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[银行会不会像哄抬法币一样哄抬比特币？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不太知名的教育/娱乐视频网站值得订阅吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32050432</id>
-        <link href="https://news.ycombinator.com/item?id=32050432"/>
-        <updated>2022-07-10T23:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Lesser known educational/entertainment video site worth subscribing to?]]></summary>
-        <author>
-            <name>akudha</name>
-            <uri>https://news.ycombinator.com/user?id=akudha</uri>
         </author>
     </entry>
 </feed>
