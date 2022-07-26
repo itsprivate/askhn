@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 15:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 16:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分享你的ISP恐怖故事。这是我的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32240484</link>
+            <guid>https://news.ycombinator.com/item?id=32240484</guid>
+            <pubDate>Tue, 26 Jul 2022 16:32:26 GMT</pubDate>
+            <description><![CDATA[Ask HN: Share your ISP horror stories. Here's mine]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否参与了加密货币轮盘赌？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32054810</guid>
             <pubDate>Mon, 11 Jul 2022 11:44:52 GMT</pubDate>
             <description><![CDATA[Ask HN: Is it really a good time to switch jobs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多人棋牌游戏是什么栈道？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32054857</link>
-            <guid>https://news.ycombinator.com/item?id=32054857</guid>
-            <pubDate>Mon, 11 Jul 2022 11:48:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: What stack for a multiplayer board game?]]></description>
         </item>
     </channel>
 </rss>
