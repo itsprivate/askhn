@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T20:32:55.117Z</updated>
+    <updated>2022-07-26T20:51:03.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Telegram Channel to Forum
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243674</id>
+        <link href="https://news.ycombinator.com/item?id=32243674"/>
+        <updated>2022-07-26T20:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Telegram Channel to Forum]]></summary>
+        <author>
+            <name>saradhi</name>
+            <uri>https://news.ycombinator.com/user?id=saradhi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望在气候/能源领域看到哪些解决方案？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>philonoist</name>
             <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果考虑从事股权工作，最重要的问题是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32059304</id>
-        <link href="https://news.ycombinator.com/item?id=32059304"/>
-        <updated>2022-07-11T17:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the most important things to ask if considering an equity gig?]]></summary>
-        <author>
-            <name>chirau</name>
-            <uri>https://news.ycombinator.com/user?id=chirau</uri>
         </author>
     </entry>
 </feed>
