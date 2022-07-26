@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T13:03:28.923Z</updated>
+    <updated>2022-07-26T13:54:39.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[松弛停工是全球性的，还是区域性的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32237889</id>
+        <link href="https://news.ycombinator.com/item?id=32237889"/>
+        <updated>2022-07-26T13:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is slack outage global, or regional?]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[既然阿特米斯1号的测试比SpaceX少，为什么NASA对它有信心？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>p2pai</name>
             <uri>https://news.ycombinator.com/user?id=p2pai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在2022年托管你的Postgres数据库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053265</id>
-        <link href="https://news.ycombinator.com/item?id=32053265"/>
-        <updated>2022-07-11T07:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you host your Postgres DB in 2022?]]></summary>
-        <author>
-            <name>pelcg</name>
-            <uri>https://news.ycombinator.com/user?id=pelcg</uri>
         </author>
     </entry>
 </feed>
