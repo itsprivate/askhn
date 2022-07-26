@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 13:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 14:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么 "斜线 "是搜索的图标？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32238393</link>
+            <guid>https://news.ycombinator.com/item?id=32238393</guid>
+            <pubDate>Tue, 26 Jul 2022 14:02:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why does “slash” is the icon for search?]]></description>
+        </item>
         <item>
             <title><![CDATA[松弛停工是全球性的，还是区域性的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32053650</guid>
             <pubDate>Mon, 11 Jul 2022 08:35:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Weird SSH Probes from Cloudflare IPs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有哪些例子是用户为产品发明新用途的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32053539</link>
-            <guid>https://news.ycombinator.com/item?id=32053539</guid>
-            <pubDate>Mon, 11 Jul 2022 08:14:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are some examples where users are inventing new uses for a product?]]></description>
         </item>
     </channel>
 </rss>
