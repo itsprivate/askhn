@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T04:33:44.411Z</updated>
+    <updated>2022-07-26T05:36:55.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[银行会不会像哄抬法币一样哄抬比特币？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234546</id>
+        <link href="https://news.ycombinator.com/item?id=32234546"/>
+        <updated>2022-07-26T05:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will banks inflate Bitcoin just like they inflate fiat money?]]></summary>
+        <author>
+            <name>JonathanBeuys</name>
+            <uri>https://news.ycombinator.com/user?id=JonathanBeuys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在哪里工作以应对气候变化？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>akudha</name>
             <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb体验馆从未起飞的原因是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32048747</id>
-        <link href="https://news.ycombinator.com/item?id=32048747"/>
-        <updated>2022-07-10T20:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the reason that Airbnb Experiences never took off?]]></summary>
-        <author>
-            <name>poisonborz</name>
-            <uri>https://news.ycombinator.com/user?id=poisonborz</uri>
         </author>
     </entry>
 </feed>
