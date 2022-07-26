@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T21:28:39.169Z</updated>
+    <updated>2022-07-26T21:47:50.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人使用Spinnaker進行持續交付嗎？它是怎樣的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244306</id>
+        <link href="https://news.ycombinator.com/item?id=32244306"/>
+        <updated>2022-07-26T21:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone use Spinnaker for continuous delivery? How is it?]]></summary>
+        <author>
+            <name>throw14082020</name>
+            <uri>https://news.ycombinator.com/user?id=throw14082020</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這裡有一篇關於裁員的文章。幫助我找到它？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gravitate</name>
             <uri>https://news.ycombinator.com/user?id=gravitate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作中是否假定有良好的意願？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060797</id>
-        <link href="https://news.ycombinator.com/item?id=32060797"/>
-        <updated>2022-07-11T19:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you assume good will at work?]]></summary>
-        <author>
-            <name>gtirloni</name>
-            <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
         </author>
     </entry>
 </feed>
