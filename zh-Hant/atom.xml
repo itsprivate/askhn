@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T19:45:33.382Z</updated>
+    <updated>2022-07-26T19:58:10.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有適合開發者的DoorDash？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243125</id>
+        <link href="https://news.ycombinator.com/item?id=32243125"/>
+        <updated>2022-07-26T19:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is There a DoorDash for Developer?]]></summary>
+        <author>
+            <name>kbrannigan</name>
+            <uri>https://news.ycombinator.com/user?id=kbrannigan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為一個使用麻省理工學院Scratch的孩子提供Elixir？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一個應用程序（或API）可以跟蹤流行的SaaS價格變化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058537</id>
-        <link href="https://news.ycombinator.com/item?id=32058537"/>
-        <updated>2022-07-11T16:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there an app (or API) that tracks popular SaaS price changes?]]></summary>
-        <author>
-            <name>dhruvkar</name>
-            <uri>https://news.ycombinator.com/user?id=dhruvkar</uri>
         </author>
     </entry>
 </feed>

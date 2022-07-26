@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 26 Jul 2022 19:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 19:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有適合開發者的DoorDash？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32243125</link>
+            <guid>https://news.ycombinator.com/item?id=32243125</guid>
+            <pubDate>Tue, 26 Jul 2022 19:54:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is There a DoorDash for Developer?]]></description>
+        </item>
         <item>
             <title><![CDATA[為一個使用麻省理工學院Scratch的孩子提供Elixir？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32058751</guid>
             <pubDate>Mon, 11 Jul 2022 17:04:15 GMT</pubDate>
             <description><![CDATA[Ask HN: How young should you be for quantum computation to be worth learning?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一個應用程序（或API）可以跟蹤流行的SaaS價格變化？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32058537</link>
-            <guid>https://news.ycombinator.com/item?id=32058537</guid>
-            <pubDate>Mon, 11 Jul 2022 16:46:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there an app (or API) that tracks popular SaaS price changes?]]></description>
         </item>
     </channel>
 </rss>
