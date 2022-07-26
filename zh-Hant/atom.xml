@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-26T19:01:37.267Z</updated>
+    <updated>2022-07-26T19:26:17.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[知名度較低的電子書和有聲讀物網站，儘可能不含DRM。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242691</id>
+        <link href="https://news.ycombinator.com/item?id=32242691"/>
+        <updated>2022-07-26T19:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Lesser-known sites for ebooks and audiobooks, as DRM-free as possible]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惡意軟件研究人員，你使用什麼硬件/軟件配置？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242649</id>
+        <link href="https://news.ycombinator.com/item?id=32242649"/>
+        <updated>2022-07-26T19:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Malware researchers, what hardware/software configuration do you use?]]></summary>
+        <author>
+            <name>markus_zhang</name>
+            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部署預覽"（短暫的環境）有什麼用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242598</id>
+        <link href="https://news.ycombinator.com/item?id=32242598"/>
+        <updated>2022-07-26T19:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are 'deploy previews' (ephemeral environments) good for?]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於非等級環境下的合作的好書？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242492</id>
+        <link href="https://news.ycombinator.com/item?id=32242492"/>
+        <updated>2022-07-26T19:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Good books on collaboration in non-hierarchical settings?]]></summary>
+        <author>
+            <name>butterNaN</name>
+            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼阻礙了你將你的中小型企業轉向Linux？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>yasinaydin</name>
             <uri>https://news.ycombinator.com/user?id=yasinaydin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪裡可以下載地球的三維模型？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057882</id>
-        <link href="https://news.ycombinator.com/item?id=32057882"/>
-        <updated>2022-07-11T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I download a 3D model of the Earth?]]></summary>
-        <author>
-            <name>permo-w</name>
-            <uri>https://news.ycombinator.com/user?id=permo-w</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你今天擁有AGI，你的優先問題清單是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057458</id>
-        <link href="https://news.ycombinator.com/item?id=32057458"/>
-        <updated>2022-07-11T15:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you had AGI today what is your priority list of problems..?]]></summary>
-        <author>
-            <name>bobosha</name>
-            <uri>https://news.ycombinator.com/user?id=bobosha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從企業轉向個人開發？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057297</id>
-        <link href="https://news.ycombinator.com/item?id=32057297"/>
-        <updated>2022-07-11T15:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Moving from Corporate to Solo Dev?]]></summary>
-        <author>
-            <name>disenchanted_ds</name>
-            <uri>https://news.ycombinator.com/user?id=disenchanted_ds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何跟蹤你的第三方API的變化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057243</id>
-        <link href="https://news.ycombinator.com/item?id=32057243"/>
-        <updated>2022-07-11T15:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you track changes in your third-party APIs?]]></summary>
-        <author>
-            <name>avisk</name>
-            <uri>https://news.ycombinator.com/user?id=avisk</uri>
         </author>
     </entry>
 </feed>
