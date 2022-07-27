@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T21:28:31.206Z</updated>
+    <updated>2022-07-27T21:46:54.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从公共的GitHub repo中获取单个文件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32257325</id>
+        <link href="https://news.ycombinator.com/item?id=32257325"/>
+        <updated>2022-07-27T21:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Getting a single file from a public GitHub repo?]]></summary>
+        <author>
+            <name>999900000999</name>
+            <uri>https://news.ycombinator.com/user?id=999900000999</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试准备领域，更注重软技能？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pc2g4d</name>
             <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经历了一个创伤性的个人情况，HN是我最后的选择。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079130</id>
-        <link href="https://news.ycombinator.com/item?id=32079130"/>
-        <updated>2022-07-13T04:47:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Going through a traumatic personal situation and HN is my last resort]]></summary>
-        <author>
-            <name>stillblue</name>
-            <uri>https://news.ycombinator.com/user?id=stillblue</uri>
         </author>
     </entry>
 </feed>
