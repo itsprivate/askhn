@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T02:46:51.956Z</updated>
+    <updated>2022-07-27T04:11:17.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們用什麼來追蹤他們所看的節目/電影？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32246650</id>
+        <link href="https://news.ycombinator.com/item?id=32246650"/>
+        <updated>2022-07-27T03:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are folks using to track what shows/movies they’ve watched?]]></summary>
+        <author>
+            <name>BrendanThompson</name>
+            <uri>https://news.ycombinator.com/user?id=BrendanThompson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10歲兒童基於Linux的音樂創作工作流程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>walrus01</name>
             <uri>https://news.ycombinator.com/user?id=walrus01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一名工程師，產品經理說/做的哪些事情會讓你生氣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32064103</id>
-        <link href="https://news.ycombinator.com/item?id=32064103"/>
-        <updated>2022-07-12T00:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What things do product managers say/do that piss you off as an engineer?]]></summary>
-        <author>
-            <name>at7</name>
-            <uri>https://news.ycombinator.com/user?id=at7</uri>
         </author>
     </entry>
 </feed>
