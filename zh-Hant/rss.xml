@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Jul 2022 13:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 14:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何有效地干擾音頻揚聲器？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250292</link>
+            <guid>https://news.ycombinator.com/item?id=32250292</guid>
+            <pubDate>Wed, 27 Jul 2022 13:42:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to effectively jam audio speakers?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[只對文件的一部分進行散列，作為唯一的校驗，是否有意義？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250290</link>
+            <guid>https://news.ycombinator.com/item?id=32250290</guid>
+            <pubDate>Wed, 27 Jul 2022 13:42:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does hashing only part of a file make sense as unique checksum?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在編輯評論時顯示家長？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32249909</link>
+            <guid>https://news.ycombinator.com/item?id=32249909</guid>
+            <pubDate>Wed, 27 Jul 2022 13:02:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: Show parent when editing comment?]]></description>
+        </item>
         <item>
             <title><![CDATA[推進個人項目？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32069898</guid>
             <pubDate>Tue, 12 Jul 2022 13:49:42 GMT</pubDate>
             <description><![CDATA[Ask HN: What are the best looking Show HN's you have seen?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為人類建立一個ZKP計劃
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32069723</link>
-            <guid>https://news.ycombinator.com/item?id=32069723</guid>
-            <pubDate>Tue, 12 Jul 2022 13:38:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Building a ZKP Scheme for Humans]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼GWT或Vaadin沒有在Java開發者中更受歡迎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32069468</link>
-            <guid>https://news.ycombinator.com/item?id=32069468</guid>
-            <pubDate>Tue, 12 Jul 2022 13:17:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why isn't GWT or Vaadin more popular among Java developers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[良好的私人電子郵件主機與IMAP
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32068975</link>
-            <guid>https://news.ycombinator.com/item?id=32068975</guid>
-            <pubDate>Tue, 12 Jul 2022 12:39:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Good Private Email Host with IMAP]]></description>
         </item>
     </channel>
 </rss>

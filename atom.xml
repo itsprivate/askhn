@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T13:04:16.233Z</updated>
+    <updated>2022-07-27T14:01:59.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何有效地干扰音频扬声器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250292</id>
+        <link href="https://news.ycombinator.com/item?id=32250292"/>
+        <updated>2022-07-27T13:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to effectively jam audio speakers?]]></summary>
+        <author>
+            <name>the_italian_job</name>
+            <uri>https://news.ycombinator.com/user?id=the_italian_job</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只对文件的一部分进行散列，作为唯一的校验，是否有意义？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250290</id>
+        <link href="https://news.ycombinator.com/item?id=32250290"/>
+        <updated>2022-07-27T13:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does hashing only part of a file make sense as unique checksum?]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在编辑评论时显示家长？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32249909</id>
+        <link href="https://news.ycombinator.com/item?id=32249909"/>
+        <updated>2022-07-27T13:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Show parent when editing comment?]]></summary>
+        <author>
+            <name>kazinator</name>
+            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推进个人项目？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为人类建立一个ZKP计划
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069723</id>
-        <link href="https://news.ycombinator.com/item?id=32069723"/>
-        <updated>2022-07-12T13:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Building a ZKP Scheme for Humans]]></summary>
-        <author>
-            <name>locriacyber</name>
-            <uri>https://news.ycombinator.com/user?id=locriacyber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么GWT或Vaadin没有在Java开发者中更受欢迎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069468</id>
-        <link href="https://news.ycombinator.com/item?id=32069468"/>
-        <updated>2022-07-12T13:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't GWT or Vaadin more popular among Java developers?]]></summary>
-        <author>
-            <name>oldjavacoder</name>
-            <uri>https://news.ycombinator.com/user?id=oldjavacoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良好的私人电子邮件主机与IMAP
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32068975</id>
-        <link href="https://news.ycombinator.com/item?id=32068975"/>
-        <updated>2022-07-12T12:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good Private Email Host with IMAP]]></summary>
-        <author>
-            <name>zamalek</name>
-            <uri>https://news.ycombinator.com/user?id=zamalek</uri>
         </author>
     </entry>
 </feed>
