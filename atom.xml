@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T05:13:02.506Z</updated>
+    <updated>2022-07-27T06:39:42.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用哪些习惯性的应用程序？你为什么喜欢这些应用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32247455</id>
+        <link href="https://news.ycombinator.com/item?id=32247455"/>
+        <updated>2022-07-27T06:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What habits apps do you use? Why do you like those apps?]]></summary>
+        <author>
+            <name>nerdyadventurer</name>
+            <uri>https://news.ycombinator.com/user?id=nerdyadventurer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪里找到你的RSS网站？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用GitHub Copilot吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32065141</id>
-        <link href="https://news.ycombinator.com/item?id=32065141"/>
-        <updated>2022-07-12T03:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use GitHub Copilot?]]></summary>
-        <author>
-            <name>siddharthgoel88</name>
-            <uri>https://news.ycombinator.com/user?id=siddharthgoel88</uri>
         </author>
     </entry>
 </feed>
