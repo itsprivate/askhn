@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T10:36:38.391Z</updated>
+    <updated>2022-07-27T10:54:06.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為Python flask應用提供CI/CD？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248849</id>
+        <link href="https://news.ycombinator.com/item?id=32248849"/>
+        <updated>2022-07-27T10:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: CI/CD for Python flask app?]]></summary>
+        <author>
+            <name>fakeElonMusk</name>
+            <uri>https://news.ycombinator.com/user?id=fakeElonMusk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技市場存在泡沫嗎？它是否即將爆炸？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mirekrusin</name>
             <uri>https://news.ycombinator.com/user?id=mirekrusin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能識別亞馬遜上的Prime Day騙局嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067026</id>
-        <link href="https://news.ycombinator.com/item?id=32067026"/>
-        <updated>2022-07-12T08:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you spot Prime Day scams on Amazon?]]></summary>
-        <author>
-            <name>laktak</name>
-            <uri>https://news.ycombinator.com/user?id=laktak</uri>
         </author>
     </entry>
 </feed>

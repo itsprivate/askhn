@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 10:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为Python flask应用提供CI/CD？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32248849</link>
+            <guid>https://news.ycombinator.com/item?id=32248849</guid>
+            <pubDate>Wed, 27 Jul 2022 10:43:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: CI/CD for Python flask app?]]></description>
+        </item>
         <item>
             <title><![CDATA[科技市场存在泡沫吗？它是否即将爆炸？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32067154</guid>
             <pubDate>Tue, 12 Jul 2022 08:45:34 GMT</pubDate>
             <description><![CDATA[Ask HN: What is your F/E vs B/E bugs ratio?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你能识别亚马逊上的Prime Day骗局吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067026</link>
-            <guid>https://news.ycombinator.com/item?id=32067026</guid>
-            <pubDate>Tue, 12 Jul 2022 08:30:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can you spot Prime Day scams on Amazon?]]></description>
         </item>
     </channel>
 </rss>
