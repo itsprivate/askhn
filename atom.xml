@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T19:51:19.878Z</updated>
+    <updated>2022-07-27T20:32:48.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nginx容器与基于云的弹性负载均衡器的目的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256409</id>
+        <link href="https://news.ycombinator.com/item?id=32256409"/>
+        <updated>2022-07-27T20:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Purpose of Nginx container vs. cloud based elastic load balancers?]]></summary>
+        <author>
+            <name>foxfoxx</name>
+            <uri>https://news.ycombinator.com/user?id=foxfoxx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一个网站列出付费/有偿的科技市场研究？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256045</id>
+        <link href="https://news.ycombinator.com/item?id=32256045"/>
+        <updated>2022-07-27T20:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a site listing paid / compensated tech market research?]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么工作匹配仍然是一项繁琐的任务？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rschachte</name>
             <uri>https://news.ycombinator.com/user?id=rschachte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在，哈勃太空望远镜将被用来做什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077604</id>
-        <link href="https://news.ycombinator.com/item?id=32077604"/>
-        <updated>2022-07-13T00:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What will the Hubble Space Telescope be used for now?]]></summary>
-        <author>
-            <name>anigbrowl</name>
-            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果用1到5来衡量，你对目前的幸福感如何评价？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077221</id>
-        <link href="https://news.ycombinator.com/item?id=32077221"/>
-        <updated>2022-07-12T23:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you rate your happiness on a scale of 1 to 5 at the moment?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
         </author>
     </entry>
 </feed>
