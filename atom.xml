@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T22:31:35.936Z</updated>
+    <updated>2022-07-27T22:49:20.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的学习CS基础知识的资源是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32257826</id>
+        <link href="https://news.ycombinator.com/item?id=32257826"/>
+        <updated>2022-07-27T22:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your favorite resource for learning CS fundamentals?]]></summary>
+        <author>
+            <name>silent_cal</name>
+            <uri>https://news.ycombinator.com/user?id=silent_cal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你通过软件开发赚到的最快的钱？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mvind</name>
             <uri>https://news.ycombinator.com/user?id=mvind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼓励非专利药生产商生产已获专利的罕见疾病药物
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080762</id>
-        <link href="https://news.ycombinator.com/item?id=32080762"/>
-        <updated>2022-07-13T10:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Encouraging generic drug makers to produce off-patent rare-disease drugs]]></summary>
-        <author>
-            <name>ackbar03</name>
-            <uri>https://news.ycombinator.com/user?id=ackbar03</uri>
         </author>
     </entry>
 </feed>
