@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T21:00:58.480Z</updated>
+    <updated>2022-07-27T21:28:31.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面试准备领域，更注重软技能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256862</id>
+        <link href="https://news.ycombinator.com/item?id=32256862"/>
+        <updated>2022-07-27T20:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Interview prep area with a greater focus on soft skills?]]></summary>
+        <author>
+            <name>spearingthehead</name>
+            <uri>https://news.ycombinator.com/user?id=spearingthehead</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些数学书适合ML？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>stillblue</name>
             <uri>https://news.ycombinator.com/user?id=stillblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在离线的React Native应用中拥有GraphQL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32078428</id>
-        <link href="https://news.ycombinator.com/item?id=32078428"/>
-        <updated>2022-07-13T02:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to have GraphQL in an offline only React Native application]]></summary>
-        <author>
-            <name>yonz</name>
-            <uri>https://news.ycombinator.com/user?id=yonz</uri>
         </author>
     </entry>
 </feed>
