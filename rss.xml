@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Jul 2022 15:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在你陷入困境的时候，你会怎么做？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32251442</link>
+            <guid>https://news.ycombinator.com/item?id=32251442</guid>
+            <pubDate>Wed, 27 Jul 2022 15:13:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What do you do in a moment when you're stumped?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当你睡着时，YouTube会播放垃圾信息吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32251366</link>
+            <guid>https://news.ycombinator.com/item?id=32251366</guid>
+            <pubDate>Wed, 27 Jul 2022 15:06:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does YouTube play junk when you fall asleep?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何在不写/接触前端代码的情况下研究后端？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32251306</link>
+            <guid>https://news.ycombinator.com/item?id=32251306</guid>
+            <pubDate>Wed, 27 Jul 2022 15:02:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you study back end without writing/touching front end code?]]></description>
+        </item>
         <item>
             <title><![CDATA[有人使用过Oracle云吗？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32071776</guid>
             <pubDate>Tue, 12 Jul 2022 15:56:26 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you keep code reviews from taking forever?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你正在监测的最重要的系统指标是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071441</link>
-            <guid>https://news.ycombinator.com/item?id=32071441</guid>
-            <pubDate>Tue, 12 Jul 2022 15:34:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are your most important system metrics being monitored?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么有protobuf、Avro、JSON Schema等而不是ASN.1？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071420</link>
-            <guid>https://news.ycombinator.com/item?id=32071420</guid>
-            <pubDate>Tue, 12 Jul 2022 15:33:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is there protobuf,Avro,JSON Schema,etc. instead of ASN.1?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[后端工程师，我应该学习什么新 "东西"？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071126</link>
-            <guid>https://news.ycombinator.com/item?id=32071126</guid>
-            <pubDate>Tue, 12 Jul 2022 15:12:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Back end engineers, what new “thing” should I learn?]]></description>
         </item>
     </channel>
 </rss>

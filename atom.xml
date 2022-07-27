@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T15:03:22.366Z</updated>
+    <updated>2022-07-27T15:36:08.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你陷入困境的时候，你会怎么做？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251442</id>
+        <link href="https://news.ycombinator.com/item?id=32251442"/>
+        <updated>2022-07-27T15:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do in a moment when you're stumped?]]></summary>
+        <author>
+            <name>impendia</name>
+            <uri>https://news.ycombinator.com/user?id=impendia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当你睡着时，YouTube会播放垃圾信息吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251366</id>
+        <link href="https://news.ycombinator.com/item?id=32251366"/>
+        <updated>2022-07-27T15:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does YouTube play junk when you fall asleep?]]></summary>
+        <author>
+            <name>pigtailgirl</name>
+            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何在不写/接触前端代码的情况下研究后端？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251306</id>
+        <link href="https://news.ycombinator.com/item?id=32251306"/>
+        <updated>2022-07-27T15:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you study back end without writing/touching front end code?]]></summary>
+        <author>
+            <name>wanobi</name>
+            <uri>https://news.ycombinator.com/user?id=wanobi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人使用过Oracle云吗？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>teeray</name>
             <uri>https://news.ycombinator.com/user?id=teeray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你正在监测的最重要的系统指标是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071441</id>
-        <link href="https://news.ycombinator.com/item?id=32071441"/>
-        <updated>2022-07-12T15:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your most important system metrics being monitored?]]></summary>
-        <author>
-            <name>Dowwie</name>
-            <uri>https://news.ycombinator.com/user?id=Dowwie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有protobuf、Avro、JSON Schema等而不是ASN.1？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071420</id>
-        <link href="https://news.ycombinator.com/item?id=32071420"/>
-        <updated>2022-07-12T15:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there protobuf,Avro,JSON Schema,etc. instead of ASN.1?]]></summary>
-        <author>
-            <name>weitzj</name>
-            <uri>https://news.ycombinator.com/user?id=weitzj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后端工程师，我应该学习什么新 "东西"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071126</id>
-        <link href="https://news.ycombinator.com/item?id=32071126"/>
-        <updated>2022-07-12T15:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Back end engineers, what new “thing” should I learn?]]></summary>
-        <author>
-            <name>senda</name>
-            <uri>https://news.ycombinator.com/user?id=senda</uri>
         </author>
     </entry>
 </feed>
