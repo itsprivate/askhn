@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Jul 2022 22:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 23:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[贝宝给我发送了未加密的邮件，其中有我的购买细节
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32256702</link>
+            <guid>https://news.ycombinator.com/item?id=32256702</guid>
+            <pubDate>Wed, 27 Jul 2022 20:46:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: PayPal sent me unencrypted mail with my purchase details]]></description>
+        </item>
         <item>
             <title><![CDATA[你最喜欢的学习CS基础知识的资源是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32081081</guid>
             <pubDate>Wed, 13 Jul 2022 11:08:02 GMT</pubDate>
             <description><![CDATA[Ask HN: My friends house burnt down; Instagram banned him; what can he do?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vim模式和Jupyter实验室？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32080926</link>
-            <guid>https://news.ycombinator.com/item?id=32080926</guid>
-            <pubDate>Wed, 13 Jul 2022 10:43:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Vim Mode and Jupyter Lab?]]></description>
         </item>
     </channel>
 </rss>

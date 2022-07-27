@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T22:49:20.842Z</updated>
+    <updated>2022-07-27T23:02:56.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贝宝给我发送了未加密的邮件，其中有我的购买细节
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256702</id>
+        <link href="https://news.ycombinator.com/item?id=32256702"/>
+        <updated>2022-07-27T20:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: PayPal sent me unencrypted mail with my purchase details]]></summary>
+        <author>
+            <name>bramhadev</name>
+            <uri>https://news.ycombinator.com/user?id=bramhadev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的学习CS基础知识的资源是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paolomaffei</name>
             <uri>https://news.ycombinator.com/user?id=paolomaffei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim模式和Jupyter实验室？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080926</id>
-        <link href="https://news.ycombinator.com/item?id=32080926"/>
-        <updated>2022-07-13T10:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Vim Mode and Jupyter Lab?]]></summary>
-        <author>
-            <name>mvind</name>
-            <uri>https://news.ycombinator.com/user?id=mvind</uri>
         </author>
     </entry>
 </feed>
