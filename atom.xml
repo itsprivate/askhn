@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T20:49:33.329Z</updated>
+    <updated>2022-07-27T21:00:58.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些数学书适合ML？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256720</id>
+        <link href="https://news.ycombinator.com/item?id=32256720"/>
+        <updated>2022-07-27T20:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which Mathematics books for ML?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你对在FAANG工作有什么看法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yonz</name>
             <uri>https://news.ycombinator.com/user?id=yonz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有年薪100万或以上的IC工程师？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077726</id>
-        <link href="https://news.ycombinator.com/item?id=32077726"/>
-        <updated>2022-07-13T00:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there IC Engineers who earn 1MM per year or more?]]></summary>
-        <author>
-            <name>websap</name>
-            <uri>https://news.ycombinator.com/user?id=websap</uri>
         </author>
     </entry>
 </feed>
