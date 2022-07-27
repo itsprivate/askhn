@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T17:21:47.216Z</updated>
+    <updated>2022-07-27T17:50:50.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何找到远程CTO工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32253583</id>
+        <link href="https://news.ycombinator.com/item?id=32253583"/>
+        <updated>2022-07-27T17:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find remote CTO jobs?]]></summary>
+        <author>
+            <name>theory_of_10_9</name>
+            <uri>https://news.ycombinator.com/user?id=theory_of_10_9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的战争是否改变了你对国防项目工作的看法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>supermanspider</name>
             <uri>https://news.ycombinator.com/user?id=supermanspider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么自由言论网站可以放视频，可以马上在那里播放
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32074454</id>
-        <link href="https://news.ycombinator.com/item?id=32074454"/>
-        <updated>2022-07-12T19:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What free speech site can put video, can play immediately there]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
         </author>
     </entry>
 </feed>
