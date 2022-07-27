@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 27 Jul 2022 18:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 18:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[全力以赴解决锈蚀问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32254406</link>
+            <guid>https://news.ycombinator.com/item?id=32254406</guid>
+            <pubDate>Wed, 27 Jul 2022 18:21:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Going All-In on Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[我已经焦头烂额了：沮丧、分心、悲观。我怎样才能解决这个问题？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32069251</guid>
             <pubDate>Tue, 12 Jul 2022 13:02:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Developer Workstation Backups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年的最佳自助编码面试资源？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32074802</link>
-            <guid>https://news.ycombinator.com/item?id=32074802</guid>
-            <pubDate>Tue, 12 Jul 2022 19:50:15 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best self-guided coding interview resources in 2022?]]></description>
         </item>
     </channel>
 </rss>
