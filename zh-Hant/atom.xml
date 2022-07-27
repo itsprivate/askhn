@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T10:54:06.244Z</updated>
+    <updated>2022-07-27T11:58:04.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的SaaS沒能起飛
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32249340</id>
+        <link href="https://news.ycombinator.com/item?id=32249340"/>
+        <updated>2022-07-27T11:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Your SaaS that didn't take off]]></summary>
+        <author>
+            <name>yscodes</name>
+            <uri>https://news.ycombinator.com/user?id=yscodes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為Python flask應用提供CI/CD？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wey-gu</name>
             <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的F/E與B/E的蟲子比例是多少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067154</id>
-        <link href="https://news.ycombinator.com/item?id=32067154"/>
-        <updated>2022-07-12T08:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your F/E vs B/E bugs ratio?]]></summary>
-        <author>
-            <name>mirekrusin</name>
-            <uri>https://news.ycombinator.com/user?id=mirekrusin</uri>
         </author>
     </entry>
 </feed>
