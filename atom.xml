@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-27T18:41:19.899Z</updated>
+    <updated>2022-07-27T18:56:58.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创作者使用现金换评论活动是否不道德？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254734</id>
+        <link href="https://news.ycombinator.com/item?id=32254734"/>
+        <updated>2022-07-27T18:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it unethical for creators to use cash-for-reviews campaigns?]]></summary>
+        <author>
+            <name>getflookup</name>
+            <uri>https://news.ycombinator.com/user?id=getflookup</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不允许成年人作为 "成年子女 "被收养？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254610</id>
+        <link href="https://news.ycombinator.com/item?id=32254610"/>
+        <updated>2022-07-27T18:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why not allow adults to be adopted as “adult children”?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扫描软件包中的恶意软件(Mac)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254602</id>
+        <link href="https://news.ycombinator.com/item?id=32254602"/>
+        <updated>2022-07-27T18:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Scanning Packages for Malware (Mac)]]></summary>
+        <author>
+            <name>quintes</name>
+            <uri>https://news.ycombinator.com/user?id=quintes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为一个人的企业提供PCI-DSS（3/4级）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254538</id>
+        <link href="https://news.ycombinator.com/item?id=32254538"/>
+        <updated>2022-07-27T18:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: PCI-DSS (level 3/4) for a one-man business?]]></summary>
+        <author>
+            <name>rmedaer</name>
+            <uri>https://news.ycombinator.com/user?id=rmedaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全力以赴解决锈蚀问题
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>manuelabeledo</name>
             <uri>https://news.ycombinator.com/user?id=manuelabeledo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么北美郊区的财产限制如此模糊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32075183</id>
-        <link href="https://news.ycombinator.com/item?id=32075183"/>
-        <updated>2022-07-12T20:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are property limits so fuzzy in North American suburbs?]]></summary>
-        <author>
-            <name>lbrito</name>
-            <uri>https://news.ycombinator.com/user?id=lbrito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何大规模地管理集中配置的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32075115</id>
-        <link href="https://news.ycombinator.com/item?id=32075115"/>
-        <updated>2022-07-12T20:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you managing centralized configs at scale?]]></summary>
-        <author>
-            <name>aliqot</name>
-            <uri>https://news.ycombinator.com/user?id=aliqot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对苹果硅、英特尔和AMD芯片进行基准测试的最佳方式是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32074969</id>
-        <link href="https://news.ycombinator.com/item?id=32074969"/>
-        <updated>2022-07-12T20:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best way to benchmark Apple Silicon, Intel and AMD chips?]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者工作站的备份
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069251</id>
-        <link href="https://news.ycombinator.com/item?id=32069251"/>
-        <updated>2022-07-12T13:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Developer Workstation Backups]]></summary>
-        <author>
-            <name>a2tech</name>
-            <uri>https://news.ycombinator.com/user?id=a2tech</uri>
         </author>
     </entry>
 </feed>
