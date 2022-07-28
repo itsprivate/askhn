@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T08:39:01.151Z</updated>
+    <updated>2022-07-28T09:29:28.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于 "选择最好的数据表示法 "的权威资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261945</id>
+        <link href="https://news.ycombinator.com/item?id=32261945"/>
+        <updated>2022-07-28T09:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Definitive resources on “Choosing the best data representations”?]]></summary>
+        <author>
+            <name>butterNaN</name>
+            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个专业的软件开发人员应该知道一个字节有多少个比特吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>omosubi</name>
             <uri>https://news.ycombinator.com/user?id=omosubi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么阻碍了医疗保险公司进行更多的创新？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32084142</id>
-        <link href="https://news.ycombinator.com/item?id=32084142"/>
-        <updated>2022-07-13T15:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What prevents health insurance companies from innovating more?]]></summary>
-        <author>
-            <name>immichaelwang</name>
-            <uri>https://news.ycombinator.com/user?id=immichaelwang</uri>
         </author>
     </entry>
 </feed>
