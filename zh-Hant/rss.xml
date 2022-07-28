@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 28 Jul 2022 00:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在沒有明確編碼的情況下解決一個算法的面試？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32259214</link>
+            <guid>https://news.ycombinator.com/item?id=32259214</guid>
+            <pubDate>Thu, 28 Jul 2022 01:04:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Solving an algorithm interview without explicitly coding the solution?]]></description>
+        </item>
         <item>
             <title><![CDATA[高中/大學畢業後重新學習數學的最佳方法？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32081799</guid>
             <pubDate>Wed, 13 Jul 2022 12:40:08 GMT</pubDate>
             <description><![CDATA[Ask HN: Couldn’t spyware be subverted by tunneling through a trusted MitM proxy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[社交媒體中的機器人的定義是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081558</link>
-            <guid>https://news.ycombinator.com/item?id=32081558</guid>
-            <pubDate>Wed, 13 Jul 2022 12:12:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the definition of a bot in social media?]]></description>
         </item>
     </channel>
 </rss>

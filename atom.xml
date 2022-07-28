@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T00:00:56.795Z</updated>
+    <updated>2022-07-28T02:35:27.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在没有明确编码的情况下解决一个算法的面试？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32259214</id>
+        <link href="https://news.ycombinator.com/item?id=32259214"/>
+        <updated>2022-07-28T01:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Solving an algorithm interview without explicitly coding the solution?]]></summary>
+        <author>
+            <name>_robbywashere</name>
+            <uri>https://news.ycombinator.com/user?id=_robbywashere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高中/大学毕业后重新学习数学的最佳方法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SnowHill9902</name>
             <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒体中的机器人的定义是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081558</id>
-        <link href="https://news.ycombinator.com/item?id=32081558"/>
-        <updated>2022-07-13T12:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the definition of a bot in social media?]]></summary>
-        <author>
-            <name>matt_s</name>
-            <uri>https://news.ycombinator.com/user?id=matt_s</uri>
         </author>
     </entry>
 </feed>
