@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T11:25:23.425Z</updated>
+    <updated>2022-07-28T13:03:10.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我应该在Airtable的基础上建立什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32263489</id>
+        <link href="https://news.ycombinator.com/item?id=32263489"/>
+        <updated>2022-07-28T12:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What should I build on top of Airtable?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在B2B SaaS方面最成功的营销策略/实验是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32263394</id>
+        <link href="https://news.ycombinator.com/item?id=32263394"/>
+        <updated>2022-07-28T12:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was your most successful marketing tactic/experiment for B2B SaaS?]]></summary>
+        <author>
+            <name>tablet</name>
+            <uri>https://news.ycombinator.com/user?id=tablet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滚动你自己的宠物监控系统？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nile-crocodile</name>
             <uri>https://news.ycombinator.com/user?id=nile-crocodile</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望你在开始编码之前就知道的事情？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086805</id>
-        <link href="https://news.ycombinator.com/item?id=32086805"/>
-        <updated>2022-07-13T18:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Something you wish you knew before you started coding?]]></summary>
-        <author>
-            <name>shreythecray</name>
-            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是否需要一个更好的工作流程解决方案存在，或者它已经存在了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086607</id>
-        <link href="https://news.ycombinator.com/item?id=32086607"/>
-        <updated>2022-07-13T18:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do we need a better workflow solution exist, or is it already out there?]]></summary>
-        <author>
-            <name>mattewong</name>
-            <uri>https://news.ycombinator.com/user?id=mattewong</uri>
         </author>
     </entry>
 </feed>
