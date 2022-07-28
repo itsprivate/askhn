@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T14:01:07.313Z</updated>
+    <updated>2022-07-28T14:36:03.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源的管理/控制面板模板？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32264680</id>
+        <link href="https://news.ycombinator.com/item?id=32264680"/>
+        <updated>2022-07-28T14:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Open-source admin/control panel templates?]]></summary>
+        <author>
+            <name>jakearmitage</name>
+            <uri>https://news.ycombinator.com/user?id=jakearmitage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望看到建立什么样的开源软件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>shlosky</name>
             <uri>https://news.ycombinator.com/user?id=shlosky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有人成功地从技术领域转出？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32087927</id>
-        <link href="https://news.ycombinator.com/item?id=32087927"/>
-        <updated>2022-07-13T19:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has any one successfully pivoted away from tech?]]></summary>
-        <author>
-            <name>arrjayh</name>
-            <uri>https://news.ycombinator.com/user?id=arrjayh</uri>
         </author>
     </entry>
 </feed>
