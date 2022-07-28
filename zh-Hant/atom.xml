@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T04:55:18.835Z</updated>
+    <updated>2022-07-28T05:41:25.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這封來自蘋果公司的電子郵件是否合法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260733</id>
+        <link href="https://news.ycombinator.com/item?id=32260733"/>
+        <updated>2022-07-28T05:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this email from Apple legit?]]></summary>
+        <author>
+            <name>pqvst</name>
+            <uri>https://news.ycombinator.com/user?id=pqvst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI正在開發下一個DALL-E嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260604</id>
+        <link href="https://news.ycombinator.com/item?id=32260604"/>
+        <updated>2022-07-28T04:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is OpenAI working on the next DALL-E yet?]]></summary>
+        <author>
+            <name>fratlas</name>
+            <uri>https://news.ycombinator.com/user?id=fratlas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼最近的許多評論都有連字符來分隔兩個段落？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260596</id>
+        <link href="https://news.ycombinator.com/item?id=32260596"/>
+        <updated>2022-07-28T04:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do many recent comments have hyphens separating two paragraphs?]]></summary>
+        <author>
+            <name>1R</name>
+            <uri>https://news.ycombinator.com/user?id=1R</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何學會做你知道如何做的事情的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260579</id>
+        <link href="https://news.ycombinator.com/item?id=32260579"/>
+        <updated>2022-07-28T04:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you learn to do the thing that you know how to do]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現在加入Meta公司是否是一種職業負累
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260539</id>
+        <link href="https://news.ycombinator.com/item?id=32260539"/>
+        <updated>2022-07-28T04:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it a career negative to join Meta now]]></summary>
+        <author>
+            <name>none2022</name>
+            <uri>https://news.ycombinator.com/user?id=none2022</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有望拯救開放網絡的技術？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>indekkel</name>
             <uri>https://news.ycombinator.com/user?id=indekkel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共Jira板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32083827</id>
-        <link href="https://news.ycombinator.com/item?id=32083827"/>
-        <updated>2022-07-13T15:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Public Jira Boards]]></summary>
-        <author>
-            <name>rohitrajan</name>
-            <uri>https://news.ycombinator.com/user?id=rohitrajan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你瞭解的最複雜的話題是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32083653</id>
-        <link href="https://news.ycombinator.com/item?id=32083653"/>
-        <updated>2022-07-13T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most complex topic you understand?]]></summary>
-        <author>
-            <name>ggeorgovassilis</name>
-            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是阻斷引用者頭信息？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082819</id>
-        <link href="https://news.ycombinator.com/item?id=32082819"/>
-        <updated>2022-07-13T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is blocking referer headers?]]></summary>
-        <author>
-            <name>perilunar</name>
-            <uri>https://news.ycombinator.com/user?id=perilunar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何保護你的應急基金不受通貨膨脹影響的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082715</id>
-        <link href="https://news.ycombinator.com/item?id=32082715"/>
-        <updated>2022-07-13T13:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you protecting your emergency fund from inflation?]]></summary>
-        <author>
-            <name>ruffrey</name>
-            <uri>https://news.ycombinator.com/user?id=ruffrey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix如何預裝下一個視頻？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082365</id>
-        <link href="https://news.ycombinator.com/item?id=32082365"/>
-        <updated>2022-07-13T13:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Netflix preloads the next video?]]></summary>
-        <author>
-            <name>fuadnafiz98</name>
-            <uri>https://news.ycombinator.com/user?id=fuadnafiz98</uri>
         </author>
     </entry>
 </feed>
