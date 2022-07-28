@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-28T02:35:27.421Z</updated>
+    <updated>2022-07-28T04:01:34.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在追求技能方面遇到了麻煩。如何解決這個問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260173</id>
+        <link href="https://news.ycombinator.com/item?id=32260173"/>
+        <updated>2022-07-28T03:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm having trouble in skill pursuit. How to solve it?]]></summary>
+        <author>
+            <name>qsmrf</name>
+            <uri>https://news.ycombinator.com/user?id=qsmrf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找一個開放的許可證，但不是用於AI模型的訓練
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32259827</id>
+        <link href="https://news.ycombinator.com/item?id=32259827"/>
+        <updated>2022-07-28T02:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for an open license, but not for AI model training]]></summary>
+        <author>
+            <name>ashton314</name>
+            <uri>https://news.ycombinator.com/user?id=ashton314</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在沒有明確編碼的情況下解決一個算法的面試？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thatbat</name>
             <uri>https://news.ycombinator.com/user?id=thatbat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有關於計算機科學和技術的印刷報紙或雜誌？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081873</id>
-        <link href="https://news.ycombinator.com/item?id=32081873"/>
-        <updated>2022-07-13T12:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any print newspapers or magazines about computer science and tech?]]></summary>
-        <author>
-            <name>MatthiasPortzel</name>
-            <uri>https://news.ycombinator.com/user?id=MatthiasPortzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[間諜軟件難道不能通過受信任的MitM代理隧道進行顛覆嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081799</id>
-        <link href="https://news.ycombinator.com/item?id=32081799"/>
-        <updated>2022-07-13T12:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Couldn’t spyware be subverted by tunneling through a trusted MitM proxy?]]></summary>
-        <author>
-            <name>SnowHill9902</name>
-            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
         </author>
     </entry>
 </feed>
