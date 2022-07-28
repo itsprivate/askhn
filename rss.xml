@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 28 Jul 2022 14:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 15:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[堵塞结转利息的漏洞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32265653</link>
+            <guid>https://news.ycombinator.com/item?id=32265653</guid>
+            <pubDate>Thu, 28 Jul 2022 15:28:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Closing the Carried Interest Loophole]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何监测海上光缆？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32265288</link>
+            <guid>https://news.ycombinator.com/item?id=32265288</guid>
+            <pubDate>Thu, 28 Jul 2022 15:01:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to monitor a sea fiber cable?]]></description>
+        </item>
         <item>
             <title><![CDATA[学习如何编写测试的最佳资源是什么？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32088619</guid>
             <pubDate>Wed, 13 Jul 2022 20:53:47 GMT</pubDate>
             <description><![CDATA[Ask HN: What was your experience using a graph database?]]></description>
-        </item>
-        <item>
-            <title><![CDATA["创始工程师 "的定义是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088377</link>
-            <guid>https://news.ycombinator.com/item?id=32088377</guid>
-            <pubDate>Wed, 13 Jul 2022 20:32:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the definition of a “founding engineer”?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的工作中，你必须要为工作献殷勤吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088019</link>
-            <guid>https://news.ycombinator.com/item?id=32088019</guid>
-            <pubDate>Wed, 13 Jul 2022 19:58:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you have to schmooze for work at your job?]]></description>
         </item>
     </channel>
 </rss>
