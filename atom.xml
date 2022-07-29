@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T10:01:30.174Z</updated>
+    <updated>2022-07-29T10:36:25.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阿波罗制导计算机（1960年）是有史以来第一个嵌入式系统吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275157</id>
+        <link href="https://news.ycombinator.com/item?id=32275157"/>
+        <updated>2022-07-29T10:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the Apollo Guidance Computer (1960) the first embedded system ever?]]></summary>
+        <author>
+            <name>gsempe</name>
+            <uri>https://news.ycombinator.com/user?id=gsempe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原始QuickDraw区域算法的技术写法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johnnatan20</name>
             <uri>https://news.ycombinator.com/user?id=johnnatan20</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何进行无代码应用程序的版本控制？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32093466</id>
-        <link href="https://news.ycombinator.com/item?id=32093466"/>
-        <updated>2022-07-14T08:25:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you do version control of no-code apps?]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>
