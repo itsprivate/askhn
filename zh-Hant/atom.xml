@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T10:36:25.850Z</updated>
+    <updated>2022-07-29T10:58:31.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於帆布的應用程序的最佳自動測試方法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275332</id>
+        <link href="https://news.ycombinator.com/item?id=32275332"/>
+        <updated>2022-07-29T10:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Automated Testing Approach for Canvas-Based Apps?]]></summary>
+        <author>
+            <name>bookaway</name>
+            <uri>https://news.ycombinator.com/user?id=bookaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿波羅制導計算機（1960年）是有史以來第一個嵌入式系統嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maheshs</name>
             <uri>https://news.ycombinator.com/user?id=maheshs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣中的MEV？ 以及為什麼？ [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32093773</id>
-        <link href="https://news.ycombinator.com/item?id=32093773"/>
-        <updated>2022-07-14T09:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: MEV in Bitcoin? and Why? [pdf]]]></summary>
-        <author>
-            <name>johnnatan20</name>
-            <uri>https://news.ycombinator.com/user?id=johnnatan20</uri>
         </author>
     </entry>
 </feed>

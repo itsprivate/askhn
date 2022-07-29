@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基于帆布的应用程序的最佳自动测试方法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275332</link>
+            <guid>https://news.ycombinator.com/item?id=32275332</guid>
+            <pubDate>Fri, 29 Jul 2022 10:47:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best Automated Testing Approach for Canvas-Based Apps?]]></description>
+        </item>
         <item>
             <title><![CDATA[阿波罗制导计算机（1960年）是有史以来第一个嵌入式系统吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32093879</guid>
             <pubDate>Thu, 14 Jul 2022 09:39:22 GMT</pubDate>
             <description><![CDATA[Ask HN: What is best way to do hands-on practice for system design?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比特币中的MEV？ 以及为什么？ [pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32093773</link>
-            <guid>https://news.ycombinator.com/item?id=32093773</guid>
-            <pubDate>Thu, 14 Jul 2022 09:18:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: MEV in Bitcoin? and Why? [pdf]]]></description>
         </item>
     </channel>
 </rss>
