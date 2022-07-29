@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T11:47:53.778Z</updated>
+    <updated>2022-07-29T13:01:55.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对什么核心研究最感兴趣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32276223</id>
+        <link href="https://news.ycombinator.com/item?id=32276223"/>
+        <updated>2022-07-29T12:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What core research are you most excited about?]]></summary>
+        <author>
+            <name>icyfox</name>
+            <uri>https://news.ycombinator.com/user?id=icyfox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价你作为（前）独资经营者的技能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32276126</id>
+        <link href="https://news.ycombinator.com/item?id=32276126"/>
+        <updated>2022-07-29T12:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to value your skills as a (former) sole proprietor?]]></summary>
+        <author>
+            <name>jknutson</name>
+            <uri>https://news.ycombinator.com/user?id=jknutson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些好的非琐碎的后端项目可以放在简历上？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onivim 2是废弃的软件吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094164</id>
-        <link href="https://news.ycombinator.com/item?id=32094164"/>
-        <updated>2022-07-14T10:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Onivim 2 Abandonware?]]></summary>
-        <author>
-            <name>drKarl</name>
-            <uri>https://news.ycombinator.com/user?id=drKarl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找一个后端服务来管理工作计算机
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094048</id>
-        <link href="https://news.ycombinator.com/item?id=32094048"/>
-        <updated>2022-07-14T10:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for a back end service to manage work computers]]></summary>
-        <author>
-            <name>czernobog</name>
-            <uri>https://news.ycombinator.com/user?id=czernobog</uri>
         </author>
     </entry>
 </feed>
