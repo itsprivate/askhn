@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T23:29:36.125Z</updated>
+    <updated>2022-07-29T23:49:48.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的學習或工作領域對你有什麼更普遍的幫助？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282910</id>
+        <link href="https://news.ycombinator.com/item?id=32282910"/>
+        <updated>2022-07-29T23:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How has your area of study or work helped you more generally?]]></summary>
+        <author>
+            <name>samh748</name>
+            <uri>https://news.ycombinator.com/user?id=samh748</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的氣候工作都在哪裡？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什麼讓你對未來感到悲觀？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32101753</id>
-        <link href="https://news.ycombinator.com/item?id=32101753"/>
-        <updated>2022-07-14T21:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What makes you pessimistic about the future?]]></summary>
-        <author>
-            <name>nothrowaways</name>
-            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
         </author>
     </entry>
 </feed>
