@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T08:38:02.127Z</updated>
+    <updated>2022-07-29T09:31:48.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SysAdmin Day應該改名為 "DevOps Day "嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32274689</id>
+        <link href="https://news.ycombinator.com/item?id=32274689"/>
+        <updated>2022-07-29T09:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should SysAdmin Day Be Renamed to “DevOps Day”?]]></summary>
+        <author>
+            <name>ruhrharry</name>
+            <uri>https://news.ycombinator.com/user?id=ruhrharry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何圍繞大額加薪改變你的預算？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32271788</id>
+        <link href="https://news.ycombinator.com/item?id=32271788"/>
+        <updated>2022-07-29T00:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you change your budget around a big raise?]]></summary>
+        <author>
+            <name>mainedotpy</name>
+            <uri>https://news.ycombinator.com/user?id=mainedotpy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼麥當勞的應用程序需要這麼多步驟來訂購健怡可樂？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32270870</id>
+        <link href="https://news.ycombinator.com/item?id=32270870"/>
+        <updated>2022-07-28T22:34:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does the McDonalds' app require so many steps to order a Diet Coke?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非技術性的創始人，你會買一個關於建立SaaS MVP的課程嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32269905</id>
+        <link href="https://news.ycombinator.com/item?id=32269905"/>
+        <updated>2022-07-28T20:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-technical founders, would you buy a course on building a SaaS MVP?]]></summary>
+        <author>
+            <name>poushkar</name>
+            <uri>https://news.ycombinator.com/user?id=poushkar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你希望別人在什麼方面下功夫？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>livinglist</name>
             <uri>https://news.ycombinator.com/user?id=livinglist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韋伯是否改變了對宇宙中星系數量的估計？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092465</id>
-        <link href="https://news.ycombinator.com/item?id=32092465"/>
-        <updated>2022-07-14T05:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Webb change the estimate of number of galaxies in the universe?]]></summary>
-        <author>
-            <name>ijidak</name>
-            <uri>https://news.ycombinator.com/user?id=ijidak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於如何成為Git專家的建議？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091955</id>
-        <link href="https://news.ycombinator.com/item?id=32091955"/>
-        <updated>2022-07-14T04:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommendations on how to become a Git expert?]]></summary>
-        <author>
-            <name>telman17</name>
-            <uri>https://news.ycombinator.com/user?id=telman17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何驗證備份？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091907</id>
-        <link href="https://news.ycombinator.com/item?id=32091907"/>
-        <updated>2022-07-14T04:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you verify backups?]]></summary>
-        <author>
-            <name>kaptain</name>
-            <uri>https://news.ycombinator.com/user?id=kaptain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼支付處理商（如Stripe）不在開曼群島經營？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091833</id>
-        <link href="https://news.ycombinator.com/item?id=32091833"/>
-        <updated>2022-07-14T03:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't payment processors (e.g. Stripe) operate in Cayman Islands?]]></summary>
-        <author>
-            <name>wallygator</name>
-            <uri>https://news.ycombinator.com/user?id=wallygator</uri>
         </author>
     </entry>
 </feed>
