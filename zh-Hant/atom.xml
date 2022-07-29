@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T19:26:50.275Z</updated>
+    <updated>2022-07-29T20:34:01.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在計算機之前，圖書館管理借閱的書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32281376</id>
+        <link href="https://news.ycombinator.com/item?id=32281376"/>
+        <updated>2022-07-29T20:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Libraries managed borrowed books before computer]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[空桌椅的侷限性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>daggersandscars</name>
             <uri>https://news.ycombinator.com/user?id=daggersandscars</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的非技術朋友對技術有哪些不理解？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099683</id>
-        <link href="https://news.ycombinator.com/item?id=32099683"/>
-        <updated>2022-07-14T18:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do your non-tech friends don‘t understand about technology?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
