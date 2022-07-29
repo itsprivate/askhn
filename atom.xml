@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T20:34:01.046Z</updated>
+    <updated>2022-07-29T21:28:11.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是制作和打包APK的简单方法（几秒钟，几分钟）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32281934</id>
+        <link href="https://news.ycombinator.com/item?id=32281934"/>
+        <updated>2022-07-29T21:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a dead-simple way (seconds, minutes) to make and package an APK?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在计算机之前，图书馆管理借阅的书籍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robalni</name>
             <uri>https://news.ycombinator.com/user?id=robalni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阻止Google Play Store取代其他应用商店的应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099781</id>
-        <link href="https://news.ycombinator.com/item?id=32099781"/>
-        <updated>2022-07-14T18:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to stop Google Play Store from replacing apps from other app stores]]></summary>
-        <author>
-            <name>daggersandscars</name>
-            <uri>https://news.ycombinator.com/user?id=daggersandscars</uri>
         </author>
     </entry>
 </feed>
