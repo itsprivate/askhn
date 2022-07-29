@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-29T22:30:53.306Z</updated>
+    <updated>2022-07-29T23:00:48.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源項目是建立一個有利可圖的副業的好方法嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282614</id>
+        <link href="https://news.ycombinator.com/item?id=32282614"/>
+        <updated>2022-07-29T22:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Open Source projects a good way to build a profitable sideproject?]]></summary>
+        <author>
+            <name>conqrr</name>
+            <uri>https://news.ycombinator.com/user?id=conqrr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼專業的編碼是如此無聊？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pierre</name>
             <uri>https://news.ycombinator.com/user?id=pierre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼簽證程序停留在 "有本事就抓我 "的時代？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32100630</id>
-        <link href="https://news.ycombinator.com/item?id=32100630"/>
-        <updated>2022-07-14T19:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the visa process stuck in the “Catch me if you can” days?]]></summary>
-        <author>
-            <name>llampx</name>
-            <uri>https://news.ycombinator.com/user?id=llampx</uri>
         </author>
     </entry>
 </feed>
