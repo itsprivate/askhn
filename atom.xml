@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T14:27:14.276Z</updated>
+    <updated>2022-07-30T14:46:50.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[假AirPods是如何欺骗iOS上的特殊界面的，为什么没有授权？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287113</id>
+        <link href="https://news.ycombinator.com/item?id=32287113"/>
+        <updated>2022-07-30T14:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are fake AirPods spoofing the special interface on iOS,why no auth?]]></summary>
+        <author>
+            <name>unknownaccount</name>
+            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于如何*设计*大数据管道的推荐课程/书籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287084</id>
+        <link href="https://news.ycombinator.com/item?id=32287084"/>
+        <updated>2022-07-30T14:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Recommended courses/books on how to *design* big data pipelines?]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在会议中听到的最糟糕的事情是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287054</id>
+        <link href="https://news.ycombinator.com/item?id=32287054"/>
+        <updated>2022-07-30T14:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the worst thing you have heard in a meeting?]]></summary>
+        <author>
+            <name>bradywatts</name>
+            <uri>https://news.ycombinator.com/user?id=bradywatts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我有数以万计的订阅者。现在我如何发送通讯？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jasfi</name>
             <uri>https://news.ycombinator.com/user?id=jasfi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[选择项目，使用户/影响最大化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104924</id>
-        <link href="https://news.ycombinator.com/item?id=32104924"/>
-        <updated>2022-07-15T05:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Choose project to maximize users/impact?]]></summary>
-        <author>
-            <name>warpgroup</name>
-            <uri>https://news.ycombinator.com/user?id=warpgroup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对一个新的技术架构师的建议？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104434</id>
-        <link href="https://news.ycombinator.com/item?id=32104434"/>
-        <updated>2022-07-15T03:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advice for a new Technical Architect?]]></summary>
-        <author>
-            <name>atsushin</name>
-            <uri>https://news.ycombinator.com/user?id=atsushin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siri的iOS日历提醒通知很整洁，是哪支球队的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104394</id>
-        <link href="https://news.ycombinator.com/item?id=32104394"/>
-        <updated>2022-07-15T03:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Siri's iOS calendar reminder notifications are neat, which team was it?]]></summary>
-        <author>
-            <name>totallyblasted</name>
-            <uri>https://news.ycombinator.com/user?id=totallyblasted</uri>
         </author>
     </entry>
 </feed>

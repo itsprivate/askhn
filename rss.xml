@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 14:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[假AirPods是如何欺骗iOS上的特殊界面的，为什么没有授权？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32287113</link>
+            <guid>https://news.ycombinator.com/item?id=32287113</guid>
+            <pubDate>Sat, 30 Jul 2022 14:37:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are fake AirPods spoofing the special interface on iOS,why no auth?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于如何*设计*大数据管道的推荐课程/书籍？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32287084</link>
+            <guid>https://news.ycombinator.com/item?id=32287084</guid>
+            <pubDate>Sat, 30 Jul 2022 14:33:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Recommended courses/books on how to *design* big data pipelines?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你在会议中听到的最糟糕的事情是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32287054</link>
+            <guid>https://news.ycombinator.com/item?id=32287054</guid>
+            <pubDate>Sat, 30 Jul 2022 14:27:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the worst thing you have heard in a meeting?]]></description>
+        </item>
         <item>
             <title><![CDATA[我有数以万计的订阅者。现在我如何发送通讯？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32105125</guid>
             <pubDate>Fri, 15 Jul 2022 06:11:26 GMT</pubDate>
             <description><![CDATA[Ask HN: Which companies Open Source their website?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[选择项目，使用户/影响最大化？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104924</link>
-            <guid>https://news.ycombinator.com/item?id=32104924</guid>
-            <pubDate>Fri, 15 Jul 2022 05:34:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: Choose project to maximize users/impact?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对一个新的技术架构师的建议？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104434</link>
-            <guid>https://news.ycombinator.com/item?id=32104434</guid>
-            <pubDate>Fri, 15 Jul 2022 03:53:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Advice for a new Technical Architect?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Siri的iOS日历提醒通知很整洁，是哪支球队的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104394</link>
-            <guid>https://news.ycombinator.com/item?id=32104394</guid>
-            <pubDate>Fri, 15 Jul 2022 03:44:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: Siri's iOS calendar reminder notifications are neat, which team was it?]]></description>
         </item>
     </channel>
 </rss>
