@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T21:25:39.650Z</updated>
+    <updated>2022-07-30T21:45:09.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助科技公司的父亲在陪审团的裁决中获胜，但法官无视陪审团的意见
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290496</id>
+        <link href="https://news.ycombinator.com/item?id=32290496"/>
+        <updated>2022-07-30T21:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Help Tech dad prevailed in jury verdict but judge disregarded jury]]></summary>
+        <author>
+            <name>legalhelpaustin</name>
+            <uri>https://news.ycombinator.com/user?id=legalhelpaustin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2004年4万--2004年为我女儿制定的529大学计划
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jonashendel</name>
             <uri>https://news.ycombinator.com/user?id=jonashendel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全启动的威胁模式是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108554</id>
-        <link href="https://news.ycombinator.com/item?id=32108554"/>
-        <updated>2022-07-15T14:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the threat model of secure boot?]]></summary>
-        <author>
-            <name>jerryzh</name>
-            <uri>https://news.ycombinator.com/user?id=jerryzh</uri>
         </author>
     </entry>
 </feed>
