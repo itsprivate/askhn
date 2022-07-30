@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T02:40:08.123Z</updated>
+    <updated>2022-07-30T04:03:04.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有人对他们正在帮助创造的未来感到满意？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284057</id>
+        <link href="https://news.ycombinator.com/item?id=32284057"/>
+        <updated>2022-07-30T03:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone satisfied with the future they are helping create?]]></summary>
+        <author>
+            <name>rosviprince</name>
+            <uri>https://news.ycombinator.com/user?id=rosviprince</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[部署指南和教程有很多手把手的指导？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>treyfitty</name>
             <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么让你对未来感到乐观？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32102362</id>
-        <link href="https://news.ycombinator.com/item?id=32102362"/>
-        <updated>2022-07-14T22:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What makes you optimistic about the future?]]></summary>
-        <author>
-            <name>whiskey14</name>
-            <uri>https://news.ycombinator.com/user?id=whiskey14</uri>
         </author>
     </entry>
 </feed>
