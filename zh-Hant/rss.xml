@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 30 Jul 2022 13:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 14:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我有數以萬計的訂閱者。現在我如何發送通訊？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32286856</link>
+            <guid>https://news.ycombinator.com/item?id=32286856</guid>
+            <pubDate>Sat, 30 Jul 2022 13:57:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: I have tens of thousands of subscribers. Now how do I send a newsletter?]]></description>
+        </item>
         <item>
             <title><![CDATA[你認為Wayland何時會得到廣泛支持？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32104394</guid>
             <pubDate>Fri, 15 Jul 2022 03:44:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Siri's iOS calendar reminder notifications are neat, which team was it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN的帖子應該是鏈接還是文字？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104343</link>
-            <guid>https://news.ycombinator.com/item?id=32104343</guid>
-            <pubDate>Fri, 15 Jul 2022 03:36:26 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should Show HN posts be links or text?]]></description>
         </item>
     </channel>
 </rss>

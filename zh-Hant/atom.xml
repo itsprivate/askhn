@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T13:58:41.626Z</updated>
+    <updated>2022-07-30T14:27:14.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我有數以萬計的訂閱者。現在我如何發送通訊？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32286856</id>
+        <link href="https://news.ycombinator.com/item?id=32286856"/>
+        <updated>2022-07-30T13:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I have tens of thousands of subscribers. Now how do I send a newsletter?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你認為Wayland何時會得到廣泛支持？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>totallyblasted</name>
             <uri>https://news.ycombinator.com/user?id=totallyblasted</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN的帖子應該是鏈接還是文字？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104343</id>
-        <link href="https://news.ycombinator.com/item?id=32104343"/>
-        <updated>2022-07-15T03:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should Show HN posts be links or text?]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
         </author>
     </entry>
 </feed>
