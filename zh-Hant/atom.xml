@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T22:26:32.672Z</updated>
+    <updated>2022-07-30T22:46:02.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件工程促進社會公益？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290980</id>
+        <link href="https://news.ycombinator.com/item?id=32290980"/>
+        <updated>2022-07-30T22:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Software Engineering for Social Good?]]></summary>
+        <author>
+            <name>nmoadev</name>
+            <uri>https://news.ycombinator.com/user?id=nmoadev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倦怠的產品經理，我是否應該嘗試重新參與編碼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>emme</name>
             <uri>https://news.ycombinator.com/user?id=emme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有什麼 "讓你成為哈士奇 "的教程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108735</id>
-        <link href="https://news.ycombinator.com/item?id=32108735"/>
-        <updated>2022-07-15T14:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any “Make you a Haskell” tutorial?]]></summary>
-        <author>
-            <name>nudpiedo</name>
-            <uri>https://news.ycombinator.com/user?id=nudpiedo</uri>
         </author>
     </entry>
 </feed>
