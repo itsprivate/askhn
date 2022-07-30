@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T05:57:23.743Z</updated>
+    <updated>2022-07-30T06:33:44.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[類似於Git但用於二進制文件的東西？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284732</id>
+        <link href="https://news.ycombinator.com/item?id=32284732"/>
+        <updated>2022-07-30T06:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Something Like Git but for Binaries?]]></summary>
+        <author>
+            <name>weitzj</name>
+            <uri>https://news.ycombinator.com/user?id=weitzj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是最不令人沮喪的語言/技術的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284628</id>
+        <link href="https://news.ycombinator.com/item?id=32284628"/>
+        <updated>2022-07-30T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the least frustrating languages/technologies to work with?]]></summary>
+        <author>
+            <name>owenpalmer</name>
+            <uri>https://news.ycombinator.com/user?id=owenpalmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有人談及黑客的關係。什麼對你有幫助？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>personjerry</name>
             <uri>https://news.ycombinator.com/user?id=personjerry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對SSRIs有什麼經驗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32103238</id>
-        <link href="https://news.ycombinator.com/item?id=32103238"/>
-        <updated>2022-07-15T00:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your experience with SSRIs?]]></summary>
-        <author>
-            <name>aidepast</name>
-            <uri>https://news.ycombinator.com/user?id=aidepast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最好的工作機會談判是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32102922</id>
-        <link href="https://news.ycombinator.com/item?id=32102922"/>
-        <updated>2022-07-15T00:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What was your best job offer negotiation?]]></summary>
-        <author>
-            <name>anon__coward__</name>
-            <uri>https://news.ycombinator.com/user?id=anon__coward__</uri>
         </author>
     </entry>
 </feed>
