@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T14:46:50.204Z</updated>
+    <updated>2022-07-30T15:30:03.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何批判性地评价科学论文？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287512</id>
+        <link href="https://news.ycombinator.com/item?id=32287512"/>
+        <updated>2022-07-30T15:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you critically evaluate scientific papers?]]></summary>
+        <author>
+            <name>bravogamma</name>
+            <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌是否曾经通过删除/降低结果来惩罚起诉它的网络？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287423</id>
+        <link href="https://news.ycombinator.com/item?id=32287423"/>
+        <updated>2022-07-30T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has Google ever punished a web that sued it by delisting/lower results?]]></summary>
+        <author>
+            <name>SnowHill9902</name>
+            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假AirPods是如何欺骗iOS上的特殊界面的，为什么没有授权？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>toqti</name>
             <uri>https://news.ycombinator.com/user?id=toqti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Slack/Discord/MS Teams/etc.直接创建GitHub问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32105721</id>
-        <link href="https://news.ycombinator.com/item?id=32105721"/>
-        <updated>2022-07-15T07:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Create GitHub Issue Right from Slack/Discord/MS Teams/etc.?]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些公司的网站是开源的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32105125</id>
-        <link href="https://news.ycombinator.com/item?id=32105125"/>
-        <updated>2022-07-15T06:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which companies Open Source their website?]]></summary>
-        <author>
-            <name>jasfi</name>
-            <uri>https://news.ycombinator.com/user?id=jasfi</uri>
         </author>
     </entry>
 </feed>
