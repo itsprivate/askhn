@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T17:43:45.177Z</updated>
+    <updated>2022-07-30T17:58:21.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼鍵盤擴展裝置可以方便地安裝在筆記本電腦上嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288789</id>
+        <link href="https://news.ycombinator.com/item?id=32288789"/>
+        <updated>2022-07-30T17:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any keyboard extensions easily attachable on a laptop?]]></summary>
+        <author>
+            <name>seansh</name>
+            <uri>https://news.ycombinator.com/user?id=seansh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[單獨的獨立開發主要是為了避開困難的編程問題嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dfreire</name>
             <uri>https://news.ycombinator.com/user?id=dfreire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您使用的是哪種Windows筆記本電腦，並向您推薦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106523</id>
-        <link href="https://news.ycombinator.com/item?id=32106523"/>
-        <updated>2022-07-15T10:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Windows laptop do you use and recommend?]]></summary>
-        <author>
-            <name>fath0m</name>
-            <uri>https://news.ycombinator.com/user?id=fath0m</uri>
         </author>
     </entry>
 </feed>
