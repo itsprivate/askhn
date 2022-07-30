@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T21:45:09.503Z</updated>
+    <updated>2022-07-30T22:26:32.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[倦怠的產品經理，我是否應該嘗試重新參與編碼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290900</id>
+        <link href="https://news.ycombinator.com/item?id=32290900"/>
+        <updated>2022-07-30T22:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Burnt out Product Manager, should I try to get back into coding?]]></summary>
+        <author>
+            <name>crossroadspm</name>
+            <uri>https://news.ycombinator.com/user?id=crossroadspm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助科技公司的父親在陪審團的裁決中獲勝，但法官無視陪審團的意見
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nudpiedo</name>
             <uri>https://news.ycombinator.com/user?id=nudpiedo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼會改善你的書籤體驗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108563</id>
-        <link href="https://news.ycombinator.com/item?id=32108563"/>
-        <updated>2022-07-15T14:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What would improve your bookmarking experience?]]></summary>
-        <author>
-            <name>jonashendel</name>
-            <uri>https://news.ycombinator.com/user?id=jonashendel</uri>
         </author>
     </entry>
 </feed>
