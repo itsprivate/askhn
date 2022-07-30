@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T20:30:03.563Z</updated>
+    <updated>2022-07-30T20:46:57.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[智能合約的任何真正的實際用途？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289986</id>
+        <link href="https://news.ycombinator.com/item?id=32289986"/>
+        <updated>2022-07-30T20:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any real practical use of Smart Contracts?]]></summary>
+        <author>
+            <name>txt-me</name>
+            <uri>https://news.ycombinator.com/user?id=txt-me</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能變得比人類更聰明有什麼影響？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>muzani</name>
             <uri>https://news.ycombinator.com/user?id=muzani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何改進日常的加密貨幣投資遊戲？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32107666</id>
-        <link href="https://news.ycombinator.com/item?id=32107666"/>
-        <updated>2022-07-15T12:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to improve daily crypto investment game?]]></summary>
-        <author>
-            <name>nerfed</name>
-            <uri>https://news.ycombinator.com/user?id=nerfed</uri>
         </author>
     </entry>
 </feed>
