@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-30T10:47:00.743Z</updated>
+    <updated>2022-07-30T13:58:41.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你认为Wayland何时会得到广泛支持？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32286265</id>
+        <link href="https://news.ycombinator.com/item?id=32286265"/>
+        <updated>2022-07-30T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When do you think Wayland will be broadly supported?]]></summary>
+        <author>
+            <name>BlueLynxes</name>
+            <uri>https://news.ycombinator.com/user?id=BlueLynxes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为有经验的程序员提供的递归中心的替代方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gnicholas</name>
             <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在黄金周买了什么小玩意？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104113</id>
-        <link href="https://news.ycombinator.com/item?id=32104113"/>
-        <updated>2022-07-15T02:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What gadgets did you buy for prime day?]]></summary>
-        <author>
-            <name>jerryjerryjerry</name>
-            <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
         </author>
     </entry>
 </feed>
