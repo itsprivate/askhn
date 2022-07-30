@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 30 Jul 2022 06:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 09:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何禁用浏览器中的右键拦截功能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285459</link>
+            <guid>https://news.ycombinator.com/item?id=32285459</guid>
+            <pubDate>Sat, 30 Jul 2022 09:32:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to disable right-click blocking in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[类似于Git但用于二进制文件的东西？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32104005</guid>
             <pubDate>Fri, 15 Jul 2022 02:34:36 GMT</pubDate>
             <description><![CDATA[Ask HN: Do most SWEs actually code at BigTechCo jobs?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人收到LinkedIn连接邀请的垃圾邮件吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32103823</link>
-            <guid>https://news.ycombinator.com/item?id=32103823</guid>
-            <pubDate>Fri, 15 Jul 2022 02:07:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone getting LinkedIn connection invite spam?]]></description>
         </item>
     </channel>
 </rss>
