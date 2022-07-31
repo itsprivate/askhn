@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T21:59:26.123Z</updated>
+    <updated>2022-07-31T22:58:46.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的個人項目之一是什麼，為什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32299607</id>
+        <link href="https://news.ycombinator.com/item?id=32299607"/>
+        <updated>2022-07-31T22:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's one of your favorite personal programs, and why?]]></summary>
+        <author>
+            <name>h0ldnack</name>
+            <uri>https://news.ycombinator.com/user?id=h0ldnack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不在湖泊和游泳池中加鹽以減少溺水事件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nblasted</name>
             <uri>https://news.ycombinator.com/user?id=nblasted</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實習生是否創造價值？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115014</id>
-        <link href="https://news.ycombinator.com/item?id=32115014"/>
-        <updated>2022-07-16T03:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do Interns Create Value?]]></summary>
-        <author>
-            <name>ThePaulAlek</name>
-            <uri>https://news.ycombinator.com/user?id=ThePaulAlek</uri>
         </author>
     </entry>
 </feed>
