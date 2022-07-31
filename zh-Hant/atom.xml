@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T14:28:14.804Z</updated>
+    <updated>2022-07-31T14:58:25.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是最好的免費通用安全軟件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295911</id>
+        <link href="https://news.ycombinator.com/item?id=32295911"/>
+        <updated>2022-07-31T14:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the best free general purpose security software?]]></summary>
+        <author>
+            <name>martialg</name>
+            <uri>https://news.ycombinator.com/user?id=martialg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪位前端開發人員可以幫忙嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>poisonborz</name>
             <uri>https://news.ycombinator.com/user?id=poisonborz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你推薦什麼作為谷歌分析的替代品？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111965</id>
-        <link href="https://news.ycombinator.com/item?id=32111965"/>
-        <updated>2022-07-15T19:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you recommend as Google Analytics alternative?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
