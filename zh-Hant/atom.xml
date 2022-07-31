@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T13:20:43.918Z</updated>
+    <updated>2022-07-31T14:28:14.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪位前端開發人員可以幫忙嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295604</id>
+        <link href="https://news.ycombinator.com/item?id=32295604"/>
+        <updated>2022-07-31T14:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can any front end developers help out?]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自主出版SF長篇小說，需要推薦人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓終端的版本與移動應用保持同步
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111937</id>
-        <link href="https://news.ycombinator.com/item?id=32111937"/>
-        <updated>2022-07-15T19:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Keeping endpoints version in sync with a mobile app]]></summary>
-        <author>
-            <name>yoouareperfect</name>
-            <uri>https://news.ycombinator.com/user?id=yoouareperfect</uri>
         </author>
     </entry>
 </feed>

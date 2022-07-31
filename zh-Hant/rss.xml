@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 14:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有哪位前端開發人員可以幫忙嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32295604</link>
+            <guid>https://news.ycombinator.com/item?id=32295604</guid>
+            <pubDate>Sun, 31 Jul 2022 14:13:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can any front end developers help out?]]></description>
+        </item>
         <item>
             <title><![CDATA[自主出版SF長篇小說，需要推薦人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32111965</guid>
             <pubDate>Fri, 15 Jul 2022 19:41:26 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you recommend as Google Analytics alternative?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓終端的版本與移動應用保持同步
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32111937</link>
-            <guid>https://news.ycombinator.com/item?id=32111937</guid>
-            <pubDate>Fri, 15 Jul 2022 19:37:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Keeping endpoints version in sync with a mobile app]]></description>
         </item>
     </channel>
 </rss>
