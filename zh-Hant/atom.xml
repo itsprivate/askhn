@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T06:32:40.677Z</updated>
+    <updated>2022-07-31T07:43:52.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪裡購買無DRM、有水印的內容？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293902</id>
+        <link href="https://news.ycombinator.com/item?id=32293902"/>
+        <updated>2022-07-31T07:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where you do buy DRM-free, watermarked content?]]></summary>
+        <author>
+            <name>ristos</name>
+            <uri>https://news.ycombinator.com/user?id=ristos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習Rails的熱線有哪些好地方
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tboyd47</name>
             <uri>https://news.ycombinator.com/user?id=tboyd47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有公司能夠提供蘋果M1/M2的每瓦特性能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109507</id>
-        <link href="https://news.ycombinator.com/item?id=32109507"/>
-        <updated>2022-07-15T16:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why no company is able to deliver Apple M1/M2 performance per watt]]></summary>
-        <author>
-            <name>akmittal</name>
-            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
         </author>
     </entry>
 </feed>
