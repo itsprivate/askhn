@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T11:24:54.275Z</updated>
+    <updated>2022-07-31T11:45:28.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在獲得收入來源的同時保持我們的軟件免費？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32294747</id>
+        <link href="https://news.ycombinator.com/item?id=32294747"/>
+        <updated>2022-07-31T10:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to keep our software free while obtaining a revenue stream?]]></summary>
+        <author>
+            <name>katla</name>
+            <uri>https://news.ycombinator.com/user?id=katla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遠程控制Windows 7計算機的常見方法是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Raed667</name>
             <uri>https://news.ycombinator.com/user?id=Raed667</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果secp256k1有後門，BTC/ETH會怎樣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110568</id>
-        <link href="https://news.ycombinator.com/item?id=32110568"/>
-        <updated>2022-07-15T17:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happens to BTC/ETH if secp256k1 has a backdoor]]></summary>
-        <author>
-            <name>yonz</name>
-            <uri>https://news.ycombinator.com/user?id=yonz</uri>
         </author>
     </entry>
 </feed>

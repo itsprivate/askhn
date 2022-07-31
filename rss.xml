@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 31 Jul 2022 11:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 11:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在获得收入来源的同时保持我们的软件免费？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32294747</link>
+            <guid>https://news.ycombinator.com/item?id=32294747</guid>
+            <pubDate>Sun, 31 Jul 2022 10:59:08 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to keep our software free while obtaining a revenue stream?]]></description>
+        </item>
         <item>
             <title><![CDATA[远程控制Windows 7计算机的常见方法是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32111030</guid>
             <pubDate>Fri, 15 Jul 2022 18:01:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Why don't people complain as much about Rust cargos?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果secp256k1有后门，BTC/ETH会怎样？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32110568</link>
-            <guid>https://news.ycombinator.com/item?id=32110568</guid>
-            <pubDate>Fri, 15 Jul 2022 17:22:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: What happens to BTC/ETH if secp256k1 has a backdoor]]></description>
         </item>
     </channel>
 </rss>
