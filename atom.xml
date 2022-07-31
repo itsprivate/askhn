@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T02:48:38.769Z</updated>
+    <updated>2022-07-31T03:57:05.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给大学新生的建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32292893</id>
+        <link href="https://news.ycombinator.com/item?id=32292893"/>
+        <updated>2022-07-31T03:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice for incoming freshman student at college]]></summary>
+        <author>
+            <name>college</name>
+            <uri>https://news.ycombinator.com/user?id=college</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带着电子产品旅行的技巧？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>katiashipulina</name>
             <uri>https://news.ycombinator.com/user?id=katiashipulina</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望有什么消费设备存在？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109236</id>
-        <link href="https://news.ycombinator.com/item?id=32109236"/>
-        <updated>2022-07-15T15:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What consumer device do you wish existed?]]></summary>
-        <author>
-            <name>jharohit</name>
-            <uri>https://news.ycombinator.com/user?id=jharohit</uri>
         </author>
     </entry>
 </feed>
