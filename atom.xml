@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T19:45:46.782Z</updated>
+    <updated>2022-07-31T21:25:59.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最近读了哪本书，让你的情绪失控了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298926</id>
+        <link href="https://news.ycombinator.com/item?id=32298926"/>
+        <updated>2022-07-31T21:17:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What book have you read recently that had your emotions run wild?]]></summary>
+        <author>
+            <name>100001_100011</name>
+            <uri>https://news.ycombinator.com/user?id=100001_100011</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何对你朋友的写作/博客文章给予反馈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298778</id>
+        <link href="https://news.ycombinator.com/item?id=32298778"/>
+        <updated>2022-07-31T20:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you give feedback on your friend's writing/blog posts?]]></summary>
+        <author>
+            <name>calderwoodra</name>
+            <uri>https://news.ycombinator.com/user?id=calderwoodra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.NET是否存在相当于Clojure的东西？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>baron816</name>
             <uri>https://news.ycombinator.com/user?id=baron816</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名CS学生，如何赚钱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32114457</id>
-        <link href="https://news.ycombinator.com/item?id=32114457"/>
-        <updated>2022-07-16T01:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make money as a CS student?]]></summary>
-        <author>
-            <name>aaronwalker</name>
-            <uri>https://news.ycombinator.com/user?id=aaronwalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为他们是否破坏了JavaScript？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32113381</id>
-        <link href="https://news.ycombinator.com/item?id=32113381"/>
-        <updated>2022-07-15T22:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think did they broke JavaScript?]]></summary>
-        <author>
-            <name>singularity2001</name>
-            <uri>https://news.ycombinator.com/user?id=singularity2001</uri>
         </author>
     </entry>
 </feed>
