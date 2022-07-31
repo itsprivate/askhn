@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-07-31T09:26:02.443Z</updated>
+    <updated>2022-07-31T11:24:54.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程控制Windows 7计算机的常见方法是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32294794</id>
+        <link href="https://news.ycombinator.com/item?id=32294794"/>
+        <updated>2022-07-31T11:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is common way for remotely control a Windows 7 computer?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓工作档案的技巧和窍门？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yonz</name>
             <uri>https://news.ycombinator.com/user?id=yonz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络应用中的应用内广告的选项？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110320</id>
-        <link href="https://news.ycombinator.com/item?id=32110320"/>
-        <updated>2022-07-15T17:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Options for in-app advertising in a web app?]]></summary>
-        <author>
-            <name>hahamrfunnyguy</name>
-            <uri>https://news.ycombinator.com/user?id=hahamrfunnyguy</uri>
         </author>
     </entry>
 </feed>
