@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T09:32:36.313Z</updated>
+    <updated>2022-08-01T10:39:48.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新闻简报有用吗？为什么网站会如此推崇它们？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304011</id>
+        <link href="https://news.ycombinator.com/item?id=32304011"/>
+        <updated>2022-08-01T10:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do newsletters work? Why do websites push them so much?]]></summary>
+        <author>
+            <name>nicbou</name>
+            <uri>https://news.ycombinator.com/user?id=nicbou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无密码是否会损害我们的转换率？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303988</id>
+        <link href="https://news.ycombinator.com/item?id=32303988"/>
+        <updated>2022-08-01T10:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does passwordless hurt our conversion rates?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub缓存在区域BOM中出现问题？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303853</id>
+        <link href="https://news.ycombinator.com/item?id=32303853"/>
+        <updated>2022-08-01T09:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: GitHub caches acting up in region BOM?]]></summary>
+        <author>
+            <name>thewisenerd</name>
+            <uri>https://news.ycombinator.com/user?id=thewisenerd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何能有效地与非vcs用户合作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303841</id>
+        <link href="https://news.ycombinator.com/item?id=32303841"/>
+        <updated>2022-08-01T09:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How could you effectively collaborate with non-vcs users?]]></summary>
+        <author>
+            <name>hirsutehippo</name>
+            <uri>https://news.ycombinator.com/user?id=hirsutehippo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么方法可以用数学来解决这个问题吗？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>quirk</name>
             <uri>https://news.ycombinator.com/user?id=quirk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook.com上的新网址是怎么回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117489</id>
-        <link href="https://news.ycombinator.com/item?id=32117489"/>
-        <updated>2022-07-16T12:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is with the new URLs on Facebook.com?]]></summary>
-        <author>
-            <name>thrusong</name>
-            <uri>https://news.ycombinator.com/user?id=thrusong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在使用视觉笔记的技巧？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117387</id>
-        <link href="https://news.ycombinator.com/item?id=32117387"/>
-        <updated>2022-07-16T12:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you using visual note taking techniques?]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表情符号对你的书面交流有帮助吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32116964</id>
-        <link href="https://news.ycombinator.com/item?id=32116964"/>
-        <updated>2022-07-16T11:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do emoji help you in written communication?]]></summary>
-        <author>
-            <name>ivan_gammel</name>
-            <uri>https://news.ycombinator.com/user?id=ivan_gammel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在你的开发文档中收集对代码片段的反馈？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32116949</id>
-        <link href="https://news.ycombinator.com/item?id=32116949"/>
-        <updated>2022-07-16T11:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you collect feedback for code snippets in your dev docs?]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
         </author>
     </entry>
 </feed>
