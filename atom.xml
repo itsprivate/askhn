@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T11:30:02.516Z</updated>
+    <updated>2022-08-01T11:45:24.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何学习人工智能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304580</id>
+        <link href="https://news.ycombinator.com/item?id=32304580"/>
+        <updated>2022-08-01T11:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I learn AI?]]></summary>
+        <author>
+            <name>yxOverKill</name>
+            <uri>https://news.ycombinator.com/user?id=yxOverKill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么没有相当于事件的RSS？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304474</id>
+        <link href="https://news.ycombinator.com/item?id=32304474"/>
+        <updated>2022-08-01T11:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there no RSS-equivalent for events?]]></summary>
+        <author>
+            <name>nanna</name>
+            <uri>https://news.ycombinator.com/user?id=nanna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么开发者如此讨厌营销？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>p33p</name>
             <uri>https://news.ycombinator.com/user?id=p33p</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPG存货排序算法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118789</id>
-        <link href="https://news.ycombinator.com/item?id=32118789"/>
-        <updated>2022-07-16T15:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: RPG Inventory Sorting Algorithm?]]></summary>
-        <author>
-            <name>bloqs</name>
-            <uri>https://news.ycombinator.com/user?id=bloqs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名计算机科学家，我怎样才能为干细胞研究作出贡献？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118578</id>
-        <link href="https://news.ycombinator.com/item?id=32118578"/>
-        <updated>2022-07-16T14:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I contribute to stem cell research as a computer scientist?]]></summary>
-        <author>
-            <name>guzik</name>
-            <uri>https://news.ycombinator.com/user?id=guzik</uri>
         </author>
     </entry>
 </feed>
