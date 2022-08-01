@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 01 Aug 2022 19:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 19:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁已经转向了无服务器？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32310950</link>
+            <guid>https://news.ycombinator.com/item?id=32310950</guid>
+            <pubDate>Mon, 01 Aug 2022 19:28:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who Has Switched to Serverless?]]></description>
+        </item>
         <item>
             <title><![CDATA[AWS有容量问题吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32124002</guid>
             <pubDate>Sun, 17 Jul 2022 02:46:32 GMT</pubDate>
             <description><![CDATA[Ask HN: Does HN do anything to prevent AI-grade bots?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分布式数据库中查询配置文件的良好实现？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32123921</link>
-            <guid>https://news.ycombinator.com/item?id=32123921</guid>
-            <pubDate>Sun, 17 Jul 2022 02:31:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: Good implementations of query profiles in distributed databases?]]></description>
         </item>
     </channel>
 </rss>

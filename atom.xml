@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T19:27:30.760Z</updated>
+    <updated>2022-08-01T19:47:25.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁已经转向了无服务器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310950</id>
+        <link href="https://news.ycombinator.com/item?id=32310950"/>
+        <updated>2022-08-01T19:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Has Switched to Serverless?]]></summary>
+        <author>
+            <name>endisneigh</name>
+            <uri>https://news.ycombinator.com/user?id=endisneigh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS有容量问题吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ekianjo</name>
             <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分布式数据库中查询配置文件的良好实现？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32123921</id>
-        <link href="https://news.ycombinator.com/item?id=32123921"/>
-        <updated>2022-07-17T02:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good implementations of query profiles in distributed databases?]]></summary>
-        <author>
-            <name>pratchett</name>
-            <uri>https://news.ycombinator.com/user?id=pratchett</uri>
         </author>
     </entry>
 </feed>
