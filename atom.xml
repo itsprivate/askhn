@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T05:52:59.630Z</updated>
+    <updated>2022-08-01T07:44:01.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在副业中使用什么指标栈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303160</id>
+        <link href="https://news.ycombinator.com/item?id=32303160"/>
+        <updated>2022-08-01T07:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What metrics stack are you using for side projects]]></summary>
+        <author>
+            <name>RandomSort</name>
+            <uri>https://news.ycombinator.com/user?id=RandomSort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些合理的右倾新闻来源？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>laszlojamf</name>
             <uri>https://news.ycombinator.com/user?id=laszlojamf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何与早期创业公司的创始人联系？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115823</id>
-        <link href="https://news.ycombinator.com/item?id=32115823"/>
-        <updated>2022-07-16T06:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to connect with founders of early stage startups?]]></summary>
-        <author>
-            <name>toughyear</name>
-            <uri>https://news.ycombinator.com/user?id=toughyear</uri>
         </author>
     </entry>
 </feed>
