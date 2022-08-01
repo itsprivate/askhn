@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T21:51:58.062Z</updated>
+    <updated>2022-08-01T22:03:07.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LTS Linux仍然有意義嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32312453</id>
+        <link href="https://news.ycombinator.com/item?id=32312453"/>
+        <updated>2022-08-01T21:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does LTS Linux still make sense?]]></summary>
+        <author>
+            <name>indymike</name>
+            <uri>https://news.ycombinator.com/user?id=indymike</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獲得HN的數據轉儲的最好方法是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fer</name>
             <uri>https://news.ycombinator.com/user?id=fer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何讓開發人員和UI設計師良好合作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32125466</id>
-        <link href="https://news.ycombinator.com/item?id=32125466"/>
-        <updated>2022-07-17T09:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get developers and UI designers to work well together]]></summary>
-        <author>
-            <name>zevir</name>
-            <uri>https://news.ycombinator.com/user?id=zevir</uri>
         </author>
     </entry>
 </feed>
