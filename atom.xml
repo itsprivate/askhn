@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T17:47:43.226Z</updated>
+    <updated>2022-08-01T17:59:26.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁被解雇了？ (2022年8月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309722</id>
+        <link href="https://news.ycombinator.com/item?id=32309722"/>
+        <updated>2022-08-01T17:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is Fired? (August 2022)]]></summary>
+        <author>
+            <name>devKnight</name>
+            <uri>https://news.ycombinator.com/user?id=devKnight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在做什么？ (2022年8月)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>baron816</name>
             <uri>https://news.ycombinator.com/user?id=baron816</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名候选人，如何选择技术招聘人员？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32122674</id>
-        <link href="https://news.ycombinator.com/item?id=32122674"/>
-        <updated>2022-07-16T22:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to choose a tech recruiter, as a candidate?]]></summary>
-        <author>
-            <name>hazard</name>
-            <uri>https://news.ycombinator.com/user?id=hazard</uri>
         </author>
     </entry>
 </feed>
