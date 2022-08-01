@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T11:45:24.637Z</updated>
+    <updated>2022-08-01T13:00:34.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習博客營銷的最佳地點？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305092</id>
+        <link href="https://news.ycombinator.com/item?id=32305092"/>
+        <updated>2022-08-01T12:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best place to learn blog marketing?]]></summary>
+        <author>
+            <name>brightball</name>
+            <uri>https://news.ycombinator.com/user?id=brightball</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你離開Kubernetes了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304834</id>
+        <link href="https://news.ycombinator.com/item?id=32304834"/>
+        <updated>2022-08-01T12:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have You Left Kubernetes?]]></summary>
+        <author>
+            <name>strzibny</name>
+            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這個速度測試是否正確/相關？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304785</id>
+        <link href="https://news.ycombinator.com/item?id=32304785"/>
+        <updated>2022-08-01T12:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this speed test correct/relevant?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何學習人工智能？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>rodentflamingo</name>
             <uri>https://news.ycombinator.com/user?id=rodentflamingo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於C23 Stdckdint.h的思考
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118929</id>
-        <link href="https://news.ycombinator.com/item?id=32118929"/>
-        <updated>2022-07-16T15:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Thoughts on C23 Stdckdint.h]]></summary>
-        <author>
-            <name>DiamontIsComing</name>
-            <uri>https://news.ycombinator.com/user?id=DiamontIsComing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳的音頻數據非加密散列算法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118883</id>
-        <link href="https://news.ycombinator.com/item?id=32118883"/>
-        <updated>2022-07-16T15:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best non-cryptograpic hashing algorithm for audio data?]]></summary>
-        <author>
-            <name>sandreas</name>
-            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venv, virtualwrapper, pipenv, poetry, pdm, oh my
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118850</id>
-        <link href="https://news.ycombinator.com/item?id=32118850"/>
-        <updated>2022-07-16T15:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Venv, virtualwrapper, pipenv, poetry, pdm, oh my]]></summary>
-        <author>
-            <name>p33p</name>
-            <uri>https://news.ycombinator.com/user?id=p33p</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 13:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[学习博客营销的最佳地点？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32305092</link>
+            <guid>https://news.ycombinator.com/item?id=32305092</guid>
+            <pubDate>Mon, 01 Aug 2022 12:36:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best place to learn blog marketing?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你离开Kubernetes了吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304834</link>
+            <guid>https://news.ycombinator.com/item?id=32304834</guid>
+            <pubDate>Mon, 01 Aug 2022 12:08:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have You Left Kubernetes?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这个速度测试是否正确/相关？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304785</link>
+            <guid>https://news.ycombinator.com/item?id=32304785</guid>
+            <pubDate>Mon, 01 Aug 2022 12:03:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is this speed test correct/relevant?]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何学习人工智能？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32119069</guid>
             <pubDate>Sat, 16 Jul 2022 15:29:24 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the best approach to get up to speed with academic research?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于C23 Stdckdint.h的思考
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118929</link>
-            <guid>https://news.ycombinator.com/item?id=32118929</guid>
-            <pubDate>Sat, 16 Jul 2022 15:15:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Thoughts on C23 Stdckdint.h]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最佳的音频数据非加密散列算法？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118883</link>
-            <guid>https://news.ycombinator.com/item?id=32118883</guid>
-            <pubDate>Sat, 16 Jul 2022 15:10:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best non-cryptograpic hashing algorithm for audio data?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Venv, virtualwrapper, pipenv, poetry, pdm, oh my
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118850</link>
-            <guid>https://news.ycombinator.com/item?id=32118850</guid>
-            <pubDate>Sat, 16 Jul 2022 15:07:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Venv, virtualwrapper, pipenv, poetry, pdm, oh my]]></description>
         </item>
     </channel>
 </rss>
