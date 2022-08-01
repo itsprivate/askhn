@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 01 Aug 2022 19:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 19:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS有容量问题吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32310885</link>
+            <guid>https://news.ycombinator.com/item?id=32310885</guid>
+            <pubDate>Mon, 01 Aug 2022 19:22:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is AWS having capacity issues?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何作为一个开源开发者赚钱或使之成为你的职业
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32310636</link>
+            <guid>https://news.ycombinator.com/item?id=32310636</guid>
+            <pubDate>Mon, 01 Aug 2022 19:00:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to make money as an Open Source Developer or make it your career]]></description>
+        </item>
         <item>
             <title><![CDATA[Dang - 我们能不能为askjob类型设立多个主题？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32123921</guid>
             <pubDate>Sun, 17 Jul 2022 02:31:37 GMT</pubDate>
             <description><![CDATA[Ask HN: Good implementations of query profiles in distributed databases?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何获取用于JPEG编码的原始图像数据
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32123340</link>
-            <guid>https://news.ycombinator.com/item?id=32123340</guid>
-            <pubDate>Sun, 17 Jul 2022 00:47:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to acquire raw image data for JPEG encoding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独立服务器应该有哪些维护？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32123202</link>
-            <guid>https://news.ycombinator.com/item?id=32123202</guid>
-            <pubDate>Sun, 17 Jul 2022 00:23:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: What maintenance should a dedicated server have?]]></description>
         </item>
     </channel>
 </rss>

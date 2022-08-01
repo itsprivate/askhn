@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T19:06:08.923Z</updated>
+    <updated>2022-08-01T19:27:30.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS有容量問題嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310885</id>
+        <link href="https://news.ycombinator.com/item?id=32310885"/>
+        <updated>2022-08-01T19:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is AWS having capacity issues?]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何作為一個開源開發者賺錢或使之成為你的職業
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310636</id>
+        <link href="https://news.ycombinator.com/item?id=32310636"/>
+        <updated>2022-08-01T19:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make money as an Open Source Developer or make it your career]]></summary>
+        <author>
+            <name>OpenSaned</name>
+            <uri>https://news.ycombinator.com/user?id=OpenSaned</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dang - 我們能不能為askjob類型設立多個主題？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pratchett</name>
             <uri>https://news.ycombinator.com/user?id=pratchett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何獲取用於JPEG編碼的原始圖像數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32123340</id>
-        <link href="https://news.ycombinator.com/item?id=32123340"/>
-        <updated>2022-07-17T00:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to acquire raw image data for JPEG encoding]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨立服務器應該有哪些維護？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32123202</id>
-        <link href="https://news.ycombinator.com/item?id=32123202"/>
-        <updated>2022-07-17T00:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What maintenance should a dedicated server have?]]></summary>
-        <author>
-            <name>juanse</name>
-            <uri>https://news.ycombinator.com/user?id=juanse</uri>
         </author>
     </entry>
 </feed>
