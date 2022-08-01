@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T07:44:01.433Z</updated>
+    <updated>2022-08-01T09:02:30.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一个安全专家，你还会建造吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303528</id>
+        <link href="https://news.ycombinator.com/item?id=32303528"/>
+        <updated>2022-08-01T08:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a security expert, do you still build?]]></summary>
+        <author>
+            <name>john_the_writer</name>
+            <uri>https://news.ycombinator.com/user?id=john_the_writer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个CRUD应用的技术联合创始人，没有成长起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303484</id>
+        <link href="https://news.ycombinator.com/item?id=32303484"/>
+        <updated>2022-08-01T08:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Not Growing as a Technical Cofounder of a CRUD App]]></summary>
+        <author>
+            <name>viginti_tres</name>
+            <uri>https://news.ycombinator.com/user?id=viginti_tres</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在副业中使用什么指标栈？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福是全部吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32116213</id>
-        <link href="https://news.ycombinator.com/item?id=32116213"/>
-        <updated>2022-07-16T08:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is happiness all there is?]]></summary>
-        <author>
-            <name>jereees</name>
-            <uri>https://news.ycombinator.com/user?id=jereees</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有试过GitHub Copilot与Crafting Interpreters？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32116006</id>
-        <link href="https://news.ycombinator.com/item?id=32116006"/>
-        <updated>2022-07-16T07:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Ever tried GitHub Copilot with Crafting Interpreters?]]></summary>
-        <author>
-            <name>laszlojamf</name>
-            <uri>https://news.ycombinator.com/user?id=laszlojamf</uri>
         </author>
     </entry>
 </feed>
