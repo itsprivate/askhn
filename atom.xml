@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T10:54:28.480Z</updated>
+    <updated>2022-08-01T11:30:02.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么开发者如此讨厌营销？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304431</id>
+        <link href="https://news.ycombinator.com/item?id=32304431"/>
+        <updated>2022-08-01T11:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why developers hate marketing so much?]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你认为哪些QA指标是有益的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304290</id>
+        <link href="https://news.ycombinator.com/item?id=32304290"/>
+        <updated>2022-08-01T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What QA metrics do you find beneficial?]]></summary>
+        <author>
+            <name>qa-guy</name>
+            <uri>https://news.ycombinator.com/user?id=qa-guy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最好的书获得更深层次的电子或黄金提示，去为平庸的人。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>guzik</name>
             <uri>https://news.ycombinator.com/user?id=guzik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[m2 MacBook Air对iOS应用开发来说足够好吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118203</id>
-        <link href="https://news.ycombinator.com/item?id=32118203"/>
-        <updated>2022-07-16T14:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the m2 MacBook Air good enough for iOS app development?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有适用于所有编程语言的通用表示法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32116474</id>
-        <link href="https://news.ycombinator.com/item?id=32116474"/>
-        <updated>2022-07-16T09:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no universal representation for all programming language?]]></summary>
-        <author>
-            <name>LouisEleven</name>
-            <uri>https://news.ycombinator.com/user?id=LouisEleven</uri>
         </author>
     </entry>
 </feed>
