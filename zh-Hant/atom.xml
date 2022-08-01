@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T02:50:36.898Z</updated>
+    <updated>2022-08-01T04:34:44.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國最佳自行車友好城市？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32301336</id>
+        <link href="https://news.ycombinator.com/item?id=32301336"/>
+        <updated>2022-08-01T02:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best bicycle-friendly city in the USA?]]></summary>
+        <author>
+            <name>Pakdef</name>
+            <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從研究領域過渡到工業領域，我應該如何準備？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>JonathanBeuys</name>
             <uri>https://news.ycombinator.com/user?id=JonathanBeuys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼安卓沒有標準的應用程序？USB網絡攝像頭？設置？計算？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115631</id>
-        <link href="https://news.ycombinator.com/item?id=32115631"/>
-        <updated>2022-07-16T06:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why doesn't Android have standard apps? USB Webcam? Settings? Calc?]]></summary>
-        <author>
-            <name>thrwawy74</name>
-            <uri>https://news.ycombinator.com/user?id=thrwawy74</uri>
         </author>
     </entry>
 </feed>
