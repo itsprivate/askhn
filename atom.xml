@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-01T17:21:41.226Z</updated>
+    <updated>2022-08-01T17:47:43.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在做什么？ (2022年8月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309210</id>
+        <link href="https://news.ycombinator.com/item?id=32309210"/>
+        <updated>2022-08-01T17:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Are You Working On? (August 2022)]]></summary>
+        <author>
+            <name>david927</name>
+            <uri>https://news.ycombinator.com/user?id=david927</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习持续交付的资源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309179</id>
+        <link href="https://news.ycombinator.com/item?id=32309179"/>
+        <updated>2022-08-01T17:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources for Learning Continuous Delivery]]></summary>
+        <author>
+            <name>aliasxneo</name>
+            <uri>https://news.ycombinator.com/user?id=aliasxneo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么学校不通过不鼓励交朋友来减少欺凌行为？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hazard</name>
             <uri>https://news.ycombinator.com/user?id=hazard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习医学的最佳 "ELI5 "书籍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32122548</id>
-        <link href="https://news.ycombinator.com/item?id=32122548"/>
-        <updated>2022-07-16T22:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best “ELI5” book to learn medicine?]]></summary>
-        <author>
-            <name>user0x1d</name>
-            <uri>https://news.ycombinator.com/user?id=user0x1d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是开源初创企业的最佳衡量标准？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32122062</id>
-        <link href="https://news.ycombinator.com/item?id=32122062"/>
-        <updated>2022-07-16T21:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the best metrics for open-source startups]]></summary>
-        <author>
-            <name>BogdanSemenov</name>
-            <uri>https://news.ycombinator.com/user?id=BogdanSemenov</uri>
         </author>
     </entry>
 </feed>
