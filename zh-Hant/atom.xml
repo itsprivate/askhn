@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T14:59:37.187Z</updated>
+    <updated>2022-08-02T15:37:27.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些適合非初學者的資源/課程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32319791</id>
+        <link href="https://news.ycombinator.com/item?id=32319791"/>
+        <updated>2022-08-02T15:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are great resources/courses for non-beginners?]]></summary>
+        <author>
+            <name>brauhaus</name>
+            <uri>https://news.ycombinator.com/user?id=brauhaus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些初創企業做出了最佳的早期技術決策？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32319694</id>
+        <link href="https://news.ycombinator.com/item?id=32319694"/>
+        <updated>2022-08-02T15:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What startsups made the best early-tech decisions?]]></summary>
+        <author>
+            <name>jonathan-kosgei</name>
+            <uri>https://news.ycombinator.com/user?id=jonathan-kosgei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何創建你的Gumroad教程產品的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rkho</name>
             <uri>https://news.ycombinator.com/user?id=rkho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做多用戶純文本會計？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32135799</id>
-        <link href="https://news.ycombinator.com/item?id=32135799"/>
-        <updated>2022-07-18T08:09:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to do multi user plain text accounting?]]></summary>
-        <author>
-            <name>xupybd</name>
-            <uri>https://news.ycombinator.com/user?id=xupybd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲資源的迴歸測試？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32135299</id>
-        <link href="https://news.ycombinator.com/item?id=32135299"/>
-        <updated>2022-07-18T06:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Regression Test for Cloud Resources?]]></summary>
-        <author>
-            <name>ggeorgovassilis</name>
-            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
         </author>
     </entry>
 </feed>
