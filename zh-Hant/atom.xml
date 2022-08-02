@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T19:45:51.003Z</updated>
+    <updated>2022-08-02T20:00:15.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只是想知道埃隆喜歡什麼 "胡言亂語"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323445</id>
+        <link href="https://news.ycombinator.com/item?id=32323445"/>
+        <updated>2022-08-02T19:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Just wondering what “nonsense” Elon likes]]></summary>
+        <author>
+            <name>lotw_dot_site</name>
+            <uri>https://news.ycombinator.com/user?id=lotw_dot_site</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的音樂家是誰，他們最好的歌曲是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robinyapockets</name>
             <uri>https://news.ycombinator.com/user?id=robinyapockets</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有谷歌，你能把編碼做到什麼程度？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177716</id>
-        <link href="https://news.ycombinator.com/item?id=32177716"/>
-        <updated>2022-07-21T10:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How far could you get Coding without Google?]]></summary>
-        <author>
-            <name>emadehsan</name>
-            <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
         </author>
     </entry>
 </feed>
