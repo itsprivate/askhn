@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T14:08:12.693Z</updated>
+    <updated>2022-08-02T14:59:37.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何创建你的Gumroad教程产品的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32319287</id>
+        <link href="https://news.ycombinator.com/item?id=32319287"/>
+        <updated>2022-08-02T14:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you create your Gumroad tutorial product?]]></summary>
+        <author>
+            <name>necmttn</name>
+            <uri>https://news.ycombinator.com/user?id=necmttn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hetzner禁止了我，没有任何解释。我可以做什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ggeorgovassilis</name>
             <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计者是否有可用的资源 HTTPS://roadmap.sh/
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134477</id>
-        <link href="https://news.ycombinator.com/item?id=32134477"/>
-        <updated>2022-07-18T03:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a resource available for designers HTTPS://roadmap.sh/]]></summary>
-        <author>
-            <name>joddystreet</name>
-            <uri>https://news.ycombinator.com/user?id=joddystreet</uri>
         </author>
     </entry>
 </feed>
