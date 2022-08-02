@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T18:39:46.457Z</updated>
+    <updated>2022-08-02T18:57:34.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[轻量级Android/iOS游戏的游戏引擎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32322669</id>
+        <link href="https://news.ycombinator.com/item?id=32322669"/>
+        <updated>2022-08-02T18:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Game engines for lightweight Android/iOS games?]]></summary>
+        <author>
+            <name>abhad</name>
+            <uri>https://news.ycombinator.com/user?id=abhad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于数据和商业的资源清单，需要关注？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>PhilipWee</name>
             <uri>https://news.ycombinator.com/user?id=PhilipWee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为我的生产力SaaS吸引测试版用户？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32175329</id>
-        <link href="https://news.ycombinator.com/item?id=32175329"/>
-        <updated>2022-07-21T03:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to attract beta users for my productivity SaaS?]]></summary>
-        <author>
-            <name>zhangruinan</name>
-            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
         </author>
     </entry>
 </feed>
