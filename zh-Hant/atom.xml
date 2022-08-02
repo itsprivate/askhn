@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T17:48:37.946Z</updated>
+    <updated>2022-08-02T18:01:48.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人知道一個好的SIMD編程教程嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32322039</id>
+        <link href="https://news.ycombinator.com/item?id=32322039"/>
+        <updated>2022-08-02T17:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does someone know a good SIMD programming tutorial?]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[限制特定政治相關用途的許可？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32321873</id>
+        <link href="https://news.ycombinator.com/item?id=32321873"/>
+        <updated>2022-08-02T17:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: License for restricting specific political-related usage?]]></summary>
+        <author>
+            <name>Espionage724</name>
+            <uri>https://news.ycombinator.com/user?id=Espionage724</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰知道關於AMTD數字公司的情況嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術債務的利率是多少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32175184</id>
-        <link href="https://news.ycombinator.com/item?id=32175184"/>
-        <updated>2022-07-21T02:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the interest rate on technical debt?]]></summary>
-        <author>
-            <name>mikewarot</name>
-            <uri>https://news.ycombinator.com/user?id=mikewarot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家公司排除來自美國某些州的候選人是否合法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32174713</id>
-        <link href="https://news.ycombinator.com/item?id=32174713"/>
-        <updated>2022-07-21T01:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it legal for a company to exclude candidates from certain US states?]]></summary>
-        <author>
-            <name>gurjeet</name>
-            <uri>https://news.ycombinator.com/user?id=gurjeet</uri>
         </author>
     </entry>
 </feed>
