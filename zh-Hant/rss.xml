@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 02 Aug 2022 19:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 19:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最喜歡的音樂家是誰，他們最好的歌曲是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323283</link>
+            <guid>https://news.ycombinator.com/item?id=32323283</guid>
+            <pubDate>Tue, 02 Aug 2022 19:37:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who is your favorite musician and what is their best song?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何推銷我的API SaaS？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323260</link>
+            <guid>https://news.ycombinator.com/item?id=32323260</guid>
+            <pubDate>Tue, 02 Aug 2022 19:34:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to market my API SaaS?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是如何使用你的Raspberry Pi的？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177716</guid>
             <pubDate>Thu, 21 Jul 2022 10:36:50 GMT</pubDate>
             <description><![CDATA[Ask HN: How far could you get Coding without Google?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你認為軟件文檔的黃金標準是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32175771</link>
-            <guid>https://news.ycombinator.com/item?id=32175771</guid>
-            <pubDate>Thu, 21 Jul 2022 04:26:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you consider the gold standard for software documentation?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的雲計算預算中有多少部分是花在虛擬機上的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32175728</link>
-            <guid>https://news.ycombinator.com/item?id=32175728</guid>
-            <pubDate>Thu, 21 Jul 2022 04:17:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: What portion of your cloud budget is spent on VMs?]]></description>
         </item>
     </channel>
 </rss>
