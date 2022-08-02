@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T04:32:36.524Z</updated>
+    <updated>2022-08-02T05:41:35.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在社交媒体平台上管理身份？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32315075</id>
+        <link href="https://news.ycombinator.com/item?id=32315075"/>
+        <updated>2022-08-02T04:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Managing identity across Social Media platform?]]></summary>
+        <author>
+            <name>itsmefaz</name>
+            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有一种工具/产品能够对HTML元素进行评论？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>arunnanda</name>
             <uri>https://news.ycombinator.com/user?id=arunnanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[进行实时价格比较是可行的吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32128439</id>
-        <link href="https://news.ycombinator.com/item?id=32128439"/>
-        <updated>2022-07-17T16:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it feasible to have real-time price comparison?]]></summary>
-        <author>
-            <name>techwiz137</name>
-            <uri>https://news.ycombinator.com/user?id=techwiz137</uri>
         </author>
     </entry>
 </feed>
