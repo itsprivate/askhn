@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T13:58:14.113Z</updated>
+    <updated>2022-08-02T14:08:12.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hetzner禁止了我，沒有任何解釋。我可以做什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32318524</id>
+        <link href="https://news.ycombinator.com/item?id=32318524"/>
+        <updated>2022-08-02T13:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Hetzner banned me with no explanation. What can I do?]]></summary>
+        <author>
+            <name>ngalstyan4</name>
+            <uri>https://news.ycombinator.com/user?id=ngalstyan4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux發行版之間有哪些區別
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>joddystreet</name>
             <uri>https://news.ycombinator.com/user?id=joddystreet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何成為一家大型科技公司的首批50人之一的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134274</id>
-        <link href="https://news.ycombinator.com/item?id=32134274"/>
-        <updated>2022-07-18T03:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you become one of the first 50 at a major tech company?]]></summary>
-        <author>
-            <name>KennyFromIT</name>
-            <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
         </author>
     </entry>
 </feed>
