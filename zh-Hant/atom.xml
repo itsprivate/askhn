@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T10:37:28.589Z</updated>
+    <updated>2022-08-02T10:59:50.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最自豪的是製作了什麼簡單的工具或產品？ (2022)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317122</id>
+        <link href="https://news.ycombinator.com/item?id=32317122"/>
+        <updated>2022-08-02T10:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What simple tools or products are you most proud of making?(2022)]]></summary>
+        <author>
+            <name>rootsu</name>
+            <uri>https://news.ycombinator.com/user?id=rootsu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些行業或公司是嚴重的檢查表驅動？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317055</id>
+        <link href="https://news.ycombinator.com/item?id=32317055"/>
+        <updated>2022-08-02T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which industries or companies are heavily checklist driven?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何閱讀HN的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>stevenjgarner</name>
             <uri>https://news.ycombinator.com/user?id=stevenjgarner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舊的編程書籍是否有用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32130578</id>
-        <link href="https://news.ycombinator.com/item?id=32130578"/>
-        <updated>2022-07-17T19:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are older programming books useful?]]></summary>
-        <author>
-            <name>Iriien</name>
-            <uri>https://news.ycombinator.com/user?id=Iriien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何讓開發者嘗試你的產品（以非垃圾郵件的方式）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32130558</id>
-        <link href="https://news.ycombinator.com/item?id=32130558"/>
-        <updated>2022-07-17T19:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to get developers to try your product (in a non-spammy way)?]]></summary>
-        <author>
-            <name>zevir</name>
-            <uri>https://news.ycombinator.com/user?id=zevir</uri>
         </author>
     </entry>
 </feed>
