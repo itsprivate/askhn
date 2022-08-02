@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 02 Aug 2022 22:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 23:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是自行託管數據庫還是使用RDS這樣的管理服務？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32325298</link>
+            <guid>https://news.ycombinator.com/item?id=32325298</guid>
+            <pubDate>Tue, 02 Aug 2022 22:51:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you self-host databases or use a managed service like RDS?]]></description>
+        </item>
         <item>
             <title><![CDATA[怎麼能證明代碼是複製的而不是從頭開始寫的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32178895</guid>
             <pubDate>Thu, 21 Jul 2022 13:10:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Help? My YouTube channel was suspended]]></description>
-        </item>
-        <item>
-            <title><![CDATA[除了評論點之外，我們是否應該有一個 "總票數"？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32179011</link>
-            <guid>https://news.ycombinator.com/item?id=32179011</guid>
-            <pubDate>Thu, 21 Jul 2022 13:22:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should we have a “total votes” in addition to comment points?]]></description>
         </item>
     </channel>
 </rss>
