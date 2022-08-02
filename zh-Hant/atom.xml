@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T09:30:27.551Z</updated>
+    <updated>2022-08-02T09:47:45.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰在開除？(2022年7月、8月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316701</id>
+        <link href="https://news.ycombinator.com/item?id=32316701"/>
+        <updated>2022-08-02T09:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is firing? (July, August 2022)]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[膳食計劃應用程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>AhmedMujtaba</name>
             <uri>https://news.ycombinator.com/user?id=AhmedMujtaba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Pro 14'仍然值得用於開發？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32129957</id>
-        <link href="https://news.ycombinator.com/item?id=32129957"/>
-        <updated>2022-07-17T19:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: M1 Pro 14' still worth it for development?]]></summary>
-        <author>
-            <name>psikomanjak</name>
-            <uri>https://news.ycombinator.com/user?id=psikomanjak</uri>
         </author>
     </entry>
 </feed>
