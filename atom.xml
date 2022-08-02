@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-02T13:05:25.613Z</updated>
+    <updated>2022-08-02T13:58:14.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux发行版之间有哪些区别
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317952</id>
+        <link href="https://news.ycombinator.com/item?id=32317952"/>
+        <updated>2022-08-02T13:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the differences between Linux distros]]></summary>
+        <author>
+            <name>OpenSaned</name>
+            <uri>https://news.ycombinator.com/user?id=OpenSaned</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在印度购买一个体面的戴尔显示器？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>KennyFromIT</name>
             <uri>https://news.ycombinator.com/user?id=KennyFromIT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能找到合适的箱子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134036</id>
-        <link href="https://news.ycombinator.com/item?id=32134036"/>
-        <updated>2022-07-18T02:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I find the right crate?]]></summary>
-        <author>
-            <name>AndyJado</name>
-            <uri>https://news.ycombinator.com/user?id=AndyJado</uri>
         </author>
     </entry>
 </feed>
