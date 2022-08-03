@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T18:07:09.625Z</updated>
+    <updated>2022-08-03T18:37:34.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你真的还在使用你的第一种编程语言吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32335196</id>
+        <link href="https://news.ycombinator.com/item?id=32335196"/>
+        <updated>2022-08-03T18:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you honestly still use your first programming language?]]></summary>
+        <author>
+            <name>shreythecray</name>
+            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些尊重隐私的移动分析平台是合法的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32335117</id>
+        <link href="https://news.ycombinator.com/item?id=32335117"/>
+        <updated>2022-08-03T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What privacy respecting mobile analytics platforms are legit?]]></summary>
+        <author>
+            <name>redwoolf</name>
+            <uri>https://news.ycombinator.com/user?id=redwoolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道一个好的MySQL复制*故障恢复*教程吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ellis0n</name>
             <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作或副业中使用什么软件设计模式？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32188263</id>
-        <link href="https://news.ycombinator.com/item?id=32188263"/>
-        <updated>2022-07-22T03:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What software design patterns do you use in your work or side projects?]]></summary>
-        <author>
-            <name>kumarvvr</name>
-            <uri>https://news.ycombinator.com/user?id=kumarvvr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了forths之外，还有没有其他交互式的、可扩展的低级别pl？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32187962</id>
-        <link href="https://news.ycombinator.com/item?id=32187962"/>
-        <updated>2022-07-22T02:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any other interactive n extensible low level pl except forths]]></summary>
-        <author>
-            <name>ArtixFox</name>
-            <uri>https://news.ycombinator.com/user?id=ArtixFox</uri>
         </author>
     </entry>
 </feed>

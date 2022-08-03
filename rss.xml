@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 18:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 18:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你真的还在使用你的第一种编程语言吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335196</link>
+            <guid>https://news.ycombinator.com/item?id=32335196</guid>
+            <pubDate>Wed, 03 Aug 2022 18:25:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you honestly still use your first programming language?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哪些尊重隐私的移动分析平台是合法的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335117</link>
+            <guid>https://news.ycombinator.com/item?id=32335117</guid>
+            <pubDate>Wed, 03 Aug 2022 18:16:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: What privacy respecting mobile analytics platforms are legit?]]></description>
+        </item>
         <item>
             <title><![CDATA[你知道一个好的MySQL复制*故障恢复*教程吗？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32188611</guid>
             <pubDate>Fri, 22 Jul 2022 04:44:41 GMT</pubDate>
             <description><![CDATA[Ask HN: New programming language, what problem to solve?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在工作或副业中使用什么软件设计模式？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32188263</link>
-            <guid>https://news.ycombinator.com/item?id=32188263</guid>
-            <pubDate>Fri, 22 Jul 2022 03:43:44 GMT</pubDate>
-            <description><![CDATA[Ask HN: What software design patterns do you use in your work or side projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[除了forths之外，还有没有其他交互式的、可扩展的低级别pl？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32187962</link>
-            <guid>https://news.ycombinator.com/item?id=32187962</guid>
-            <pubDate>Fri, 22 Jul 2022 02:59:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there any other interactive n extensible low level pl except forths]]></description>
         </item>
     </channel>
 </rss>
