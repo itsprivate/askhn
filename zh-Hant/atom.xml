@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T06:01:37.751Z</updated>
+    <updated>2022-08-03T06:36:12.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼YouTube的質量會急劇下降？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328207</id>
+        <link href="https://news.ycombinator.com/item?id=32328207"/>
+        <updated>2022-08-03T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has quality of YouTube reduced drastically?]]></summary>
+        <author>
+            <name>Exorust</name>
+            <uri>https://news.ycombinator.com/user?id=Exorust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助，我被淹沒在JavaScript中了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ironmagma</name>
             <uri>https://news.ycombinator.com/user?id=ironmagma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這些[ruby|orange]institute.com調查郵件的背後是否有騙局？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180789</id>
-        <link href="https://news.ycombinator.com/item?id=32180789"/>
-        <updated>2022-07-21T15:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a scam behind these [ruby|orange]institute.com survey emails?]]></summary>
-        <author>
-            <name>nlnn</name>
-            <uri>https://news.ycombinator.com/user?id=nlnn</uri>
         </author>
     </entry>
 </feed>
