@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 18:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 19:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[跟踪GitHub上的活动--提交来自哪里
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335646</link>
+            <guid>https://news.ycombinator.com/item?id=32335646</guid>
+            <pubDate>Wed, 03 Aug 2022 19:11:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: Tracking activity on GitHub – where commits come from]]></description>
+        </item>
+        <item>
+            <title><![CDATA[虚拟机和容器的监控解决方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335502</link>
+            <guid>https://news.ycombinator.com/item?id=32335502</guid>
+            <pubDate>Wed, 03 Aug 2022 18:58:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Monitoring Solution for VMs and Containers]]></description>
+        </item>
         <item>
             <title><![CDATA[你真的还在使用你的第一种编程语言吗？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32189388</guid>
             <pubDate>Fri, 22 Jul 2022 07:09:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Can you browse the web via taxonomy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[侧面项目的迭代？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32188691</link>
-            <guid>https://news.ycombinator.com/item?id=32188691</guid>
-            <pubDate>Fri, 22 Jul 2022 05:01:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: Iterating on Side Projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的编程语言，要解决什么问题？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32188611</link>
-            <guid>https://news.ycombinator.com/item?id=32188611</guid>
-            <pubDate>Fri, 22 Jul 2022 04:44:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: New programming language, what problem to solve?]]></description>
         </item>
     </channel>
 </rss>
