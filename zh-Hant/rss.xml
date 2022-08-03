@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 16:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 18:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你知道一個好的MySQL複製*故障恢復*教程嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32334873</link>
+            <guid>https://news.ycombinator.com/item?id=32334873</guid>
+            <pubDate>Wed, 03 Aug 2022 17:53:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you know a good MySQL replication *failover* tutorial?]]></description>
+        </item>
         <item>
             <title><![CDATA[基於目標的遊戲中的得分是否因限制遊戲性而使其變得更糟？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32187962</guid>
             <pubDate>Fri, 22 Jul 2022 02:59:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there any other interactive n extensible low level pl except forths]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在學習什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32187745</link>
-            <guid>https://news.ycombinator.com/item?id=32187745</guid>
-            <pubDate>Fri, 22 Jul 2022 02:24:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: What Are You Learning?]]></description>
         </item>
     </channel>
 </rss>
