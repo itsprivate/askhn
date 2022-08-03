@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T22:49:56.899Z</updated>
+    <updated>2022-08-03T23:01:32.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你创造了什么，但没有人在那里，它是否存在？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337413</id>
+        <link href="https://news.ycombinator.com/item?id=32337413"/>
+        <updated>2022-08-03T22:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you created something, but nobody was there, does it exist?]]></summary>
+        <author>
+            <name>b20000</name>
+            <uri>https://news.ycombinator.com/user?id=b20000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找到一个爱好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337409</id>
+        <link href="https://news.ycombinator.com/item?id=32337409"/>
+        <updated>2022-08-03T22:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Find a Hobby?]]></summary>
+        <author>
+            <name>py4</name>
+            <uri>https://news.ycombinator.com/user?id=py4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳用户体验设计课程？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发表无稽之谈的CG文章的目的是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190591</id>
-        <link href="https://news.ycombinator.com/item?id=32190591"/>
-        <updated>2022-07-22T10:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Is the Purpose of Publishing a Nonsense CG Article?]]></summary>
-        <author>
-            <name>soupysoupysoup</name>
-            <uri>https://news.ycombinator.com/user?id=soupysoupysoup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后端。在开发后端时，你会问自己哪些问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190563</id>
-        <link href="https://news.ycombinator.com/item?id=32190563"/>
-        <updated>2022-07-22T10:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Back end. Which questions you ask yourself while developing back end?]]></summary>
-        <author>
-            <name>omitmyname</name>
-            <uri>https://news.ycombinator.com/user?id=omitmyname</uri>
         </author>
     </entry>
 </feed>
