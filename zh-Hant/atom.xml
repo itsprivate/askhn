@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T09:49:53.500Z</updated>
+    <updated>2022-08-03T10:35:31.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那個Hashnode怎麼會是免費的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329788</id>
+        <link href="https://news.ycombinator.com/item?id=32329788"/>
+        <updated>2022-08-03T10:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How come that Hashnode is free?]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以去哪裡認識有趣的人？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329386</id>
+        <link href="https://news.ycombinator.com/item?id=32329386"/>
+        <updated>2022-08-03T09:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I go to meet interesting people?]]></summary>
+        <author>
+            <name>throwaway27922</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway27922</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何管理你的任務？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>birudeghi</name>
             <uri>https://news.ycombinator.com/user?id=birudeghi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你與中介公司/自由職業者有積極的經驗嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183044</id>
-        <link href="https://news.ycombinator.com/item?id=32183044"/>
-        <updated>2022-07-21T18:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did you have a positive experience with agencies/freelancers?]]></summary>
-        <author>
-            <name>athosblade</name>
-            <uri>https://news.ycombinator.com/user?id=athosblade</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理跨微服務的共享代碼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182638</id>
-        <link href="https://news.ycombinator.com/item?id=32182638"/>
-        <updated>2022-07-21T18:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage shared code across microservices?]]></summary>
-        <author>
-            <name>sruffatti</name>
-            <uri>https://news.ycombinator.com/user?id=sruffatti</uri>
         </author>
     </entry>
 </feed>
