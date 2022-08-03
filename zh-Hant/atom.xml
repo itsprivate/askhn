@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T20:52:39.576Z</updated>
+    <updated>2022-08-03T21:59:47.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[預測作為REST API的替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337042</id>
+        <link href="https://news.ycombinator.com/item?id=32337042"/>
+        <updated>2022-08-03T21:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Projections as an Alternative to REST APIs]]></summary>
+        <author>
+            <name>xky</name>
+            <uri>https://news.ycombinator.com/user?id=xky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰擁有或能夠製作我夢想的iOS任務應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32336988</id>
+        <link href="https://news.ycombinator.com/item?id=32336988"/>
+        <updated>2022-08-03T21:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who Has or Can make my dream iOS Task app?]]></summary>
+        <author>
+            <name>artur_makly</name>
+            <uri>https://news.ycombinator.com/user?id=artur_makly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量化金融開發運營棧？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誤入歧途的信用卡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190109</id>
-        <link href="https://news.ycombinator.com/item?id=32190109"/>
-        <updated>2022-07-22T09:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Credit Cards Gone Wrong]]></summary>
-        <author>
-            <name>bcnhub1</name>
-            <uri>https://news.ycombinator.com/user?id=bcnhub1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於一個數據量大的引導性產品，你會使用哪些工具/服務？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190027</id>
-        <link href="https://news.ycombinator.com/item?id=32190027"/>
-        <updated>2022-07-22T09:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools/services would you use for a data-heavy bootstrapped product?]]></summary>
-        <author>
-            <name>jlei523</name>
-            <uri>https://news.ycombinator.com/user?id=jlei523</uri>
         </author>
     </entry>
 </feed>
