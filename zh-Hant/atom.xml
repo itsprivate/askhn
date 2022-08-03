@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T13:03:40.278Z</updated>
+    <updated>2022-08-03T13:58:06.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有Gmail的DNS解析器發生故障？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331547</id>
+        <link href="https://news.ycombinator.com/item?id=32331547"/>
+        <updated>2022-08-03T13:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a Gmail DNS resolver outage happening?]]></summary>
+        <author>
+            <name>pmlnr</name>
+            <uri>https://news.ycombinator.com/user?id=pmlnr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的軟件棧選擇是否合理？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331461</id>
+        <link href="https://news.ycombinator.com/item?id=32331461"/>
+        <updated>2022-08-03T13:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is my software stack choice sound?]]></summary>
+        <author>
+            <name>m33k44</name>
+            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在代碼審查中成功地吹毛求疵？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331234</id>
+        <link href="https://news.ycombinator.com/item?id=32331234"/>
+        <updated>2022-08-03T13:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you successfully nitpick during a code review?]]></summary>
+        <author>
+            <name>thrownit_away</name>
+            <uri>https://news.ycombinator.com/user?id=thrownit_away</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將電子表格轉換為應用程序的最簡單的低代碼方法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331063</id>
+        <link href="https://news.ycombinator.com/item?id=32331063"/>
+        <updated>2022-08-03T12:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Easiest low-code way to convert spreadsheet to app?]]></summary>
+        <author>
+            <name>hhthrowaway1230</name>
+            <uri>https://news.ycombinator.com/user?id=hhthrowaway1230</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有一家大公司試圖與YouTube競爭？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>faizshah</name>
             <uri>https://news.ycombinator.com/user?id=faizshah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果出現半導體短缺，雲計算會怎樣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185279</id>
-        <link href="https://news.ycombinator.com/item?id=32185279"/>
-        <updated>2022-07-21T21:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What happens to the cloud if there's a semiconductor shortage?]]></summary>
-        <author>
-            <name>PakistaniDenzel</name>
-            <uri>https://news.ycombinator.com/user?id=PakistaniDenzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[進化的操作系統？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184721</id>
-        <link href="https://news.ycombinator.com/item?id=32184721"/>
-        <updated>2022-07-21T20:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Evolutionary Operating Systems?]]></summary>
-        <author>
-            <name>pc2g4d</name>
-            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠程實習/初級職位容易找到嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184658</id>
-        <link href="https://news.ycombinator.com/item?id=32184658"/>
-        <updated>2022-07-21T20:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Remote Internships/Junior Positions Easy to Find?]]></summary>
-        <author>
-            <name>OulaX</name>
-            <uri>https://news.ycombinator.com/user?id=OulaX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對創始人來說，收購之後是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184474</id>
-        <link href="https://news.ycombinator.com/item?id=32184474"/>
-        <updated>2022-07-21T20:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's After Acquisition for a Founder?]]></summary>
-        <author>
-            <name>eaglehead</name>
-            <uri>https://news.ycombinator.com/user?id=eaglehead</uri>
         </author>
     </entry>
 </feed>

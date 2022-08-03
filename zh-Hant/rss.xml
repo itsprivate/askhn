@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 13:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 13:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有Gmail的DNS解析器發生故障？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331547</link>
+            <guid>https://news.ycombinator.com/item?id=32331547</guid>
+            <pubDate>Wed, 03 Aug 2022 13:42:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a Gmail DNS resolver outage happening?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的軟件棧選擇是否合理？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331461</link>
+            <guid>https://news.ycombinator.com/item?id=32331461</guid>
+            <pubDate>Wed, 03 Aug 2022 13:32:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is my software stack choice sound?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在代碼審查中成功地吹毛求疵？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331234</link>
+            <guid>https://news.ycombinator.com/item?id=32331234</guid>
+            <pubDate>Wed, 03 Aug 2022 13:11:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you successfully nitpick during a code review?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[將電子表格轉換為應用程序的最簡單的低代碼方法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331063</link>
+            <guid>https://news.ycombinator.com/item?id=32331063</guid>
+            <pubDate>Wed, 03 Aug 2022 12:56:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Easiest low-code way to convert spreadsheet to app?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼沒有一家大公司試圖與YouTube競爭？
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32185565</guid>
             <pubDate>Thu, 21 Jul 2022 21:45:19 GMT</pubDate>
             <description><![CDATA[Ask HN: Tool to graph dependencies between code?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果出現半導體短缺，雲計算會怎樣？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32185279</link>
-            <guid>https://news.ycombinator.com/item?id=32185279</guid>
-            <pubDate>Thu, 21 Jul 2022 21:24:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: What happens to the cloud if there's a semiconductor shortage?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[進化的操作系統？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32184721</link>
-            <guid>https://news.ycombinator.com/item?id=32184721</guid>
-            <pubDate>Thu, 21 Jul 2022 20:40:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: Evolutionary Operating Systems?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[遠程實習/初級職位容易找到嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32184658</link>
-            <guid>https://news.ycombinator.com/item?id=32184658</guid>
-            <pubDate>Thu, 21 Jul 2022 20:35:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are Remote Internships/Junior Positions Easy to Find?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對創始人來說，收購之後是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32184474</link>
-            <guid>https://news.ycombinator.com/item?id=32184474</guid>
-            <pubDate>Thu, 21 Jul 2022 20:20:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's After Acquisition for a Founder?]]></description>
         </item>
     </channel>
 </rss>
