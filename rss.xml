@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 02:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帮助，我被淹没在JavaScript中了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328030</link>
+            <guid>https://news.ycombinator.com/item?id=32328030</guid>
+            <pubDate>Wed, 03 Aug 2022 05:40:47 GMT</pubDate>
+            <description><![CDATA[Ask HN: Help, I'm Drowning in JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在2022年学习函数式编程？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328011</link>
+            <guid>https://news.ycombinator.com/item?id=32328011</guid>
+            <pubDate>Wed, 03 Aug 2022 05:37:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Learning Functional Programming in 2022?]]></description>
+        </item>
         <item>
             <title><![CDATA[HN的死亡拥抱是什么样子的？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32180789</guid>
             <pubDate>Thu, 21 Jul 2022 15:47:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Is there a scam behind these [ruby|orange]institute.com survey emails?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何以非root用户身份运行你的容器镜像？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32180622</link>
-            <guid>https://news.ycombinator.com/item?id=32180622</guid>
-            <pubDate>Thu, 21 Jul 2022 15:33:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you run your container image as non-root user?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么办法可以修复新的谷歌分析用户界面吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32180377</link>
-            <guid>https://news.ycombinator.com/item?id=32180377</guid>
-            <pubDate>Thu, 21 Jul 2022 15:14:57 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there any way to fix the new Google Analytics UI?]]></description>
         </item>
     </channel>
 </rss>

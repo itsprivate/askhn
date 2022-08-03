@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T02:41:50.550Z</updated>
+    <updated>2022-08-03T06:01:37.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助，我被淹没在JavaScript中了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328030</id>
+        <link href="https://news.ycombinator.com/item?id=32328030"/>
+        <updated>2022-08-03T05:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Help, I'm Drowning in JavaScript]]></summary>
+        <author>
+            <name>casual-dev</name>
+            <uri>https://news.ycombinator.com/user?id=casual-dev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年学习函数式编程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328011</id>
+        <link href="https://news.ycombinator.com/item?id=32328011"/>
+        <updated>2022-08-03T05:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learning Functional Programming in 2022?]]></summary>
+        <author>
+            <name>low_tech_punk</name>
+            <uri>https://news.ycombinator.com/user?id=low_tech_punk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN的死亡拥抱是什么样子的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nlnn</name>
             <uri>https://news.ycombinator.com/user?id=nlnn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何以非root用户身份运行你的容器镜像？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180622</id>
-        <link href="https://news.ycombinator.com/item?id=32180622"/>
-        <updated>2022-07-21T15:33:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you run your container image as non-root user?]]></summary>
-        <author>
-            <name>dev_0</name>
-            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么办法可以修复新的谷歌分析用户界面吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180377</id>
-        <link href="https://news.ycombinator.com/item?id=32180377"/>
-        <updated>2022-07-21T15:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any way to fix the new Google Analytics UI?]]></summary>
-        <author>
-            <name>debacle</name>
-            <uri>https://news.ycombinator.com/user?id=debacle</uri>
         </author>
     </entry>
 </feed>
