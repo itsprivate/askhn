@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T14:07:59.858Z</updated>
+    <updated>2022-08-03T14:41:04.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YC申请的重点是否有变化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332181</id>
+        <link href="https://news.ycombinator.com/item?id=32332181"/>
+        <updated>2022-08-03T14:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has the YC application changed in focus?]]></summary>
+        <author>
+            <name>lowkey_</name>
+            <uri>https://news.ycombinator.com/user?id=lowkey_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你和谁谈系统架构和设计？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331825</id>
+        <link href="https://news.ycombinator.com/item?id=32331825"/>
+        <updated>2022-08-03T14:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who do you talk to about system architecture and design?]]></summary>
+        <author>
+            <name>greggyb</name>
+            <uri>https://news.ycombinator.com/user?id=greggyb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对于初学者的编程语言，哪种坐标系更好？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>codingclaws</name>
             <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道哪些 "酷 "但晦涩难懂的数据结构？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186203</id>
-        <link href="https://news.ycombinator.com/item?id=32186203"/>
-        <updated>2022-07-21T22:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some 'cool' but obscure data structures you know about?]]></summary>
-        <author>
-            <name>Uptrenda</name>
-            <uri>https://news.ycombinator.com/user?id=Uptrenda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该重新谈判我的股权补偿吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185567</id>
-        <link href="https://news.ycombinator.com/item?id=32185567"/>
-        <updated>2022-07-21T21:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I re-negotiate my equity comp?]]></summary>
-        <author>
-            <name>taway_314159</name>
-            <uri>https://news.ycombinator.com/user?id=taway_314159</uri>
         </author>
     </entry>
 </feed>
