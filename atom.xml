@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T14:41:04.527Z</updated>
+    <updated>2022-08-03T15:38:56.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何发现语言和框架的更新？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332786</id>
+        <link href="https://news.ycombinator.com/item?id=32332786"/>
+        <updated>2022-08-03T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you find out about language and framework updates?]]></summary>
+        <author>
+            <name>nineplay</name>
+            <uri>https://news.ycombinator.com/user?id=nineplay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YC申请的重点是否有变化？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zerr</name>
             <uri>https://news.ycombinator.com/user?id=zerr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的气候变化生存战略是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186240</id>
-        <link href="https://news.ycombinator.com/item?id=32186240"/>
-        <updated>2022-07-21T22:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your climate change survival strategy?]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
         </author>
     </entry>
 </feed>
