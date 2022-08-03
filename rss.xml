@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:59:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Gmail将所有来自Tor项目的邮件都归为垃圾邮件？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32330489</link>
+            <guid>https://news.ycombinator.com/item?id=32330489</guid>
+            <pubDate>Wed, 03 Aug 2022 11:54:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Gmail Classifies All Email from the Tor Project as Spam]]></description>
+        </item>
         <item>
             <title><![CDATA[为婴儿/儿童设置平板电脑？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32183401</guid>
             <pubDate>Thu, 21 Jul 2022 19:01:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Rusty at math, best applied books and materials to relearn?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你使用的是什么GO网络框架？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32183168</link>
-            <guid>https://news.ycombinator.com/item?id=32183168</guid>
-            <pubDate>Thu, 21 Jul 2022 18:43:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: What GO web framework do you use?]]></description>
         </item>
     </channel>
 </rss>

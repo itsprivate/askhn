@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T11:25:58.743Z</updated>
+    <updated>2022-08-03T11:59:10.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Gmail將所有來自Tor項目的郵件都歸為垃圾郵件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330489</id>
+        <link href="https://news.ycombinator.com/item?id=32330489"/>
+        <updated>2022-08-03T11:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Gmail Classifies All Email from the Tor Project as Spam]]></summary>
+        <author>
+            <name>gostsamo</name>
+            <uri>https://news.ycombinator.com/user?id=gostsamo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為嬰兒/兒童設置平板電腦？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pbowyer</name>
             <uri>https://news.ycombinator.com/user?id=pbowyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用的是什麼GO網絡框架？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183168</id>
-        <link href="https://news.ycombinator.com/item?id=32183168"/>
-        <updated>2022-07-21T18:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What GO web framework do you use?]]></summary>
-        <author>
-            <name>umen</name>
-            <uri>https://news.ycombinator.com/user?id=umen</uri>
         </author>
     </entry>
 </feed>
