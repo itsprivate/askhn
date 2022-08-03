@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T23:01:32.179Z</updated>
+    <updated>2022-08-03T23:31:37.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果沒有Bejeweled這樣的先驅，Candy Crush會失敗嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337550</id>
+        <link href="https://news.ycombinator.com/item?id=32337550"/>
+        <updated>2022-08-03T23:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would Candy Crush have failed without a precursor like Bejeweled?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你創造了什麼，但沒有人在那裡，它是否存在？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rco8786</name>
             <uri>https://news.ycombinator.com/user?id=rco8786</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自Hacker News的高效和有效的信息檢索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190636</id>
-        <link href="https://news.ycombinator.com/item?id=32190636"/>
-        <updated>2022-07-22T10:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Efficient and Effective Information Retrieval from Hacker News]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
         </author>
     </entry>
 </feed>
