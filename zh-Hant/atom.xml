@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T19:59:31.373Z</updated>
+    <updated>2022-08-03T20:52:39.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[量化金融開發運營棧？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32336221</id>
+        <link href="https://news.ycombinator.com/item?id=32336221"/>
+        <updated>2022-08-03T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Quant finance dev ops stack?]]></summary>
+        <author>
+            <name>excitednumber</name>
+            <uri>https://news.ycombinator.com/user?id=excitednumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰提供3D打印結構（非住宅）？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jlei523</name>
             <uri>https://news.ycombinator.com/user?id=jlei523</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作中使用什麼工具來保持你的圖像是最新的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32189615</id>
-        <link href="https://news.ycombinator.com/item?id=32189615"/>
-        <updated>2022-07-22T07:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tools do you use at work to keep your images up to date?]]></summary>
-        <author>
-            <name>lucidhacker</name>
-            <uri>https://news.ycombinator.com/user?id=lucidhacker</uri>
         </author>
     </entry>
 </feed>
