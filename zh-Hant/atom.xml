@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T09:03:01.203Z</updated>
+    <updated>2022-08-03T09:33:28.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我曾經是一名工程師，但商業分析師把我變成了IFTTT？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329451</id>
+        <link href="https://news.ycombinator.com/item?id=32329451"/>
+        <updated>2022-08-03T09:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I used to be an engineer, but business analysts turned me into IFTTT?]]></summary>
+        <author>
+            <name>unknownsky</name>
+            <uri>https://news.ycombinator.com/user?id=unknownsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編譯員工作中最常見的技術棧是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>intrasight</name>
             <uri>https://news.ycombinator.com/user?id=intrasight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌是想讓Safari瀏覽器的用戶感到沮喪嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182390</id>
-        <link href="https://news.ycombinator.com/item?id=32182390"/>
-        <updated>2022-07-21T17:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Google trying to frustrate Safari users?]]></summary>
-        <author>
-            <name>agitator</name>
-            <uri>https://news.ycombinator.com/user?id=agitator</uri>
         </author>
     </entry>
 </feed>
