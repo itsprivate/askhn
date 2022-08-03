@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T19:47:36.507Z</updated>
+    <updated>2022-08-03T19:59:31.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁提供3D打印结构（非住宅）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32335985</id>
+        <link href="https://news.ycombinator.com/item?id=32335985"/>
+        <updated>2022-08-03T19:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who offers 3D printed structures(not homes)?]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跟踪GitHub上的活动--提交来自哪里
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lucidhacker</name>
             <uri>https://news.ycombinator.com/user?id=lucidhacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能通过分类法浏览网络吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32189388</id>
-        <link href="https://news.ycombinator.com/item?id=32189388"/>
-        <updated>2022-07-22T07:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can you browse the web via taxonomy?]]></summary>
-        <author>
-            <name>duncanphillips</name>
-            <uri>https://news.ycombinator.com/user?id=duncanphillips</uri>
         </author>
     </entry>
 </feed>
