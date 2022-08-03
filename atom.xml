@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-03T13:58:06.208Z</updated>
+    <updated>2022-08-03T14:07:59.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于初学者的编程语言，哪种坐标系更好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331682</id>
+        <link href="https://news.ycombinator.com/item?id=32331682"/>
+        <updated>2022-08-03T13:54:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which coordinate system is better for a beginners programming language?]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有Gmail的DNS解析器发生故障？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>taway_314159</name>
             <uri>https://news.ycombinator.com/user?id=taway_314159</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绘制代码之间依赖关系的工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185565</id>
-        <link href="https://news.ycombinator.com/item?id=32185565"/>
-        <updated>2022-07-21T21:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tool to graph dependencies between code?]]></summary>
-        <author>
-            <name>faizshah</name>
-            <uri>https://news.ycombinator.com/user?id=faizshah</uri>
         </author>
     </entry>
 </feed>

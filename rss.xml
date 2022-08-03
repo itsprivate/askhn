@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 03 Aug 2022 13:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 14:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对于初学者的编程语言，哪种坐标系更好？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331682</link>
+            <guid>https://news.ycombinator.com/item?id=32331682</guid>
+            <pubDate>Wed, 03 Aug 2022 13:54:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which coordinate system is better for a beginners programming language?]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有Gmail的DNS解析器发生故障？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32185567</guid>
             <pubDate>Thu, 21 Jul 2022 21:45:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Should I re-negotiate my equity comp?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[绘制代码之间依赖关系的工具？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32185565</link>
-            <guid>https://news.ycombinator.com/item?id=32185565</guid>
-            <pubDate>Thu, 21 Jul 2022 21:45:19 GMT</pubDate>
-            <description><![CDATA[Ask HN: Tool to graph dependencies between code?]]></description>
         </item>
     </channel>
 </rss>
