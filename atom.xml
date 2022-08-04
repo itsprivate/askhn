@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T09:04:57.732Z</updated>
+    <updated>2022-08-04T09:30:21.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在国外度假时，你都做些什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340879</id>
+        <link href="https://news.ycombinator.com/item?id=32340879"/>
+        <updated>2022-08-04T09:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you do when vacationing abroad?]]></summary>
+        <author>
+            <name>hicallmeal</name>
+            <uri>https://news.ycombinator.com/user?id=hicallmeal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN是否有一个黑暗模式的设置？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pmanning11</name>
             <uri>https://news.ycombinator.com/user?id=pmanning11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持续机器学习中最大的问题有哪些？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193091</id>
-        <link href="https://news.ycombinator.com/item?id=32193091"/>
-        <updated>2022-07-22T15:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some of the biggest problems in continuous machine learning?]]></summary>
-        <author>
-            <name>Nevin1901</name>
-            <uri>https://news.ycombinator.com/user?id=Nevin1901</uri>
         </author>
     </entry>
 </feed>
