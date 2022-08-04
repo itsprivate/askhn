@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T20:37:50.979Z</updated>
+    <updated>2022-08-04T20:49:01.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你将如何使这个网站盈利？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32348047</id>
+        <link href="https://news.ycombinator.com/item?id=32348047"/>
+        <updated>2022-08-04T20:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you monetise this site?]]></summary>
+        <author>
+            <name>thepaulmcbride</name>
+            <uri>https://news.ycombinator.com/user?id=thepaulmcbride</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我想要一个VR头盔。我应该坚持到寒武纪项目吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jqpabc123</name>
             <uri>https://news.ycombinator.com/user?id=jqpabc123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么是高科技？为什么是创业公司？如何找到我的使命？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202485</id>
-        <link href="https://news.ycombinator.com/item?id=32202485"/>
-        <updated>2022-07-23T11:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why high-tech? Why startup? How to find my calling?]]></summary>
-        <author>
-            <name>SMAAART</name>
-            <uri>https://news.ycombinator.com/user?id=SMAAART</uri>
         </author>
     </entry>
 </feed>
