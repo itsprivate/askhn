@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T09:30:21.993Z</updated>
+    <updated>2022-08-04T09:48:30.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對arc42有什麼經驗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340967</id>
+        <link href="https://news.ycombinator.com/item?id=32340967"/>
+        <updated>2022-08-04T09:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What experiences do you have with arc42?]]></summary>
+        <author>
+            <name>jnxx</name>
+            <uri>https://news.ycombinator.com/user?id=jnxx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在國外度假時，你都做些什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>soco</name>
             <uri>https://news.ycombinator.com/user?id=soco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠程工作的功勞？我做了一個應用程序，公司認為是我的老闆做的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193016</id>
-        <link href="https://news.ycombinator.com/item?id=32193016"/>
-        <updated>2022-07-22T15:28:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Remote work credit? I built an app that the company thinks my boss built]]></summary>
-        <author>
-            <name>pmanning11</name>
-            <uri>https://news.ycombinator.com/user?id=pmanning11</uri>
         </author>
     </entry>
 </feed>
