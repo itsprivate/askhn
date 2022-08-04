@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T13:55:53.673Z</updated>
+    <updated>2022-08-04T14:05:53.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我對上傳到雲供應商的數據有任何權利嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342802</id>
+        <link href="https://news.ycombinator.com/item?id=32342802"/>
+        <updated>2022-08-04T13:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do I have any rights to data uploaded to cloud providers?]]></summary>
+        <author>
+            <name>johntiger1</name>
+            <uri>https://news.ycombinator.com/user?id=johntiger1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你創業失敗的原因是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jocatalin</name>
             <uri>https://news.ycombinator.com/user?id=jocatalin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活中的儀表板是什麼樣子的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195310</id>
-        <link href="https://news.ycombinator.com/item?id=32195310"/>
-        <updated>2022-07-22T18:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What luke a dashboard for life look like?]]></summary>
-        <author>
-            <name>lifeisstillgood</name>
-            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
         </author>
     </entry>
 </feed>
