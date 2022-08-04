@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T11:26:45.209Z</updated>
+    <updated>2022-08-04T13:04:29.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個開發者，如何做到獨立？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342058</id>
+        <link href="https://news.ycombinator.com/item?id=32342058"/>
+        <updated>2022-08-04T12:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Be Independent as a Developer?]]></summary>
+        <author>
+            <name>pcauthorn</name>
+            <uri>https://news.ycombinator.com/user?id=pcauthorn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你會使用一個只能當面重置的電子郵件服務嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341987</id>
+        <link href="https://news.ycombinator.com/item?id=32341987"/>
+        <updated>2022-08-04T12:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you use an email service that can only be reset in person?]]></summary>
+        <author>
+            <name>trh0awayman</name>
+            <uri>https://news.ycombinator.com/user?id=trh0awayman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼HN帖子讓你賺錢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341922</id>
+        <link href="https://news.ycombinator.com/item?id=32341922"/>
+        <updated>2022-08-04T12:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What HN post made you money?]]></summary>
+        <author>
+            <name>cetaphil</name>
+            <uri>https://news.ycombinator.com/user?id=cetaphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何學習寫作的？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>amrrs</name>
             <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的休閒讀物是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194644</id>
-        <link href="https://news.ycombinator.com/item?id=32194644"/>
-        <updated>2022-07-22T17:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are you reading for leisure?]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有可能剝離SSL並向本地瀏覽器提供純HTTP？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194558</id>
-        <link href="https://news.ycombinator.com/item?id=32194558"/>
-        <updated>2022-07-22T17:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to strip SSL and serve plain HTTP to local browsers?]]></summary>
-        <author>
-            <name>forgotmypw17</name>
-            <uri>https://news.ycombinator.com/user?id=forgotmypw17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝寶駁回了我的主張，說我沒有提供證據（然而我提供了）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194373</id>
-        <link href="https://news.ycombinator.com/item?id=32194373"/>
-        <updated>2022-07-22T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)]]></summary>
-        <author>
-            <name>fer</name>
-            <uri>https://news.ycombinator.com/user?id=fer</uri>
         </author>
     </entry>
 </feed>
