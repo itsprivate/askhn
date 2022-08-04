@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T09:48:30.231Z</updated>
+    <updated>2022-08-04T10:35:30.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客新聞》拯救了多少個極客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341164</id>
+        <link href="https://news.ycombinator.com/item?id=32341164"/>
+        <updated>2022-08-04T10:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many geeks has Hacker News saved?]]></summary>
+        <author>
+            <name>funthree</name>
+            <uri>https://news.ycombinator.com/user?id=funthree</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在工作中使用類似GPT-3的模型嗎？你如何驗證它們的輸出？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341073</id>
+        <link href="https://news.ycombinator.com/item?id=32341073"/>
+        <updated>2022-08-04T10:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use GPT-3 like models at work? How do you validate their output?]]></summary>
+        <author>
+            <name>hollowpython</name>
+            <uri>https://news.ycombinator.com/user?id=hollowpython</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對arc42有什麼經驗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>shreythecray</name>
             <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的工具是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193598</id>
-        <link href="https://news.ycombinator.com/item?id=32193598"/>
-        <updated>2022-07-22T16:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's Your Favorite Tool?]]></summary>
-        <author>
-            <name>cbames89</name>
-            <uri>https://news.ycombinator.com/user?id=cbames89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tumblr上的賬戶被終止，零聯繫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193583</id>
-        <link href="https://news.ycombinator.com/item?id=32193583"/>
-        <updated>2022-07-22T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Account terminated on Tumblr, zero contact]]></summary>
-        <author>
-            <name>soco</name>
-            <uri>https://news.ycombinator.com/user?id=soco</uri>
         </author>
     </entry>
 </feed>
