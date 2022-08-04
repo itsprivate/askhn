@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN是否有一個黑暗模式的設置？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340636</link>
+            <guid>https://news.ycombinator.com/item?id=32340636</guid>
+            <pubDate>Thu, 04 Aug 2022 08:43:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a darkmode setting for HN?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在使用AWS MFA時有問題嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32193091</guid>
             <pubDate>Fri, 22 Jul 2022 15:34:08 GMT</pubDate>
             <description><![CDATA[Ask HN: What are some of the biggest problems in continuous machine learning?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vercel/Netlify/Cloudflare是否在推動SSR/ESR以增加其收入？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32193085</link>
-            <guid>https://news.ycombinator.com/item?id=32193085</guid>
-            <pubDate>Fri, 22 Jul 2022 15:33:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are Vercel/Netlify/Cloudflare pushing SSR/ESR to increase their revenue?]]></description>
         </item>
     </channel>
 </rss>
