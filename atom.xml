@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T21:53:01.947Z</updated>
+    <updated>2022-08-04T22:50:00.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么所有东西都是紫色的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349158</id>
+        <link href="https://news.ycombinator.com/item?id=32349158"/>
+        <updated>2022-08-04T22:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Everything Is Purple?]]></summary>
+        <author>
+            <name>sebastianconcpt</name>
+            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你怎么做才能让周五休息？(每周4天工作制)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349099</id>
+        <link href="https://news.ycombinator.com/item?id=32349099"/>
+        <updated>2022-08-04T22:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you doing to get Fridays off? (4-day work week)]]></summary>
+        <author>
+            <name>readonthegoapp</name>
+            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对亚历克斯-琼斯的电话数据的隐私影响的看法？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gennarro</name>
             <uri>https://news.ycombinator.com/user?id=gennarro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRL设想的变量，使你容易吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32203358</id>
-        <link href="https://news.ycombinator.com/item?id=32203358"/>
-        <updated>2022-07-23T13:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: IRL env variables that make you easy?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于小众语言（Nim, crystal）来说，就业市场是怎样的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202798</id>
-        <link href="https://news.ycombinator.com/item?id=32202798"/>
-        <updated>2022-07-23T12:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the job market like, for niche languages (Nim, crystal)?]]></summary>
-        <author>
-            <name>akudha</name>
-            <uri>https://news.ycombinator.com/user?id=akudha</uri>
         </author>
     </entry>
 </feed>
