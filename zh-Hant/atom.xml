@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T02:31:42.821Z</updated>
+    <updated>2022-08-04T03:51:15.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這些DoorDash的黑暗圖案是怎麼回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32338779</id>
+        <link href="https://news.ycombinator.com/item?id=32338779"/>
+        <updated>2022-08-04T02:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's up with these DoorDash dark patterns?]]></summary>
+        <author>
+            <name>flycatcha</name>
+            <uri>https://news.ycombinator.com/user?id=flycatcha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜SNAP/EBT資格是如何運作的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saradhi</name>
             <uri>https://news.ycombinator.com/user?id=saradhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何研究一個初創企業的想法是否已經存在？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191850</id>
-        <link href="https://news.ycombinator.com/item?id=32191850"/>
-        <updated>2022-07-22T13:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you research if a startup idea already exists?]]></summary>
-        <author>
-            <name>panosfilianos</name>
-            <uri>https://news.ycombinator.com/user?id=panosfilianos</uri>
         </author>
     </entry>
 </feed>
