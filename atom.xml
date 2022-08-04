@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T13:04:29.689Z</updated>
+    <updated>2022-08-04T13:55:53.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你创业失败的原因是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342596</id>
+        <link href="https://news.ycombinator.com/item?id=32342596"/>
+        <updated>2022-08-04T13:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the reasons for your startup failure?]]></summary>
+        <author>
+            <name>notoriousarun</name>
+            <uri>https://news.ycombinator.com/user?id=notoriousarun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么关于技术写作的好书吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342493</id>
+        <link href="https://news.ycombinator.com/item?id=32342493"/>
+        <updated>2022-08-04T13:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any great books about technical writing?]]></summary>
+        <author>
+            <name>iluzone</name>
+            <uri>https://news.ycombinator.com/user?id=iluzone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个开发者，如何做到独立？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lifeisstillgood</name>
             <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于谷歌浏览器的网站在哪里？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195042</id>
-        <link href="https://news.ycombinator.com/item?id=32195042"/>
-        <updated>2022-07-22T17:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where is the site about Google Chrome?]]></summary>
-        <author>
-            <name>andrelaszlo</name>
-            <uri>https://news.ycombinator.com/user?id=andrelaszlo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克对人口比例下降的担忧是否成立？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194980</id>
-        <link href="https://news.ycombinator.com/item?id=32194980"/>
-        <updated>2022-07-22T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Elon Musk's concern on declining population rate valid?]]></summary>
-        <author>
-            <name>amrrs</name>
-            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
         </author>
     </entry>
 </feed>
