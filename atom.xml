@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-04T17:46:52.453Z</updated>
+    <updated>2022-08-04T18:38:50.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么开放源码的文本编辑器具有单词标签功能吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346513</id>
+        <link href="https://news.ycombinator.com/item?id=32346513"/>
+        <updated>2022-08-04T18:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any open source text editors with word tagging?]]></summary>
+        <author>
+            <name>neo_hacker</name>
+            <uri>https://news.ycombinator.com/user?id=neo_hacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要求观众经常更换座位会减少感染吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳能光伏发电与热电联产
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32201382</id>
-        <link href="https://news.ycombinator.com/item?id=32201382"/>
-        <updated>2022-07-23T08:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Solar PV vs. Thermoelectric]]></summary>
-        <author>
-            <name>vivegi</name>
-            <uri>https://news.ycombinator.com/user?id=vivegi</uri>
         </author>
     </entry>
 </feed>
