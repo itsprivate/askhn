@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在使用AWS MFA時有問題嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340570</link>
+            <guid>https://news.ycombinator.com/item?id=32340570</guid>
+            <pubDate>Thu, 04 Aug 2022 08:31:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Are you having issues with AWS MFA?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ZFS本地加密與LUKS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340433</link>
+            <guid>https://news.ycombinator.com/item?id=32340433</guid>
+            <pubDate>Thu, 04 Aug 2022 08:06:42 GMT</pubDate>
+            <description><![CDATA[Ask HN: ZFS native encryption vs LUKS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[商業街能否生存？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340406</link>
+            <guid>https://news.ycombinator.com/item?id=32340406</guid>
+            <pubDate>Thu, 04 Aug 2022 08:02:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will the High-Street Survive?]]></description>
+        </item>
         <item>
             <title><![CDATA[尋找新奇的事情做？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32193085</guid>
             <pubDate>Fri, 22 Jul 2022 15:33:45 GMT</pubDate>
             <description><![CDATA[Ask HN: Are Vercel/Netlify/Cloudflare pushing SSR/ESR to increase their revenue?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對這種特殊的熵/技術債務有什麼名稱/隱喻嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32193017</link>
-            <guid>https://news.ycombinator.com/item?id=32193017</guid>
-            <pubDate>Fri, 22 Jul 2022 15:28:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any name/metaphor for this particular kind of entropy / tech debt?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼天文學的很多研究會優先考慮系外行星的搜索？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32192866</link>
-            <guid>https://news.ycombinator.com/item?id=32192866</guid>
-            <pubDate>Fri, 22 Jul 2022 15:17:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why does a lot of research in astronomy prioritize the exoplanet search?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人使用過Vultr的管理型Kubernetes引擎嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32192403</link>
-            <guid>https://news.ycombinator.com/item?id=32192403</guid>
-            <pubDate>Fri, 22 Jul 2022 14:45:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Has anyone used Vultr's managed Kubernetes engine]]></description>
         </item>
     </channel>
 </rss>
