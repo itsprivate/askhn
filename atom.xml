@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T17:52:47.385Z</updated>
+    <updated>2022-08-05T18:42:05.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你读过什么好的营销书籍吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32360001</id>
+        <link href="https://news.ycombinator.com/item?id=32360001"/>
+        <updated>2022-08-05T18:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any Good Marketing Book that you read?]]></summary>
+        <author>
+            <name>gls2ro</name>
+            <uri>https://news.ycombinator.com/user?id=gls2ro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有一个网站可以让群众投票决定哪个A/B网站看起来更好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359894</id>
+        <link href="https://news.ycombinator.com/item?id=32359894"/>
+        <updated>2022-08-05T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a site where a crowd can vote on which A/B site looks better?]]></summary>
+        <author>
+            <name>EGreg</name>
+            <uri>https://news.ycombinator.com/user?id=EGreg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["政府在印钱 "到底是什么意思？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>xyzbeiid</name>
             <uri>https://news.ycombinator.com/user?id=xyzbeiid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找Fsharp开源项目的贡献者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32210786</id>
-        <link href="https://news.ycombinator.com/item?id=32210786"/>
-        <updated>2022-07-24T05:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Looking for Fsharp open-source projects to contribute to]]></summary>
-        <author>
-            <name>ejanus</name>
-            <uri>https://news.ycombinator.com/user?id=ejanus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的工作中是如何进行时间跟踪的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32210603</id>
-        <link href="https://news.ycombinator.com/item?id=32210603"/>
-        <updated>2022-07-24T05:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How is time tracking done at your work?]]></summary>
-        <author>
-            <name>throwthislater</name>
-            <uri>https://news.ycombinator.com/user?id=throwthislater</uri>
         </author>
     </entry>
 </feed>
