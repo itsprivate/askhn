@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T22:00:02.058Z</updated>
+    <updated>2022-08-05T23:00:06.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Instagram的替代品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362826</id>
+        <link href="https://news.ycombinator.com/item?id=32362826"/>
+        <updated>2022-08-05T22:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Instagram Alternatives?]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[还有哪些地方适合 "编程帮助"？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>doubtfuluser</name>
             <uri>https://news.ycombinator.com/user?id=doubtfuluser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何安全地共享一个文件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32214049</id>
-        <link href="https://news.ycombinator.com/item?id=32214049"/>
-        <updated>2022-07-24T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to Securely Share a Document?]]></summary>
-        <author>
-            <name>quietpills</name>
-            <uri>https://news.ycombinator.com/user?id=quietpills</uri>
         </author>
     </entry>
 </feed>
