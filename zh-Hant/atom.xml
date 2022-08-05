@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T06:00:58.091Z</updated>
+    <updated>2022-08-05T07:29:03.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你目前在利用什麼漏洞？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352831</id>
+        <link href="https://news.ycombinator.com/item?id=32352831"/>
+        <updated>2022-08-05T07:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What loophole are you currently exploiting?]]></summary>
+        <author>
+            <name>Raed667</name>
+            <uri>https://news.ycombinator.com/user?id=Raed667</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否注意到有了孩子之後，生產力大為下降？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ldjkfkdsjnv</name>
             <uri>https://news.ycombinator.com/user?id=ldjkfkdsjnv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼自學成才的開發者被剝奪了 "免費教育 "的工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32205036</id>
-        <link href="https://news.ycombinator.com/item?id=32205036"/>
-        <updated>2022-07-23T16:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are self-taught developers deprived of “free for education” tools?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
         </author>
     </entry>
 </feed>
