@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T20:34:42.726Z</updated>
+    <updated>2022-08-05T21:47:42.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的工作场所需要的最不必要的东西是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362240</id>
+        <link href="https://news.ycombinator.com/item?id=32362240"/>
+        <updated>2022-08-05T21:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the most unnecessary thing that your workplace requires?]]></summary>
+        <author>
+            <name>robalni</name>
+            <uri>https://news.ycombinator.com/user?id=robalni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么粘性滚动是最近加入Xcode和VSCode的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362228</id>
+        <link href="https://news.ycombinator.com/item?id=32362228"/>
+        <updated>2022-08-05T21:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is sticky scrolling a recent addition to Xcode and VSCode?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来自Onmicrosoft.com的新一轮垃圾邮件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>unknownsky</name>
             <uri>https://news.ycombinator.com/user?id=unknownsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是存储和访问图像的最经济有效的方式？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212743</id>
-        <link href="https://news.ycombinator.com/item?id=32212743"/>
-        <updated>2022-07-24T12:22:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most cost effective way to store and access images?]]></summary>
-        <author>
-            <name>MahajanVardhan</name>
-            <uri>https://news.ycombinator.com/user?id=MahajanVardhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[点击 "全部拒绝 "的用户比例是多少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212737</id>
-        <link href="https://news.ycombinator.com/item?id=32212737"/>
-        <updated>2022-07-24T12:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What percentage of users click 'Reject All'?]]></summary>
-        <author>
-            <name>MarkMc</name>
-            <uri>https://news.ycombinator.com/user?id=MarkMc</uri>
         </author>
     </entry>
 </feed>
