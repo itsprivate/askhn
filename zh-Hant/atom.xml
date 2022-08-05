@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T02:34:52.398Z</updated>
+    <updated>2022-08-05T05:04:42.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[個人應如何關注猴痘，我們能做什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32351123</id>
+        <link href="https://news.ycombinator.com/item?id=32351123"/>
+        <updated>2022-08-05T03:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How concerned should individuals be about monkeypox and what can we do?]]></summary>
+        <author>
+            <name>arikr</name>
+            <uri>https://news.ycombinator.com/user?id=arikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你對當前的哪些計算機科學問題感到很有興趣？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的角色和工資是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204824</id>
-        <link href="https://news.ycombinator.com/item?id=32204824"/>
-        <updated>2022-07-23T16:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your role and salary?]]></summary>
-        <author>
-            <name>ramidua</name>
-            <uri>https://news.ycombinator.com/user?id=ramidua</uri>
         </author>
     </entry>
 </feed>
