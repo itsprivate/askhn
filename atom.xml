@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T10:49:48.085Z</updated>
+    <updated>2022-08-05T11:27:58.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么好的资源可以学习安全关键型C/C++编码？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32354471</id>
+        <link href="https://news.ycombinator.com/item?id=32354471"/>
+        <updated>2022-08-05T11:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good resources to learn safety-critical C/C++ coding from?]]></summary>
+        <author>
+            <name>bobowzki</name>
+            <uri>https://news.ycombinator.com/user?id=bobowzki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分心的解决方案？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Victerius</name>
             <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OS X 12.4 | Chromium - Command+C - Command+V - 问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32206239</id>
-        <link href="https://news.ycombinator.com/item?id=32206239"/>
-        <updated>2022-07-23T18:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: OS X 12.4 | Chromium – Command+C – Command+V – Issues]]></summary>
-        <author>
-            <name>_boffin_</name>
-            <uri>https://news.ycombinator.com/user?id=_boffin_</uri>
         </author>
     </entry>
 </feed>
