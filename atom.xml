@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T21:47:42.788Z</updated>
+    <updated>2022-08-05T22:00:02.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有哪些地方适合 "编程帮助"？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362359</id>
+        <link href="https://news.ycombinator.com/item?id=32362359"/>
+        <updated>2022-08-05T21:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are other places for “programminghelp”?]]></summary>
+        <author>
+            <name>andrewfromx</name>
+            <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的工作场所需要的最不必要的东西是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>quietpills</name>
             <uri>https://news.ycombinator.com/user?id=quietpills</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是否应该放弃.NET编程以摆脱企业级的工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213903</id>
-        <link href="https://news.ycombinator.com/item?id=32213903"/>
-        <updated>2022-07-24T14:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I quit .NET programming to get away from enterprise-y work?]]></summary>
-        <author>
-            <name>unknownsky</name>
-            <uri>https://news.ycombinator.com/user?id=unknownsky</uri>
         </author>
     </entry>
 </feed>
