@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-05T15:02:58.151Z</updated>
+    <updated>2022-08-05T16:47:09.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么这个90度的USB适配器里有一个芯片？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32358520</id>
+        <link href="https://news.ycombinator.com/item?id=32358520"/>
+        <updated>2022-08-05T16:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does this 90-degree USB adapter have a chip in it?]]></summary>
+        <author>
+            <name>zachrose</name>
+            <uri>https://news.ycombinator.com/user?id=zachrose</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在编码中应用 "伏摩多 "技术有什么收获吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>2bitlobster</name>
             <uri>https://news.ycombinator.com/user?id=2bitlobster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索的质量对其他人来说有所下降吗，还是只有我？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32209067</id>
-        <link href="https://news.ycombinator.com/item?id=32209067"/>
-        <updated>2022-07-24T00:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has the quality of Google search declined for anyone else, or just me?]]></summary>
-        <author>
-            <name>ornxka</name>
-            <uri>https://news.ycombinator.com/user?id=ornxka</uri>
         </author>
     </entry>
 </feed>
