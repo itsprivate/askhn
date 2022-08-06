@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T07:27:23.758Z</updated>
+    <updated>2022-08-06T08:52:13.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何对GitHub问题的功能请求说不？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366248</id>
+        <link href="https://news.ycombinator.com/item?id=32366248"/>
+        <updated>2022-08-06T08:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to say NO to a GitHub issue feature request?]]></summary>
+        <author>
+            <name>mit20220401</name>
+            <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在做什么工作，为什么它很酷？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366240</id>
+        <link href="https://news.ycombinator.com/item?id=32366240"/>
+        <updated>2022-08-06T08:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are you working on and why is it cool?]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有哪些方法来适应一个新的代码库？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sethkim</name>
             <uri>https://news.ycombinator.com/user?id=sethkim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么小的iOS应用程序让你赚了3万美元或更多？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215864</id>
-        <link href="https://news.ycombinator.com/item?id=32215864"/>
-        <updated>2022-07-24T17:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a small iOS App that you made $30k or more off of?]]></summary>
-        <author>
-            <name>codemonkeysh</name>
-            <uri>https://news.ycombinator.com/user?id=codemonkeysh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道/推荐哪些深奥的棋盘和纸牌游戏？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215765</id>
-        <link href="https://news.ycombinator.com/item?id=32215765"/>
-        <updated>2022-07-24T17:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which deep board and card games do you know/recommend?]]></summary>
-        <author>
-            <name>fileeditview</name>
-            <uri>https://news.ycombinator.com/user?id=fileeditview</uri>
         </author>
     </entry>
 </feed>
