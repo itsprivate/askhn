@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T09:59:31.297Z</updated>
+    <updated>2022-08-06T10:31:08.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何應對胃食管反流病的焦慮？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366645</id>
+        <link href="https://news.ycombinator.com/item?id=32366645"/>
+        <updated>2022-08-06T10:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to deal with GERD anxiety?]]></summary>
+        <author>
+            <name>bobkrusty</name>
+            <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Front End上焦頭爛額，2022年的WordPress是什麼樣的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tbskm</name>
             <uri>https://news.ycombinator.com/user?id=tbskm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好方法可以獲得真實世界的軟件項目經驗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32216236</id>
-        <link href="https://news.ycombinator.com/item?id=32216236"/>
-        <updated>2022-07-24T18:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good ways to gain real-world software project experience?]]></summary>
-        <author>
-            <name>rktesthn</name>
-            <uri>https://news.ycombinator.com/user?id=rktesthn</uri>
         </author>
     </entry>
 </feed>
