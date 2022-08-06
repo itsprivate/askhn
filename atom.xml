@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T19:46:40.318Z</updated>
+    <updated>2022-08-06T20:29:02.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当HN的文章提到某个关键词时，会收到一封邮件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32371233</id>
+        <link href="https://news.ycombinator.com/item?id=32371233"/>
+        <updated>2022-08-06T20:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Getting an email when a HN post mentions a keyword?]]></summary>
+        <author>
+            <name>seinecle</name>
+            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费的iOS益智游戏应该有订阅或IAP吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danschmitt</name>
             <uri>https://news.ycombinator.com/user?id=danschmitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何利用偏远地区的多余能源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32222574</id>
-        <link href="https://news.ycombinator.com/item?id=32222574"/>
-        <updated>2022-07-25T10:23:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to utilize excess energy in remote areas]]></summary>
-        <author>
-            <name>l7l</name>
-            <uri>https://news.ycombinator.com/user?id=l7l</uri>
         </author>
     </entry>
 </feed>
