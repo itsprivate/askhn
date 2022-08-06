@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T17:59:16.971Z</updated>
+    <updated>2022-08-06T19:25:42.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎樣才能擺脫Uber的通知？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370785</id>
+        <link href="https://news.ycombinator.com/item?id=32370785"/>
+        <updated>2022-08-06T19:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I get rid of Uber’s notifications?]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學習生成藝術編程的資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370671</id>
+        <link href="https://news.ycombinator.com/item?id=32370671"/>
+        <updated>2022-08-06T19:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources to learn generative art programming?]]></summary>
+        <author>
+            <name>akudha</name>
+            <uri>https://news.ycombinator.com/user?id=akudha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌搜索控制檯工具說我的網站產生 "軟404"
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>desertraven</name>
             <uri>https://news.ycombinator.com/user?id=desertraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍繞心靈、意識、知覺和相互關係的書籍/文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32220634</id>
-        <link href="https://news.ycombinator.com/item?id=32220634"/>
-        <updated>2022-07-25T05:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books/Articles around mind,Consciousness,perception and interrelation]]></summary>
-        <author>
-            <name>arvind_k</name>
-            <uri>https://news.ycombinator.com/user?id=arvind_k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 "人造陽光"/"人造窗戶 "產品這麼少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32220349</id>
-        <link href="https://news.ycombinator.com/item?id=32220349"/>
-        <updated>2022-07-25T03:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?]]></summary>
-        <author>
-            <name>stevage</name>
-            <uri>https://news.ycombinator.com/user?id=stevage</uri>
         </author>
     </entry>
 </feed>
