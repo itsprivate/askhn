@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T13:58:23.677Z</updated>
+    <updated>2022-08-06T14:58:49.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网站列出了所有的艺术流派/风格？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32368597</id>
+        <link href="https://news.ycombinator.com/item?id=32368597"/>
+        <updated>2022-08-06T14:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Website listin all genres/styles of art?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有替代Facebook群组的自我托管方式？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>z9znz</name>
             <uri>https://news.ycombinator.com/user?id=z9znz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些协议和数据格式是用于空间通信的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32217430</id>
-        <link href="https://news.ycombinator.com/item?id=32217430"/>
-        <updated>2022-07-24T20:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which protocols and data formats are used for space communication?]]></summary>
-        <author>
-            <name>jviotti</name>
-            <uri>https://news.ycombinator.com/user?id=jviotti</uri>
         </author>
     </entry>
 </feed>
