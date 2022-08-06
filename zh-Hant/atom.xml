@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T11:47:27.252Z</updated>
+    <updated>2022-08-06T12:50:31.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否也不太關心大流行之後的會議？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367357</id>
+        <link href="https://news.ycombinator.com/item?id=32367357"/>
+        <updated>2022-08-06T12:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you also care less about conferences after the pandemic?]]></summary>
+        <author>
+            <name>recvonline</name>
+            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何處理幫助吸血鬼的問題？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>beernet</name>
             <uri>https://news.ycombinator.com/user?id=beernet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近期的氣候變化情況？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32217150</id>
-        <link href="https://news.ycombinator.com/item?id=32217150"/>
-        <updated>2022-07-24T20:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Near future climate change scenarios?]]></summary>
-        <author>
-            <name>manx</name>
-            <uri>https://news.ycombinator.com/user?id=manx</uri>
         </author>
     </entry>
 </feed>
