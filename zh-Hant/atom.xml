@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T15:29:37.534Z</updated>
+    <updated>2022-08-06T15:50:48.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這些年最好的網絡攝像頭？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32369003</id>
+        <link href="https://news.ycombinator.com/item?id=32369003"/>
+        <updated>2022-08-06T15:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Webcam These Days?]]></summary>
+        <author>
+            <name>hedora</name>
+            <uri>https://news.ycombinator.com/user?id=hedora</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否存在大氣波，就像有海洋波一樣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32368997</id>
+        <link href="https://news.ycombinator.com/item?id=32368997"/>
+        <updated>2022-08-06T15:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there atmospheric waves just like there are ocean waves?]]></summary>
+        <author>
+            <name>SnowHill9902</name>
+            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的博客是什麼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mrwnmonm</name>
             <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否通過Siri或谷歌語音使用語音命令？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219438</id>
-        <link href="https://news.ycombinator.com/item?id=32219438"/>
-        <updated>2022-07-25T00:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you using voice commands via Siri or Google Voice?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有任何工具可以檢測JavaScript（網絡）中的內存洩漏？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32218900</id>
-        <link href="https://news.ycombinator.com/item?id=32218900"/>
-        <updated>2022-07-24T23:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't there any tools that detect memory leaks in JavaScript (web)?]]></summary>
-        <author>
-            <name>develatio</name>
-            <uri>https://news.ycombinator.com/user?id=develatio</uri>
         </author>
     </entry>
 </feed>
