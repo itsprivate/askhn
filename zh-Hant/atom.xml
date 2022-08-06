@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T20:49:29.416Z</updated>
+    <updated>2022-08-06T21:46:27.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是聽起來最人性化的文字轉語音（TTS）模式或服務？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32371798</id>
+        <link href="https://news.ycombinator.com/item?id=32371798"/>
+        <updated>2022-08-06T21:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the most human sounding text to speech (TTS) model or service?]]></summary>
+        <author>
+            <name>IceHegel</name>
+            <uri>https://news.ycombinator.com/user?id=IceHegel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你討厭谷歌2022，為什麼不把你的谷歌變成2012？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blockarchitech</name>
             <uri>https://news.ycombinator.com/user?id=blockarchitech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會使用一個平臺來證明和更快地僱用嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32222946</id>
-        <link href="https://news.ycombinator.com/item?id=32222946"/>
-        <updated>2022-07-25T11:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you use a platform to justify and hire faster?]]></summary>
-        <author>
-            <name>igdiaz</name>
-            <uri>https://news.ycombinator.com/user?id=igdiaz</uri>
         </author>
     </entry>
 </feed>
