@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T15:50:48.845Z</updated>
+    <updated>2022-08-06T17:37:56.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用什麼系統來管理生活/項目/任務/自我發展？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32369913</id>
+        <link href="https://news.ycombinator.com/item?id=32369913"/>
+        <updated>2022-08-06T17:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What systems do you use to manage life/projects/tasks/self development?]]></summary>
+        <author>
+            <name>ChildOfChaos</name>
+            <uri>https://news.ycombinator.com/user?id=ChildOfChaos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這些年最好的網絡攝像頭？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vfulco2</name>
             <uri>https://news.ycombinator.com/user?id=vfulco2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界是否因知識淺薄而受苦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219529</id>
-        <link href="https://news.ycombinator.com/item?id=32219529"/>
-        <updated>2022-07-25T01:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the world suffering from shallow knowledge?]]></summary>
-        <author>
-            <name>mrwnmonm</name>
-            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
         </author>
     </entry>
 </feed>
