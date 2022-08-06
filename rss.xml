@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 06 Aug 2022 12:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 13:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有替代Facebook群组的自我托管方式？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32368029</link>
+            <guid>https://news.ycombinator.com/item?id=32368029</guid>
+            <pubDate>Sat, 06 Aug 2022 13:46:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a self-hosted alternative to Facebook groups?]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否也不太关心大流行之后的会议？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32217430</guid>
             <pubDate>Sun, 24 Jul 2022 20:35:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Which protocols and data formats are used for space communication?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有效的、具有数据隐私的、报告业务关键绩效指标的数据评估工具？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32217346</link>
-            <guid>https://news.ycombinator.com/item?id=32217346</guid>
-            <pubDate>Sun, 24 Jul 2022 20:25:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Effective data viz. tool with data privacy to report business KPIs?]]></description>
         </item>
     </channel>
 </rss>
