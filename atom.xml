@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T22:28:05.046Z</updated>
+    <updated>2022-08-06T22:46:20.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为SRE/DevOps提供辅导？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32372237</id>
+        <link href="https://news.ycombinator.com/item?id=32372237"/>
+        <updated>2022-08-06T22:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tutoring for SRE/DevOps?]]></summary>
+        <author>
+            <name>aliasxneo</name>
+            <uri>https://news.ycombinator.com/user?id=aliasxneo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arch Linux的AUR倒了吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bartminton</name>
             <uri>https://news.ycombinator.com/user?id=bartminton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产生序列10、20、50、100、200 ... 5,000,000,000,000,000,000,000
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32224282</id>
-        <link href="https://news.ycombinator.com/item?id=32224282"/>
-        <updated>2022-07-25T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Generate sequence 10, 20, 50, 100, 200 ... 5,000,000,000,000,000,000,000]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>

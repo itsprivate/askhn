@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 06 Aug 2022 22:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 22:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为SRE/DevOps提供辅导？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32372237</link>
+            <guid>https://news.ycombinator.com/item?id=32372237</guid>
+            <pubDate>Sat, 06 Aug 2022 22:37:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Tutoring for SRE/DevOps?]]></description>
+        </item>
         <item>
             <title><![CDATA[Arch Linux的AUR倒了吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32224692</guid>
             <pubDate>Mon, 25 Jul 2022 14:22:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Leaving Germany: Where to find quality of life as experienced engineer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[产生序列10、20、50、100、200 ... 5,000,000,000,000,000,000,000
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32224282</link>
-            <guid>https://news.ycombinator.com/item?id=32224282</guid>
-            <pubDate>Mon, 25 Jul 2022 13:53:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: Generate sequence 10, 20, 50, 100, 200 ... 5,000,000,000,000,000,000,000]]></description>
         </item>
     </channel>
 </rss>
