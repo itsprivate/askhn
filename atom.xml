@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T11:57:55.133Z</updated>
+    <updated>2022-08-07T12:51:30.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么技术原因使Google Docs不能在Firefox中进行语音输入？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375897</id>
+        <link href="https://news.ycombinator.com/item?id=32375897"/>
+        <updated>2022-08-07T12:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any technical reasons Google Docs can't do voice typing in Firefox?]]></summary>
+        <author>
+            <name>lovelearning</name>
+            <uri>https://news.ycombinator.com/user?id=lovelearning</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周日晚上可以尝试的好的下载？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>newsoul</name>
             <uri>https://news.ycombinator.com/user?id=newsoul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为Hacker News缺少什么功能吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229233</id>
-        <link href="https://news.ycombinator.com/item?id=32229233"/>
-        <updated>2022-07-25T18:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think Hacker News is missing any features?]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
