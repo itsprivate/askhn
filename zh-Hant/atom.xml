@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T10:47:27.893Z</updated>
+    <updated>2022-08-07T11:26:45.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[專家對Android Kotlin開發新學員的建議？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375609</id>
+        <link href="https://news.ycombinator.com/item?id=32375609"/>
+        <updated>2022-08-07T11:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Expert Advices for New Learners in Android Kotlin Development?]]></summary>
+        <author>
+            <name>stArrow</name>
+            <uri>https://news.ycombinator.com/user?id=stArrow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們不向stackoverflow或medium付費？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kokanator</name>
             <uri>https://news.ycombinator.com/user?id=kokanator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Mac OS上提高按鍵重複率，超過正常限度
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228133</id>
-        <link href="https://news.ycombinator.com/item?id=32228133"/>
-        <updated>2022-07-25T17:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Increase Key Repeat rate on Mac OS beyond normal limits]]></summary>
-        <author>
-            <name>ggerganov</name>
-            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
         </author>
     </entry>
 </feed>
