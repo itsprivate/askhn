@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T02:37:45.063Z</updated>
+    <updated>2022-08-07T03:44:07.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[及时编程定时器旅行调试？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373686</id>
+        <link href="https://news.ycombinator.com/item?id=32373686"/>
+        <updated>2022-08-07T03:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Just in time programming timer travel debugging?]]></summary>
+        <author>
+            <name>NiceWayToDoIT</name>
+            <uri>https://news.ycombinator.com/user?id=NiceWayToDoIT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住在纽约市值得吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373392</id>
+        <link href="https://news.ycombinator.com/item?id=32373392"/>
+        <updated>2022-08-07T02:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is living in NYC worth it?]]></summary>
+        <author>
+            <name>tempsy</name>
+            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTAP是否提供了一个新的视角，或者说它只是一个组成的解决方案？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fantalamera</name>
             <uri>https://news.ycombinator.com/user?id=fantalamera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网站故障是否变得越来越普遍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225841</id>
-        <link href="https://news.ycombinator.com/item?id=32225841"/>
-        <updated>2022-07-25T15:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are website failures becoming more common?]]></summary>
-        <author>
-            <name>pbohun</name>
-            <uri>https://news.ycombinator.com/user?id=pbohun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为新的编程平台找到合适的技术天使投资人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225701</id>
-        <link href="https://news.ycombinator.com/item?id=32225701"/>
-        <updated>2022-07-25T15:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find the right tech angel investor for new programming platform?]]></summary>
-        <author>
-            <name>ellis0n</name>
-            <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
         </author>
     </entry>
 </feed>
