@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T03:44:07.054Z</updated>
+    <updated>2022-08-07T04:49:05.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果錢不是問題，你會從事什麼雄心勃勃的項目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373926</id>
+        <link href="https://news.ycombinator.com/item?id=32373926"/>
+        <updated>2022-08-07T04:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If money was no object, what ambitious project would you work on?]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[及時編程定時器旅行調試？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RutStucker</name>
             <uri>https://news.ycombinator.com/user?id=RutStucker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書業務經理被黑，現在被鎖定的賬戶
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226529</id>
-        <link href="https://news.ycombinator.com/item?id=32226529"/>
-        <updated>2022-07-25T16:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Facebook Business Manager hacked and now locked out of accounts]]></summary>
-        <author>
-            <name>fantalamera</name>
-            <uri>https://news.ycombinator.com/user?id=fantalamera</uri>
         </author>
     </entry>
 </feed>
