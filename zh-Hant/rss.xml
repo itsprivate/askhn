@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 07 Aug 2022 20:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 20:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何做到FOSS個人項目的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32379568</link>
+            <guid>https://news.ycombinator.com/item?id=32379568</guid>
+            <pubDate>Sun, 07 Aug 2022 20:26:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you manage to do FOSS personal projects?]]></description>
+        </item>
         <item>
             <title><![CDATA[開源的SW比所有封閉的替代品都要好？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32233331</guid>
             <pubDate>Tue, 26 Jul 2022 01:48:26 GMT</pubDate>
             <description><![CDATA[Ask HN: How can I take charge of how software should work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哪裡可以找到測試的Stripe數據？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32233150</link>
-            <guid>https://news.ycombinator.com/item?id=32233150</guid>
-            <pubDate>Tue, 26 Jul 2022 01:20:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where to find test Stripe data?]]></description>
         </item>
     </channel>
 </rss>
