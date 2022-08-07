@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T11:26:45.480Z</updated>
+    <updated>2022-08-07T11:43:47.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁试过用Oculus进行开发？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375677</id>
+        <link href="https://news.ycombinator.com/item?id=32375677"/>
+        <updated>2022-08-07T11:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone tried development using an Oculus?]]></summary>
+        <author>
+            <name>holistio</name>
+            <uri>https://news.ycombinator.com/user?id=holistio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专家对Android Kotlin开发新学员的建议？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>3a2d29</name>
             <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的亚马逊发货都延迟了一周吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228237</id>
-        <link href="https://news.ycombinator.com/item?id=32228237"/>
-        <updated>2022-07-25T17:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are your Amazon shipments ALL delayed a week?]]></summary>
-        <author>
-            <name>kokanator</name>
-            <uri>https://news.ycombinator.com/user?id=kokanator</uri>
         </author>
     </entry>
 </feed>
