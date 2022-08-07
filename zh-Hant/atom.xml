@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T06:57:24.906Z</updated>
+    <updated>2022-08-07T09:25:52.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對相互構建的多個倉庫進行源代碼控制的最佳方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374965</id>
+        <link href="https://news.ycombinator.com/item?id=32374965"/>
+        <updated>2022-08-07T08:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best way to source control multiple repos building upon each other]]></summary>
+        <author>
+            <name>msadowski</name>
+            <uri>https://news.ycombinator.com/user?id=msadowski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[萬事通的意思
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hidden-spyder</name>
             <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你生活中的一天是什麼樣子的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227373</id>
-        <link href="https://news.ycombinator.com/item?id=32227373"/>
-        <updated>2022-07-25T17:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a day in your life look like?]]></summary>
-        <author>
-            <name>lawgimenez</name>
-            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
         </author>
     </entry>
 </feed>
