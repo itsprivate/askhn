@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T18:35:03.981Z</updated>
+    <updated>2022-08-07T18:55:13.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是很少有人谈论的下一件大事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32378695</id>
+        <link href="https://news.ycombinator.com/item?id=32378695"/>
+        <updated>2022-08-07T18:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the next big thing that few people are talking about?]]></summary>
+        <author>
+            <name>ScottStevenson</name>
+            <uri>https://news.ycombinator.com/user?id=ScottStevenson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在建造前验证产品创意？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32378641</id>
+        <link href="https://news.ycombinator.com/item?id=32378641"/>
+        <updated>2022-08-07T18:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to validate product ideas before building?]]></summary>
+        <author>
+            <name>faizshah</name>
+            <uri>https://news.ycombinator.com/user?id=faizshah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的YouTube频道有哪些？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>freemint</name>
             <uri>https://news.ycombinator.com/user?id=freemint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阻止网络和电话工作干扰的工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32232088</id>
-        <link href="https://news.ycombinator.com/item?id=32232088"/>
-        <updated>2022-07-25T23:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tools to block web and phone work disruptions?]]></summary>
-        <author>
-            <name>airocker</name>
-            <uri>https://news.ycombinator.com/user?id=airocker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你和你的孩子一起玩吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231888</id>
-        <link href="https://news.ycombinator.com/item?id=32231888"/>
-        <updated>2022-07-25T22:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you play with your kids?]]></summary>
-        <author>
-            <name>l33tbro</name>
-            <uri>https://news.ycombinator.com/user?id=l33tbro</uri>
         </author>
     </entry>
 </feed>
