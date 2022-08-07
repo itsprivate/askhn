@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T20:49:57.152Z</updated>
+    <updated>2022-08-07T21:00:17.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给一个17岁的俄罗斯计算机天才的职业建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32379733</id>
+        <link href="https://news.ycombinator.com/item?id=32379733"/>
+        <updated>2022-08-07T20:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Career advice for a 17 year old Russian computer prodigy]]></summary>
+        <author>
+            <name>everyone</name>
+            <uri>https://news.ycombinator.com/user?id=everyone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何做到FOSS个人项目的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sharmi</name>
             <uri>https://news.ycombinator.com/user?id=sharmi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎样才能掌握软件应该如何工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233331</id>
-        <link href="https://news.ycombinator.com/item?id=32233331"/>
-        <updated>2022-07-26T01:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I take charge of how software should work?]]></summary>
-        <author>
-            <name>TbobbyZ</name>
-            <uri>https://news.ycombinator.com/user?id=TbobbyZ</uri>
         </author>
     </entry>
 </feed>
