@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-06T23:28:42.743Z</updated>
+    <updated>2022-08-07T02:37:45.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTAP是否提供了一个新的视角，或者说它只是一个组成的解决方案？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32372958</id>
+        <link href="https://news.ycombinator.com/item?id=32372958"/>
+        <updated>2022-08-07T01:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does HTAP offer a fresh perspective or is it just a composed solution?]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更多用于编辑/编写代码的 "实验性 "用户界面？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ellis0n</name>
             <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么HN的论述质量走下坡路？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225652</id>
-        <link href="https://news.ycombinator.com/item?id=32225652"/>
-        <updated>2022-07-25T15:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why has the quality of discourse on HN gone downhill?]]></summary>
-        <author>
-            <name>alephnerd</name>
-            <uri>https://news.ycombinator.com/user?id=alephnerd</uri>
         </author>
     </entry>
 </feed>
