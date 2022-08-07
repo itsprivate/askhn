@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T09:59:07.727Z</updated>
+    <updated>2022-08-07T10:33:37.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具有Go Lang接口的經驗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375341</id>
+        <link href="https://news.ycombinator.com/item?id=32375341"/>
+        <updated>2022-08-07T10:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experience with Go Lang Interfaces]]></summary>
+        <author>
+            <name>yonisto</name>
+            <uri>https://news.ycombinator.com/user?id=yonisto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼克斯的重大轉折點是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375308</id>
+        <link href="https://news.ycombinator.com/item?id=32375308"/>
+        <updated>2022-08-07T10:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was Nix's big turning point?]]></summary>
+        <author>
+            <name>gigatexal</name>
+            <uri>https://news.ycombinator.com/user?id=gigatexal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slack有什麼乏味的、不愉快的地方？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>999900000999</name>
             <uri>https://news.ycombinator.com/user?id=999900000999</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教導PM瞭解YAGNI的好資源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227947</id>
-        <link href="https://news.ycombinator.com/item?id=32227947"/>
-        <updated>2022-07-25T17:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good resources to teach a PM about YAGNI?]]></summary>
-        <author>
-            <name>electrondood</name>
-            <uri>https://news.ycombinator.com/user?id=electrondood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要把類成員變成私有？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227737</id>
-        <link href="https://news.ycombinator.com/item?id=32227737"/>
-        <updated>2022-07-25T17:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you make class members private?]]></summary>
-        <author>
-            <name>robalni</name>
-            <uri>https://news.ycombinator.com/user?id=robalni</uri>
         </author>
     </entry>
 </feed>
