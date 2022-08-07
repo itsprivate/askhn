@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T09:25:52.347Z</updated>
+    <updated>2022-08-07T09:47:00.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文本编辑器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375139</id>
+        <link href="https://news.ycombinator.com/item?id=32375139"/>
+        <updated>2022-08-07T09:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Text Editors]]></summary>
+        <author>
+            <name>IndigoIncognito</name>
+            <uri>https://news.ycombinator.com/user?id=IndigoIncognito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对相互构建的多个仓库进行源代码控制的最佳方式
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>riyakhanna1983</name>
             <uri>https://news.ycombinator.com/user?id=riyakhanna1983</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Materialistic（HN客户端）被从Play Store中删除？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227531</id>
-        <link href="https://news.ycombinator.com/item?id=32227531"/>
-        <updated>2022-07-25T17:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why was Materialistic (HN client) removed from Play Store?]]></summary>
-        <author>
-            <name>hidden-spyder</name>
-            <uri>https://news.ycombinator.com/user?id=hidden-spyder</uri>
         </author>
     </entry>
 </feed>
