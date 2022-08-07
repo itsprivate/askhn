@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T15:33:45.606Z</updated>
+    <updated>2022-08-07T16:40:51.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該買我能買得起的最漂亮的房子嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377643</id>
+        <link href="https://news.ycombinator.com/item?id=32377643"/>
+        <updated>2022-08-07T16:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I buy the nicest house I can afford?]]></summary>
+        <author>
+            <name>engineer_22</name>
+            <uri>https://news.ycombinator.com/user?id=engineer_22</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猴子能不能被教會編碼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377472</id>
+        <link href="https://news.ycombinator.com/item?id=32377472"/>
+        <updated>2022-08-07T16:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can monkeys be taught to code?]]></summary>
+        <author>
+            <name>anon115</name>
+            <uri>https://news.ycombinator.com/user?id=anon115</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該搬到哪裡去認識有趣的科技人員？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>I_dev_outdoors</name>
             <uri>https://news.ycombinator.com/user?id=I_dev_outdoors</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比較谷歌與Workspace的隱私分析？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230915</id>
-        <link href="https://news.ycombinator.com/item?id=32230915"/>
-        <updated>2022-07-25T21:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Privacy analysis comparing Google vs. Workspace?]]></summary>
-        <author>
-            <name>minerva23</name>
-            <uri>https://news.ycombinator.com/user?id=minerva23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何應對鋪天蓋地的批評和自我懷疑？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230378</id>
-        <link href="https://news.ycombinator.com/item?id=32230378"/>
-        <updated>2022-07-25T20:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to deal with overwhelming criticism and self-doubt?]]></summary>
-        <author>
-            <name>angarg12</name>
-            <uri>https://news.ycombinator.com/user?id=angarg12</uri>
         </author>
     </entry>
 </feed>
