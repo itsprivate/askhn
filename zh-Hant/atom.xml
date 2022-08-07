@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T09:47:00.898Z</updated>
+    <updated>2022-08-07T09:59:07.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slack有什麼乏味的、不愉快的地方？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375186</id>
+        <link href="https://news.ycombinator.com/item?id=32375186"/>
+        <updated>2022-08-07T09:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is tedious, and unpleasant about Slack?]]></summary>
+        <author>
+            <name>nabi_nafio</name>
+            <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文本編輯器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robalni</name>
             <uri>https://news.ycombinator.com/user?id=robalni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的SBOM生成工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227594</id>
-        <link href="https://news.ycombinator.com/item?id=32227594"/>
-        <updated>2022-07-25T17:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Open-source SBOM generation tools?]]></summary>
-        <author>
-            <name>riyakhanna1983</name>
-            <uri>https://news.ycombinator.com/user?id=riyakhanna1983</uri>
         </author>
     </entry>
 </feed>
