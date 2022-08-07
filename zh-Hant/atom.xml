@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-07T18:06:43.928Z</updated>
+    <updated>2022-08-07T18:35:04.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的YouTube頻道有哪些？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32378309</id>
+        <link href="https://news.ycombinator.com/item?id=32378309"/>
+        <updated>2022-08-07T18:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some of your favorite YouTube channels?]]></summary>
+        <author>
+            <name>abhiminator</name>
+            <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果成功的數學家願意，他們能成為頂級的程序員嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>l33tbro</name>
             <uri>https://news.ycombinator.com/user?id=l33tbro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰應該錄製YC演示視頻
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231871</id>
-        <link href="https://news.ycombinator.com/item?id=32231871"/>
-        <updated>2022-07-25T22:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who should record the YC demo video]]></summary>
-        <author>
-            <name>wassimkha</name>
-            <uri>https://news.ycombinator.com/user?id=wassimkha</uri>
         </author>
     </entry>
 </feed>
