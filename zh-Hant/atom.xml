@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T21:28:51.154Z</updated>
+    <updated>2022-08-08T21:48:08.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何處理代碼的挫折感？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32391395</id>
+        <link href="https://news.ycombinator.com/item?id=32391395"/>
+        <updated>2022-08-08T21:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deal with code frustration?]]></summary>
+        <author>
+            <name>UncleOxidant</name>
+            <uri>https://news.ycombinator.com/user?id=UncleOxidant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是最好的（最便宜/最可靠的）視頻雲備份？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>type0</name>
             <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轉讓方拒絕處理爭議索賠。有什麼追索權嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243961</id>
-        <link href="https://news.ycombinator.com/item?id=32243961"/>
-        <updated>2022-07-26T21:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Transfer(wise) refuses to process a dispute claim. Any recourse?]]></summary>
-        <author>
-            <name>unsupp0rted</name>
-            <uri>https://news.ycombinator.com/user?id=unsupp0rted</uri>
         </author>
     </entry>
 </feed>
