@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T05:57:59.812Z</updated>
+    <updated>2022-08-08T07:28:58.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会在一个封闭的注册中心发布你的开放源码软件包以实现盈利吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383051</id>
+        <link href="https://news.ycombinator.com/item?id=32383051"/>
+        <updated>2022-08-08T07:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would you publish your OSS package in a closed registry to monetize it?]]></summary>
+        <author>
+            <name>paydevs</name>
+            <uri>https://news.ycombinator.com/user?id=paydevs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享你的个人秋游行程？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首席技术官的业务教练？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235961</id>
-        <link href="https://news.ycombinator.com/item?id=32235961"/>
-        <updated>2022-07-26T09:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Business Coach for CTOs?]]></summary>
-        <author>
-            <name>throwaway41413</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway41413</uri>
         </author>
     </entry>
 </feed>
