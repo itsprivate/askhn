@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T22:51:08.678Z</updated>
+    <updated>2022-08-08T23:33:22.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何有價值的管理培訓？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392190</id>
+        <link href="https://news.ycombinator.com/item?id=32392190"/>
+        <updated>2022-08-08T23:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any worthwhile management training out there?]]></summary>
+        <author>
+            <name>thatsamonad</name>
+            <uri>https://news.ycombinator.com/user?id=thatsamonad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果硅上的虛擬化/VPN選項
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ditherblur</name>
             <uri>https://news.ycombinator.com/user?id=ditherblur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個客戶，如何不貶低自己？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32244670</id>
-        <link href="https://news.ycombinator.com/item?id=32244670"/>
-        <updated>2022-07-26T22:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: First client, how not to undersell myself?]]></summary>
-        <author>
-            <name>yscodes</name>
-            <uri>https://news.ycombinator.com/user?id=yscodes</uri>
         </author>
     </entry>
 </feed>
