@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T17:59:51.397Z</updated>
+    <updated>2022-08-08T18:37:45.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你读过哪些意想不到的好书？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32389142</id>
+        <link href="https://news.ycombinator.com/item?id=32389142"/>
+        <updated>2022-08-08T18:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What unexpectedly good book have you read?]]></summary>
+        <author>
+            <name>relaunched</name>
+            <uri>https://news.ycombinator.com/user?id=relaunched</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酷炫的（新）GTLDs？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ralmidani</name>
             <uri>https://news.ycombinator.com/user?id=ralmidani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare分析的效果如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242819</id>
-        <link href="https://news.ycombinator.com/item?id=32242819"/>
-        <updated>2022-07-26T19:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How well does Cloudflare analytics work?]]></summary>
-        <author>
-            <name>pranshum</name>
-            <uri>https://news.ycombinator.com/user?id=pranshum</uri>
         </author>
     </entry>
 </feed>
