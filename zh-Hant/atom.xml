@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T09:30:08.106Z</updated>
+    <updated>2022-08-08T10:03:13.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對一個團隊來說，多少軟件才算多？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383776</id>
+        <link href="https://news.ycombinator.com/item?id=32383776"/>
+        <updated>2022-08-08T09:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much software is too much for one team?]]></summary>
+        <author>
+            <name>barking_biscuit</name>
+            <uri>https://news.ycombinator.com/user?id=barking_biscuit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Python中，有什麼經得起考驗的備忘到磁盤的庫？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼行業被搞得如此混亂，無法修復？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237161</id>
-        <link href="https://news.ycombinator.com/item?id=32237161"/>
-        <updated>2022-07-26T12:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What industry is so messed up it cannot be fixed?]]></summary>
-        <author>
-            <name>napolux</name>
-            <uri>https://news.ycombinator.com/user?id=napolux</uri>
         </author>
     </entry>
 </feed>
