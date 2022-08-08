@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 08 Aug 2022 09:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python中，有什么经得起考验的备忘到磁盘的库？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32383562</link>
+            <guid>https://news.ycombinator.com/item?id=32383562</guid>
+            <pubDate>Mon, 08 Aug 2022 09:02:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's a battle-tested library for memoizing-to-disk in Python?]]></description>
+        </item>
         <item>
             <title><![CDATA[什么是Lisp的 "启示"？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32237161</guid>
             <pubDate>Tue, 26 Jul 2022 12:06:51 GMT</pubDate>
             <description><![CDATA[Ask HN: What industry is so messed up it cannot be fixed?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么公司不在拒绝邮件中列出你的弱点？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32236939</link>
-            <guid>https://news.ycombinator.com/item?id=32236939</guid>
-            <pubDate>Tue, 26 Jul 2022 11:40:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why companies do not list your weaknesses in rejection email?]]></description>
         </item>
     </channel>
 </rss>
