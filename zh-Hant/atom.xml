@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T16:50:22.675Z</updated>
+    <updated>2022-08-08T17:47:26.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[點擊超鏈接時，你的macOS光標是否會跳動？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388513</id>
+        <link href="https://news.ycombinator.com/item?id=32388513"/>
+        <updated>2022-08-08T17:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does your macOS cursor jump when clicking on hyperlinks?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你希望在數據科學家的工作描述中看到什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388310</id>
+        <link href="https://news.ycombinator.com/item?id=32388310"/>
+        <updated>2022-08-08T17:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you want to see in a data scientist job description?]]></summary>
+        <author>
+            <name>p33p</name>
+            <uri>https://news.ycombinator.com/user?id=p33p</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何非圍繞加密貨幣的區塊鏈項目？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>markus_zhang</name>
             <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部署預覽"（短暫的環境）有什麼用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242598</id>
-        <link href="https://news.ycombinator.com/item?id=32242598"/>
-        <updated>2022-07-26T19:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are 'deploy previews' (ephemeral environments) good for?]]></summary>
-        <author>
-            <name>zevir</name>
-            <uri>https://news.ycombinator.com/user?id=zevir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於非等級環境下的合作的好書？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242492</id>
-        <link href="https://news.ycombinator.com/item?id=32242492"/>
-        <updated>2022-07-26T19:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good books on collaboration in non-hierarchical settings?]]></summary>
-        <author>
-            <name>butterNaN</name>
-            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
         </author>
     </entry>
 </feed>
