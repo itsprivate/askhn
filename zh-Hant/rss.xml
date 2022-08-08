@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 08 Aug 2022 10:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 10:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[指向和點擊推薦
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32383948</link>
+            <guid>https://news.ycombinator.com/item?id=32383948</guid>
+            <pubDate>Mon, 08 Aug 2022 10:23:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Point and Click Recommandations]]></description>
+        </item>
         <item>
             <title><![CDATA[對一個團隊來說，多少軟件才算多？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32237348</guid>
             <pubDate>Tue, 26 Jul 2022 12:26:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Why is NASA confident with Artemis 1 given its less testing than SpaceX?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有經驗的程序員如何學習新語言並對其進行判斷？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32237250</link>
-            <guid>https://news.ycombinator.com/item?id=32237250</guid>
-            <pubDate>Tue, 26 Jul 2022 12:16:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do experienced programmers learn new languages and judge them?]]></description>
         </item>
     </channel>
 </rss>
