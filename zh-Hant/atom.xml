@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T18:37:45.479Z</updated>
+    <updated>2022-08-08T18:59:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YC是否使用AI來篩選申請？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32389347</id>
+        <link href="https://news.ycombinator.com/item?id=32389347"/>
+        <updated>2022-08-08T18:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does YC use AI to screen applications?]]></summary>
+        <author>
+            <name>dayve</name>
+            <uri>https://news.ycombinator.com/user?id=dayve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你讀過哪些意想不到的好書？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kbrannigan</name>
             <uri>https://news.ycombinator.com/user?id=kbrannigan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為一個使用麻省理工學院Scratch的孩子提供Elixir？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242897</id>
-        <link href="https://news.ycombinator.com/item?id=32242897"/>
-        <updated>2022-07-26T19:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Elixir for a kid who uses MIT’s Scratch?]]></summary>
-        <author>
-            <name>ralmidani</name>
-            <uri>https://news.ycombinator.com/user?id=ralmidani</uri>
         </author>
     </entry>
 </feed>
