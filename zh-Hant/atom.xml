@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T19:58:43.480Z</updated>
+    <updated>2022-08-08T20:34:57.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人使用FreeBSD或OpenBSD作為日常環境嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390378</id>
+        <link href="https://news.ycombinator.com/item?id=32390378"/>
+        <updated>2022-08-08T20:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone use FreeBSD or OpenBSD as a daily environment?]]></summary>
+        <author>
+            <name>stakkur</name>
+            <uri>https://news.ycombinator.com/user?id=stakkur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[破損的數據管道，你如何處理？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gtstar</name>
             <uri>https://news.ycombinator.com/user?id=gtstar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推薦用於收集各服務的收藏夾的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243136</id>
-        <link href="https://news.ycombinator.com/item?id=32243136"/>
-        <updated>2022-07-26T19:55:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended tool to collect favorites across services]]></summary>
-        <author>
-            <name>etoulas</name>
-            <uri>https://news.ycombinator.com/user?id=etoulas</uri>
         </author>
     </entry>
 </feed>
