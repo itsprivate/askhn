@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T20:34:57.565Z</updated>
+    <updated>2022-08-08T20:50:59.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電動汽車的採用速度過快，是否可以持續？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390789</id>
+        <link href="https://news.ycombinator.com/item?id=32390789"/>
+        <updated>2022-08-08T20:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the adoption of electric cars too fast to be sustained?]]></summary>
+        <author>
+            <name>julienreszka</name>
+            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人使用FreeBSD或OpenBSD作為日常環境嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saradhi</name>
             <uri>https://news.ycombinator.com/user?id=saradhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望在氣候/能源領域看到哪些解決方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243272</id>
-        <link href="https://news.ycombinator.com/item?id=32243272"/>
-        <updated>2022-07-26T20:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What solutions would you like to see in the climate/energy space?]]></summary>
-        <author>
-            <name>gtstar</name>
-            <uri>https://news.ycombinator.com/user?id=gtstar</uri>
         </author>
     </entry>
 </feed>
