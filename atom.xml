@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T18:59:41.129Z</updated>
+    <updated>2022-08-08T19:58:43.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[破损的数据管道，你如何处理？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390168</id>
+        <link href="https://news.ycombinator.com/item?id=32390168"/>
+        <updated>2022-08-08T19:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Broken data pipelines, how do you handle them?]]></summary>
+        <author>
+            <name>krishadi</name>
+            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YC是否使用AI来筛选申请？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>etoulas</name>
             <uri>https://news.ycombinator.com/user?id=etoulas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有适合开发者的DoorDash？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243125</id>
-        <link href="https://news.ycombinator.com/item?id=32243125"/>
-        <updated>2022-07-26T19:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is There a DoorDash for Developer?]]></summary>
-        <author>
-            <name>kbrannigan</name>
-            <uri>https://news.ycombinator.com/user?id=kbrannigan</uri>
         </author>
     </entry>
 </feed>

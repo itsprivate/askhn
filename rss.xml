@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 08 Aug 2022 18:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 19:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[破损的数据管道，你如何处理？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32390168</link>
+            <guid>https://news.ycombinator.com/item?id=32390168</guid>
+            <pubDate>Mon, 08 Aug 2022 19:47:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: Broken data pipelines, how do you handle them?]]></description>
+        </item>
         <item>
             <title><![CDATA[YC是否使用AI来筛选申请？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32243136</guid>
             <pubDate>Tue, 26 Jul 2022 19:55:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Recommended tool to collect favorites across services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有适合开发者的DoorDash？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32243125</link>
-            <guid>https://news.ycombinator.com/item?id=32243125</guid>
-            <pubDate>Tue, 26 Jul 2022 19:54:35 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is There a DoorDash for Developer?]]></description>
         </item>
     </channel>
 </rss>
