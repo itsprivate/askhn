@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T10:35:56.253Z</updated>
+    <updated>2022-08-08T11:26:44.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一句话推销。你的最佳报价和价格是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384251</id>
+        <link href="https://news.ycombinator.com/item?id=32384251"/>
+        <updated>2022-08-08T11:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: One sentence pitch. What is your best offer and the price?]]></summary>
+        <author>
+            <name>ebbflowgo</name>
+            <uri>https://news.ycombinator.com/user?id=ebbflowgo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[职业建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384155</id>
+        <link href="https://news.ycombinator.com/item?id=32384155"/>
+        <updated>2022-08-08T11:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Career Advice]]></summary>
+        <author>
+            <name>maury91</name>
+            <uri>https://news.ycombinator.com/user?id=maury91</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[指向和点击推荐
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>corentin88</name>
             <uri>https://news.ycombinator.com/user?id=corentin88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松弛停工是全球性的，还是区域性的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237889</id>
-        <link href="https://news.ycombinator.com/item?id=32237889"/>
-        <updated>2022-07-26T13:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is slack outage global, or regional?]]></summary>
-        <author>
-            <name>netfortius</name>
-            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既然阿特米斯1号的测试比SpaceX少，为什么NASA对它有信心？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237348</id>
-        <link href="https://news.ycombinator.com/item?id=32237348"/>
-        <updated>2022-07-26T12:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is NASA confident with Artemis 1 given its less testing than SpaceX?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
