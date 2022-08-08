@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什么是Lisp的 "启示"？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32383525</link>
+            <guid>https://news.ycombinator.com/item?id=32383525</guid>
+            <pubDate>Mon, 08 Aug 2022 08:53:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Is the Lisp “Enlightment”?]]></description>
+        </item>
         <item>
             <title><![CDATA[你会在一个封闭的注册中心发布你的开放源码软件包以实现盈利吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32236939</guid>
             <pubDate>Tue, 26 Jul 2022 11:40:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Why companies do not list your weaknesses in rejection email?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你相信Grammarly吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32236438</link>
-            <guid>https://news.ycombinator.com/item?id=32236438</guid>
-            <pubDate>Tue, 26 Jul 2022 10:22:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do You Trust Grammarly?]]></description>
         </item>
     </channel>
 </rss>
