@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T22:32:27.656Z</updated>
+    <updated>2022-08-08T22:51:08.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果硅上的虛擬化/VPN選項
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392027</id>
+        <link href="https://news.ycombinator.com/item?id=32392027"/>
+        <updated>2022-08-08T22:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Virtualization / VPN Options on Apple Silicon]]></summary>
+        <author>
+            <name>apgeyc</name>
+            <uri>https://news.ycombinator.com/user?id=apgeyc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是最簡約的自我託管Markdown-to-blog解決方案？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392025</id>
+        <link href="https://news.ycombinator.com/item?id=32392025"/>
+        <updated>2022-08-08T22:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the most minimalist self-hosted Markdown-to-blog solution?]]></summary>
+        <author>
+            <name>joshcsimmons</name>
+            <uri>https://news.ycombinator.com/user?id=joshcsimmons</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你認為科技公司的哪些工作條件不安全？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yscodes</name>
             <uri>https://news.ycombinator.com/user?id=yscodes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用Spinnaker進行持續交付嗎？它是怎樣的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32244306</id>
-        <link href="https://news.ycombinator.com/item?id=32244306"/>
-        <updated>2022-07-26T21:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone use Spinnaker for continuous delivery? How is it?]]></summary>
-        <author>
-            <name>throw14082020</name>
-            <uri>https://news.ycombinator.com/user?id=throw14082020</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這裡有一篇關於裁員的文章。幫助我找到它？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32244218</id>
-        <link href="https://news.ycombinator.com/item?id=32244218"/>
-        <updated>2022-07-26T21:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: There was an article posted here about layoffs. Help me find it?]]></summary>
-        <author>
-            <name>xwowsersx</name>
-            <uri>https://news.ycombinator.com/user?id=xwowsersx</uri>
         </author>
     </entry>
 </feed>
