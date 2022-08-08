@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T17:47:26.976Z</updated>
+    <updated>2022-08-08T17:59:51.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[酷炫的（新）GTLDs？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388707</id>
+        <link href="https://news.ycombinator.com/item?id=32388707"/>
+        <updated>2022-08-08T17:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cool (New) GTLDs?]]></summary>
+        <author>
+            <name>night-rider</name>
+            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在路由器層面設置 "詢問連接 "模式的防火牆？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388673</id>
+        <link href="https://news.ycombinator.com/item?id=32388673"/>
+        <updated>2022-08-08T17:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Setting up “Ask to Connect” mode firewall at router level?]]></summary>
+        <author>
+            <name>unknownaccount</name>
+            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人能對我進行3D掃描並與我的身體發生關係嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388618</id>
+        <link href="https://news.ycombinator.com/item?id=32388618"/>
+        <updated>2022-08-08T17:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can someone 3D scan me and have sex with my body?]]></summary>
+        <author>
+            <name>anon115</name>
+            <uri>https://news.ycombinator.com/user?id=anon115</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[點擊超鏈接時，你的macOS光標是否會跳動？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>pranshum</name>
             <uri>https://news.ycombinator.com/user?id=pranshum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼不使用人工智能來自動調整亮度和音量？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242734</id>
-        <link href="https://news.ycombinator.com/item?id=32242734"/>
-        <updated>2022-07-26T19:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why not use AI to automatically adjust brightness and volume?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知名度較低的電子書和有聲讀物網站，儘可能不含DRM。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242691</id>
-        <link href="https://news.ycombinator.com/item?id=32242691"/>
-        <updated>2022-07-26T19:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Lesser-known sites for ebooks and audiobooks, as DRM-free as possible]]></summary>
-        <author>
-            <name>tusslewake</name>
-            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惡意軟件研究人員，你使用什麼硬件/軟件配置？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242649</id>
-        <link href="https://news.ycombinator.com/item?id=32242649"/>
-        <updated>2022-07-26T19:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Malware researchers, what hardware/software configuration do you use?]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
         </author>
     </entry>
 </feed>
