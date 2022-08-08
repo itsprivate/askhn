@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T02:25:28.089Z</updated>
+    <updated>2022-08-08T04:47:26.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于建立基于ActivityPub RSS的新闻聚合社区的建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32382338</id>
+        <link href="https://news.ycombinator.com/item?id=32382338"/>
+        <updated>2022-08-08T04:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Proposal for an ActivityPub RSS Based News Aggregation Community]]></summary>
+        <author>
+            <name>super_throwaway</name>
+            <uri>https://news.ycombinator.com/user?id=super_throwaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伟大的教师
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Akronymus</name>
             <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从书中读到的任何建议，你在现实世界中的应用。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234666</id>
-        <link href="https://news.ycombinator.com/item?id=32234666"/>
-        <updated>2022-07-26T05:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any advice that you applied in real world after reading from a book]]></summary>
-        <author>
-            <name>dprophecyguy</name>
-            <uri>https://news.ycombinator.com/user?id=dprophecyguy</uri>
         </author>
     </entry>
 </feed>
