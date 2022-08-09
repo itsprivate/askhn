@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T20:51:41.857Z</updated>
+    <updated>2022-08-09T21:03:26.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从数据工程师转到软件工程师有多难？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404199</id>
+        <link href="https://news.ycombinator.com/item?id=32404199"/>
+        <updated>2022-08-09T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How hard would it be to move from Data Engineer to Software Engineer?]]></summary>
+        <author>
+            <name>anxiousnewgrad</name>
+            <uri>https://news.ycombinator.com/user?id=anxiousnewgrad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你使用哪种用户推荐软件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404098</id>
+        <link href="https://news.ycombinator.com/item?id=32404098"/>
+        <updated>2022-08-09T20:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which user referral software do you use?]]></summary>
+        <author>
+            <name>saradhi</name>
+            <uri>https://news.ycombinator.com/user?id=saradhi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么即使关闭了JavaScript，这个页面也会使浏览器标签崩溃？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>spacesarebetter</name>
             <uri>https://news.ycombinator.com/user?id=spacesarebetter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如今，老牌的Facebook能否成功？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251653</id>
-        <link href="https://news.ycombinator.com/item?id=32251653"/>
-        <updated>2022-07-27T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can the old Facebook succeed nowadays?]]></summary>
-        <author>
-            <name>samemail88</name>
-            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你陷入困境的时候，你会怎么做？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251442</id>
-        <link href="https://news.ycombinator.com/item?id=32251442"/>
-        <updated>2022-07-27T15:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do in a moment when you're stumped?]]></summary>
-        <author>
-            <name>impendia</name>
-            <uri>https://news.ycombinator.com/user?id=impendia</uri>
         </author>
     </entry>
 </feed>
