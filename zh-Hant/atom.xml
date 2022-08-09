@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T08:39:07.166Z</updated>
+    <updated>2022-08-09T11:45:27.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天早些時候谷歌宕機時，StartPage搜索也宕機了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396414</id>
+        <link href="https://news.ycombinator.com/item?id=32396414"/>
+        <updated>2022-08-09T11:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did StartPage search go down when Google went down earlier today?]]></summary>
+        <author>
+            <name>notRobot</name>
+            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[訪問系統音頻輸出的跨平臺方法？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nerdyadventurer</name>
             <uri>https://news.ycombinator.com/user?id=nerdyadventurer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在哪裡找到你的RSS網站？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246893</id>
-        <link href="https://news.ycombinator.com/item?id=32246893"/>
-        <updated>2022-07-27T04:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where do you find your RSS sites?]]></summary>
-        <author>
-            <name>pipeline_peak</name>
-            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
         </author>
     </entry>
 </feed>
