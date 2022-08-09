@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T18:58:22.381Z</updated>
+    <updated>2022-08-09T19:59:48.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在FAANGs之一工作后，你接下来追求什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32403275</id>
+        <link href="https://news.ycombinator.com/item?id=32403275"/>
+        <updated>2022-08-09T19:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What did you pursue next after working at one of the FAANGs?]]></summary>
+        <author>
+            <name>mdcds</name>
+            <uri>https://news.ycombinator.com/user?id=mdcds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开放式课件发生了什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wanobi</name>
             <uri>https://news.ycombinator.com/user?id=wanobi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用过Oracle云吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251194</id>
-        <link href="https://news.ycombinator.com/item?id=32251194"/>
-        <updated>2022-07-27T14:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone used Oracle cloud?]]></summary>
-        <author>
-            <name>api</name>
-            <uri>https://news.ycombinator.com/user?id=api</uri>
         </author>
     </entry>
 </feed>
