@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T22:01:02.867Z</updated>
+    <updated>2022-08-09T22:31:03.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何处理申请工作时的潜在歧视问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404961</id>
+        <link href="https://news.ycombinator.com/item?id=32404961"/>
+        <updated>2022-08-09T22:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to deal with potential discrimination when applying for job]]></summary>
+        <author>
+            <name>twohaibei</name>
+            <uri>https://news.ycombinator.com/user?id=twohaibei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有哪些有趣的可视化编程的例子？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>b_u_n_n_y</name>
             <uri>https://news.ycombinator.com/user?id=b_u_n_n_y</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否远程从事多项工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251905</id>
-        <link href="https://news.ycombinator.com/item?id=32251905"/>
-        <updated>2022-07-27T15:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you work multiple jobs remotely?]]></summary>
-        <author>
-            <name>alkaloid</name>
-            <uri>https://news.ycombinator.com/user?id=alkaloid</uri>
         </author>
     </entry>
 </feed>
