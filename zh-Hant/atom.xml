@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T18:40:32.612Z</updated>
+    <updated>2022-08-09T18:58:22.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開放式課件發生了什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32402075</id>
+        <link href="https://news.ycombinator.com/item?id=32402075"/>
+        <updated>2022-08-09T18:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Open Courseware?]]></summary>
+        <author>
+            <name>porknubbins</name>
+            <uri>https://news.ycombinator.com/user?id=porknubbins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰能提供一個關於DAC熱力學的概述？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>api</name>
             <uri>https://news.ycombinator.com/user?id=api</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否一直在學習新的技術知識而沒有任何應用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251025</id>
-        <link href="https://news.ycombinator.com/item?id=32251025"/>
-        <updated>2022-07-27T14:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do u keep learning new technical stuffs w/o any application?]]></summary>
-        <author>
-            <name>dev_0</name>
-            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
         </author>
     </entry>
 </feed>
