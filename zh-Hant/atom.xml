@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T15:38:17.682Z</updated>
+    <updated>2022-08-09T16:48:17.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Mac用戶使用Chrome而不是Safari？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399933</id>
+        <link href="https://news.ycombinator.com/item?id=32399933"/>
+        <updated>2022-08-09T16:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Mac users use Chrome not Safari?]]></summary>
+        <author>
+            <name>plg</name>
+            <uri>https://news.ycombinator.com/user?id=plg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰沒有賣過設計衝刺，試過設計衝刺嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sandreas</name>
             <uri>https://news.ycombinator.com/user?id=sandreas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在編輯評論時顯示家長？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32249909</id>
-        <link href="https://news.ycombinator.com/item?id=32249909"/>
-        <updated>2022-07-27T13:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Show parent when editing comment?]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>
