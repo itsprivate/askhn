@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是谁做出了不允许HN Mar-a-Lago报道或讨论的决定？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32406094</link>
+            <guid>https://news.ycombinator.com/item?id=32406094</guid>
+            <pubDate>Tue, 09 Aug 2022 23:39:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who made the decision not to allow HN Mar-a-Lago stories or discussion?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在启动前是否清理你的网络数据？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252645</guid>
             <pubDate>Wed, 27 Jul 2022 16:33:36 GMT</pubDate>
             <description><![CDATA[Ask HN: My Telegram account was banned for unknown reasons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[浏览器之外的WASM的目的是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252639</link>
-            <guid>https://news.ycombinator.com/item?id=32252639</guid>
-            <pubDate>Wed, 27 Jul 2022 16:33:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the purpose of WASM outside the browser?]]></description>
         </item>
     </channel>
 </rss>
