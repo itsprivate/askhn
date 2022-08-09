@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T19:59:48.200Z</updated>
+    <updated>2022-08-09T20:33:42.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像Buffer和Hootsuite这样的平台是如何被允许存在的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32403739</id>
+        <link href="https://news.ycombinator.com/item?id=32403739"/>
+        <updated>2022-08-09T20:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How are platforms like Buffer and Hootsuite allowed to exist?]]></summary>
+        <author>
+            <name>cloudyporpoise</name>
+            <uri>https://news.ycombinator.com/user?id=cloudyporpoise</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在FAANGs之一工作后，你接下来追求什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pigtailgirl</name>
             <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何在不写/接触前端代码的情况下研究后端？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251306</id>
-        <link href="https://news.ycombinator.com/item?id=32251306"/>
-        <updated>2022-07-27T15:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you study back end without writing/touching front end code?]]></summary>
-        <author>
-            <name>wanobi</name>
-            <uri>https://news.ycombinator.com/user?id=wanobi</uri>
         </author>
     </entry>
 </feed>
