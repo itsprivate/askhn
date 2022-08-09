@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T14:59:15.019Z</updated>
+    <updated>2022-08-09T15:38:17.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有谁没有卖过设计冲刺，试过设计冲刺吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399312</id>
+        <link href="https://news.ycombinator.com/item?id=32399312"/>
+        <updated>2022-08-09T15:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone not selling Design Sprints tried a design sprint?]]></summary>
+        <author>
+            <name>startupdiscuss</name>
+            <uri>https://news.ycombinator.com/user?id=startupdiscuss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地球何时会达到人口高峰？你认为会是什么情况呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推进个人项目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32249787</id>
-        <link href="https://news.ycombinator.com/item?id=32249787"/>
-        <updated>2022-07-27T12:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Advancing a Personal Project?]]></summary>
-        <author>
-            <name>mt_plag</name>
-            <uri>https://news.ycombinator.com/user?id=mt_plag</uri>
         </author>
     </entry>
 </feed>
