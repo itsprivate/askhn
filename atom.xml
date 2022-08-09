@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-08T23:33:22.832Z</updated>
+    <updated>2022-08-09T02:46:20.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Frontendmasters.com这么贵？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32393455</id>
+        <link href="https://news.ycombinator.com/item?id=32393455"/>
+        <updated>2022-08-09T02:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Frontendmasters.com is so expensive?]]></summary>
+        <author>
+            <name>navinaust</name>
+            <uri>https://news.ycombinator.com/user?id=navinaust</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索下降？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32393051</id>
+        <link href="https://news.ycombinator.com/item?id=32393051"/>
+        <updated>2022-08-09T01:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google Search Down?]]></summary>
+        <author>
+            <name>alhirzel</name>
+            <uri>https://news.ycombinator.com/user?id=alhirzel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记的艺术形式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392936</id>
+        <link href="https://news.ycombinator.com/item?id=32392936"/>
+        <updated>2022-08-09T00:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Artistic Forms of Journaling]]></summary>
+        <author>
+            <name>ciwchris</name>
+            <uri>https://news.ycombinator.com/user?id=ciwchris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何与你的用户交谈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392649</id>
+        <link href="https://news.ycombinator.com/item?id=32392649"/>
+        <updated>2022-08-09T00:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you talk to your users?]]></summary>
+        <author>
+            <name>blindot</name>
+            <uri>https://news.ycombinator.com/user?id=blindot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何有价值的管理培训？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>RichardHeart</name>
             <uri>https://news.ycombinator.com/user?id=RichardHeart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对你来说，编程作为一种工作是否变得不那么理想，而更多地是一种爱好？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32245568</id>
-        <link href="https://news.ycombinator.com/item?id=32245568"/>
-        <updated>2022-07-27T00:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has programming become less desirable to you as a job, more as a hobby?]]></summary>
-        <author>
-            <name>djellybeans</name>
-            <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为QUIC的连接ID不加密可以吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32245267</id>
-        <link href="https://news.ycombinator.com/item?id=32245267"/>
-        <updated>2022-07-26T23:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you think that it's OK to have QUIC's connection IDs unencrypted?]]></summary>
-        <author>
-            <name>Pakdef</name>
-            <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox经常使用Python，他们的Windows客户端也是这样吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32245091</id>
-        <link href="https://news.ycombinator.com/item?id=32245091"/>
-        <updated>2022-07-26T22:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Dropbox uses Python a lot, is it also the case for their Windows client?]]></summary>
-        <author>
-            <name>josephernest</name>
-            <uri>https://news.ycombinator.com/user?id=josephernest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免专利侵权/专利巨头？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32244691</id>
-        <link href="https://news.ycombinator.com/item?id=32244691"/>
-        <updated>2022-07-26T22:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to avoid patent infringement/patent trolls?]]></summary>
-        <author>
-            <name>ditherblur</name>
-            <uri>https://news.ycombinator.com/user?id=ditherblur</uri>
         </author>
     </entry>
 </feed>
