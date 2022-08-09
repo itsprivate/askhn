@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T16:48:17.420Z</updated>
+    <updated>2022-08-09T17:12:07.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小開發者如何推廣自己的應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400519</id>
+        <link href="https://news.ycombinator.com/item?id=32400519"/>
+        <updated>2022-08-09T16:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do small developer promote own apps?]]></summary>
+        <author>
+            <name>DarkwingDuckFan</name>
+            <uri>https://news.ycombinator.com/user?id=DarkwingDuckFan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前對文件索引器的限制是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400443</id>
+        <link href="https://news.ycombinator.com/item?id=32400443"/>
+        <updated>2022-08-09T16:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the current limits for file indexers?]]></summary>
+        <author>
+            <name>didgetmaster</name>
+            <uri>https://news.ycombinator.com/user?id=didgetmaster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django管理的最佳附加組件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400401</id>
+        <link href="https://news.ycombinator.com/item?id=32400401"/>
+        <updated>2022-08-09T16:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Addons for Django Admin?]]></summary>
+        <author>
+            <name>35mm</name>
+            <uri>https://news.ycombinator.com/user?id=35mm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Mac用戶使用Chrome而不是Safari？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>liberia</name>
             <uri>https://news.ycombinator.com/user?id=liberia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能看到我所有的亞馬遜交易？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32250448</id>
-        <link href="https://news.ycombinator.com/item?id=32250448"/>
-        <updated>2022-07-27T13:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I see all of my Amazon transactions?]]></summary>
-        <author>
-            <name>robertlagrant</name>
-            <uri>https://news.ycombinator.com/user?id=robertlagrant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何有效地干擾音頻揚聲器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32250292</id>
-        <link href="https://news.ycombinator.com/item?id=32250292"/>
-        <updated>2022-07-27T13:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to effectively jam audio speakers?]]></summary>
-        <author>
-            <name>the_italian_job</name>
-            <uri>https://news.ycombinator.com/user?id=the_italian_job</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只對文件的一部分進行散列，作為唯一的校驗，是否有意義？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32250290</id>
-        <link href="https://news.ycombinator.com/item?id=32250290"/>
-        <updated>2022-07-27T13:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does hashing only part of a file make sense as unique checksum?]]></summary>
-        <author>
-            <name>sandreas</name>
-            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
         </author>
     </entry>
 </feed>

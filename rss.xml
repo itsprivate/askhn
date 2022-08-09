@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 09 Aug 2022 16:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[小开发者如何推广自己的应用程序？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32400519</link>
+            <guid>https://news.ycombinator.com/item?id=32400519</guid>
+            <pubDate>Tue, 09 Aug 2022 16:57:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do small developer promote own apps?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[目前对文件索引器的限制是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32400443</link>
+            <guid>https://news.ycombinator.com/item?id=32400443</guid>
+            <pubDate>Tue, 09 Aug 2022 16:52:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are the current limits for file indexers?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Django管理的最佳附加组件？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32400401</link>
+            <guid>https://news.ycombinator.com/item?id=32400401</guid>
+            <pubDate>Tue, 09 Aug 2022 16:49:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best Addons for Django Admin?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么Mac用户使用Chrome而不是Safari？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32250524</guid>
             <pubDate>Wed, 27 Jul 2022 14:05:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Why are there so many shady browsers in the iOS App Store?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我怎样才能看到我所有的亚马逊交易？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250448</link>
-            <guid>https://news.ycombinator.com/item?id=32250448</guid>
-            <pubDate>Wed, 27 Jul 2022 13:57:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I see all of my Amazon transactions?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何有效地干扰音频扬声器？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250292</link>
-            <guid>https://news.ycombinator.com/item?id=32250292</guid>
-            <pubDate>Wed, 27 Jul 2022 13:42:36 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to effectively jam audio speakers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只对文件的一部分进行散列，作为唯一的校验，是否有意义？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250290</link>
-            <guid>https://news.ycombinator.com/item?id=32250290</guid>
-            <pubDate>Wed, 27 Jul 2022 13:42:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does hashing only part of a file make sense as unique checksum?]]></description>
         </item>
     </channel>
 </rss>
