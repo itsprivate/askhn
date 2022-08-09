@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T21:03:26.059Z</updated>
+    <updated>2022-08-09T22:01:02.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有哪些有趣的可视化编程的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404664</id>
+        <link href="https://news.ycombinator.com/item?id=32404664"/>
+        <updated>2022-08-09T21:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some interesting examples of visual programming?]]></summary>
+        <author>
+            <name>kaveh808</name>
+            <uri>https://news.ycombinator.com/user?id=kaveh808</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从数据工程师转到软件工程师有多难？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alkaloid</name>
             <uri>https://news.ycombinator.com/user?id=alkaloid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的创收副业是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251723</id>
-        <link href="https://news.ycombinator.com/item?id=32251723"/>
-        <updated>2022-07-27T15:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your income generating side project?]]></summary>
-        <author>
-            <name>spacesarebetter</name>
-            <uri>https://news.ycombinator.com/user?id=spacesarebetter</uri>
         </author>
     </entry>
 </feed>
