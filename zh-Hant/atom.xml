@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T04:54:36.969Z</updated>
+    <updated>2022-08-09T05:34:06.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[www/htdocs/public_HTML目錄的最常見名稱是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32394465</id>
+        <link href="https://news.ycombinator.com/item?id=32394465"/>
+        <updated>2022-08-09T05:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the most common name for the www/htdocs/public_HTML directory?]]></summary>
+        <author>
+            <name>tomcam</name>
+            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪個城市是加密貨幣創新的中心？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>noisy_boy</name>
             <uri>https://news.ycombinator.com/user?id=noisy_boy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立一個快速的PC用於開發 (JS)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246174</id>
-        <link href="https://news.ycombinator.com/item?id=32246174"/>
-        <updated>2022-07-27T02:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Building a fast PC for development (JS)]]></summary>
-        <author>
-            <name>ivanyv</name>
-            <uri>https://news.ycombinator.com/user?id=ivanyv</uri>
         </author>
     </entry>
 </feed>
