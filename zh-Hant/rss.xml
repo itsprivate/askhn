@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 09 Aug 2022 20:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 20:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼即使關閉了JavaScript，這個頁面也會使瀏覽器標籤崩潰？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32403928</link>
+            <guid>https://news.ycombinator.com/item?id=32403928</guid>
+            <pubDate>Tue, 09 Aug 2022 20:37:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why would this page crash a browser tab even with JavaScript turned off?]]></description>
+        </item>
         <item>
             <title><![CDATA[像Buffer和Hootsuite這樣的平臺是如何被允許存在的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32251442</guid>
             <pubDate>Wed, 27 Jul 2022 15:13:04 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you do in a moment when you're stumped?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當你睡著時，YouTube會播放垃圾信息嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251366</link>
-            <guid>https://news.ycombinator.com/item?id=32251366</guid>
-            <pubDate>Wed, 27 Jul 2022 15:06:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does YouTube play junk when you fall asleep?]]></description>
         </item>
     </channel>
 </rss>

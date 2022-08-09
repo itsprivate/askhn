@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T20:33:43.043Z</updated>
+    <updated>2022-08-09T20:51:41.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼即使關閉了JavaScript，這個頁面也會使瀏覽器標籤崩潰？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32403928</id>
+        <link href="https://news.ycombinator.com/item?id=32403928"/>
+        <updated>2022-08-09T20:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why would this page crash a browser tab even with JavaScript turned off?]]></summary>
+        <author>
+            <name>noduerme</name>
+            <uri>https://news.ycombinator.com/user?id=noduerme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像Buffer和Hootsuite這樣的平臺是如何被允許存在的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>impendia</name>
             <uri>https://news.ycombinator.com/user?id=impendia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當你睡著時，YouTube會播放垃圾信息嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251366</id>
-        <link href="https://news.ycombinator.com/item?id=32251366"/>
-        <updated>2022-07-27T15:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does YouTube play junk when you fall asleep?]]></summary>
-        <author>
-            <name>pigtailgirl</name>
-            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
         </author>
     </entry>
 </feed>
