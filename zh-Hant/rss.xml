@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 09 Aug 2022 22:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在啟動前是否清理你的網絡數據？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32405584</link>
+            <guid>https://news.ycombinator.com/item?id=32405584</guid>
+            <pubDate>Tue, 09 Aug 2022 22:49:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you clean your web data before launching?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何處理申請工作時的潛在歧視問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252639</guid>
             <pubDate>Wed, 27 Jul 2022 16:33:23 GMT</pubDate>
             <description><![CDATA[Ask HN: What is the purpose of WASM outside the browser?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的工作頭銜是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252291</link>
-            <guid>https://news.ycombinator.com/item?id=32252291</guid>
-            <pubDate>Wed, 27 Jul 2022 16:09:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your job title?]]></description>
         </item>
     </channel>
 </rss>

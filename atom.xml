@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T22:31:03.250Z</updated>
+    <updated>2022-08-09T23:00:43.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在启动前是否清理你的网络数据？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32405584</id>
+        <link href="https://news.ycombinator.com/item?id=32405584"/>
+        <updated>2022-08-09T22:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you clean your web data before launching?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理申请工作时的潜在歧视问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sanskarjethi</name>
             <uri>https://news.ycombinator.com/user?id=sanskarjethi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的工作头衔是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252291</id>
-        <link href="https://news.ycombinator.com/item?id=32252291"/>
-        <updated>2022-07-27T16:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your job title?]]></summary>
-        <author>
-            <name>b_u_n_n_y</name>
-            <uri>https://news.ycombinator.com/user?id=b_u_n_n_y</uri>
         </author>
     </entry>
 </feed>
