@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用现代语言制作一个本地GUI？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32398181</link>
+            <guid>https://news.ycombinator.com/item?id=32398181</guid>
+            <pubDate>Tue, 09 Aug 2022 14:08:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to make a native GUI with a modern language?]]></description>
+        </item>
         <item>
             <title><![CDATA[建立语言模型需要什么样的数据？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32249381</guid>
             <pubDate>Wed, 27 Jul 2022 11:55:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Timing product release for when competitor's product is stale?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的SaaS没能起飞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32249340</link>
-            <guid>https://news.ycombinator.com/item?id=32249340</guid>
-            <pubDate>Wed, 27 Jul 2022 11:49:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Your SaaS that didn't take off]]></description>
         </item>
     </channel>
 </rss>
