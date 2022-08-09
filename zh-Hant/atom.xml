@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T07:28:30.030Z</updated>
+    <updated>2022-08-09T08:39:07.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[訪問系統音頻輸出的跨平臺方法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395389</id>
+        <link href="https://news.ycombinator.com/item?id=32395389"/>
+        <updated>2022-08-09T08:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cross platform method for accessing system audio output?]]></summary>
+        <author>
+            <name>desertraven</name>
+            <uri>https://news.ycombinator.com/user?id=desertraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什麼好的廣告服務器嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pipeline_peak</name>
             <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的子版塊是什麼，為什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246852</id>
-        <link href="https://news.ycombinator.com/item?id=32246852"/>
-        <updated>2022-07-27T04:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your favorite subreddits and why?]]></summary>
-        <author>
-            <name>Gary_TheSnail_</name>
-            <uri>https://news.ycombinator.com/user?id=Gary_TheSnail_</uri>
         </author>
     </entry>
 </feed>
