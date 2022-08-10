@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 14:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果现在是一家芯片公司吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32412294</link>
+            <guid>https://news.ycombinator.com/item?id=32412294</guid>
+            <pubDate>Wed, 10 Aug 2022 14:13:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Apple now a chip company?]]></description>
+        </item>
         <item>
             <title><![CDATA[对我本人进行24/7的录音？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32256409</guid>
             <pubDate>Wed, 27 Jul 2022 20:25:50 GMT</pubDate>
             <description><![CDATA[Ask HN: Purpose of Nginx container vs. cloud based elastic load balancers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有一个网站列出付费/有偿的科技市场研究？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32256045</link>
-            <guid>https://news.ycombinator.com/item?id=32256045</guid>
-            <pubDate>Wed, 27 Jul 2022 20:02:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a site listing paid / compensated tech market research?]]></description>
         </item>
     </channel>
 </rss>
