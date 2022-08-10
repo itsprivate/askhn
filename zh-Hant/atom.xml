@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T02:14:23.016Z</updated>
+    <updated>2022-08-10T05:03:51.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何成為優秀的競爭性編程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32407960</id>
+        <link href="https://news.ycombinator.com/item?id=32407960"/>
+        <updated>2022-08-10T04:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you become good at competitive programming]]></summary>
+        <author>
+            <name>Sparkenstein</name>
+            <uri>https://news.ycombinator.com/user?id=Sparkenstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你離開目前的職位，是否更難談及高薪？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>psilentpsmith</name>
             <uri>https://news.ycombinator.com/user?id=psilentpsmith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼一定要碰一個USB安全鑰匙？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252746</id>
-        <link href="https://news.ycombinator.com/item?id=32252746"/>
-        <updated>2022-07-27T16:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you have to touch a USB security key?]]></summary>
-        <author>
-            <name>whyage</name>
-            <uri>https://news.ycombinator.com/user?id=whyage</uri>
         </author>
     </entry>
 </feed>
