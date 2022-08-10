@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在哪里可以得到Rust程序员的意见？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32408182</link>
+            <guid>https://news.ycombinator.com/item?id=32408182</guid>
+            <pubDate>Wed, 10 Aug 2022 05:49:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where may I get the opinions of Rust programmers?]]></description>
+        </item>
         <item>
             <title><![CDATA[什么是差异化编程的最佳环境？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252957</guid>
             <pubDate>Wed, 27 Jul 2022 16:55:25 GMT</pubDate>
             <description><![CDATA[Ask HN: What's your note-taking methodology?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当信用卡过期时，为什么银行不发新的号码？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252774</link>
-            <guid>https://news.ycombinator.com/item?id=32252774</guid>
-            <pubDate>Wed, 27 Jul 2022 16:43:03 GMT</pubDate>
-            <description><![CDATA[Ask HN: When a credit card expires why does the bank not issue a new number?]]></description>
         </item>
     </channel>
 </rss>

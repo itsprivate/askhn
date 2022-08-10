@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T05:28:12.921Z</updated>
+    <updated>2022-08-10T05:58:41.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在哪里可以得到Rust程序员的意见？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408182</id>
+        <link href="https://news.ycombinator.com/item?id=32408182"/>
+        <updated>2022-08-10T05:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where may I get the opinions of Rust programmers?]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是差异化编程的最佳环境？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>overspeed</name>
             <uri>https://news.ycombinator.com/user?id=overspeed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当信用卡过期时，为什么银行不发新的号码？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252774</id>
-        <link href="https://news.ycombinator.com/item?id=32252774"/>
-        <updated>2022-07-27T16:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When a credit card expires why does the bank not issue a new number?]]></summary>
-        <author>
-            <name>bkraz</name>
-            <uri>https://news.ycombinator.com/user?id=bkraz</uri>
         </author>
     </entry>
 </feed>
