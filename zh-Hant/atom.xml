@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T21:47:52.627Z</updated>
+    <updated>2022-08-10T22:29:27.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2008年經濟衰退時的人們
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32419182</id>
+        <link href="https://news.ycombinator.com/item?id=32419182"/>
+        <updated>2022-08-10T22:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Folks who were around the 2008 Recession]]></summary>
+        <author>
+            <name>romeros</name>
+            <uri>https://news.ycombinator.com/user?id=romeros</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成為司儀需要哪些技能和/或軟件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fratlas</name>
             <uri>https://news.ycombinator.com/user?id=fratlas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼最近的許多評論都有連字符來分隔兩個段落？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32260596</id>
-        <link href="https://news.ycombinator.com/item?id=32260596"/>
-        <updated>2022-07-28T04:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do many recent comments have hyphens separating two paragraphs?]]></summary>
-        <author>
-            <name>1R</name>
-            <uri>https://news.ycombinator.com/user?id=1R</uri>
         </author>
     </entry>
 </feed>
