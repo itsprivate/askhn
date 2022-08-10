@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T14:29:54.090Z</updated>
+    <updated>2022-08-10T15:35:17.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么亚马逊Prime Video没有一个简单的域名，如primevideo.com？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32413432</id>
+        <link href="https://news.ycombinator.com/item?id=32413432"/>
+        <updated>2022-08-10T15:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why doesn't Amazon Prime Video have a simple domain like primevideo.com?]]></summary>
+        <author>
+            <name>alphachloride</name>
+            <uri>https://news.ycombinator.com/user?id=alphachloride</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脸书和谷歌的工程师们是否在偷懒，工作很少？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32413214</id>
+        <link href="https://news.ycombinator.com/item?id=32413214"/>
+        <updated>2022-08-10T15:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are Facebook and Google engineers slacking around with little work?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果现在是一家芯片公司吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对在FAANG工作有什么看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256507</id>
-        <link href="https://news.ycombinator.com/item?id=32256507"/>
-        <updated>2022-07-27T20:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did you think about working at a FAANG?]]></summary>
-        <author>
-            <name>vitorfhc</name>
-            <uri>https://news.ycombinator.com/user?id=vitorfhc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx容器与基于云的弹性负载均衡器的目的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256409</id>
-        <link href="https://news.ycombinator.com/item?id=32256409"/>
-        <updated>2022-07-27T20:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Purpose of Nginx container vs. cloud based elastic load balancers?]]></summary>
-        <author>
-            <name>foxfoxx</name>
-            <uri>https://news.ycombinator.com/user?id=foxfoxx</uri>
         </author>
     </entry>
 </feed>
