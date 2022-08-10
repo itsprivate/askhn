@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T05:03:51.377Z</updated>
+    <updated>2022-08-10T05:28:12.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是差異化編程的最佳環境？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408049</id>
+        <link href="https://news.ycombinator.com/item?id=32408049"/>
+        <updated>2022-08-10T05:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best environments for differential programming?]]></summary>
+        <author>
+            <name>pc2g4d</name>
+            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何成為優秀的競爭性編程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bkraz</name>
             <uri>https://news.ycombinator.com/user?id=bkraz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的RSS提要/個人經營的博客？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252754</id>
-        <link href="https://news.ycombinator.com/item?id=32252754"/>
-        <updated>2022-07-27T16:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good RSS Feeds/Blogs run by individuals?]]></summary>
-        <author>
-            <name>psilentpsmith</name>
-            <uri>https://news.ycombinator.com/user?id=psilentpsmith</uri>
         </author>
     </entry>
 </feed>
