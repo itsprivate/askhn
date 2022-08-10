@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T19:26:23.701Z</updated>
+    <updated>2022-08-10T19:45:15.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打印教科書大小的PDF的最佳服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32417170</id>
+        <link href="https://news.ycombinator.com/item?id=32417170"/>
+        <updated>2022-08-10T19:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best service to print textbook sized PDFs]]></summary>
+        <author>
+            <name>swagasaurus-rex</name>
+            <uri>https://news.ycombinator.com/user?id=swagasaurus-rex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否為應對通貨膨脹而提高價格？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ashton314</name>
             <uri>https://news.ycombinator.com/user?id=ashton314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有明確編碼的情況下解決一個算法的面試？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32259214</id>
-        <link href="https://news.ycombinator.com/item?id=32259214"/>
-        <updated>2022-07-28T01:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Solving an algorithm interview without explicitly coding the solution?]]></summary>
-        <author>
-            <name>_robbywashere</name>
-            <uri>https://news.ycombinator.com/user?id=_robbywashere</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 19:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 19:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[打印教科書大小的PDF的最佳服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32417170</link>
+            <guid>https://news.ycombinator.com/item?id=32417170</guid>
+            <pubDate>Wed, 10 Aug 2022 19:24:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best service to print textbook sized PDFs]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否為應對通貨膨脹而提高價格？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32259827</guid>
             <pubDate>Thu, 28 Jul 2022 02:27:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Looking for an open license, but not for AI model training]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在沒有明確編碼的情況下解決一個算法的面試？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32259214</link>
-            <guid>https://news.ycombinator.com/item?id=32259214</guid>
-            <pubDate>Thu, 28 Jul 2022 01:04:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Solving an algorithm interview without explicitly coding the solution?]]></description>
         </item>
     </channel>
 </rss>
