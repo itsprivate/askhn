@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T12:55:54.579Z</updated>
+    <updated>2022-08-10T13:48:04.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[練習如何更清晰地思考，然後說話
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411586</id>
+        <link href="https://news.ycombinator.com/item?id=32411586"/>
+        <updated>2022-08-10T13:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Exercises to think, then speak, more clearly]]></summary>
+        <author>
+            <name>treyfitty</name>
+            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為一個新的SaaS工具使用一個既定的名字有什麼弊端？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>themodelplumber</name>
             <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計算機視覺促進集體利益？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255686</id>
-        <link href="https://news.ycombinator.com/item?id=32255686"/>
-        <updated>2022-07-27T19:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Computer Vision for Collective Good?]]></summary>
-        <author>
-            <name>cv_threauxaway</name>
-            <uri>https://news.ycombinator.com/user?id=cv_threauxaway</uri>
         </author>
     </entry>
 </feed>
