@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T17:45:25.760Z</updated>
+    <updated>2022-08-10T17:59:15.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是雅虎嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415827</id>
+        <link href="https://news.ycombinator.com/item?id=32415827"/>
+        <updated>2022-08-10T17:44:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Yahoo?]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼在高能耗的情況下，Dock中打開的應用指示燈不會變亮？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ironSkillet</name>
             <uri>https://news.ycombinator.com/user?id=ironSkillet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝寶給我發送了未加密的郵件，其中有我的購買細節
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256702</id>
-        <link href="https://news.ycombinator.com/item?id=32256702"/>
-        <updated>2022-07-27T20:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PayPal sent me unencrypted mail with my purchase details]]></summary>
-        <author>
-            <name>bramhadev</name>
-            <uri>https://news.ycombinator.com/user?id=bramhadev</uri>
         </author>
     </entry>
 </feed>
