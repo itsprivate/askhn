@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T09:48:43.555Z</updated>
+    <updated>2022-08-10T10:01:54.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年有哪些最好的网络搜刮工具？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409632</id>
+        <link href="https://news.ycombinator.com/item?id=32409632"/>
+        <updated>2022-08-10T09:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best tools for web scraping in 2022?]]></summary>
+        <author>
+            <name>pablohoffman</name>
+            <uri>https://news.ycombinator.com/user?id=pablohoffman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有没有非技术类的创始人在考虑创办一家技术类创业公司？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwexaway</name>
             <uri>https://news.ycombinator.com/user?id=throwexaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创作者使用现金换评论活动是否不道德？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254734</id>
-        <link href="https://news.ycombinator.com/item?id=32254734"/>
-        <updated>2022-07-27T18:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it unethical for creators to use cash-for-reviews campaigns?]]></summary>
-        <author>
-            <name>getflookup</name>
-            <uri>https://news.ycombinator.com/user?id=getflookup</uri>
         </author>
     </entry>
 </feed>
