@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人们相信的最愚蠢的谎言是什么？(不做评判)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409138</link>
+            <guid>https://news.ycombinator.com/item?id=32409138</guid>
+            <pubDate>Wed, 10 Aug 2022 08:17:31 GMT</pubDate>
+            <description><![CDATA[Ask HN: What’s the stupidest lie people believe? (no judgement)]]></description>
+        </item>
         <item>
             <title><![CDATA[对于开发者来说，哪些是好的discord服务器？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32253860</guid>
             <pubDate>Wed, 27 Jul 2022 17:49:58 GMT</pubDate>
             <description><![CDATA[Ask HN: I'm burnt out: frustrated, distracted, pessimistic. How do I fix this?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有没有关于go与rust与Zig的基准？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253780</link>
-            <guid>https://news.ycombinator.com/item?id=32253780</guid>
-            <pubDate>Wed, 27 Jul 2022 17:46:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any benchmarks on go vs. rust vs. Zig?]]></description>
         </item>
     </channel>
 </rss>

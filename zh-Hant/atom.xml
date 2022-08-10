@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T07:04:07.014Z</updated>
+    <updated>2022-08-10T08:35:51.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們相信的最愚蠢的謊言是什麼？(不做評判)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409138</id>
+        <link href="https://news.ycombinator.com/item?id=32409138"/>
+        <updated>2022-08-10T08:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the stupidest lie people believe? (no judgement)]]></summary>
+        <author>
+            <name>what-imright</name>
+            <uri>https://news.ycombinator.com/user?id=what-imright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於開發者來說，哪些是好的discord服務器？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>AnonyFoundr</name>
             <uri>https://news.ycombinator.com/user?id=AnonyFoundr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有關於go與rust與Zig的基準？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253780</id>
-        <link href="https://news.ycombinator.com/item?id=32253780"/>
-        <updated>2022-07-27T17:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any benchmarks on go vs. rust vs. Zig?]]></summary>
-        <author>
-            <name>lifeplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
         </author>
     </entry>
 </feed>
