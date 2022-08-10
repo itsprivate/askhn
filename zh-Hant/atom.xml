@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-09T23:48:02.596Z</updated>
+    <updated>2022-08-10T02:14:23.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你離開目前的職位，是否更難談及高薪？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32406509</id>
+        <link href="https://news.ycombinator.com/item?id=32406509"/>
+        <updated>2022-08-10T00:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it harder to negotiate higher salary if you leave your current role?]]></summary>
+        <author>
+            <name>LZ_Khan</name>
+            <uri>https://news.ycombinator.com/user?id=LZ_Khan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是誰做出了不允許HN Mar-a-Lago報道或討論的決定？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whyage</name>
             <uri>https://news.ycombinator.com/user?id=whyage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的Telegram賬戶被禁，原因不明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252645</id>
-        <link href="https://news.ycombinator.com/item?id=32252645"/>
-        <updated>2022-07-27T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: My Telegram account was banned for unknown reasons]]></summary>
-        <author>
-            <name>nnurmanov</name>
-            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
         </author>
     </entry>
 </feed>
