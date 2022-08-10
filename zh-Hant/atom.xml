@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T08:35:51.727Z</updated>
+    <updated>2022-08-10T09:30:53.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在生產中使用JSON模式嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409452</id>
+        <link href="https://news.ycombinator.com/item?id=32409452"/>
+        <updated>2022-08-10T09:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use JSON Schema in production?]]></summary>
+        <author>
+            <name>mithunmanohar79</name>
+            <uri>https://news.ycombinator.com/user?id=mithunmanohar79</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[團隊從Nomad遷移到Kubernetes，是什麼推動了你們的遷移？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409415</id>
+        <link href="https://news.ycombinator.com/item?id=32409415"/>
+        <updated>2022-08-10T09:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Teams migrated from Nomad to Kubernetes,what pushed you to migrate?]]></summary>
+        <author>
+            <name>_shadi</name>
+            <uri>https://news.ycombinator.com/user?id=_shadi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lattice QCD中的新內容？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409385</id>
+        <link href="https://news.ycombinator.com/item?id=32409385"/>
+        <updated>2022-08-10T08:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Whats New in Lattice QCD?]]></summary>
+        <author>
+            <name>plaguepilled</name>
+            <uri>https://news.ycombinator.com/user?id=plaguepilled</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人使用Basecamp嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409381</id>
+        <link href="https://news.ycombinator.com/item?id=32409381"/>
+        <updated>2022-08-10T08:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Anyone Use Basecamp?]]></summary>
+        <author>
+            <name>for_i_in_range</name>
+            <uri>https://news.ycombinator.com/user?id=for_i_in_range</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人們相信的最愚蠢的謊言是什麼？(不做評判)
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掃描軟件包中的惡意軟件(Mac)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254602</id>
-        <link href="https://news.ycombinator.com/item?id=32254602"/>
-        <updated>2022-07-27T18:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Scanning Packages for Malware (Mac)]]></summary>
-        <author>
-            <name>quintes</name>
-            <uri>https://news.ycombinator.com/user?id=quintes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為一個人的企業提供PCI-DSS（3/4級）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254538</id>
-        <link href="https://news.ycombinator.com/item?id=32254538"/>
-        <updated>2022-07-27T18:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PCI-DSS (level 3/4) for a one-man business?]]></summary>
-        <author>
-            <name>rmedaer</name>
-            <uri>https://news.ycombinator.com/user?id=rmedaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全力以赴解決鏽蝕問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254406</id>
-        <link href="https://news.ycombinator.com/item?id=32254406"/>
-        <updated>2022-07-27T18:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Going All-In on Rust]]></summary>
-        <author>
-            <name>itsmefaz</name>
-            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經焦頭爛額了：沮喪、分心、悲觀。我怎樣才能解決這個問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253860</id>
-        <link href="https://news.ycombinator.com/item?id=32253860"/>
-        <updated>2022-07-27T17:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm burnt out: frustrated, distracted, pessimistic. How do I fix this?]]></summary>
-        <author>
-            <name>AnonyFoundr</name>
-            <uri>https://news.ycombinator.com/user?id=AnonyFoundr</uri>
         </author>
     </entry>
 </feed>

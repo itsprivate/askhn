@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在生產中使用JSON模式嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409452</link>
+            <guid>https://news.ycombinator.com/item?id=32409452</guid>
+            <pubDate>Wed, 10 Aug 2022 09:10:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you use JSON Schema in production?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[團隊從Nomad遷移到Kubernetes，是什麼推動了你們的遷移？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409415</link>
+            <guid>https://news.ycombinator.com/item?id=32409415</guid>
+            <pubDate>Wed, 10 Aug 2022 09:02:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: Teams migrated from Nomad to Kubernetes,what pushed you to migrate?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lattice QCD中的新內容？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409385</link>
+            <guid>https://news.ycombinator.com/item?id=32409385</guid>
+            <pubDate>Wed, 10 Aug 2022 08:58:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: Whats New in Lattice QCD?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有人使用Basecamp嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409381</link>
+            <guid>https://news.ycombinator.com/item?id=32409381</guid>
+            <pubDate>Wed, 10 Aug 2022 08:57:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Does Anyone Use Basecamp?]]></description>
+        </item>
         <item>
             <title><![CDATA[人們相信的最愚蠢的謊言是什麼？(不做評判)
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32254610</guid>
             <pubDate>Wed, 27 Jul 2022 18:36:13 GMT</pubDate>
             <description><![CDATA[Ask HN: Why not allow adults to be adopted as “adult children”?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[掃描軟件包中的惡意軟件(Mac)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32254602</link>
-            <guid>https://news.ycombinator.com/item?id=32254602</guid>
-            <pubDate>Wed, 27 Jul 2022 18:35:28 GMT</pubDate>
-            <description><![CDATA[Ask HN: Scanning Packages for Malware (Mac)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為一個人的企業提供PCI-DSS（3/4級）？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32254538</link>
-            <guid>https://news.ycombinator.com/item?id=32254538</guid>
-            <pubDate>Wed, 27 Jul 2022 18:31:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: PCI-DSS (level 3/4) for a one-man business?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全力以赴解決鏽蝕問題
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32254406</link>
-            <guid>https://news.ycombinator.com/item?id=32254406</guid>
-            <pubDate>Wed, 27 Jul 2022 18:21:34 GMT</pubDate>
-            <description><![CDATA[Ask HN: Going All-In on Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已經焦頭爛額了：沮喪、分心、悲觀。我怎樣才能解決這個問題？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253860</link>
-            <guid>https://news.ycombinator.com/item?id=32253860</guid>
-            <pubDate>Wed, 27 Jul 2022 17:49:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: I'm burnt out: frustrated, distracted, pessimistic. How do I fix this?]]></description>
         </item>
     </channel>
 </rss>
