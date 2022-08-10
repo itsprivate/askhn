@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T13:48:04.485Z</updated>
+    <updated>2022-08-10T14:02:51.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对我本人进行24/7的录音？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411936</id>
+        <link href="https://news.ycombinator.com/item?id=32411936"/>
+        <updated>2022-08-10T13:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: 24/7 audio recording on my person?]]></summary>
+        <author>
+            <name>jhylands</name>
+            <uri>https://news.ycombinator.com/user?id=jhylands</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是如何同步你的日历的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411791</id>
+        <link href="https://news.ycombinator.com/item?id=32411791"/>
+        <updated>2022-08-10T13:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How you sync your calendars?]]></summary>
+        <author>
+            <name>csomar</name>
+            <uri>https://news.ycombinator.com/user?id=csomar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[练习如何更清晰地思考，然后说话
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andrewstuart</name>
             <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么工作匹配仍然是一项繁琐的任务？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255761</id>
-        <link href="https://news.ycombinator.com/item?id=32255761"/>
-        <updated>2022-07-27T19:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is job matching still a tedious task?]]></summary>
-        <author>
-            <name>itsmefaz</name>
-            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费/低价的加密货币价格API？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255747</id>
-        <link href="https://news.ycombinator.com/item?id=32255747"/>
-        <updated>2022-07-27T19:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Free/low-cost crypto price APIs?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
         </author>
     </entry>
 </feed>
