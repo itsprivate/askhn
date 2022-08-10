@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T05:58:41.790Z</updated>
+    <updated>2022-08-10T06:38:03.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何去优化一个代码库？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408396</id>
+        <link href="https://news.ycombinator.com/item?id=32408396"/>
+        <updated>2022-08-10T06:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I go about optimizing a codebase?]]></summary>
+        <author>
+            <name>hahnchen</name>
+            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有关于HN用于存储数据的文件布局的描述？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408322</id>
+        <link href="https://news.ycombinator.com/item?id=32408322"/>
+        <updated>2022-08-10T06:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a description of the file layout HN uses to store data?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在哪里可以得到Rust程序员的意见？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>theory_of_10_9</name>
             <uri>https://news.ycombinator.com/user?id=theory_of_10_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的战争是否改变了你对国防项目工作的看法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253080</id>
-        <link href="https://news.ycombinator.com/item?id=32253080"/>
-        <updated>2022-07-27T17:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has the war in Ukraine changed your view on working on Defence projects?]]></summary>
-        <author>
-            <name>playeren</name>
-            <uri>https://news.ycombinator.com/user?id=playeren</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的记事方法是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252957</id>
-        <link href="https://news.ycombinator.com/item?id=32252957"/>
-        <updated>2022-07-27T16:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your note-taking methodology?]]></summary>
-        <author>
-            <name>overspeed</name>
-            <uri>https://news.ycombinator.com/user?id=overspeed</uri>
         </author>
     </entry>
 </feed>
