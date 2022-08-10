@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么在高能耗的情况下，Dock中打开的应用指示灯不会变亮？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32415743</link>
+            <guid>https://news.ycombinator.com/item?id=32415743</guid>
+            <pubDate>Wed, 10 Aug 2022 17:38:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why don't open app indicators in dock get bright with high energy usage?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对于C++的Python包装器，我应该从CamelCase到snake_case吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32415723</link>
+            <guid>https://news.ycombinator.com/item?id=32415723</guid>
+            <pubDate>Wed, 10 Aug 2022 17:37:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should I go from CamelCase to snake_case for Python wrappers for C++?]]></description>
+        </item>
         <item>
             <title><![CDATA[RAID-1内存系统
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32256702</guid>
             <pubDate>Wed, 27 Jul 2022 20:46:55 GMT</pubDate>
             <description><![CDATA[Ask HN: PayPal sent me unencrypted mail with my purchase details]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你最喜欢的学习CS基础知识的资源是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32257826</link>
-            <guid>https://news.ycombinator.com/item?id=32257826</guid>
-            <pubDate>Wed, 27 Jul 2022 22:26:07 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your favorite resource for learning CS fundamentals?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你通过软件开发赚到的最快的钱？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32257762</link>
-            <guid>https://news.ycombinator.com/item?id=32257762</guid>
-            <pubDate>Wed, 27 Jul 2022 22:18:49 GMT</pubDate>
-            <description><![CDATA[Ask HN: Fastest money you've made with software development?]]></description>
         </item>
     </channel>
 </rss>

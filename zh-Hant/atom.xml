@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T17:21:40.618Z</updated>
+    <updated>2022-08-10T17:45:25.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼在高能耗的情況下，Dock中打開的應用指示燈不會變亮？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415743</id>
+        <link href="https://news.ycombinator.com/item?id=32415743"/>
+        <updated>2022-08-10T17:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't open app indicators in dock get bright with high energy usage?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對於C++的Python包裝器，我應該從CamelCase到snake_case嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415723</id>
+        <link href="https://news.ycombinator.com/item?id=32415723"/>
+        <updated>2022-08-10T17:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I go from CamelCase to snake_case for Python wrappers for C++?]]></summary>
+        <author>
+            <name>aleclm</name>
+            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAID-1內存系統
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bramhadev</name>
             <uri>https://news.ycombinator.com/user?id=bramhadev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的學習CS基礎知識的資源是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257826</id>
-        <link href="https://news.ycombinator.com/item?id=32257826"/>
-        <updated>2022-07-27T22:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your favorite resource for learning CS fundamentals?]]></summary>
-        <author>
-            <name>silent_cal</name>
-            <uri>https://news.ycombinator.com/user?id=silent_cal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你通過軟件開發賺到的最快的錢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257762</id>
-        <link href="https://news.ycombinator.com/item?id=32257762"/>
-        <updated>2022-07-27T22:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Fastest money you've made with software development?]]></summary>
-        <author>
-            <name>dsfiguer</name>
-            <uri>https://news.ycombinator.com/user?id=dsfiguer</uri>
         </author>
     </entry>
 </feed>
