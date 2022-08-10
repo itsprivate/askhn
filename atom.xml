@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T16:46:54.259Z</updated>
+    <updated>2022-08-10T17:21:40.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RAID-1内存系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415320</id>
+        <link href="https://news.ycombinator.com/item?id=32415320"/>
+        <updated>2022-08-10T17:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: RAID-1 Memory System]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建法律文件条款数据库的最佳方式是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dsfiguer</name>
             <uri>https://news.ycombinator.com/user?id=dsfiguer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚得到一个付费客户。在我的欢迎邮件中应该包括什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257620</id>
-        <link href="https://news.ycombinator.com/item?id=32257620"/>
-        <updated>2022-07-27T22:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I just got a paying customer. What to include in my welcome email?]]></summary>
-        <author>
-            <name>anonfounder747</name>
-            <uri>https://news.ycombinator.com/user?id=anonfounder747</uri>
         </author>
     </entry>
 </feed>
