@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 10 Aug 2022 06:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 07:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对于开发者来说，哪些是好的discord服务器？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32408448</link>
+            <guid>https://news.ycombinator.com/item?id=32408448</guid>
+            <pubDate>Wed, 10 Aug 2022 06:37:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which are the good discord servers for developers?]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何去优化一个代码库？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32253780</guid>
             <pubDate>Wed, 27 Jul 2022 17:46:02 GMT</pubDate>
             <description><![CDATA[Ask HN: Any benchmarks on go vs. rust vs. Zig?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何找到远程CTO工作？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253583</link>
-            <guid>https://news.ycombinator.com/item?id=32253583</guid>
-            <pubDate>Wed, 27 Jul 2022 17:34:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to find remote CTO jobs?]]></description>
         </item>
     </channel>
 </rss>

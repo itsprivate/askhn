@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T06:38:03.542Z</updated>
+    <updated>2022-08-10T07:04:06.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于开发者来说，哪些是好的discord服务器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408448</id>
+        <link href="https://news.ycombinator.com/item?id=32408448"/>
+        <updated>2022-08-10T06:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which are the good discord servers for developers?]]></summary>
+        <author>
+            <name>yogini</name>
+            <uri>https://news.ycombinator.com/user?id=yogini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何去优化一个代码库？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lifeplusplus</name>
             <uri>https://news.ycombinator.com/user?id=lifeplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何找到远程CTO工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253583</id>
-        <link href="https://news.ycombinator.com/item?id=32253583"/>
-        <updated>2022-07-27T17:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to find remote CTO jobs?]]></summary>
-        <author>
-            <name>theory_of_10_9</name>
-            <uri>https://news.ycombinator.com/user?id=theory_of_10_9</uri>
         </author>
     </entry>
 </feed>
