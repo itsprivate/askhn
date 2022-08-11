@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T20:35:23.405Z</updated>
+    <updated>2022-08-11T20:50:44.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的工程團隊是如何處理工作流程瓶頸的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431292</id>
+        <link href="https://news.ycombinator.com/item?id=32431292"/>
+        <updated>2022-08-11T20:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does your engineering team deal with workflow bottlenecks?]]></summary>
+        <author>
+            <name>dhruvagga</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvagga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個向已證實的創始人提出註冊問題的服務是否有價值？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mainedotpy</name>
             <uri>https://news.ycombinator.com/user?id=mainedotpy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼麥當勞的應用程序需要這麼多步驟來訂購健怡可樂？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32270870</id>
-        <link href="https://news.ycombinator.com/item?id=32270870"/>
-        <updated>2022-07-28T22:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why does the McDonalds' app require so many steps to order a Diet Coke?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
