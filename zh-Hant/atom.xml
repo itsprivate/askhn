@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T04:51:13.474Z</updated>
+    <updated>2022-08-11T05:45:01.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何以最佳方式向半技術/精通數量的聽眾展示？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32421971</id>
+        <link href="https://news.ycombinator.com/item?id=32421971"/>
+        <updated>2022-08-11T05:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to best present to semi tech/quant-savvy audience?]]></summary>
+        <author>
+            <name>bojangleslover</name>
+            <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何繼續前進的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>butterNaN</name>
             <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個專業的軟件開發人員應該知道一個字節有多少個比特嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261590</id>
-        <link href="https://news.ycombinator.com/item?id=32261590"/>
-        <updated>2022-07-28T07:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should a professional software dev know how many bits go in a byte?]]></summary>
-        <author>
-            <name>ssdspoimdsjvv</name>
-            <uri>https://news.ycombinator.com/user?id=ssdspoimdsjvv</uri>
         </author>
     </entry>
 </feed>
