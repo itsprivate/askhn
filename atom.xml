@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T05:45:01.849Z</updated>
+    <updated>2022-08-11T07:31:05.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于黑客来说，HN的替代品是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422387</id>
+        <link href="https://news.ycombinator.com/item?id=32422387"/>
+        <updated>2022-08-11T06:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the alternatives of HN for hackers?]]></summary>
+        <author>
+            <name>Fendy</name>
+            <uri>https://news.ycombinator.com/user?id=Fendy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何以最佳方式向半技术/精通数量的听众展示？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amaldavid</name>
             <uri>https://news.ycombinator.com/user?id=amaldavid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 "选择最好的数据表示法 "的权威资源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261945</id>
-        <link href="https://news.ycombinator.com/item?id=32261945"/>
-        <updated>2022-07-28T09:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Definitive resources on “Choosing the best data representations”?]]></summary>
-        <author>
-            <name>butterNaN</name>
-            <uri>https://news.ycombinator.com/user?id=butterNaN</uri>
         </author>
     </entry>
 </feed>
