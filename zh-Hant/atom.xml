@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T07:46:09.617Z</updated>
+    <updated>2022-08-11T08:34:29.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你認為埃隆的推特在任何方面都更好嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422954</id>
+        <link href="https://news.ycombinator.com/item?id=32422954"/>
+        <updated>2022-08-11T08:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you think Elon's Twitter is better in any way?]]></summary>
+        <author>
+            <name>rblion</name>
+            <uri>https://news.ycombinator.com/user?id=rblion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼允許遠程的公司要支付20萬美元，而他們可以支付5萬美元？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>inspired_prgmr</name>
             <uri>https://news.ycombinator.com/user?id=inspired_prgmr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一名開發經理，你是如何處理驍勇善戰的人的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32262563</id>
-        <link href="https://news.ycombinator.com/item?id=32262563"/>
-        <updated>2022-07-28T10:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: As a dev manager, how do you deal with a prima donna?]]></summary>
-        <author>
-            <name>LordGrey</name>
-            <uri>https://news.ycombinator.com/user?id=LordGrey</uri>
         </author>
     </entry>
 </feed>
