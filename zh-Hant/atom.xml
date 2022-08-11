@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T15:00:58.149Z</updated>
+    <updated>2022-08-11T15:35:42.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在36歲時從零開始重啟科技事業？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426738</id>
+        <link href="https://news.ycombinator.com/item?id=32426738"/>
+        <updated>2022-08-11T14:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to restart tech career from scratch at 36?]]></summary>
+        <author>
+            <name>dezeiner</name>
+            <uri>https://news.ycombinator.com/user?id=dezeiner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何多雲存儲聚合公司？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>spacesarebetter</name>
             <uri>https://news.ycombinator.com/user?id=spacesarebetter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的管理/控制面板模板？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32264680</id>
-        <link href="https://news.ycombinator.com/item?id=32264680"/>
-        <updated>2022-07-28T14:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Open-source admin/control panel templates?]]></summary>
-        <author>
-            <name>jakearmitage</name>
-            <uri>https://news.ycombinator.com/user?id=jakearmitage</uri>
         </author>
     </entry>
 </feed>
