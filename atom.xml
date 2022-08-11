@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T19:59:31.067Z</updated>
+    <updated>2022-08-11T20:35:23.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个向已证实的创始人提出注册问题的服务是否有价值？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431133</id>
+        <link href="https://news.ycombinator.com/item?id=32431133"/>
+        <updated>2022-08-11T20:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Would a service to ask proven founders reg. question async be valuable?]]></summary>
+        <author>
+            <name>kiddz</name>
+            <uri>https://news.ycombinator.com/user?id=kiddz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[提前移动对你选择的编程专业有多重要？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非技术性的创始人，你会买一个关于建立SaaS MVP的课程吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32269905</id>
-        <link href="https://news.ycombinator.com/item?id=32269905"/>
-        <updated>2022-07-28T20:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-technical founders, would you buy a course on building a SaaS MVP?]]></summary>
-        <author>
-            <name>poushkar</name>
-            <uri>https://news.ycombinator.com/user?id=poushkar</uri>
         </author>
     </entry>
 </feed>
