@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼允許遠程的公司要支付20萬美元，而他們可以支付5萬美元？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32422614</link>
+            <guid>https://news.ycombinator.com/item?id=32422614</guid>
+            <pubDate>Thu, 11 Aug 2022 07:33:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do companies that allow remote pay $200k when they can pay $50k?]]></description>
+        </item>
         <item>
             <title><![CDATA[對於黑客來說，HN的替代品是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32262563</guid>
             <pubDate>Thu, 28 Jul 2022 10:24:32 GMT</pubDate>
             <description><![CDATA[Ask HN: As a dev manager, how do you deal with a prima donna?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[設置自定義地圖服務器的做法和注意事項
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32262546</link>
-            <guid>https://news.ycombinator.com/item?id=32262546</guid>
-            <pubDate>Thu, 28 Jul 2022 10:22:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: Setting up a custom map server do's and don'ts]]></description>
         </item>
     </channel>
 </rss>
