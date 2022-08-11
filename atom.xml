@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T17:13:35.308Z</updated>
+    <updated>2022-08-11T18:01:32.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一台弧形显示器与2或3台非弧形显示器的软件开发对比
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429367</id>
+        <link href="https://news.ycombinator.com/item?id=32429367"/>
+        <updated>2022-08-11T17:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: One curved monitor vs. 2 or 3 non-curved for software development]]></summary>
+        <author>
+            <name>vasili111</name>
+            <uri>https://news.ycombinator.com/user?id=vasili111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何最好地记录大型遗留系统？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429194</id>
+        <link href="https://news.ycombinator.com/item?id=32429194"/>
+        <updated>2022-08-11T17:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to best document large, legacy systems?]]></summary>
+        <author>
+            <name>becquerel</name>
+            <uri>https://news.ycombinator.com/user?id=becquerel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据迁移应用程序/框架？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sharemywin</name>
             <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Vagrant没有被开源项目广泛采用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32267177</id>
-        <link href="https://news.ycombinator.com/item?id=32267177"/>
-        <updated>2022-07-28T17:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why wasn't Vagrant widely adopted by open source projects?]]></summary>
-        <author>
-            <name>julkali</name>
-            <uri>https://news.ycombinator.com/user?id=julkali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果有一天我想经营企业，就读MBA？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266359</id>
-        <link href="https://news.ycombinator.com/item?id=32266359"/>
-        <updated>2022-07-28T16:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: MBA if I want to run a business one day?]]></summary>
-        <author>
-            <name>volkk</name>
-            <uri>https://news.ycombinator.com/user?id=volkk</uri>
         </author>
     </entry>
 </feed>
