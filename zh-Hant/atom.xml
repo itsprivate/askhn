@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T13:59:25.351Z</updated>
+    <updated>2022-08-11T15:00:58.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何多雲存儲聚合公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426700</id>
+        <link href="https://news.ycombinator.com/item?id=32426700"/>
+        <updated>2022-08-11T14:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any multi-cloud storage aggregator company?]]></summary>
+        <author>
+            <name>skid_dancer</name>
+            <uri>https://news.ycombinator.com/user?id=skid_dancer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何有效地使用Anki進行間隔性重複學習？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426511</id>
+        <link href="https://news.ycombinator.com/item?id=32426511"/>
+        <updated>2022-08-11T14:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to use Anki effectively for spaced repetition learning?]]></summary>
+        <author>
+            <name>rschachte</name>
+            <uri>https://news.ycombinator.com/user?id=rschachte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何賣出去的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jakearmitage</name>
             <uri>https://news.ycombinator.com/user?id=jakearmitage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望看到建立什麼樣的開源軟件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32264176</id>
-        <link href="https://news.ycombinator.com/item?id=32264176"/>
-        <updated>2022-07-28T13:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What open source software do you want to see built?]]></summary>
-        <author>
-            <name>bobblywobbles</name>
-            <uri>https://news.ycombinator.com/user?id=bobblywobbles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是在哪一刻意識到自己是為計算機科學而生的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32264145</id>
-        <link href="https://news.ycombinator.com/item?id=32264145"/>
-        <updated>2022-07-28T13:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: At which moment did you realise that you are built for computer science?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
         </author>
     </entry>
 </feed>
