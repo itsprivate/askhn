@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T16:43:06.340Z</updated>
+    <updated>2022-08-11T17:13:35.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據遷移應用程序/框架？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428697</id>
+        <link href="https://news.ycombinator.com/item?id=32428697"/>
+        <updated>2022-08-11T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Data Migration Apps / Frameworks?]]></summary>
+        <author>
+            <name>AnAnonymousDude</name>
+            <uri>https://news.ycombinator.com/user?id=AnAnonymousDude</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否已經成功地切斷了社交媒體？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428534</id>
+        <link href="https://news.ycombinator.com/item?id=32428534"/>
+        <updated>2022-08-11T16:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you been successful in cutting off social media?]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人被Meta公司的工作郵件騷擾過嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>volkk</name>
             <uri>https://news.ycombinator.com/user?id=volkk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是在什麼時候決定CS研究不適合你的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266329</id>
-        <link href="https://news.ycombinator.com/item?id=32266329"/>
-        <updated>2022-07-28T16:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: At what point did you decide that CS research is not for you?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧瑞利學習的替代者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266140</id>
-        <link href="https://news.ycombinator.com/item?id=32266140"/>
-        <updated>2022-07-28T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Alternatives to Oreilly Learning?]]></summary>
-        <author>
-            <name>atulatul</name>
-            <uri>https://news.ycombinator.com/user?id=atulatul</uri>
         </author>
     </entry>
 </feed>
