@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T02:17:42.214Z</updated>
+    <updated>2022-08-11T03:40:00.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[回到以前的工作岗位
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32421243</id>
+        <link href="https://news.ycombinator.com/item?id=32421243"/>
+        <updated>2022-08-11T03:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Returning to a Previous Job]]></summary>
+        <author>
+            <name>golly_ned</name>
+            <uri>https://news.ycombinator.com/user?id=golly_ned</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用OSM并有评论功能的谷歌地图替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32421092</id>
+        <link href="https://news.ycombinator.com/item?id=32421092"/>
+        <updated>2022-08-11T03:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google Maps alternatives that uses OSM and has a review feature]]></summary>
+        <author>
+            <name>rd07</name>
+            <uri>https://news.ycombinator.com/user?id=rd07</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个人的什么品质最不利于成功？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>phtrivier</name>
             <uri>https://news.ycombinator.com/user?id=phtrivier</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否使用转印机？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261099</id>
-        <link href="https://news.ycombinator.com/item?id=32261099"/>
-        <updated>2022-07-28T06:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Use a Transpiler?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这封来自苹果公司的电子邮件是否合法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32260733</id>
-        <link href="https://news.ycombinator.com/item?id=32260733"/>
-        <updated>2022-07-28T05:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is this email from Apple legit?]]></summary>
-        <author>
-            <name>pqvst</name>
-            <uri>https://news.ycombinator.com/user?id=pqvst</uri>
         </author>
     </entry>
 </feed>
