@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T18:01:32.585Z</updated>
+    <updated>2022-08-11T18:38:08.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼你認為網絡是一個東西？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429505</id>
+        <link href="https://news.ycombinator.com/item?id=32429505"/>
+        <updated>2022-08-11T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you consider the web a thing?]]></summary>
+        <author>
+            <name>unixbane</name>
+            <uri>https://news.ycombinator.com/user?id=unixbane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一臺弧形顯示器與2或3臺非弧形顯示器的軟件開發對比
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Pakdef</name>
             <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼快遞應用如此昂貴？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32267303</id>
-        <link href="https://news.ycombinator.com/item?id=32267303"/>
-        <updated>2022-07-28T17:13:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are delivery apps so expensive?]]></summary>
-        <author>
-            <name>sharemywin</name>
-            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
         </author>
     </entry>
 </feed>
