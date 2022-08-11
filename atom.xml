@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T08:34:29.478Z</updated>
+    <updated>2022-08-11T08:54:50.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[娱乐业是否得到了谷歌聊天的待遇？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423093</id>
+        <link href="https://news.ycombinator.com/item?id=32423093"/>
+        <updated>2022-08-11T08:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is entertainment getting the Google Chat treatment?]]></summary>
+        <author>
+            <name>jfoster</name>
+            <uri>https://news.ycombinator.com/user?id=jfoster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为埃隆的推特在任何方面都更好吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hereforphone</name>
             <uri>https://news.ycombinator.com/user?id=hereforphone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会为一个定价的页面构建器付费吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32262571</id>
-        <link href="https://news.ycombinator.com/item?id=32262571"/>
-        <updated>2022-07-28T10:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you pay for a pricing page builder?]]></summary>
-        <author>
-            <name>inspired_prgmr</name>
-            <uri>https://news.ycombinator.com/user?id=inspired_prgmr</uri>
         </author>
     </entry>
 </feed>
