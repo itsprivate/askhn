@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-10T22:29:27.761Z</updated>
+    <updated>2022-08-11T02:17:42.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個人的什麼品質最不利於成功？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32420628</id>
+        <link href="https://news.ycombinator.com/item?id=32420628"/>
+        <updated>2022-08-11T01:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What quality in a person is the most detrimental to success?]]></summary>
+        <author>
+            <name>what-imright</name>
+            <uri>https://news.ycombinator.com/user?id=what-imright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2008年經濟衰退時的人們
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pqvst</name>
             <uri>https://news.ycombinator.com/user?id=pqvst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI正在開發下一個DALL-E嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32260604</id>
-        <link href="https://news.ycombinator.com/item?id=32260604"/>
-        <updated>2022-07-28T04:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is OpenAI working on the next DALL-E yet?]]></summary>
-        <author>
-            <name>fratlas</name>
-            <uri>https://news.ycombinator.com/user?id=fratlas</uri>
         </author>
     </entry>
 </feed>
