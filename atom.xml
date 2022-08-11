@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-11T22:29:27.224Z</updated>
+    <updated>2022-08-11T23:30:35.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁来关注围棋界？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32433062</id>
+        <link href="https://news.ycombinator.com/item?id=32433062"/>
+        <updated>2022-08-11T23:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who to Follow the Go Community?]]></summary>
+        <author>
+            <name>valzam</name>
+            <uri>https://news.ycombinator.com/user?id=valzam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有好的事业，却没有有意义的工作关系？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookaway</name>
             <uri>https://news.ycombinator.com/user?id=bookaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿波罗制导计算机（1960年）是有史以来第一个嵌入式系统吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32275157</id>
-        <link href="https://news.ycombinator.com/item?id=32275157"/>
-        <updated>2022-07-29T10:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the Apollo Guidance Computer (1960) the first embedded system ever?]]></summary>
-        <author>
-            <name>gsempe</name>
-            <uri>https://news.ycombinator.com/user?id=gsempe</uri>
         </author>
     </entry>
 </feed>
