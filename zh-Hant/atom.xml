@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T10:00:52.355Z</updated>
+    <updated>2022-08-12T11:58:35.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的CSV導入人任務管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437003</id>
+        <link href="https://news.ycombinator.com/item?id=32437003"/>
+        <updated>2022-08-12T11:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A simple CSV importing person task manager]]></summary>
+        <author>
+            <name>bsenftner</name>
+            <uri>https://news.ycombinator.com/user?id=bsenftner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你相信數字投票選舉總統的做法嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robertakarobin</name>
             <uri>https://news.ycombinator.com/user?id=robertakarobin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫得很好，我的網站需要反向鏈接。關於客座文章的提示？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277775</id>
-        <link href="https://news.ycombinator.com/item?id=32277775"/>
-        <updated>2022-07-29T14:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I write ok and I need backlinks for my website. Tips on guest articles?]]></summary>
-        <author>
-            <name>anonfounder747</name>
-            <uri>https://news.ycombinator.com/user?id=anonfounder747</uri>
         </author>
     </entry>
 </feed>
