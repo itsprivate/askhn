@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T14:58:29.993Z</updated>
+    <updated>2022-08-12T15:40:10.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼分佈式系統如此兩極化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32439601</id>
+        <link href="https://news.ycombinator.com/item?id=32439601"/>
+        <updated>2022-08-12T14:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are Distributed Systems so Polarizing?]]></summary>
+        <author>
+            <name>c0mptonFP</name>
+            <uri>https://news.ycombinator.com/user?id=c0mptonFP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我總是被困在遺留軟件上工作？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>noctis</name>
             <uri>https://news.ycombinator.com/user?id=noctis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些好的非瑣碎的後端項目可以放在簡歷上？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280436</id>
-        <link href="https://news.ycombinator.com/item?id=32280436"/>
-        <updated>2022-07-29T18:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some good non-trivial back end projects to put on a resume?]]></summary>
-        <author>
-            <name>jstx1</name>
-            <uri>https://news.ycombinator.com/user?id=jstx1</uri>
         </author>
     </entry>
 </feed>
