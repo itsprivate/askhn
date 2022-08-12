@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T11:58:35.447Z</updated>
+    <updated>2022-08-12T13:00:54.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是更好的開發工具？原生桌面應用，還是富網絡應用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437716</id>
+        <link href="https://news.ycombinator.com/item?id=32437716"/>
+        <updated>2022-08-12T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is better for a dev tool? Native Desktop App, or Rich Web App?]]></summary>
+        <author>
+            <name>umbrellasun</name>
+            <uri>https://news.ycombinator.com/user?id=umbrellasun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰在使用C++作為新項目的主要語言？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437173</id>
+        <link href="https://news.ycombinator.com/item?id=32437173"/>
+        <updated>2022-08-12T12:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is using C++ as the main language for new project?]]></summary>
+        <author>
+            <name>m33k44</name>
+            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何將一份通訊從1千人增長到1萬個訂閱者？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437164</id>
+        <link href="https://news.ycombinator.com/item?id=32437164"/>
+        <updated>2022-08-12T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you grow a newsletter from 1k to 10k subscribers?]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個簡單的CSV導入人任務管理器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>peatmoss</name>
             <uri>https://news.ycombinator.com/user?id=peatmoss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高薪的編程工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32272916</id>
-        <link href="https://news.ycombinator.com/item?id=32272916"/>
-        <updated>2022-07-29T03:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: High Paying Programming Jobs]]></summary>
-        <author>
-            <name>sainib</name>
-            <uri>https://news.ycombinator.com/user?id=sainib</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼好的公司博客這麼少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278093</id>
-        <link href="https://news.ycombinator.com/item?id=32278093"/>
-        <updated>2022-07-29T15:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why there are so few good company blogs?]]></summary>
-        <author>
-            <name>flreln</name>
-            <uri>https://news.ycombinator.com/user?id=flreln</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何公司在 "做大 "方面做得很好？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277832</id>
-        <link href="https://news.ycombinator.com/item?id=32277832"/>
-        <updated>2022-07-29T15:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there any companies that do a good job of 'being big'?]]></summary>
-        <author>
-            <name>robertakarobin</name>
-            <uri>https://news.ycombinator.com/user?id=robertakarobin</uri>
         </author>
     </entry>
 </feed>
