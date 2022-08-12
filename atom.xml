@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T18:39:17.658Z</updated>
+    <updated>2022-08-12T18:57:13.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用WebGL的游戏式用户界面的框架？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442496</id>
+        <link href="https://news.ycombinator.com/item?id=32442496"/>
+        <updated>2022-08-12T18:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Frameworks for game-style UI with WebGL?]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[托管服务建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442376</id>
+        <link href="https://news.ycombinator.com/item?id=32442376"/>
+        <updated>2022-08-12T18:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Managed Hosting Recommendations]]></summary>
+        <author>
+            <name>offsky</name>
+            <uri>https://news.ycombinator.com/user?id=offsky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么BBC上的Rushie刺伤事件的评论被禁止？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442285</id>
+        <link href="https://news.ycombinator.com/item?id=32442285"/>
+        <updated>2022-08-12T18:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are comments disabled for the Rushie stabbing story on BBC?]]></summary>
+        <author>
+            <name>docmechanic</name>
+            <uri>https://news.ycombinator.com/user?id=docmechanic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的高性能服务器设置是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442196</id>
+        <link href="https://news.ycombinator.com/item?id=32442196"/>
+        <updated>2022-08-12T18:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your high performance server setup?]]></summary>
+        <author>
+            <name>hmm-interesting</name>
+            <uri>https://news.ycombinator.com/user?id=hmm-interesting</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业的Freenode IRC频道被点亮了，现在怎么办？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>djellybeans</name>
             <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有人发明一个用于ORM/原始SQL的转换器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32283643</id>
-        <link href="https://news.ycombinator.com/item?id=32283643"/>
-        <updated>2022-07-30T01:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why hasn't anyone invented a converter for ORM/raw SQL?]]></summary>
-        <author>
-            <name>jlei523</name>
-            <uri>https://news.ycombinator.com/user?id=jlei523</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的学习或工作领域对你有什么更普遍的帮助？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282910</id>
-        <link href="https://news.ycombinator.com/item?id=32282910"/>
-        <updated>2022-07-29T23:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How has your area of study or work helped you more generally?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的气候工作都在哪里？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282750</id>
-        <link href="https://news.ycombinator.com/item?id=32282750"/>
-        <updated>2022-07-29T23:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are all the climate jobs?]]></summary>
-        <author>
-            <name>thangalin</name>
-            <uri>https://news.ycombinator.com/user?id=thangalin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源项目是建立一个有利可图的副业的好方法吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282614</id>
-        <link href="https://news.ycombinator.com/item?id=32282614"/>
-        <updated>2022-07-29T22:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Open Source projects a good way to build a profitable sideproject?]]></summary>
-        <author>
-            <name>conqrr</name>
-            <uri>https://news.ycombinator.com/user?id=conqrr</uri>
         </author>
     </entry>
 </feed>
