@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T18:57:13.120Z</updated>
+    <updated>2022-08-12T19:26:02.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪裡購買電子書或有電子書訂閱？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442549</id>
+        <link href="https://news.ycombinator.com/item?id=32442549"/>
+        <updated>2022-08-12T18:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you buy your eBooks or have eBook subscriptions?]]></summary>
+        <author>
+            <name>giancarlostoro</name>
+            <uri>https://news.ycombinator.com/user?id=giancarlostoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用WebGL的遊戲式用戶界面的框架？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rosviprince</name>
             <uri>https://news.ycombinator.com/user?id=rosviprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部署指南和教程有很多手把手的指導？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32283723</id>
-        <link href="https://news.ycombinator.com/item?id=32283723"/>
-        <updated>2022-07-30T02:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Deployment guides and tutorials with a lot of hand holding?]]></summary>
-        <author>
-            <name>djellybeans</name>
-            <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
         </author>
     </entry>
 </feed>
