@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T02:32:59.356Z</updated>
+    <updated>2022-08-12T03:54:31.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你认为埃隆会对X.com做什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434236</id>
+        <link href="https://news.ycombinator.com/item?id=32434236"/>
+        <updated>2022-08-12T02:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you think Elon will do with X.com?]]></summary>
+        <author>
+            <name>rblion</name>
+            <uri>https://news.ycombinator.com/user?id=rblion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS应用程序如何知道你已登录到其他应用程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>icyfox</name>
             <uri>https://news.ycombinator.com/user?id=icyfox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价你作为（前）独资经营者的技能？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32276126</id>
-        <link href="https://news.ycombinator.com/item?id=32276126"/>
-        <updated>2022-07-29T12:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to value your skills as a (former) sole proprietor?]]></summary>
-        <author>
-            <name>jknutson</name>
-            <uri>https://news.ycombinator.com/user?id=jknutson</uri>
         </author>
     </entry>
 </feed>
