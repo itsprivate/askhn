@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T16:49:24.559Z</updated>
+    <updated>2022-08-12T17:18:59.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這個標題是Betteridge法則的一個例子嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32441332</id>
+        <link href="https://news.ycombinator.com/item?id=32441332"/>
+        <updated>2022-08-12T17:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this headline an example of Betteridge's Law?]]></summary>
+        <author>
+            <name>warthogschool</name>
+            <uri>https://news.ycombinator.com/user?id=warthogschool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老一輩的黑客們，你們用什麼眼鏡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32441164</id>
+        <link href="https://news.ycombinator.com/item?id=32441164"/>
+        <updated>2022-08-12T16:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Older hackers, what glasses do you use?]]></summary>
+        <author>
+            <name>SoftTalker</name>
+            <uri>https://news.ycombinator.com/user?id=SoftTalker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何教導自己不要過度複雜化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32441081</id>
+        <link href="https://news.ycombinator.com/item?id=32441081"/>
+        <updated>2022-08-12T16:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to teach myself not to overcomplicate?]]></summary>
+        <author>
+            <name>euos</name>
+            <uri>https://news.ycombinator.com/user?id=euos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼房屋所有權與園藝有關？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>widforss</name>
             <uri>https://news.ycombinator.com/user?id=widforss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的非營利性技術工作的招聘網站嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282338</id>
-        <link href="https://news.ycombinator.com/item?id=32282338"/>
-        <updated>2022-07-29T22:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any good job boards for non-profit tech work?]]></summary>
-        <author>
-            <name>foxfoxx</name>
-            <uri>https://news.ycombinator.com/user?id=foxfoxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有人見過運行 "sfc /scannow "真的能解決一個問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282323</id>
-        <link href="https://news.ycombinator.com/item?id=32282323"/>
-        <updated>2022-07-29T22:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone ever seen running “sfc /scannow” actually fix a problem?]]></summary>
-        <author>
-            <name>josephcsible</name>
-            <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是製作和打包APK的簡單方法（幾秒鐘，幾分鐘）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32281934</id>
-        <link href="https://news.ycombinator.com/item?id=32281934"/>
-        <updated>2022-07-29T21:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a dead-simple way (seconds, minutes) to make and package an APK?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
         </author>
     </entry>
 </feed>
