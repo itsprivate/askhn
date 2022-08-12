@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T13:00:54.012Z</updated>
+    <updated>2022-08-12T13:56:02.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[社交網絡創業公司如何獲得早期用戶的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32438101</id>
+        <link href="https://news.ycombinator.com/item?id=32438101"/>
+        <updated>2022-08-12T13:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Examples of how social network startups acquired early users?]]></summary>
+        <author>
+            <name>faizshah</name>
+            <uri>https://news.ycombinator.com/user?id=faizshah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是更好的開發工具？原生桌面應用，還是富網絡應用？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bwb</name>
             <uri>https://news.ycombinator.com/user?id=bwb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近Ubuntu上帶Snap的Firefox是否改善了啟動時間？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278305</id>
-        <link href="https://news.ycombinator.com/item?id=32278305"/>
-        <updated>2022-07-29T15:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did Firefox with Snap on Ubuntu recently improve startup times?]]></summary>
-        <author>
-            <name>peatmoss</name>
-            <uri>https://news.ycombinator.com/user?id=peatmoss</uri>
         </author>
     </entry>
 </feed>
