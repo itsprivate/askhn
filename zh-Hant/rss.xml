@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Fri, 12 Aug 2022 21:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 22:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的機器人在為你跑腿時如何保護自己？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32444690</link>
+            <guid>https://news.ycombinator.com/item?id=32444690</guid>
+            <pubDate>Fri, 12 Aug 2022 22:25:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: How can your robot protect itself while going on errands for you?]]></description>
+        </item>
         <item>
             <title><![CDATA[你喜歡哪個Linux終端模擬器，為什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32286265</guid>
             <pubDate>Sat, 30 Jul 2022 12:29:27 GMT</pubDate>
             <description><![CDATA[Ask HN: When do you think Wayland will be broadly supported?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為有經驗的程序員提供的遞歸中心的替代方案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32285702</link>
-            <guid>https://news.ycombinator.com/item?id=32285702</guid>
-            <pubDate>Sat, 30 Jul 2022 10:39:01 GMT</pubDate>
-            <description><![CDATA[Ask HN: Alternatives to recurse centre for experienced programmers]]></description>
         </item>
     </channel>
 </rss>
