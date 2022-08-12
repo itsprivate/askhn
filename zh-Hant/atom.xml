@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T20:48:38.647Z</updated>
+    <updated>2022-08-12T21:02:16.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[始終分離，從未分離？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32443703</id>
+        <link href="https://news.ycombinator.com/item?id=32443703"/>
+        <updated>2022-08-12T20:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Always Apart, Never a Part?]]></summary>
+        <author>
+            <name>endofreach</name>
+            <uri>https://news.ycombinator.com/user?id=endofreach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於習慣於Rails的人來說，學習React的最佳方式是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>owenpalmer</name>
             <uri>https://news.ycombinator.com/user?id=owenpalmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有人談及黑客的關係。什麼對你有幫助？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284539</id>
-        <link href="https://news.ycombinator.com/item?id=32284539"/>
-        <updated>2022-07-30T05:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: No one talks about hackers' relationships. What has worked for you?]]></summary>
-        <author>
-            <name>threwawey</name>
-            <uri>https://news.ycombinator.com/user?id=threwawey</uri>
         </author>
     </entry>
 </feed>
