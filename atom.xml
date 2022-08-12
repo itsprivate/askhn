@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T15:40:10.759Z</updated>
+    <updated>2022-08-12T16:49:24.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么房屋所有权与园艺有关？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440922</id>
+        <link href="https://news.ycombinator.com/item?id=32440922"/>
+        <updated>2022-08-12T16:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is home ownership linked with gardening?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风险投资正在成为拉斯维加斯式的赌博机？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440843</id>
+        <link href="https://news.ycombinator.com/item?id=32440843"/>
+        <updated>2022-08-12T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Venture Capital becoming Vegas-style gambling machine?]]></summary>
+        <author>
+            <name>indus</name>
+            <uri>https://news.ycombinator.com/user?id=indus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[您为编译器开发推荐了哪些资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440664</id>
+        <link href="https://news.ycombinator.com/item?id=32440664"/>
+        <updated>2022-08-12T16:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What resources do you recommend for compiler development?]]></summary>
+        <author>
+            <name>JLCarveth</name>
+            <uri>https://news.ycombinator.com/user?id=JLCarveth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[副总统还应该编码吗/在杂草丛中？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440294</id>
+        <link href="https://news.ycombinator.com/item?id=32440294"/>
+        <updated>2022-08-12T15:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should Vice Presidents still be coding/in the weeds?]]></summary>
+        <author>
+            <name>throwawayca1234</name>
+            <uri>https://news.ycombinator.com/user?id=throwawayca1234</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么分布式系统如此两极化？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>themodelplumber</name>
             <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在计算机之前，图书馆管理借阅的书籍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32281376</id>
-        <link href="https://news.ycombinator.com/item?id=32281376"/>
-        <updated>2022-07-29T20:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Libraries managed borrowed books before computer]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空桌椅的局限性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280713</id>
-        <link href="https://news.ycombinator.com/item?id=32280713"/>
-        <updated>2022-07-29T19:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Limitations of Airtable]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么办法不使用现任CTO作为工作参考？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280488</id>
-        <link href="https://news.ycombinator.com/item?id=32280488"/>
-        <updated>2022-07-29T18:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any way around not using current CTO as a job reference?]]></summary>
-        <author>
-            <name>Djrichsjdjdnxkd</name>
-            <uri>https://news.ycombinator.com/user?id=Djrichsjdjdnxkd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么大家都容忍9pt的字体大小，而YC却使用1rem（16px）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280467</id>
-        <link href="https://news.ycombinator.com/item?id=32280467"/>
-        <updated>2022-07-29T18:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why everyone tolerates the 9pt font size, despite YC using 1rem (16px)?]]></summary>
-        <author>
-            <name>noctis</name>
-            <uri>https://news.ycombinator.com/user?id=noctis</uri>
         </author>
     </entry>
 </feed>
