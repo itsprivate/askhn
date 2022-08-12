@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T17:18:59.376Z</updated>
+    <updated>2022-08-12T18:39:17.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初创企业的Freenode IRC频道被点亮了，现在怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442038</id>
+        <link href="https://news.ycombinator.com/item?id=32442038"/>
+        <updated>2022-08-12T18:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Startups Freenode IRC channel was lit now what?]]></summary>
+        <author>
+            <name>thedangler</name>
+            <uri>https://news.ycombinator.com/user?id=thedangler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这个标题是Betteridge法则的一个例子吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>conqrr</name>
             <uri>https://news.ycombinator.com/user?id=conqrr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么专业的编码是如此无聊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282360</id>
-        <link href="https://news.ycombinator.com/item?id=32282360"/>
-        <updated>2022-07-29T22:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is it so boring to code professionally?]]></summary>
-        <author>
-            <name>widforss</name>
-            <uri>https://news.ycombinator.com/user?id=widforss</uri>
         </author>
     </entry>
 </feed>
