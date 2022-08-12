@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-12T21:02:16.482Z</updated>
+    <updated>2022-08-12T21:27:35.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你喜歡哪個Linux終端模擬器，為什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32444074</id>
+        <link href="https://news.ycombinator.com/item?id=32444074"/>
+        <updated>2022-08-12T21:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which Linux terminal emulator do you prefer and why?]]></summary>
+        <author>
+            <name>endorphine</name>
+            <uri>https://news.ycombinator.com/user?id=endorphine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的創業公司的第一批工程師呆了多久？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32443959</id>
+        <link href="https://news.ycombinator.com/item?id=32443959"/>
+        <updated>2022-08-12T21:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How long did your startup's first engineers stay?]]></summary>
+        <author>
+            <name>raglof</name>
+            <uri>https://news.ycombinator.com/user?id=raglof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個真正持久的現代手機怎麼樣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32443924</id>
+        <link href="https://news.ycombinator.com/item?id=32443924"/>
+        <updated>2022-08-12T21:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How about a modern phone that actually lasts?]]></summary>
+        <author>
+            <name>pipeline_peak</name>
+            <uri>https://news.ycombinator.com/user?id=pipeline_peak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[始終分離，從未分離？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>navalsaini</name>
             <uri>https://news.ycombinator.com/user?id=navalsaini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何禁用瀏覽器中的右鍵攔截功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285459</id>
-        <link href="https://news.ycombinator.com/item?id=32285459"/>
-        <updated>2022-07-30T09:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to disable right-click blocking in the browser]]></summary>
-        <author>
-            <name>saimiam</name>
-            <uri>https://news.ycombinator.com/user?id=saimiam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[類似於Git但用於二進制文件的東西？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284732</id>
-        <link href="https://news.ycombinator.com/item?id=32284732"/>
-        <updated>2022-07-30T06:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Something Like Git but for Binaries?]]></summary>
-        <author>
-            <name>weitzj</name>
-            <uri>https://news.ycombinator.com/user?id=weitzj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是最不令人沮喪的語言/技術的工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284628</id>
-        <link href="https://news.ycombinator.com/item?id=32284628"/>
-        <updated>2022-07-30T06:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the least frustrating languages/technologies to work with?]]></summary>
-        <author>
-            <name>owenpalmer</name>
-            <uri>https://news.ycombinator.com/user?id=owenpalmer</uri>
         </author>
     </entry>
 </feed>
