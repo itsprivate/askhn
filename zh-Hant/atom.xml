@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T19:59:04.566Z</updated>
+    <updated>2022-08-13T20:29:45.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何開始 "正確地 "做TDD？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453407</id>
+        <link href="https://news.ycombinator.com/item?id=32453407"/>
+        <updated>2022-08-13T20:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would one start doing TDD “properly”?]]></summary>
+        <author>
+            <name>RPeres</name>
+            <uri>https://news.ycombinator.com/user?id=RPeres</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個好的開發標準文件的例子？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>katla</name>
             <uri>https://news.ycombinator.com/user?id=katla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠程控制Windows 7計算機的常見方法是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294794</id>
-        <link href="https://news.ycombinator.com/item?id=32294794"/>
-        <updated>2022-07-31T11:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is common way for remotely control a Windows 7 computer?]]></summary>
-        <author>
-            <name>eimrine</name>
-            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
         </author>
     </entry>
 </feed>

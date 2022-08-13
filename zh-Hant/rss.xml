@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 13 Aug 2022 19:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 20:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何開始 "正確地 "做TDD？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32453407</link>
+            <guid>https://news.ycombinator.com/item?id=32453407</guid>
+            <pubDate>Sat, 13 Aug 2022 20:19:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: How would one start doing TDD “properly”?]]></description>
+        </item>
         <item>
             <title><![CDATA[一個好的開發標準文件的例子？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32294747</guid>
             <pubDate>Sun, 31 Jul 2022 10:59:08 GMT</pubDate>
             <description><![CDATA[Ask HN: How to keep our software free while obtaining a revenue stream?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[遠程控制Windows 7計算機的常見方法是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32294794</link>
-            <guid>https://news.ycombinator.com/item?id=32294794</guid>
-            <pubDate>Sun, 31 Jul 2022 11:14:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is common way for remotely control a Windows 7 computer?]]></description>
         </item>
     </channel>
 </rss>
