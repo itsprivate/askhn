@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T18:34:26.587Z</updated>
+    <updated>2022-08-13T19:25:46.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么版本控制这么难？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32452680</id>
+        <link href="https://news.ycombinator.com/item?id=32452680"/>
+        <updated>2022-08-13T18:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is version control so hard?]]></summary>
+        <author>
+            <name>999900000999</name>
+            <uri>https://news.ycombinator.com/user?id=999900000999</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐的正确标签管理？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32451504</id>
+        <link href="https://news.ycombinator.com/item?id=32451504"/>
+        <updated>2022-08-13T16:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Proper Tab Management for Firefox?]]></summary>
+        <author>
+            <name>StackXploit0day</name>
+            <uri>https://news.ycombinator.com/user?id=StackXploit0day</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何防止搜索引擎对我的博客的某些页面进行索引？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>college</name>
             <uri>https://news.ycombinator.com/user?id=college</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带着电子产品旅行的技巧？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32292569</id>
-        <link href="https://news.ycombinator.com/item?id=32292569"/>
-        <updated>2022-07-31T02:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tips to Travel with Electronics?]]></summary>
-        <author>
-            <name>Nahuala</name>
-            <uri>https://news.ycombinator.com/user?id=Nahuala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为战争难民来到美国的乌克兰程序员的前景如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32292371</id>
-        <link href="https://news.ycombinator.com/item?id=32292371"/>
-        <updated>2022-07-31T01:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Perspectives for Ukrainian programmer coming to US as a war refugee?]]></summary>
-        <author>
-            <name>arifmeticus</name>
-            <uri>https://news.ycombinator.com/user?id=arifmeticus</uri>
         </author>
     </entry>
 </feed>
