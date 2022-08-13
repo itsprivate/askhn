@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T03:39:29.670Z</updated>
+    <updated>2022-08-13T04:15:14.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[長途駕駛時最喜歡的音頻書？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446779</id>
+        <link href="https://news.ycombinator.com/item?id=32446779"/>
+        <updated>2022-08-13T04:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Favorite audio book for long drives?]]></summary>
+        <author>
+            <name>tmaly</name>
+            <uri>https://news.ycombinator.com/user?id=tmaly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼時候是跳槽的合適時機（如1年）？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SnowHill9902</name>
             <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假AirPods是如何欺騙iOS上的特殊界面的，為什麼沒有授權？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287113</id>
-        <link href="https://news.ycombinator.com/item?id=32287113"/>
-        <updated>2022-07-30T14:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are fake AirPods spoofing the special interface on iOS,why no auth?]]></summary>
-        <author>
-            <name>unknownaccount</name>
-            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
         </author>
     </entry>
 </feed>
