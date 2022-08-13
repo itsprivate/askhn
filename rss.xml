@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 13 Aug 2022 13:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 14:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对你来说，编程中最难的部分是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32450301</link>
+            <guid>https://news.ycombinator.com/item?id=32450301</guid>
+            <pubDate>Sat, 13 Aug 2022 14:36:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the hardest part of programming for you?]]></description>
+        </item>
         <item>
             <title><![CDATA[跳槽还是等待更多机会？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32289916</guid>
             <pubDate>Sat, 30 Jul 2022 20:19:18 GMT</pubDate>
             <description><![CDATA[Ask HN: What are the implications of AI becoming smarter than humans?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么工具是你专门用来阅读代码的吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32289915</link>
-            <guid>https://news.ycombinator.com/item?id=32289915</guid>
-            <pubDate>Sat, 30 Jul 2022 20:19:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a tool you use just for reading code?]]></description>
         </item>
     </channel>
 </rss>

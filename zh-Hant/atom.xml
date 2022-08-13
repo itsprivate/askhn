@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T13:46:29.406Z</updated>
+    <updated>2022-08-13T14:45:05.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對你來說，編程中最難的部分是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32450301</id>
+        <link href="https://news.ycombinator.com/item?id=32450301"/>
+        <updated>2022-08-13T14:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the hardest part of programming for you?]]></summary>
+        <author>
+            <name>duceum</name>
+            <uri>https://news.ycombinator.com/user?id=duceum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跳槽還是等待更多機會？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kordlessagain</name>
             <uri>https://news.ycombinator.com/user?id=kordlessagain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼工具是你專門用來閱讀代碼的嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289915</id>
-        <link href="https://news.ycombinator.com/item?id=32289915"/>
-        <updated>2022-07-30T20:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a tool you use just for reading code?]]></summary>
-        <author>
-            <name>kanonieer</name>
-            <uri>https://news.ycombinator.com/user?id=kanonieer</uri>
         </author>
     </entry>
 </feed>
