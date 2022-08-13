@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T04:15:14.748Z</updated>
+    <updated>2022-08-13T04:51:33.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立像樣的視頻/交互式解釋器需要多少努力？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446950</id>
+        <link href="https://news.ycombinator.com/item?id=32446950"/>
+        <updated>2022-08-13T04:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much effort it takes to build decent video/interactive explainers?]]></summary>
+        <author>
+            <name>Shomm</name>
+            <uri>https://news.ycombinator.com/user?id=Shomm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長途駕駛時最喜歡的音頻書？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bravogamma</name>
             <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌是否曾經通過刪除/降低結果來懲罰起訴它的網絡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287423</id>
-        <link href="https://news.ycombinator.com/item?id=32287423"/>
-        <updated>2022-07-30T15:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Google ever punished a web that sued it by delisting/lower results?]]></summary>
-        <author>
-            <name>SnowHill9902</name>
-            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
         </author>
     </entry>
 </feed>
