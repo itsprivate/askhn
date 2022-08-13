@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T04:51:33.226Z</updated>
+    <updated>2022-08-13T05:29:00.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你試過暴徒編程嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447084</id>
+        <link href="https://news.ycombinator.com/item?id=32447084"/>
+        <updated>2022-08-13T05:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you tried mob programming?]]></summary>
+        <author>
+            <name>cenny</name>
+            <uri>https://news.ycombinator.com/user?id=cenny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立像樣的視頻/交互式解釋器需要多少努力？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Sonic656</name>
             <uri>https://news.ycombinator.com/user?id=Sonic656</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何批判性地評價科學論文？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287512</id>
-        <link href="https://news.ycombinator.com/item?id=32287512"/>
-        <updated>2022-07-30T15:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you critically evaluate scientific papers?]]></summary>
-        <author>
-            <name>bravogamma</name>
-            <uri>https://news.ycombinator.com/user?id=bravogamma</uri>
         </author>
     </entry>
 </feed>
