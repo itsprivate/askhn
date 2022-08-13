@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 13 Aug 2022 14:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 14:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们需要另一个构建系统吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32450402</link>
+            <guid>https://news.ycombinator.com/item?id=32450402</guid>
+            <pubDate>Sat, 13 Aug 2022 14:46:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do we need another build system?]]></description>
+        </item>
         <item>
             <title><![CDATA[对你来说，编程中最难的部分是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32289986</guid>
             <pubDate>Sat, 30 Jul 2022 20:27:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Any real practical use of Smart Contracts?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人工智能变得比人类更聪明有什么影响？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32289916</link>
-            <guid>https://news.ycombinator.com/item?id=32289916</guid>
-            <pubDate>Sat, 30 Jul 2022 20:19:18 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are the implications of AI becoming smarter than humans?]]></description>
         </item>
     </channel>
 </rss>

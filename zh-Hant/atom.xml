@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T14:45:05.798Z</updated>
+    <updated>2022-08-13T14:58:25.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們需要另一個構建系統嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32450402</id>
+        <link href="https://news.ycombinator.com/item?id=32450402"/>
+        <updated>2022-08-13T14:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do we need another build system?]]></summary>
+        <author>
+            <name>milbone</name>
+            <uri>https://news.ycombinator.com/user?id=milbone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對你來說，編程中最難的部分是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>txt-me</name>
             <uri>https://news.ycombinator.com/user?id=txt-me</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能變得比人類更聰明有什麼影響？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289916</id>
-        <link href="https://news.ycombinator.com/item?id=32289916"/>
-        <updated>2022-07-30T20:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the implications of AI becoming smarter than humans?]]></summary>
-        <author>
-            <name>kordlessagain</name>
-            <uri>https://news.ycombinator.com/user?id=kordlessagain</uri>
         </author>
     </entry>
 </feed>
