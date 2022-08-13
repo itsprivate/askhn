@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T16:42:46.924Z</updated>
+    <updated>2022-08-13T17:37:08.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[转到移动和后端堆栈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32451801</id>
+        <link href="https://news.ycombinator.com/item?id=32451801"/>
+        <updated>2022-08-13T17:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Go to mobile and back end stack?]]></summary>
+        <author>
+            <name>a-user-you-like</name>
+            <uri>https://news.ycombinator.com/user?id=a-user-you-like</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[访问公司官员混杂的个人Gmail？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crossroadspm</name>
             <uri>https://news.ycombinator.com/user?id=crossroadspm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助科技公司的父亲在陪审团的裁决中获胜，但法官无视陪审团的意见
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32290496</id>
-        <link href="https://news.ycombinator.com/item?id=32290496"/>
-        <updated>2022-07-30T21:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Help Tech dad prevailed in jury verdict but judge disregarded jury]]></summary>
-        <author>
-            <name>legalhelpaustin</name>
-            <uri>https://news.ycombinator.com/user?id=legalhelpaustin</uri>
         </author>
     </entry>
 </feed>
