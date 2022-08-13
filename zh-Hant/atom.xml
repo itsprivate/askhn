@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T20:29:45.986Z</updated>
+    <updated>2022-08-13T20:47:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在聽什麼播客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453544</id>
+        <link href="https://news.ycombinator.com/item?id=32453544"/>
+        <updated>2022-08-13T20:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What podcasts are you listening to?]]></summary>
+        <author>
+            <name>appwiz</name>
+            <uri>https://news.ycombinator.com/user?id=appwiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何開始 "正確地 "做TDD？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throw14082020</name>
             <uri>https://news.ycombinator.com/user?id=throw14082020</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在獲得收入來源的同時保持我們的軟件免費？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294747</id>
-        <link href="https://news.ycombinator.com/item?id=32294747"/>
-        <updated>2022-07-31T10:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to keep our software free while obtaining a revenue stream?]]></summary>
-        <author>
-            <name>katla</name>
-            <uri>https://news.ycombinator.com/user?id=katla</uri>
         </author>
     </entry>
 </feed>
