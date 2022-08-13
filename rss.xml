@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 13 Aug 2022 20:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 21:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你如何跟踪会议相关的行动项目和决定
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32453707</link>
+            <guid>https://news.ycombinator.com/item?id=32453707</guid>
+            <pubDate>Sat, 13 Aug 2022 20:56:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do you track meeting related action items and decisions]]></description>
+        </item>
         <item>
             <title><![CDATA[你在听什么播客？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32294961</guid>
             <pubDate>Sun, 31 Jul 2022 11:57:54 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone Work for Postmark?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你如何记录你的事件驱动系统？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32294902</link>
-            <guid>https://news.ycombinator.com/item?id=32294902</guid>
-            <pubDate>Sun, 31 Jul 2022 11:43:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: How do you document your event-driven system?]]></description>
         </item>
     </channel>
 </rss>
