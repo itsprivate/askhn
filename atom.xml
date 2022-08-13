@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T02:17:58.754Z</updated>
+    <updated>2022-08-13T03:39:29.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么时候是跳槽的合适时机（如1年）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446356</id>
+        <link href="https://news.ycombinator.com/item?id=32446356"/>
+        <updated>2022-08-13T02:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When is the right time to job hop (e.g. 1 year)?]]></summary>
+        <author>
+            <name>roebanish</name>
+            <uri>https://news.ycombinator.com/user?id=roebanish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜欢哪种Linux文件管理器GUI，为什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>unknownaccount</name>
             <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于如何*设计*大数据管道的推荐课程/书籍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287084</id>
-        <link href="https://news.ycombinator.com/item?id=32287084"/>
-        <updated>2022-07-30T14:33:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Recommended courses/books on how to *design* big data pipelines?]]></summary>
-        <author>
-            <name>tomerbd</name>
-            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
         </author>
     </entry>
 </feed>
