@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-13T19:44:21.257Z</updated>
+    <updated>2022-08-13T19:59:04.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個好的開發標準文件的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453186</id>
+        <link href="https://news.ycombinator.com/item?id=32453186"/>
+        <updated>2022-08-13T19:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Example of a good dev standards document?]]></summary>
+        <author>
+            <name>rossdavidh</name>
+            <uri>https://news.ycombinator.com/user?id=rossdavidh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼馬克-扎克伯格沒有禁止蘋果產品？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453117</id>
+        <link href="https://news.ycombinator.com/item?id=32453117"/>
+        <updated>2022-08-13T19:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why hasn't Mark Zuckerberg banned Apple products?]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在弗萊公司倒閉之前，你在該公司的最後一次購物是什麼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>eimrine</name>
             <uri>https://news.ycombinator.com/user?id=eimrine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓工作檔案的技巧和竅門？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294295</id>
-        <link href="https://news.ycombinator.com/item?id=32294295"/>
-        <updated>2022-07-31T08:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Android work profile tips and tricks?]]></summary>
-        <author>
-            <name>ggeorgovassilis</name>
-            <uri>https://news.ycombinator.com/user?id=ggeorgovassilis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習計算機編程的書籍或課程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32293446</id>
-        <link href="https://news.ycombinator.com/item?id=32293446"/>
-        <updated>2022-07-31T05:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books or courses to learn computer programming?]]></summary>
-        <author>
-            <name>curious16</name>
-            <uri>https://news.ycombinator.com/user?id=curious16</uri>
         </author>
     </entry>
 </feed>
