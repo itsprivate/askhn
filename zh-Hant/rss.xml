@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 14 Aug 2022 13:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 14:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼不在Intels oneTBB上建立一個開源的C++項目？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32459384</link>
+            <guid>https://news.ycombinator.com/item?id=32459384</guid>
+            <pubDate>Sun, 14 Aug 2022 14:11:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why not to build an open-source C++ project on Intels oneTBB?]]></description>
+        </item>
         <item>
             <title><![CDATA[有什麼可靠的方法可以將30FPS轉換為60/120FPS？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32300861</guid>
             <pubDate>Mon, 01 Aug 2022 01:37:21 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you manage VMs on your workstations?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你將你的工作堆棧用於遊戲，會有什麼奇怪之處？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32300214</link>
-            <guid>https://news.ycombinator.com/item?id=32300214</guid>
-            <pubDate>Mon, 01 Aug 2022 00:13:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: If you used your work stack for a game, what would be weird about it?]]></description>
         </item>
     </channel>
 </rss>
