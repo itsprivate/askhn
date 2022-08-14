@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T15:31:15.301Z</updated>
+    <updated>2022-08-14T16:40:56.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用二維碼這樣的技術在紙上存儲大量的數據？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32460580</id>
+        <link href="https://news.ycombinator.com/item?id=32460580"/>
+        <updated>2022-08-14T16:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to store large amounts of data on paper with QR code like tech?]]></summary>
+        <author>
+            <name>webmobdev</name>
+            <uri>https://news.ycombinator.com/user?id=webmobdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在編程時，會播放什麼音樂？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aquajet</name>
             <uri>https://news.ycombinator.com/user?id=aquajet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國最佳自行車友好城市？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32301336</id>
-        <link href="https://news.ycombinator.com/item?id=32301336"/>
-        <updated>2022-08-01T02:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best bicycle-friendly city in the USA?]]></summary>
-        <author>
-            <name>Pakdef</name>
-            <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
         </author>
     </entry>
 </feed>
