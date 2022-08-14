@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T12:48:37.006Z</updated>
+    <updated>2022-08-14T13:25:53.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你建造了什麼東西，但從未推銷過？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458897</id>
+        <link href="https://news.ycombinator.com/item?id=32458897"/>
+        <updated>2022-08-14T13:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is something you built but never marketed?]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在哪裡儲存你的照片？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458879</id>
+        <link href="https://news.ycombinator.com/item?id=32458879"/>
+        <updated>2022-08-14T12:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you store your photos?]]></summary>
+        <author>
+            <name>zvikinoza</name>
+            <uri>https://news.ycombinator.com/user?id=zvikinoza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Valve/Steam對DOTA2中的藍精靈和作弊者沒有意見？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>h0ldnack</name>
             <uri>https://news.ycombinator.com/user?id=h0ldnack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼不在湖泊和游泳池中加鹽以減少溺水事件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299209</id>
-        <link href="https://news.ycombinator.com/item?id=32299209"/>
-        <updated>2022-07-31T21:52:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why not add salt to lakes and swimming pools to reduce drownings?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最近讀了哪本書，讓你的情緒失控了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32298926</id>
-        <link href="https://news.ycombinator.com/item?id=32298926"/>
-        <updated>2022-07-31T21:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What book have you read recently that had your emotions run wild?]]></summary>
-        <author>
-            <name>100001_100011</name>
-            <uri>https://news.ycombinator.com/user?id=100001_100011</uri>
         </author>
     </entry>
 </feed>
