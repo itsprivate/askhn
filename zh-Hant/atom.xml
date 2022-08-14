@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T21:46:23.422Z</updated>
+    <updated>2022-08-14T21:59:34.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何證明你的存在？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32463336</id>
+        <link href="https://news.ycombinator.com/item?id=32463336"/>
+        <updated>2022-08-14T21:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you justify your existence?]]></summary>
+        <author>
+            <name>openfuture</name>
+            <uri>https://news.ycombinator.com/user?id=openfuture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共享主機是否值得支付？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nicbou</name>
             <uri>https://news.ycombinator.com/user?id=nicbou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無密碼是否會損害我們的轉換率？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303988</id>
-        <link href="https://news.ycombinator.com/item?id=32303988"/>
-        <updated>2022-08-01T10:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does passwordless hurt our conversion rates?]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
         </author>
     </entry>
 </feed>
