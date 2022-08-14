@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 14 Aug 2022 13:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 13:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有什么可靠的方法可以将30FPS转换为60/120FPS？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32459036</link>
+            <guid>https://news.ycombinator.com/item?id=32459036</guid>
+            <pubDate>Sun, 14 Aug 2022 13:22:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a reliable way to convert 30FPS to 60/120FPS?]]></description>
+        </item>
         <item>
             <title><![CDATA[你建造了什么东西，但从未推销过？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32300214</guid>
             <pubDate>Mon, 01 Aug 2022 00:13:22 GMT</pubDate>
             <description><![CDATA[Ask HN: If you used your work stack for a game, what would be weird about it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你最喜欢的个人项目之一是什么，为什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32299607</link>
-            <guid>https://news.ycombinator.com/item?id=32299607</guid>
-            <pubDate>Sun, 31 Jul 2022 22:49:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's one of your favorite personal programs, and why?]]></description>
         </item>
     </channel>
 </rss>
