@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T17:08:49.861Z</updated>
+    <updated>2022-08-14T17:40:02.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何診斷為什麼流媒體視頻到PC上會如此不穩定？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461070</id>
+        <link href="https://news.ycombinator.com/item?id=32461070"/>
+        <updated>2022-08-14T17:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to diagnose why streaming video to a PC is so choppy?]]></summary>
+        <author>
+            <name>tomrod</name>
+            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼網絡瀏覽器不鼓勵使用不是每個人都會知道的詞語？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32460983</id>
+        <link href="https://news.ycombinator.com/item?id=32460983"/>
+        <updated>2022-08-14T17:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't web browsers discourage words that not everyone will know?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否還有機會獲得價格低廉的CPanel替代品？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>john_the_writer</name>
             <uri>https://news.ycombinator.com/user?id=john_the_writer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個CRUD應用的技術聯合創始人，沒有成長起來
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303484</id>
-        <link href="https://news.ycombinator.com/item?id=32303484"/>
-        <updated>2022-08-01T08:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Not Growing as a Technical Cofounder of a CRUD App]]></summary>
-        <author>
-            <name>viginti_tres</name>
-            <uri>https://news.ycombinator.com/user?id=viginti_tres</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在副業中使用什麼指標棧？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303160</id>
-        <link href="https://news.ycombinator.com/item?id=32303160"/>
-        <updated>2022-08-01T07:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What metrics stack are you using for side projects]]></summary>
-        <author>
-            <name>RandomSort</name>
-            <uri>https://news.ycombinator.com/user?id=RandomSort</uri>
         </author>
     </entry>
 </feed>
