@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T18:53:40.701Z</updated>
+    <updated>2022-08-14T19:57:59.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我的域名沒有任何電子郵件地址，也沒有電子郵件收件箱？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462291</id>
+        <link href="https://news.ycombinator.com/item?id=32462291"/>
+        <updated>2022-08-14T19:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't I have any email address nor email inbox with my domains?]]></summary>
+        <author>
+            <name>mike31fr</name>
+            <uri>https://news.ycombinator.com/user?id=mike31fr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的原則是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462244</id>
+        <link href="https://news.ycombinator.com/item?id=32462244"/>
+        <updated>2022-08-14T19:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Are Your Principles?]]></summary>
+        <author>
+            <name>coffee_beqn</name>
+            <uri>https://news.ycombinator.com/user?id=coffee_beqn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古往今來的應用分發
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>m33k44</name>
             <uri>https://news.ycombinator.com/user?id=m33k44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現代網頁設計資源？(2022)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303639</id>
-        <link href="https://news.ycombinator.com/item?id=32303639"/>
-        <updated>2022-08-01T09:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Modern web design resources? (2022)]]></summary>
-        <author>
-            <name>romellogoodman</name>
-            <uri>https://news.ycombinator.com/user?id=romellogoodman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像樣的、開源的搜索引擎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303587</id>
-        <link href="https://news.ycombinator.com/item?id=32303587"/>
-        <updated>2022-08-01T09:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Decent, open source search engine?]]></summary>
-        <author>
-            <name>hahnchen</name>
-            <uri>https://news.ycombinator.com/user?id=hahnchen</uri>
         </author>
     </entry>
 </feed>
