@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-14T20:47:49.722Z</updated>
+    <updated>2022-08-14T21:46:23.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[共享主机是否值得支付？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32463105</id>
+        <link href="https://news.ycombinator.com/item?id=32463105"/>
+        <updated>2022-08-14T21:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Shared Hosting Worth Paying For?]]></summary>
+        <author>
+            <name>night-rider</name>
+            <uri>https://news.ycombinator.com/user?id=night-rider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐服务（内部、SaaS等）的现状是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub缓存在区域BOM中出现问题？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303853</id>
-        <link href="https://news.ycombinator.com/item?id=32303853"/>
-        <updated>2022-08-01T09:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: GitHub caches acting up in region BOM?]]></summary>
-        <author>
-            <name>thewisenerd</name>
-            <uri>https://news.ycombinator.com/user?id=thewisenerd</uri>
         </author>
     </entry>
 </feed>

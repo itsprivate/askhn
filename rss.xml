@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 14 Aug 2022 20:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 21:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[共享主机是否值得支付？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32463105</link>
+            <guid>https://news.ycombinator.com/item?id=32463105</guid>
+            <pubDate>Sun, 14 Aug 2022 21:29:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: Shared Hosting Worth Paying For?]]></description>
+        </item>
         <item>
             <title><![CDATA[推荐服务（内部、SaaS等）的现状是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32303988</guid>
             <pubDate>Mon, 01 Aug 2022 10:16:47 GMT</pubDate>
             <description><![CDATA[Ask HN: Does passwordless hurt our conversion rates?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub缓存在区域BOM中出现问题？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32303853</link>
-            <guid>https://news.ycombinator.com/item?id=32303853</guid>
-            <pubDate>Mon, 01 Aug 2022 09:54:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: GitHub caches acting up in region BOM?]]></description>
         </item>
     </channel>
 </rss>
