@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T23:31:34.154Z</updated>
+    <updated>2022-08-15T23:48:27.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[空间机器学习的一个好课程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32477090</id>
+        <link href="https://news.ycombinator.com/item?id=32477090"/>
+        <updated>2022-08-15T23:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: A good course for spatial Machine Learning]]></summary>
+        <author>
+            <name>anakaine</name>
+            <uri>https://news.ycombinator.com/user?id=anakaine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这里有哪些不受欢迎的意见是不应该的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32477083</id>
+        <link href="https://news.ycombinator.com/item?id=32477083"/>
+        <updated>2022-08-15T23:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some unpopular opinions here that should not be?]]></summary>
+        <author>
+            <name>senttoschool</name>
+            <uri>https://news.ycombinator.com/user?id=senttoschool</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音乐行业缺少什么软件？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>t_a_v_i_s</name>
             <uri>https://news.ycombinator.com/user?id=t_a_v_i_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幽暗图案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32314096</id>
-        <link href="https://news.ycombinator.com/item?id=32314096"/>
-        <updated>2022-08-02T01:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Uber Dark Patterns]]></summary>
-        <author>
-            <name>aledalgrande</name>
-            <uri>https://news.ycombinator.com/user?id=aledalgrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在共同工作的同时也经常缩放吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32313779</id>
-        <link href="https://news.ycombinator.com/item?id=32313779"/>
-        <updated>2022-08-02T00:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you co-work while also zooming a lot?]]></summary>
-        <author>
-            <name>readonthegoapp</name>
-            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
         </author>
     </entry>
 </feed>
