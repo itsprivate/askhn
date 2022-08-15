@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T19:26:40.524Z</updated>
+    <updated>2022-08-15T21:02:06.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有其他机器人s/w工程经理想联系？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32475243</id>
+        <link href="https://news.ycombinator.com/item?id=32475243"/>
+        <updated>2022-08-15T20:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any other robotics s/w engineering managers wanting to connect?]]></summary>
+        <author>
+            <name>jvanderbot</name>
+            <uri>https://news.ycombinator.com/user?id=jvanderbot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TopTal是否作为自由职业者工作？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sage76</name>
             <uri>https://news.ycombinator.com/user?id=sage76</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何看待开源作为一种商业战略？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311774</id>
-        <link href="https://news.ycombinator.com/item?id=32311774"/>
-        <updated>2022-08-01T20:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How have you seen open source as a business strategy?]]></summary>
-        <author>
-            <name>FarhadG</name>
-            <uri>https://news.ycombinator.com/user?id=FarhadG</uri>
         </author>
     </entry>
 </feed>
