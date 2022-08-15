@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T19:04:13.343Z</updated>
+    <updated>2022-08-15T19:26:40.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TopTal是否作为自由职业者工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473920</id>
+        <link href="https://news.ycombinator.com/item?id=32473920"/>
+        <updated>2022-08-15T19:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does TopTal Work as a Freelancer?]]></summary>
+        <author>
+            <name>seasicksteve</name>
+            <uri>https://news.ycombinator.com/user?id=seasicksteve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于那些从未听说过RSS的人来说，有什么好的介绍性文章？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473861</id>
+        <link href="https://news.ycombinator.com/item?id=32473861"/>
+        <updated>2022-08-15T19:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's a go-to introductory article for those who've never heard of RSS?]]></summary>
+        <author>
+            <name>Curiositry</name>
+            <uri>https://news.ycombinator.com/user?id=Curiositry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，初创企业更难获得关注吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>FarhadG</name>
             <uri>https://news.ycombinator.com/user?id=FarhadG</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你一天能读多少本软件工程书籍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311757</id>
-        <link href="https://news.ycombinator.com/item?id=32311757"/>
-        <updated>2022-08-01T20:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many software engineering books can you read in a day?]]></summary>
-        <author>
-            <name>hablary</name>
-            <uri>https://news.ycombinator.com/user?id=hablary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假设任何障碍都能被克服，你希望有什么API存在？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311607</id>
-        <link href="https://news.ycombinator.com/item?id=32311607"/>
-        <updated>2022-08-01T20:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Assuming any barrier could be overcome, what API do you wish existed?]]></summary>
-        <author>
-            <name>jimhi</name>
-            <uri>https://news.ycombinator.com/user?id=jimhi</uri>
         </author>
     </entry>
 </feed>
