@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T02:41:27.844Z</updated>
+    <updated>2022-08-15T04:17:38.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奇怪的信用卡东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32465579</id>
+        <link href="https://news.ycombinator.com/item?id=32465579"/>
+        <updated>2022-08-15T03:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Weird Credit Card Stuff]]></summary>
+        <author>
+            <name>pyuser583</name>
+            <uri>https://news.ycombinator.com/user?id=pyuser583</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找到一个小城镇来迁移远程工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32465372</id>
+        <link href="https://news.ycombinator.com/item?id=32465372"/>
+        <updated>2022-08-15T02:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find a small town to relocate for remote work?]]></summary>
+        <author>
+            <name>Townley</name>
+            <uri>https://news.ycombinator.com/user?id=Townley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最有效的自律行为是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>brightball</name>
             <uri>https://news.ycombinator.com/user?id=brightball</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开Kubernetes了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304834</id>
-        <link href="https://news.ycombinator.com/item?id=32304834"/>
-        <updated>2022-08-01T12:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have You Left Kubernetes?]]></summary>
-        <author>
-            <name>strzibny</name>
-            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个速度测试是否正确/相关？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304785</id>
-        <link href="https://news.ycombinator.com/item?id=32304785"/>
-        <updated>2022-08-01T12:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is this speed test correct/relevant?]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
