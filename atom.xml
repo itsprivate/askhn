@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T16:48:08.398Z</updated>
+    <updated>2022-08-15T17:18:13.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[捐赠给HelpingToLeave（如果你可以的话）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471961</id>
+        <link href="https://news.ycombinator.com/item?id=32471961"/>
+        <updated>2022-08-15T16:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Donate to HelpingToLeave (if you can)]]></summary>
+        <author>
+            <name>vladstudio</name>
+            <uri>https://news.ycombinator.com/user?id=vladstudio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型团队可以维护Electron应用程序吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471912</id>
+        <link href="https://news.ycombinator.com/item?id=32471912"/>
+        <updated>2022-08-15T16:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can small teams maintain Electron apps?]]></summary>
+        <author>
+            <name>diamondap</name>
+            <uri>https://news.ycombinator.com/user?id=diamondap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币是一个v1.0的软件，到底是否需要进行重大的重构？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>endisneigh</name>
             <uri>https://news.ycombinator.com/user?id=endisneigh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS有容量问题吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310885</id>
-        <link href="https://news.ycombinator.com/item?id=32310885"/>
-        <updated>2022-08-01T19:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is AWS having capacity issues?]]></summary>
-        <author>
-            <name>ccleve</name>
-            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何作为一个开源开发者赚钱或使之成为你的职业
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310636</id>
-        <link href="https://news.ycombinator.com/item?id=32310636"/>
-        <updated>2022-08-01T19:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to make money as an Open Source Developer or make it your career]]></summary>
-        <author>
-            <name>OpenSaned</name>
-            <uri>https://news.ycombinator.com/user?id=OpenSaned</uri>
         </author>
     </entry>
 </feed>
