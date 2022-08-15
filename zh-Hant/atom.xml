@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T17:18:13.874Z</updated>
+    <updated>2022-08-15T18:40:11.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在YouTube上看什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473303</id>
+        <link href="https://news.ycombinator.com/item?id=32473303"/>
+        <updated>2022-08-15T18:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you watch on YouTube?]]></summary>
+        <author>
+            <name>amrrs</name>
+            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是好的便宜的雲中窗按分鐘付費的選擇？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473129</id>
+        <link href="https://news.ycombinator.com/item?id=32473129"/>
+        <updated>2022-08-15T18:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is a good cheap windows-in-the-cloud pay-per-minute option]]></summary>
+        <author>
+            <name>janandonly</name>
+            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捐贈給HelpingToLeave（如果你可以的話）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>brundolf</name>
             <uri>https://news.ycombinator.com/user?id=brundolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰想合作或成為共同創始人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311305</id>
-        <link href="https://news.ycombinator.com/item?id=32311305"/>
-        <updated>2022-08-01T19:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Wants to Collaborate or a Cofounder?]]></summary>
-        <author>
-            <name>bruceb</name>
-            <uri>https://news.ycombinator.com/user?id=bruceb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰已經轉向了無服務器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310950</id>
-        <link href="https://news.ycombinator.com/item?id=32310950"/>
-        <updated>2022-08-01T19:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who Has Switched to Serverless?]]></summary>
-        <author>
-            <name>endisneigh</name>
-            <uri>https://news.ycombinator.com/user?id=endisneigh</uri>
         </author>
     </entry>
 </feed>
