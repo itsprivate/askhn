@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T14:34:06.104Z</updated>
+    <updated>2022-08-15T15:56:37.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[碳中和CDN
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471130</id>
+        <link href="https://news.ycombinator.com/item?id=32471130"/>
+        <updated>2022-08-15T15:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Carbon Neutral CDN]]></summary>
+        <author>
+            <name>dangerface</name>
+            <uri>https://news.ycombinator.com/user?id=dangerface</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蓝牙有点糟糕。为什么我们没有更好的东西呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>a1pulley</name>
             <uri>https://news.ycombinator.com/user?id=a1pulley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁被解雇了？ (2022年8月)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32309722</id>
-        <link href="https://news.ycombinator.com/item?id=32309722"/>
-        <updated>2022-08-01T17:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is Fired? (August 2022)]]></summary>
-        <author>
-            <name>devKnight</name>
-            <uri>https://news.ycombinator.com/user?id=devKnight</uri>
         </author>
     </entry>
 </feed>
