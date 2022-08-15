@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T18:40:11.162Z</updated>
+    <updated>2022-08-15T19:04:13.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年，初創企業更難獲得關注嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473684</id>
+        <link href="https://news.ycombinator.com/item?id=32473684"/>
+        <updated>2022-08-15T18:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is getting attention for startups harder in 2022?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在YouTube上看什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jimhi</name>
             <uri>https://news.ycombinator.com/user?id=jimhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native能否為第三個移動操作系統降低足夠的護城河？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311558</id>
-        <link href="https://news.ycombinator.com/item?id=32311558"/>
-        <updated>2022-08-01T20:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Could React Native lower the moat enough for a third mobile OS?]]></summary>
-        <author>
-            <name>brundolf</name>
-            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
         </author>
     </entry>
 </feed>
