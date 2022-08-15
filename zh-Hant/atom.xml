@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-15T09:01:16.988Z</updated>
+    <updated>2022-08-15T10:36:55.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什麼技術是你認為會佔領世界但卻沒有的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467874</id>
+        <link href="https://news.ycombinator.com/item?id=32467874"/>
+        <updated>2022-08-15T10:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is a tech you though would take over the world but it didn't?]]></summary>
+        <author>
+            <name>yanis_t</name>
+            <uri>https://news.ycombinator.com/user?id=yanis_t</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據安全方面的書籍推薦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467833</id>
+        <link href="https://news.ycombinator.com/item?id=32467833"/>
+        <updated>2022-08-15T10:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Book recommendations for data security]]></summary>
+        <author>
+            <name>StefanWestfal</name>
+            <uri>https://news.ycombinator.com/user?id=StefanWestfal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鬱悶，需要離開網絡開發，我能做什麼？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>farouqaldori</name>
             <uri>https://news.ycombinator.com/user?id=farouqaldori</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何跟蹤你所關心的通訊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306612</id>
-        <link href="https://news.ycombinator.com/item?id=32306612"/>
-        <updated>2022-08-01T14:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you keep track of newsletters you care for?]]></summary>
-        <author>
-            <name>philippb</name>
-            <uri>https://news.ycombinator.com/user?id=philippb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你訂閱了哪些新聞簡報？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306374</id>
-        <link href="https://news.ycombinator.com/item?id=32306374"/>
-        <updated>2022-08-01T14:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What newsletters do you subscribe to?]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
         </author>
     </entry>
 </feed>
