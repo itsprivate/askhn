@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T07:24:26.455Z</updated>
+    <updated>2022-08-16T07:43:48.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在使用新的GitHub v2項目嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480136</id>
+        <link href="https://news.ycombinator.com/item?id=32480136"/>
+        <updated>2022-08-16T07:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone using the new GitHub v2 projects?]]></summary>
+        <author>
+            <name>dz0ny</name>
+            <uri>https://news.ycombinator.com/user?id=dz0ny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，進入機器/深度學習的正確方式是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gsora</name>
             <uri>https://news.ycombinator.com/user?id=gsora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設計和構建複雜系統的課程/網頁
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316832</id>
-        <link href="https://news.ycombinator.com/item?id=32316832"/>
-        <updated>2022-08-02T09:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Courses/pages to design and architect complex system]]></summary>
-        <author>
-            <name>epimetheus3</name>
-            <uri>https://news.ycombinator.com/user?id=epimetheus3</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有人在使用新的GitHub v2项目吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32480136</link>
+            <guid>https://news.ycombinator.com/item?id=32480136</guid>
+            <pubDate>Tue, 16 Aug 2022 07:26:01 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is anyone using the new GitHub v2 projects?]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年，进入机器/深度学习的正确方式是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32316925</guid>
             <pubDate>Tue, 02 Aug 2022 10:13:37 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you read HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[设计和构建复杂系统的课程/网页
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32316832</link>
-            <guid>https://news.ycombinator.com/item?id=32316832</guid>
-            <pubDate>Tue, 02 Aug 2022 09:55:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Courses/pages to design and architect complex system]]></description>
         </item>
     </channel>
 </rss>
