@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T05:43:21.808Z</updated>
+    <updated>2022-08-16T06:57:33.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逆转摩尔定律？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479909</id>
+        <link href="https://news.ycombinator.com/item?id=32479909"/>
+        <updated>2022-08-16T06:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reverse Moore's Law?]]></summary>
+        <author>
+            <name>zipotm</name>
+            <uri>https://news.ycombinator.com/user?id=zipotm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诺伊曼在未来十年以几分钱的价格收购WeWork的可能性？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[膳食计划应用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316604</id>
-        <link href="https://news.ycombinator.com/item?id=32316604"/>
-        <updated>2022-08-02T09:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Meal Planning App?]]></summary>
-        <author>
-            <name>35mm</name>
-            <uri>https://news.ycombinator.com/user?id=35mm</uri>
         </author>
     </entry>
 </feed>
