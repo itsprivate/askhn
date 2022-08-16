@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T23:48:34.676Z</updated>
+    <updated>2022-08-16T23:59:01.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何在裸機上部署Go？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32490589</id>
+        <link href="https://news.ycombinator.com/item?id=32490589"/>
+        <updated>2022-08-16T23:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you deploy Go on bare metal?]]></summary>
+        <author>
+            <name>iio7</name>
+            <uri>https://news.ycombinator.com/user?id=iio7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球變暖每年給美國成年人帶來多少損失/拯救？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32490571</id>
+        <link href="https://news.ycombinator.com/item?id=32490571"/>
+        <updated>2022-08-16T23:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much is global warming costing / saving the avg US adult each year?]]></summary>
+        <author>
+            <name>readonthegoapp</name>
+            <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不離開美國的數字遊民，為什麼感覺被忽視了？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lakevictoria</name>
             <uri>https://news.ycombinator.com/user?id=lakevictoria</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果在臺灣周圍發生 "事件"，中國的貿易會怎樣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32325944</id>
-        <link href="https://news.ycombinator.com/item?id=32325944"/>
-        <updated>2022-08-03T00:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If an “event” happens around Taiwan, what happens to China trade?]]></summary>
-        <author>
-            <name>slimebot80</name>
-            <uri>https://news.ycombinator.com/user?id=slimebot80</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Ocean在容器註冊方面有問題？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32325785</id>
-        <link href="https://news.ycombinator.com/item?id=32325785"/>
-        <updated>2022-08-02T23:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Digital Ocean having issues with Container Registry?]]></summary>
-        <author>
-            <name>belfalas</name>
-            <uri>https://news.ycombinator.com/user?id=belfalas</uri>
         </author>
     </entry>
 </feed>
