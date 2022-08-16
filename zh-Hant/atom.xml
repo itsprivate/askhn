@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T19:45:37.282Z</updated>
+    <updated>2022-08-16T19:59:08.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誰需要資金？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32487830</id>
+        <link href="https://news.ycombinator.com/item?id=32487830"/>
+        <updated>2022-08-16T19:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who needs funding?]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當我已經計劃要離開時，如何處理裁員？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>synu</name>
             <uri>https://news.ycombinator.com/user?id=synu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何推銷我的API SaaS？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32323260</id>
-        <link href="https://news.ycombinator.com/item?id=32323260"/>
-        <updated>2022-08-02T19:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to market my API SaaS?]]></summary>
-        <author>
-            <name>dyml</name>
-            <uri>https://news.ycombinator.com/user?id=dyml</uri>
         </author>
     </entry>
 </feed>
