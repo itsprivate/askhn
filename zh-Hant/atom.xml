@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T09:58:16.488Z</updated>
+    <updated>2022-08-16T10:47:38.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜歡的人工智能/ML的RSS訂閱（播客、博客、新聞）有哪些？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481160</id>
+        <link href="https://news.ycombinator.com/item?id=32481160"/>
+        <updated>2022-08-16T10:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your favourite AI/ML RSS feeds (Podcasts, Blogs, News)?]]></summary>
+        <author>
+            <name>pat-jay</name>
+            <uri>https://news.ycombinator.com/user?id=pat-jay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進入後端開發的正確方式是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481144</id>
+        <link href="https://news.ycombinator.com/item?id=32481144"/>
+        <updated>2022-08-16T10:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the proper way get into back end development?]]></summary>
+        <author>
+            <name>Arisaka1</name>
+            <uri>https://news.ycombinator.com/user?id=Arisaka1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找相關工作/遠程工作
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gsanghera</name>
             <uri>https://news.ycombinator.com/user?id=gsanghera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASK HN: 我是一個模仿者嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32317597</id>
-        <link href="https://news.ycombinator.com/item?id=32317597"/>
-        <updated>2022-08-02T12:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ASK HN: Am I a Copycat?]]></summary>
-        <author>
-            <name>mhrnik</name>
-            <uri>https://news.ycombinator.com/user?id=mhrnik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全棧式開發人員到底是什麼意思？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32317514</id>
-        <link href="https://news.ycombinator.com/item?id=32317514"/>
-        <updated>2022-08-02T11:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does Full-Stack Developer even mean?]]></summary>
-        <author>
-            <name>sph</name>
-            <uri>https://news.ycombinator.com/user?id=sph</uri>
         </author>
     </entry>
 </feed>
