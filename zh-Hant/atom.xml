@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T11:44:53.436Z</updated>
+    <updated>2022-08-16T11:59:23.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[南加州的最佳居住地在哪裡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481643</id>
+        <link href="https://news.ycombinator.com/item?id=32481643"/>
+        <updated>2022-08-16T11:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where Is the Best Place to Live in SoCal?]]></summary>
+        <author>
+            <name>idontwantthis</name>
+            <uri>https://news.ycombinator.com/user?id=idontwantthis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們是否正在建立一個科技二元論？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481555</id>
+        <link href="https://news.ycombinator.com/item?id=32481555"/>
+        <updated>2022-08-16T11:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are we building a tech dystopia?]]></summary>
+        <author>
+            <name>jmfldn</name>
+            <uri>https://news.ycombinator.com/user?id=jmfldn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼媒體不說誰在轟炸扎波羅熱的核電站？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>brauhaus</name>
             <uri>https://news.ycombinator.com/user?id=brauhaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些初創企業做出了最佳的早期技術決策？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319694</id>
-        <link href="https://news.ycombinator.com/item?id=32319694"/>
-        <updated>2022-08-02T15:21:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What startsups made the best early-tech decisions?]]></summary>
-        <author>
-            <name>jonathan-kosgei</name>
-            <uri>https://news.ycombinator.com/user?id=jonathan-kosgei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何創建你的Gumroad教程產品的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319287</id>
-        <link href="https://news.ycombinator.com/item?id=32319287"/>
-        <updated>2022-08-02T14:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you create your Gumroad tutorial product?]]></summary>
-        <author>
-            <name>necmttn</name>
-            <uri>https://news.ycombinator.com/user?id=necmttn</uri>
         </author>
     </entry>
 </feed>
