@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T13:30:27.602Z</updated>
+    <updated>2022-08-16T14:29:29.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有沒有人成功地恢復了被黑的FB賬戶？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482989</id>
+        <link href="https://news.ycombinator.com/item?id=32482989"/>
+        <updated>2022-08-16T14:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone succesfully recovered a hacked FB account?]]></summary>
+        <author>
+            <name>gigighorbani88</name>
+            <uri>https://news.ycombinator.com/user?id=gigighorbani88</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開發WordPress插件獲得副業收入？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saradhi</name>
             <uri>https://news.ycombinator.com/user?id=saradhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您推薦的UI UX設計工具是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32320151</id>
-        <link href="https://news.ycombinator.com/item?id=32320151"/>
-        <updated>2022-08-02T15:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your recommended UI UX Design tools?]]></summary>
-        <author>
-            <name>lienhoangduy</name>
-            <uri>https://news.ycombinator.com/user?id=lienhoangduy</uri>
         </author>
     </entry>
 </feed>
