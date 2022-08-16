@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T05:29:32.827Z</updated>
+    <updated>2022-08-16T05:43:21.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[諾伊曼在未來十年以幾分錢的價格收購WeWork的可能性？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479483</id>
+        <link href="https://news.ycombinator.com/item?id=32479483"/>
+        <updated>2022-08-16T05:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Odds Neumann buys WeWork for pennies on the dollar in the next decade?]]></summary>
+        <author>
+            <name>shaburn</name>
+            <uri>https://news.ycombinator.com/user?id=shaburn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鋰動力無人機是否可以有效對抗MRL的火箭？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>35mm</name>
             <uri>https://news.ycombinator.com/user?id=35mm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的數據棧是什麼？如果你能重新開始，你會改變什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316249</id>
-        <link href="https://news.ycombinator.com/item?id=32316249"/>
-        <updated>2022-08-02T08:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your data stack? What would you change if you could start over?]]></summary>
-        <author>
-            <name>senttoschool</name>
-            <uri>https://news.ycombinator.com/user?id=senttoschool</uri>
         </author>
     </entry>
 </feed>
