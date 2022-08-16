@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T22:30:59.670Z</updated>
+    <updated>2022-08-16T23:48:34.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不离开美国的数字游民，为什么感觉被忽视了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32490453</id>
+        <link href="https://news.ycombinator.com/item?id=32490453"/>
+        <updated>2022-08-16T23:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Digital nomad without leaving the US, why does it feel overlooked?]]></summary>
+        <author>
+            <name>djellybeans</name>
+            <uri>https://news.ycombinator.com/user?id=djellybeans</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在FAANG找到一份高级/首席工程师的工作
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>belfalas</name>
             <uri>https://news.ycombinator.com/user?id=belfalas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您对SwiftUI路由/导航的首选方法是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32325643</id>
-        <link href="https://news.ycombinator.com/item?id=32325643"/>
-        <updated>2022-08-02T23:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's your preferred method for SwiftUI Routing/Navigation?]]></summary>
-        <author>
-            <name>codemonkeysh</name>
-            <uri>https://news.ycombinator.com/user?id=codemonkeysh</uri>
         </author>
     </entry>
 </feed>
