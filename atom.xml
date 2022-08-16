@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T17:14:32.583Z</updated>
+    <updated>2022-08-16T17:43:01.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有只带GPS追踪器的哑巴手表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32485776</id>
+        <link href="https://news.ycombinator.com/item?id=32485776"/>
+        <updated>2022-08-16T17:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any dumb watch with only GPS-tracker?]]></summary>
+        <author>
+            <name>isoos</name>
+            <uri>https://news.ycombinator.com/user?id=isoos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这里有人不拥有手机吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[限制特定政治相关用途的许可？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32321873</id>
-        <link href="https://news.ycombinator.com/item?id=32321873"/>
-        <updated>2022-08-02T17:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: License for restricting specific political-related usage?]]></summary>
-        <author>
-            <name>Espionage724</name>
-            <uri>https://news.ycombinator.com/user?id=Espionage724</uri>
         </author>
     </entry>
 </feed>

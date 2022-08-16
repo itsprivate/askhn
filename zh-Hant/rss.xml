@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 16 Aug 2022 17:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有沒有隻帶GPS追蹤器的啞巴手錶？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32485776</link>
+            <guid>https://news.ycombinator.com/item?id=32485776</guid>
+            <pubDate>Tue, 16 Aug 2022 17:11:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any dumb watch with only GPS-tracker?]]></description>
+        </item>
         <item>
             <title><![CDATA[這裡有人不擁有手機嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32322039</guid>
             <pubDate>Tue, 02 Aug 2022 17:50:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Does someone know a good SIMD programming tutorial?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[限制特定政治相關用途的許可？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32321873</link>
-            <guid>https://news.ycombinator.com/item?id=32321873</guid>
-            <pubDate>Tue, 02 Aug 2022 17:38:08 GMT</pubDate>
-            <description><![CDATA[Ask HN: License for restricting specific political-related usage?]]></description>
         </item>
     </channel>
 </rss>
