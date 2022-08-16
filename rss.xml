@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 16 Aug 2022 11:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 12:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们能不能有一个 "按受欢迎程度对域名的故事进行排序 "的按钮？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32481799</link>
+            <guid>https://news.ycombinator.com/item?id=32481799</guid>
+            <pubDate>Tue, 16 Aug 2022 12:16:40 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can We Have a 'Sort Stories from Domain by Popularity' Button?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在哪里运行令人尴尬的并行、整数、无SIMD的工作负载？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32481657</link>
+            <guid>https://news.ycombinator.com/item?id=32481657</guid>
+            <pubDate>Tue, 16 Aug 2022 11:57:51 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where to run embarrassingly parallel, Integer, no SIMD workloads?]]></description>
+        </item>
         <item>
             <title><![CDATA[南加州的最佳居住地在哪里？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32319965</guid>
             <pubDate>Tue, 02 Aug 2022 15:35:36 GMT</pubDate>
             <description><![CDATA[Ask HN: I want somebody to coach me to Excel at my Senior Software Engineer Job]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有人重视代码质量？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32319822</link>
-            <guid>https://news.ycombinator.com/item?id=32319822</guid>
-            <pubDate>Tue, 02 Aug 2022 15:28:20 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does anyone values code quality at all?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有哪些适合非初学者的资源/课程？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32319791</link>
-            <guid>https://news.ycombinator.com/item?id=32319791</guid>
-            <pubDate>Tue, 02 Aug 2022 15:26:37 GMT</pubDate>
-            <description><![CDATA[Ask HN: What are great resources/courses for non-beginners?]]></description>
         </item>
     </channel>
 </rss>

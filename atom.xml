@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T11:59:23.867Z</updated>
+    <updated>2022-08-16T12:51:57.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们能不能有一个 "按受欢迎程度对域名的故事进行排序 "的按钮？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481799</id>
+        <link href="https://news.ycombinator.com/item?id=32481799"/>
+        <updated>2022-08-16T12:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can We Have a 'Sort Stories from Domain by Popularity' Button?]]></summary>
+        <author>
+            <name>CM30</name>
+            <uri>https://news.ycombinator.com/user?id=CM30</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在哪里运行令人尴尬的并行、整数、无SIMD的工作负载？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481657</id>
+        <link href="https://news.ycombinator.com/item?id=32481657"/>
+        <updated>2022-08-16T11:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to run embarrassingly parallel, Integer, no SIMD workloads?]]></summary>
+        <author>
+            <name>freemint</name>
+            <uri>https://news.ycombinator.com/user?id=freemint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南加州的最佳居住地在哪里？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rajasimon</name>
             <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有人重视代码质量？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319822</id>
-        <link href="https://news.ycombinator.com/item?id=32319822"/>
-        <updated>2022-08-02T15:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone values code quality at all?]]></summary>
-        <author>
-            <name>kljasdlkj</name>
-            <uri>https://news.ycombinator.com/user?id=kljasdlkj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些适合非初学者的资源/课程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319791</id>
-        <link href="https://news.ycombinator.com/item?id=32319791"/>
-        <updated>2022-08-02T15:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are great resources/courses for non-beginners?]]></summary>
-        <author>
-            <name>brauhaus</name>
-            <uri>https://news.ycombinator.com/user?id=brauhaus</uri>
         </author>
     </entry>
 </feed>
