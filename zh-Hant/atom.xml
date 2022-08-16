@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T04:06:19.719Z</updated>
+    <updated>2022-08-16T04:51:28.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是什麼讓你離開了你舒適的技術角色？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479254</id>
+        <link href="https://news.ycombinator.com/item?id=32479254"/>
+        <updated>2022-08-16T04:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What made you leave your comfortable tech role?]]></summary>
+        <author>
+            <name>maxisrelaxed</name>
+            <uri>https://news.ycombinator.com/user?id=maxisrelaxed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook剛剛停止了對廣告攔截器的打擊？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479223</id>
+        <link href="https://news.ycombinator.com/item?id=32479223"/>
+        <updated>2022-08-16T04:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Did Facebook just stop fighting adblockers?]]></summary>
+        <author>
+            <name>robgibbons</name>
+            <uri>https://news.ycombinator.com/user?id=robgibbons</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[您使用哪種私人飛機服務？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lakevictoria</name>
             <uri>https://news.ycombinator.com/user?id=lakevictoria</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你曾經在憤怒的時候使用過GPT-3嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32315666</id>
-        <link href="https://news.ycombinator.com/item?id=32315666"/>
-        <updated>2022-08-02T06:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you ever use GPT-3 in anger?]]></summary>
-        <author>
-            <name>tepitoperrito</name>
-            <uri>https://news.ycombinator.com/user?id=tepitoperrito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件開發人員KPI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32315659</id>
-        <link href="https://news.ycombinator.com/item?id=32315659"/>
-        <updated>2022-08-02T06:14:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Software Developer KPI]]></summary>
-        <author>
-            <name>kagaw</name>
-            <uri>https://news.ycombinator.com/user?id=kagaw</uri>
         </author>
     </entry>
 </feed>
