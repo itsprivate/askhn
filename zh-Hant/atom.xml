@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T19:26:45.904Z</updated>
+    <updated>2022-08-16T19:45:37.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當我已經計劃要離開時，如何處理裁員？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32487645</id>
+        <link href="https://news.ycombinator.com/item?id=32487645"/>
+        <updated>2022-08-16T19:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to handle a layoff when I already planning on leaving?]]></summary>
+        <author>
+            <name>throwaway84390</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway84390</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年，MySQL 8是一個用於存儲金融數據的安全數據庫嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32487598</id>
+        <link href="https://news.ycombinator.com/item?id=32487598"/>
+        <updated>2022-08-16T19:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is MySQL 8, in 2022, a safe DB for storing financial data?]]></summary>
+        <author>
+            <name>profwalkstr</name>
+            <uri>https://news.ycombinator.com/user?id=profwalkstr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人對Contoura Vision眼科手術有經驗嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dyml</name>
             <uri>https://news.ycombinator.com/user?id=dyml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何使用你的Raspberry Pi的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32322951</id>
-        <link href="https://news.ycombinator.com/item?id=32322951"/>
-        <updated>2022-08-02T19:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you using your Raspberry Pi?]]></summary>
-        <author>
-            <name>lenwood</name>
-            <uri>https://news.ycombinator.com/user?id=lenwood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕量級Android/iOS遊戲的遊戲引擎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32322669</id>
-        <link href="https://news.ycombinator.com/item?id=32322669"/>
-        <updated>2022-08-02T18:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Game engines for lightweight Android/iOS games?]]></summary>
-        <author>
-            <name>abhad</name>
-            <uri>https://news.ycombinator.com/user?id=abhad</uri>
         </author>
     </entry>
 </feed>
