@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-16T19:59:08.623Z</updated>
+    <updated>2022-08-16T20:50:55.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這裡有誰改用Go來構建（REST）API？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488563</id>
+        <link href="https://news.ycombinator.com/item?id=32488563"/>
+        <updated>2022-08-16T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone here switch to Go for building (REST) APIs?]]></summary>
+        <author>
+            <name>Cwizard</name>
+            <uri>https://news.ycombinator.com/user?id=Cwizard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰需要資金？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lotw_dot_site</name>
             <uri>https://news.ycombinator.com/user?id=lotw_dot_site</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的音樂家是誰，他們最好的歌曲是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32323283</id>
-        <link href="https://news.ycombinator.com/item?id=32323283"/>
-        <updated>2022-08-02T19:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is your favorite musician and what is their best song?]]></summary>
-        <author>
-            <name>synu</name>
-            <uri>https://news.ycombinator.com/user?id=synu</uri>
         </author>
     </entry>
 </feed>
