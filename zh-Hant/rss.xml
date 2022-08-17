@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 10:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 11:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是否有Rust開發者轉向嵌入式設備編程？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32494606</link>
+            <guid>https://news.ycombinator.com/item?id=32494606</guid>
+            <pubDate>Wed, 17 Aug 2022 10:58:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has any Rust developer moved to embedded device programming?]]></description>
+        </item>
         <item>
             <title><![CDATA[哪些初創企業在經濟低迷時期蓬勃發展？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32330899</guid>
             <pubDate>Wed, 03 Aug 2022 12:40:54 GMT</pubDate>
             <description><![CDATA[Ask HN: Why have none of the big companies tried to compete with YouTube?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否對高階宏觀的東西賦予更高的價值，而不是微觀的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32330819</link>
-            <guid>https://news.ycombinator.com/item?id=32330819</guid>
-            <pubDate>Wed, 03 Aug 2022 12:31:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you assign a higher value to high order macro stuff vis-a-vis micro?]]></description>
         </item>
     </channel>
 </rss>
