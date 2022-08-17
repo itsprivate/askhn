@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T05:33:05.634Z</updated>
+    <updated>2022-08-17T05:59:01.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道有誰通過利用內幕信息發了財嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32492792</id>
+        <link href="https://news.ycombinator.com/item?id=32492792"/>
+        <updated>2022-08-17T05:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you know someone who got rich from using insider information?]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪裡維護你的待讀書單？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomthought12</name>
             <uri>https://news.ycombinator.com/user?id=randomthought12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能改進我的團隊的內部測試方法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32328352</id>
-        <link href="https://news.ycombinator.com/item?id=32328352"/>
-        <updated>2022-08-03T06:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can I improve my team's approach to internal testing?]]></summary>
-        <author>
-            <name>literallyanyone</name>
-            <uri>https://news.ycombinator.com/user?id=literallyanyone</uri>
         </author>
     </entry>
 </feed>

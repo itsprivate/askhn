@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 05:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你知道有谁通过利用内幕信息发了财吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32492792</link>
+            <guid>https://news.ycombinator.com/item?id=32492792</guid>
+            <pubDate>Wed, 17 Aug 2022 05:49:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you know someone who got rich from using insider information?]]></description>
+        </item>
         <item>
             <title><![CDATA[你在哪里维护你的待读书单？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32328467</guid>
             <pubDate>Wed, 03 Aug 2022 06:54:14 GMT</pubDate>
             <description><![CDATA[Ask HN: How does the Reddit iOS app get its content for targeted ads?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我怎样才能改进我的团队的内部测试方法？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32328352</link>
-            <guid>https://news.ycombinator.com/item?id=32328352</guid>
-            <pubDate>Wed, 03 Aug 2022 06:36:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: How can I improve my team's approach to internal testing?]]></description>
         </item>
     </channel>
 </rss>
