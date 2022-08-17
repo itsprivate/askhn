@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T07:46:06.467Z</updated>
+    <updated>2022-08-17T08:37:09.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么远程/办公室的讨论会倾向于绝对化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493734</id>
+        <link href="https://news.ycombinator.com/item?id=32493734"/>
+        <updated>2022-08-17T08:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is the remote/office discussion leaning towards absolutes?]]></summary>
+        <author>
+            <name>hugostus</name>
+            <uri>https://news.ycombinator.com/user?id=hugostus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新大规模节点树的可伸缩性策略
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493553</id>
+        <link href="https://news.ycombinator.com/item?id=32493553"/>
+        <updated>2022-08-17T07:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Scalability strategy for updating massive node trees]]></summary>
+        <author>
+            <name>tapiok</name>
+            <uri>https://news.ycombinator.com/user?id=tapiok</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你将如何实施物联网销售钟？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以去哪里认识有趣的人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32329386</id>
-        <link href="https://news.ycombinator.com/item?id=32329386"/>
-        <updated>2022-08-03T09:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I go to meet interesting people?]]></summary>
-        <author>
-            <name>throwaway27922</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway27922</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何管理你的任务？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32329488</id>
-        <link href="https://news.ycombinator.com/item?id=32329488"/>
-        <updated>2022-08-03T09:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage your tasks?]]></summary>
-        <author>
-            <name>crecker</name>
-            <uri>https://news.ycombinator.com/user?id=crecker</uri>
         </author>
     </entry>
 </feed>
