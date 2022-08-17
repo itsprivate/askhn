@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T22:49:05.084Z</updated>
+    <updated>2022-08-17T23:30:40.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在eBay上卖出了1千美元的商品；发生了退货，eBay收取，现在怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32503051</id>
+        <link href="https://news.ycombinator.com/item?id=32503051"/>
+        <updated>2022-08-17T23:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Sold a 1K item on eBay; chargeback occurred–eBay collections, now what?]]></summary>
+        <author>
+            <name>nikkwong</name>
+            <uri>https://news.ycombinator.com/user?id=nikkwong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技公司的收入有多少来自于付费但不活跃的用户？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你创造了什么，但没有人在那里，它是否存在？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32337413</id>
-        <link href="https://news.ycombinator.com/item?id=32337413"/>
-        <updated>2022-08-03T22:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you created something, but nobody was there, does it exist?]]></summary>
-        <author>
-            <name>b20000</name>
-            <uri>https://news.ycombinator.com/user?id=b20000</uri>
         </author>
     </entry>
 </feed>
