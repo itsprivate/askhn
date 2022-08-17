@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T10:35:46.587Z</updated>
+    <updated>2022-08-17T10:52:10.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些初创企业在经济低迷时期蓬勃发展？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32494526</id>
+        <link href="https://news.ycombinator.com/item?id=32494526"/>
+        <updated>2022-08-17T10:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which startups are thriving in the downturn?]]></summary>
+        <author>
+            <name>roberja90</name>
+            <uri>https://news.ycombinator.com/user?id=roberja90</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近YouTube对你来说是否很慢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Bubble_Pop_22</name>
             <uri>https://news.ycombinator.com/user?id=Bubble_Pop_22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如今开发基于网络的文字游戏的最佳语言/框架？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32330797</id>
-        <link href="https://news.ycombinator.com/item?id=32330797"/>
-        <updated>2022-08-03T12:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best language/framework to develop web-based text games today?]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
         </author>
     </entry>
 </feed>
