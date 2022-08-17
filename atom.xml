@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T07:31:26.486Z</updated>
+    <updated>2022-08-17T07:46:06.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你将如何实施物联网销售钟？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493335</id>
+        <link href="https://news.ycombinator.com/item?id=32493335"/>
+        <updated>2022-08-17T07:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you implement an IoT sales bell?]]></summary>
+        <author>
+            <name>nickmyersdt</name>
+            <uri>https://news.ycombinator.com/user?id=nickmyersdt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业的想法--断开连接，物理空间按小时收费
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crecker</name>
             <uri>https://news.ycombinator.com/user?id=crecker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在为应对气候变化赚钱，用什么赚钱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32329486</id>
-        <link href="https://news.ycombinator.com/item?id=32329486"/>
-        <updated>2022-08-03T09:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is making money fighting climate change and with what?]]></summary>
-        <author>
-            <name>l7l</name>
-            <uri>https://news.ycombinator.com/user?id=l7l</uri>
         </author>
     </entry>
 </feed>
