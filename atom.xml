@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T06:37:20.117Z</updated>
+    <updated>2022-08-17T07:03:08.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[React慢吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493085</id>
+        <link href="https://news.ycombinator.com/item?id=32493085"/>
+        <updated>2022-08-17T06:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is React Slow?]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的公寓楼里的电动车充电器是怎么修好的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>unknownsky</name>
             <uri>https://news.ycombinator.com/user?id=unknownsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编译员工作中最常见的技术栈是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32329230</id>
-        <link href="https://news.ycombinator.com/item?id=32329230"/>
-        <updated>2022-08-03T08:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What tech stack is most common for compiler jobs]]></summary>
-        <author>
-            <name>hardware2win</name>
-            <uri>https://news.ycombinator.com/user?id=hardware2win</uri>
         </author>
     </entry>
 </feed>

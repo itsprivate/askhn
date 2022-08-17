@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 06:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[React慢嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32493085</link>
+            <guid>https://news.ycombinator.com/item?id=32493085</guid>
+            <pubDate>Wed, 17 Aug 2022 06:47:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is React Slow?]]></description>
+        </item>
         <item>
             <title><![CDATA[你的公寓樓裡的電動車充電器是怎麼修好的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32329451</guid>
             <pubDate>Wed, 03 Aug 2022 09:20:32 GMT</pubDate>
             <description><![CDATA[Ask HN: I used to be an engineer, but business analysts turned me into IFTTT?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[編譯員工作中最常見的技術棧是什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32329230</link>
-            <guid>https://news.ycombinator.com/item?id=32329230</guid>
-            <pubDate>Wed, 03 Aug 2022 08:50:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: What tech stack is most common for compiler jobs]]></description>
         </item>
     </channel>
 </rss>
