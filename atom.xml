@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T17:48:50.609Z</updated>
+    <updated>2022-08-17T18:38:43.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些服务/供应商更新其状态页面的时间最长？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499828</id>
+        <link href="https://news.ycombinator.com/item?id=32499828"/>
+        <updated>2022-08-17T18:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which services/providers take the longest to update their status page?]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在工作中犯过的最严重的无辜错误是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>artur_makly</name>
             <uri>https://news.ycombinator.com/user?id=artur_makly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量化金融开发运营栈？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32336221</id>
-        <link href="https://news.ycombinator.com/item?id=32336221"/>
-        <updated>2022-08-03T20:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Quant finance dev ops stack?]]></summary>
-        <author>
-            <name>excitednumber</name>
-            <uri>https://news.ycombinator.com/user?id=excitednumber</uri>
         </author>
     </entry>
 </feed>
