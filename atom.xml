@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T11:59:43.302Z</updated>
+    <updated>2022-08-17T13:05:29.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对建立在AWS Lambda之上的金丝雀感兴趣
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495176</id>
+        <link href="https://news.ycombinator.com/item?id=32495176"/>
+        <updated>2022-08-17T12:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Interested in canaries build on top of AWS Lambda]]></summary>
+        <author>
+            <name>iot_devs</name>
+            <uri>https://news.ycombinator.com/user?id=iot_devs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Chrome浏览器中恼人的中间点击粘贴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495162</id>
+        <link href="https://news.ycombinator.com/item?id=32495162"/>
+        <updated>2022-08-17T12:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Annoying middle-click paste in Chrome]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[购买新MacBook必须具备的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495091</id>
+        <link href="https://news.ycombinator.com/item?id=32495091"/>
+        <updated>2022-08-17T11:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Must have tools for a new MacBook]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艰难地学习后端？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>greggyb</name>
             <uri>https://news.ycombinator.com/user?id=greggyb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于初学者的编程语言，哪种坐标系更好？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331682</id>
-        <link href="https://news.ycombinator.com/item?id=32331682"/>
-        <updated>2022-08-03T13:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which coordinate system is better for a beginners programming language?]]></summary>
-        <author>
-            <name>chkas</name>
-            <uri>https://news.ycombinator.com/user?id=chkas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有Gmail的DNS解析器发生故障？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331547</id>
-        <link href="https://news.ycombinator.com/item?id=32331547"/>
-        <updated>2022-08-03T13:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a Gmail DNS resolver outage happening?]]></summary>
-        <author>
-            <name>pmlnr</name>
-            <uri>https://news.ycombinator.com/user?id=pmlnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的软件栈选择是否合理？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331461</id>
-        <link href="https://news.ycombinator.com/item?id=32331461"/>
-        <updated>2022-08-03T13:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is my software stack choice sound?]]></summary>
-        <author>
-            <name>m33k44</name>
-            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 11:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 13:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對建立在AWS Lambda之上的金絲雀感興趣
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32495176</link>
+            <guid>https://news.ycombinator.com/item?id=32495176</guid>
+            <pubDate>Wed, 17 Aug 2022 12:07:35 GMT</pubDate>
+            <description><![CDATA[Ask HN: Interested in canaries build on top of AWS Lambda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Chrome瀏覽器中惱人的中間點擊粘貼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32495162</link>
+            <guid>https://news.ycombinator.com/item?id=32495162</guid>
+            <pubDate>Wed, 17 Aug 2022 12:06:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Annoying middle-click paste in Chrome]]></description>
+        </item>
+        <item>
+            <title><![CDATA[購買新MacBook必須具備的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32495091</link>
+            <guid>https://news.ycombinator.com/item?id=32495091</guid>
+            <pubDate>Wed, 17 Aug 2022 11:58:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: Must have tools for a new MacBook]]></description>
+        </item>
         <item>
             <title><![CDATA[艱難地學習後端？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32331825</guid>
             <pubDate>Wed, 03 Aug 2022 14:05:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Who do you talk to about system architecture and design?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對於初學者的編程語言，哪種座標系更好？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32331682</link>
-            <guid>https://news.ycombinator.com/item?id=32331682</guid>
-            <pubDate>Wed, 03 Aug 2022 13:54:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Which coordinate system is better for a beginners programming language?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有Gmail的DNS解析器發生故障？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32331547</link>
-            <guid>https://news.ycombinator.com/item?id=32331547</guid>
-            <pubDate>Wed, 03 Aug 2022 13:42:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a Gmail DNS resolver outage happening?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的軟件棧選擇是否合理？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32331461</link>
-            <guid>https://news.ycombinator.com/item?id=32331461</guid>
-            <pubDate>Wed, 03 Aug 2022 13:32:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is my software stack choice sound?]]></description>
         </item>
     </channel>
 </rss>
