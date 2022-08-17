@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 16:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OpenAPI規範中的非破壞性API廢棄--你怎麼看？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32498132</link>
+            <guid>https://news.ycombinator.com/item?id=32498132</guid>
+            <pubDate>Wed, 17 Aug 2022 16:04:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Non-Breaking API deprecation in OpenAPI spec – what do you think?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼沒有一個高質量的自助語音導覽應用程序？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32335117</guid>
             <pubDate>Wed, 03 Aug 2022 18:16:37 GMT</pubDate>
             <description><![CDATA[Ask HN: What privacy respecting mobile analytics platforms are legit?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你知道一個好的MySQL複製*故障恢復*教程嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32334873</link>
-            <guid>https://news.ycombinator.com/item?id=32334873</guid>
-            <pubDate>Wed, 03 Aug 2022 17:53:23 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you know a good MySQL replication *failover* tutorial?]]></description>
         </item>
     </channel>
 </rss>
