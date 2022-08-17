@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T16:50:58.072Z</updated>
+    <updated>2022-08-17T17:20:50.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一切都很簡單（無聊），但我喜歡解決錯誤的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498958</id>
+        <link href="https://news.ycombinator.com/item?id=32498958"/>
+        <updated>2022-08-17T17:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Everything is easy (boring), but I love solving bugs]]></summary>
+        <author>
+            <name>ugabuga</name>
+            <uri>https://news.ycombinator.com/user?id=ugabuga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前Java、Go、Python和Node首選的API框架是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498928</id>
+        <link href="https://news.ycombinator.com/item?id=32498928"/>
+        <updated>2022-08-17T17:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What’s the Current Preferred API Frameworks for Java, Go, Python& Node?]]></summary>
+        <author>
+            <name>edf13</name>
+            <uri>https://news.ycombinator.com/user?id=edf13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAPI規範中的非破壞性API廢棄--你怎麼看？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sushidev</name>
             <uri>https://news.ycombinator.com/user?id=sushidev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你真的還在使用你的第一種編程語言嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32335196</id>
-        <link href="https://news.ycombinator.com/item?id=32335196"/>
-        <updated>2022-08-03T18:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you honestly still use your first programming language?]]></summary>
-        <author>
-            <name>shreythecray</name>
-            <uri>https://news.ycombinator.com/user?id=shreythecray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些尊重隱私的移動分析平臺是合法的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32335117</id>
-        <link href="https://news.ycombinator.com/item?id=32335117"/>
-        <updated>2022-08-03T18:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What privacy respecting mobile analytics platforms are legit?]]></summary>
-        <author>
-            <name>redwoolf</name>
-            <uri>https://news.ycombinator.com/user?id=redwoolf</uri>
         </author>
     </entry>
 </feed>
