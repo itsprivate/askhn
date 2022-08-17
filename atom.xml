@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T21:50:02.381Z</updated>
+    <updated>2022-08-17T22:04:46.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你为什么相信电子投票机？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32502213</id>
+        <link href="https://news.ycombinator.com/item?id=32502213"/>
+        <updated>2022-08-17T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do you trust electronic voting machines?]]></summary>
+        <author>
+            <name>unknownaccount</name>
+            <uri>https://news.ycombinator.com/user?id=unknownaccount</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年自动驾驶汽车技术的状况？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>py4</name>
             <uri>https://news.ycombinator.com/user?id=py4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳用户体验设计课程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32337299</id>
-        <link href="https://news.ycombinator.com/item?id=32337299"/>
-        <updated>2022-08-03T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best UX Design Course?]]></summary>
-        <author>
-            <name>sheepybloke</name>
-            <uri>https://news.ycombinator.com/user?id=sheepybloke</uri>
         </author>
     </entry>
 </feed>
