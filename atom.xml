@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T14:53:01.004Z</updated>
+    <updated>2022-08-17T15:37:54.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现有的基于电子邮件地址检测欺诈风险的解决方案？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497440</id>
+        <link href="https://news.ycombinator.com/item?id=32497440"/>
+        <updated>2022-08-17T15:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Existing solutions to detect fraud risk based on email address?]]></summary>
+        <author>
+            <name>gajus</name>
+            <uri>https://news.ycombinator.com/user?id=gajus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是一个简单的CMS，用于自定义主题，并且有一个管理所见即所得？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你会搬到哪里去，以便与有创业精神的人在一起[美国]？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32333419</id>
-        <link href="https://news.ycombinator.com/item?id=32333419"/>
-        <updated>2022-08-03T15:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where would you move to be around startup minded people [USA]?]]></summary>
-        <author>
-            <name>moomoo11</name>
-            <uri>https://news.ycombinator.com/user?id=moomoo11</uri>
         </author>
     </entry>
 </feed>
