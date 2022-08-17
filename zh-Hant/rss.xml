@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼沒有一個高質量的自助語音導覽應用程序？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497675</link>
+            <guid>https://news.ycombinator.com/item?id=32497675</guid>
+            <pubDate>Wed, 17 Aug 2022 15:32:02 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why isn’t there a high quality self guided audio tour app?]]></description>
+        </item>
         <item>
             <title><![CDATA[現有的基於電子郵件地址檢測欺詐風險的解決方案？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32334873</guid>
             <pubDate>Wed, 03 Aug 2022 17:53:23 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you know a good MySQL replication *failover* tutorial?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於目標的遊戲中的得分是否因限制遊戲性而使其變得更糟？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32333693</link>
-            <guid>https://news.ycombinator.com/item?id=32333693</guid>
-            <pubDate>Wed, 03 Aug 2022 16:19:40 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does scoring in goal-based games make them worse by limiting gameplay?]]></description>
         </item>
     </channel>
 </rss>
