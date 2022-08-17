@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T13:05:29.956Z</updated>
+    <updated>2022-08-17T14:09:15.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你買了一艘船嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32496320</id>
+        <link href="https://news.ycombinator.com/item?id=32496320"/>
+        <updated>2022-08-17T13:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you bought a boat?]]></summary>
+        <author>
+            <name>dusted</name>
+            <uri>https://news.ycombinator.com/user?id=dusted</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與Vue和Strapi搭配良好的現代UI框架？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495635</id>
+        <link href="https://news.ycombinator.com/item?id=32495635"/>
+        <updated>2022-08-17T12:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Modern UI framework that pairs well with Vue and Strapi?]]></summary>
+        <author>
+            <name>reklis</name>
+            <uri>https://news.ycombinator.com/user?id=reklis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對建立在AWS Lambda之上的金絲雀感興趣
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nineplay</name>
             <uri>https://news.ycombinator.com/user?id=nineplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC申請的重點是否有變化？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32332181</id>
-        <link href="https://news.ycombinator.com/item?id=32332181"/>
-        <updated>2022-08-03T14:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has the YC application changed in focus?]]></summary>
-        <author>
-            <name>lowkey_</name>
-            <uri>https://news.ycombinator.com/user?id=lowkey_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你和誰談系統架構和設計？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331825</id>
-        <link href="https://news.ycombinator.com/item?id=32331825"/>
-        <updated>2022-08-03T14:05:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who do you talk to about system architecture and design?]]></summary>
-        <author>
-            <name>greggyb</name>
-            <uri>https://news.ycombinator.com/user?id=greggyb</uri>
         </author>
     </entry>
 </feed>
