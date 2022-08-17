@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T11:46:52.254Z</updated>
+    <updated>2022-08-17T11:59:43.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[艱難地學習後端？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495047</id>
+        <link href="https://news.ycombinator.com/item?id=32495047"/>
+        <updated>2022-08-17T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Learn back end the hard way?]]></summary>
+        <author>
+            <name>endo_bunker</name>
+            <uri>https://news.ycombinator.com/user?id=endo_bunker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉重返工作崗位的事情發生了嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>m33k44</name>
             <uri>https://news.ycombinator.com/user?id=m33k44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在代碼審查中成功地吹毛求疵？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331234</id>
-        <link href="https://news.ycombinator.com/item?id=32331234"/>
-        <updated>2022-08-03T13:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you successfully nitpick during a code review?]]></summary>
-        <author>
-            <name>thrownit_away</name>
-            <uri>https://news.ycombinator.com/user?id=thrownit_away</uri>
         </author>
     </entry>
 </feed>
