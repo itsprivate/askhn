@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-17T19:59:55.422Z</updated>
+    <updated>2022-08-17T21:50:02.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年自动驾驶汽车技术的状况？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32501999</id>
+        <link href="https://news.ycombinator.com/item?id=32501999"/>
+        <updated>2022-08-17T21:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: State of autonomous car tech in 2022?]]></summary>
+        <author>
+            <name>rubidium</name>
+            <uri>https://news.ycombinator.com/user?id=rubidium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些新闻是值得花钱买的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sheepybloke</name>
             <uri>https://news.ycombinator.com/user?id=sheepybloke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你发现的最好的学习参考资料是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32337166</id>
-        <link href="https://news.ycombinator.com/item?id=32337166"/>
-        <updated>2022-08-03T22:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best learning references that have you found?]]></summary>
-        <author>
-            <name>joshxyz</name>
-            <uri>https://news.ycombinator.com/user?id=joshxyz</uri>
         </author>
     </entry>
 </feed>
