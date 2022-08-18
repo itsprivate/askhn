@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T07:05:00.954Z</updated>
+    <updated>2022-08-18T07:46:19.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪種SQL語法在OLAP系統中更受歡迎，MySQL還是PostgreSQL？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32506523</id>
+        <link href="https://news.ycombinator.com/item?id=32506523"/>
+        <updated>2022-08-18T07:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which SQL grammar is more popular in OLAP System, MySQL or PostgreSQL?]]></summary>
+        <author>
+            <name>ApacheDoris</name>
+            <uri>https://news.ycombinator.com/user?id=ApacheDoris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼公司信箋在2022年是一種有效的授權形式？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32506495</id>
+        <link href="https://news.ycombinator.com/item?id=32506495"/>
+        <updated>2022-08-18T07:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is company letterhead a valid form of auth in 2022?]]></summary>
+        <author>
+            <name>tjstebbing</name>
+            <uri>https://news.ycombinator.com/user?id=tjstebbing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[儘管有強大的牽引力，但還是關閉了一家創業公司？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ge96</name>
             <uri>https://news.ycombinator.com/user?id=ge96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼技能讓你獲得了10倍的回報？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32339219</id>
-        <link href="https://news.ycombinator.com/item?id=32339219"/>
-        <updated>2022-08-04T04:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What skills have given you a 10x return?]]></summary>
-        <author>
-            <name>jnathsf</name>
-            <uri>https://news.ycombinator.com/user?id=jnathsf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這些DoorDash的黑暗圖案是怎麼回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32338779</id>
-        <link href="https://news.ycombinator.com/item?id=32338779"/>
-        <updated>2022-08-04T02:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's up with these DoorDash dark patterns?]]></summary>
-        <author>
-            <name>flycatcha</name>
-            <uri>https://news.ycombinator.com/user?id=flycatcha</uri>
         </author>
     </entry>
 </feed>
