@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T02:54:00.816Z</updated>
+    <updated>2022-08-18T05:20:53.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何處理20年的技術書籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32505293</id>
+        <link href="https://news.ycombinator.com/item?id=32505293"/>
+        <updated>2022-08-18T04:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What to do with 20 year old technical books?]]></summary>
+        <author>
+            <name>tppiotrowski</name>
+            <uri>https://news.ycombinator.com/user?id=tppiotrowski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心靈遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32505213</id>
+        <link href="https://news.ycombinator.com/item?id=32505213"/>
+        <updated>2022-08-18T04:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mind Game]]></summary>
+        <author>
+            <name>wvlia5</name>
+            <uri>https://news.ycombinator.com/user?id=wvlia5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獨立地重現區記錄？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會為三個字母機構實施安全設置嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32337676</id>
-        <link href="https://news.ycombinator.com/item?id=32337676"/>
-        <updated>2022-08-03T23:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you implement security setup for three letter agencies]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何充分利用一個糟糕的面試
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32337637</id>
-        <link href="https://news.ycombinator.com/item?id=32337637"/>
-        <updated>2022-08-03T23:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you make the most of a bad interview]]></summary>
-        <author>
-            <name>cbreezyyall</name>
-            <uri>https://news.ycombinator.com/user?id=cbreezyyall</uri>
         </author>
     </entry>
 </feed>
