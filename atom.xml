@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T23:02:07.094Z</updated>
+    <updated>2022-08-18T23:31:50.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在Jupyter Notebook中处理SQL数据吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32516001</id>
+        <link href="https://news.ycombinator.com/item?id=32516001"/>
+        <updated>2022-08-18T23:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone working with SQL data in Jupyter Notebook?]]></summary>
+        <author>
+            <name>michaeloblak</name>
+            <uri>https://news.ycombinator.com/user?id=michaeloblak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能操纵美国的选举吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515938</id>
+        <link href="https://news.ycombinator.com/item?id=32515938"/>
+        <updated>2022-08-18T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could you rig the US Elections?]]></summary>
+        <author>
+            <name>ansmithz42</name>
+            <uri>https://news.ycombinator.com/user?id=ansmithz42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[区块链上安全的医疗记录的未来是什么样子的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>righttoolforjob</name>
             <uri>https://news.ycombinator.com/user?id=righttoolforjob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜欢的个人开发者的游戏是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32347653</id>
-        <link href="https://news.ycombinator.com/item?id=32347653"/>
-        <updated>2022-08-04T20:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s your favourite game by a solo dev?]]></summary>
-        <author>
-            <name>arey_abhishek</name>
-            <uri>https://news.ycombinator.com/user?id=arey_abhishek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在这里读完后买了什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32347126</id>
-        <link href="https://news.ycombinator.com/item?id=32347126"/>
-        <updated>2022-08-04T19:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did you buy after reading about it here?]]></summary>
-        <author>
-            <name>he11ow</name>
-            <uri>https://news.ycombinator.com/user?id=he11ow</uri>
         </author>
     </entry>
 </feed>
