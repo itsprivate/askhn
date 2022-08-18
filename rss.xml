@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 10:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么美国的销售税比欧盟的增值税率低？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507488</link>
+            <guid>https://news.ycombinator.com/item?id=32507488</guid>
+            <pubDate>Thu, 18 Aug 2022 10:15:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why does USA have lower sales tax than the EU VAT rate?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在Chrome中禁用中间点击粘贴？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507454</link>
+            <guid>https://news.ycombinator.com/item?id=32507454</guid>
+            <pubDate>Thu, 18 Aug 2022 10:08:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: How do I disable middle-click paste in Chrome?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何开始使用HN？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507342</link>
+            <guid>https://news.ycombinator.com/item?id=32507342</guid>
+            <pubDate>Thu, 18 Aug 2022 09:53:15 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to Start with HN?]]></description>
+        </item>
         <item>
             <title><![CDATA[REST/HTTP API URLs中的嵌套资源？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32340879</guid>
             <pubDate>Thu, 04 Aug 2022 09:26:46 GMT</pubDate>
             <description><![CDATA[Ask HN: What do you do when vacationing abroad?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN是否有一个黑暗模式的设置？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32340636</link>
-            <guid>https://news.ycombinator.com/item?id=32340636</guid>
-            <pubDate>Thu, 04 Aug 2022 08:43:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a darkmode setting for HN?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在使用AWS MFA时有问题吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32340570</link>
-            <guid>https://news.ycombinator.com/item?id=32340570</guid>
-            <pubDate>Thu, 04 Aug 2022 08:31:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are you having issues with AWS MFA?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZFS本地加密与LUKS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32340433</link>
-            <guid>https://news.ycombinator.com/item?id=32340433</guid>
-            <pubDate>Thu, 04 Aug 2022 08:06:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: ZFS native encryption vs LUKS]]></description>
         </item>
     </channel>
 </rss>

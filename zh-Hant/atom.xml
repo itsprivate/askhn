@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T08:58:22.166Z</updated>
+    <updated>2022-08-18T10:36:58.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼美國的銷售稅比歐盟的增值稅率低？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507488</id>
+        <link href="https://news.ycombinator.com/item?id=32507488"/>
+        <updated>2022-08-18T10:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does USA have lower sales tax than the EU VAT rate?]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Chrome中禁用中間點擊粘貼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507454</id>
+        <link href="https://news.ycombinator.com/item?id=32507454"/>
+        <updated>2022-08-18T10:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I disable middle-click paste in Chrome?]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何開始使用HN？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507342</id>
+        <link href="https://news.ycombinator.com/item?id=32507342"/>
+        <updated>2022-08-18T09:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Start with HN?]]></summary>
+        <author>
+            <name>willi-z</name>
+            <uri>https://news.ycombinator.com/user?id=willi-z</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REST/HTTP API URLs中的嵌套資源？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>hicallmeal</name>
             <uri>https://news.ycombinator.com/user?id=hicallmeal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN是否有一個黑暗模式的設置？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340636</id>
-        <link href="https://news.ycombinator.com/item?id=32340636"/>
-        <updated>2022-08-04T08:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a darkmode setting for HN?]]></summary>
-        <author>
-            <name>Flatcircle</name>
-            <uri>https://news.ycombinator.com/user?id=Flatcircle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在使用AWS MFA時有問題嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340570</id>
-        <link href="https://news.ycombinator.com/item?id=32340570"/>
-        <updated>2022-08-04T08:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are you having issues with AWS MFA?]]></summary>
-        <author>
-            <name>thinkindie</name>
-            <uri>https://news.ycombinator.com/user?id=thinkindie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS本地加密與LUKS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340433</id>
-        <link href="https://news.ycombinator.com/item?id=32340433"/>
-        <updated>2022-08-04T08:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ZFS native encryption vs LUKS]]></summary>
-        <author>
-            <name>aborsy</name>
-            <uri>https://news.ycombinator.com/user?id=aborsy</uri>
         </author>
     </entry>
 </feed>
