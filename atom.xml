@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T19:58:03.503Z</updated>
+    <updated>2022-08-18T20:33:53.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[曾经实施过这些编辑器。Quill, DraftJS, ProseMirror, TipTap?
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32514377</id>
+        <link href="https://news.ycombinator.com/item?id=32514377"/>
+        <updated>2022-08-18T20:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ever implemented these editors: Quill, DraftJS, ProseMirror, TipTap?]]></summary>
+        <author>
+            <name>seantconrad</name>
+            <uri>https://news.ycombinator.com/user?id=seantconrad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找移动图形数据库
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你每个月收到多少封亚马逊招聘人员的邮件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32345375</id>
-        <link href="https://news.ycombinator.com/item?id=32345375"/>
-        <updated>2022-08-04T16:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many Amazon recruitor email do you get per month?]]></summary>
-        <author>
-            <name>prakashn27</name>
-            <uri>https://news.ycombinator.com/user?id=prakashn27</uri>
         </author>
     </entry>
 </feed>
