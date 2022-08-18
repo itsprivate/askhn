@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T11:59:47.867Z</updated>
+    <updated>2022-08-18T13:02:41.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個創作者，你最引以為豪的創作是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32508895</id>
+        <link href="https://news.ycombinator.com/item?id=32508895"/>
+        <updated>2022-08-18T12:50:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a creator which creation of yours are you most proud of?]]></summary>
+        <author>
+            <name>curious16</name>
+            <uri>https://news.ycombinator.com/user?id=curious16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有更多的開發者使用事件源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32508505</id>
+        <link href="https://news.ycombinator.com/item?id=32508505"/>
+        <updated>2022-08-18T12:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why don't more developers use event sourcing?]]></summary>
+        <author>
+            <name>dwmcc</name>
+            <uri>https://news.ycombinator.com/user?id=dwmcc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個能教男人理解和管理自己感情的應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32508271</id>
+        <link href="https://news.ycombinator.com/item?id=32508271"/>
+        <updated>2022-08-18T11:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: An app that will teach men to understand and manage their feelings]]></summary>
+        <author>
+            <name>konovalove</name>
+            <uri>https://news.ycombinator.com/user?id=konovalove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼從技術角度看，蘋果音樂比Spotify落後很多？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>cetaphil</name>
             <uri>https://news.ycombinator.com/user?id=cetaphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何學習寫作的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32341434</id>
-        <link href="https://news.ycombinator.com/item?id=32341434"/>
-        <updated>2022-08-04T11:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you learn to write?]]></summary>
-        <author>
-            <name>xupybd</name>
-            <uri>https://news.ycombinator.com/user?id=xupybd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞》拯救了多少個極客？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32341164</id>
-        <link href="https://news.ycombinator.com/item?id=32341164"/>
-        <updated>2022-08-04T10:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many geeks has Hacker News saved?]]></summary>
-        <author>
-            <name>funthree</name>
-            <uri>https://news.ycombinator.com/user?id=funthree</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在工作中使用類似GPT-3的模型嗎？你如何驗證它們的輸出？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32341073</id>
-        <link href="https://news.ycombinator.com/item?id=32341073"/>
-        <updated>2022-08-04T10:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use GPT-3 like models at work? How do you validate their output?]]></summary>
-        <author>
-            <name>hollowpython</name>
-            <uri>https://news.ycombinator.com/user?id=hollowpython</uri>
         </author>
     </entry>
 </feed>
