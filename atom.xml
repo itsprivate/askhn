@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T21:49:33.850Z</updated>
+    <updated>2022-08-18T22:00:00.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁在提高？(2022年8月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515303</id>
+        <link href="https://news.ycombinator.com/item?id=32515303"/>
+        <updated>2022-08-18T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who's raising? (August 2022)]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发人员的每周设计挑战？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>demarq</name>
             <uri>https://news.ycombinator.com/user?id=demarq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何说服你的公司领导层有一个职业阶梯？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32345537</id>
-        <link href="https://news.ycombinator.com/item?id=32345537"/>
-        <updated>2022-08-04T17:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How would you convince your company leadership to have a career ladder?]]></summary>
-        <author>
-            <name>rakshithbellare</name>
-            <uri>https://news.ycombinator.com/user?id=rakshithbellare</uri>
         </author>
     </entry>
 </feed>
