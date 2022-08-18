@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T18:39:22.185Z</updated>
+    <updated>2022-08-18T18:58:16.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有多大的責任？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32513412</id>
+        <link href="https://news.ycombinator.com/item?id=32513412"/>
+        <updated>2022-08-18T18:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much responsibility do you have?]]></summary>
+        <author>
+            <name>responsible</name>
+            <uri>https://news.ycombinator.com/user?id=responsible</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們不更多地使用調試器？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>IsraCV</name>
             <uri>https://news.ycombinator.com/user?id=IsraCV</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何聯繫谷歌對特色徽章的審查決定提出上訴？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344649</id>
-        <link href="https://news.ycombinator.com/item?id=32344649"/>
-        <updated>2022-08-04T16:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I contact Google to appeal a Featured badge review decision]]></summary>
-        <author>
-            <name>longnguyen</name>
-            <uri>https://news.ycombinator.com/user?id=longnguyen</uri>
         </author>
     </entry>
 </feed>
