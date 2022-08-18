@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T18:58:16.464Z</updated>
+    <updated>2022-08-18T19:49:45.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[提高（快速）CGI应用程序的性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32513883</id>
+        <link href="https://news.ycombinator.com/item?id=32513883"/>
+        <updated>2022-08-18T19:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Increase the Performance of (Fast)CGI Applications]]></summary>
+        <author>
+            <name>gizmore</name>
+            <uri>https://news.ycombinator.com/user?id=gizmore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有多大的责任？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cmorgan8506</name>
             <uri>https://news.ycombinator.com/user?id=cmorgan8506</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在非英语语言的NLP工作中的主要痛苦是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344719</id>
-        <link href="https://news.ycombinator.com/item?id=32344719"/>
-        <updated>2022-08-04T16:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are your main pains working with NLP in non-English languages?]]></summary>
-        <author>
-            <name>IsraCV</name>
-            <uri>https://news.ycombinator.com/user?id=IsraCV</uri>
         </author>
     </entry>
 </feed>
