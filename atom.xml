@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T10:36:58.869Z</updated>
+    <updated>2022-08-18T11:29:19.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪里找到有趣的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507789</id>
+        <link href="https://news.ycombinator.com/item?id=32507789"/>
+        <updated>2022-08-18T10:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you find the interesting jobs?]]></summary>
+        <author>
+            <name>uVacCXNiiJCTnYB</name>
+            <uri>https://news.ycombinator.com/user?id=uVacCXNiiJCTnYB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么美国的销售税比欧盟的增值税率低？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jnxx</name>
             <uri>https://news.ycombinator.com/user?id=jnxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在国外度假时，你都做些什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340879</id>
-        <link href="https://news.ycombinator.com/item?id=32340879"/>
-        <updated>2022-08-04T09:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do when vacationing abroad?]]></summary>
-        <author>
-            <name>hicallmeal</name>
-            <uri>https://news.ycombinator.com/user?id=hicallmeal</uri>
         </author>
     </entry>
 </feed>
