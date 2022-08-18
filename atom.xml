@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T15:00:15.843Z</updated>
+    <updated>2022-08-18T15:58:15.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只有一个人被分配到某些任务，而我是一个人，很累。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510918</id>
+        <link href="https://news.ycombinator.com/item?id=32510918"/>
+        <updated>2022-08-18T15:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Only person assigned to certain task, and I'm alone and tired]]></summary>
+        <author>
+            <name>tiredthrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=tiredthrowaway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个领导，你是否有责任推动你的成员产生影响？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510887</id>
+        <link href="https://news.ycombinator.com/item?id=32510887"/>
+        <updated>2022-08-18T15:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: As a lead, are u responsible to drive your members to make an impact?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何与气候有关的开源项目？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thedevindevops</name>
             <uri>https://news.ycombinator.com/user?id=thedevindevops</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[您是否使用Spinnaker？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343720</id>
-        <link href="https://news.ycombinator.com/item?id=32343720"/>
-        <updated>2022-08-04T14:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Use Spinnaker?]]></summary>
-        <author>
-            <name>danwee</name>
-            <uri>https://news.ycombinator.com/user?id=danwee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在关闭创业公司的同时保持心理健康的技巧？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343458</id>
-        <link href="https://news.ycombinator.com/item?id=32343458"/>
-        <updated>2022-08-04T14:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Techniques for maintaining mental health while shutting down a startup?]]></summary>
-        <author>
-            <name>garrickvanburen</name>
-            <uri>https://news.ycombinator.com/user?id=garrickvanburen</uri>
         </author>
     </entry>
 </feed>
