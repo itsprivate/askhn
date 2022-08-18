@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T14:36:14.166Z</updated>
+    <updated>2022-08-18T15:00:15.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何與氣候有關的開源項目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510366</id>
+        <link href="https://news.ycombinator.com/item?id=32510366"/>
+        <updated>2022-08-18T14:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any climate related open source projects?]]></summary>
+        <author>
+            <name>outside1234</name>
+            <uri>https://news.ycombinator.com/user?id=outside1234</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼讓你覺得編碼作為一種技能可以讓你實現壯舉？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>garrickvanburen</name>
             <uri>https://news.ycombinator.com/user?id=garrickvanburen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟團隊對WOW互聯網用戶來說是關閉的，這怎麼可能？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343424</id>
-        <link href="https://news.ycombinator.com/item?id=32343424"/>
-        <updated>2022-08-04T14:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Microsoft Teams is down for WOW internet users–how's this possible?]]></summary>
-        <author>
-            <name>hankdoupe</name>
-            <uri>https://news.ycombinator.com/user?id=hankdoupe</uri>
         </author>
     </entry>
 </feed>
