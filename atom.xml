@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-18T17:56:48.003Z</updated>
+    <updated>2022-08-18T18:39:22.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们不更多地使用调试器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32513082</id>
+        <link href="https://news.ycombinator.com/item?id=32513082"/>
+        <updated>2022-08-18T18:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are we not using debuggers more?]]></summary>
+        <author>
+            <name>pentab</name>
+            <uri>https://news.ycombinator.com/user?id=pentab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不再使用服务器端渲染了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512950</id>
+        <link href="https://news.ycombinator.com/item?id=32512950"/>
+        <updated>2022-08-18T18:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why server side rendering is not used anymore]]></summary>
+        <author>
+            <name>stdcall83</name>
+            <uri>https://news.ycombinator.com/user?id=stdcall83</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳阿尔弗雷德的Windows？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>longnguyen</name>
             <uri>https://news.ycombinator.com/user?id=longnguyen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你快速拾取模式，这意味着什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344473</id>
-        <link href="https://news.ycombinator.com/item?id=32344473"/>
-        <updated>2022-08-04T15:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What does it mean if you pick up patterns fast?]]></summary>
-        <author>
-            <name>anon115</name>
-            <uri>https://news.ycombinator.com/user?id=anon115</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低碳的VPS主机？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344436</id>
-        <link href="https://news.ycombinator.com/item?id=32344436"/>
-        <updated>2022-08-04T15:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Low-Carbon VPS Hosting?]]></summary>
-        <author>
-            <name>drcongo</name>
-            <uri>https://news.ycombinator.com/user?id=drcongo</uri>
         </author>
     </entry>
 </feed>
