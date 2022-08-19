@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T15:39:25.400Z</updated>
+    <updated>2022-08-19T15:57:15.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在布達佩斯有哪些最有趣的創業公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522559</id>
+        <link href="https://news.ycombinator.com/item?id=32522559"/>
+        <updated>2022-08-19T15:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the most interesting startups in Budapest?]]></summary>
+        <author>
+            <name>3dm4r</name>
+            <uri>https://news.ycombinator.com/user?id=3dm4r</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你將如何改善一家大型科技公司的客戶支持？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522357</id>
+        <link href="https://news.ycombinator.com/item?id=32522357"/>
+        <updated>2022-08-19T15:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How would you improve customer support at a big tech company?]]></summary>
+        <author>
+            <name>rpjt</name>
+            <uri>https://news.ycombinator.com/user?id=rpjt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你還從哪裡得到你的新聞？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jamestimmins</name>
             <uri>https://news.ycombinator.com/user?id=jamestimmins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保護你的家庭服務器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32358821</id>
-        <link href="https://news.ycombinator.com/item?id=32358821"/>
-        <updated>2022-08-05T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you secure your home server?]]></summary>
-        <author>
-            <name>dschuessler</name>
-            <uri>https://news.ycombinator.com/user?id=dschuessler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去哪裡找愛學習的人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32354994</id>
-        <link href="https://news.ycombinator.com/item?id=32354994"/>
-        <updated>2022-08-05T12:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where to find people who love to learn?]]></summary>
-        <author>
-            <name>f0e4c2f7</name>
-            <uri>https://news.ycombinator.com/user?id=f0e4c2f7</uri>
         </author>
     </entry>
 </feed>
