@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T12:59:46.839Z</updated>
+    <updated>2022-08-19T13:53:33.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與中國的人安全聊天？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520599</id>
+        <link href="https://news.ycombinator.com/item?id=32520599"/>
+        <updated>2022-08-19T13:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Secure Chat with Someone in China?]]></summary>
+        <author>
+            <name>throwaway09380</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway09380</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國數字遊民？你的有限責任公司在哪個州？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LivingGlitcher</name>
             <uri>https://news.ycombinator.com/user?id=LivingGlitcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼有這麼多重複的文章？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32356205</id>
-        <link href="https://news.ycombinator.com/item?id=32356205"/>
-        <updated>2022-08-05T14:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are there so many duplicate articles?]]></summary>
-        <author>
-            <name>tamaharbor</name>
-            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
         </author>
     </entry>
 </feed>
