@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T20:33:53.596Z</updated>
+    <updated>2022-08-19T20:49:53.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼安裝一個iOS安全補丁仍然需要~15分鐘？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32525714</id>
+        <link href="https://news.ycombinator.com/item?id=32525714"/>
+        <updated>2022-08-19T20:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does it still take ~15 mins to install an iOS security patch?]]></summary>
+        <author>
+            <name>tpmx</name>
+            <uri>https://news.ycombinator.com/user?id=tpmx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貴公司是如何管理溝通回應禮儀的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ketamine</name>
             <uri>https://news.ycombinator.com/user?id=ketamine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為一個有俄羅斯背景的移民，如何做人？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32363147</id>
-        <link href="https://news.ycombinator.com/item?id=32363147"/>
-        <updated>2022-08-05T23:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to behave as an immigrant with russian background?]]></summary>
-        <author>
-            <name>exitoxic</name>
-            <uri>https://news.ycombinator.com/user?id=exitoxic</uri>
         </author>
     </entry>
 </feed>
