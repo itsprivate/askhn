@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T21:47:47.980Z</updated>
+    <updated>2022-08-19T22:00:09.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳小型示波器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32526337</id>
+        <link href="https://news.ycombinator.com/item?id=32526337"/>
+        <updated>2022-08-19T21:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Small Oscilloscope?]]></summary>
+        <author>
+            <name>spgmang</name>
+            <uri>https://news.ycombinator.com/user?id=spgmang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[離線、可嵌入的語音識別？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Exorust</name>
             <uri>https://news.ycombinator.com/user?id=Exorust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在週末晚上都做什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32364384</id>
-        <link href="https://news.ycombinator.com/item?id=32364384"/>
-        <updated>2022-08-06T02:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do on weekend nights?]]></summary>
-        <author>
-            <name>jimmygrapes</name>
-            <uri>https://news.ycombinator.com/user?id=jimmygrapes</uri>
         </author>
     </entry>
 </feed>
