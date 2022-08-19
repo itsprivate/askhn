@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T05:10:23.449Z</updated>
+    <updated>2022-08-19T07:49:05.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么研究作者在补充材料准备好之前就发表了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518407</id>
+        <link href="https://news.ycombinator.com/item?id=32518407"/>
+        <updated>2022-08-19T07:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do research authors publish before supplementary material is ready]]></summary>
+        <author>
+            <name>Hard_Space</name>
+            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[截至2022年，哪些是进入CS/编程领域的最佳MOOCs？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kovezd</name>
             <uri>https://news.ycombinator.com/user?id=kovezd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有人在那里 "安静地戒烟 "并愿意谈论它？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32350099</id>
-        <link href="https://news.ycombinator.com/item?id=32350099"/>
-        <updated>2022-08-05T00:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone out there “quiet quitting” and willing to talk about it?]]></summary>
-        <author>
-            <name>zw123456</name>
-            <uri>https://news.ycombinator.com/user?id=zw123456</uri>
         </author>
     </entry>
 </feed>
