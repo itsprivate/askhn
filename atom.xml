@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T22:50:49.655Z</updated>
+    <updated>2022-08-19T23:30:10.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人们是否因为你的位置而对你有不同的待遇？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527284</id>
+        <link href="https://news.ycombinator.com/item?id=32527284"/>
+        <updated>2022-08-19T23:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do people treat you differently based on your location?]]></summary>
+        <author>
+            <name>cam0</name>
+            <uri>https://news.ycombinator.com/user?id=cam0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[廉价、可破解的无人机（用于摄影测量）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527230</id>
+        <link href="https://news.ycombinator.com/item?id=32527230"/>
+        <updated>2022-08-19T23:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Cheap, Hackable Drones (For Photogrammetry)?]]></summary>
+        <author>
+            <name>peatmoss</name>
+            <uri>https://news.ycombinator.com/user?id=peatmoss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被业界 "拒绝 "而产生的冒名顶替综合症？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>miletus</name>
             <uri>https://news.ycombinator.com/user?id=miletus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有哪些方法来适应一个新的代码库？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32365660</id>
-        <link href="https://news.ycombinator.com/item?id=32365660"/>
-        <updated>2022-08-06T06:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the ways you go about getting comfortable with a new codebase?]]></summary>
-        <author>
-            <name>jarusll</name>
-            <uri>https://news.ycombinator.com/user?id=jarusll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络服务器的编程挑战？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32365242</id>
-        <link href="https://news.ycombinator.com/item?id=32365242"/>
-        <updated>2022-08-06T05:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Programming Challenge for Network Servers?]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
         </author>
     </entry>
 </feed>
