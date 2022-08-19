@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T22:00:09.035Z</updated>
+    <updated>2022-08-19T22:33:24.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何证明Web3有利于创作者经济的例子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32526510</id>
+        <link href="https://news.ycombinator.com/item?id=32526510"/>
+        <updated>2022-08-19T22:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any proven examples of Web3 benefiting the creator economy?]]></summary>
+        <author>
+            <name>t_a_v_i_s</name>
+            <uri>https://news.ycombinator.com/user?id=t_a_v_i_s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳小型示波器？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dev_0</name>
             <uri>https://news.ycombinator.com/user?id=dev_0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数码排毒的最佳形式？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32364464</id>
-        <link href="https://news.ycombinator.com/item?id=32364464"/>
-        <updated>2022-08-06T03:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Forms of Digital Detox?]]></summary>
-        <author>
-            <name>Exorust</name>
-            <uri>https://news.ycombinator.com/user?id=Exorust</uri>
         </author>
     </entry>
 </feed>
