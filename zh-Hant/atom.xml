@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T18:00:38.470Z</updated>
+    <updated>2022-08-19T18:42:17.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索彙總的結果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32524477</id>
+        <link href="https://news.ycombinator.com/item?id=32524477"/>
+        <updated>2022-08-19T18:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Google for Summarized Results]]></summary>
+        <author>
+            <name>hieu229</name>
+            <uri>https://news.ycombinator.com/user?id=hieu229</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你將如何重建你的家庭辦公室？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>butz</name>
             <uri>https://news.ycombinator.com/user?id=butz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓用戶在文本輸入中創建一個鏈接的最佳方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32361275</id>
-        <link href="https://news.ycombinator.com/item?id=32361275"/>
-        <updated>2022-08-05T20:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best way to let a user create a link inside a text input]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
         </author>
     </entry>
 </feed>
