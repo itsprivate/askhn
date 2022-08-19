@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T08:37:14.896Z</updated>
+    <updated>2022-08-19T09:01:46.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你的东西刚刚被标记，而它不应该被标记
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518741</id>
+        <link href="https://news.ycombinator.com/item?id=32518741"/>
+        <updated>2022-08-19T08:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If something of yours was just flagged and it shouldn't be]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modsecurity的替代产品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Raed667</name>
             <uri>https://news.ycombinator.com/user?id=Raed667</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否注意到有了孩子之后，生产力大为下降？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32352253</id>
-        <link href="https://news.ycombinator.com/item?id=32352253"/>
-        <updated>2022-08-05T05:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did you notice a big productivity drop after having kids?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
