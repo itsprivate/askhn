@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T19:26:02.653Z</updated>
+    <updated>2022-08-19T20:00:03.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BeReal能擴展嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32525174</id>
+        <link href="https://news.ycombinator.com/item?id=32525174"/>
+        <updated>2022-08-19T19:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can BeReal Scale?]]></summary>
+        <author>
+            <name>umgefahren</name>
+            <uri>https://news.ycombinator.com/user?id=umgefahren</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[處理複雜問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32525154</id>
+        <link href="https://news.ycombinator.com/item?id=32525154"/>
+        <updated>2022-08-19T19:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Dealing with Complexity]]></summary>
+        <author>
+            <name>thwo</name>
+            <uri>https://news.ycombinator.com/user?id=thwo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用什麼來監測現場的硬件？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andrewfromx</name>
             <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的工作場所需要的最不必要的東西是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32362240</id>
-        <link href="https://news.ycombinator.com/item?id=32362240"/>
-        <updated>2022-08-05T21:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most unnecessary thing that your workplace requires?]]></summary>
-        <author>
-            <name>robalni</name>
-            <uri>https://news.ycombinator.com/user?id=robalni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼粘性滾動是最近加入Xcode和VSCode的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32362228</id>
-        <link href="https://news.ycombinator.com/item?id=32362228"/>
-        <updated>2022-08-05T21:33:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is sticky scrolling a recent addition to Xcode and VSCode?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
