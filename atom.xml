@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T13:53:33.474Z</updated>
+    <updated>2022-08-19T14:41:08.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有什么像样的GitHub Copilot替代品吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521452</id>
+        <link href="https://news.ycombinator.com/item?id=32521452"/>
+        <updated>2022-08-19T14:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any decent GitHub Copilot Alternatives?]]></summary>
+        <author>
+            <name>gremlinsinc</name>
+            <uri>https://news.ycombinator.com/user?id=gremlinsinc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与中国的人安全聊天？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sainib</name>
             <uri>https://news.ycombinator.com/user?id=sainib</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从iPhone到三星（S22 Ultra）的转换
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32356331</id>
-        <link href="https://news.ycombinator.com/item?id=32356331"/>
-        <updated>2022-08-05T14:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Switching from iPhone to Samsung (S22 Ultra)]]></summary>
-        <author>
-            <name>LivingGlitcher</name>
-            <uri>https://news.ycombinator.com/user?id=LivingGlitcher</uri>
         </author>
     </entry>
 </feed>
