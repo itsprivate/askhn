@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T08:01:18.634Z</updated>
+    <updated>2022-08-19T08:37:14.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Modsecurity的替代產品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518586</id>
+        <link href="https://news.ycombinator.com/item?id=32518586"/>
+        <updated>2022-08-19T08:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Modsecurity Alternatives]]></summary>
+        <author>
+            <name>sschueller</name>
+            <uri>https://news.ycombinator.com/user?id=sschueller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼《衛報》放走了gu.com域名？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人應如何關注猴痘，我們能做什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32351123</id>
-        <link href="https://news.ycombinator.com/item?id=32351123"/>
-        <updated>2022-08-05T03:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How concerned should individuals be about monkeypox and what can we do?]]></summary>
-        <author>
-            <name>arikr</name>
-            <uri>https://news.ycombinator.com/user?id=arikr</uri>
         </author>
     </entry>
 </feed>
