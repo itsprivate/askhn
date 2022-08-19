@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-19T07:49:05.154Z</updated>
+    <updated>2022-08-19T08:01:18.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼《衛報》放走了gu.com域名？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518463</id>
+        <link href="https://news.ycombinator.com/item?id=32518463"/>
+        <updated>2022-08-19T07:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did The Guardian let go of the gu.com domain?]]></summary>
+        <author>
+            <name>vodou</name>
+            <uri>https://news.ycombinator.com/user?id=vodou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼研究作者在補充材料準備好之前就發表了？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>arikr</name>
             <uri>https://news.ycombinator.com/user?id=arikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你對當前的哪些計算機科學問題感到很有興趣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32350486</id>
-        <link href="https://news.ycombinator.com/item?id=32350486"/>
-        <updated>2022-08-05T01:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What current Computer Science problems you feel passionate about?]]></summary>
-        <author>
-            <name>kovezd</name>
-            <uri>https://news.ycombinator.com/user?id=kovezd</uri>
         </author>
     </entry>
 </feed>
