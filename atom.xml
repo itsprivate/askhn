@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T00:00:51.359Z</updated>
+    <updated>2022-08-20T02:40:47.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你梦想的颜色是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527850</id>
+        <link href="https://news.ycombinator.com/item?id=32527850"/>
+        <updated>2022-08-20T00:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the Color of Your Dreams?]]></summary>
+        <author>
+            <name>jerryjerryjerry</name>
+            <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何谈论技术？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527827</id>
+        <link href="https://news.ycombinator.com/item?id=32527827"/>
+        <updated>2022-08-20T00:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Talk Tech?]]></summary>
+        <author>
+            <name>remoteyard</name>
+            <uri>https://news.ycombinator.com/user?id=remoteyard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Lastpass扩展开始在每个页面上插入一个空的div？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527812</id>
+        <link href="https://news.ycombinator.com/item?id=32527812"/>
+        <updated>2022-08-20T00:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has Lastpass extension started inserting an empty div on every page?]]></summary>
+        <author>
+            <name>pcthrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=pcthrowaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否收到推荐的YouTube视频，但观看次数不多？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>bobkrusty</name>
             <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Front End上焦头烂额，2022年的WordPress是什么样的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32366600</id>
-        <link href="https://news.ycombinator.com/item?id=32366600"/>
-        <updated>2022-08-06T09:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Burned out on Front End, what is WordPress like in 2022?]]></summary>
-        <author>
-            <name>mouzogu</name>
-            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为父母长寿，该怎么做？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32366557</id>
-        <link href="https://news.ycombinator.com/item?id=32366557"/>
-        <updated>2022-08-06T09:45:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Longevity for your parents, what to do?]]></summary>
-        <author>
-            <name>MichaelRazum</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelRazum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何对GitHub问题的功能请求说不？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32366248</id>
-        <link href="https://news.ycombinator.com/item?id=32366248"/>
-        <updated>2022-08-06T08:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to say NO to a GitHub issue feature request?]]></summary>
-        <author>
-            <name>mit20220401</name>
-            <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
         </author>
     </entry>
 </feed>
