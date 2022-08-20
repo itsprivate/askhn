@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T19:43:37.680Z</updated>
+    <updated>2022-08-20T21:29:52.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为后端开发学习网络的资源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535238</id>
+        <link href="https://news.ycombinator.com/item?id=32535238"/>
+        <updated>2022-08-20T21:23:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Resources for learning networking for back end development]]></summary>
+        <author>
+            <name>tusharvaswani</name>
+            <uri>https://news.ycombinator.com/user?id=tusharvaswani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是时候让人工智能开始取代医生了吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ngaut</name>
             <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更多用于编辑/编写代码的 "实验性 "用户界面？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32372351</id>
-        <link href="https://news.ycombinator.com/item?id=32372351"/>
-        <updated>2022-08-06T22:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: More “experimental“ UIs for editing/writing code?]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
         </author>
     </entry>
 </feed>
