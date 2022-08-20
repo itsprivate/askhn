@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T07:26:47.749Z</updated>
+    <updated>2022-08-20T08:34:17.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那么，Phoenix（网络框架）是怎么回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530203</id>
+        <link href="https://news.ycombinator.com/item?id=32530203"/>
+        <updated>2022-08-20T08:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: So, what's up with Phoenix (web framework)?]]></summary>
+        <author>
+            <name>jstummbillig</name>
+            <uri>https://news.ycombinator.com/user?id=jstummbillig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了leetcoding之外，开发人员还能接触到哪些技术课题？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yamrzou</name>
             <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否也不太关心大流行之后的会议？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32367357</id>
-        <link href="https://news.ycombinator.com/item?id=32367357"/>
-        <updated>2022-08-06T12:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you also care less about conferences after the pandemic?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>
