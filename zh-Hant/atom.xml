@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T15:50:51.252Z</updated>
+    <updated>2022-08-20T16:03:06.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在非英語語言的NLP工作中的主要痛苦是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532902</id>
+        <link href="https://news.ycombinator.com/item?id=32532902"/>
+        <updated>2022-08-20T15:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are your main pains working with NLP in non-English languages?]]></summary>
+        <author>
+            <name>IsraCV</name>
+            <uri>https://news.ycombinator.com/user?id=IsraCV</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習強大的日常實用數學概念的來源
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ohio_woah</name>
             <uri>https://news.ycombinator.com/user?id=ohio_woah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當HN的文章提到某個關鍵詞時，會收到一封郵件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32371233</id>
-        <link href="https://news.ycombinator.com/item?id=32371233"/>
-        <updated>2022-08-06T20:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Getting an email when a HN post mentions a keyword?]]></summary>
-        <author>
-            <name>seinecle</name>
-            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
         </author>
     </entry>
 </feed>
