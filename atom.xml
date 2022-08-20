@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T17:40:50.452Z</updated>
+    <updated>2022-08-20T18:35:42.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电话有最好的用户体验吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32534008</id>
+        <link href="https://news.ycombinator.com/item?id=32534008"/>
+        <updated>2022-08-20T18:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do telephone calls have the best UX?]]></summary>
+        <author>
+            <name>flerovium</name>
+            <uri>https://news.ycombinator.com/user?id=flerovium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找关于内核网络抽象的精彩旧谈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32533968</id>
+        <link href="https://news.ycombinator.com/item?id=32533968"/>
+        <updated>2022-08-20T18:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Looking for a fantastic old talk on kernel network abstractions]]></summary>
+        <author>
+            <name>deltasepsilon</name>
+            <uri>https://news.ycombinator.com/user?id=deltasepsilon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁通过《达利-埃2》赚钱了？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gftttgggfffddd</name>
             <uri>https://news.ycombinator.com/user?id=gftttgggfffddd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为SRE/DevOps提供辅导？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32372237</id>
-        <link href="https://news.ycombinator.com/item?id=32372237"/>
-        <updated>2022-08-06T22:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Tutoring for SRE/DevOps?]]></summary>
-        <author>
-            <name>aliasxneo</name>
-            <uri>https://news.ycombinator.com/user?id=aliasxneo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Linux的AUR倒了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32372020</id>
-        <link href="https://news.ycombinator.com/item?id=32372020"/>
-        <updated>2022-08-06T22:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the Arch Linux AUR Down?]]></summary>
-        <author>
-            <name>i13e</name>
-            <uri>https://news.ycombinator.com/user?id=i13e</uri>
         </author>
     </entry>
 </feed>
