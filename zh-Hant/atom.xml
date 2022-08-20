@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T17:07:16.071Z</updated>
+    <updated>2022-08-20T17:40:50.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有誰通過《達利-埃2》賺錢了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32533719</id>
+        <link href="https://news.ycombinator.com/item?id=32533719"/>
+        <updated>2022-08-20T17:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anybody making money with DALL-E2?]]></summary>
+        <author>
+            <name>frozencell</name>
+            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我剛剛購買的域名上有垃圾郵件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>i13e</name>
             <uri>https://news.ycombinator.com/user?id=i13e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼現有的企業在接受電動傳動系統技術方面如此緩慢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32372009</id>
-        <link href="https://news.ycombinator.com/item?id=32372009"/>
-        <updated>2022-08-06T22:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are incumbents so slow to embrace electric drivetrain technology?]]></summary>
-        <author>
-            <name>voisin</name>
-            <uri>https://news.ycombinator.com/user?id=voisin</uri>
         </author>
     </entry>
 </feed>
