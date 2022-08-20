@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T10:33:04.168Z</updated>
+    <updated>2022-08-20T11:58:31.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的完全远程工作设置是怎样的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531257</id>
+        <link href="https://news.ycombinator.com/item?id=32531257"/>
+        <updated>2022-08-20T11:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your fully remote work setup like?]]></summary>
+        <author>
+            <name>break_the_bank</name>
+            <uri>https://news.ycombinator.com/user?id=break_the_bank</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十年来试图进入YC的建议
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ChildOfChaos</name>
             <uri>https://news.ycombinator.com/user?id=ChildOfChaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些年最好的网络摄像头？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32369003</id>
-        <link href="https://news.ycombinator.com/item?id=32369003"/>
-        <updated>2022-08-06T15:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Webcam These Days?]]></summary>
-        <author>
-            <name>hedora</name>
-            <uri>https://news.ycombinator.com/user?id=hedora</uri>
         </author>
     </entry>
 </feed>
