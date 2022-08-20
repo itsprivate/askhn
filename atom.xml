@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T22:30:06.310Z</updated>
+    <updated>2022-08-20T23:27:35.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DALL-E收钱是道德/正确的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535897</id>
+        <link href="https://news.ycombinator.com/item?id=32535897"/>
+        <updated>2022-08-20T22:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it ethical/correct for DALL-E to charge money?]]></summary>
+        <author>
+            <name>boredemployee</name>
+            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是HN的搜索中的一个错误吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ohohoho</name>
             <uri>https://news.ycombinator.com/user?id=ohohoho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果钱不是问题，你会从事什么雄心勃勃的项目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32373926</id>
-        <link href="https://news.ycombinator.com/item?id=32373926"/>
-        <updated>2022-08-07T04:33:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If money was no object, what ambitious project would you work on?]]></summary>
-        <author>
-            <name>miletus</name>
-            <uri>https://news.ycombinator.com/user?id=miletus</uri>
         </author>
     </entry>
 </feed>
