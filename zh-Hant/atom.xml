@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T13:59:16.707Z</updated>
+    <updated>2022-08-20T15:00:09.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在空閒時間自動完成了別人的部分工作--如何進行？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532430</id>
+        <link href="https://news.ycombinator.com/item?id=32532430"/>
+        <updated>2022-08-20T14:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I automated part of someone else's job in my free time – how to proceed?]]></summary>
+        <author>
+            <name>JGugtw</name>
+            <uri>https://news.ycombinator.com/user?id=JGugtw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人使用Rust進行服務器端應用開發嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532411</id>
+        <link href="https://news.ycombinator.com/item?id=32532411"/>
+        <updated>2022-08-20T14:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using Rust for server side application development?]]></summary>
+        <author>
+            <name>champagnepapi</name>
+            <uri>https://news.ycombinator.com/user?id=champagnepapi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一個地方可以指定流行模型的輸入張量？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tmaly</name>
             <uri>https://news.ycombinator.com/user?id=tmaly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎樣才能擺脫Uber的通知？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370785</id>
-        <link href="https://news.ycombinator.com/item?id=32370785"/>
-        <updated>2022-08-06T19:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I get rid of Uber’s notifications?]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習生成藝術編程的資源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370671</id>
-        <link href="https://news.ycombinator.com/item?id=32370671"/>
-        <updated>2022-08-06T19:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Resources to learn generative art programming?]]></summary>
-        <author>
-            <name>akudha</name>
-            <uri>https://news.ycombinator.com/user?id=akudha</uri>
         </author>
     </entry>
 </feed>
