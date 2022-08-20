@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T12:47:27.364Z</updated>
+    <updated>2022-08-20T13:19:38.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用哪些Chrome插件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531707</id>
+        <link href="https://news.ycombinator.com/item?id=32531707"/>
+        <updated>2022-08-20T12:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Chrome plugins do you use?]]></summary>
+        <author>
+            <name>danfrost</name>
+            <uri>https://news.ycombinator.com/user?id=danfrost</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[儲存和組織書籤？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Igor_Wiwi</name>
             <uri>https://news.ycombinator.com/user?id=Igor_Wiwi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你有或有孩子，你會教他們什麼題目？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370085</id>
-        <link href="https://news.ycombinator.com/item?id=32370085"/>
-        <updated>2022-08-06T17:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: If you had or have kids, what topics would you teach them?]]></summary>
-        <author>
-            <name>milkoolong</name>
-            <uri>https://news.ycombinator.com/user?id=milkoolong</uri>
         </author>
     </entry>
 </feed>
