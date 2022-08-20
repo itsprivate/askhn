@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T09:27:41.866Z</updated>
+    <updated>2022-08-20T10:33:04.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[十年來試圖進入YC的建議
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530842</id>
+        <link href="https://news.ycombinator.com/item?id=32530842"/>
+        <updated>2022-08-20T10:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice after a decade trying to get into YC]]></summary>
+        <author>
+            <name>bluelightning2k</name>
+            <uri>https://news.ycombinator.com/user?id=bluelightning2k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack解決了什麼問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530831</id>
+        <link href="https://news.ycombinator.com/item?id=32530831"/>
+        <updated>2022-08-20T10:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What problem did Slack solve?]]></summary>
+        <author>
+            <name>oakenfloor</name>
+            <uri>https://news.ycombinator.com/user?id=oakenfloor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人在服務器端使用Swift嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530829</id>
+        <link href="https://news.ycombinator.com/item?id=32530829"/>
+        <updated>2022-08-20T10:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone using Swift on the server-side?]]></summary>
+        <author>
+            <name>_448</name>
+            <uri>https://news.ycombinator.com/user?id=_448</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為SQL服務器自動生成的API（REST/GraphQL）？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>hedora</name>
             <uri>https://news.ycombinator.com/user?id=hedora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否存在大氣波，就像有海洋波一樣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32368997</id>
-        <link href="https://news.ycombinator.com/item?id=32368997"/>
-        <updated>2022-08-06T15:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are there atmospheric waves just like there are ocean waves?]]></summary>
-        <author>
-            <name>SnowHill9902</name>
-            <uri>https://news.ycombinator.com/user?id=SnowHill9902</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡的博客是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32368782</id>
-        <link href="https://news.ycombinator.com/item?id=32368782"/>
-        <updated>2022-08-06T15:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your favorite blog?]]></summary>
-        <author>
-            <name>notoriousarun</name>
-            <uri>https://news.ycombinator.com/user?id=notoriousarun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網站列出了所有的藝術流派/風格？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32368597</id>
-        <link href="https://news.ycombinator.com/item?id=32368597"/>
-        <updated>2022-08-06T14:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Website listin all genres/styles of art?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
         </author>
     </entry>
 </feed>
