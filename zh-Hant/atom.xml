@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T13:19:38.525Z</updated>
+    <updated>2022-08-20T13:46:52.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你見過的技術書籍中最好的插圖是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531893</id>
+        <link href="https://news.ycombinator.com/item?id=32531893"/>
+        <updated>2022-08-20T13:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best illustrations in a technical book you've seen?]]></summary>
+        <author>
+            <name>hlandau</name>
+            <uri>https://news.ycombinator.com/user?id=hlandau</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從哪裡開始瞭解《碟中碟》？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531882</id>
+        <link href="https://news.ycombinator.com/item?id=32531882"/>
+        <updated>2022-08-20T13:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to Start with Discworld?]]></summary>
+        <author>
+            <name>Rant423</name>
+            <uri>https://news.ycombinator.com/user?id=Rant423</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你使用哪些Chrome插件？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gajus</name>
             <uri>https://news.ycombinator.com/user?id=gajus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼教育系統不以維基百科為基礎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370170</id>
-        <link href="https://news.ycombinator.com/item?id=32370170"/>
-        <updated>2022-08-06T17:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't education systems based on Wikipedia?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡哪種結？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370161</id>
-        <link href="https://news.ycombinator.com/item?id=32370161"/>
-        <updated>2022-08-06T17:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your favorite kind of knot?]]></summary>
-        <author>
-            <name>Igor_Wiwi</name>
-            <uri>https://news.ycombinator.com/user?id=Igor_Wiwi</uri>
         </author>
     </entry>
 </feed>
