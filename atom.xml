@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T02:40:47.228Z</updated>
+    <updated>2022-08-20T06:36:53.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在非专有的云计算协议方面正在进行哪些工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529575</id>
+        <link href="https://news.ycombinator.com/item?id=32529575"/>
+        <updated>2022-08-20T06:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What work is being done on non-proprietary cloud computing protocols?]]></summary>
+        <author>
+            <name>wizofaus</name>
+            <uri>https://news.ycombinator.com/user?id=wizofaus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你梦想的颜色是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何应对胃食管反流病的焦虑？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32366645</id>
-        <link href="https://news.ycombinator.com/item?id=32366645"/>
-        <updated>2022-08-06T10:04:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to deal with GERD anxiety?]]></summary>
-        <author>
-            <name>bobkrusty</name>
-            <uri>https://news.ycombinator.com/user?id=bobkrusty</uri>
         </author>
     </entry>
 </feed>
