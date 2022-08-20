@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T21:29:52.276Z</updated>
+    <updated>2022-08-20T21:51:45.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用什么服务来发送营销邮件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535397</id>
+        <link href="https://news.ycombinator.com/item?id=32535397"/>
+        <updated>2022-08-20T21:44:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What service are you using to send marketing emails?]]></summary>
+        <author>
+            <name>systemvoltage</name>
+            <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的创业公司为什么会失败，你学到了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535377</id>
+        <link href="https://news.ycombinator.com/item?id=32535377"/>
+        <updated>2022-08-20T21:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did your startup fail and what did you learn?]]></summary>
+        <author>
+            <name>ent101</name>
+            <uri>https://news.ycombinator.com/user?id=ent101</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为后端开发学习网络的资源
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>NiceWayToDoIT</name>
             <uri>https://news.ycombinator.com/user?id=NiceWayToDoIT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住在纽约市值得吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32373392</id>
-        <link href="https://news.ycombinator.com/item?id=32373392"/>
-        <updated>2022-08-07T02:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is living in NYC worth it?]]></summary>
-        <author>
-            <name>tempsy</name>
-            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTAP是否提供了一个新的视角，或者说它只是一个组成的解决方案？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32372958</id>
-        <link href="https://news.ycombinator.com/item?id=32372958"/>
-        <updated>2022-08-07T01:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does HTAP offer a fresh perspective or is it just a composed solution?]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
         </author>
     </entry>
 </feed>
