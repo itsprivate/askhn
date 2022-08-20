@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 20 Aug 2022 08:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 09:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为SQL服务器自动生成的API（REST/GraphQL）？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32530630</link>
+            <guid>https://news.ycombinator.com/item?id=32530630</guid>
+            <pubDate>Sat, 20 Aug 2022 09:19:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Auto Generated API (REST/GraphQL) for SQL Server?]]></description>
+        </item>
         <item>
             <title><![CDATA[那么，Phoenix（网络框架）是怎么回事？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32368597</guid>
             <pubDate>Sat, 06 Aug 2022 14:49:46 GMT</pubDate>
             <description><![CDATA[Ask HN: Website listin all genres/styles of art?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有替代Facebook群组的自我托管方式？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32368029</link>
-            <guid>https://news.ycombinator.com/item?id=32368029</guid>
-            <pubDate>Sat, 06 Aug 2022 13:46:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is there a self-hosted alternative to Facebook groups?]]></description>
         </item>
     </channel>
 </rss>
