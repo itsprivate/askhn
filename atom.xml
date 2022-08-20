@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T06:36:53.338Z</updated>
+    <updated>2022-08-20T06:55:34.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么反进步的评论会得到这么多的降票？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529763</id>
+        <link href="https://news.ycombinator.com/item?id=32529763"/>
+        <updated>2022-08-20T06:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do anti-progressive comments get so many down votes?]]></summary>
+        <author>
+            <name>shaburn</name>
+            <uri>https://news.ycombinator.com/user?id=shaburn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用HTDP与流行的语言课程作为CS的入门课程的结果？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529721</id>
+        <link href="https://news.ycombinator.com/item?id=32529721"/>
+        <updated>2022-08-20T06:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Outcomes of using HTDP vs a popular language course as intro to CS?]]></summary>
+        <author>
+            <name>newsoul</name>
+            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在非专有的云计算协议方面正在进行哪些工作？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nicbou</name>
             <uri>https://news.ycombinator.com/user?id=nicbou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么游戏不像电影那样被当作X导演的作品来推销？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32367102</id>
-        <link href="https://news.ycombinator.com/item?id=32367102"/>
-        <updated>2022-08-06T11:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't games marketed as the work of director X like movies are?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的高级职员与亚马逊的首席软件工程师？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32367097</id>
-        <link href="https://news.ycombinator.com/item?id=32367097"/>
-        <updated>2022-08-06T11:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Senior Staff at Google vs. Principal Software Engineer at Amazon?]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>
