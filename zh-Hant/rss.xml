@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sat, 20 Aug 2022 21:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 22:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[這是HN的搜索中的一個錯誤嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32535637</link>
+            <guid>https://news.ycombinator.com/item?id=32535637</guid>
+            <pubDate>Sat, 20 Aug 2022 22:17:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is this a bug in HN’s search?]]></description>
+        </item>
         <item>
             <title><![CDATA[你使用什麼服務來發送營銷郵件？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32373926</guid>
             <pubDate>Sun, 07 Aug 2022 04:33:06 GMT</pubDate>
             <description><![CDATA[Ask HN: If money was no object, what ambitious project would you work on?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[及時編程定時器旅行調試？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32373686</link>
-            <guid>https://news.ycombinator.com/item?id=32373686</guid>
-            <pubDate>Sun, 07 Aug 2022 03:36:33 GMT</pubDate>
-            <description><![CDATA[Ask HN: Just in time programming timer travel debugging?]]></description>
         </item>
     </channel>
 </rss>

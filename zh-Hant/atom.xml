@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T21:51:45.512Z</updated>
+    <updated>2022-08-20T22:30:06.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這是HN的搜索中的一個錯誤嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535637</id>
+        <link href="https://news.ycombinator.com/item?id=32535637"/>
+        <updated>2022-08-20T22:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is this a bug in HN’s search?]]></summary>
+        <author>
+            <name>O__________O</name>
+            <uri>https://news.ycombinator.com/user?id=O__________O</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你使用什麼服務來發送營銷郵件？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>miletus</name>
             <uri>https://news.ycombinator.com/user?id=miletus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[及時編程定時器旅行調試？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32373686</id>
-        <link href="https://news.ycombinator.com/item?id=32373686"/>
-        <updated>2022-08-07T03:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Just in time programming timer travel debugging?]]></summary>
-        <author>
-            <name>NiceWayToDoIT</name>
-            <uri>https://news.ycombinator.com/user?id=NiceWayToDoIT</uri>
         </author>
     </entry>
 </feed>
