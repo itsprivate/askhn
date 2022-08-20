@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T13:46:52.098Z</updated>
+    <updated>2022-08-20T13:59:16.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有一个地方可以指定流行模型的输入张量？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532016</id>
+        <link href="https://news.ycombinator.com/item?id=32532016"/>
+        <updated>2022-08-20T13:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a place that specifies input tensors for popular models?]]></summary>
+        <author>
+            <name>boredumb</name>
+            <uri>https://news.ycombinator.com/user?id=boredumb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你见过的技术书籍中最好的插图是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>akudha</name>
             <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索控制台工具说我的网站产生 "软404"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370172</id>
-        <link href="https://news.ycombinator.com/item?id=32370172"/>
-        <updated>2022-08-06T17:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google Search Console Tools says my website produces “soft 404”]]></summary>
-        <author>
-            <name>gajus</name>
-            <uri>https://news.ycombinator.com/user?id=gajus</uri>
         </author>
     </entry>
 </feed>
