@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T21:01:16.937Z</updated>
+    <updated>2022-08-21T21:27:52.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年，你會選擇哪種極簡主義手機？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544480</id>
+        <link href="https://news.ycombinator.com/item?id=32544480"/>
+        <updated>2022-08-21T21:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which minimalist phone would you choose in 2022?]]></summary>
+        <author>
+            <name>jhor</name>
+            <uri>https://news.ycombinator.com/user?id=jhor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有誰在這裡每週工作4天，作為僱員？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>everyone</name>
             <uri>https://news.ycombinator.com/user?id=everyone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何做到FOSS個人項目的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32379568</id>
-        <link href="https://news.ycombinator.com/item?id=32379568"/>
-        <updated>2022-08-07T20:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you manage to do FOSS personal projects?]]></summary>
-        <author>
-            <name>itsfarseen</name>
-            <uri>https://news.ycombinator.com/user?id=itsfarseen</uri>
         </author>
     </entry>
 </feed>
