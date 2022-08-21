@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T08:53:15.710Z</updated>
+    <updated>2022-08-21T10:32:17.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有相當於《字節》雜誌的現代版？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32538743</id>
+        <link href="https://news.ycombinator.com/item?id=32538743"/>
+        <updated>2022-08-21T10:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a modern equivalent of Byte Magazine?]]></summary>
+        <author>
+            <name>activitypea</name>
+            <uri>https://news.ycombinator.com/user?id=activitypea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的辦公室裡有什麼東西能給你帶來靈感/樂趣？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mFixman</name>
             <uri>https://news.ycombinator.com/user?id=mFixman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼技術原因使Google Docs不能在Firefox中進行語音輸入？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375897</id>
-        <link href="https://news.ycombinator.com/item?id=32375897"/>
-        <updated>2022-08-07T12:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any technical reasons Google Docs can't do voice typing in Firefox?]]></summary>
-        <author>
-            <name>lovelearning</name>
-            <uri>https://news.ycombinator.com/user?id=lovelearning</uri>
         </author>
     </entry>
 </feed>
