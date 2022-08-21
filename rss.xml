@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Sun, 21 Aug 2022 04:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 06:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32537473</link>
+            <guid>https://news.ycombinator.com/item?id=32537473</guid>
+            <pubDate>Sun, 21 Aug 2022 04:44:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: How]]></description>
+        </item>
         <item>
             <title><![CDATA[哪里可以找到SICP的HTML版本？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32375748</guid>
             <pubDate>Sun, 07 Aug 2022 11:47:21 GMT</pubDate>
             <description><![CDATA[Ask HN: Good Sunday night downloads to try?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有谁试过用Oculus进行开发？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32375677</link>
-            <guid>https://news.ycombinator.com/item?id=32375677</guid>
-            <pubDate>Sun, 07 Aug 2022 11:31:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone tried development using an Oculus?]]></description>
         </item>
     </channel>
 </rss>
