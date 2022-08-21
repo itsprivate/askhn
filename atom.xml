@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T02:40:52.276Z</updated>
+    <updated>2022-08-21T04:43:46.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪里可以找到SICP的HTML版本？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537032</id>
+        <link href="https://news.ycombinator.com/item?id=32537032"/>
+        <updated>2022-08-21T02:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where to find HTML version of SICP?]]></summary>
+        <author>
+            <name>ravish0007</name>
+            <uri>https://news.ycombinator.com/user?id=ravish0007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还有人觉得自己被困在FANG中吗？你是怎么出来的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537004</id>
+        <link href="https://news.ycombinator.com/item?id=32537004"/>
+        <updated>2022-08-21T02:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else feel trapped in FANG? How did you get out?]]></summary>
+        <author>
+            <name>awsthrow1234</name>
+            <uri>https://news.ycombinator.com/user?id=awsthrow1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为项目提供小批量宣传品衬衫？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536941</id>
+        <link href="https://news.ycombinator.com/item?id=32536941"/>
+        <updated>2022-08-21T02:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Small batch swag shirts for project?]]></summary>
+        <author>
+            <name>faangiq</name>
+            <uri>https://news.ycombinator.com/user?id=faangiq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用智能手机的生产方式有哪些？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536916</id>
+        <link href="https://news.ycombinator.com/item?id=32536916"/>
+        <updated>2022-08-21T02:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the productive ways of using a smartphone?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么语言可以用于大范围的编程吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536886</id>
+        <link href="https://news.ycombinator.com/item?id=32536886"/>
+        <updated>2022-08-21T02:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any languages for programming-in-the-large?]]></summary>
+        <author>
+            <name>khaledh</name>
+            <uri>https://news.ycombinator.com/user?id=khaledh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从新手到精通IC的工具
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>holistio</name>
             <uri>https://news.ycombinator.com/user?id=holistio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家对Android Kotlin开发新学员的建议？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375609</id>
-        <link href="https://news.ycombinator.com/item?id=32375609"/>
-        <updated>2022-08-07T11:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Expert Advices for New Learners in Android Kotlin Development?]]></summary>
-        <author>
-            <name>stArrow</name>
-            <uri>https://news.ycombinator.com/user?id=stArrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们不向stackoverflow或medium付费？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375422</id>
-        <link href="https://news.ycombinator.com/item?id=32375422"/>
-        <updated>2022-08-07T10:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't we pay stackoverflow or medium?]]></summary>
-        <author>
-            <name>motbus3</name>
-            <uri>https://news.ycombinator.com/user?id=motbus3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有Go Lang接口的经验
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375341</id>
-        <link href="https://news.ycombinator.com/item?id=32375341"/>
-        <updated>2022-08-07T10:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Experience with Go Lang Interfaces]]></summary>
-        <author>
-            <name>yonisto</name>
-            <uri>https://news.ycombinator.com/user?id=yonisto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼克斯的重大转折点是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375308</id>
-        <link href="https://news.ycombinator.com/item?id=32375308"/>
-        <updated>2022-08-07T10:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What was Nix's big turning point?]]></summary>
-        <author>
-            <name>gigatexal</name>
-            <uri>https://news.ycombinator.com/user?id=gigatexal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack有什么乏味的、不愉快的地方？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375186</id>
-        <link href="https://news.ycombinator.com/item?id=32375186"/>
-        <updated>2022-08-07T09:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is tedious, and unpleasant about Slack?]]></summary>
-        <author>
-            <name>nabi_nafio</name>
-            <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
         </author>
     </entry>
 </feed>
