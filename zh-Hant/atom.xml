@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T13:48:50.761Z</updated>
+    <updated>2022-08-21T14:46:31.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你花了多少時間/金錢來建立一個MVP，這值得嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32540566</id>
+        <link href="https://news.ycombinator.com/item?id=32540566"/>
+        <updated>2022-08-21T14:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much time/money did you spend building an MVP and was it worth it?]]></summary>
+        <author>
+            <name>sharemywin</name>
+            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[提出嚴格的方法來學習數據結構和算法的設計
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gravitate</name>
             <uri>https://news.ycombinator.com/user?id=gravitate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該買我能買得起的最漂亮的房子嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32377643</id>
-        <link href="https://news.ycombinator.com/item?id=32377643"/>
-        <updated>2022-08-07T16:24:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I buy the nicest house I can afford?]]></summary>
-        <author>
-            <name>engineer_22</name>
-            <uri>https://news.ycombinator.com/user?id=engineer_22</uri>
         </author>
     </entry>
 </feed>
