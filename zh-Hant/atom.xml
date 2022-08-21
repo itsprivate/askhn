@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T21:47:12.833Z</updated>
+    <updated>2022-08-21T21:59:11.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何保持好奇心（根據HN準則的定義）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544811</id>
+        <link href="https://news.ycombinator.com/item?id=32544811"/>
+        <updated>2022-08-21T21:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to be Curious (as defined by HN Guidelines)]]></summary>
+        <author>
+            <name>O__________O</name>
+            <uri>https://news.ycombinator.com/user?id=O__________O</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有誰一直卡在Cloudfare DDoS測試的刷新循環上？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544783</id>
+        <link href="https://news.ycombinator.com/item?id=32544783"/>
+        <updated>2022-08-21T21:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone keep getting stuck on Cloudfare DDoS test refresh loop?]]></summary>
+        <author>
+            <name>Trung0246</name>
+            <uri>https://news.ycombinator.com/user?id=Trung0246</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRUD應用在哪裡不再是CRUD？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>collectedparts</name>
             <uri>https://news.ycombinator.com/user?id=collectedparts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何實現繪圖自動化，以便不必為動畫重新繪圖？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32381132</id>
-        <link href="https://news.ycombinator.com/item?id=32381132"/>
-        <updated>2022-08-08T00:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you automate drawings so you don't have to redraw for animations?]]></summary>
-        <author>
-            <name>anon115</name>
-            <uri>https://news.ycombinator.com/user?id=anon115</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的朗讀文本的免費軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32380045</id>
-        <link href="https://news.ycombinator.com/item?id=32380045"/>
-        <updated>2022-08-07T21:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best free software to read text aloud]]></summary>
-        <author>
-            <name>n8ta</name>
-            <uri>https://news.ycombinator.com/user?id=n8ta</uri>
         </author>
     </entry>
 </feed>
