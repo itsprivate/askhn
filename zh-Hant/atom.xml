@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T22:29:10.873Z</updated>
+    <updated>2022-08-21T22:48:16.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你*愛*你的工作嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32545230</id>
+        <link href="https://news.ycombinator.com/item?id=32545230"/>
+        <updated>2022-08-21T22:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you *love* your job?]]></summary>
+        <author>
+            <name>throwaway091238</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway091238</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否有一個副業項目正在塵封？讓我們來幫助你
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>super_throwaway</name>
             <uri>https://news.ycombinator.com/user?id=super_throwaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偉大的教師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32381603</id>
-        <link href="https://news.ycombinator.com/item?id=32381603"/>
-        <updated>2022-08-08T01:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Great Teachers]]></summary>
-        <author>
-            <name>rh121</name>
-            <uri>https://news.ycombinator.com/user?id=rh121</uri>
         </author>
     </entry>
 </feed>
