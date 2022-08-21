@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T10:32:17.449Z</updated>
+    <updated>2022-08-21T10:48:58.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年最好的后端框架是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32538883</id>
+        <link href="https://news.ycombinator.com/item?id=32538883"/>
+        <updated>2022-08-21T10:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best back end framework in 2022?]]></summary>
+        <author>
+            <name>deidei</name>
+            <uri>https://news.ycombinator.com/user?id=deidei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有相当于《字节》杂志的现代版？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>abirch</name>
             <uri>https://news.ycombinator.com/user?id=abirch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的研究生水平的硬科学杂志有实体版吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32376526</id>
-        <link href="https://news.ycombinator.com/item?id=32376526"/>
-        <updated>2022-08-07T14:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good graduate-level hard science magazines available in physical form?]]></summary>
-        <author>
-            <name>mFixman</name>
-            <uri>https://news.ycombinator.com/user?id=mFixman</uri>
         </author>
     </entry>
 </feed>
