@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T21:27:52.398Z</updated>
+    <updated>2022-08-21T21:47:12.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CRUD应用在哪里不再是CRUD？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544692</id>
+        <link href="https://news.ycombinator.com/item?id=32544692"/>
+        <updated>2022-08-21T21:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where CRUD application stops being CRUD?]]></summary>
+        <author>
+            <name>ozim</name>
+            <uri>https://news.ycombinator.com/user?id=ozim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年，你会选择哪种极简主义手机？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>n8ta</name>
             <uri>https://news.ycombinator.com/user?id=n8ta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给一个17岁的俄罗斯计算机天才的职业建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32379733</id>
-        <link href="https://news.ycombinator.com/item?id=32379733"/>
-        <updated>2022-08-07T20:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Career advice for a 17 year old Russian computer prodigy]]></summary>
-        <author>
-            <name>everyone</name>
-            <uri>https://news.ycombinator.com/user?id=everyone</uri>
         </author>
     </entry>
 </feed>
