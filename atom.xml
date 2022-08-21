@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-20T23:27:35.883Z</updated>
+    <updated>2022-08-21T02:40:52.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从新手到精通IC的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536835</id>
+        <link href="https://news.ycombinator.com/item?id=32536835"/>
+        <updated>2022-08-21T02:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Tools for Noob to Polished IC]]></summary>
+        <author>
+            <name>medymed</name>
+            <uri>https://news.ycombinator.com/user?id=medymed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能否有一个 "tech.fyi"（像技术栈成熟度的level.fyi？）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536610</id>
+        <link href="https://news.ycombinator.com/item?id=32536610"/>
+        <updated>2022-08-21T01:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Could there be a “tech.fyi” (like levels.fyi for tech stack maturity?)]]></summary>
+        <author>
+            <name>throwarayes</name>
+            <uri>https://news.ycombinator.com/user?id=throwarayes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的创业公司是什么时候开始使用Segment/Amplitude的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536524</id>
+        <link href="https://news.ycombinator.com/item?id=32536524"/>
+        <updated>2022-08-21T01:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When did your startup start using Segment/Amplitude?]]></summary>
+        <author>
+            <name>n_f</name>
+            <uri>https://news.ycombinator.com/user?id=n_f</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux上的大型照片集的最佳整理软件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536468</id>
+        <link href="https://news.ycombinator.com/item?id=32536468"/>
+        <updated>2022-08-21T00:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best organizing software for large photo collections on Linux]]></summary>
+        <author>
+            <name>b20000</name>
+            <uri>https://news.ycombinator.com/user?id=b20000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有些公司会建立自己的CICD协调器？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536318</id>
+        <link href="https://news.ycombinator.com/item?id=32536318"/>
+        <updated>2022-08-21T00:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do some companies build their own CICD orchestrators?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DALL-E收钱是道德/正确的吗？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>nabi_nafio</name>
             <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文本编辑器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375139</id>
-        <link href="https://news.ycombinator.com/item?id=32375139"/>
-        <updated>2022-08-07T09:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Text Editors]]></summary>
-        <author>
-            <name>IndigoIncognito</name>
-            <uri>https://news.ycombinator.com/user?id=IndigoIncognito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对相互构建的多个仓库进行源代码控制的最佳方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32374965</id>
-        <link href="https://news.ycombinator.com/item?id=32374965"/>
-        <updated>2022-08-07T08:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best way to source control multiple repos building upon each other]]></summary>
-        <author>
-            <name>msadowski</name>
-            <uri>https://news.ycombinator.com/user?id=msadowski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万事通的意思
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32374442</id>
-        <link href="https://news.ycombinator.com/item?id=32374442"/>
-        <updated>2022-08-07T06:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Word for Jack of All Trades]]></summary>
-        <author>
-            <name>beefield</name>
-            <uri>https://news.ycombinator.com/user?id=beefield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视频课程/教程的背景音乐。是或不是？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32374099</id>
-        <link href="https://news.ycombinator.com/item?id=32374099"/>
-        <updated>2022-08-07T05:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Background music on video courses / tutorials. Yes or No?]]></summary>
-        <author>
-            <name>nbzso</name>
-            <uri>https://news.ycombinator.com/user?id=nbzso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flash网站的精神继承者？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32374082</id>
-        <link href="https://news.ycombinator.com/item?id=32374082"/>
-        <updated>2022-08-07T05:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Spiritual Successor of Flash Websites?]]></summary>
-        <author>
-            <name>ohohoho</name>
-            <uri>https://news.ycombinator.com/user?id=ohohoho</uri>
         </author>
     </entry>
 </feed>
