@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T14:46:31.732Z</updated>
+    <updated>2022-08-21T14:58:45.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國是否正在經歷崩潰？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32540667</id>
+        <link href="https://news.ycombinator.com/item?id=32540667"/>
+        <updated>2022-08-21T14:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is the United Kingdom undergoing collapse?]]></summary>
+        <author>
+            <name>Victerius</name>
+            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你花了多少時間/金錢來建立一個MVP，這值得嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>matt_the_cat</name>
             <uri>https://news.ycombinator.com/user?id=matt_the_cat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你多長時間註冊一次新的在線賬戶？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32377781</id>
-        <link href="https://news.ycombinator.com/item?id=32377781"/>
-        <updated>2022-08-07T16:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How often do you register new online accounts?]]></summary>
-        <author>
-            <name>gravitate</name>
-            <uri>https://news.ycombinator.com/user?id=gravitate</uri>
         </author>
     </entry>
 </feed>
