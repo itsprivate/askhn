@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T17:59:30.445Z</updated>
+    <updated>2022-08-21T18:37:45.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您能分享一下您的睡眠呼吸障礙的經驗嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32542884</id>
+        <link href="https://news.ycombinator.com/item?id=32542884"/>
+        <updated>2022-08-21T18:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can you share your experience with sleep apnea?]]></summary>
+        <author>
+            <name>throwawayosa</name>
+            <uri>https://news.ycombinator.com/user?id=throwawayosa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN Noprocrast如何工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32542697</id>
+        <link href="https://news.ycombinator.com/item?id=32542697"/>
+        <updated>2022-08-21T17:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How HN Noprocrast Works?]]></summary>
+        <author>
+            <name>bmacho</name>
+            <uri>https://news.ycombinator.com/user?id=bmacho</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以DNS為數據API的類似SIEM的產品？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>moomoo11</name>
             <uri>https://news.ycombinator.com/user?id=moomoo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是很少有人談論的下一件大事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32378695</id>
-        <link href="https://news.ycombinator.com/item?id=32378695"/>
-        <updated>2022-08-07T18:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the next big thing that few people are talking about?]]></summary>
-        <author>
-            <name>ScottStevenson</name>
-            <uri>https://news.ycombinator.com/user?id=ScottStevenson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在建造前驗證產品創意？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32378641</id>
-        <link href="https://news.ycombinator.com/item?id=32378641"/>
-        <updated>2022-08-07T18:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to validate product ideas before building?]]></summary>
-        <author>
-            <name>faizshah</name>
-            <uri>https://news.ycombinator.com/user?id=faizshah</uri>
         </author>
     </entry>
 </feed>
