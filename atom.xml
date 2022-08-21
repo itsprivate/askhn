@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T22:48:16.075Z</updated>
+    <updated>2022-08-21T23:28:11.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[减缓失败的初创企业是否可能？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32545527</id>
+        <link href="https://news.ycombinator.com/item?id=32545527"/>
+        <updated>2022-08-21T23:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Slowing Down Failed Startups Possible?]]></summary>
+        <author>
+            <name>Gtex555</name>
+            <uri>https://news.ycombinator.com/user?id=Gtex555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你*爱*你的工作吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aristofun</name>
             <uri>https://news.ycombinator.com/user?id=aristofun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于建立基于ActivityPub RSS的新闻聚合社区的建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32382338</id>
-        <link href="https://news.ycombinator.com/item?id=32382338"/>
-        <updated>2022-08-08T04:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Proposal for an ActivityPub RSS Based News Aggregation Community]]></summary>
-        <author>
-            <name>super_throwaway</name>
-            <uri>https://news.ycombinator.com/user?id=super_throwaway</uri>
         </author>
     </entry>
 </feed>
