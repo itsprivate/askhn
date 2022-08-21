@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-21T15:29:43.110Z</updated>
+    <updated>2022-08-21T17:07:14.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為工程師推薦非小說類書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32541997</id>
+        <link href="https://news.ycombinator.com/item?id=32541997"/>
+        <updated>2022-08-21T16:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-fiction book recommendation for engineers]]></summary>
+        <author>
+            <name>huzeifadawood</name>
+            <uri>https://news.ycombinator.com/user?id=huzeifadawood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何修復困難的編程錯誤？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>abhiminator</name>
             <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果成功的數學家願意，他們能成為頂級的程序員嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32378079</id>
-        <link href="https://news.ycombinator.com/item?id=32378079"/>
-        <updated>2022-08-07T17:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can successful mathematicians become top programmers if they want to?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
