@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T19:49:27.628Z</updated>
+    <updated>2022-08-22T19:59:48.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是否應該告訴聯合創始人/投資人在創業前優化我的環境？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32556290</id>
+        <link href="https://news.ycombinator.com/item?id=32556290"/>
+        <updated>2022-08-22T19:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I tell cofounders/investors to optimize my env before startup?]]></summary>
+        <author>
+            <name>amts</name>
+            <uri>https://news.ycombinator.com/user?id=amts</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遠離FAANG：其他領域的開發工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32556240</id>
+        <link href="https://news.ycombinator.com/item?id=32556240"/>
+        <updated>2022-08-22T19:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Moving away from FAANG: Other areas of dev work?]]></summary>
+        <author>
+            <name>thaen</name>
+            <uri>https://news.ycombinator.com/user?id=thaen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼禁用SSH根目錄，只用鑰匙登錄？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tarunmuvvala</name>
             <uri>https://news.ycombinator.com/user?id=tarunmuvvala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[www/htdocs/public_HTML目錄的最常見名稱是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32394465</id>
-        <link href="https://news.ycombinator.com/item?id=32394465"/>
-        <updated>2022-08-09T05:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most common name for the www/htdocs/public_HTML directory?]]></summary>
-        <author>
-            <name>tomcam</name>
-            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪個城市是加密貨幣創新的中心？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32394191</id>
-        <link href="https://news.ycombinator.com/item?id=32394191"/>
-        <updated>2022-08-09T04:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What city is the center of crypto innovation?]]></summary>
-        <author>
-            <name>aaronwalker</name>
-            <uri>https://news.ycombinator.com/user?id=aaronwalker</uri>
         </author>
     </entry>
 </feed>
