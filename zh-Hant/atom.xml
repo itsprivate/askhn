@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T14:29:46.686Z</updated>
+    <updated>2022-08-22T15:00:52.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼所有的域名都被佔用了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552312</id>
+        <link href="https://news.ycombinator.com/item?id=32552312"/>
+        <updated>2022-08-22T14:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are all the domain names taken?]]></summary>
+        <author>
+            <name>itsmefaz</name>
+            <uri>https://news.ycombinator.com/user?id=itsmefaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對經濟衰退中的承包問題的看法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mrsmee89</name>
             <uri>https://news.ycombinator.com/user?id=mrsmee89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電動汽車的採用速度過快，是否可以持續？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32390789</id>
-        <link href="https://news.ycombinator.com/item?id=32390789"/>
-        <updated>2022-08-08T20:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is the adoption of electric cars too fast to be sustained?]]></summary>
-        <author>
-            <name>julienreszka</name>
-            <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
         </author>
     </entry>
 </feed>
