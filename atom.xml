@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T09:05:07.135Z</updated>
+    <updated>2022-08-22T10:02:42.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌是否在节省支持成本？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549330</id>
+        <link href="https://news.ycombinator.com/item?id=32549330"/>
+        <updated>2022-08-22T09:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Google saving money in support costs?]]></summary>
+        <author>
+            <name>gtirloni</name>
+            <uri>https://news.ycombinator.com/user?id=gtirloni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年的国际（Unicode）电子邮件地址支持情况如何？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>novoreorx</name>
             <uri>https://news.ycombinator.com/user?id=novoreorx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的在线CS副学位，是否值得？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32387112</id>
-        <link href="https://news.ycombinator.com/item?id=32387112"/>
-        <updated>2022-08-08T15:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best Online Associate's Degree in CS, and is it worth it?]]></summary>
-        <author>
-            <name>DLWII</name>
-            <uri>https://news.ycombinator.com/user?id=DLWII</uri>
         </author>
     </entry>
 </feed>
