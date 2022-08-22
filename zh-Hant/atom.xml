@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T23:01:24.890Z</updated>
+    <updated>2022-08-22T23:29:35.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Linux上開發和部署ASP.NET是怎樣的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558417</id>
+        <link href="https://news.ycombinator.com/item?id=32558417"/>
+        <updated>2022-08-22T23:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is it like developing and deploying ASP.NET on Linux?]]></summary>
+        <author>
+            <name>HeckFeck</name>
+            <uri>https://news.ycombinator.com/user?id=HeckFeck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在HN上分享的自我評估健康應用程序？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sizediterable</name>
             <uri>https://news.ycombinator.com/user?id=sizediterable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技初創企業何時才能再次開始進行IPO？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32397446</id>
-        <link href="https://news.ycombinator.com/item?id=32397446"/>
-        <updated>2022-08-09T13:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When will tech startups start to have IPOs again?]]></summary>
-        <author>
-            <name>equityloan</name>
-            <uri>https://news.ycombinator.com/user?id=equityloan</uri>
         </author>
     </entry>
 </feed>
