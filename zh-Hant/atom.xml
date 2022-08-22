@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T21:50:17.453Z</updated>
+    <updated>2022-08-22T22:51:36.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何判斷在線內容是否是人工智能產生的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558158</id>
+        <link href="https://news.ycombinator.com/item?id=32558158"/>
+        <updated>2022-08-22T22:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you tell if online content is AI generated?]]></summary>
+        <author>
+            <name>patientplatypus</name>
+            <uri>https://news.ycombinator.com/user?id=patientplatypus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AR的體驗設計。誰在做有趣的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558125</id>
+        <link href="https://news.ycombinator.com/item?id=32558125"/>
+        <updated>2022-08-22T22:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Experience design for AR. Who is doing interesting work?]]></summary>
+        <author>
+            <name>germinalphrase</name>
+            <uri>https://news.ycombinator.com/user?id=germinalphrase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在macOS上嘗試一個你不信任的開源應用呢？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lsferreira42</name>
             <uri>https://news.ycombinator.com/user?id=lsferreira42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該如何處理大量的數學書？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396794</id>
-        <link href="https://news.ycombinator.com/item?id=32396794"/>
-        <updated>2022-08-09T12:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What should you do with a large collection of math books]]></summary>
-        <author>
-            <name>waivej</name>
-            <uri>https://news.ycombinator.com/user?id=waivej</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼智能手機會成為一個單點故障？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396685</id>
-        <link href="https://news.ycombinator.com/item?id=32396685"/>
-        <updated>2022-08-09T12:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did smartphones become a single point of failure?]]></summary>
-        <author>
-            <name>neverminder</name>
-            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
         </author>
     </entry>
 </feed>
