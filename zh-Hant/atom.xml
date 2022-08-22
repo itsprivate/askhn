@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T02:41:26.885Z</updated>
+    <updated>2022-08-22T04:22:30.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你要退出嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32547173</id>
+        <link href="https://news.ycombinator.com/item?id=32547173"/>
+        <updated>2022-08-22T03:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you going to quit?]]></summary>
+        <author>
+            <name>daveleebbc</name>
+            <uri>https://news.ycombinator.com/user?id=daveleebbc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我以前從未發佈過應用程序--有什麼必須做的事情來保護自己嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maury91</name>
             <uri>https://news.ycombinator.com/user?id=maury91</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指向和點擊推薦
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32383948</id>
-        <link href="https://news.ycombinator.com/item?id=32383948"/>
-        <updated>2022-08-08T10:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Point and Click Recommandations]]></summary>
-        <author>
-            <name>xcambar</name>
-            <uri>https://news.ycombinator.com/user?id=xcambar</uri>
         </author>
     </entry>
 </feed>
