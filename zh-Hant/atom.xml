@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T22:51:36.714Z</updated>
+    <updated>2022-08-22T23:01:24.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在HN上分享的自我評估健康應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558368</id>
+        <link href="https://news.ycombinator.com/item?id=32558368"/>
+        <updated>2022-08-22T22:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Self-assessment health app shared here on HN?]]></summary>
+        <author>
+            <name>aaaaaaaaata</name>
+            <uri>https://news.ycombinator.com/user?id=aaaaaaaaata</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何判斷在線內容是否是人工智能產生的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>equityloan</name>
             <uri>https://news.ycombinator.com/user?id=equityloan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建Anki卡片的更好方法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32397162</id>
-        <link href="https://news.ycombinator.com/item?id=32397162"/>
-        <updated>2022-08-09T12:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Better way to create Anki cards?]]></summary>
-        <author>
-            <name>lsferreira42</name>
-            <uri>https://news.ycombinator.com/user?id=lsferreira42</uri>
         </author>
     </entry>
 </feed>
