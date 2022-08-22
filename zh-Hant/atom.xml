@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T14:00:54.997Z</updated>
+    <updated>2022-08-22T14:29:46.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對經濟衰退中的承包問題的看法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551581</id>
+        <link href="https://news.ycombinator.com/item?id=32551581"/>
+        <updated>2022-08-22T14:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Onlook on Contracting in a Recession]]></summary>
+        <author>
+            <name>drKarl</name>
+            <uri>https://news.ycombinator.com/user?id=drKarl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux上的網絡成功案例？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551453</id>
+        <link href="https://news.ycombinator.com/item?id=32551453"/>
+        <updated>2022-08-22T13:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Net Success Stories on Linux?]]></summary>
+        <author>
+            <name>supahfly_remix</name>
+            <uri>https://news.ycombinator.com/user?id=supahfly_remix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪裡可以找到非技術人員來擴展現有的（微型）公司？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>julienreszka</name>
             <uri>https://news.ycombinator.com/user?id=julienreszka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用FreeBSD或OpenBSD作為日常環境嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32390378</id>
-        <link href="https://news.ycombinator.com/item?id=32390378"/>
-        <updated>2022-08-08T20:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone use FreeBSD or OpenBSD as a daily environment?]]></summary>
-        <author>
-            <name>stakkur</name>
-            <uri>https://news.ycombinator.com/user?id=stakkur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破損的數據管道，你如何處理？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32390168</id>
-        <link href="https://news.ycombinator.com/item?id=32390168"/>
-        <updated>2022-08-08T19:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Broken data pipelines, how do you handle them?]]></summary>
-        <author>
-            <name>krishadi</name>
-            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
         </author>
     </entry>
 </feed>
