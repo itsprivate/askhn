@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 22 Aug 2022 19:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 19:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么禁用SSH根目录，只用钥匙登录？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32556165</link>
+            <guid>https://news.ycombinator.com/item?id=32556165</guid>
+            <pubDate>Mon, 22 Aug 2022 19:38:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why disable SSH root login with key only?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你对分布式系统有什么奇怪的想法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32556144</link>
+            <guid>https://news.ycombinator.com/item?id=32556144</guid>
+            <pubDate>Mon, 22 Aug 2022 19:35:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are your weird ideas about Distributed Systems?]]></description>
+        </item>
         <item>
             <title><![CDATA[有没有使用谷歌电视基本模式的经验？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32394191</guid>
             <pubDate>Tue, 09 Aug 2022 04:35:44 GMT</pubDate>
             <description><![CDATA[Ask HN: What city is the center of crypto innovation?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无代码自动化和一般的无代码可以帮助DevOps吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32394113</link>
-            <guid>https://news.ycombinator.com/item?id=32394113</guid>
-            <pubDate>Tue, 09 Aug 2022 04:20:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Can no-code automation and no-code in general help DevOps?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么Frontendmasters.com这么贵？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32393455</link>
-            <guid>https://news.ycombinator.com/item?id=32393455</guid>
-            <pubDate>Tue, 09 Aug 2022 02:01:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why Frontendmasters.com is so expensive?]]></description>
         </item>
     </channel>
 </rss>
