@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T18:56:51.949Z</updated>
+    <updated>2022-08-22T19:28:51.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有没有使用谷歌电视基本模式的经验？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32555666</id>
+        <link href="https://news.ycombinator.com/item?id=32555666"/>
+        <updated>2022-08-22T18:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any experience with Google TV Basic mode?]]></summary>
+        <author>
+            <name>mschild</name>
+            <uri>https://news.ycombinator.com/user?id=mschild</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何开始从事量化交易？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>navinaust</name>
             <uri>https://news.ycombinator.com/user?id=navinaust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索下降？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32393051</id>
-        <link href="https://news.ycombinator.com/item?id=32393051"/>
-        <updated>2022-08-09T01:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google Search Down?]]></summary>
-        <author>
-            <name>alhirzel</name>
-            <uri>https://news.ycombinator.com/user?id=alhirzel</uri>
         </author>
     </entry>
 </feed>
