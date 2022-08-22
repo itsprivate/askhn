@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T07:29:26.514Z</updated>
+    <updated>2022-08-22T08:38:02.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳产品入职流程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32548785</id>
+        <link href="https://news.ycombinator.com/item?id=32548785"/>
+        <updated>2022-08-22T08:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best Product Onboarding Flow]]></summary>
+        <author>
+            <name>emschwartz</name>
+            <uri>https://news.ycombinator.com/user?id=emschwartz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[像网站一样的HN，但用于其他领域
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32548601</id>
+        <link href="https://news.ycombinator.com/item?id=32548601"/>
+        <updated>2022-08-22T08:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: HN like website but for other fields]]></summary>
+        <author>
+            <name>nachpatch</name>
+            <uri>https://news.ycombinator.com/user?id=nachpatch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千脑》中描述的科学，是否可信？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>chrisan</name>
             <uri>https://news.ycombinator.com/user?id=chrisan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的数字游民们，你们是如何做到的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32385610</id>
-        <link href="https://news.ycombinator.com/item?id=32385610"/>
-        <updated>2022-08-08T14:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Digital nomads of HN, how do you do it?]]></summary>
-        <author>
-            <name>someuser54541</name>
-            <uri>https://news.ycombinator.com/user?id=someuser54541</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有多不喜欢转发声明，为什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32385318</id>
-        <link href="https://news.ycombinator.com/item?id=32385318"/>
-        <updated>2022-08-08T13:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Much Do You Dislike Forward Declarations and Why?]]></summary>
-        <author>
-            <name>ghoward</name>
-            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
         </author>
     </entry>
 </feed>
