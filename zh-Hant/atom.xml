@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-22T18:37:09.535Z</updated>
+    <updated>2022-08-22T18:56:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何開始從事量化交易？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32555557</id>
+        <link href="https://news.ycombinator.com/item?id=32555557"/>
+        <updated>2022-08-22T18:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to get started in quant trading?]]></summary>
+        <author>
+            <name>onesigma</name>
+            <uri>https://news.ycombinator.com/user?id=onesigma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN是如何保持高質量的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alhirzel</name>
             <uri>https://news.ycombinator.com/user?id=alhirzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日記的藝術形式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32392936</id>
-        <link href="https://news.ycombinator.com/item?id=32392936"/>
-        <updated>2022-08-09T00:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Artistic Forms of Journaling]]></summary>
-        <author>
-            <name>ciwchris</name>
-            <uri>https://news.ycombinator.com/user?id=ciwchris</uri>
         </author>
     </entry>
 </feed>
