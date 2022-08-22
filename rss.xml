@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Mon, 22 Aug 2022 10:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:56:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于OS X内部的书籍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32549625</link>
+            <guid>https://news.ycombinator.com/item?id=32549625</guid>
+            <pubDate>Mon, 22 Aug 2022 10:39:11 GMT</pubDate>
+            <description><![CDATA[Ask HN: Books about OS X internals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我应该记录错误、抛出错误还是两者都要？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32549619</link>
+            <guid>https://news.ycombinator.com/item?id=32549619</guid>
+            <pubDate>Mon, 22 Aug 2022 10:38:00 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should I Log Errors, Throw Errors or Both?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么公司要实施基于GEO的登录检查？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32549597</link>
+            <guid>https://news.ycombinator.com/item?id=32549597</guid>
+            <pubDate>Mon, 22 Aug 2022 10:34:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do companies implement GEO-based login checks?]]></description>
+        </item>
         <item>
             <title><![CDATA[Cloudflare是一个好的域名注册商吗？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32388618</guid>
             <pubDate>Mon, 08 Aug 2022 17:42:39 GMT</pubDate>
             <description><![CDATA[Ask HN: Can someone 3D scan me and have sex with my body?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[点击超链接时，你的macOS光标是否会跳动？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32388513</link>
-            <guid>https://news.ycombinator.com/item?id=32388513</guid>
-            <pubDate>Mon, 08 Aug 2022 17:34:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does your macOS cursor jump when clicking on hyperlinks?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你希望在数据科学家的工作描述中看到什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32388310</link>
-            <guid>https://news.ycombinator.com/item?id=32388310</guid>
-            <pubDate>Mon, 08 Aug 2022 17:16:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: What do you want to see in a data scientist job description?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是否有任何非围绕加密货币的区块链项目？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32387589</link>
-            <guid>https://news.ycombinator.com/item?id=32387589</guid>
-            <pubDate>Mon, 08 Aug 2022 16:26:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Are there any blockchain projects NOT around cryptocurrencies?]]></description>
         </item>
     </channel>
 </rss>
