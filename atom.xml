@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T20:30:28.914Z</updated>
+    <updated>2022-08-23T21:01:10.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你遇到过哪些设计最好的个人博客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32571343</id>
+        <link href="https://news.ycombinator.com/item?id=32571343"/>
+        <updated>2022-08-23T20:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are the best-designed personal blogs you’ve come across?]]></summary>
+        <author>
+            <name>hippo-campus</name>
+            <uri>https://news.ycombinator.com/user?id=hippo-campus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果一个人必须为每项服务付费，那要花多少钱？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pablohoffman</name>
             <uri>https://news.ycombinator.com/user?id=pablohoffman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有非技术类的创始人在考虑创办一家技术类创业公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409562</id>
-        <link href="https://news.ycombinator.com/item?id=32409562"/>
-        <updated>2022-08-10T09:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any non tech founder thinking about starting a tech startup?]]></summary>
-        <author>
-            <name>anivader</name>
-            <uri>https://news.ycombinator.com/user?id=anivader</uri>
         </author>
     </entry>
 </feed>
