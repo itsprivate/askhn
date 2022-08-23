@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T11:57:43.593Z</updated>
+    <updated>2022-08-23T13:53:47.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[默認情況下，多對多的關係，這是個好策略嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32564657</id>
+        <link href="https://news.ycombinator.com/item?id=32564657"/>
+        <updated>2022-08-23T13:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Many-to-Many relation by default, is that a good strategy?]]></summary>
+        <author>
+            <name>_448</name>
+            <uri>https://news.ycombinator.com/user?id=_448</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於語言能力而拒絕高級候選人是否不公平？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32564532</id>
+        <link href="https://news.ycombinator.com/item?id=32564532"/>
+        <updated>2022-08-23T13:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it unfair to reject senior candidates based on their language skills?]]></summary>
+        <author>
+            <name>5Qn8mNbc2FNCiVV</name>
+            <uri>https://news.ycombinator.com/user?id=5Qn8mNbc2FNCiVV</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客文章的最佳URL格式？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kaveh808</name>
             <uri>https://news.ycombinator.com/user?id=kaveh808</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從數據工程師轉到軟件工程師有多難？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32404199</id>
-        <link href="https://news.ycombinator.com/item?id=32404199"/>
-        <updated>2022-08-09T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How hard would it be to move from Data Engineer to Software Engineer?]]></summary>
-        <author>
-            <name>anxiousnewgrad</name>
-            <uri>https://news.ycombinator.com/user?id=anxiousnewgrad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用哪種用戶推薦軟件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32404098</id>
-        <link href="https://news.ycombinator.com/item?id=32404098"/>
-        <updated>2022-08-09T20:50:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which user referral software do you use?]]></summary>
-        <author>
-            <name>saradhi</name>
-            <uri>https://news.ycombinator.com/user?id=saradhi</uri>
         </author>
     </entry>
 </feed>
