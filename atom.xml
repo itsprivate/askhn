@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T09:02:22.438Z</updated>
+    <updated>2022-08-23T09:31:51.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有兴趣一起写一本关于软件设计/架构的书吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562332</id>
+        <link href="https://news.ycombinator.com/item?id=32562332"/>
+        <updated>2022-08-23T09:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Interested on writing a book on software design/architecture together?]]></summary>
+        <author>
+            <name>jakobov</name>
+            <uri>https://news.ycombinator.com/user?id=jakobov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我不应该建立一个为本地开发赠送SSL证书的网站？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mdcds</name>
             <uri>https://news.ycombinator.com/user?id=mdcds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放式课件发生了什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32402075</id>
-        <link href="https://news.ycombinator.com/item?id=32402075"/>
-        <updated>2022-08-09T18:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Open Courseware?]]></summary>
-        <author>
-            <name>porknubbins</name>
-            <uri>https://news.ycombinator.com/user?id=porknubbins</uri>
         </author>
     </entry>
 </feed>
