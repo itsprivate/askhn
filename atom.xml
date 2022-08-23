@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T06:23:33.655Z</updated>
+    <updated>2022-08-23T07:09:38.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以/应该用手写的HTML&CSS做一个网上商店吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561349</id>
+        <link href="https://news.ycombinator.com/item?id=32561349"/>
+        <updated>2022-08-23T06:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can/should I make an online shop with handwritten HTML&CSS?]]></summary>
+        <author>
+            <name>nathanh4903</name>
+            <uri>https://news.ycombinator.com/user?id=nathanh4903</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你阅读PDF的设置是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561346</id>
+        <link href="https://news.ycombinator.com/item?id=32561346"/>
+        <updated>2022-08-23T06:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your reading setup for reading PDFs?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[垃圾邮件过滤器，适用于Office 365
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561292</id>
+        <link href="https://news.ycombinator.com/item?id=32561292"/>
+        <updated>2022-08-23T06:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Spam Filter for Office 365]]></summary>
+        <author>
+            <name>michidk</name>
+            <uri>https://news.ycombinator.com/user?id=michidk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我刚刚开始工作的公司有安全政策，没有火狐浏览器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561237</id>
+        <link href="https://news.ycombinator.com/item?id=32561237"/>
+        <updated>2022-08-23T06:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Company I just started working for has security policy NO Firefox]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在想什么？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>earljman</name>
             <uri>https://news.ycombinator.com/user?id=earljman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么非关系型数据库不直接将行作为文件来处理？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32401185</id>
-        <link href="https://news.ycombinator.com/item?id=32401185"/>
-        <updated>2022-08-09T17:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't non-relational databases just treat rows as files?]]></summary>
-        <author>
-            <name>glouwbug</name>
-            <uri>https://news.ycombinator.com/user?id=glouwbug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有人雇用初级开发人员吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32400928</id>
-        <link href="https://news.ycombinator.com/item?id=32400928"/>
-        <updated>2022-08-09T17:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is no one hiring junior devs?]]></summary>
-        <author>
-            <name>ianbutler</name>
-            <uri>https://news.ycombinator.com/user?id=ianbutler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小开发者如何推广自己的应用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32400519</id>
-        <link href="https://news.ycombinator.com/item?id=32400519"/>
-        <updated>2022-08-09T16:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do small developer promote own apps?]]></summary>
-        <author>
-            <name>DarkwingDuckFan</name>
-            <uri>https://news.ycombinator.com/user?id=DarkwingDuckFan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前对文件索引器的限制是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32400443</id>
-        <link href="https://news.ycombinator.com/item?id=32400443"/>
-        <updated>2022-08-09T16:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the current limits for file indexers?]]></summary>
-        <author>
-            <name>didgetmaster</name>
-            <uri>https://news.ycombinator.com/user?id=didgetmaster</uri>
         </author>
     </entry>
 </feed>
