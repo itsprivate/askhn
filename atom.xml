@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T11:29:13.343Z</updated>
+    <updated>2022-08-23T11:57:43.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博客文章的最佳URL格式？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32563465</id>
+        <link href="https://news.ycombinator.com/item?id=32563465"/>
+        <updated>2022-08-23T11:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Best blog URL format for blog posts?]]></summary>
+        <author>
+            <name>design-of-homes</name>
+            <uri>https://news.ycombinator.com/user?id=design-of-homes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevSecOp工程师的职业道路是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saradhi</name>
             <uri>https://news.ycombinator.com/user?id=saradhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么即使关闭了JavaScript，这个页面也会使浏览器标签崩溃？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32403928</id>
-        <link href="https://news.ycombinator.com/item?id=32403928"/>
-        <updated>2022-08-09T20:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why would this page crash a browser tab even with JavaScript turned off?]]></summary>
-        <author>
-            <name>noduerme</name>
-            <uri>https://news.ycombinator.com/user?id=noduerme</uri>
         </author>
     </entry>
 </feed>

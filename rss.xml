@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 11:57:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[博客文章的最佳URL格式？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32563465</link>
+            <guid>https://news.ycombinator.com/item?id=32563465</guid>
+            <pubDate>Tue, 23 Aug 2022 11:53:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best blog URL format for blog posts?]]></description>
+        </item>
         <item>
             <title><![CDATA[DevSecOp工程师的职业道路是什么？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32404098</guid>
             <pubDate>Tue, 09 Aug 2022 20:50:17 GMT</pubDate>
             <description><![CDATA[Ask HN: Which user referral software do you use?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么即使关闭了JavaScript，这个页面也会使浏览器标签崩溃？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32403928</link>
-            <guid>https://news.ycombinator.com/item?id=32403928</guid>
-            <pubDate>Tue, 09 Aug 2022 20:37:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why would this page crash a browser tab even with JavaScript turned off?]]></description>
         </item>
     </channel>
 </rss>
