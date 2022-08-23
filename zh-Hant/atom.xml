@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T18:57:46.808Z</updated>
+    <updated>2022-08-23T19:58:11.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪種編程語言中感到最有成效？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32570526</id>
+        <link href="https://news.ycombinator.com/item?id=32570526"/>
+        <updated>2022-08-23T19:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which programming language do you feel most productive in?]]></summary>
+        <author>
+            <name>fierro</name>
+            <uri>https://news.ycombinator.com/user?id=fierro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌上的 "汽車貸款計算器 "工具怎麼了？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>_shadi</name>
             <uri>https://news.ycombinator.com/user?id=_shadi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lattice QCD中的新內容？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409385</id>
-        <link href="https://news.ycombinator.com/item?id=32409385"/>
-        <updated>2022-08-10T08:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Whats New in Lattice QCD?]]></summary>
-        <author>
-            <name>plaguepilled</name>
-            <uri>https://news.ycombinator.com/user?id=plaguepilled</uri>
         </author>
     </entry>
 </feed>

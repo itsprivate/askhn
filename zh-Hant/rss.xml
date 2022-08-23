@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 23 Aug 2022 18:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 19:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在哪種編程語言中感到最有成效？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32570526</link>
+            <guid>https://news.ycombinator.com/item?id=32570526</guid>
+            <pubDate>Tue, 23 Aug 2022 19:52:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which programming language do you feel most productive in?]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌上的 "汽車貸款計算器 "工具怎麼了？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32409415</guid>
             <pubDate>Wed, 10 Aug 2022 09:02:34 GMT</pubDate>
             <description><![CDATA[Ask HN: Teams migrated from Nomad to Kubernetes,what pushed you to migrate?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lattice QCD中的新內容？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32409385</link>
-            <guid>https://news.ycombinator.com/item?id=32409385</guid>
-            <pubDate>Wed, 10 Aug 2022 08:58:21 GMT</pubDate>
-            <description><![CDATA[Ask HN: Whats New in Lattice QCD?]]></description>
         </item>
     </channel>
 </rss>
