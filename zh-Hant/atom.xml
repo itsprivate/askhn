@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T21:01:10.720Z</updated>
+    <updated>2022-08-23T21:59:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼非洲的機票這麼貴？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32571992</id>
+        <link href="https://news.ycombinator.com/item?id=32571992"/>
+        <updated>2022-08-23T21:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is airfare so expensive in Africa?]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你遇到過哪些設計最好的個人博客？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iloverss</name>
             <uri>https://news.ycombinator.com/user?id=iloverss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年有哪些最好的網絡搜刮工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409632</id>
-        <link href="https://news.ycombinator.com/item?id=32409632"/>
-        <updated>2022-08-10T09:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best tools for web scraping in 2022?]]></summary>
-        <author>
-            <name>pablohoffman</name>
-            <uri>https://news.ycombinator.com/user?id=pablohoffman</uri>
         </author>
     </entry>
 </feed>
