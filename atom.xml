@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T17:59:10.694Z</updated>
+    <updated>2022-08-23T18:57:46.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌上的 "汽车贷款计算器 "工具怎么了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32569246</id>
+        <link href="https://news.ycombinator.com/item?id=32569246"/>
+        <updated>2022-08-23T18:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happened to the “car loan calculator” tool on Google?]]></summary>
+        <author>
+            <name>hypeatei</name>
+            <uri>https://news.ycombinator.com/user?id=hypeatei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将whirpool.net.au逆向工程成一个F/OSS网络应用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>plaguepilled</name>
             <uri>https://news.ycombinator.com/user?id=plaguepilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人使用Basecamp吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409381</id>
-        <link href="https://news.ycombinator.com/item?id=32409381"/>
-        <updated>2022-08-10T08:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Anyone Use Basecamp?]]></summary>
-        <author>
-            <name>for_i_in_range</name>
-            <uri>https://news.ycombinator.com/user?id=for_i_in_range</uri>
         </author>
     </entry>
 </feed>
