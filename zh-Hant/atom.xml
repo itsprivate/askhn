@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T14:34:06.675Z</updated>
+    <updated>2022-08-23T15:00:24.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何對兩個對話者之間的郵件進行加密？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565681</id>
+        <link href="https://news.ycombinator.com/item?id=32565681"/>
+        <updated>2022-08-23T14:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to encrypt a mail between two interlocutors?]]></summary>
+        <author>
+            <name>eimrine</name>
+            <uri>https://news.ycombinator.com/user?id=eimrine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何處理你的Slack頻道中的混亂情況？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565658</id>
+        <link href="https://news.ycombinator.com/item?id=32565658"/>
+        <updated>2022-08-23T14:45:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you handle the chaos in your Slack channels?]]></summary>
+        <author>
+            <name>vox_nihili</name>
+            <uri>https://news.ycombinator.com/user?id=vox_nihili</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你怎麼稱呼你的電腦朋友？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>LZ_Khan</name>
             <uri>https://news.ycombinator.com/user?id=LZ_Khan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是誰做出了不允許HN Mar-a-Lago報道或討論的決定？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32406094</id>
-        <link href="https://news.ycombinator.com/item?id=32406094"/>
-        <updated>2022-08-09T23:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who made the decision not to allow HN Mar-a-Lago stories or discussion?]]></summary>
-        <author>
-            <name>tamaharbor</name>
-            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在啟動前是否清理你的網絡數據？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32405584</id>
-        <link href="https://news.ycombinator.com/item?id=32405584"/>
-        <updated>2022-08-09T22:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you clean your web data before launching?]]></summary>
-        <author>
-            <name>frozencell</name>
-            <uri>https://news.ycombinator.com/user?id=frozencell</uri>
         </author>
     </entry>
 </feed>
