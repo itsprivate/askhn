@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T13:53:47.931Z</updated>
+    <updated>2022-08-23T14:34:06.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎麼稱呼你的電腦朋友？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565383</id>
+        <link href="https://news.ycombinator.com/item?id=32565383"/>
+        <updated>2022-08-23T14:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you call your computer friend?]]></summary>
+        <author>
+            <name>JoeAltmaier</name>
+            <uri>https://news.ycombinator.com/user?id=JoeAltmaier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何組織或重命名pdf文件（書籍、論文等）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565059</id>
+        <link href="https://news.ycombinator.com/item?id=32565059"/>
+        <updated>2022-08-23T14:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you organize or rename pdf files (books, papers, etc.)?]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[默認情況下，多對多的關係，這是個好策略嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何處理申請工作時的潛在歧視問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32404961</id>
-        <link href="https://news.ycombinator.com/item?id=32404961"/>
-        <updated>2022-08-09T22:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to deal with potential discrimination when applying for job]]></summary>
-        <author>
-            <name>twohaibei</name>
-            <uri>https://news.ycombinator.com/user?id=twohaibei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些有趣的可視化編程的例子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32404664</id>
-        <link href="https://news.ycombinator.com/item?id=32404664"/>
-        <updated>2022-08-09T21:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are some interesting examples of visual programming?]]></summary>
-        <author>
-            <name>kaveh808</name>
-            <uri>https://news.ycombinator.com/user?id=kaveh808</uri>
         </author>
     </entry>
 </feed>
