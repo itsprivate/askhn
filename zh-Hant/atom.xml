@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T07:35:37.715Z</updated>
+    <updated>2022-08-23T09:02:22.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我不應該建立一個為本地開發贈送SSL證書的網站？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562134</id>
+        <link href="https://news.ycombinator.com/item?id=32562134"/>
+        <updated>2022-08-23T08:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why shouldn't I setup a site that gives away SSL certs for local dev?]]></summary>
+        <author>
+            <name>mrmattyboy</name>
+            <uri>https://news.ycombinator.com/user?id=mrmattyboy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保持軟件基質健康和最新的打包服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562068</id>
+        <link href="https://news.ycombinator.com/item?id=32562068"/>
+        <updated>2022-08-23T08:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Package service to keep software substrate healthy and up to date]]></summary>
+        <author>
+            <name>iot_devs</name>
+            <uri>https://news.ycombinator.com/user?id=iot_devs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S3是如何工作的？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>porknubbins</name>
             <uri>https://news.ycombinator.com/user?id=porknubbins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰能提供一個關於DAC熱力學的概述？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32401798</id>
-        <link href="https://news.ycombinator.com/item?id=32401798"/>
-        <updated>2022-08-09T18:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can someone provide an overview of the thermodynamics of DAC?]]></summary>
-        <author>
-            <name>DietaryNonsense</name>
-            <uri>https://news.ycombinator.com/user?id=DietaryNonsense</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人在Twitter上遇到麻煩嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32401665</id>
-        <link href="https://news.ycombinator.com/item?id=32401665"/>
-        <updated>2022-08-09T18:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else having trouble with Twitter?]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
