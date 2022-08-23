@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T15:52:57.602Z</updated>
+    <updated>2022-08-23T16:49:41.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[審查創業想法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567405</id>
+        <link href="https://news.ycombinator.com/item?id=32567405"/>
+        <updated>2022-08-23T16:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Review Startup Idea]]></summary>
+        <author>
+            <name>hammadn</name>
+            <uri>https://news.ycombinator.com/user?id=hammadn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的數據科學團隊用什麼來管理項目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32566900</id>
+        <link href="https://news.ycombinator.com/item?id=32566900"/>
+        <updated>2022-08-23T16:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What does your data-science team use for project management?]]></summary>
+        <author>
+            <name>krishadi</name>
+            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將iPad應用轉化為網站的服務？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32566524</id>
+        <link href="https://news.ycombinator.com/item?id=32566524"/>
+        <updated>2022-08-23T15:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Service to Transform iPad App to Website?]]></summary>
+        <author>
+            <name>jman8</name>
+            <uri>https://news.ycombinator.com/user?id=jman8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你還在使用Docker嗎？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪裡可以得到Rust程序員的意見？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32408182</id>
-        <link href="https://news.ycombinator.com/item?id=32408182"/>
-        <updated>2022-08-10T05:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where may I get the opinions of Rust programmers?]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是差異化編程的最佳環境？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32408049</id>
-        <link href="https://news.ycombinator.com/item?id=32408049"/>
-        <updated>2022-08-10T05:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the best environments for differential programming?]]></summary>
-        <author>
-            <name>pc2g4d</name>
-            <uri>https://news.ycombinator.com/user?id=pc2g4d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何成為優秀的競爭性編程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32407960</id>
-        <link href="https://news.ycombinator.com/item?id=32407960"/>
-        <updated>2022-08-10T04:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you become good at competitive programming]]></summary>
-        <author>
-            <name>Sparkenstein</name>
-            <uri>https://news.ycombinator.com/user?id=Sparkenstein</uri>
         </author>
     </entry>
 </feed>
