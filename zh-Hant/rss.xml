@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 23 Aug 2022 05:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 06:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在想什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32560869</link>
+            <guid>https://news.ycombinator.com/item?id=32560869</guid>
+            <pubDate>Tue, 23 Aug 2022 05:46:13 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's Been on Your Mind?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什麼時候使用弱隨機數生成器是安全的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32560865</link>
+            <guid>https://news.ycombinator.com/item?id=32560865</guid>
+            <pubDate>Tue, 23 Aug 2022 05:45:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: When it is safe to use weak random number generators?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否應該認真對待 "沒有副業 "的政策？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32560740</link>
+            <guid>https://news.ycombinator.com/item?id=32560740</guid>
+            <pubDate>Tue, 23 Aug 2022 05:21:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: Should a 'no side projects' policy be taken seriously?]]></description>
+        </item>
         <item>
             <title><![CDATA[灣區哪裡有早期的初創企業和創業者？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32400443</guid>
             <pubDate>Tue, 09 Aug 2022 16:52:23 GMT</pubDate>
             <description><![CDATA[Ask HN: What are the current limits for file indexers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Django管理的最佳附加組件？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32400401</link>
-            <guid>https://news.ycombinator.com/item?id=32400401</guid>
-            <pubDate>Tue, 09 Aug 2022 16:49:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best Addons for Django Admin?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Mac用戶使用Chrome而不是Safari？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32399933</link>
-            <guid>https://news.ycombinator.com/item?id=32399933</guid>
-            <pubDate>Tue, 09 Aug 2022 16:15:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do Mac users use Chrome not Safari?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有誰沒有賣過設計衝刺，試過設計衝刺嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32399312</link>
-            <guid>https://news.ycombinator.com/item?id=32399312</guid>
-            <pubDate>Tue, 09 Aug 2022 15:28:50 GMT</pubDate>
-            <description><![CDATA[Ask HN: Has anyone not selling Design Sprints tried a design sprint?]]></description>
         </item>
     </channel>
 </rss>
