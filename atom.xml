@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T17:43:49.907Z</updated>
+    <updated>2022-08-23T17:59:10.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将whirpool.net.au逆向工程成一个F/OSS网络应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568386</id>
+        <link href="https://news.ycombinator.com/item?id=32568386"/>
+        <updated>2022-08-23T17:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Reverse engineering whirpool.net.au into a F/OSS web app]]></summary>
+        <author>
+            <name>SaulJLH</name>
+            <uri>https://news.ycombinator.com/user?id=SaulJLH</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何指导承包商正确使用Git分支和拉动请求？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568328</id>
+        <link href="https://news.ycombinator.com/item?id=32568328"/>
+        <updated>2022-08-23T17:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to guide contractor to properly use Git branches and pull requests?]]></summary>
+        <author>
+            <name>kfarr</name>
+            <uri>https://news.ycombinator.com/user?id=kfarr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你发现的克服焦虑的最佳自助资源是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>for_i_in_range</name>
             <uri>https://news.ycombinator.com/user?id=for_i_in_range</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们相信的最愚蠢的谎言是什么？(不做评判)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409138</id>
-        <link href="https://news.ycombinator.com/item?id=32409138"/>
-        <updated>2022-08-10T08:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s the stupidest lie people believe? (no judgement)]]></summary>
-        <author>
-            <name>what-imright</name>
-            <uri>https://news.ycombinator.com/user?id=what-imright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于开发者来说，哪些是好的discord服务器？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32408448</id>
-        <link href="https://news.ycombinator.com/item?id=32408448"/>
-        <updated>2022-08-10T06:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which are the good discord servers for developers?]]></summary>
-        <author>
-            <name>yogini</name>
-            <uri>https://news.ycombinator.com/user?id=yogini</uri>
         </author>
     </entry>
 </feed>
