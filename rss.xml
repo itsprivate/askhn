@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 15:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你还在使用Docker吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32566444</link>
+            <guid>https://news.ycombinator.com/item?id=32566444</guid>
+            <pubDate>Tue, 23 Aug 2022 15:34:56 GMT</pubDate>
+            <description><![CDATA[Ask HN: Do you still use Docker?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何对两个对话者之间的邮件进行加密？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32407960</guid>
             <pubDate>Wed, 10 Aug 2022 04:50:32 GMT</pubDate>
             <description><![CDATA[Ask HN: How do you become good at competitive programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你离开目前的职位，是否更难谈及高薪？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32406509</link>
-            <guid>https://news.ycombinator.com/item?id=32406509</guid>
-            <pubDate>Wed, 10 Aug 2022 00:31:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it harder to negotiate higher salary if you leave your current role?]]></description>
         </item>
     </channel>
 </rss>
