@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T19:58:11.215Z</updated>
+    <updated>2022-08-23T20:30:28.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果一個人必須為每項服務付費，那要花多少錢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32570976</id>
+        <link href="https://news.ycombinator.com/item?id=32570976"/>
+        <updated>2022-08-23T20:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How much would it cost if one had to pay for every service?]]></summary>
+        <author>
+            <name>sir_brickalot</name>
+            <uri>https://news.ycombinator.com/user?id=sir_brickalot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你要創業，會是什麼呢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32570836</id>
+        <link href="https://news.ycombinator.com/item?id=32570836"/>
+        <updated>2022-08-23T20:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: If you had to start a business, what would it be?]]></summary>
+        <author>
+            <name>smarri</name>
+            <uri>https://news.ycombinator.com/user?id=smarri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪種編程語言中感到最有成效？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>anivader</name>
             <uri>https://news.ycombinator.com/user?id=anivader</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在生產中使用JSON模式嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409452</id>
-        <link href="https://news.ycombinator.com/item?id=32409452"/>
-        <updated>2022-08-10T09:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use JSON Schema in production?]]></summary>
-        <author>
-            <name>mithunmanohar79</name>
-            <uri>https://news.ycombinator.com/user?id=mithunmanohar79</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[團隊從Nomad遷移到Kubernetes，是什麼推動了你們的遷移？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409415</id>
-        <link href="https://news.ycombinator.com/item?id=32409415"/>
-        <updated>2022-08-10T09:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Teams migrated from Nomad to Kubernetes,what pushed you to migrate?]]></summary>
-        <author>
-            <name>_shadi</name>
-            <uri>https://news.ycombinator.com/user?id=_shadi</uri>
         </author>
     </entry>
 </feed>
