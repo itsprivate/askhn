@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-23T09:31:51.856Z</updated>
+    <updated>2022-08-23T11:29:13.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DevSecOp工程師的職業道路是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32563099</id>
+        <link href="https://news.ycombinator.com/item?id=32563099"/>
+        <updated>2022-08-23T11:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the career path for DevSecOp engineer?]]></summary>
+        <author>
+            <name>dev_0</name>
+            <uri>https://news.ycombinator.com/user?id=dev_0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何撰寫規範？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32563000</id>
+        <link href="https://news.ycombinator.com/item?id=32563000"/>
+        <updated>2022-08-23T11:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to Write a Specification?]]></summary>
+        <author>
+            <name>nabi_nafio</name>
+            <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有興趣一起寫一本關於軟件設計/架構的書嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>noduerme</name>
             <uri>https://news.ycombinator.com/user?id=noduerme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像Buffer和Hootsuite這樣的平臺是如何被允許存在的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32403739</id>
-        <link href="https://news.ycombinator.com/item?id=32403739"/>
-        <updated>2022-08-09T20:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are platforms like Buffer and Hootsuite allowed to exist?]]></summary>
-        <author>
-            <name>cloudyporpoise</name>
-            <uri>https://news.ycombinator.com/user?id=cloudyporpoise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在FAANGs之一工作後，你接下來追求什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32403275</id>
-        <link href="https://news.ycombinator.com/item?id=32403275"/>
-        <updated>2022-08-09T19:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What did you pursue next after working at one of the FAANGs?]]></summary>
-        <author>
-            <name>mdcds</name>
-            <uri>https://news.ycombinator.com/user?id=mdcds</uri>
         </author>
     </entry>
 </feed>
