@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 24 Aug 2022 15:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在GitHub/MS工作的开发者们，你们的团队是否使用或打算使用copilot？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32580954</link>
+            <guid>https://news.ycombinator.com/item?id=32580954</guid>
+            <pubDate>Wed, 24 Aug 2022 15:45:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: Devs working at GitHub/MS, does your team use copilot or intend to?]]></description>
+        </item>
         <item>
             <title><![CDATA[你要离开Heroku了吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32421243</guid>
             <pubDate>Thu, 11 Aug 2022 03:30:31 GMT</pubDate>
             <description><![CDATA[Ask HN: Returning to a Previous Job]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用OSM并有评论功能的谷歌地图替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32421092</link>
-            <guid>https://news.ycombinator.com/item?id=32421092</guid>
-            <pubDate>Thu, 11 Aug 2022 03:06:09 GMT</pubDate>
-            <description><![CDATA[Ask HN: Google Maps alternatives that uses OSM and has a review feature]]></description>
         </item>
     </channel>
 </rss>
