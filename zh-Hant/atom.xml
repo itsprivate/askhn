@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T09:49:57.629Z</updated>
+    <updated>2022-08-24T10:01:28.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年，誰使用LDAP，如何使用？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577125</id>
+        <link href="https://news.ycombinator.com/item?id=32577125"/>
+        <updated>2022-08-24T09:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who use LDAP in 2022 and how?]]></summary>
+        <author>
+            <name>wener</name>
+            <uri>https://news.ycombinator.com/user?id=wener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抗抑鬱藥對你的生活有什麼影響？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kadonoishi</name>
             <uri>https://news.ycombinator.com/user?id=kadonoishi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜在發貨日期上撒謊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32413860</id>
-        <link href="https://news.ycombinator.com/item?id=32413860"/>
-        <updated>2022-08-10T15:41:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Amazon lying about shipping dates?]]></summary>
-        <author>
-            <name>a-user-you-like</name>
-            <uri>https://news.ycombinator.com/user?id=a-user-you-like</uri>
         </author>
     </entry>
 </feed>
