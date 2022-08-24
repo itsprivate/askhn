@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T19:46:18.545Z</updated>
+    <updated>2022-08-24T20:00:03.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些編程語言有最好的文檔？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32584772</id>
+        <link href="https://news.ycombinator.com/item?id=32584772"/>
+        <updated>2022-08-24T19:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What programming languages have the best documentation?]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你學過的最無聊的科目是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwawaaaaay17</name>
             <uri>https://news.ycombinator.com/user?id=throwawaaaaay17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在讀什麼？ (2022年8月)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32424999</id>
-        <link href="https://news.ycombinator.com/item?id=32424999"/>
-        <updated>2022-08-11T13:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are you reading? (Aug 2022)]]></summary>
-        <author>
-            <name>chiefalchemist</name>
-            <uri>https://news.ycombinator.com/user?id=chiefalchemist</uri>
         </author>
     </entry>
 </feed>
