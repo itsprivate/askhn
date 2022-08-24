@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T21:28:48.904Z</updated>
+    <updated>2022-08-24T21:49:18.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太坊基金会真的不开发合并后的客户端吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32586172</id>
+        <link href="https://news.ycombinator.com/item?id=32586172"/>
+        <updated>2022-08-24T21:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does the Ethereum foundation really not develop a post-Merge client?]]></summary>
+        <author>
+            <name>RjQoLCOSwiIKfpm</name>
+            <uri>https://news.ycombinator.com/user?id=RjQoLCOSwiIKfpm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我们不能对 "X在招聘 "的帖子发表评论？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dezeiner</name>
             <uri>https://news.ycombinator.com/user?id=dezeiner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有任何多云存储聚合公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32426700</id>
-        <link href="https://news.ycombinator.com/item?id=32426700"/>
-        <updated>2022-08-11T14:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there any multi-cloud storage aggregator company?]]></summary>
-        <author>
-            <name>skid_dancer</name>
-            <uri>https://news.ycombinator.com/user?id=skid_dancer</uri>
         </author>
     </entry>
 </feed>
