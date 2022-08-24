@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T10:01:28.211Z</updated>
+    <updated>2022-08-24T10:54:42.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼食物/飲食變化改變了生活？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577375</id>
+        <link href="https://news.ycombinator.com/item?id=32577375"/>
+        <updated>2022-08-24T10:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What food/diet change has been life changing?]]></summary>
+        <author>
+            <name>bsbechtel</name>
+            <uri>https://news.ycombinator.com/user?id=bsbechtel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於CPU密集型TensorFlow的筆記本電腦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577332</id>
+        <link href="https://news.ycombinator.com/item?id=32577332"/>
+        <updated>2022-08-24T10:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Laptop for CPU-Intensive TensorFlow]]></summary>
+        <author>
+            <name>plg</name>
+            <uri>https://news.ycombinator.com/user?id=plg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，誰使用LDAP，如何使用？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建法律文件條款數據庫的最佳方式是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32414564</id>
-        <link href="https://news.ycombinator.com/item?id=32414564"/>
-        <updated>2022-08-10T16:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best way to create a database for legal document clauses?]]></summary>
-        <author>
-            <name>padheyam</name>
-            <uri>https://news.ycombinator.com/user?id=padheyam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有可能創造出紫外光布的染料
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32414069</id>
-        <link href="https://news.ycombinator.com/item?id=32414069"/>
-        <updated>2022-08-10T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is it possible to create ultraviolet cloth dyes]]></summary>
-        <author>
-            <name>kadonoishi</name>
-            <uri>https://news.ycombinator.com/user?id=kadonoishi</uri>
         </author>
     </entry>
 </feed>
