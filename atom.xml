@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T04:29:06.103Z</updated>
+    <updated>2022-08-24T05:39:45.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的网络欺诈有哪些痛点
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32575248</id>
+        <link href="https://news.ycombinator.com/item?id=32575248"/>
+        <updated>2022-08-24T05:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What pain points are there with online fraud in 2022]]></summary>
+        <author>
+            <name>justinsoong</name>
+            <uri>https://news.ycombinator.com/user?id=justinsoong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有什么东西是你多年来不断努力的吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>galogon</name>
             <uri>https://news.ycombinator.com/user?id=galogon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对我本人进行24/7的录音？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32411936</id>
-        <link href="https://news.ycombinator.com/item?id=32411936"/>
-        <updated>2022-08-10T13:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: 24/7 audio recording on my person?]]></summary>
-        <author>
-            <name>jhylands</name>
-            <uri>https://news.ycombinator.com/user?id=jhylands</uri>
         </author>
     </entry>
 </feed>
