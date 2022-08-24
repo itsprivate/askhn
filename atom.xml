@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T10:54:42.418Z</updated>
+    <updated>2022-08-24T11:27:57.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[充斥在网络上的AI生成的图像会不会污染未来的训练数据？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577822</id>
+        <link href="https://news.ycombinator.com/item?id=32577822"/>
+        <updated>2022-08-24T11:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Will AI-generated images flooding the web pollute future training data?]]></summary>
+        <author>
+            <name>albert_e</name>
+            <uri>https://news.ycombinator.com/user?id=albert_e</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当应用程序在营业时间外关闭时，有成熟的工具可以使用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577609</id>
+        <link href="https://news.ycombinator.com/item?id=32577609"/>
+        <updated>2022-08-24T10:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Mature tools for availability when app shutdown outside of buisness hour]]></summary>
+        <author>
+            <name>azebazenestor</name>
+            <uri>https://news.ycombinator.com/user?id=azebazenestor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么食物/饮食变化改变了生活？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于C++的Python包装器，我应该从CamelCase到snake_case吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415723</id>
-        <link href="https://news.ycombinator.com/item?id=32415723"/>
-        <updated>2022-08-10T17:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should I go from CamelCase to snake_case for Python wrappers for C++?]]></summary>
-        <author>
-            <name>aleclm</name>
-            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAID-1内存系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415320</id>
-        <link href="https://news.ycombinator.com/item?id=32415320"/>
-        <updated>2022-08-10T17:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: RAID-1 Memory System]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>

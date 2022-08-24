@@ -4,7 +4,7 @@
         <title>👋 Ask HN!</title>
         <link>https://askhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Ask HN 最新提问</description>
-        <lastBuildDate>Wed, 24 Aug 2022 10:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://askhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[充斥在網絡上的AI生成的圖像會不會汙染未來的訓練數據？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32577822</link>
+            <guid>https://news.ycombinator.com/item?id=32577822</guid>
+            <pubDate>Wed, 24 Aug 2022 11:15:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Will AI-generated images flooding the web pollute future training data?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[當應用程序在營業時間外關閉時，有成熟的工具可以使用。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32577609</link>
+            <guid>https://news.ycombinator.com/item?id=32577609</guid>
+            <pubDate>Wed, 24 Aug 2022 10:50:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: Mature tools for availability when app shutdown outside of buisness hour]]></description>
+        </item>
         <item>
             <title><![CDATA[什麼食物/飲食變化改變了生活？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32415743</guid>
             <pubDate>Wed, 10 Aug 2022 17:38:15 GMT</pubDate>
             <description><![CDATA[Ask HN: Why don't open app indicators in dock get bright with high energy usage?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對於C++的Python包裝器，我應該從CamelCase到snake_case嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32415723</link>
-            <guid>https://news.ycombinator.com/item?id=32415723</guid>
-            <pubDate>Wed, 10 Aug 2022 17:37:02 GMT</pubDate>
-            <description><![CDATA[Ask HN: Should I go from CamelCase to snake_case for Python wrappers for C++?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RAID-1內存系統
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32415320</link>
-            <guid>https://news.ycombinator.com/item?id=32415320</guid>
-            <pubDate>Wed, 10 Aug 2022 17:08:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: RAID-1 Memory System]]></description>
         </item>
     </channel>
 </rss>
