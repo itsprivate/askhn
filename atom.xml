@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T20:00:03.878Z</updated>
+    <updated>2022-08-24T20:32:58.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么 "Rust "编程语言会有这样的名字？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32585149</id>
+        <link href="https://news.ycombinator.com/item?id=32585149"/>
+        <updated>2022-08-24T20:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why was the “Rust” programming language named like that?]]></summary>
+        <author>
+            <name>zepearl</name>
+            <uri>https://news.ycombinator.com/user?id=zepearl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些编程语言有最好的文档？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rschachte</name>
             <uri>https://news.ycombinator.com/user?id=rschachte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何卖出去的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32425155</id>
-        <link href="https://news.ycombinator.com/item?id=32425155"/>
-        <updated>2022-08-11T13:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you sell out?]]></summary>
-        <author>
-            <name>throwawaaaaay17</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaaaaay17</uri>
         </author>
     </entry>
 </feed>
