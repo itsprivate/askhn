@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T09:01:30.023Z</updated>
+    <updated>2022-08-24T09:49:57.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抗抑鬱藥對你的生活有什麼影響？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32576971</id>
+        <link href="https://news.ycombinator.com/item?id=32576971"/>
+        <updated>2022-08-24T09:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How have antidepressants affected your life?]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[廣告攔截器是否在瀏覽器中使用CSP機制？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>a-user-you-like</name>
             <uri>https://news.ycombinator.com/user?id=a-user-you-like</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼一個房間裡沒有無限多的蒼蠅？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32413766</id>
-        <link href="https://news.ycombinator.com/item?id=32413766"/>
-        <updated>2022-08-10T15:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why there are no infinite number of flies in a room?]]></summary>
-        <author>
-            <name>iforgetlogins01</name>
-            <uri>https://news.ycombinator.com/user?id=iforgetlogins01</uri>
         </author>
     </entry>
 </feed>
