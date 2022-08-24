@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T17:11:33.415Z</updated>
+    <updated>2022-08-24T18:02:30.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Covid通過辦公室傳播仍然是一個問題嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582978</id>
+        <link href="https://news.ycombinator.com/item?id=32582978"/>
+        <updated>2022-08-24T17:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Covid spreading through offices still a problem?]]></summary>
+        <author>
+            <name>sharemywin</name>
+            <uri>https://news.ycombinator.com/user?id=sharemywin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否使用任何工具/服務來幫助你的學習？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rblion</name>
             <uri>https://news.ycombinator.com/user?id=rblion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼允許遠程的公司要支付20萬美元，而他們可以支付5萬美元？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32422614</id>
-        <link href="https://news.ycombinator.com/item?id=32422614"/>
-        <updated>2022-08-11T07:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do companies that allow remote pay $200k when they can pay $50k?]]></summary>
-        <author>
-            <name>y1426i</name>
-            <uri>https://news.ycombinator.com/user?id=y1426i</uri>
         </author>
     </entry>
 </feed>
