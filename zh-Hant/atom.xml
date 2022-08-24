@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T08:37:05.588Z</updated>
+    <updated>2022-08-24T09:01:30.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[廣告攔截器是否在瀏覽器中使用CSP機制？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32576594</id>
+        <link href="https://news.ycombinator.com/item?id=32576594"/>
+        <updated>2022-08-24T08:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are adblocker using CSP mechanics in the browser?]]></summary>
+        <author>
+            <name>baquero</name>
+            <uri>https://news.ycombinator.com/user?id=baquero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特 "永久暫停"，沒有任何理由。發生了什麼事？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iforgetlogins01</name>
             <uri>https://news.ycombinator.com/user?id=iforgetlogins01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3能為一首熱門歌曲寫歌詞嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32413671</id>
-        <link href="https://news.ycombinator.com/item?id=32413671"/>
-        <updated>2022-08-10T15:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Can GPT-3 write lyrics for a hit song?]]></summary>
-        <author>
-            <name>anon115</name>
-            <uri>https://news.ycombinator.com/user?id=anon115</uri>
         </author>
     </entry>
 </feed>
