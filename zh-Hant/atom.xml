@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T20:32:58.915Z</updated>
+    <updated>2022-08-24T21:28:48.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們不能對 "X在招聘 "的帖子發表評論？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32585801</id>
+        <link href="https://news.ycombinator.com/item?id=32585801"/>
+        <updated>2022-08-24T21:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't we comment on “X is Hiring” posts?]]></summary>
+        <author>
+            <name>dgs_sgd</name>
+            <uri>https://news.ycombinator.com/user?id=dgs_sgd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼 "Rust "編程語言會有這樣的名字？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>skid_dancer</name>
             <uri>https://news.ycombinator.com/user?id=skid_dancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何有效地使用Anki進行間隔性重複學習？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32426511</id>
-        <link href="https://news.ycombinator.com/item?id=32426511"/>
-        <updated>2022-08-11T14:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to use Anki effectively for spaced repetition learning?]]></summary>
-        <author>
-            <name>rschachte</name>
-            <uri>https://news.ycombinator.com/user?id=rschachte</uri>
         </author>
     </entry>
 </feed>
