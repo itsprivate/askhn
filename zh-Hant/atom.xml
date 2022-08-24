@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T14:49:01.779Z</updated>
+    <updated>2022-08-24T15:34:58.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你要離開Heroku了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580597</id>
+        <link href="https://news.ycombinator.com/item?id=32580597"/>
+        <updated>2022-08-24T15:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are You Leaving Heroku?]]></summary>
+        <author>
+            <name>seancoleman</name>
+            <uri>https://news.ycombinator.com/user?id=seancoleman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinboard發生了什麼（8月22日版）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580491</id>
+        <link href="https://news.ycombinator.com/item?id=32580491"/>
+        <updated>2022-08-24T15:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Pinboard (August '22 edition)?]]></summary>
+        <author>
+            <name>tsg</name>
+            <uri>https://news.ycombinator.com/user?id=tsg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌是否僱傭了比蘋果更好的軟件工程師？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rd07</name>
             <uri>https://news.ycombinator.com/user?id=rd07</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個人的什麼品質最不利於成功？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32420628</id>
-        <link href="https://news.ycombinator.com/item?id=32420628"/>
-        <updated>2022-08-11T01:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What quality in a person is the most detrimental to success?]]></summary>
-        <author>
-            <name>what-imright</name>
-            <uri>https://news.ycombinator.com/user?id=what-imright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2008年經濟衰退時的人們
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32419182</id>
-        <link href="https://news.ycombinator.com/item?id=32419182"/>
-        <updated>2022-08-10T22:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Folks who were around the 2008 Recession]]></summary>
-        <author>
-            <name>romeros</name>
-            <uri>https://news.ycombinator.com/user?id=romeros</uri>
         </author>
     </entry>
 </feed>
