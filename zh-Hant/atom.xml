@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T11:27:58.021Z</updated>
+    <updated>2022-08-24T13:00:45.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的Ubuntu筆記本電腦必須具備的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578691</id>
+        <link href="https://news.ycombinator.com/item?id=32578691"/>
+        <updated>2022-08-24T12:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Must have tools for a new Ubuntu laptop]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你理想的職業社交網絡是什麼樣子的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578189</id>
+        <link href="https://news.ycombinator.com/item?id=32578189"/>
+        <updated>2022-08-24T11:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What would your ideal professional social network look like?]]></summary>
+        <author>
+            <name>stefanvdw1</name>
+            <uri>https://news.ycombinator.com/user?id=stefanvdw1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是否使用.NET來編寫跨平臺的桌面或移動應用程序？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578178</id>
+        <link href="https://news.ycombinator.com/item?id=32578178"/>
+        <updated>2022-08-24T11:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are you using .NET to write cross-platform desktop or mobile apps?]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業工程博客是否讓你想加入公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577984</id>
+        <link href="https://news.ycombinator.com/item?id=32577984"/>
+        <updated>2022-08-24T11:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has a corporate engineering blog made you want to join the company?]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[充斥在網絡上的AI生成的圖像會不會汙染未來的訓練數據？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>gnicholas</name>
             <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[產品引領成長的項目經理，網絡和教育？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32416465</id>
-        <link href="https://news.ycombinator.com/item?id=32416465"/>
-        <updated>2022-08-10T18:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Product led growth project managers, networking and education?]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於創業公司的網站來說，顯示客戶的標識，需要得到許可嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32416402</id>
-        <link href="https://news.ycombinator.com/item?id=32416402"/>
-        <updated>2022-08-10T18:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: For a startup website to show customer logos, do you need permission?]]></summary>
-        <author>
-            <name>notabanker</name>
-            <uri>https://news.ycombinator.com/user?id=notabanker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是雅虎嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415827</id>
-        <link href="https://news.ycombinator.com/item?id=32415827"/>
-        <updated>2022-08-10T17:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do You Yahoo?]]></summary>
-        <author>
-            <name>themodelplumber</name>
-            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼在高能耗的情況下，Dock中打開的應用指示燈不會變亮？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415743</id>
-        <link href="https://news.ycombinator.com/item?id=32415743"/>
-        <updated>2022-08-10T17:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't open app indicators in dock get bright with high energy usage?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
