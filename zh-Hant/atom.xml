@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T16:45:17.097Z</updated>
+    <updated>2022-08-24T17:11:33.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用任何工具/服務來幫助你的學習？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582080</id>
+        <link href="https://news.ycombinator.com/item?id=32582080"/>
+        <updated>2022-08-24T16:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you use any tools/services to help with your learning?]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你最近遇到的與工作有關的挫折是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32581931</id>
+        <link href="https://news.ycombinator.com/item?id=32581931"/>
+        <updated>2022-08-24T16:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your most recent work-related frustration?]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有用的、新穎的、但很明顯的例子
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>y1426i</name>
             <uri>https://news.ycombinator.com/user?id=y1426i</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於黑客來說，HN的替代品是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32422387</id>
-        <link href="https://news.ycombinator.com/item?id=32422387"/>
-        <updated>2022-08-11T06:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the alternatives of HN for hackers?]]></summary>
-        <author>
-            <name>Fendy</name>
-            <uri>https://news.ycombinator.com/user?id=Fendy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何以最佳方式向半技術/精通數量的聽眾展示？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32421971</id>
-        <link href="https://news.ycombinator.com/item?id=32421971"/>
-        <updated>2022-08-11T05:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to best present to semi tech/quant-savvy audience?]]></summary>
-        <author>
-            <name>bojangleslover</name>
-            <uri>https://news.ycombinator.com/user?id=bojangleslover</uri>
         </author>
     </entry>
 </feed>
