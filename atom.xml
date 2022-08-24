@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-24T14:33:13.490Z</updated>
+    <updated>2022-08-24T14:49:01.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌是否雇佣了比苹果更好的软件工程师？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580038</id>
+        <link href="https://news.ycombinator.com/item?id=32580038"/>
+        <updated>2022-08-24T14:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does Google employ better software engineers than Apple?]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊锁定我的账户，不接受我的银行账单
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>romeros</name>
             <uri>https://news.ycombinator.com/user?id=romeros</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成为司仪需要哪些技能和/或软件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32418808</id>
-        <link href="https://news.ycombinator.com/item?id=32418808"/>
-        <updated>2022-08-10T21:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What are the skills and/or software(s) required to become an emcee?]]></summary>
-        <author>
-            <name>sprkv5</name>
-            <uri>https://news.ycombinator.com/user?id=sprkv5</uri>
         </author>
     </entry>
 </feed>
