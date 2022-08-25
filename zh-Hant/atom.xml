@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-25T09:03:32.147Z</updated>
+    <updated>2022-08-25T09:52:04.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些是對認知能力要求較高的工作，涉及體力活動？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32591442</id>
+        <link href="https://news.ycombinator.com/item?id=32591442"/>
+        <updated>2022-08-25T09:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are cognitively demanding Jobs that involve physical activity?]]></summary>
+        <author>
+            <name>werzum</name>
+            <uri>https://news.ycombinator.com/user?id=werzum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你用多餘的電腦和存儲空間做什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rblion</name>
             <uri>https://news.ycombinator.com/user?id=rblion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS應用程序如何知道你已登錄到其他應用程序？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32433659</id>
-        <link href="https://news.ycombinator.com/item?id=32433659"/>
-        <updated>2022-08-12T00:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do iOS apps know you're logged into other apps?]]></summary>
-        <author>
-            <name>slimebot80</name>
-            <uri>https://news.ycombinator.com/user?id=slimebot80</uri>
         </author>
     </entry>
 </feed>
