@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-25T09:52:04.802Z</updated>
+    <updated>2022-08-25T10:35:16.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是做快速的通才好还是做缓慢的专家好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32591617</id>
+        <link href="https://news.ycombinator.com/item?id=32591617"/>
+        <updated>2022-08-25T09:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it better to be quick generalist or a slow specialist?]]></summary>
+        <author>
+            <name>mouzogu</name>
+            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些是对认知能力要求较高的工作，涉及体力活动？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bluedays</name>
             <uri>https://news.ycombinator.com/user?id=bluedays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为埃隆会对X.com做什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32434236</id>
-        <link href="https://news.ycombinator.com/item?id=32434236"/>
-        <updated>2022-08-12T02:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you think Elon will do with X.com?]]></summary>
-        <author>
-            <name>rblion</name>
-            <uri>https://news.ycombinator.com/user?id=rblion</uri>
         </author>
     </entry>
 </feed>
