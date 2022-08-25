@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askhn.buzzing.cc</id>
     <title>👋 Ask HN!</title>
-    <updated>2022-08-25T07:10:00.280Z</updated>
+    <updated>2022-08-25T09:03:32.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://askhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你用多余的电脑和存储空间做什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32591292</id>
+        <link href="https://news.ycombinator.com/item?id=32591292"/>
+        <updated>2022-08-25T08:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What do you use excess computer and storage for?]]></summary>
+        <author>
+            <name>samsquire</name>
+            <uri>https://news.ycombinator.com/user?id=samsquire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有任何Perl单行程序分享网站？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32591263</id>
+        <link href="https://news.ycombinator.com/item?id=32591263"/>
+        <updated>2022-08-25T08:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any Perl one-liner sharing website?]]></summary>
+        <author>
+            <name>huyna</name>
+            <uri>https://news.ycombinator.com/user?id=huyna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何找到一份编译器工程师的工作？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>slimebot80</name>
             <uri>https://news.ycombinator.com/user?id=slimebot80</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜欢计算机科学但不喜欢工程的人的好工作？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32433414</id>
-        <link href="https://news.ycombinator.com/item?id=32433414"/>
-        <updated>2022-08-12T00:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good jobs for those who like Computer Science but dislike Engineering?]]></summary>
-        <author>
-            <name>askn</name>
-            <uri>https://news.ycombinator.com/user?id=askn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是最简单的方法来存储从登陆页面收集的电子邮件？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32433338</id>
-        <link href="https://news.ycombinator.com/item?id=32433338"/>
-        <updated>2022-08-12T00:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the simplest way to store email collected from a landing page?]]></summary>
-        <author>
-            <name>maxwelldone</name>
-            <uri>https://news.ycombinator.com/user?id=maxwelldone</uri>
         </author>
     </entry>
 </feed>
